@@ -149,6 +149,14 @@ DATE_PATCHES = [
     (2240, '<i>one single time</i>', '<i>une unique fois</i>'),  # 22=22 in-place — résout le bug Quest_34
     (4535, 'DC', 'DD'),                 # 2=2 in-place — DC1/DC2 etc. dans glossaire journal
 
+    # ---- Time of day + action verbs (smoke test passé 2026-05-19) ----
+    (5178, 'EVENING', 'SOIR'),          # 7>4 in-place
+    (7942, 'MORNING', 'MATIN'),         # 7>5 in-place
+    (8363, 'NIGHT', 'NUIT'),            # 5>4 in-place
+    (2441, 'AFTERNOON', 'TANTÔT'),      # 9>7 (Ô=2B) in-place
+    (2473, 'ASSASSINATIONS', 'ASSASSINATS'),  # 14>11 in-place
+    (9551, 'ROLL', 'JET'),              # 4>3 in-place (jet de dé)
+
     # ---- CONFIRMÉS CASSER LE JEU (à NE PAS patcher en metadata) ----
     # (7260, 'Inventory', 'Inventaire') — slots inventaire disparaissent (binding key)
     # (10499, 'Spells', 'Sorts') — Grimoire affiche "X SORTS" au lieu du compte

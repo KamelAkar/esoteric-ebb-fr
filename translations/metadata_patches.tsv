@@ -57,6 +57,13 @@ idx	english	french	notes
 4956	Difficulty Class	Difficulté	in-place 16>11 (é=2B)
 2240	<i>one single time</i>	<i>une unique fois</i>	in-place 22=22 (résout bug Quest_34)
 4535	DC	DD	in-place 2=2 (préfixe DC1/DC2 du glossaire journal)
+# === Time of day / action verbs (smoke test passé 2026-05-19) ===
+5178	EVENING	SOIR	in-place 7>4
+7942	MORNING	MATIN	in-place 7>5
+8363	NIGHT	NUIT	in-place 5>4
+2441	AFTERNOON	TANTÔT	in-place 9>7 (Ô=2B)
+2473	ASSASSINATIONS	ASSASSINATS	in-place 14>11
+9551	ROLL	JET	in-place 4>3 (jet de dé)
 # === CONFIRMÉS BROKEN (à NE PAS patcher) ===
 # 7260	Inventory	Inventaire	→ slots inventaire disparaissent
 # 10499	Spells	Sorts	→ Grimoire affiche "X SORTS" au lieu de compte
