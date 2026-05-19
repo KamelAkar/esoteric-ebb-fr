@@ -110,6 +110,18 @@ DATE_PATCHES = [
     # (4502, 'Cure Wounds', 'Soins'),  # no-op visually — title comes from another source
     # (3925, 'Cantrip', 'Tour de magie'),  # breaks spellbook count — keep removed
 
+    # ---- Action verbs (interaction icons: dialog, eye, hand on world objects) ----
+    # Validated visually 2026-05-19 on temple stone interactable.
+    (3018, 'BEHOLD', 'VOIR'),           # 6>4 in-place
+    (3110, 'Behold', 'Voir'),           # 6>4 in-place
+    (5498, 'Examine', 'Examiner'),      # 7<8 REPOINT
+    (10914, 'TRIFLE', 'PIQUER'),        # 6=6 in-place
+    (12129, 'Trifle', 'Piquer'),        # 6=6 in-place
+    (5318, 'Engage', 'Parler'),         # 6=6 in-place (speech bubble action)
+    (7853, 'Look', 'Voir'),             # 4=4 in-place
+    (8948, 'Open', 'Ouvrir'),           # 4<6 REPOINT
+    (9592, 'Read', 'Lire'),             # 4=4 in-place
+
     # ---- Notification suffix ("' Added.") ----
     (752, '\' Added.', '\' reçu.'),
 

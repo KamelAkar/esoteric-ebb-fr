@@ -10,6 +10,12 @@ backups/global-metadata*
 *.bak
 *.tmp
 
+# Metadata dumps (regenerated from binary)
+metadata_strings/
+
+# Asset backups (binary, copyrighted)
+assets_backups/
+
 # Game files (we don't redistribute the unmodified game)
 game-files/
 

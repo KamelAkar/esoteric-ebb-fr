@@ -15,9 +15,10 @@ from pathlib import Path
 
 sys.stdout.reconfigure(encoding='utf-8')
 
+REPO_ROOT = Path(__file__).resolve().parent.parent
 GAME_DATA = Path(r"C:\Program Files (x86)\Steam\steamapps\common\Esoteric Ebb\Esoteric Ebb_Data")
-BACKUP_DIR = Path(r"C:\Users\Ravnow\Documents\esoteric-ebb-fr\assets_backups")
-BACKUP_DIR.mkdir(exist_ok=True)
+BACKUP_DIR = REPO_ROOT / "assets_backups"
+BACKUP_DIR.mkdir(parents=True, exist_ok=True)
 
 # Faction display name translations
 # Format: (english_bytes, french_bytes) — french MUST be ≤ english in byte length
