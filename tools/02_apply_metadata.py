@@ -172,6 +172,29 @@ DATE_PATCHES = [
     (4738, 'Day ', 'Jour '),            # 4<5 repoint — format "Day N" -> "Jour N"
     (4739, 'Day 1', 'Jour 1'),          # 5<6 repoint — préview save day 1 spécifique
 
+    # ---- Level format (similaire à Day, idx 7734 'Level ' safe) ----
+    (7734, 'Level ', 'Niveau '),        # 6<7 repoint — HUD "Lv X Cleric"
+
+    # ---- Dialogues narrateur Cleric ----
+    (13586, '[Lone Cleric] ', '[Seul Clerc] '),
+    (13630, '[The Cleric] ', '[Le Clerc] '),
+    (13631, '[The Cleric] Rolled ', '[Le Clerc] Lance '),
+    (2238, '<i>Morning</i>, Cleric.', '<i>Matin</i>, Clerc.'),
+    (2788, 'Appreciate it, Cleric.', 'Merci, Clerc.'),
+    (7533, 'Keep that up, Cleric!', 'Continue, Clerc !'),
+    (11053, 'Thank you, Cleric.', 'Merci, Clerc.'),
+
+    # ---- Tooltips Grimoire (3 hovers : Sorts Collectés/Préparés/Difficulté Sort) ----
+    (11268,
+     'The amount of spells in your spellbook. You can gain more by collecting and memorizing spell scrolls.',
+     'Le nombre de sorts en votre grimoire. Acquérez-en plus en collectant et mémorisant des parchemins.'),
+    (11269,
+     'The amount of spells you currently have prepared. You can prepare spells by visiting a shrine at any time.\n\n The amount you can prepare is: 2 + your class level + your intelligence modifier.',
+     "Le nombre de sorts actuellement préparés. Vous pouvez préparer vos sorts à un autel à tout moment.\n\n Le nombre maximum : 2 + niveau de classe + modificateur d'Intelligence."),
+    (11902,
+     'This is the DC a target has to achieve when rolling a save against one of your spells. \n\n The DC is: 8 + your wisdom or intelligence modifier (whichever is highest) + your proficiency bonus.',
+     "C'est le DD qu'une cible doit atteindre pour résister à un de vos sorts. \n\n Le DD est : 8 + votre modificateur de Sagesse ou Intelligence (le plus haut) + votre bonus de maîtrise."),
+
     # ---- CONFIRMÉS CASSER LE JEU (à NE PAS patcher en metadata) ----
     # (7260, 'Inventory', 'Inventaire') — slots inventaire disparaissent (binding key)
     # (10499, 'Spells', 'Sorts') — Grimoire affiche "X SORTS" au lieu du compte
