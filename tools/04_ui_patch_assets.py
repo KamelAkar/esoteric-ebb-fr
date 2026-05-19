@@ -32,6 +32,9 @@ def slot_size(content_len):
 # (see tools/02_apply_metadata.py). Kept for reference but no-op here.
 PATCHES = [
     (b'Garden Apple', 'Pomme Jardin'),  # 16 → 16 ✓ (4+12+0 == 4+12+0) item display name
+    # ---- Sorts: TESTÉS et CASSANT le compteur Sorts Préparés/Tours/Sorts ----
+    # (b'Cure Wounds', 'Soin Plaies'),    # casse X placeholder dans Grimoire
+    # (b'Mage Hand', 'Main du Mage'),     # idem
 ]
 
 
