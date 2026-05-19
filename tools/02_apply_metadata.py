@@ -124,6 +124,17 @@ DATE_PATCHES = [
     (161, ' (Leave.)', ' (Partir.)'),   # 9<10 REPOINT — suffix des options de dialogue
     (7667, 'Leave', 'Partir'),          # 5<6 REPOINT — verbe d'action standalone
 
+    # ---- UI verbs (Back/Cancel/Cast/Hide/Next/No/Push/Throw) ----
+    # Patchés 2026-05-19, smoke test passé (jeu charge save sans crash).
+    (3045, 'Back', 'Retour'),           # 4<6 REPOINT
+    (3540, 'Cancel', 'Annuler'),        # 6<7 REPOINT
+    (3955, 'Cast', 'Lancer'),           # 4<6 REPOINT — lancer sort
+    (6469, 'Hide', 'Cacher'),           # 4<6 REPOINT
+    (8492, 'Next', 'Suivant'),          # 4<7 REPOINT
+    (8500, 'No', 'Non'),                # 2<3 REPOINT
+    (9463, 'Push', 'Pousser'),          # 4<7 REPOINT — pousser objet
+    (11967, 'Throw', 'Lancer'),         # 5<6 REPOINT — lancer combat
+
     # ---- Notification suffix ("' Added.") ----
     (752, '\' Added.', '\' reçu.'),
 
