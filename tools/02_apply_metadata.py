@@ -305,16 +305,16 @@ def patch_strings_section(raw, version, sOff, sSize):
         # Day/Level/Cleric retired — broke save preview earlier
         # ---- Journal section enum names (validés 2026-05-19, mêmes mécanique que stats) ----
         (b'City\0', 'Cite'),         # 4=4 (no accent to fit slot)
-        (b'Skills\0', 'Doués'),      # 6 UTF-8 fits 6
+        (b'Skills\0', 'Talent'),     # 6=6 (corrigé : 'Doués' n'avait pas le bon sens)
         (b'Folk\0', 'Gens'),         # 4=4
         (b'Esoterics\0', 'Mystères'),  # 9 UTF-8 fits 9
         (b'Geography\0', 'Régions'),   # 8 UTF-8 fits 9
-        (b'History\0', 'Histor.'),   # 7=7 (abbreviated)
+        (b'History\0', 'Annales'),   # 7=7 (corrigé : 'Histor.' était abrégé)
         (b'Language\0', 'Langue'),   # 6 fits 8
-        (b'Politics\0', 'Politiq.'), # 8=8 (abbreviated)
+        (b'Politics\0', 'Pouvoir'),  # 7 fits 8 (corrigé : 'Politiq.' était abrégé)
         (b'Religion\0', 'Religion'), # 8=8 same
         (b'Nature\0', 'Nature'),     # 6=6 same
-        (b'Literature\0', 'Lectures'),  # 8 fits 10
+        (b'Literature\0', 'Romans'), # 6 fits 10 (corrigé : 'Lectures' moins juste)
         # ---- Spell name (Bless) — tentative, observer si compteur Grimoire reste OK ----
         (b'Bless\0', 'Béni'),  # 5 UTF-8 (B-é-n-i, é=2B) fits 5
     ]
