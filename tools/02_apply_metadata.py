@@ -144,6 +144,14 @@ DATE_PATCHES = [
     (7540, 'Key Items', 'Clés'),        # 9>5 in-place (Clé=4 chars + s)
     (5986, 'Food', 'Vivres'),           # 4<6 REPOINT
     (11034, 'Texts', 'Textes'),         # 5<6 REPOINT
+    (9500, 'Questing', 'Quêtes'),       # 8>7 (ê=2B) in-place
+    (4956, 'Difficulty Class', 'Difficulté'),  # 16>11 (é=2B) in-place
+
+    # ---- CONFIRMÉS CASSER LE JEU (à NE PAS patcher en metadata) ----
+    # (7260, 'Inventory', 'Inventaire') — slots inventaire disparaissent (binding key)
+    # (10499, 'Spells', 'Sorts') — Grimoire affiche "X SORTS" au lieu du compte
+    # (4098, 'Collected Spells', 'Sorts Acquis') — idem
+    # (9344, 'Prepared Spells', 'Sorts Prép.') — idem
 
     # ---- Notification suffix ("' Added.") ----
     (752, '\' Added.', '\' reçu.'),
