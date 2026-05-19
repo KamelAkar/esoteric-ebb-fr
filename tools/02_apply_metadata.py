@@ -146,6 +146,7 @@ DATE_PATCHES = [
     (11034, 'Texts', 'Textes'),         # 5<6 REPOINT
     (9500, 'Questing', 'Quêtes'),       # 8>7 (ê=2B) in-place
     (4956, 'Difficulty Class', 'Difficulté'),  # 16>11 (é=2B) in-place
+    (2240, '<i>one single time</i>', '<i>une unique fois</i>'),  # 22=22 in-place — résout le bug Quest_34
 
     # ---- CONFIRMÉS CASSER LE JEU (à NE PAS patcher en metadata) ----
     # (7260, 'Inventory', 'Inventaire') — slots inventaire disparaissent (binding key)
