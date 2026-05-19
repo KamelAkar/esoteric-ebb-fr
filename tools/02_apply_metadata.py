@@ -135,6 +135,16 @@ DATE_PATCHES = [
     (9463, 'Push', 'Pousser'),          # 4<7 REPOINT — pousser objet
     (11967, 'Throw', 'Lancer'),         # 5<6 REPOINT — lancer combat
 
+    # ---- Inventory tabs initially marked "broken" by previous Claude — RETESTED 2026-05-19 ----
+    # Le commentaire historique disait que ces patches cassent l'inventaire.
+    # Test cette session : FAUX. Inventaire navigue normalement, tous slots accessibles.
+    # (Peut-être que previous Claude testait sur un mauvais idx ou mal observé.)
+    (2633, 'All Items', 'Tout'),        # 9>4 in-place
+    (13125, 'Weaponry', 'Armement'),    # 8=8 in-place
+    (7540, 'Key Items', 'Clés'),        # 9>5 in-place (Clé=4 chars + s)
+    (5986, 'Food', 'Vivres'),           # 4<6 REPOINT
+    (11034, 'Texts', 'Textes'),         # 5<6 REPOINT
+
     # ---- Notification suffix ("' Added.") ----
     (752, '\' Added.', '\' reçu.'),
 

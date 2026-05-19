@@ -47,6 +47,12 @@ idx	english	french	notes
 8500	No	Non	repoint 2<3
 9463	Push	Pousser	repoint 4<7 (pousser objet)
 11967	Throw	Lancer	repoint 5<6 (lancer combat)
+# === Inventory tabs retestés (anciennement marqués broken) — validés 2026-05-19 ===
+2633	All Items	Tout	in-place 9>4
+13125	Weaponry	Armement	in-place 8=8
+7540	Key Items	Clés	in-place 9>5
+5986	Food	Vivres	repoint 4<6
+11034	Texts	Textes	repoint 5<6
 # === DC results enums ===
 10701	Success	Succès	in-place same length
 5850	Failure	Échec	in-place 6 < 7
