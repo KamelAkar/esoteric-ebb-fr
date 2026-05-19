@@ -74,6 +74,18 @@ idx	english	french	notes
 # === Day format HUD/save preview (idx 4737 standalone reste broken) ===
 4738	Day 	Jour 	repoint 4<5 (avec espace, format Day N)
 4739	Day 1	Jour 1	repoint 5<6 (préview save day 1 spécifique)
+# === Level format + narrateur dialogue Cleric + tooltips Grimoire ===
+7734	Level 	Niveau 	repoint 6<7 (HUD Lv X Cleric)
+13586	[Lone Cleric] 	[Seul Clerc] 	in-place 14>13
+13630	[The Cleric] 	[Le Clerc] 	in-place 13>11
+13631	[The Cleric] Rolled 	[Le Clerc] Lance 	in-place 20>17
+2238	<i>Morning</i>, Cleric.	<i>Matin</i>, Clerc.	in-place 23>20
+2788	Appreciate it, Cleric.	Merci, Clerc.	in-place 22>13
+7533	Keep that up, Cleric!	Continue, Clerc !	in-place 21>17
+11053	Thank you, Cleric.	Merci, Clerc.	in-place 18>13
+11268	The amount of spells in your spellbook...	Le nombre de sorts en votre grimoire...	in-place 101>100 (Grimoire tooltip Sorts Collectés)
+11269	The amount of spells you currently have prepared...	Le nombre de sorts actuellement préparés...	in-place 190>177 (tooltip Sorts Préparés)
+11902	This is the DC a target has to achieve...	C'est le DD qu'une cible doit atteindre...	in-place 190>182 (tooltip Difficulté Sort)
 # === CONFIRMÉS BROKEN (à NE PAS patcher) ===
 # 7260	Inventory	Inventaire	→ slots inventaire disparaissent
 # 10499	Spells	Sorts	→ Grimoire affiche "X SORTS" au lieu de compte
