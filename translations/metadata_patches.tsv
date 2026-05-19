@@ -71,6 +71,9 @@ idx	english	french	notes
 2811	Arcanist	Arcaniste	repoint 8<9
 3006	Azgalist	Azgaliste	repoint 8<9
 12051	Touch	Toucher	repoint 5<7
+# === Day format HUD/save preview (idx 4737 standalone reste broken) ===
+4738	Day 	Jour 	repoint 4<5 (avec espace, format Day N)
+4739	Day 1	Jour 1	repoint 5<6 (préview save day 1 spécifique)
 # === CONFIRMÉS BROKEN (à NE PAS patcher) ===
 # 7260	Inventory	Inventaire	→ slots inventaire disparaissent
 # 10499	Spells	Sorts	→ Grimoire affiche "X SORTS" au lieu de compte

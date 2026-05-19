@@ -166,6 +166,12 @@ DATE_PATCHES = [
     (3006, 'Azgalist', 'Azgaliste'),    # 8<9 repoint
     (12051, 'Touch', 'Toucher'),        # 5<7 repoint — verbe d'action
 
+    # ---- Day format (HUD bas-droit + save preview) ----
+    # DISTINCTION CRITIQUE: idx 4737 'Day' standalone casse save preview (Clerc XX/DebugArea).
+    # Idx 4738 'Day ' (avec espace) + idx 4739 'Day 1' (spécifique) SONT safe.
+    (4738, 'Day ', 'Jour '),            # 4<5 repoint — format "Day N" -> "Jour N"
+    (4739, 'Day 1', 'Jour 1'),          # 5<6 repoint — préview save day 1 spécifique
+
     # ---- CONFIRMÉS CASSER LE JEU (à NE PAS patcher en metadata) ----
     # (7260, 'Inventory', 'Inventaire') — slots inventaire disparaissent (binding key)
     # (10499, 'Spells', 'Sorts') — Grimoire affiche "X SORTS" au lieu du compte
