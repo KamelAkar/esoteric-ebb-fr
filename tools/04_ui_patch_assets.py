@@ -26,11 +26,12 @@ def slot_size(content_len):
 
 # (english_bytes, french_string) — french encoded as UTF-8
 # REQUIREMENT: slot_size(len_eng) == slot_size(len_fr_utf8)
+# NOTE: Helmets/Behold/Trifle/Examine standalone NOT found length-prefixed
+# in any asset (verified 2026-05-19) — they appear as prefixes of GameObject
+# names (BeholdOpen, BeholdClosed etc.) and ARE patched via metadata instead
+# (see tools/02_apply_metadata.py). Kept for reference but no-op here.
 PATCHES = [
-    (b'Helmets', 'Casques'),     # 11 → 11 ✓ (4+7+1 == 4+7+1)
-    (b'Behold', 'Examiner'),     # 12 → 12 ✓ (4+6+2 == 4+8+0)
-    (b'Trifle', 'Piquer'),       # 12 → 12 ✓ (4+6+2 == 4+6+2)
-    (b'Examine', 'Examiner'),    # 12 → 12 ✓ (4+7+1 == 4+8+0)
+    (b'Garden Apple', 'Pomme Jardin'),  # 16 → 16 ✓ (4+12+0 == 4+12+0) item display name
 ]
 
 

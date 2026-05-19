@@ -9,7 +9,7 @@ english	french	target_files	notes
 Freestrider	Errant	level*	keep length=11, pad with nulls
 FREESTRIDER	ERRANT	level*	keep length=11
 Apolitical	Apolitique	level* (none found yet)	likely not present length-prefixed
-Helmets	Casques	level*	7=7, slot 12 ✓
-Behold	Examiner	level*	6→8, slot 12=12 ✓
-Trifle	Piquer	level*	6=6, slot 12 ✓
-Examine	Examiner	level*	7→8, slot 12=12 ✓
+Garden Apple	Pomme Jardin	level*+sharedassets1	12=12, slot 16 ✓ (35 hits patchés 2026-05-19)
+# Helmets/Behold/Trifle/Examine ne sont PAS length-prefixed standalone dans
+# les .assets (apparaissent comme préfixes de GameObject names ex.
+# BeholdOpen). Patchés via metadata pour les vrais affichages.
