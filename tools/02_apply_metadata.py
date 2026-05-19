@@ -13,9 +13,11 @@ from pathlib import Path
 
 sys.stdout.reconfigure(encoding='utf-8')
 
+REPO_ROOT = Path(__file__).resolve().parent.parent
 SRC = Path(r"C:\Program Files (x86)\Steam\steamapps\common\Esoteric Ebb\Esoteric Ebb_Data\il2cpp_data\Metadata\global-metadata.dat")
-OUT = Path(r"C:\Users\Ravnow\Documents\esoteric-ebb-fr\metadata_strings\global-metadata.dat.patched")
-BAK = Path(r"C:\Users\Ravnow\Documents\esoteric-ebb-fr\metadata_strings\global-metadata.dat.backup")
+OUT = REPO_ROOT / "metadata_strings" / "global-metadata.dat.patched"
+BAK = REPO_ROOT / "metadata_strings" / "global-metadata.dat.backup"
+OUT.parent.mkdir(parents=True, exist_ok=True)
 
 # Substring patches: within specific string literal entries, replace ENG_SUB with FR_SUB
 # Length constraint: FR_SUB UTF-8 bytes ≤ ENG_SUB bytes (else need full repointing)
@@ -96,8 +98,16 @@ DATE_PATCHES = [
     # Constitution / Intelligence same length — no patch needed
 
     # ---- Inventory tab + slot labels ----
-    (6424, 'Helms', 'Casques'),  # NOT in .assets — pure metadata literal — likely safe
+    # NOTE: previous (6424, 'Helms', 'Casques') was the WRONG index — actual displayed
+    # label is at idx 6423 ('Helmets'). Validated visually 2026-05-19.
+    (6423, 'Helmets', 'Casques'),       # 7=7 in-place
+    (12134, 'Trinkets', 'Babioles'),    # 8=8 in-place
+    (4234, 'Consumables', 'Consomm.'),  # 11>8 in-place shorter
+    (7794, 'Literature', 'Livres'),     # 10>6 in-place shorter
+    (4074, 'Clericals', 'Cléricaux'),   # 9<10 REPOINT (+1 byte)
     (13527, '[Empty Feat Slot]', '[Don vide]'),
+    (13632, '[This glossary is empty.]', '[Ce glossaire est vide.]'),  # 25>24 in-place
+    # (4502, 'Cure Wounds', 'Soins'),  # no-op visually — title comes from another source
     # (3925, 'Cantrip', 'Tour de magie'),  # breaks spellbook count — keep removed
 
     # ---- Notification suffix ("' Added.") ----

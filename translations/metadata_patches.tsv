@@ -19,8 +19,13 @@ idx	english	french	notes
 4218	Constitution	Constitution	in-place same length
 6984	Intelligence	Intelligence	in-place same length
 # === Inventory / journal labels ===
-6424	Helms	Casques	repoint (7 > 5)
+6423	Helmets	Casques	in-place 7=7 (corrige l'erreur d'idx 6424→6423, validé 2026-05-19)
+12134	Trinkets	Babioles	in-place 8=8
+4234	Consumables	Consomm.	in-place 11>8 (abrégé pour rester court)
+7794	Literature	Livres	in-place 10>6
+4074	Clericals	Cléricaux	repoint 9<10 (+1 byte UTF-8 é)
 13527	[Empty Feat Slot]	[Don vide]	in-place
+13632	[This glossary is empty.]	[Ce glossaire est vide.]	in-place 25>24
 # === DC results enums ===
 10701	Success	Succès	in-place same length
 5850	Failure	Échec	in-place 6 < 7

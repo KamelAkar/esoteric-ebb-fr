@@ -16,9 +16,10 @@ from pathlib import Path
 
 sys.stdout.reconfigure(encoding='utf-8')
 
+REPO_ROOT = Path(__file__).resolve().parent.parent
 PATH = Path(r"C:\Program Files (x86)\Steam\steamapps\common\Esoteric Ebb\Esoteric Ebb_Data\il2cpp_data\Metadata\global-metadata.dat")
-OUT_DIR = Path(r"C:\Users\Ravnow\Documents\esoteric-ebb-fr\metadata_strings")
-OUT_DIR.mkdir(exist_ok=True)
+OUT_DIR = REPO_ROOT / "metadata_strings"
+OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 
 def parse_header(data):
