@@ -55,6 +55,7 @@ idx	english	french	notes
 11034	Texts	Textes	repoint 5<6
 9500	Questing	Quêtes	in-place 8>7 (ê=2B)
 4956	Difficulty Class	Difficulté	in-place 16>11 (é=2B)
+2240	<i>one single time</i>	<i>une unique fois</i>	in-place 22=22 (résout bug Quest_34)
 # === CONFIRMÉS BROKEN (à NE PAS patcher) ===
 # 7260	Inventory	Inventaire	→ slots inventaire disparaissent
 # 10499	Spells	Sorts	→ Grimoire affiche "X SORTS" au lieu de compte
