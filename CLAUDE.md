@@ -110,31 +110,15 @@ Voir `docs/PIPELINE.md`, `docs/METADATA_PATCHING.md`, `docs/ASSETS_PATCHING.md`,
 - **Vouvoiement** par défaut : règles du jeu, UI, voix divines, NPCs formels
 - **Tutoiement intime** : voix intérieures ↔ personnage joueur, et Snell (gobelin compagnon) ↔ joueur
 
-### Style général — registre soutenu et légèrement littéraire
+### Style général
 
-Esoteric Ebb s'inspire de **Disco Elysium** : narration en deuxième personne, dialogues philosophico-absurdes, voix intérieures qui commentent l'action, humour pince-sans-rire. La traduction française doit refléter ce ton :
+**Registre soutenu et légèrement littéraire avec archaïsmes occasionnels.**
 
-- **Registre soutenu mais pas pompeux** : phrases bien construites, vocabulaire précis, sans surcharge. Privilégier les tournures littéraires aux formulations plates.
-  - ✓ « Le silence retombe sur la pièce, lourd comme un manteau humide. »
-  - ✗ « C'est silencieux maintenant. »
+C'est la règle stylistique convenue avec l'utilisateur. Pour le détail concret : lire des entrées existantes de `source-data/strings_master.csv` (~78 000 lignes de référence déjà traduites) et s'en inspirer pour rester cohérent.
 
-- **Archaïsmes occasionnels** quand le contexte s'y prête (voix divines, vieilles inscriptions, NPCs érudits, scènes oniriques) : « point » au lieu de « pas » dans certaines constructions, « céans », « jadis », « moult », « sieur », inversions sujet-verbe pour effets dramatiques.
-  - Voix divine : « Ainsi soit-il, mortel. Que ta quête ne souffre point d'entrave. »
-  - Inscription antique : « Ci-gît celui qui osa défier les Arcanes. »
+Vulgarités et humour mordants du texte original (`fucking poet`, `Dick-Ass Rogue`, etc.) doivent être préservés — ne PAS aseptiser.
 
-- **Humour préservé** : le jeu est souvent drôle (vulgarités assumées, observations absurdes, sarcasmes). NE PAS aseptiser. Garder le mordant.
-  - ✓ « Putain de poète. » (pour "fucking poet")
-  - ✓ « Roublard de Mes Deux » (pour "Dick-Ass Rogue" — déjà dans le glossaire établi)
-
-- **Variété de voix** : chaque voix intérieure / NPC a un caractère. Adapter le registre :
-  - Voix philosophiques → plus érudite, vocabulaire abstrait
-  - Snell le gobelin → plus directe, familière, fautes assumées
-  - Voix divines → solennelle, archaïsante
-  - Narration → littéraire neutre
-
-- **Préserver le rythme** : les phrases courtes des originaux restent courtes, les longues restent longues. Pas de fusion ni de découpage gratuit qui changerait la cadence.
-
-- **Évocations sensorielles** : le texte original est souvent riche en images concrètes (odeurs, textures, atmosphères). Les traduire avec la même précision plutôt que de les généraliser.
+Pour toute nouvelle traduction, le test de cohérence est : « est-ce que cette ligne pourrait s'insérer dans `strings_master.csv` sans dépareiller ? » Si oui, c'est bon.
 
 ### Terminologie D&D 5e VF officielle
 
