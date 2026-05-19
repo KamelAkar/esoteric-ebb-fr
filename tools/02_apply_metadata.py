@@ -303,6 +303,18 @@ def patch_strings_section(raw, version, sOff, sSize):
         (b'Wisdom\0', 'Sage'),
         (b'Charisma\0', 'Charisme'),  # 8 bytes fits exact in 9 slot
         # Day/Level/Cleric retired — broke save preview earlier
+        # ---- Journal section enum names (validés 2026-05-19, mêmes mécanique que stats) ----
+        (b'City\0', 'Cite'),         # 4=4 (no accent to fit slot)
+        (b'Skills\0', 'Doués'),      # 6 UTF-8 fits 6
+        (b'Folk\0', 'Gens'),         # 4=4
+        (b'Esoterics\0', 'Mystères'),  # 9 UTF-8 fits 9
+        (b'Geography\0', 'Régions'),   # 8 UTF-8 fits 9
+        (b'History\0', 'Histor.'),   # 7=7 (abbreviated)
+        (b'Language\0', 'Langue'),   # 6 fits 8
+        (b'Politics\0', 'Politiq.'), # 8=8 (abbreviated)
+        (b'Religion\0', 'Religion'), # 8=8 same
+        (b'Nature\0', 'Nature'),     # 6=6 same
+        (b'Literature\0', 'Lectures'),  # 8 fits 10
     ]
     for needle, replacement in patches:
         new_bytes = replacement.encode('utf-8') + b'\0'
