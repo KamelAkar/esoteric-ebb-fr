@@ -157,6 +157,15 @@ DATE_PATCHES = [
     (2473, 'ASSASSINATIONS', 'ASSASSINATS'),  # 14>11 in-place
     (9551, 'ROLL', 'JET'),              # 4>3 in-place (jet de dé)
 
+    # ---- Factions politiques manquantes (Agrarian/Arcanist/Azgalist) ----
+    # Symétrie avec FREESTRIDER→ERRANT, APOLITICAL→APOLITIQUE déjà patchés.
+    (2442, 'AGRARIAN', 'AGRARIEN'),     # 8=8 in-place
+    (2464, 'ARCANIST', 'ARCANISTE'),    # 8<9 repoint
+    (2491, 'AZGALIST', 'AZGALISTE'),    # 8<9 repoint
+    (2811, 'Arcanist', 'Arcaniste'),    # 8<9 repoint
+    (3006, 'Azgalist', 'Azgaliste'),    # 8<9 repoint
+    (12051, 'Touch', 'Toucher'),        # 5<7 repoint — verbe d'action
+
     # ---- CONFIRMÉS CASSER LE JEU (à NE PAS patcher en metadata) ----
     # (7260, 'Inventory', 'Inventaire') — slots inventaire disparaissent (binding key)
     # (10499, 'Spells', 'Sorts') — Grimoire affiche "X SORTS" au lieu du compte
