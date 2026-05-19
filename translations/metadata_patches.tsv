@@ -26,6 +26,16 @@ idx	english	french	notes
 4074	Clericals	Cléricaux	repoint 9<10 (+1 byte UTF-8 é)
 13527	[Empty Feat Slot]	[Don vide]	in-place
 13632	[This glossary is empty.]	[Ce glossaire est vide.]	in-place 25>24
+# === Action verbs (interaction icons sur objets monde) — validés 2026-05-19 ===
+3018	BEHOLD	VOIR	in-place 6>4 (œil sur statue/objet)
+3110	Behold	Voir	in-place 6>4
+5498	Examine	Examiner	repoint 7<8
+10914	TRIFLE	PIQUER	in-place 6=6 (main sur objet)
+12129	Trifle	Piquer	in-place 6=6
+5318	Engage	Parler	in-place 6=6 (bulle dialogue)
+7853	Look	Voir	in-place 4=4
+8948	Open	Ouvrir	repoint 4<6
+9592	Read	Lire	in-place 4=4
 # === DC results enums ===
 10701	Success	Succès	in-place same length
 5850	Failure	Échec	in-place 6 < 7
