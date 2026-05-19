@@ -36,6 +36,8 @@ idx	english	french	notes
 7853	Look	Voir	in-place 4=4
 8948	Open	Ouvrir	repoint 4<6
 9592	Read	Lire	in-place 4=4
+161	 (Leave.)	 (Partir.)	repoint 9<10 (suffix dialogue option ex. "T'en aller. (Leave.)")
+7667	Leave	Partir	repoint 5<6 (verbe d'action)
 # === DC results enums ===
 10701	Success	Succès	in-place same length
 5850	Failure	Échec	in-place 6 < 7

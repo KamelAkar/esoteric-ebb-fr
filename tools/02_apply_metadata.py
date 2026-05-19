@@ -121,6 +121,8 @@ DATE_PATCHES = [
     (7853, 'Look', 'Voir'),             # 4=4 in-place
     (8948, 'Open', 'Ouvrir'),           # 4<6 REPOINT
     (9592, 'Read', 'Lire'),             # 4=4 in-place
+    (161, ' (Leave.)', ' (Partir.)'),   # 9<10 REPOINT — suffix des options de dialogue
+    (7667, 'Leave', 'Partir'),          # 5<6 REPOINT — verbe d'action standalone
 
     # ---- Notification suffix ("' Added.") ----
     (752, '\' Added.', '\' reçu.'),
