@@ -1,0 +1,11 @@
+name	rel_offset	french	notes
+# STRSEC repoint: enum/reflection names. Format: relative offset within strings section.
+# Read with: python tools/03_strsec_repoint.py
+# Risky candidates that BROKE the game (do NOT add back):
+# - Inventory @ 0xABAA8 → "Inventaire" : freezes the UI (used by GameObject reflection)
+# - Cleric (not in stringSize)
+# - Day @ 0x71D : breaks save preview (probably generic System.DateTime member)
+Wisdom	0xA6483	Sagesse	safe — stat enum
+Dexterity	0xA645F	Dextérité	safe — stat enum
+Behold	0xA9C07	Examiner	safe — interaction enum (verified)
+Trifle	0xA9C21	Chaparder	safe — interaction enum (verified)

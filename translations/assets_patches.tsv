@@ -1,0 +1,15 @@
+english	french	target_files	notes
+# Length-prefixed string replacement in Unity .assets / level files.
+# REQUIREMENT: slot_size(eng) == slot_size(fr) where slot = 4 + content + pad_to_mod4
+# OR keep length unchanged (longer English than French only).
+# Read with: python tools/04_ui_patch_assets.py
+#
+# Format slots:
+#   3 bytes → slot 8 ; 4-7 bytes → slot 12 ; 8-11 bytes → slot 16 ; etc.
+Freestrider	Errant	level*	keep length=11, pad with nulls
+FREESTRIDER	ERRANT	level*	keep length=11
+Apolitical	Apolitique	level* (none found yet)	likely not present length-prefixed
+Helmets	Casques	level*	7=7, slot 12 ✓
+Behold	Examiner	level*	6→8, slot 12=12 ✓
+Trifle	Piquer	level*	6=6, slot 12 ✓
+Examine	Examiner	level*	7→8, slot 12=12 ✓

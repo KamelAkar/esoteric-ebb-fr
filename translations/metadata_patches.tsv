@@ -1,0 +1,82 @@
+idx	english	french	notes
+# === Format strings DC results (substring patches handled internally) ===
+1837	: Success</color><#	: Succès</color><#	in-place
+1838	: Success</color></line-indent></smallcaps>\n<#	: Succès</color></line-indent></smallcaps>\n<#	in-place
+1839	: Success</color></smallcaps>	: Succès</color></smallcaps>	in-place
+5762	FF>[DC: Success]</color>	FF>[DD: Succès]</color>	DC→DD + Success→Succès
+13664	[{0}  | DC {1}] {2}	[{0}  | DD {1}] {2}	DC→DD
+20110	{0} <color=#FFFFFF>DC {1}: Success</color> {2}	{0} <color=#FFFFFF>DD {1}: Succès</color> {2}	DC→DD + Success→Succès
+1833	: Failure</color></smallcaps>	: Échec</color></smallcaps>	in-place
+1834	: Failure]</color>	: Échec]</color>	in-place
+19991	xp!	XP	in-place
+4536	DC 	DD 	standalone prefix
+16155	dc 	dd 	standalone lowercase
+# === Stats display labels ===
+10651	Strength	Force	in-place
+4927	Dexterity	Dextérité	repoint (11 > 9)
+4003	Charisma	Charisme	in-place same length
+13174	Wisdom	Sagesse	repoint (7 > 6)
+4218	Constitution	Constitution	in-place same length
+6984	Intelligence	Intelligence	in-place same length
+# === Inventory / journal labels ===
+6424	Helms	Casques	repoint (7 > 5)
+13527	[Empty Feat Slot]	[Don vide]	in-place
+# === DC results enums ===
+10701	Success	Succès	in-place same length
+5850	Failure	Échec	in-place 6 < 7
+# === Notification suffix ===
+752	' Added.	' reçu.	in-place same length
+# === Date format ===
+1736	1st Day, 	Jour 1, 	in-place
+1792	2nd Day, 	Jour 2, 	in-place
+1803	3rd Day, 	Jour 3, 	in-place
+12792	Updated on 	Maj le 	in-place
+17910	nd, 27 PE	 an 27 EP	in-place
+18432	rd, 27 PE	 an 27 EP	in-place
+19259	th, 27 PE	 an 27 EP	in-place
+# === Month names ===
+8026	March	mars	in-place
+8027	March 	mars 	in-place
+2790	April	avril	in-place
+2974	August	août	in-place 6 > 6 UTF-8 wait check
+4816	December	décembr	in-place 8=8 (chopped final e)
+5868	February	février	in-place
+7489	January	janvier	in-place
+7506	July	juil	in-place 4=4 (abbrev)
+7508	June	juin	in-place
+8078	May	mai	in-place
+# === Faction names ===
+5796	FREESTRIDER	ERRANT	in-place (note: also patched in level files)
+6047	Freestrider	Errant	in-place
+2456	APOLITICAL	APOLITIQUE	in-place same length
+2780	Apolitical	Apolitique	in-place same length
+3017	BEEFY CLERIC	CLERC COSTO	in-place
+# === Save list format ===
+4530	DAY {0} at {1}_{2}	JOUR {0}, {1}_{2}	in-place
+# === Long descriptions ===
+1926	</b>.\nGained experience: 	</b>.\nXP gagnée : 	in-place
+6136	Gained experience: +	XP gagnée : +	in-place
+10501	Spend 1 Hit Die on a 1 hour short rest?	Dépenser 1 DV pour repos court 1h ?	in-place
+3250	Burn an incense to regain a 1st level spellslot? You have 	Brûler un encens pour récupérer un slot lvl 1 ? Vous avez 	repoint (61 > 58)
+9678	Reinvigorated: Regain 1 use of a spent Hit Dice.	Revigoré : Récupère 1 usage de DV dépensé.	in-place
+9816	Resurgent: Regain 2 uses of spent Hit Dice.	Renaissant : Récupère 2 usages de Dés de Vie.	repoint
+8983	Out of Hit Dice.	Plus de Dés de Vie.	repoint (20 > 16)
+6501	Hit Dice +1	Dés de Vie +1	repoint (14 > 11)
+1737	1st level Spellslots +	Slots de sort niv 1 +	in-place
+1793	2nd level Spellslots +	Slots de sort niv 2 +	in-place
+1804	3rd level Spellslots +	Slots de sort niv 3 +	in-place
+10500	Spells to Prepare: 	Sorts à prép. : 	in-place
+221	 Cantrips\n	 Tours\n	in-place
+255	 Spells	 Sorts	in-place
+# === Healing / exhaustion ===
+375	 healing. You lose a level of exhaustion.	 soin. Niveau d'épuisement +1.	in-place
+5317	Energized: Get rid of 1 level of Exhaustion.	Énergisé : -1 niv. d'épuisement.	in-place
+# === HP suffix ===
+233	 HP	 PV	in-place same length
+# === Session intro (Continue screen) ===
+13375	You didn't make it far last time. That's my bad.	T'es pas allé loin avant. C'est ma faute.	in-place
+248	 Ready for another round?\n\nIf you want a tip: prepare spells at the shrine, then heal yourself. And eat some apples. That should get you through the <i>lichhouse gauntlet</i>.	 Prêt pour un autre round ?\n\nConseil : prépare des sorts à l'autel, puis soigne-toi. Et mange des pommes. Tu passeras le <i>gantelet du lichhouse</i>.	in-place
+13375	You didn't make it far last time. That's my bad.	T'es pas allé loin avant. C'est ma faute.	in-place
+10502	Spend 1 hour to recover. Gain (1d8) HP, remove 1 level of exhaustion, and restore 1 spell slot.	1h pour récup. Gagne (1d8) PV, retire 1 niv. d'épuisement, restaure 1 sort.	in-place
+10503	Spend 1 hour to recover. Gain (1d8) HP, remove 1 level of exhaustion, and restore 1 spell slot. After resting, all dice checks are unlocked.	Profite d'1h pour récupérer. Gagne (1d8) PV, retire 1 niv. d'épuisement, restaure 1 sort. Les jets se débloquent.	in-place
+65	\nSpend 1 hour to recover. Gain (1d8) HP, remove 1 level of exhaustion, and restore 1 spell slot. After resting, all dice checks are unlocked.	\nProfite d'1h pour récupérer. Gagne (1d8) PV, retire 1 niv. d'épuisement, restaure 1 sort. Les jets se débloquent.	in-place

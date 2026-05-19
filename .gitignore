@@ -1,0 +1,34 @@
+# Backups (binary game files)
+backups/*.dat
+backups/*.assets
+backups/level*
+backups/global-metadata*
+!backups/README.md
+
+# Patched intermediates
+*.patched
+*.bak
+*.tmp
+
+# Game files (we don't redistribute the unmodified game)
+game-files/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# .NET build outputs
+tools/dotnet-deploy/bin/
+tools/dotnet-deploy/obj/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Distributables (built ZIP — generated)
+dist/
