@@ -103,6 +103,48 @@ Le dossier `BepInEx/` peut être présent dans `$STEAM/` (rémanent des essais p
 
 Voir `docs/PIPELINE.md`, `docs/METADATA_PATCHING.md`, `docs/ASSETS_PATCHING.md`, `docs/KNOWN_LIMITATIONS.md` pour les détails techniques.
 
+## Conventions de traduction (à respecter pour toute nouvelle entrée)
+
+### Registre et voix
+
+- **Vouvoiement** par défaut : règles du jeu, UI, voix divines, NPCs formels
+- **Tutoiement intime** : voix intérieures ↔ personnage joueur, et Snell (gobelin compagnon) ↔ joueur
+- **Registre soutenu et légèrement littéraire** avec archaïsmes occasionnels (cohérent avec le ton du jeu)
+
+### Terminologie D&D 5e VF officielle
+
+Toujours utiliser les termes français officiels D&D 5e :
+
+- Classes : **Clerc**, **Roublard**, **Magicien**, **Druide**, **Barde**, **Barbare**, **Paladin**, **Guerrier**, **Rôdeur**, **Moine**, **Ensorceleur**, **Occultiste**
+- Stats : **Force / Dextérité / Constitution / Intelligence / Sagesse / Charisme**
+- Sorts standards :
+  - **Communication avec les Morts/Animaux/Plantes** (jamais "Parler aux Morts")
+  - **Main du Mage**
+  - **Dissipation de la Magie**
+  - **Bénédiction**, **Bouclier de Foi**, **Soin des Blessures**
+- **Dé de Vie / Dés de Vie** (jamais "Hit Die")
+- **DD** (Difficulté) pas "CD" — `DD 15 : Succès` / `Échec`
+
+### Noms propres du monde (NE PAS traduire)
+
+- **Norvik**, **Tolstad**, **Snell**, **Strokeback**, **Visken**, **Modissa**, **Ettir**, **Jor**, **Pinja**, **Gorm** : noms propres conservés tels quels
+- **Garde-d'Urth** (avec trait d'union, jamais "Garde d'Urth" ou "Urthguard")
+- **Antre Inférieur** (traduction du lore, conservée — Lower Lair = nom de scène Unity à ne PAS toucher)
+- Noms de scènes Unity (`Lower Lair`, `Visken's Lair`, `Upper Tolstad`…) : **JAMAIS patcher** — utilisés par le code pour charger les scènes
+
+### Marqueurs techniques à préserver
+
+Dans toute traduction, préserver intacts :
+- Tags rich text TMP : `<b>`, `<i>`, `<size=N>`, `<color=#...>`, `<smallcaps>`, `<shake>`
+- Placeholders de format : `{0}`, `{1}`, `$WIZARD`, `$CLERIC` (et autres `$VAR`)
+- Textes en langues étrangères dans le narratif (Latin, espagnol archaïque, etc.) — laissés tels quels par choix d'auteur
+
+### Style "polish"
+
+- Espaces insécables/normales avant `:`, `;`, `!`, `?` selon convention française (le jeu rend les espaces normales acceptablement)
+- Guillemets : `«` et `»` plutôt que `"..."` pour les citations dans le narratif (déjà en place dans les CSVs)
+- Apostrophe typographique `'` PAS recommandée car parfois mal rendue par TMP — utiliser `'` ASCII
+
 ## Pour le packaging Nexus v1.0
 
 À implémenter (script `05_package_zip.py` à venir) :
