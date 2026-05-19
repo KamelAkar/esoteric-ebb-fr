@@ -315,6 +315,8 @@ def patch_strings_section(raw, version, sOff, sSize):
         (b'Religion\0', 'Religion'), # 8=8 same
         (b'Nature\0', 'Nature'),     # 6=6 same
         (b'Literature\0', 'Lectures'),  # 8 fits 10
+        # ---- Spell name (Bless) — tentative, observer si compteur Grimoire reste OK ----
+        (b'Bless\0', 'Béni'),  # 5 UTF-8 (B-é-n-i, é=2B) fits 5
     ]
     for needle, replacement in patches:
         new_bytes = replacement.encode('utf-8') + b'\0'
