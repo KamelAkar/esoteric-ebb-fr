@@ -145,7 +145,9 @@ DATE_PATCHES = [
     (5986, 'Food', 'Vivres'),           # 4<6 REPOINT
     (11034, 'Texts', 'Textes'),         # 5<6 REPOINT
     (9500, 'Questing', 'Quêtes'),       # 8>7 (ê=2B) in-place
-    (4956, 'Difficulty Class', 'Difficulté'),  # 16>11 (é=2B) in-place
+    (4956, 'Difficulty Class', 'Difficulté de Sort'),  # 16<19 REPOINT (validé 2026-05-20 — tooltip Grimoire)
+    (4098, 'Collected Spells', 'Sorts Collectés'),     # 16=16 in-place (validé idem)
+    (9344, 'Prepared Spells', 'Sorts Préparés'),       # 15<16 REPOINT (validé idem)
     (2240, '<i>one single time</i>', '<i>une unique fois</i>'),  # 22=22 in-place — résout le bug Quest_34
     (4535, 'DC', 'DD'),                 # 2=2 in-place — DC1/DC2 etc. dans glossaire journal
 
@@ -204,8 +206,9 @@ DATE_PATCHES = [
     # ---- CONFIRMÉS CASSER LE JEU (à NE PAS patcher en metadata) ----
     # (7260, 'Inventory', 'Inventaire') — slots inventaire disparaissent (binding key)
     # (10499, 'Spells', 'Sorts') — Grimoire affiche "X SORTS" au lieu du compte
-    # (4098, 'Collected Spells', 'Sorts Acquis') — idem
-    # (9344, 'Prepared Spells', 'Sorts Prép.') — idem
+    # NOTE: Collected/Prepared Spells RE-TESTÉS 2026-05-20 isolément = OK !
+    # Le faux positif venait probablement du patch Spells (idx 10499) ou Inventory
+    # (idx 7260) dans la même batch test. Repointed avec FR complète maintenant.
 
     # ---- Notification suffix ("' Added.") ----
     (752, '\' Added.', '\' reçu.'),
