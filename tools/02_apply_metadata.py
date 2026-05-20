@@ -157,7 +157,8 @@ DATE_PATCHES = [
     (8363, 'NIGHT', 'NUIT'),            # 5>4 in-place
     (2441, 'AFTERNOON', 'TANTÔT'),      # 9>7 (Ô=2B) in-place
     (2473, 'ASSASSINATIONS', 'ASSASSINATS'),  # 14>11 in-place
-    (9551, 'ROLL', 'JET'),              # 4>3 in-place (jet de dé)
+    # (9551, 'ROLL', 'JET'),  # DISABLED 2026-05-20 — même bug que DC→DD : casse le stripping du préfixe ROLL dans choices Ink
+    (7497, 'Journal Updated', 'Journal mis à jour'),  # repoint 15<18 (notif HUD)
 
     # ---- Factions politiques manquantes (Agrarian/Arcanist/Azgalist) ----
     # Symétrie avec FREESTRIDER→ERRANT, APOLITICAL→APOLITIQUE déjà patchés.
