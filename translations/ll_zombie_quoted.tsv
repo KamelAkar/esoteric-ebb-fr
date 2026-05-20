@@ -1,0 +1,44 @@
+LL_Zombie	\"Greetings, citizen.\"	« Salutations, citoyenne. »
+LL_Zombie	\"Identify yourself, citizen.\"	« Identifiez-vous, citoyen. »
+LL_Zombie	\"You trying something here, smartass?\"	« Tu tentes quelque chose, petit malin ? »
+LL_Zombie	\"I'm not going to say anything, Cleric.\"	« Je ne vais rien dire, Clerc. »
+LL_Zombie	\"But I hope you know what I'm thinking.\"	« Mais j'espère que tu sais ce que je pense. »
+LL_Zombie	\"Sir, are you a member of the undead?\"	« Monsieur, êtes-vous un membre des morts-vivants ? »
+LL_Zombie	\"No, Cleric. They're not.\"	« Non, Clerc. Ils ne le sont pas. »
+LL_Zombie	\"So I should...\"	« Donc je devrais... »
+LL_Zombie	\"So it's time to...\"	« Donc le moment est venu de... »
+LL_Zombie	\"You're the expert here.\"	« C'est toi l'expert ici. »
+LL_Zombie	\"But considering how calm and lovely this fellow is being, I'd suggest you leave him alone.\"	« Mais vu à quel point ce bonhomme est calme et aimable, je suggère de le laisser tranquille. »
+LL_Zombie	\"Maybe ask about his political status instead. I'm sure that'll work.\"	« Demande-lui plutôt son statut politique. Je suis sûr que ça marchera. »
+LL_Zombie	\"You're very rude, did you know that?\"	« Tu es très impoli, le savais-tu ? »
+LL_Zombie	\"I'm thinking of voting for the Nationalists. They've got a good plan for the future of the city.\"	« Je pense voter pour les Nationalistes. Ils ont un bon plan pour l'avenir de la cité. »
+LL_Zombie	\"The Freestrider revolution will be good for this city, I think. Don't you?\"	« La révolution Franc-Marcheuse sera bonne pour cette cité, je pense. Pas vous ? »
+LL_Zombie	\"We need to establish an Azgalist government. It's the only way for us average peasants to not fall back into the oppression of feudalism- or worse, <i>magocracy</i>.\"	« Il nous faut établir un gouvernement Azgaliste. C'est la seule voie pour que nous, paysans ordinaires, ne retombions pas dans l'oppression du féodalisme — ou pire, la <i>magocratie</i>. »
+LL_Zombie	\"I don't have a political opinion. So I guess I don't need this voting card.\"	« Je n'ai pas d'opinion politique. J'imagine que je n'ai pas besoin de cette carte de vote. »
+LL_Zombie	\"With the Patriarchs in power, we'll get rid of all you undead. And all other evils in Norvik. Once and for all.\"	« Avec les Patriarches au pouvoir, nous nous débarrasserons de tous les morts-vivants. Et de tous les autres maux de Norvik. Une bonne fois pour toutes. »
+LL_Zombie	\"We'll bring about a human utopia. The last of its kind on the Coast.\"	« Nous instaurerons une utopie humaine. La dernière de son genre sur la Côte. »
+LL_Zombie	\"Although I suppose they don't have the greatest track record. Ever since Urth faded...\"	« Quoique je suppose que leur bilan n'est pas glorieux. Depuis qu'Urth s'est éteint... »
+LL_Zombie	\"With permanent suffrage, the people will be able to steer us in a fortunate direction.\"	« Avec le suffrage permanent, le peuple pourra nous mener vers une direction fortunée. »
+LL_Zombie	\"Open trade with the Free Cities of Reeds will make us all rich!\"	« Le libre-échange avec les Cités Libres de Reeds nous enrichira tous ! »
+LL_Zombie	\"We just have to hope the Guilds don't rebel when Urth's labor protection laws get thrown out.\"	« Il faut juste espérer que les Guildes ne se rebellent pas quand les lois protectrices du travail d'Urth seront abrogées. »
+LL_Zombie	\"The social democratic model of the dwarves is ingenious! Just balanced enough to work with our human-dwarven majority populace.\"	« Le modèle social-démocrate des nains est ingénieux ! Juste assez équilibré pour fonctionner avec notre majorité humano-naine. »
+LL_Zombie	\"A true working class revolution is clearly needed. Cooperative ownership of the Guilds is the first step - just like Urth established with Norvikian collectivized agriculture.\"	« Une véritable révolution prolétarienne est clairement nécessaire. La propriété coopérative des Guildes en est la première étape — exactement comme Urth l'a établi avec l'agriculture collectivisée de Norvik. »
+LL_Zombie	\"As long as we don't collapse like the original Azgalian Undercoast State did. Or the Vyz-Kha kingdoms. Or the Three Wings of Divinii Torum. Or the... uh...\"	« Tant que nous ne nous effondrons pas comme l'État originel Azgalien de la Sous-Côte. Ou les royaumes Vyz-Kha. Ou les Trois Ailes de Divinii Torum. Ou les... euh... »
+LL_Zombie	\"Sorry. I don't know what came over me. I'm just a farm boy.\"	« Désolé. Je ne sais pas ce qui m'a pris. Je ne suis qu'un fils de fermier. »
+LL_Zombie	\"Am I boring you?\"	« Je vous ennuie ? »
+LL_Zombie	\"This is clearly cleric-business. I'll stay out of it.\"	« C'est manifestement une affaire de clerc. Je n'interviendrai pas. »
+LL_Zombie	ROLL6 dex-Hold up a closed fist and say, \"Here, look at this,\" then quickly try to trip him.	ROLL6 dex-Lever un poing fermé et dire « Tiens, regarde ça », puis tenter de le faire trébucher.
+LL_Zombie	\"Listen to me, I am your master. Serve me!\"	« Écoute-moi, je suis ton maître. Sers-moi ! »
+LL_Zombie	\"Undead servant, you've done a great job today. Well done!\"	« Servant mort-vivant, tu as fait du bon travail aujourd'hui. Bravo ! »
+LL_Zombie	\"I hope you're okay, zombie. Make sure to de-stress every once in a while.\"	« J'espère que tu vas bien, zombie. Pense à décompresser de temps en temps. »
+LL_Zombie	<b>\"SERVE ME, ABOMINATION!\"</b>	<b>« SERS-MOI, ABOMINATION ! »</b>
+LL_Zombie	<b>\"I ORDER YOU TO... uh...\"</b>	<b>« JE T'ORDONNE DE... euh... »</b>
+LL_Zombie	\"Leave this place! Fly!\"	« Quitte ce lieu ! Fuis ! »
+LL_Zombie	\"Keep... working? You're doing good!\"	« Continue... à travailler ? Tu fais du bon boulot ! »
+LL_Zombie	\"Knock yourself out.\"	« Vas-y, fais-toi plaisir. »
+LL_Zombie	\"It's fine. Hard work is a reward in and of itself.\"	« C'est bon. Le travail dur est une récompense en soi. »
+LL_Zombie	(Sigh.) \"Just knock yourself out.\"	(Soupirer.) « Vas-y, fais-toi plaisir. »
+LL_Zombie	\"Please do not hurt me.\"	« Je vous en prie, ne me faites pas de mal. »
+LL_Zombie	(Whimper.) \"I don't want to fight anymore.\"	(Gémir.) « Je ne veux plus me battre. »
+LL_Zombie	\"Look, Cleric...\"	« Écoute, Clerc... »
+LL_Zombie	\"You can stick your fingers wherever you want. But, in the future, I would at least suggest NOT to put them in the mouth of a biter.\"	« Tu peux fourrer tes doigts où tu veux. Mais, à l'avenir, je suggère au minimum de NE PAS les mettre dans la gueule d'un mordeur. »
