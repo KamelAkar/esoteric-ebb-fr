@@ -21,11 +21,14 @@ ZIP_FILE = DIST_DIR / f"EsotericEbb-FR-Patch-v{VERSION}.zip"
 # Inclut TOUS les fichiers que v1.2.2 ou cette session ont pu modifier.
 # Les sharedassets contiennent les TextAssets Ink (dialogues + intro) qui
 # doivent être livrés en totalité — sinon installation sur vanilla = dialogues EN.
-# NOTE: resources.assets EXCLUS — la version modifiée par le précédent traducteur
-# (FR text dans la colonne EN du Dialogs CSV) casse le parseur DC du jeu sans
-# bénéfice (texte FR vient de l'Ink JSON dans sharedassets2, pas de Dialogs).
+# resources.assets RÉ-INCLUS 2026-05-20 — initialement exclu car suspect de casser
+# le parseur DC, mais la vraie cause était le patch metadata (4535, 'DC', 'DD').
+# Avec ce patch désactivé + (9551, 'ROLL', 'JET') aussi désactivé, le resources.assets
+# modifié (FR text dans col EN du Dialogs CSV par le précédent traducteur) fonctionne
+# et apporte ~78k lignes FR pour les dialogues NPC (CB_, AR_, GW_, etc.).
 INCLUDED_FILES = [
     "il2cpp_data/Metadata/global-metadata.dat",
+    "resources.assets",
 ]
 # All level files
 for i in range(0, 25):
