@@ -1,6 +1,6 @@
 # Changelog — Patch FR Esoteric Ebb
 
-## v1.3.0 — 2026-05-20
+## v1.3.1 — 2026-05-21
 
 **Mise à jour majeure** : couverture FR poussée à ~99.99% et correction de plusieurs bugs gameplay critiques introduits par les versions précédentes.
 

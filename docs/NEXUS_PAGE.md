@@ -44,6 +44,21 @@ Patch de traduction française pour [url=https://store.steampowered.com/app/2647
 
 [b]Désinstallation[/b] : Steam > Vérifier l'intégrité des fichiers (restaure l'anglais).
 
+[size=4][b]Nouveautés v1.3.1[/b][/size]
+
+[list]
+[*][b]Fix critique[/b] : préfixe "DC" visible sur les choix de jet (intro et tout le jeu) — parseur du jeu cassé par une regression metadata. Résolu.
+[*][b]Fix critique[/b] : préfixe "ROLL" visible (ROLL16 wis-, etc.) sur les choix de jet — même cause. Résolu.
+[*][b]Fix critique[/b] : choix manuels "S" / "F" qui apparaissaient après un jet (ex. Tenter une Prière de Guérison) — 219 préfixes ROLL/DC/FC restaurés à travers tout le jeu.
+[*][b]Fix critique[/b] : dialogues mixtes FR/EN (ex. "I have some other questions. Je crois.") — synchronisation massive de ~15 400 traductions depuis le Dialogs CSV vers l'Ink JSON utilisé par le moteur.
+[*]Intro Lower Lair intégralement traduite : intro de personnage, Zombie, Tas de pommes, Cadavre Sven, Sable Moustique, Manteau Garde-d'Urth, vérification zombie (~800 strings)
+[*]395 lignes restantes du Dialogs CSV traduites (laissées en EN ou mix par les versions précédentes)
+[*]Notes de session (résumé "Notes de Session" sur l'écran de chargement) intégralement traduites
+[*]Tiers de difficulté des jets : Challenging → Difficile, Daunting → Pénible, Effortless → Trivial, Medium → Moyen
+[*]"Journal Updated" → "Journal mis à jour"
+[*]Choix DC/FC de l'intro non couverts (35 strings : Dick-Ass Roublard, Contrôle, Pour sauver le monde, etc.)
+[/list]
+
 [size=4][b]Nouveautés v1.3.0[/b][/size]
 
 [list]
@@ -77,7 +92,7 @@ Quelques labels restent en anglais car ils servent de clés internes au code C# 
 
 [size=4][b]Crédits[/b][/size]
 
-Traduction par la communauté FR. Source : [url=https://github.com/KamelAkar/esoteric-ebb-fr]GitHub esoteric-ebb-fr[/url]
+Traduction par Ravnow. N'hésitez pas à signaler tout texte non traduit, faute de frappe ou tournure maladroite — traduction faite par un Français pour les Français.
 
 Esoteric Ebb © Lykkesalt Studios. Traduction distribuée à but non lucratif sous fair use.
 ```
@@ -93,9 +108,20 @@ Esoteric Ebb © Lykkesalt Studios. Traduction distribuée à but non lucratif so
 translation, french, francais, fr, traduction, ui, dialogue, no-bepinex
 ```
 
-## Changelog v1.3.0
+## Changelog
 
 ```
+v1.3.1 (2026-05-21)
+- FIX CRITIQUE : préfixe "DC" et "ROLL" visibles sur les choix de jet (toute la partie était impactée)
+- FIX CRITIQUE : choix manuels "S"/"F" après un jet (219 préfixes ROLL/DC/FC restaurés)
+- FIX CRITIQUE : dialogues mixtes FR/EN dans tout le jeu (~15 400 traductions Ink synchronisées)
+- Intro Lower Lair intégralement traduite (Zombie, Tas de pommes, Sven, Sable Moustique, etc.)
+- 395 lignes Dialogs CSV finalement traduites (EN/mix restants du précédent traducteur)
+- Notes de session (load game recap) intégralement traduites
+- Tiers de difficulté : Challenging→Difficile, Daunting→Pénible, Effortless→Trivial, Medium→Moyen
+- "Journal Updated" → "Journal mis à jour"
+- Choix DC/FC de l'intro (Dick-Ass Roublard, Contrôle, Pour sauver le monde, etc.)
+
 v1.3.0 (2026-05-20)
 - Onglets inventaire entièrement traduits (Tout/Casques/Armement/Livres/Clés/etc.)
 - Verbes d'interaction (Voir/Parler/Piquer/Examiner/Ouvrir/Lire/Toucher/Partir)

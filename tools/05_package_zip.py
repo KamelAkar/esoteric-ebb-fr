@@ -10,7 +10,7 @@ from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-VERSION = "1.3.0"
+VERSION = "1.3.1"
 REPO_ROOT = Path(__file__).resolve().parent.parent
 STEAM_DATA = Path(r"C:\Program Files (x86)\Steam\steamapps\common\Esoteric Ebb\Esoteric Ebb_Data")
 DIST_DIR = REPO_ROOT / "dist"
