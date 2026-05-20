@@ -1,0 +1,39 @@
+LL_Intro	DC10 wis-...A tea shop exploded? 	DC10 wis-...Un salon de thé a explosé ?
+LL_Intro	DC10 wis-...The tea shop? 	DC10 wis-...Le salon de thé ?
+LL_Intro	DC11 int-\"<i>I</i> should be in charge, as a god-king wizard-lord.\" 	DC11 int-« <i>Je</i> devrais être aux commandes, en tant que dieu-roi mage-seigneur. »
+LL_Intro	DC12 dex-\"I'm a sneaky little rogue.\" 	DC12 dex-« Je suis un petit roublard fourbe. »
+LL_Intro	DC12 str-<i>The</i> Cleric? I like that. 	DC12 str-<i>Le</i> Clerc ? J'aime ça.
+LL_Intro	DC12 wis-\"Cleric.\" 	DC12 wis-« Clerc. »
+LL_Intro	DC13 con-I don't want to be dead. 	DC13 con-Je ne veux pas être mort.
+LL_Intro	DC13 con-Redemption? Wait, what did I do? 	DC13 con-Rédemption ? Attendez, qu'ai-je fait ?
+LL_Intro	DC13 dex-\"To get out of the darkness.\" 	DC13 dex-« Pour sortir des ténèbres. »
+LL_Intro	DC13 wis-\"I'm definitely a cleric.\" 	DC13 wis-« Je suis bel et bien un clerc. »
+LL_Intro	DC14 int-\"I'm a god damn wizard.\" 	DC14 int-« Je suis un foutu magicien. »
+LL_Intro	DC14 int-\"Ragn Hemlin.\" 	DC14 int-« Ragn Hemlin. »
+LL_Intro	DC14 str-A hero? Me? 	DC14 str-Un héros ? Moi ?
+LL_Intro	DC14 str-\"To save the world.\" 	DC14 str-« Pour sauver le monde. »
+LL_Intro	DC14 wis-No way back? That doesn't sound too good. 	DC14 wis-Pas de retour possible ? Ça n'augure rien de bon.
+LL_Intro	DC15 dex-...'Dick-Ass'? 	DC15 dex-...« Dick-Ass » ?
+LL_Intro	DC15 dex-\"Dick-Ass Rogue.\" 	DC15 dex-« Dick-Ass Roublard. »
+LL_Intro	DC15 int-Control? 	DC15 int-Contrôle ?
+LL_Intro	DC15 int-\"To rule the world.\" 	DC15 int-« Pour régner sur le monde. »
+LL_Intro	DC15 str-Please, no, I don't want to be a Sender... 	DC15 str-Je vous en prie, non, je ne veux pas être un Envoyeur...
+LL_Intro	DC15 str-\"<b>The Cleric.</b>\" 	DC15 str-« <b>Le Clerc.</b> »
+LL_Intro	DC15 str-\"I am the Guardian of justice and peace. A true <i>human</i> hero.\" 	DC15 str-« Je suis le Gardien de la justice et de la paix. Un véritable héros <i>humain</i>. »
+LL_Intro	DC17 cha-\"<i>Love me</i>?\" 	DC17 cha-« <i>M'aimer</i> ? »
+LL_Intro	DC17 con-\"The <i>flesh</i>?\" 	DC17 con-« La <i>chair</i> ? »
+LL_Intro	DC17 con-\"The Agrarians. If they were still around...\" 	DC17 con-« Les Agrariens. S'ils étaient encore là... »
+LL_Intro	DC17 dex-\"<i>Propaganda</i>?\" 	DC17 dex-« <i>La propagande</i> ? »
+LL_Intro	DC17 int-\"<i>Seizing power</i>?\" 	DC17 int-« <i>Prendre le pouvoir</i> ? »
+LL_Intro	DC17 str-\"My <i>bones</i>?\" 	DC17 str-« Mes <i>os</i> ? »
+LL_Intro	DC17 wis-\"...<i>Everything</i> else?\" 	DC17 wis-« ...<i>Tout</i> le reste ? »
+LL_Intro	DC9 dex-\"I am <shake><b>NOT DEAD</b></shake>.\" 	DC9 dex-« Je <shake><b>NE SUIS PAS MORT</b></shake>. »
+LL_Intro	DC9 str-Save the city? 	DC9 str-Sauver la cité ?
+LL_Intro	FC10 wis-Okay. But what's the quest again? 	FC10 wis-D'accord. Mais c'est quoi la quête déjà ?
+LL_Intro	FC8 int-<i>Ragn?</i> 	FC8 int-<i>Ragn ?</i>
+LL_Intro	FC8 wis-C. L. Eric? That sounds like <i>Cleric</i>. 	FC8 wis-C. L. Eric ? Ça sonne comme <i>Cleric</i>.
+LL_Intro	FC8 wis-\"C.L. Eric.\" 	FC8 wis-« C.L. Eric. »
+LL_CorpseOne	DC11 int-\"I'll be voting for myself. I'll be your Arcanist ruler. A wizard-king. Sounds good, huh?\" 	DC11 int-« Je voterai pour moi. Je serai votre dirigeant Arcaniste. Un mage-roi. Ça sonne bien, hein ? »
+LL_CorpseOne	DC17 con-(Feel ashamed.) \"I'm Agrarian. Just a farm boy. Looking to return to bare basics, you know?\" 	DC17 con-(Avoir honte.) « Je suis Agrarien. Juste un gars de la ferme. Cherchant à revenir à l'essentiel, vous voyez ? »
+LL_Zombie	DC17 con-(Scream and shout at the zombie.) \"AGRARIAN! WE NEED TO VOTE AGRARIAN! IF WE DON'T, THE EARTH WILL BE SALTED AND THE LAND WILL BE CURSED! <shake>AGRARIAN</shake>!\" 	DC17 con-(Crier et hurler au zombie.) « AGRARIEN ! IL FAUT VOTER AGRARIEN ! SI NOUS NE LE FAISONS PAS, LA TERRE SERA SALÉE ET LE PAYS MAUDIT ! <shake>AGRARIEN</shake> ! »
+LL_Zombie	ROLL6 dex-Hold up a closed fist and say, \"Here, look at this,\" then quickly try to trip him. 	ROLL6 dex-Lever un poing fermé et dire, « Tiens, regarde ça », puis tenter rapidement de le faire trébucher.

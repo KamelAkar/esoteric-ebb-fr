@@ -20,6 +20,14 @@ class Program
         {
             return TextAssetPatcher.Run(args[1..]);
         }
+        if (args.Length >= 1 && args[0] == "dumpta")
+        {
+            return TextAssetDumper.Run(args[1..]);
+        }
+        if (args.Length >= 1 && args[0] == "listta")
+        {
+            return TextAssetLister.Run(args[1..]);
+        }
         if (args.Length >= 1 && args[0] == "tmptext")
         {
             return TmpTextPatcher.Run(args[1..]);
