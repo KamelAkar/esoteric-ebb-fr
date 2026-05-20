@@ -1,0 +1,2136 @@
+Q_Sea	I see. 	Je vois. 
+Q_Sea	Oh? 	Oh ? 
+Q_Sea	Mais ensuite... 	Mais alors... 
+Q_Sea	You... 	Tu... 
+Q_Sea	Look. 	Écoute. 
+CB_Paper	ROLL12 int-Comprendre le texte draconique. 	Comprendre le texte draconique. 
+CB_Paper	E-Intéressant. 	Intéressant. 
+Q_Witness	Yes. 	Oui. 
+Q_Witness	You. 	Vous. 
+Q_Witness	More? 	Plus ? 
+Q_Witness	Yes. 	Oui. 
+Q_Witness	Pas vraiment. 	Ce ne l'est vraiment pas. 
+Q_Witness	I see. 	Je vois. 
+Q_Witness	You do. 	Oui, tu vois. 
+Q_Witness	Oh yes. 	Ah ça oui. 
+Q_Witness	Well... 	Eh bien... 
+Q_Witness	It is. 	C'est vrai. 
+Q_Witness	What? 	Quoi ? 
+Q_Witness	Yes. 	Oui. 
+Q_Witness	E-J'imagine que je suis tueur de troll maintenant. 	J'imagine que je suis tueur de troll maintenant. 
+Q_Resistance	Huh? 	Hein ? 
+Q_Resistance	No! 	Non ! 
+Q_Resistance	No. 	Non. 
+Q_Resistance	M-So... 	Alors... 
+Q_Resistance	Yes. 	Oui. 
+Q_Resistance	No! 	Non ! 
+Q_Resistance	What? 	Quoi ? 
+TS_Ettir	(Baisser la tête.) 	(Incliner la tête.) 
+TS_Ettir	\"C'est moi. Bonjour.\" 	« C'est moi. Bonjour. » 
+TS_Ettir	Pas vraiment une présentation, plutôt une liste de courtoisie cochée. 	Pas vraiment une présentation, plutôt une formalité d'étiquette à cocher. 
+TS_Ettir	\"Yes.\" 	« Oui. » 
+TS_Ettir	\"Yes.\" 	« Oui. » 
+TS_Ettir	« Je suis en désaccord. » 	« Je ne suis pas d'accord. » 
+TS_Ettir	\"Je suis d'accord.\" 	« Je suis d'accord. » 
+TS_Ettir	ROLL8 cha-Lui dire ce que vous pensez de ses multiples yeux. 	Lui dire ce que vous pensez de ses multiples yeux. 
+TS_Ettir	(Garder ta bouche close.) 	(Garder la bouche close.) 
+TS_Ettir	Oh no. 	Oh non. 
+TS_Ettir	(Se lever.) 	(Se relever.) 
+TS_Ettir	COWARD. 	LÂCHE. 
+TS_Ettir	Il serre les dents. \"You ever heard of celestial punishment?\" 	Il serre les dents. « T'as déjà entendu parler du châtiment céleste ? » 
+TS_Ettir	\"Do <b>not</b> mess with her.\" Il fait un pas en arrière. 	« <b>Ne</b> te frotte pas à elle. » Il fait un pas en arrière. 
+TS_Ettir	(La fixer simplement.) 	(Se contenter de la fixer.) 
+TS_Ettir	R-(Faire un pas en avant.) « Ne me manquez pas de respect, ange. » 	(Faire un pas en avant.) « Ne me manquez pas de respect, ange. » 
+TS_Ettir	\"Ouais, ouais. 'Maluti shen-mo' to you too.\" 	« Ouais, ouais. « Maluti shen-mo » à vous aussi. » 
+TS_Ettir	One. 	Un. 
+TS_Ettir	Step. 	Pas. 
+TS_Ettir	(Garder le silence.) 	(Rester silencieux.) 
+TS_Ettir	\"Pardon.\" 	« Désolé. » 
+TS_Ettir	\"Non. Tu ne l'es pas.\" 	« Non. Vous ne l'êtes pas. » 
+TS_Ettir	« ... Oui. » 	« ... D'accord. » 
+TS_Ettir	\"Yes.\" 	« Oui. » 
+TS_Ettir	\"Quelle causeuse.\" 	« Quelle causeuse. » 
+TS_Ettir	E-Oh là là. 	Aïe aïe. 
+TS_Ettir	\"Quelle causeuse.\" 	« Quelle causeuse. » 
+TS_Ettir	\"Ah. C'est vrai. He wants you to sleep in there.\" 	« Ah. D'accord. Il veut que tu dormes là-dedans. » 
+TS_Ettir	E-...C'est ça. 	...C'est cela. 
+TS_Ettir	E-Hocher la tête. 	Hocher la tête. 
+TS_Ettir	\"Non, tu ne l'es plus.\" 	« Vous ne l'êtes pas. » 
+TS_Ettir	\"Non, tu ne l'es plus.\" 	« Vous ne l'êtes pas. » 
+TS_Ettir	\"No.\" 	« Non. » 
+TS_Ettir	\"Non, tu ne l'es plus.\" 	« Vous ne l'êtes pas. » 
+TS_Ettir	\"No.\" 	« Non. » 
+TS_Ettir	« S'il vous plaît ? » 	« S'il te plaît ? » 
+TS_Ettir	\"Okay.\" 	« D'accord. » 
+TS_Ettir	\"No.\" 	« Non. » 
+TS_Ettir	Si, tu oseras. 	Oui, tu le feras. 
+TS_Ettir	\"What?\" 	« Quoi ? » 
+TS_Ettir	\"Hah.\" 	« Hah. » 
+TS_Ettir	\"Oh. Uh. Génial. Good job, lady.\" 	« Oh. Euh. Génial. Bien joué, madame. » 
+TS_Arn_Kiosk	\"No.\" 	« Non. » 
+TS_Arn_Kiosk	Il rit. \"You sound like my dad!\" 	Il rit. « Vous parlez comme mon père ! » 
+TS_Arn_Kiosk	\"Yes.\" 	« Oui. » 
+TS_Arn_Kiosk	\"Uh.\" 	« Euh. » 
+TS_Arn_Kiosk	Il regarde autour de lui. \"Do you wanna... buy something?\" 	Il regarde autour de lui. « Vous voulez... acheter quelque chose ? » 
+TS_Arn_Kiosk	« J'ai des questions pour toi. » 	« J'ai des questions pour vous. » 
+TS_Arn_Kiosk	E-\"No.\" 	« Non. » 
+TS_Arn_Kiosk	\"Okay?\" 	\"D'accord ?\" 
+TS_Arn_Kiosk	\"Excellent choix ! Women's magazines are really popular these days. Even among men!\" 	« Excellent choix ! Les magazines féminins sont très populaires en ce moment. Même chez les hommes ! » 
+TS_Arn_Kiosk	He quickly stammers out something else as he hands over the newspaper. \"Sorry, Enfin...\" 	Il bredouille rapidement autre chose en vous tendant le journal. « Désolé, je veux dire... » 
+TS_Arn_Kiosk	\"Bon choix. Most people choose the Post these days.\" 	« Bon choix. La plupart des gens choisissent le Post en ce moment. » 
+TS_Arn_Kiosk	« ...D'accord. » 	« ... D'accord. » 
+TS_Arn_Kiosk	\"Uh...\" 	« Euh... » 
+TS_Arn_Kiosk	\"J'en sais rien ?\" 	« Je ne sais pas ? » 
+TS_Arn_Kiosk	\"Pour quoi ?\" 	« Pour quoi ? » 
+TS_Arn_Kiosk	E-« D'accord. Pas de souci, merci, citoyen. » Quel gamin bizarre. 	« D'accord. Bien sûr, merci, citoyen. » Quel gamin bizarre. 
+TS_Arn_Kiosk	\"Uh...\" 	« Euh... » 
+TS_Arn_Kiosk	\"Laisse tomber.\" 	« Laissez tomber. » 
+TS_Arn_Kiosk	E-« C'est très suspect. Ne fais pas ça aux gens. » 	« C'est très suspect. Ne fais pas ça aux gens. »\"\" 
+TS_Arn_Kiosk	E-« D'accord, salut. » 	« D'accord 
+TS_Arn_Kiosk	Il plisse les yeux. \"Three... crowns?\" 	Il plisse les yeux. « Trois... couronnes ? » 
+TS_Arn_Kiosk	\"Oh. D'accord...\" 	« Oh. D'accord... » 
+TS_Arn_Kiosk	\"Okay?\" 	\"D'accord ?\" 
+TS_Arn_Kiosk	« Pitié. » 	« S'il vous plaît. » 
+TS_Arn_Kiosk	He looks down. \"Please. Fais-le simplement.\" 	Il baisse les yeux. « S'il vous plaît. Faites-le. » 
+TS_Arn_Kiosk	E-(Lui faire un bref signe de tête.) 	(Lui faire un bref signe de tête.) 
+TS_Arn_Kiosk	The kid glances around the corner of the shop. Puis il hausse les épaules. \"Fine. But don't tell anyone.\" 	Le gamin jette un œil au coin de la boutique. Puis il hausse les épaules. « Bon. Mais ne le dites à personne. » 
+TS_Arn_Kiosk	\"Let's fuck him together. You and me.\" (Tendre la main.) 	« Niquons-le ensemble. Toi et moi. » (Tendre la main.) 
+TS_Arn_Kiosk	\"N'aie pas peur. Azgal will return to us.\" (Squeeze his hand.) 	« N'aie pas peur. Azgal nous reviendra. » (Lui serrer la main.) 
+TS_Arn_Kiosk	\"No. Bien sûr que non.\" 	\"Non. Bien sûr que non.\" 
+TS_Arn_Kiosk	\"Yeah! Exactement !\" 	« Ouais ! Exactement ! » 
+TS_Arn_Kiosk	\"What?\" 	« Quoi ? » 
+TS_Arn_Kiosk	\"Il plaisante.\" 	« Il plaisante. » 
+TS_Arn_Kiosk	\"Uh...\" 	« Euh... » 
+TS_Arn_Kiosk	« ...D'accord. » 	« ... D'accord. » 
+TS_Arn_Kiosk	\"Eh. On verra.\" 	« Bof. On verra. » 
+TS_Arn_Kiosk	\"Sure.\" 	« Bien sûr. » 
+TS_Arn_Kiosk	\"C'est juste.\" 	« C'est juste. » 
+TS_Arn_Kiosk	\"Nice!\" 	« Cool ! » 
+TS_Arn_Kiosk	\"Intéressant.\" (Barely even listen.) 	« Intéressant. » (À peine écouter.) 
+TS_Arn_Kiosk	\"Dommage.\" 	« Dommage. » 
+TS_Arn_Kiosk	\"Très intéressant. Although, I'm not involved in any of this, of course.\" 	« Très intéressant. Bien que, je ne sois impliqué dans rien de tout cela, évidemment. » 
+TS_Arn_Kiosk	« ...Vous <i>quoi</i> ? » 	« ...Tu <i>quoi</i> ? » 
+TS_Arn_Kiosk	« Vous m'avez entendu. » 	« Tu m'as entendu. » 
+TS_Arn_Kiosk	\"...Oh. D'accord.\" 	« ...Oh. D'accord. » 
+TS_Arn_Kiosk	\"C'est juste. I get tired of it too.\" 	« C'est juste. Moi aussi j'en suis fatigué. » 
+TS_Arn_Kiosk	Il rit. \"Same!\" 	Il rit. « Pareil ! » 
+TS_Arn_Kiosk	« D'accord. Euh... » 	« Bien. Euh... » 
+TS_Arn_Kiosk	\"That's it, I guess. But... huh. Intéressant.\" 	« C'est tout, j'imagine. Mais... hein. Intéressant. » 
+TS_Arn_Kiosk	\"What?\" 	« Quoi ? » 
+TS_Arn_Kiosk	« Qui ? » 	« Qui ça ? » 
+TS_Arn_Kiosk	Il hausse les épaules. \"Rien ne vient à l'esprit. Enfin...\" 	Il hausse les épaules. « Rien ne me vient à l'esprit. Je veux dire... » 
+TS_Arn_Kiosk	\"Yeah?\" 	« Ouais ? » 
+TS_Arn_Kiosk	\"C'est... yeah. I've heard that before.\" 	« C'est... ouais. J'en ai déjà entendu parler. » 
+TS_Arn_Kiosk	« Raconte-moi. » 	« Dites-moi. » 
+TS_Arn_Kiosk	\"Intéressant. Thanks for telling me.\" 	« Intéressant. Merci de me l'avoir dit. » 
+TS_Arn_Kiosk	\"Compréhensible.\" 	« Compréhensible. » 
+TS_Arn_Kiosk	\"I guess? Or more like, dirty money. Corruption. Stuff.\" Il hausse les épaules. 	« J'imagine ? Ou plutôt, l'argent sale. La corruption. Des trucs. » Il hausse les épaules. 
+TS_Arn_Kiosk	Il ricane. \"I don't think anybody thinks the dwarves are gonna actually win.\" 	Il glousse. « Je pense pas que quelqu'un croie que les nains vont vraiment gagner. » 
+TS_Arn_Kiosk	« Pas de problème. » 	« Pas de souci. » 
+TS_Arn_Kiosk	\"Uh.\" 	« Euh. » 
+TS_Arn_Kiosk	« Continue. » 	« Continuez. » 
+TS_Arn_Kiosk	It was. 	C'en était une. 
+TS_Arn_Kiosk	Weird? 	Bizarre ? 
+TS_Arn_Kiosk	\"Intéressant.\" 	« Intéressant. » 
+TS_Arn_Kiosk	Il te fixe. \"Like... a conversation?\" 	Il vous fixe. « Genre... une conversation ? » 
+TS_Arn_Kiosk	\"Yes. Genre maintenant.\" 	« Oui. Comme là, maintenant. » 
+TS_Arn_Kiosk	\"...Laisse tomber.\" 	« ...Laisse tomber. » 
+TS_Arn_Kiosk	\"No?\" 	\"Non ?\" 
+TS_Arn_Kiosk	\"Je ne sais pas. I don't know what that would be like.\" 	« Je sais pas. Je sais pas à quoi ça ressemblerait. » 
+TS_Arn_Kiosk	\"J'en sais rien ? I don't know what that would be like.\" 	« Je sais pas ? Je sais pas à quoi ça ressemblerait. » 
+TS_Arn_Kiosk	\"Pas vraiment.\" 	« Pas vraiment. » 
+TS_Arn_Kiosk	\"I...\" 	« Je... » 
+TS_Arn_Kiosk	\"Yeah.\" 	« Ouais. » 
+TS_Arn_Kiosk	M-« Tu es sûr de l'avoir vu ? » 	« Tu es sûr de l'avoir vu ? »\"\" 
+TS_Arn_Kiosk	\"I-\" 	« Je— » 
+TS_Arn_Kiosk	\"Yeah?\" 	« Ouais ? » 
+TS_Arn_Kiosk	« Très bien. » 	« D'accord. » 
+TS_Arn_Kiosk	\"Yeah.\" 	« Ouais. » 
+TS_Arn_Kiosk	« C'est vrai ! » 	« Il l'est ! » 
+TS_Arn_Kiosk	\"Uh.\" 	« Euh. » 
+TS_Arn_Kiosk	\"He's not very talkative. But he usually fishes behind the kiosk in the afternoons. That's his only break from work, Je crois.\" 	« Il n'est pas très bavard. Mais il pêche d'habitude derrière le kiosque l'après-midi. C'est sa seule pause de travail, je crois. » 
+TS_Arn_Kiosk	Il hausse les épaules. \"Other kiosk-kids get like, half of that. Thalassos is pretty generous.\" 	Il hausse les épaules. « Les autres gamins de kiosque touchent genre la moitié de ça. Thalassos est plutôt généreux. » 
+TS_Arn_Kiosk	Right. 	D'accord. 
+TS_Arn_Kiosk	\"Tu l'as fait. I apologize.\" 	« C'est vrai. Je m'excuse. » 
+TS_Arn_Kiosk	\"Eh bien alors.\" 	« Bon, eh bien. » 
+TS_Arn_Kiosk	\"Hm. Uh. No. Pas vraiment.\" 	« Hm. Euh. Non. Pas vraiment. » 
+TS_Arn_Kiosk	ROLL10 cha-Le convaincre de te le dire. Par le pouvoir de la manipulation sociale. 	Le convaincre de te le dire. Par le pouvoir de la manipulation sociale. 
+TS_Arn_Kiosk	\"Laisse tomber. Pour l'instant.\" 	« Laisse tomber. Pour l'instant. » 
+TS_Arn_Kiosk	\"Oh...\" 	« Oh... » 
+TS_Arn_Kiosk	\"Uh...\" 	« Euh... » 
+TS_Arn_Kiosk	(Le fixer d'un regard noir.) 	(Le fusiller du regard.) 
+TS_Arn_Kiosk	« Raconte-moi. » 	« Dites-moi. » 
+TS_Arn_Kiosk	« Prenez votre temps. » 	« Prends ton temps. » 
+TS_Arn_Kiosk	The kid shakes his head. \"Ridicule.\" 	Le gamin secoue la tête. « Ridicule. » 
+TS_Arn_Kiosk	\"Frank fils de Frank.\" 	« Frank fils de Frank. » 
+TS_Arn_Kiosk	« Pas de problème. » 	« Pas de souci. » 
+TS_Arn_Kiosk	\"I saw a bug. Ou quelque chose.\" 	« J'ai vu un insecte. Ou un truc du genre. » 
+TS_Arn_Kiosk	\"Pardon.\" 	« Désolé. » 
+TS_Arn_Kiosk	\"Uh...\" 	« Euh... » 
+TS_Arn_Kiosk	\"Good!\" 	« Bien ! » 
+TS_Arn_Kiosk	Whoops. 	Oups. 
+TS_Arn_Kiosk	Tu es seul à présent. 	Tu es seul maintenant. 
+TS_Arn_Kiosk	Damn! 	Bon sang ! 
+TS_Arn_Kiosk	\"No! Bien sûr que non !\" 	« Non ! Bien sûr que non ! » 
+TS_Arn_Kiosk	\"No!\" 	« Non ! » 
+TS_Arn_Kiosk	ROLL17 con-Ne pas paniquer. 	Ne pas paniquer. 
+TS_Arn_Kiosk	(Se lever.) 	(Se relever.) 
+TS_Arn_Kiosk	« Ne refaites pas ça. » 	« Refais pas ça. » 
+TS_Arn_Kiosk	E-(Juste y aller.) 	(Partir, c'est tout.) 
+TS_Arn_Kiosk	\"Tais-toi.\" 	« Tais-toi. » 
+TS_Arn_Kiosk	E-Temps de partir. 	Il est temps d'y aller. 
+TS_Arn_Kiosk	E-« Je suis un expert à éviter les conséquences. » 	« Je suis un expert à éviter les conséquences. »\"\" 
+LP_Lisa	\"No.\" 	« Non. » 
+LP_Lisa	\"Manifestement.\" 	« Clairement. » 
+LP_Lisa	\"C'est... insane.\" 	« C'est... dingue. » 
+LP_Lisa	\"What?\" 	« Quoi ? » 
+LP_Lisa	\"Yeah. Potentiellement.\" 	« Ouais. Potentiellement. » 
+LP_Lisa	The goblin leans in, hissing out, \"It's a hag, Cleric. Prudence.\" 	Le gobelin se penche, sifflant : « C'est une guenaude, Clerc. Prudence. » 
+LP_Lisa	« Je vous crois. » 	« Je te crois. » 
+LP_Lisa	\"Vous ne l'êtes pas ?\" 	« Vous ne l'êtes pas ? » 
+LP_Lisa	\"Yes.\" 	« Oui. » 
+LP_Lisa	« Bien. » 	« Très bien. » 
+LP_Lisa	« ...D'accord. » 	« ... D'accord. » 
+LP_Lisa	(Avoir l'air triste.) \"Un jour...\" 	(Avoir l'air triste.) « Un jour... » 
+LP_Lisa	\"Hm. Intéressant.\" 	« Hum. Intéressant. » 
+LP_Lisa	Elle lève les yeux au ciel. \"<i>Will do, general</i>.\" 	Elle lève les yeux au ciel. « <i>Compris, mon général</i>. » 
+LP_Lisa	E-\"That's all. Pour l'instant.\" 	« C'est tout. Pour l'instant. » 
+LP_Lisa	\"Yes?\" 	« Oui ? » 
+LP_Lisa	\"What?\" 	« Quoi ? » 
+LP_Lisa	« Êtes-vous fâchée ? » 	« Êtes-vous fou ? » 
+LP_Lisa	\"C'est vrai. I should have replaced it with a replica. Darn.\" 	« C'est vrai. J'aurais dû la remplacer par une réplique. Mince. » 
+LP_Lisa	\"No?\" 	\"Non ?\" 
+LP_Lisa	\"Yes.\" 	« Oui. » 
+LP_Lisa	(Hocher la tête vivement.) 	(Hocher fortement la tête.) 
+LP_Lisa	Sad. 	Triste. 
+LP_Lisa	\"I don't have the power to cast a spell of that caliber. Loin de là.\" 	« Je n'ai pas le pouvoir de lancer un sort de ce calibre. Loin de là. » 
+LP_Lisa	Elle inspire profondément. \"Merci.\" 	Elle prend une profonde inspiration. « Merci. » 
+LP_Lisa	Elle fronce les sourcils. « Je m'en moque. » 	Elle fronce les sourcils. « Je m'en fiche. » 
+LP_Lisa	Ses yeux s'agrandissent. 	Ses yeux s'agrandissent. « La... quoi ? » 
+LP_Lisa	Elle fronce les sourcils. \"No. But it doesn't take a hag to figure out it. Manifestement.\" 	Elle fronce les sourcils. « Non. Mais il n'y a pas besoin d'une guenaude pour le deviner. Manifestement. » 
+LP_Lisa	Elle hoche la tête. 	Elle acquiesce. 
+LP_Lisa	« Et vous ? » 	« Et toi ? » 
+LP_Lisa	\"Mm.\" 	« Mm. » 
+LP_Lisa	Elle fronce les sourcils. \"Don't you think I know that?\" 	Elle fronce les sourcils. « Tu crois pas que je le sais ? » 
+LP_Lisa	\"Yeah.\" 	« Ouais. » 
+LP_Lisa	\"Another reason why I'm secluding myself. Pour l'instant.\" 	« Une autre raison pour laquelle je m'isole. Pour l'instant. » 
+LP_Lisa	\"Eh.\" 	« Bof. » 
+LP_Lisa	« Bien. » 	« Très bien. » 
+LP_Lisa	\"Pourquoi pas ?\" 	« Pourquoi pas ? » 
+LP_Lisa	\"Une excellente question. I've been trying to figure it out myself.\" 	« Excellente question. J'essaie moi-même de le découvrir. » 
+LP_Lisa	Elle hoche la tête. 	Elle acquiesce. 
+LP_Lisa	\"Talk.\" 	« Parlez. » 
+LP_Lisa	\"Yes.\" 	« Oui. » 
+LP_Lisa	\"No.\" 	« Non. » 
+LP_Lisa	\"Quoi ? Non !\" 	« Quoi ? Non ! » 
+LP_Lisa	\"Bien sûr.\" 	« Bien sûr. » 
+LP_Lisa	\"See?\" 	« Tu vois ? » 
+LP_Lisa	He shrugs, and whispers back, \"Je ne sais pas. Do you think you could even take a hag?\" 	Il hausse les épaules, et chuchote en retour : « J'sais pas. Tu crois que tu peux te frotter à une guenaude ? » 
+LP_Lisa	\"Je ne sais pas. Do you think I could?\" 	« Je ne sais pas. Tu penses que je pourrais ? » 
+LP_Lisa	Faux. 	Pas vrai. 
+LP_Lisa	Coward. 	Lâche. 
+LP_Lisa	\"Fair.\" 	« Juste. » 
+LP_Lisa	\"Mm. Oui.\" 	« Mm. Oui. » 
+LP_Lisa	\"Ça marche.\" 	« Ça marche. » 
+LP_Lisa	\"No.\" 	« Non. » 
+LP_Lisa	« Non, vous ne pouvez pas. » 	« Non, tu ne l'as pas. » 
+LP_Lisa	\"Oh, yeah, as it started getting dark, suddenly these four other flying bird-folk come in and start bowing and trying to talk with people. No one understands them, except this one lady with a Necklace of Comprehend Le langage.\" 	« Oh, ouais, alors que la nuit commençait à tomber, soudain quatre autres hommes-oiseaux volants arrivent et se mettent à s'incliner et à essayer de parler avec les gens. Personne ne les comprend, sauf une dame avec un Collier de Compréhension des Langues. » 
+LP_Lisa	The hag cackles loudly. \"Oh dieux. So did he get help?\" 	La guenaude ricane bruyamment. « Oh, dieux. Alors il a été pris en charge ? » 
+LP_Lisa	\"Ouais, ouais. The other birds got him to leave. They even helped clean up the nest, and returned the 'stolen' bike.\" 	« Ouais, ouais. Les autres oiseaux l'ont fait partir. Ils ont même aidé à nettoyer le nid, et rendu le vélo « volé ». » 
+LP_Lisa	\"Ouais, ouais. He just needs a minute. Don't you, buddy?\" 	« Ouais, ouais. Il a juste besoin d'une minute. N'est-ce pas, mon pote ? » 
+LP_Lisa	\"Here.\" 	« Tenez. » 
+LP_Lisa	\"Ouais, ouais. I will.\" 	« Ouais, ouais. Je vais le faire. » 
+LP_Lisa	« Je le ferai. » 	« Je vais. » 
+LP_Lisa	\"Bien sûr. While it's not my main source of income, some on-demand divining helps fill up the coffers quite nicely.\" 	« Bien sûr. Bien que ce ne soit pas ma principale source de revenus, un peu de divination à la demande aide à bien remplir les coffres. » 
+LP_Lisa	Elle hausse les épaules. \"I know the average cleric isn't exactly wealthy...\" 	Elle hausse les épaules. « Je sais que le clerc moyen n'est pas exactement fortuné... » 
+LP_Lisa	\"Pas trop mal. I've seen witches charge upwards of a thousand.\" 	« Pas trop mal. J'ai vu des sorcières facturer jusqu'à mille. » 
+LP_Lisa	« Je ne peux pas me le permettre. » 	\"J'ai pas les moyens.\" 
+LP_Lisa	\"Sure.\" 	« Bien sûr. » 
+LP_Lisa	\"Good!\" 	« Bien ! » 
+LP_Lisa	\"What?\" 	« Quoi ? » 
+LP_Lisa	« Si terrible que ça, hein ? » 	« Si grave que ça, hein ? » 
+LP_Lisa	\"Tu es sûr ?\" 	« Êtes-vous sûre ? » 
+LP_Lisa	\"Yes.\" 	« Oui. » 
+LP_Lisa	\"No.\" 	« Non. » 
+LP_Lisa	S'il te plaît non. 	Je t'en prie ne le fais pas. 
+LP_Lisa	\"Possiblement.\" 	« Possiblement. » 
+LP_Lisa	\"Non. Non... it's more like...\" 	« Non. Non... c'est plutôt... » 
+LP_Lisa	\"En quel sens ?\" 	\"De quelle manière ?\" 
+LP_Lisa	\"Yes.\" 	« Oui. » 
+LP_Lisa	M-« Ma question est... » 	« Ma question est... »\"\" 
+LP_Lisa	\"But Je ne sais pas. I'm not the magic man here.\" 	« Mais j'sais pas. C'est pas moi le mec à magie ici. » 
+LP_Lisa	Maybe? 	Peut-être ? 
+LP_Lisa	\"Intéressant. Sounded almost like a guide, didn't it?\" 	« Intéressant. Ça sonnait presque comme un guide, non ? » 
+LP_Lisa	\"<i>C'est tout. Bit of a weird one, but...</i>\" 	« <i>C'est tout. Un peu bizarre, mais...</i> » 
+LP_Lisa	\"Oh dieux.\" 	« Oh dieux. » 
+LP_Lisa	\"C'est toujours le cas.\" 	« Ça l'est toujours. » 
+LP_Lisa	\"Compréhensible.\" 	« Compréhensible. » 
+LP_Lisa	\"De rien.\" 	« Je vous en prie. » 
+LP_Lisa	\"Wow.\" 	« Ouah. » 
+LP_Lisa	\"Quelque chose comme ça.\" 	« Quelque chose comme ça. » 
+LP_Lisa	\"No.\" 	« Non. » 
+LP_Lisa	« Ouais, ouais. » 	« Bien sûr, bien sûr. » 
+LP_Lisa	\"Hm.\" 	« Hm. » 
+LP_Lisa	Yes? 	Oui ? 
+LP_Lisa	\"Yes. Exactement.\" 	« Oui. Exactement. » 
+LP_Lisa	\"Attends. Are you immortal?\" 	« Attendez. Vous êtes immortelle ? » 
+LP_Lisa	Elle ricane bruyamment. 	Elle ricane. 
+LP_Lisa	Elle ricane bruyamment. 	Elle ricane. 
+LP_Lisa	Elle sourit. \"The grime and gruel. The moss and stone. We spawn out of the evil of man...\" 	Elle sourit. « La crasse et la mélasse. La mousse et la pierre. Nous naissons du mal de l'homme... » 
+LP_Lisa	« Vous m'avez entendu. » 	« Tu m'as entendu. » 
+LP_Lisa	« Continue. » 	« Continuez. » 
+LP_Lisa	\"Oh dieux. What kind of enchantment?\" 	« Oh, dieux. Quel genre d'enchantement ? » 
+LP_Lisa	\"Ugh.\" 	\"Beurk.\" 
+LP_Lisa	\"That's a very interesting and horrifying story. Merci.\" 	« C'est une histoire très intéressante et horrifique. Merci. » 
+LP_Lisa	Elle s'esclaffe. \"Just like you're not <i>really</i> a human.\" 	Elle s'esclaffe. « Tout comme tu n'es pas <i>vraiment</i> un humain. » 
+LP_Lisa	\"I-\" 	« Je— » 
+LP_Lisa	\"You-\" 	« Vous — » 
+LP_Lisa	\"What-\" 	« Quoi— » 
+LP_Lisa	Elle ricane bruyamment. 	Elle ricane. 
+LP_Lisa	\"Yes.\" 	« Oui. » 
+LP_Lisa	\"S'il te plaît non. The HWBT needs him a bit longer.\" 	« S'il te plaît, non. La HWBT en a encore besoin un peu plus longtemps. » 
+LP_Lisa	Le gobelin hausse les épaules. \"Sure. Post-election, Sageleaf won't have any problem with cleric dismemberment.\" 	Le gobelin hausse les épaules. « Bien sûr. Post-élection, Feuille-de-Sauge n'aura aucun problème avec le démembrement de clercs. » 
+LP_Lisa	\"Deal!\" 	« Marché conclu ! » 
+LP_Lisa	(Nod.) \"Intéressant.\" 	(Hocher la tête.) « Intéressant. » 
+LP_Lisa	\"S'il te plaît non.\" 	« S'il vous plaît, non. » 
+LP_Lisa	Elle ricane bruyamment. \"We'll see!\" 	Elle ricane. « On verra ! » 
+LP_Lisa	\"S'il te plaît non.\" 	« S'il vous plaît, non. » 
+LP_Lisa	\"On verra.\" 	« On verra. » 
+LP_Lisa	« On verra. » 	\"On verra.\" 
+LP_Lisa	« ...D'accord. » 	« ... D'accord. » 
+LP_Lisa	\"Hm.\" 	« Hm. » 
+LP_Lisa	\"Continuez.\" 	\"Continuez donc.\" 
+LP_Lisa	Oh? 	Oh ? 
+LP_Lisa	\"Que veux-tu dire ?\" 	« Que voulez-vous dire ? » 
+LP_Lisa	Elle ricane bruyamment. 	Elle ricane. 
+LP_Lisa	Elle ricane bruyamment. 	Elle ricane. 
+LP_Lisa	\"Es-tu certain ?\" 	« Tu es certain ? » 
+LP_Lisa	\"Fine.\" 	« Bon. » 
+LP_Lisa	YES! 	OUI ! 
+LP_Lisa	\"Plus ou moins, oui. Although...\" 	« Plus ou moins, oui. Bien que... » 
+LP_Lisa	ROLL16 wis-Tenter de lire les os. 	Tenter de lire les os. 
+LP_Lisa	ROLL16 int-Déchiffrer la mécanique ésotérique en jeu. 	Déchiffrer la mécanique ésotérique en jeu. 
+LP_Lisa	\"Plus tard peut-être.\" 	« Plus tard, peut-être. » 
+LP_Lisa	\"Oh?\" 	« Oh ? » 
+LP_Lisa	\"No.\" 	« Non. » 
+LP_Lisa	Hehe. 	Hihi. 
+LP_Lisa	\"Parfait. Rix can be a bit of a diva sometimes.\" 	« Parfait. Rix peut être un peu diva parfois. » 
+LP_Lisa	Easy. 	Facile. 
+LP_Lisa	Easy. 	Facile. 
+LP_Lisa	Unless? 	À moins que ? 
+LP_Lisa	Ce serait... 	Cela ferait... 
+LP_Lisa	Unwise. 	Imprudent. 
+LP_Lisa	\"Mm?\" 	« Mm ? » 
+LP_Lisa	\"Mm.\" 	« Mm. » 
+LP_Lisa	Hm. 	Hum. 
+LP_Lisa	How? 	Comment ? 
+LP_Lisa	Fais-le simplement. 	Fais-le, c'est tout. 
+LP_Lisa	\"Yes.\" 	« Oui. » 
+LP_Lisa	Elle ricane bruyamment. 	Elle ricane. 
+LP_Lisa	\"Sure.\" 	« Bien sûr. » 
+LP_Lisa	\"That's it! Tu peux le voir...\" 	« C'est ça ! Tu peux le voir... » 
+LP_Lisa	\"Je suis impressionné.\" 	« Je suis impressionnée. » 
+LP_Lisa	\"Il s'est passé quelque chose ?\" 	« Quelque chose s'est passé ? » 
+LP_Lisa	(La fixer simplement.) 	(Se contenter de la fixer.) 
+LP_Lisa	\"Uh...\" 	« Euh... » 
+LP_Lisa	(Te pencher.) \"I like buts.\" 	(Se pencher.) « J'aime bien les mais. » 
+LP_Lisa	« Continue. » 	« Continuez. » 
+LP_Lisa	\"Oh!\" 	« Oh ! » 
+LP_Lisa	\"Bonne chance.\" 	« Bonne chance. » 
+LP_Lisa	Elle ricane bruyamment. 	Elle ricane. 
+LP_Lisa	\"Eh.\" 	« Bof. » 
+LP_Lisa	« Quoi ?! » 	\"Quoi ?!\" 
+LP_Lisa	\"Bien. Compréhensible.\" 	« Bon. Compréhensible. » 
+LP_Lisa	\"Oh...\" 	« Oh... » 
+LP_Lisa	It's... 	C'est... 
+LP_Lisa	(Le saisir.) 	(L'attraper.) 
+LP_Lisa	Voilà. 	Et voilà. 
+LP_Lisa	Hm. 	Hum. 
+LP_Lisa	\"I am very happy. Merci.\" 	« Je suis très content. Merci. » 
+LP_Lisa	\"No.\" 	« Non. » 
+LP_Lisa	NO. 	NON. 
+LP_Lisa	Elle ricane bruyamment. 	Elle ricane. 
+LP_Lisa	« Quoi ?! » 	\"Quoi ?!\" 
+LP_Lisa	Elle ricane bruyamment. 	Elle ricane. 
+LP_Lisa	\"Pour sûr.\" 	« C'était sûr. » 
+LP_Lisa	\"Ouais, ouais. Clutch your pearls, will you?\" 	« Ouais, ouais. Tu vas serrer tes perles, hein ? » 
+LP_Lisa	Elle ricane bruyamment. 	Elle ricane. 
+LP_Lisa	M-« Donc pas de clients ici en bas, je suppose ? » 	« Donc pas de clients ici en bas 
+LP_Lisa	\"Pas vraiment. It's mostly lost keys.\" 	« Pas vraiment. C'est surtout des clés perdues. » 
+LP_Lisa	« Ça a l'air ennuyeux. » 	« Cela semble ennuyeux. » 
+LP_Lisa	\"Yup.\" 	« Ouaip. » 
+LP_Lisa	« J'aime cela. » 	« J'aime ça. » 
+LP_Lisa	Elle sourit. \"I like that title. The Freestriders tell me not to use it, for obvious reasons.\" 	Elle sourit. « J'aime ce titre. Les Libre-Marcheurs me disent de ne pas l'utiliser, pour des raisons évidentes. » 
+LP_Lisa	Creepy. 	Flippant. 
+LP_Lisa	\"Tu sais. The single most deadly battle, since possibly the Gate War?\" 	« Tu sais. La bataille la plus mortelle, depuis possiblement la Guerre de la Porte ? » 
+LP_Lisa	\"Oui, bien sûr. I know that one. I've heard about it. Rumors-wise.\" 	« Oui, bien sûr. Je connais celle-là. J'en ai entendu parler. En termes de rumeurs. » 
+LP_Lisa	Elle ricane bruyamment. 	Elle ricane. 
+LP_Lisa	\"Huh. Mais regardez-moi ça.\" 	« Hein. Regardez-moi ça. » 
+LP_Lisa	\"Maybe he can stay in there for a bit longer.\" (Laisser tomber.) 	« Peut-être qu'il peut rester là-dedans un peu plus longtemps. » (Laisser tomber.) 
+LP_Lisa	\"Eh.\" 	« Bof. » 
+LP_Lisa	\"Fine.\" 	« Bon. » 
+LP_Lisa	\"Qu'est-il arrivé ?!\" 	« Que s'est-il passé ?! » 
+LP_Lisa	\"Oh.\" 	« Oh. » 
+LP_Lisa	\"Ignore-le.\" 	« Ignore-le. » 
+Q_Print	IT IS. 	OUI. 
+Q_Print	It is. 	C'est vrai. 
+CB_CraniumAnt	Hm? 	Hm ? 
+CB_CraniumAnt	Gah! 	Argh ! 
+CB_CraniumAnt	Sup'. 	Salut. 
+CB_CraniumAnt	Duh. 	Bah ouais. 
+CB_CraniumAnt	ROLL16 str-L'écraser. 	Brise-la. 
+CB_CraniumAnt	\"Ah.\" 	« Ah. » 
+CB_CraniumAnt	E-Du beau boulot. 	Travail bien fait. 
+CB_CraniumAnt	\"Ouch!\" 	« Aïe ! » 
+CB_CraniumAnt	Great! 	Super ! 
+CB_CraniumAnt	\"Hm?\" 	« Hum ? » 
+CB_CraniumAnt	\"Bien sûr. I apologize.\" 	« Bien sûr. Je m'excuse. » 
+CB_CraniumAnt	\"Ah. Bien sûr.\" 	« Ah. Bien sûr. » 
+CB_CraniumAnt	\"Uh...\" 	« Euh... » 
+CB_CraniumAnt	\"Oh!\" 	« Oh ! » 
+CB_CraniumAnt	YES! 	OUI ! 
+CB_CraniumAnt	No. 	Non. 
+CB_CraniumAnt	Yes! 	Oui ! 
+CB_CraniumAnt	Um. 	Euh. 
+CB_CraniumAnt	YES! 	OUI ! 
+CB_CraniumAnt	No?! 	Non ?! 
+CB_CraniumAnt	Yey! 	Youpi ! 
+CB_CraniumAnt	E-Ce sera tout pour l'instant. 	C'est tout pour l'instant. 
+CB_CraniumAnt	Nah. 	Non. 
+CB_CraniumAnt	Nah. 	Non. 
+CB_CraniumAnt	Creepy. 	Flippant. 
+CB_CraniumAnt	Pour sûr. 	C'est sûr que oui. 
+CB_CraniumAnt	Heh. 	Hé. 
+CB_CraniumAnt	Uh. 	Euh. 
+CB_CraniumAnt	Hm. 	Hum. 
+CB_CraniumAnt	Yey! 	Youpi ! 
+CB_CraniumAnt	E-D'accord, petit pote. 	D'accord, petit pote. 
+CB_CraniumAnt	Hah! 	Hah ! 
+CB_CraniumAnt	E-Une bonne fourmi. 	Une bonne fourmi. 
+CB_CraniumAnt	Je— nous... ne savons pas. 	nous... ne savons pas. 
+CB_CraniumAnt	Gah...! 	Gah... ! 
+CB_CraniumAnt	E-D'accord. 	D'accord. 
+CB_CraniumAnt	Yo! 	Yo ! 
+CB_CraniumAnt	E-Réfléchis à ça, mon pote. 	Réfléchis à ça, mon pote. 
+TS_OilyPouch	FC14 int-\"Enfin... some.\" 	FC14 int-« Enfin... quelques-uns. » 
+TS_OilyPouch	\"Oh non.\" 	« Oh non. » 
+TS_OilyPouch	\"Damn.\" 	« Bon sang. » 
+TS_OilyPouch	ROLL7 int-Comprendre ce qui s'est passé ici. 	Comprendre ce qui s'est passé ici. 
+TS_OilyPouch	Yes. 	Oui. 
+TS_OilyPouch	Yes. 	Oui. 
+TS_OilyPouch	Or... 	Ou... 
+TS_OilyPouch	E-C'est déjà quelque chose. 	C'est déjà quelque chose. 
+Default_Shrine	M-(S'agenouiller.) 	(S'agenouiller.) 
+Default_Shrine	No. 	Non. 
+Default_Shrine	Indeed. 	En effet. 
+Default_Shrine	A rock? 	Un rocher ? 
+Default_Shrine	J'y réfléchirai. 	Je vais y réfléchir. 
+Default_Shrine	(Pray.) 	(Prier.) 
+Default_Shrine	No. 	Non. 
+Default_Shrine	What? 	Quoi ? 
+Default_Shrine	And... 	Et... 
+Default_Shrine	No. 	Non. 
+Default_Shrine	Okay. 	D'accord. 
+Default_Shrine	Fine. 	Très bien. 
+Default_Shrine	Good. 	Bien. 
+Default_Shrine	Deep. 	Profond. 
+Default_Shrine	Always. 	Toujours. 
+Default_Shrine	Vous le faites. 	Tu t'exécutes. 
+Default_Shrine	Quelque chose comme ça, oui. 	Quelque chose comme cela, oui. 
+Default_Shrine	Yes? 	Oui ? 
+Default_Shrine	ROLL16 wis-Tenter une Prière de Guérison. 	Tenter une Prière de Guérison. 
+DS_Rixbiter	M-« Vous êtes la propriétaire de la taverne ? Vous avez un tas d'informations qui pourraient m'aider dans mes quêtes ? » 	« Vous êtes la propriétaire de la taverne ? Vous avez un tas d'informations qui pourraient m'aider dans mes quêtes ? »\"\" 
+DS_Rixbiter	\"Merci. That's very kind.\" 	« Merci. C'est très aimable. » 
+DS_Rixbiter	\"Pas vraiment.\" 	« Pas vraiment. » 
+DS_Rixbiter	\"Oh? Qu'est-ce que ça veut dire ?\" 	« Oh ? Qu'est-ce que ça veut dire ? » 
+DS_Rixbiter	\"Tant pis. Good for you! Be nature's friend, or whatever!\" 	« Bon. Tant mieux pour vous ! Soyez l'ami de la nature, ou autre ! » 
+DS_Rixbiter	\"Sure.\" 	« Bien sûr. » 
+DS_Rixbiter	\"Parlez-moi de vous.\" 	« Parlez-moi de vous. » 
+DS_Rixbiter	E-« C'est tout pour l'instant. Merci, citoyen. » 	\"C'est tout pour l'instant. Merci, citoyen.\" 
+DS_Rixbiter	\"Pardon ?\" 	« Pardon ? » 
+DS_Rixbiter	« Oui, je t'en prie. » 	« Oui, s'il vous plaît. » 
+DS_Rixbiter	\"Lord Gorm! Bien sûr. I've heard of him. He's the last Paladin of Urth! He's very important to the city. I'd like to ask more about him.\" 	« Seigneur Gorm ! Bien sûr. J'ai entendu parler de lui. C'est le dernier Paladin d'Urth ! Il est très important pour la cité. J'aimerais en savoir plus à son sujet. » 
+DS_Rixbiter	\"<i>Tss</i>.\" 	« <i>Tss</i>. » 
+DS_Rixbiter	\"Tant pis. I tried.\" 	« Bon. J'ai essayé. » 
+DS_Rixbiter	\"Good.\" 	« Bien. » 
+DS_Rixbiter	\"Mais bonne chance. Not often she gives out a personal puzzle like that.\" 	« Mais bonne chance. Ce n'est pas souvent qu'elle propose une énigme personnelle comme ça. » 
+DS_Rixbiter	\"Two.\" 	« Deux. » 
+DS_Rixbiter	Elle sourit en coin. \"That I know of, at least. One was a bit more... discreet than the other.\" 	Elle sourit en coin. « Que je sache, du moins. L'un était un peu plus... discret que l'autre. » 
+DS_Rixbiter	ROLL6 cha-« Dites-moi. Qui a résolu ? » 	« Dites-moi. Qui a résolu ? »\"\" 
+DS_Rixbiter	\"Yep!\" 	« Ouaip ! » 
+DS_Rixbiter	Elle pouffe. \"Plus tard peut-être.\" 	Elle glousse. « Plus tard, peut-être. » 
+DS_Rixbiter	\"No.\" 	« Non. » 
+DS_Rixbiter	The fiendish woman nods. \"Bien sûr. Refuted it is.\" 	La femme fiélonne hoche la tête. « Bien sûr. Réfutée. » 
+DS_Rixbiter	\"No.\" 	« Non. » 
+DS_Rixbiter	Le gobelin lève un sourcil. 	Le gobelin hausse un sourcil. 
+DS_Rixbiter	\"En fait, oui.\" 	« En fait, oui. » 
+DS_Rixbiter	No. 	Non. 
+DS_Rixbiter	But no. 	Mais non. 
+DS_Rixbiter	\"No.\" 	« Non. » 
+DS_Rixbiter	\"Pas vraiment.\" 	« Pas vraiment. » 
+DS_Rixbiter	\"Mm?\" 	« Mm ? » 
+DS_Rixbiter	\"Bon sang ! And here I was, hoping a big strong Cleric would come sweep me off my feet.\" 	« Bon sang ! Et moi qui espérais qu'un grand Clerc costaud viendrait me faire chavirer. » 
+DS_Rixbiter	\"Bien sûr...\" 	« Bien sûr... » 
+DS_Rixbiter	\"I'm more of a night-gal. Évidemment.\" 	« Je suis plutôt fille de la nuit. Évidemment. » 
+DS_Rixbiter	\"Like some kind of spy!\" Elle rit. \"Could you imagine?\" 	« Genre une sorte d'espion ! » Elle rit. « Vous imaginez ? » 
+DS_Rixbiter	\"Look, I see him around. He's not a regular. But when he does show up, he's loud and wants to perform. Tu sais...\" 	« Écoutez, je le croise. Il n'est pas habitué. Mais quand il se pointe, il est bruyant et veut se produire. Vous savez... » 
+DS_Rixbiter	\"No.\" 	« Non. » 
+DS_Rixbiter	\"C'est ridicule. That wouldn't work. Would it?\" 	« C'est ridicule. Ça ne marcherait pas. Non ? » 
+DS_Rixbiter	Elle hausse les épaules. \"Drunken ramblings. But... if I were you, I'd check Waterlane.\" 	Elle hausse les épaules. « Délires d'ivrogne. Mais... si j'étais vous, j'irais voir sur la Voie d'Eau. » 
+DS_Rixbiter	\"Sure.\" 	« Bien sûr. » 
+DS_Rixbiter	R-« J'ai trouvé une elfe morte dans le salon de thé. » 	« J'ai trouvé une elfe morte dans le salon de thé. »\"\" 
+DS_Rixbiter	Elle vous fixe. 	Elle te fixe. 
+DS_Rixbiter	\"Allez. The Cleric's tired. He <i>says things</i>.\" 	« Allons. Le Clerc est fatigué. Il <i>raconte des choses</i>. » 
+DS_Rixbiter	\"Je comprends. City business.\" 	« Je comprends. Affaires de la cité. » 
+DS_Rixbiter	\"Oh! Bien sûr.\" 	« Oh ! Bien sûr. » 
+DS_Rixbiter	\"Oui, madame.\" 	« Oui, madame. » 
+DS_Rixbiter	\"Liar.\" 	« Menteur. » 
+DS_Rixbiter	M-« Alors... je peux l'avoir ? » 	« Alors... je peux l'avoir ? »\"\" 
+DS_Rixbiter	\"Comme ça ?\" 	« Comme ça ? » 
+DS_Rixbiter	Elle rit. Puis s'arrête. \"Oh, you're serious.\" 	Elle rit. Puis s'arrête. « Oh, vous êtes sérieux. » 
+DS_Rixbiter	\"Oh...\" 	« Oh... » 
+DS_Rixbiter	\"Yeah.\" 	« Ouais. » 
+DS_Rixbiter	ROLL20 cha-La convaincre de vous parler de la harpie. 	La convaincre de vous parler de la harpie. 
+DS_Rixbiter	Elle hausse les épaules. \"Compréhensible. If there was a rogue hag running around, I'd be suspicious too.\" 	Elle hausse les épaules. « Compréhensible. S'il y avait une harpie en cavale, je serais aussi méfiante. » 
+DS_Rixbiter	\"Sapristi...!\" 	« Saintes enfers... ! » 
+DS_Rixbiter	\"Hah!\" 	« Ha ! » 
+DS_Rixbiter	Ouch. 	Aïe. 
+DS_Rixbiter	Yep. 	Ouais. 
+DS_Rixbiter	A what? 	Un quoi ? 
+DS_Rixbiter	Pas vraiment. 	Ce ne l'est vraiment pas. 
+DS_Rixbiter	\"C'est...\" 	« C'est... » 
+DS_Rixbiter	\"Rix?\" 	« Rix ? » 
+DS_Rixbiter	(Garder le silence.) 	(Rester silencieux.) 
+DS_Rixbiter	\"Rix?\" 	« Rix ? » 
+DS_Rixbiter	Rester silencieux. 	Reste silencieux. 
+DS_Rixbiter	\"Bon sang.\" 	« Bon sang. » 
+DS_Rixbiter	What? 	Quoi ? 
+DS_Rixbiter	\"Ah ouais ?\" 	« Ah ouais ? » 
+DS_Rixbiter	« J'aimerais bien voir ça. » 	« J'adorerais te voir essayer. » 
+DS_Rixbiter	Elle claque la langue. \"Maybe you should cool off, Cleric.\" 	Elle claque la langue. « Peut-être devriez-vous vous calmer, Clerc. » 
+DS_Rixbiter	E-« Bon. Gardez vos secrets. Les harpies sont sexistes de toute façon. » 	« Bon. Gardez vos secrets. Les harpies sont sexistes de toute façon. »\"\" 
+DS_Rixbiter	E-« Je pense que vous avez raison. Au revoir. » 	« Je pense que vous avez raison. Au revoir. »\"\" 
+DS_Rixbiter	Elle rit. \"Look, drunkards say all kinds of shit.\" 	Elle rit. « Écoutez, les ivrognes disent toutes sortes de conneries. » 
+DS_Rixbiter	Elle s'esclaffe. \"Being anti-democracy isn't a personality, Cleric.\" 	Elle ricane. « Être anti-démocratie n'est pas une personnalité, Clerc. » 
+DS_Rixbiter	\"C'est juste. You're clearly too brainwashed to reason with anyhow.\" 	« Soit. Vous êtes clairement trop endoctriné pour qu'on raisonne avec vous de toute façon. » 
+DS_Rixbiter	Elle soupire. \"Oh dieux... okay, so it's not that humans are bad, it's just...\" 	Elle soupire. « Oh par les dieux... d'accord, ce n'est pas que les humains soient mauvais, c'est juste... » 
+DS_Rixbiter	« Je suis en désaccord. » 	« Je ne suis pas d'accord. » 
+DS_Rixbiter	She gives you a deflated look. \"C'est... that's allowed, Cleric.\" 	Elle vous lance un regard dégonflé. « C'est... c'est permis, Clerc. » 
+DS_Rixbiter	\"Pardon ?\" 	« Pardon ? » 
+DS_Rixbiter	\"Peut-être.\" 	« Peut-être. » 
+DS_Rixbiter	\"But don't worry. I'm a forgiving lady.\" Elle vous adresse un large sourire. 	« Mais ne vous inquiétez pas. Je suis une dame indulgente. » Elle vous adresse un large sourire. 
+DS_Rixbiter	Elle rit. \"Might be simplifying the issue a bit, but sure.\" 	Elle rit. « Je simplifie peut-être un peu le problème, mais ouais. » 
+DS_Rixbiter	Elle rit. \"Oh, I gave him some snark, I did!\" 	Elle rit. « Oh, je lui ai sorti quelques piques, ouais ! » 
+DS_Rixbiter	\"Qui sait.\" 	« Qui sait. » 
+DS_Rixbiter	« De rien ! » 	« Je vous en prie ! » 
+DS_Rixbiter	\"I wonder why? Very strange.\" Elle fait un clin d'œil. 	« Je me demande pourquoi ? Très étrange. » Elle fait un clin d'œil. 
+DS_Rixbiter	FC7 int-\"You think the newspaper is behind the explosion?\" (Regarder autour nerveusement.) 	FC7 int-« Vous croyez que le journal est derrière l'explosion ? » (Regarder autour de soi nerveusement.) 
+DS_Rixbiter	\"Why?\" 	« Pourquoi ? » 
+DS_Rixbiter	\"What?\" 	« Quoi ? » 
+DS_Rixbiter	\"Nice.\" 	« Sympa. » 
+DS_Rixbiter	\"Oh dieux, non.\" 	« Oh par les dieux, non. » 
+DS_Rixbiter	Elle hausse les épaules. \"A group of angry dwarves?\" 	Elle hausse les épaules. « Un groupe de nains en colère ? » 
+DS_Rixbiter	\"C'est impressionnant.\" 	« C'est impressionnant. » 
+DS_Rixbiter	\"Enfin... who am I to say? Maybe it's made by a team of dwarven ghosts lost in the masonry of the city walls...\" 	« Enfin... qui suis-je pour le dire ? Peut-être qu'il est fait par une équipe de fantômes nains perdus dans la maçonnerie des murs de la cité... » 
+DS_Rixbiter	\"And they've run it for like... two years, Je crois. Crazy long time.\" 	« Et ils le font tourner depuis genre... deux ans, je crois. Un temps fou. » 
+DS_Rixbiter	Elle te fout en l'air. 	Elle se fout de toi. 
+DS_Rixbiter	\"Okay, no. I'm joking. Évidemment.\" 	« D'accord, non. Je plaisante. Évidemment. » 
+DS_Rixbiter	\"Okay, I'm joking. Évidemment.\" 	« D'accord, je plaisante. Évidemment. » 
+DS_Rixbiter	\"D'accord !\" 	« D'accord ! » 
+DS_Rixbiter	\"No?\" 	\"Non ?\" 
+DS_Rixbiter	Il rit. \"And who do you think keeps them there?\" 	Il rit. « Et qui crois-tu les garde là-bas ? » 
+DS_Rixbiter	\"Oh no! Ce n'est pas bon.\" 	« Oh non ! C'est pas bon. » 
+DS_Rixbiter	« Sacrément vrai. » 	« Foutrement vrai. » 
+DS_Rixbiter	Wait. 	Attends. 
+DS_Rixbiter	« Allô ? » 	« Bonjour ? » 
+DS_Rixbiter	Wait. 	Attends. 
+DS_Rixbiter	\"Oh?\" 	« Oh ? » 
+DS_Rixbiter	« Je suis en désaccord. » 	« Je ne suis pas d'accord. » 
+DS_Rixbiter	\"Je suis d'accord.\" 	« Je suis d'accord. » 
+DS_Rixbiter	\"Don't just start screaming like that. Bordel de merde.\" 	« Ne vous mettez pas à crier comme ça. Bordel. » 
+DS_Rixbiter	She gives him a half-smirk. \"Quelque chose comme ça.\" 	Elle lui adresse un demi-sourire en coin. « Quelque chose comme ça. » 
+DS_Rixbiter	Votre compagnon ricane. 	Ton compagnon ricane. 
+DS_Rixbiter	Elle regarde autour d'elle. \"Tolstad is already a hotbed for travelers coming in from all around the Coast.\" 	Elle regarde autour d'elle. « Tolstad est déjà un foyer pour les voyageurs venant de toute la Côte. » 
+DS_Rixbiter	\"Okay!\" 	« D'accord ! » 
+DS_Rixbiter	Oh dieux. 	Oh mon dieu. 
+DS_Rixbiter	Tu n'en as pas l'air. 	Pas du tout. 
+DS_Rixbiter	\"Eh. Ni l'un ni l'autre. Tu sais...\" 	« Bof. Ni l'un ni l'autre. Vous savez... » 
+DS_Rixbiter	\"Je ne sais pas.\" 	« Je ne sais pas. » 
+DS_Rixbiter	\"Fair.\" 	« Juste. » 
+DS_Rixbiter	« Je vois. » 	« Je peux le voir. » 
+DS_Rixbiter	\"What?\" 	« Quoi ? » 
+DS_Rixbiter	\"Rien. Laisse tomber.\" 	« Rien. Laissez tomber. » 
+DS_Rixbiter	« Vous m'avez entendu. » 	« Tu m'as entendu. » 
+DS_Rixbiter	Oh dieux. 	Oh mon dieu. 
+DS_Rixbiter	Boo! 	Buh ! 
+DS_Rixbiter	\"I am!\" 	« Je le suis ! » 
+DS_Rixbiter	Elle plisse les yeux. \"Am I allowed to say that?\" 	Elle plisse les yeux. « J'ai le droit de dire ça ? » 
+DS_Rixbiter	\"No?\" 	\"Non ?\" 
+DS_Rixbiter	\"Or, Enfin...\" 	« Ou, enfin... » 
+DS_Rixbiter	\"Laisse tomber.\" 	« Laissez tomber. » 
+DS_Rixbiter	\"Yes.\" 	« Oui. » 
+DS_Rixbiter	\"Let's just move on, and I'll keep that a secret. Juste au cas où. 'Kay?\" 	« Passons à autre chose, et je garderai ça secret. Au cas où. D'accord ? » 
+DS_Rixbiter	Elle vous fait un clin d'œil. 	Elle te fait un clin d'œil. 
+DS_Rixbiter	\"J'en sais rien ?\" 	« Je ne sais pas ? » 
+DS_Rixbiter	\"But-\" 	« Mais— » 
+DS_Rixbiter	\"Aww. Dommage.\" 	« Aww. Dommage. » 
+DS_Rixbiter	\"No.\" 	« Non. » 
+DS_Rixbiter	\"No!\" 	« Non ! » 
+DS_Rixbiter	\"Par les dieux... are you truly the Iron Wall itself?\" 	« Par les dieux... êtes-vous vraiment le Mur de Fer en personne ? » 
+DS_Rixbiter	Elle soupire. \"Don't worry about it. I've dealt with worse things, believe me. Just... don't do that again!\" 	Elle soupire. « Ne vous en faites pas. J'ai eu affaire à pire, croyez-moi. Juste... ne refaites pas ça ! » 
+DS_Rixbiter	Elle soupire. \"I made it up. I'm playing along with your weird-\" 	Elle soupire. « Je l'ai inventé. Je joue le jeu avec votre bizarre— » 
+DS_Rixbiter	Elle soupire. \"No. I'm just playing along with your weird-\" 	Elle soupire. « Non. Je joue juste le jeu avec votre bizarre— » 
+DS_Rixbiter	Elle soupire. \"Don't worry about it. I've dealt with worse things, believe me. Just... don't do that again!\" 	Elle soupire. « Ne vous en faites pas. J'ai eu affaire à pire, croyez-moi. Juste... ne refaites pas ça ! » 
+DS_Rixbiter	E-S'en aller, abattu. 	S'en aller, abattu. 
+Q_Youth	What? 	Quoi ? 
+Q_Youth	I see! 	Je vois ! 
+Q_Youth	Yes. 	Oui. 
+Q_Youth	Indeed. 	En effet. 
+Q_Youth	No, no. 	Non, non. 
+Q_Youth	Hm. 	Hum. 
+Q_Youth	ROLL12 str-Réaliser ta place dans le monde. 	Réaliser ta place dans le monde. 
+Q_Youth	ROLL12 wis-Comprendre soudain le genre. 	Comprendre soudain le genre. 
+Q_Youth	Hm. 	Hum. 
+Q_Youth	Then... 	Puis... 
+Q_Youth	Yes. 	Oui. 
+Q_Youth	Cela veut-il dire que je suis une... (<i>Hoquet</i>.) ...une femme ?! 	Ça veut dire que je suis une... (<i>Hoquet</i>.) ...une femme ?! 
+Q_Youth	No. 	Non. 
+Q_Youth	Now. 	Maintenant. 
+Q_Youth	Huh? 	Hein ? 
+Q_Youth	Now... 	Maintenant... 
+Q_Youth	A man. 	Un homme. 
+Q_Youth	Tu ne peux pas faire cela. 	Tu ne peux pas faire ça. 
+Q_Youth	E-(Être un peu moins perdu sur la question du genre.) 	(Être un peu moins perdu sur la question du genre.) 
+TS_Pinja	E-Ne pas lui parler. 	Ne pas lui parler. 
+TS_Pinja	\"Yes?\" 	« Oui ? » 
+TS_Pinja	\"I am The Cleric of Norvik.\" (Baisser la tête.) 	\"Je suis le Clerc de Norvik.\" (Incliner la tête.) 
+TS_Pinja	« J'ai quelques questions pour toi. » 	« J'ai des questions pour toi. » 
+TS_Pinja	\"My lady elf, how fair you are on this bright morrow.\" (Baisser la tête.) 	\"Ma dame elfe, que vous êtes belle en cette lumineuse matinée.\" (Incliner la tête.) 
+TS_Pinja	Rude. 	Grossier. 
+TS_Pinja	« Que fais-tu ici ? » 	\"Que fais-tu ici ?\" 
+TS_Pinja	Traduction : « Pinja du Raccommodage ». Une elfe de la Forêt d'Illym. Intéressant. 	Traduction : « Pinja du Raccommodement ». Une elfe de la Forêt d'Illym. Intéressant. 
+TS_Pinja	\"Pas besoin. I've caused enough trouble as it is.\" 	\"Inutile. J'ai déjà causé assez d'ennuis comme ça.\" 
+TS_Pinja	\"Plus ou moins, oui.\" 	« Plus ou moins, oui. » 
+TS_Pinja	\"Oh.\" 	« Oh. » 
+TS_Pinja	\"Ah.\" 	« Ah. » 
+TS_Pinja	\"Mm.\" 	« Mm. » 
+TS_Pinja	Elle hoche la tête. 	Elle acquiesce. 
+TS_Pinja	He glances out at the horizon. \"Ouais. Bien sûr. I get you.\" 	Il jette un œil à l'horizon. \"Ouais. C'est sûr. Je te comprends.\" 
+TS_Pinja	He gives you a weird look. \"Très bien alors.\" 	Il vous lance un regard étrange. \"Bon alors.\" 
+TS_Pinja	E-Continuer. 	Continue. 
+TS_Pinja	ROLL5 str-La convaincre que vous pouvez aider. 	La convaincre que vous pouvez aider. 
+TS_Pinja	« Raconte-moi. » 	« Dites-moi. » 
+TS_Pinja	Elle hoche la tête. 	Elle acquiesce. 
+TS_Pinja	Truth. 	La vérité. 
+TS_Pinja	\"Merci.\" 	« Merci. » 
+TS_Pinja	Elle ne te regarde pas. 	Elle ne vous regarde pas. 
+ST_PebbleOfSending	E-Tant pis. 	Tant pis. 
+ST_PebbleOfSending	E-D'accord... 	D'accord... 
+ST_PebbleOfSending	\"Bien. I'm here. Pour une raison ou une autre.\" 	\"Bon. Je suis là. Va savoir pourquoi.\" 
+ST_PebbleOfSending	\"Merveilleux. Hope you have a good reason for hiding out in the damn rollermill.\" 	\"Merveilleux. J'espère que t'as une bonne raison de te planquer dans ce satané laminoir.\" 
+ST_PebbleOfSending	\"Great. Le salon de thé. Love this place.\" 	\"Génial. Le salon de thé. J'adore l'endroit.\" 
+ST_PebbleOfSending	E-\"Ouais. Allons-y.\" 	« Ouais. Allons-y. » 
+ST_PebbleOfSending	\"Oh, allons. It's late.\" 	\"Oh, allez. Il est tard.\" 
+ST_PebbleOfSending	\"C'est quoi ce bordel ?\" 	« C'est quoi ce bordel ? » 
+ST_PebbleOfSending	Oui. Tu le sais. 	Oui. Tu la connais. 
+ST_PebbleOfSending	Plants. 	Les plantes. 
+ST_PebbleOfSending	Life. 	La vie. 
+ST_PebbleOfSending	Fire. 	Le feu. 
+ST_PebbleOfSending	Water. 	L'eau. 
+ST_PebbleOfSending	Earth. 	La terre. 
+ST_PebbleOfSending	Cats. 	Les chats. 
+ST_PebbleOfSending	Then... 	Puis... 
+Q_Feathers	Oh yes. 	Ah ça oui. 
+Q_Feathers	Oh boy. 	Aïe aïe. 
+Q_Feathers	Look... 	Écoute... 
+Q_Feathers	What? 	Quoi ? 
+Q_Feathers	Faux. 	Pas vrai. 
+Q_Feathers	No. 	Non. 
+Q_Feathers	Sorry? 	Pardon ? 
+Q_Feathers	Yes? 	Oui ? 
+Q_Feathers	Hm. 	Hum. 
+Q_Feathers	Yeah? 	Ouais ? 
+Q_Feathers	Live. 	Vis. 
+Q_Feathers	E-(Arrêter d'y penser maintenant.) 	(Arrêter d'y penser maintenant.) 
+Q_Ebb	C'est bien ainsi. 	Ce n'est pas grave. 
+Q_Ebb	No, no. 	Non, non. 
+Q_Ebb	Well? 	Alors ? 
+Q_Ebb	Oui. Tu le sais. 	Oui. Tu la connais. 
+Q_Ebb	Soon. 	Bientôt. 
+AR_Kattegatt	ROLL15 wis-Tenter de comprendre pourquoi elle s'enroule ainsi. 	Tenter de comprendre pourquoi elle s'enroule ainsi. 
+AR_Kattegatt	E-Je reviendrai à ça plus tard. 	Je reviendrai à ça plus tard. 
+AR_Kattegatt	Yes. 	Oui. 
+AR_Kattegatt	\"<i>Elle... of good and evil.</i>\" 	\"<i>Il y va... du bien et du mal.</i>\" 
+AR_Kattegatt	\"Rien. They're a stranger. I keep the water.\" 	\"Rien. C'est un étranger. Je garde l'eau.\" 
+AR_Kattegatt	Ouais bordel ! 	Bordel ouais ! 
+TS_Chamar	\"Que regardez-vous ?\" 	« Tu regardes quoi ? » 
+TS_Chamar	E-Je ne devrais pas la déranger. 	Je ne devrais pas la déranger. 
+TS_Chamar	\"Yes.\" 	« Oui. » 
+TS_Chamar	\"J'ai quelques questions personnelles à vous poser.\" 	\"J'ai quelques questions personnelles à te poser.\" 
+TS_Chamar	E-\"Bien. Au revoir.\" 	\"Bien. Au revoir.\" 
+TS_Chamar	\"Enfin... not if you have a good reason.\" 	\"Enfin... pas si vous avez une bonne raison.\" 
+TS_Chamar	\"Je ne sais pas. Forget I brought it up.\" 	\"J'en sais rien. Oubliez que j'en ai parlé.\" 
+TS_Chamar	Elle hoche la tête. \"Okay.\" 	Elle acquiesce. \"D'accord.\" 
+TS_Chamar	She...! 	Elle... ! 
+TS_Chamar	\"Rien. I do not spend time on Tolstad.\" 	\"Rien. Je ne passe pas de temps à Tolstad.\" 
+TS_Chamar	\"Bien sûr.\" 	« Bien sûr. » 
+TS_Chamar	\"Yes.\" 	« Oui. » 
+TS_Chamar	\"That's the nationalists, Je crois.\" 	\"Ce sont les nationalistes, je crois.\" 
+TS_Chamar	Elle s'esclaffe. 	Elle ricane. 
+TS_Chamar	\"Compréhensible.\" 	« Compréhensible. » 
+TS_Chamar	\"Merci.\" 	« Merci. » 
+Q_Elf	Damn. 	Mince. 
+Q_Elf	Well. 	Eh bien. 
+Q_Elf	Maybe. 	Peut-être. 
+Q_Elf	Great! 	Super ! 
+Q_Elf	E-(Arrêter de penser aux elfes.) 	(Arrêter de penser aux elfes.) 
+TS_Thal	« Que faites-vous ? » 	\"Tu fais quoi ?\" 
+TS_Thal	\"Mm.\" 	« Mm. » 
+TS_Thal	FEAR. 	LA PEUR. 
+TS_Thal	\"En quel sens ?\" 	\"De quelle manière ?\" 
+TS_Thal	« Correct. » 	\"Exact.\" 
+TS_Thal	\"Merci.\" 	« Merci. » 
+TS_Thal	Il hoche lentement la tête. « Correct. » 	Il acquiesce lentement. \"Exact.\" 
+TS_Thal	(Regarder autour.) \"This all yours?\" 	(Regarder autour.) \"Tout ça est à toi ?\" 
+TS_Thal	\"No.\" 	« Non. » 
+TS_Thal	\"Yes.\" 	« Oui. » 
+TS_Thal	\"No.\" 	« Non. » 
+TS_Thal	« Ça ne l'est pas. » 	\"Ce n'en est pas une.\" 
+TS_Thal	\"Good.\" 	« Bien. » 
+TS_Thal	\"Fine.\" 	« Bon. » 
+TS_Thal	\"J'ai quelques questions personnelles à vous poser.\" 	\"J'ai quelques questions personnelles à te poser.\" 
+TS_Thal	E-« C'est tout pour l'instant. Merci, citoyen. » 	\"C'est tout pour l'instant. Merci, citoyen.\" 
+TS_Thal	\"Cool.\" 	« Cool. » 
+TS_Thal	\"No.\" 	« Non. » 
+TS_Thal	\"J'y ai combattu.\" 	« Oui. » 
+TS_Thal	« Quoi ?! » 	\"Quoi ?!\" 
+TS_Thal	Il cesse de te regarder. 	Il cesse de vous regarder. 
+TS_Thal	\"Oh.\" 	« Oh. » 
+TS_Thal	\"Yes.\" 	« Oui. » 
+TS_Thal	\"Yes.\" 	« Oui. » 
+TS_Thal	No. 	Non. 
+TS_Thal	Yes. 	Oui. 
+TS_Thal	Si, tu oseras. 	Oui, tu le feras. 
+TS_Thal	\"No.\" 	« Non. » 
+TS_Thal	« ...D'accord. » 	« ... D'accord. » 
+TS_Thal	\"Good.\" 	« Bien. » 
+TS_Thal	\"Sure. Je comprends. We'll keep it percussional.\" 	\"D'accord. Compris. On va rester percussionnel.\" 
+TS_Thal	\"What?\" 	« Quoi ? » 
+TS_Thal	\"Laisse tomber.\" 	« Laissez tomber. » 
+TS_Thal	\"Good.\" 	« Bien. » 
+TS_Thal	M-\"Je peux avoir une récompense ?\" 	\"Je peux avoir une récompense ?\" 
+TS_Thal	M-\"Je l'ai pas fait pour une récompense, tu sais.\" 	\"Je l'ai pas fait pour une récompense, tu sais.\" 
+TS_Thal	Shit. 	Merde. 
+TS_Thal	\"Good.\" 	« Bien. » 
+TS_Thal	\"Mm.\" 	« Mm. » 
+TS_Thal	« C'est grossier. » 	\"C'est impoli.\" 
+TS_Thal	\"Bon choix.\" 	« Bon choix. » 
+TS_Thal	(Le regarder.) 	(La regarder.) 
+TS_Thal	\"No.\" 	« Non. » 
+TS_Thal	\"Okay.\" 	« D'accord. » 
+TS_Thal	\"Eh!\" 	\"Eh !\" 
+TS_Thal	\"Good.\" 	« Bien. » 
+TS_Thal	R-\"Tu es un triton... qui est propriétaire ?\" 	\"Tu es un triton... qui est propriétaire ?\" 
+TS_Thal	ROLL16 con-Essayer de ne pas le mentionner. 	Essayer de ne pas le mentionner. 
+TS_Thal	R-\"Tu es un triton... qui est propriétaire ?\" (Le laisser sortir. Être libre.) 	\"Tu es un triton... qui est propriétaire ?\" (Let it out. Be free.) 
+TS_Thal	\"Hm?\" 	« Hum ? » 
+TS_Thal	Tasty. 	Savoureux. 
+TS_Thal	\"Pour sûr. Beau travail.\" 	\"Pour sûr. Beau boulot.\" 
+TS_Thal	« La prochaine fois peut-être. » 	\"Peut-être la prochaine fois.\" 
+TS_Thal	\"On verra. It's pretty complicated.\" 	\"On verra. C'est plutôt compliqué.\" 
+TS_Thal	Fair. 	Juste. 
+TS_Thal	\"Je vote pour les Libres-Marcheurs.\" 	« Je vote pour les Libre-Marcheurs. » 
+TS_Thal	\"Bon choix.\" 	« Bon choix. » 
+TS_Thal	\"No.\" 	« Non. » 
+TS_Thal	\"I vote yellow. Pour l'instant.\" 	\"Je vote jaune. Pour l'instant.\" 
+TS_Thal	Il grogne. 	Il grommelle. 
+TS_Thal	\"No.\" 	« Non. » 
+TS_Thal	\"Allez. You gotta have <i>something</i>. Everybody's got something.\" 	\"Allez. Tu dois bien avoir <i>quelque chose</i>. Tout le monde a quelque chose.\" 
+TS_Thal	\"No.\" 	« Non. » 
+TS_Thal	\"No.\" 	« Non. » 
+TS_Thal	\"Rien.\" 	« Rien. » 
+TS_Thal	\"Excepté...\" 	\"Sauf...\" 
+TS_Thal	\"Yes?\" 	« Oui ? » 
+TS_Thal	\"No?\" 	\"Non ?\" 
+TS_Thal	E-END. 	END. 
+EP_AzgalChant	Strife. 	Du conflit. 
+TU_Jehanne	\"Hey.\" 	\"Hé.\" 
+TU_Jehanne	\"Hey.\" 	\"Hé.\" 
+TU_Jehanne	(Regarder autour.) \"Are you in trouble?\" 	(Regarder autour de soi.) \"T'as des ennuis ?\" 
+TU_Jehanne	\"Okay?\" 	\"D'accord ?\" 
+TU_Jehanne	\"No?\" 	\"Non ?\" 
+TU_Jehanne	Comme c'est horrifiant. 	Quelle horreur. 
+TU_Jehanne	ROLL9 con-Refuser. 	Refuse. 
+TU_Jehanne	E-« D'accord. » 	« D'accord. » 
+TU_Jehanne	\"Ugh.\" 	\"Beurk.\" 
+TU_Jehanne	UGH. 	BEURK. 
+TU_Jehanne	Elle se contente de vous fixer. 	Elle se contente de te fixer. 
+TU_Jehanne	\"Va te faire foutre.\" 	« Va te faire foutre. » 
+TU_Jehanne	E-Bien. 	Bien. 
+TU_Jehanne	« Que veux-tu ? » 	« Que voulez-vous ? » 
+TU_Jehanne	E-\"Bon. J'ai fini.\" 	\"Bon. J'ai fini.\" 
+TU_Jehanne	\"No?\" 	\"Non ?\" 
+TU_Jehanne	« Non, ce n'est pas moi. » 	\"Non, je le suis pas.\" 
+TU_Jehanne	\"Je ne sais pas. Fifty crowns?\" 	\"Je sais pas. Cinquante couronnes ?\" 
+TU_Jehanne	« Je ne peux pas me le permettre. » 	\"J'ai pas les moyens.\" 
+TU_Jehanne	\"No?\" 	\"Non ?\" 
+TU_Jehanne	« Va te faire foutre. » 	\"Va te faire foutre.\" 
+TU_Jehanne	« Va te faire foutre. » 	\"Va te faire foutre.\" 
+TU_Jehanne	E-\"D'accord. Bonne soirée.\" 	\"D'accord. Bonne soirée.\" 
+TU_Jehanne	\"Good.\" 	« Bien. » 
+TU_Jehanne	E-\"Oh non. Je ferais mieux de courir.\" 	\"Oh non. Je ferais mieux de courir.\" 
+TU_Jehanne	\"Good.\" 	« Bien. » 
+TU_Jehanne	\"Uh...\" 	« Euh... » 
+TU_Jehanne	\"Go!\" 	\"Vas-y !\" 
+TU_Jehanne	\"Oh.\" 	« Oh. » 
+TU_Jehanne	\"Oh.\" 	« Oh. » 
+TU_Jehanne	« Je ne le ferai pas. » 	\"Je le ferai pas.\" 
+TU_Jehanne	\"Yeah.\" 	« Ouais. » 
+TU_Jehanne	\"Oh?\" 	« Oh ? » 
+TU_Jehanne	M-\"Eh ben...\" 	« Eh bien... » 
+TU_Jehanne	\"Duh.\" 	\"Bah ouais.\" 
+TU_Jehanne	\"Bien sûr que non ! The Fordnip Commonwealth had HALF its territory stolen. And there's a massive embargo going on.\" 	\"Bien sûr que non ! Le Commonwealth de Fordnip s'est fait voler la MOITIÉ de son territoire. Et il y a un énorme embargo en cours.\" 
+TU_Jehanne	\"Alors ouais. They need help.\" 	\"Donc ouais. Ils ont besoin d'aide.\" 
+TU_Jehanne	\"C'est...\" 	« C'est... » 
+TU_Jehanne	\"C'est...\" 	« C'est... » 
+TU_Jehanne	\"No. Bien sûr que non.\" 	\"Non. Bien sûr que non.\" 
+TU_Jehanne	Smooth. 	Bien joué. 
+TU_Jehanne	True. 	Vrai. 
+TU_Jehanne	\"Duh.\" 	\"Bah ouais.\" 
+TU_Jehanne	Elle te lance un regard fatigué. 	Elle vous lance un regard fatigué. 
+TU_Jehanne	E-\"Tant pis.\" 	« Eh bien. » 
+TU_Jehanne	« Je ne peux rien promettre. » 	\"Je ne peux rien promettre.\" 
+TU_Jehanne	\"J'y réfléchirai.\" 	« J'y réfléchirai. » 
+TU_Jehanne	\"Merci.\" 	« Merci. » 
+TU_Jehanne	\"Okay?\" 	\"D'accord ?\" 
+TS_PPG_Document	ROLL5 int-L'examiner en détail. 	L'examiner en détail. 
+TS_PPG_Document	E-Arrêter de regarder. 	Arrêter de regarder. 
+TS_PPG_Document	Excepté... 	Sauf que... 
+TS_PPG_Document	Or... 	Ou... 
+TS_PPG_Document	Never. 	Jamais. 
+TS_PPG_Document	Ce n'est pas le cas. 	Il ne l'est pas. 
+DS_Razz	Wow. 	Eh ben. 
+DS_Razz	« Va te faire foutre. » 	\"Va te faire foutre.\" 
+DS_Razz	\"Nah.\" 	« Nan. » 
+DS_Razz	E-Juste y aller. 	Juste y aller. 
+DS_Razz	\"Ignore-le. He's not interesting.\" 	« Ignore-le. Il n'est pas intéressant. » 
+DS_Razz	ROLL16 str-(Le lui fracasser dans le visage.) 	(Le lui fracasser dans le visage.) 
+DS_Razz	« Guh... ! » 	« Argh... ! » 
+DS_Razz	\"That's what it means!\" (Reculer d'un pas.) 	« Voilà ce que ça veut dire ! » (Reculer d'un pas.) 
+DS_Razz	(Regarder autour nerveusement.) 	(Regarder autour de toi nerveusement.) 
+DS_Razz	\"Exactement.\" 	« Exactement. » 
+DS_Razz	Puis il te lève le pouce. \"And thank you for doing that, Cleric.\" 	Puis il vous fait un pouce levé. « Et merci d'avoir fait ça, Clerc. » 
+DS_Razz	« Va te faire foutre. » 	\"Va te faire foutre.\" 
+DS_Razz	\"Yeah.\" 	« Ouais. » 
+DS_Razz	\"Nah.\" 	« Nan. » 
+DS_Razz	« Heureux de l'entendre. » 	« Content de l'entendre. » 
+DS_Razz	\"Okay.\" (Avoir l'air triste.) 	« D'accord. » (Avoir l'air triste.) 
+DS_Razz	\"Nah.\" 	« Nan. » 
+DS_Razz	E-Je devrais... y aller. 	Je devrais... y aller. 
+DS_Razz	(Reculer.) 	(Retirer ta main.) 
+DS_Razz	(Reculer.) 	(Retirer ta main.) 
+DS_Razz	E-Temps de partir. 	Il est temps d'y aller. 
+AR_Mephits	E-Right 	Right 
+AR_Mephits	Hm? 	Hm ? 
+AR_Mephits	(Continuer à dévisager.) 	(Continuer à fixer.) 
+AR_Mephits	(Continuer à dévisager.) 	(Continuer à fixer.) 
+AR_Mephits	E-\"Bon, c'est tout pour l'instant. Salut, esprit.\" 	\"Bon, c'est tout pour l'instant. Salut, esprit.\" 
+AR_Mephits	\"Quelque chose comme ça.\" 	« Quelque chose comme ça. » 
+AR_Mephits	\"Pardon.\" 	« Désolé. » 
+AR_Mephits	\"La quoi maintenant ?\" 	« Le quoi maintenant ? » 
+AR_Mephits	\"Je ne ferais pas ça.\" 	\"Je ferais pas ça.\" 
+AR_Mephits	\"Okay.\" 	« D'accord. » 
+AR_Mephits	\"Okay.\" 	« D'accord. » 
+AR_Mephits	ROLL14 con-Prouver que tu es un seigneur élémentaire digne de ce nom en plongeant ta main dans le feu. 	Prouver que tu es un seigneur élémentaire digne de ce nom en plongeant ta main dans le feu. 
+AR_Mephits	\"Okay, J'abandonne.\" (Don't do it.) 	\"Bon, j'abandonne.\" (Ne pas le faire.) 
+AR_Mephits	\"Nice!\" 	« Cool ! » 
+AR_Mephits	\"Enfin...\" 	« Je veux dire... » 
+AR_Mephits	\"How about... five-hundred-crowns? Sure. Quelque chose comme ça.\" 	\"Genre... cinq-cents-couronnes ? Ouais. Un truc comme ça.\" 
+AR_Mephits	\"C'est une somme dingue !\" 	« C'est une somme folle ! » 
+AR_Mephits	(Tousser.) \"What the hell!\" 	(Tousser.) \"Mais c'est quoi ce bordel !\" 
+AR_Mephits	SHIELD. 	BOUCLIER. 
+AR_Mephits	\"Huh?\" 	« Hein ? » 
+AR_Mephits	Shield. 	Bouclier. 
+AR_Mephits	\"Huh?\" 	« Hein ? » 
+AR_Mephits	\"Hm?\" 	« Hum ? » 
+AR_Mephits	E-Drat. 	Mince. 
+Q_Conflict	Got it? 	Compris ? 
+TS_Resistance_Note	E-Je vais arrêter de regarder maintenant. 	Je vais arrêter de regarder maintenant. 
+TS_Resistance_Note	M-Bien. Intéressant. 	Right. Intéressant. 
+TS_Resistance_Note	\"Nationalists. Je crois. Bunch of boys.\" 	« Nationalistes. Je pense. Une bande de garçons. » 
+TS_Resistance_Note	\"Oui. Manifestement.\" (Roll your eyes, despite the fact that he cannot see it.) 	« Oui. Évidemment. » (Lever les yeux au ciel, malgré le fait qu'il ne puisse le voir.) 
+TS_Resistance_Note	Il plisse les yeux. \"Are you rolling your eyes?\" 	Il plisse les yeux. « Tu lèves les yeux au ciel ? » 
+TS_Resistance_Note	\"Yes.\" 	« Oui. » 
+TS_Resistance_Note	\"Ah. D'accord. It looked like... you had some type of neck problem.\" 	« Ah. D'accord. Ça avait l'air... d'un problème de cou. » 
+TS_Resistance_Note	Il hausse les épaules. \"Sure. Anything's possible.\" 	Il hausse les épaules. « Bien sûr. Tout est possible. » 
+Snell_Companion	(Gulp.) 	(Déglutir.) 
+Snell_Companion	E-\"Allons-y.\" 	« Allons-y. » 
+Snell_Companion	\"Ah. C'est vrai.\" 	« Ah. D'accord. » 
+Snell_Companion	\"Compréhensible.\" 	« Compréhensible. » 
+Snell_Companion	\"Excellente idée. Let's do that next.\" 	\"Super idée. Faisons ça ensuite.\" 
+Snell_Companion	\"Bonne question. We have a few good clues, if you ask me.\" 	\"Bonne question. On a plusieurs bons indices, si tu veux mon avis.\" 
+Snell_Companion	\"Tu t'exécutes. I'll be backup.\" 	\"Vas-y. Je ferai le renfort.\" 
+Snell_Companion	« Je suis sûr que tu le ferais. » 	\"J'en suis sûr.\" 
+Snell_Companion	\"They're not too bad. Habituellement.\" 	\"Ils sont pas si pénibles. D'habitude.\" 
+Snell_Companion	\"Oh non.\" 	« Oh non. » 
+Snell_Companion	\"Eh.\" 	« Bof. » 
+Snell_Companion	\"Maybe. Peut-être pas.\" 	\"Peut-être. Peut-être pas.\" 
+Snell_Companion	Le gobelin vous adresse un bref hochement de tête. 	Le gobelin te fait un bref signe de tête. 
+Snell_Companion	Le gobelin soupire. \"Look, I know you're all in on this idea of following on this esoteric mystery of the <i>smoking invisible man</i>, but...\" 	Le gobelin soupire. \"Écoute, je sais que tu es à fond dans cette idée de poursuivre ce mystère ésotérique de l'<i>homme invisible fumant</i>, mais...\" 
+Snell_Companion	\"On verra. I've got some other clues I wanna check up on first.\" 	\"On verra. J'ai d'autres pistes à vérifier d'abord.\" 
+Snell_Companion	\"Yeah.\" 	« Ouais. » 
+Snell_Companion	\"Old Lady won't like this. Pas du tout.\" 	\"La Vieille Dame n'aimera pas ça. Pas du tout.\" 
+Snell_Companion	\"Yeah.\" 	« Ouais. » 
+Snell_Companion	\"Well.\" 	« Eh bien. » 
+Snell_Companion	Il sourit largement. \"C'était le bon temps.\" 	Il sourit. \"C'étaient les beaux jours.\" 
+Snell_Companion	\"Pardon.\" 	« Désolé. » 
+Snell_Companion	\"Huh.\" 	« Tiens. » 
+Snell_Companion	\"Yep.\" 	« Eh ouais. » 
+Snell_Companion	\"Ah ouais ?\" 	« Ah ouais ? » 
+Snell_Companion	« Je ne bois pas, Snell. » 	\"Je bois pas, Snell.\" 
+Snell_Companion	\"Ça marche.\" 	« Ça marche. » 
+Snell_Companion	\"On verra.\" 	« On verra. » 
+Snell_Companion	\"Non merci.\" 	« Non merci. » 
+Snell_Companion	\"C'est sûr.\" 	« Pour sûr. » 
+Snell_Companion	« Je vous crois. » 	« Je te crois. » 
+Snell_Companion	\"Yeah.\" 	« Ouais. » 
+Snell_Companion	\"Oh.\" 	« Oh. » 
+Snell_Companion	\"Yeah.\" 	« Ouais. » 
+Snell_Companion	« Mmh-mmh. » 	« Mh-hm. » 
+Snell_Companion	« ... Oui. » 	« ... D'accord. » 
+Snell_Companion	\"Cool.\" 	« Cool. » 
+Snell_Companion	\"I think this is like, Snail-folk-era, or something. Je ne sais pas. Not an expert.\" 	\"Je crois que c'est genre, époque peuple-escargot, ou un truc du genre. J'en sais rien. Pas expert.\" 
+Snell_Companion	\"Yeah.\" 	« Ouais. » 
+Snell_Companion	Une affirmation véridique. 	Une déclaration vraie. 
+Snell_Companion	\"Oui.\" 	« C'est lui. » 
+Snell_Companion	Il se racle la gorge. \"You are correct. I apologize.\" 	Il s'éclaircit la gorge. \"Vous avez raison. Je m'excuse.\" 
+Snell_Companion	\"Hm.\" 	« Hm. » 
+Snell_Companion	\"On peut y aller maintenant ?\" 	« On peut y aller maintenant ? » 
+Snell_Companion	\"Sure.\" 	« Bien sûr. » 
+Snell_Companion	\"Hm?\" 	« Hum ? » 
+Snell_Companion	Il soupire. \"You do you. I <i>apologize</i> for the outburst.\" 	Il soupire. \"Fais comme tu veux. Je <i>m'excuse</i> pour mon emportement.\" 
+Snell_Companion	\"Apart from disturbing the peace?\" Il rit. \"What'd you want to know?\" 	\"À part troubler la paix ?\" Il rit. \"Tu voulais savoir quoi ?\" 
+Snell_Companion	\"Laisse tomber.\" 	« Laissez tomber. » 
+Snell_Companion	\"Oui, je te prie.\" 	\"Oui, je t'en prie.\" 
+Snell_Companion	Il grogne. 	Il gémit. 
+Snell_Companion	\"Right before the election too?\" Le gobelin ricane. \"Whole thing stinks.\" 	\"Juste avant l'élection, en plus ?\" Le gobelin ricane. \"Toute cette histoire pue.\" 
+Snell_Companion	\"I have a hang of the situation now. Merci.\" 	\"Je tiens la situation maintenant. Merci.\" 
+Snell_Companion	Oh, la ferme. 	Oh, tais-toi. 
+Snell_Companion	\"Such good-natured humans. Impressionnant.\" 	\"De si braves humains. Impressionnant.\" 
+Snell_Companion	\"Huh.\" 	« Tiens. » 
+Snell_Companion	« On verra. » 	\"On verra.\" 
+Snell_Companion	Il lève les yeux au ciel. \"Justice for Norvik, of course.\" 	Il lève les yeux au ciel. \"La justice pour Norvik, évidemment.\" 
+Snell_Companion	\"C'est pas tes affaires.\" 	« Pas vos affaires. » 
+Snell_Companion	\"C'est juste.\" 	« C'est juste. » 
+Snell_Companion	ROLL18 cha-Le persuader de révéler ses petits secrets politiques sales. 	Le persuader de révéler ses petits secrets politiques sales. 
+Snell_Companion	\"What?\" 	« Quoi ? » 
+Snell_Companion	What? 	Quoi ? 
+Snell_Companion	\"Yes.\" 	« Oui. » 
+Snell_Companion	\"Okay?\" 	\"D'accord ?\" 
+Snell_Companion	\"En effet.\" 	« En effet. » 
+Snell_Companion	Il ricane. \"But <i>anyway</i>. Politics sucks and we have things to do. Allons-y.\" 	Il ricane. \"Mais <i>bref</i>. La politique c'est nul et on a des choses à faire. On y va.\" 
+Snell_Companion	Il ricane. \"But <i>anyway</i>. Politics sucks and we have things to do. Allons-y.\" 	Il ricane. \"Mais <i>bref</i>. La politique c'est nul et on a des choses à faire. On y va.\" 
+Snell_Companion	\"Uh...\" 	« Euh... » 
+Snell_Companion	\"We should keep moving, Cleric. Lots to do. Right at this moment. Allez. Now.\" 	\"On devrait avancer, Clerc. Plein de choses à faire. Pile maintenant. Allez. Maintenant.\" 
+Snell_Companion	\"Mm. Pour sûr. Now can we move on?\" 	\"Mm. Pour sûr. Maintenant on peut passer à autre chose ?\" 
+Snell_Companion	\"Well, Je ne sais pas.\" 	\"Bah, je sais pas.\" 
+Snell_Companion	Il soupire. \"Yeah, got lots of siblings. Duh. Ain't got no offspring though.\" 	Il soupire. \"Ouais, j'ai plein de frères et sœurs. Bah ouais. Pas de mômes par contre.\" 
+Snell_Companion	R-\"Prouve-le.\" 	\"Prouve-le.\" 
+Snell_Companion	\"Uh.\" 	« Euh. » 
+Snell_Companion	\"Okay.\" 	« D'accord. » 
+Snell_Companion	\"No.\" 	« Non. » 
+Snell_Companion	\"Mm.\" 	« Mm. » 
+Snell_Companion	\"Je ne le suis pas.\" 	« Je ne le suis pas. » 
+Snell_Companion	A lie. 	Un mensonge. 
+Snell_Companion	\"Oh. D'accord.\" (Don't push it.) 	\"Oh. D'accord.\" (Ne pas insister.) 
+Snell_Companion	\"Yeah.\" 	« Ouais. » 
+Snell_Companion	\"Super.\" 	« Super. » 
+Snell_Companion	Il prend une profonde inspiration. « D'accord. Bon. » 	Il prend une grande inspiration. \"D'accord. Soit.\" 
+Snell_Companion	« Mmh-mmh. » 	« Mh-hm. » 
+Snell_Companion	\"Sure.\" 	« Bien sûr. » 
+Snell_Companion	\"Je ne sais pas.\" 	« Je ne sais pas. » 
+Snell_Companion	Il soupire. \"It's not like resurrections have been unheard of since the Coast War or anything.\" 	Il soupire. \"C'est pas comme si on avait entendu parler de résurrections depuis la Guerre de la Côte.\" 
+Snell_Companion	\"Je ne crois pas.\" 	« Je ne crois pas. » 
+Snell_Companion	\"Oh. D'accord.\" 	« Oh. D'accord. » 
+Snell_Companion	\"Laisse tomber. Just... keep following along.\" 	\"Laisse tomber. Continue juste... à me suivre.\" 
+Snell_Companion	\"Ouais. Ce qu'elle a dit.\" 	« Ouais. Ce qu'elle a dit. » 
+Snell_Companion	\"Yes.\" 	« Oui. » 
+Snell_Companion	\"Hm.\" 	« Hm. » 
+Snell_Companion	\"Hm.\" 	« Hm. » 
+Snell_Companion	E-Bien alors. 	Très bien alors. 
+Snell_Companion	\"Yeah. I'll skip sleeping. Pour l'instant.\" 	\"Ouais. Je vais sauter le sommeil. Pour l'instant.\" 
+Snell_Companion	Il soupire. \"You'll get exhausted if you don't sleep, Cleric.\" 	Il soupire. \"Tu seras épuisé si tu dors pas, Clerc.\" 
+Snell_Companion	\"No. Or, Enfin...?\" 	\"Non. Ou, enfin... ?\" 
+Snell_Companion	Il regarde autour de lui. \"Just here?\" 	Il regarde autour de lui. \"Juste ici ?\" 
+Snell_Companion	\"Yeah.\" 	« Ouais. » 
+Snell_Companion	\"Bonne chance avec ça.\" 	« Bonne chance avec ça. » 
+Snell_Companion	\"Fun.\" 	\"Sympa.\" 
+Snell_Companion	E-\"Ouais. Allons-y.\" 	« Ouais. Allons-y. » 
+Q_Lichhouse	YES. 	OUI. 
+Q_Lichhouse	YES. 	OUI. 
+Q_Lichhouse	What? 	Quoi ? 
+Q_Lichhouse	NO. 	NON. 
+Q_Lichhouse	Oui tu en as besoin. 	Oui, tu en as besoin. 
+Q_Lichhouse	Wait. 	Attends. 
+Q_Lichhouse	Ce n'est pas le cas. 	Il ne l'est pas. 
+Q_Lichhouse	E-(Te sentir légèrement moins ancré.) 	(Te sentir légèrement moins ancré.) 
+TestingFeatures	ROLL10 str-TEST DE FORCE ! 	TEST DE FORCE ! 
+TestingFeatures	ROLL12 str-L'aider à pousser le papier vers le bidule. 	L'aider à pousser le papier vers le bidule. 
+TestingFeatures	ROLL10 cha-str TEST DE FORCE ! -dex VERUARY 	str TEST DE FORCE ! -dex VERUARY 
+TestingFeatures	ROLL10 dex-TEST DE FORCE ! VERUARY  	TEST DE FORCE ! VERUARY 
+TestingFeatures	ROLL10 con-TEST DE FORCE ! 	TEST DE FORCE ! 
+TestingFeatures	ROLL10 int-TEST DE FORCE ! V 	TEST DE FORCE ! V 
+TestingFeatures	ROLL10 wis-TEST DE FORCE ! VE 	TEST DE FORCE ! VE 
+TestingFeatures	ROLL10 cha-TEST DE FORCE ! VER 	TEST DE FORCE ! VER 
+TestingFeatures	ROLL10 dex-TEST DE DEX ! 	TEST DE DEX ! 
+TestingFeatures	Okay. 	D'accord. 
+TestingFeatures	Okay. 	D'accord. 
+TestingFeatures	Hello! 	Bonjour ! 
+TestingFeatures	Hello. 	Bonjour. 
+TestingFeatures	Le gobelin dégaine et tire son arc d'un mouvement fluide. 	Le gobelin bande et tire avec son arc d'un mouvement fluide. 
+TestingFeatures	<b>Feu</b> à travers votre dos tandis que la flèche transperce votre corps. 	<b>Feu</b> à travers ton dos alors que la flèche transperce ton corps. 
+TestingFeatures	La flèche transperce votre dos. Vous vous y étiez préparé. 	La flèche transperce ton dos. Tu t'y étais préparé. 
+TestingFeatures	Ses yeux brillent d'allégresse. 	Ses yeux brillent de jubilation. 
+TestingFeatures	Pas une âme. Un <i>fragment</i>. 	Pas une âme. Une <i>poussière</i>. 
+TestingFeatures	Et il disparaît dans le néant. 	Et elle disparaît dans le néant. 
+TestingFeatures	Mais il disparaît rapidement de la vue. 	Mais elle disparaît rapidement de la vue. 
+TestingFeatures	Non. Les élémentaires détruits ne font que se déphaser dans les plans élémentaires. 	Non. Les élémentaires détruits ne font que se déphaser vers les plans élémentaires. 
+TestingFeatures	Il existe tout un art de la magie élémentaire dont tu n'as pas grande connaissance. Peut-être l'auras-tu à l'avenir. 	Il y a tout un art de la magie élémentaire que tu ne connais pas beaucoup. Peut-être qu'à l'avenir tu en sauras plus. 
+TestingFeatures	Instead, it just skips forward to whatever index was previously Future-Route checked. So in this case, you should have seen the text \"Zero Hub Choix 2 texte ici\". 	À la place, ça saute simplement à n'importe quel index préalablement vérifié par Future-Route. Donc dans ce cas, tu aurais dû voir le texte « Zero Hub Choix 2 texte ici ». 
+TestingFeatures	Instead, it just skips forward to whatever index was previously Future-Route checked. So in this case, you should have seen the text \"One Hub Choix 2 texte ici\". 	À la place, ça saute simplement à n'importe quel index préalablement vérifié par Future-Route. Donc dans ce cas, tu aurais dû voir le texte « One Hub Choix 2 texte ici ». 
+TestingFeatures	\"Yobu.\" 	« Yobu. » 
+TestingFeatures	La mort te suit, <b>Clerc</b>. 	La Mort te suit, <b>Clerc</b>. 
+TestingFeatures	L'idée générale que tu en retires est... 	L'essentiel de ce que tu en retires est... 
+TestingFeatures	Urth naît au Vieux Diminor. 	Urth naît dans le Vieux Diminor. 
+TestingFeatures	Ils fuient leur terre dévastée vers Askanii. 	Ils fuient leur terre ravagée pour Askanii. 
+TestingFeatures	Urth, avec son frère Tol et une longue liste d'auxiliaires, dont des nains et bien d'autres, détruisent le maléfique empire des trolls et conquièrent leur cité. 	Urth avec son frère Tol et une longue liste d'aides, dont des nains et bien d'autres, détruisent l'empire troll maléfique et conquièrent leur cité. 
+TestingFeatures	Il y a une mention de Borgo Darrow, le premier paladin d'Urth, avec un résumé rapide de sa vie. Il fonda la Garde-d'Urth, il fonda l'<i>illustre</i> lignée de la Maison Darrow. Il était connu pour son vœu de ne jamais succomber à aucune blessure au combat - et ironiquement, il mourut d'une crise cardiaque à quarante ans. 	Il y a une mention de Borgo Darrow, le premier paladin d'Urth, avec un bref résumé de sa vie. Il fonda l'Urthgarde, il lança la lignée <i>illustre</i> de la Maison Darrow. Il était connu pour son vœu de ne jamais succomber aux blessures au combat — et ironiquement il mourut d'une crise cardiaque à quarante ans. 
+TestingFeatures	Tu repères aussi le nom « Crann » sur une page, parlant du service de ce guerrier gobelin auprès d'Urth. Comment il rejoignit la cause durant les Guerres Gobelines. 	Tu repères aussi le nom « Crann » sur une page, qui parle du service de ce guerrier gobelin envers Urth. Comment il rejoignit pendant les Guerres Gobelines. 
+TestingFeatures	Vu qu'il ne mentionne aucun <i>génocide</i> gobelin, c'est très probablement un très vieux livre. 	Étant donné qu'il ne mentionne aucun <i>génocide</i> gobelin, c'est très probablement un livre fort ancien. 
+TestingFeatures	Okay. 	D'accord. 
+TestingFeatures	Yes. 	Oui. 
+TestingFeatures	Yes! 	Oui ! 
+TestingFeatures	Oh yes! 	Oh oui ! 
+TestingFeatures	Hello! 	Bonjour ! 
+TestingFeatures	Oh yes! 	Oh oui ! 
+TestingFeatures	Oh yes! 	Oh oui ! 
+TestingFeatures	Oh yes! 	Oh oui ! 
+TestingFeatures	Oh yes! 	Oh oui ! 
+TestingFeatures	Hello! 	Bonjour ! 
+TestingFeatures	E-END 	END 
+TestingFeatures	IROLL-Lancer l'initiative. 	Lancer l'initiative. 
+TestingFeatures	ROLL10 str-TEST DE FORCE ! 	TEST DE FORCE ! 
+TestingFeatures	Return. 	Retour. 
+TestingFeatures	 	[English] 
+TestingFeatures	 	[Polish] 
+TestingFeatures	 	[Simplified Chinese] 
+TestingFeatures	 	[Turkish] 
+TestingFeatures	 	[Russian] 
+TestingFeatures	 	[Japanese] 
+TestingFeatures	 	[Arabic] 
+TestingFeatures	 	[Korean] 
+TestingFeatures	 	[Hindi] 
+TestingFeatures	 	[French] 
+TestingFeatures	 	[German] 
+TestingFeatures	 	[Spanish] 
+TestingFeatures	 	[Portuguese] 
+TestingFeatures	 	[Dutch] 
+TestingFeatures	 	[Greek] 
+TestingFeatures	 	[Hebrew] 
+TestingFeatures	 	[Italian] 
+DS_Olzis	Snell secoue la tête. « Je ne veux pas savoir. » 	Snell secoue la tête. « Je veux pas savoir. » 
+DS_Olzis	(Gulp.) 	(Déglutir.) 
+DS_Olzis	Avance prudemment. 	Marche avec précaution. 
+DS_Olzis	\"Woof.\" 	« Ouaf. » 
+DS_Olzis	\"C'est ridicule. Dogs don't wear helmets.\" 	« C'est ridicule. Les chiens ne portent pas de casques. » 
+DS_Olzis	« C'est grossier. » 	\"C'est impoli.\" 
+DS_Olzis	(La fixer simplement.) 	(Se contenter de la fixer.) 
+DS_Olzis	E-« Je vais vous laisser tranquille, Sphinx. » 	« Je vais vous laisser tranquille 
+DS_Olzis	\"Sages paroles.\" 	« Sages paroles. » 
+DS_Olzis	« Allô ? » 	« Bonjour ? » 
+DS_Olzis	\"...Laisse tomber. I have some questions, though.\" 	« ...Laissez tomber. J'ai quelques questions, ceci dit. » 
+DS_Olzis	E-« Je vais y aller maintenant. Merci, grande sphinx. » 	« Je vais y aller maintenant. Merci 
+DS_Olzis	\"Hm...\" 	« Hm... » 
+DS_Olzis	Who?! 	Qui ça ?! 
+DS_Olzis	\"Merci. It is appreciated.\" 	« Merci. C'est apprécié. » 
+DS_Olzis	\"Yes.\" 	« Oui. » 
+DS_Olzis	\"Bonne question. They are quite expensive after all.\" 	« Bonne question. Elles sont assez coûteuses, après tout. » 
+DS_Olzis	\"Plus ou moins, oui.\" 	« Plus ou moins, oui. » 
+DS_Olzis	\"Comme ça ?\" 	« Comme ça ? » 
+DS_Olzis	\"Oh.\" 	« Oh. » 
+DS_Olzis	(Wait.) 	(Attendre.) 
+DS_Olzis	\"No.\" 	« Non. » 
+DS_Olzis	\"Huh?\" 	« Hein ? » 
+DS_Olzis	\"C'est fait. I've attuned it.\" 	« C'est fait. Je l'ai harmonisée. » 
+DS_Olzis	(Baisser la tête.) 	(Incliner la tête.) 
+DS_Olzis	Elle vous plisse les yeux. 	Elle plisse les yeux vers vous. 
+DS_Olzis	\"Le levier ?\" 	« Un levier ? » 
+DS_Olzis	\"Fair.\" 	« Juste. » 
+DS_Olzis	« Assurément. » 	« Certainement. » 
+DS_Olzis	\"Es-tu prêt ?\" 	« Êtes-vous prêt ? » 
+DS_Olzis	\"Comme ça ?\" 	« Comme ça ? » 
+DS_Olzis	(Se contenter d'attendre.) 	(Te contenter d'attendre.) 
+DS_Olzis	\"<i>Mûri dans l'ombre, j'ai vu les empires monter et choir.</i>\" 	« <i>Mûri dans l'ombre, j'ai vu les empires monter et choir.</i> » 
+DS_Olzis	\"<i>Jadis laissé au silence, à présent l'âme du bal.</i>\" She raises her paw and gestures to the open chamber. 	« <i>Jadis laissé au silence, à présent l'âme du bal.</i> » Elle lève la patte et désigne la salle ouverte. 
+DS_Olzis	\"<i>Pourtant je demeure un breuvage de mémoire. Le serf de l'histoire.</i>\" 	« <i>Pourtant je demeure un breuvage de mémoire. Le serf de l'histoire.</i> » 
+DS_Olzis	\"<i>Que suis-je ?</i>\" 	« <i>Que suis-je ?</i> » 
+DS_Olzis	Easy. 	Facile. 
+DS_Olzis	ROLL18 int-Tenter une supposition. 	Tenter une supposition. 
+DS_Olzis	Elle hoche la tête. 	Elle acquiesce. 
+DS_Olzis	\"Le soleil.\" 	« Le soleil. » 
+DS_Olzis	\"Food.\" 	« La nourriture. » 
+DS_Olzis	\"Meat.\" 	« La viande. » 
+DS_Olzis	\"Wine.\" 	« Le vin. » 
+DS_Olzis	\"Eyes.\" 	« Les yeux. » 
+DS_Olzis	\"Quoi ? Pourquoi ?\" 	« Quoi ? Pourquoi ? » 
+DS_Olzis	\"Ce n'est pas le cas.\" 	« Ce ne l'est pas. » 
+DS_Olzis	Elle soupire. \"Although, I suppose...\" 	Elle soupire. « Cela dit, je suppose... » 
+DS_Olzis	\"Yes?\" 	« Oui ? » 
+DS_Olzis	\"Yes. Yes. <b>Oui</b>.\" 	« Oui. Oui. <b>Oui</b>. » 
+DS_Olzis	Don't. 	Ne le fais pas. 
+DS_Olzis	\"Tsk.\" 	« Tss. » 
+DS_Olzis	Truth. 	La vérité. 
+DS_Olzis	\"<i>Ennuyeux</i>. If you change your mind, you know where to find me.\" 	« <i>Ennuyeux</i>. Si vous changez d'avis, vous savez où me trouver. » 
+DS_Olzis	\"En effet.\" 	« En effet. » 
+DS_Olzis	\"Sure. Pourquoi pas ? Not like we're on a job or anything.\" 	« Bien sûr. Pourquoi pas ? Pas comme si on avait un boulot ou quoi. » 
+DS_Olzis	M-« Alors c'est quoi exactement cette <i>quête de sphinx</i> ? » 	« Alors c'est quoi exactement cette <i>quête de sphinx</i> ? »\"\" 
+DS_Olzis	Il soupire. \"C'est juste.\" 	Il soupire. « D'accord. » 
+DS_Olzis	(Se contenter d'écouter.) 	(Écouter simplement.) 
+DS_Olzis	\« <i>Trouvé dans la flambée ARCANIQUE.</i> 	« <i>Trouvé dans la flambée ARCANIQUE.</i> #Olzis #LOC_440\" 
+DS_Olzis	<i>Deux langues de feu qui calcinent l'air.</i>\" 	<i>Deux langues de feu qui calcinent l'air.</i> » #Olzis #LOC_441\" 
+DS_Olzis	\« <i>Tapi au plus profond de la terre,</i> 	« <i>Tapi au plus profond de la terre 
+DS_Olzis	<i>Un Fil PRIMORDIAL pour montrer ta valeur.</i>\" 	<i>Un Fil PRIMORDIAL pour montrer ta valeur.</i> » #Olzis #LOC_444\" 
+DS_Olzis	\« <i>Peuple et dieux en hordes pressées,</i> 	« <i>Peuple et dieux en hordes pressées 
+DS_Olzis	<i>Un homme DIVIN, seul, hurle ses mots...</i> » 	<i>Un homme DIVIN, seul, hurle ses mots...</i> » #Olzis #LOC_447\" 
+DS_Olzis	« Je ne comprends pas. » 	« Je comprends pas. » 
+DS_Olzis	Hm. 	Hum. 
+DS_Olzis	FC5 int-\"<i>A really angry badger.</i>\" (Sourire en coin.) 	FC5 int-« <i>Un blaireau vraiment furieux.</i> » (Sourire en coin.) 
+DS_Olzis	Le gobelin grogne. \"I am not interrupting the job for that.\" 	Le gobelin grogne. « J'interromps pas le boulot pour ça. » 
+DS_Olzis	Elle pouffe. 	Elle glousse. 
+DS_Olzis	\« <i>Trouvé dans la flambée ARCANIQUE.</i> 	« <i>Trouvé dans la flambée ARCANIQUE.</i> #Olzis #LOC_485\" 
+DS_Olzis	<i>Un homme DIVIN, seul, hurle ses mots...</i> » 	<i>Un homme DIVIN, seul, hurle ses mots...</i> » #Olzis #LOC_490\" 
+DS_Olzis	\"Ouais. Désolé. We've got a job to do.\" 	« Ouais. Désolé. On a un boulot à faire. » 
+DS_Olzis	\"Tant pis. Perhaps tomorrow?\" 	« Tant pis. Peut-être demain ? » 
+DS_Olzis	« Correct. » 	\"Exact.\" 
+DS_Olzis	Shh. 	Chut. 
+DS_Olzis	\"No.\" 	« Non. » 
+DS_Olzis	She winces. \"Bon sang ! That was a hint.\" 	Elle grimace. « Bon sang ! C'était un indice. » 
+DS_Olzis	\"Quelque chose comme ça.\" 	« Quelque chose comme ça. » 
+DS_Olzis	\"Manifestement.\" 	« Clairement. » 
+DS_Olzis	\"Merci.\" 	« Merci. » 
+DS_Olzis	Elle soupire. « Bien sûr. Je le prends. » 	Elle soupire. « Soit. Je prends. » 
+DS_Olzis	\"Yeah?\" 	« Ouais ? » 
+DS_Olzis	« Qu'est-ce que c'est ? » 	« Laquelle ? » 
+DS_Olzis	\"But it's not like people are solving my riddles every day here. Vous avez le temps. Ne t'en fais pas.\" 	« Mais ce n'est pas comme si les gens résolvaient mes énigmes tous les jours ici. Vous avez le temps. Ne vous inquiétez pas. » 
+DS_Olzis	\"Pardon ?\" 	« Pardon ? » 
+DS_Olzis	\"And you're still alive? Impressionnant.\" 	« Et vous êtes encore en vie ? Impressionnant. » 
+DS_Olzis	\"Ah...\" 	« Ah... » 
+DS_Olzis	C'est ça. 	C'est exact. 
+DS_Olzis	\"No.\" 	« Non. » 
+DS_Olzis	Elle inspire profondément. 	Elle prend une profonde inspiration. 
+DS_Olzis	\"You like... that...?\" (Reprendre ton souffle.) 	« Vous aimez... ça... ? » (Reprendre son souffle.) 
+DS_Olzis	\"Okay.\" 	« D'accord. » 
+DS_Olzis	\"...Fascinant.\" 	« ...Fascinant. » 
+DS_Olzis	R-« Oui. J'aimerais entendre parler de la reproduction des sphinx. » 	« Oui. J'aimerais entendre parler de la reproduction des sphinx. »\"\" 
+DS_Olzis	\"Yes.\" 	« Oui. » 
+DS_Olzis	C'est l'heure. 	C'est le moment. 
+DS_Olzis	\"En effet.\" 	« En effet. » 
+DS_Olzis	Elle s'esclaffe. 	Elle ricane. 
+DS_Olzis	Elle vous toise. \"Nothing is a very strong word in this case.\" 	Elle vous toise de haut en bas. « Rien est un mot bien fort dans ce cas. » 
+DS_Olzis	\"Tsk.\" 	« Tss. » 
+DS_Olzis	« ... Bien sûr. » 	« ... D'accord. » 
+DS_Olzis	\"...Peut-être un peu.\" 	« ...Peut-être un peu. » 
+DS_Olzis	« Vous vous trompez. » 	« Tu te trompes. » 
+DS_Olzis	\"Je ne sais pas.\" (Hausser les épaules.) 	« Je ne sais pas. » (Hausser les épaules.) 
+DS_Olzis	Elle rit. \"If only.\" 	Elle rit. « Si seulement. » 
+DS_Olzis	Elle rit. « Pas même ça. » 	Elle rit. « Même pas cela. » 
+DS_Olzis	Elle sourit en coin. \"<i>That</i> was never an issue.\" 	Elle sourit en coin. « <i>Cela</i> n'a jamais été un problème. » 
+DS_Olzis	\"Ah. Eh bien...\" 	« Ah. Eh bien... » 
+DS_Olzis	Elle hausse un sourcil. \"You surprise me, little one.\" 	Elle hausse un sourcil. « Vous me surprenez, petite chose. » 
+DS_Olzis	Elle hoche la tête. \"When I told him the same thing, he did not respond positively.\" 	Elle hoche la tête. « Quand je lui ai dit la même chose, il n'a pas réagi positivement. » 
+DS_Olzis	Elle s'esclaffe. \"I tire of this conversation, little one.\" 	Elle s'esclaffe. « Je me lasse de cette conversation, petite chose. » 
+DS_Olzis	\"Tant pis.\" 	« Eh bien. » 
+DS_Olzis	\"Dommage.\" 	« Dommage. » 
+DS_Olzis	« J'accepterai ce titre. » 	« Hé, gamin. » (Lui montrer le Registre Orange, subrepticement.) 
+DS_Olzis	\"Ne t'en fais pas. I've seen worse in my days.\" 	« Comment... ? Quoi... ? » 
+DS_Olzis	\"En effet.\" 	\"Indeed. <> #LOC_903 
+DS_Olzis	« Maintenant allez-vous me laisser à mon vin, ou avez-vous d'autres sujets sur lesquels vous souhaitez m'interroger ? » 	« Maintenant allez-vous me laisser à mon vin 
+DS_Olzis	\"I'm content. Pour l'instant.\" 	« Je suis satisfaite. Pour l'instant. » 
+DS_Olzis	Yes. 	Oui. 
+DS_Olzis	\"Compréhensible.\" 	« Compréhensible. » 
+DS_Olzis	\"C'est tout pour l'instant. Merci.\" 	« C'est tout pour l'instant. Merci. » 
+DS_Olzis	« C'est dingue. » 	« C'est dément. » 
+DS_Olzis	Elle hoche la tête. \"They built the first city here, from what I know. You've walked their streets, little one.\" 	Elle hoche la tête. « Ils bâtirent la première cité ici, d'après ce que je sais. Vous avez foulé leurs rues, petite chose. » 
+DS_Olzis	\"Oh!\" 	« Oh ! » 
+DS_Olzis	\"Fascinant. Was he stuck in some type of magical stasis?\" 	« Comme c'est fascinant. Était-il pris dans une sorte de stase magique ? » 
+DS_Olzis	\"Yes?\" 	« Oui ? » 
+DS_Olzis	\"No?\" 	\"Non ?\" 
+DS_Olzis	\"What?\" 	« Quoi ? » 
+DS_Olzis	\"Yes?\" 	« Oui ? » 
+DS_Olzis	\"Yes?\" 	« Oui ? » 
+DS_Olzis	\"Laisse tomber. Anything else?\" 	« Laissez tomber. Autre chose ? » 
+DS_Olzis	Elle s'esclaffe. \"No. I do not.\" 	Elle s'esclaffe. « Non. Pas du tout. » 
+DS_Olzis	Elle hausse les épaules. \"It would have to be <i>very</i> high.\" 	Elle hausse les épaules. « Il faudrait qu'elle soit <i>très</i> haut. » 
+DS_Olzis	\"De rien.\" 	« Je vous en prie. » 
+DS_Olzis	\"Je ne le suis pas.\" 	« Je ne le suis pas. » 
+DS_Olzis	\"Quoi ? Pourquoi ?\" 	« Quoi ? Pourquoi ? » 
+DS_Olzis	Elle secoue la tête. \"I cannot leave to vote, I'm afraid.\" 	Elle secoue la tête. « Je ne peux pas sortir pour voter, hélas. » 
+DS_Olzis	\"Okay. Bon à savoir.\" 	« D'accord. Bon à savoir. » 
+DS_Olzis	\"Compréhensible. Tu ne peux pas faire cela. Ever.\" 	« Compréhensible. Vous ne pouvez pas faire ça. Jamais. » 
+DS_Olzis	\"Fair.\" 	« Juste. » 
+DS_Olzis	\"C'est ridicule.\" 	« C'est ridicule. » 
+DS_Olzis	\"I would not have expected a mortal to understand. Intéressant.\" 	« Je n'aurais pas attendu d'un mortel qu'il comprenne. Intéressant. » 
+DS_Olzis	\"I would not have expected a mortal to understand. Intéressant.\" 	« Je n'aurais pas attendu d'un mortel qu'il comprenne. Intéressant. » 
+DS_Olzis	\"Peut-être. But necessary.\" 	« Peut-être. Mais nécessaire. » 
+DS_Olzis	\"Oh. Je ne sais pas...\" 	« Oh. Je ne sais pas... » 
+DS_Olzis	\"Ah, oui. The servants of a dead god will surely be the best choice to safeguard the future.\" 	« Ah, oui. Les serviteurs d'un dieu mort seront sûrement le meilleur choix pour préserver l'avenir. » 
+DS_Olzis	\"Ah, oui. Opportunistic capitalists will surely be the best choice to safeguard the future.\" 	« Ah, oui. Des capitalistes opportunistes seront sûrement le meilleur choix pour préserver l'avenir. » 
+DS_Olzis	\"Ah, oui. A bunch of failed revolutionaries will surely be the best choice to safeguard the future.\" 	« Ah, oui. Une bande de révolutionnaires ratés sera sûrement le meilleur choix pour préserver l'avenir. » 
+DS_Olzis	\"Yep.\" 	« Eh ouais. » 
+DS_Olzis	Oh boy. 	Aïe aïe. 
+DS_Olzis	ROLL30 cha-Courtiser la bête. 	Courtiser la bête. 
+DS_Olzis	\"Laisse tomber. NEVERMIND.\" 	« Laissez tomber. LAISSEZ TOMBER. » 
+DS_Olzis	(Te racler la gorge.) 	(S'éclaircir la gorge.) 
+DS_Olzis	\"Oh non.\" 	« Oh non. » 
+DS_Olzis	No one. 	Personne. 
+DS_Olzis	No one. 	Personne. 
+DS_Olzis	\"Ah. D'accord.\" 	« Ah. D'accord. » 
+DS_Olzis	(Tomber à genoux.) \"DAMN THE GODS! DAMN IT ALL TO HELLS!\" 	(Tomber à genoux.) « MAUDITS SOIENT LES DIEUX ! QUE TOUT AILLE AUX ENFERS ! » 
+DS_Olzis	\"Merci.\" 	« Merci. » 
+DS_Olzis	\"De rien.\" 	« Je vous en prie. » 
+DS_Olzis	Your goblin companion lets out a comically audible, \"Ouf... !\" 	Votre compagnon gobelin laisse échapper un audible comiquement : « Pfiou... ! » 
+DS_Olzis	Well. 	Eh bien. 
+DS_Olzis	\"Well?\" 	« Alors ? » 
+DS_Olzis	PAIN. 	DOULEUR. 
+TS_Crab	CUTE! 	MIGNON ! 
+TS_Crab	R-(Caresser le crabe.) 	(Caresser le crabe.) 
+TS_Crab	Help. 	À l'aide. 
+TS_Crab	ROLL13 str-Se dégager de l'étau. 	Se dégager de l'étau. 
+TS_Crab	\"I am funny. Merci.\" 	« Je suis drôle. Merci. » 
+TS_Crab	« De rien ! » 	« Je vous en prie ! » 
+TS_Crab	« Tu es quoi alors ? » 	« Qu'êtes-vous alors ? » 
+TS_Crab	(Sourire en coin.) \"I'm a Freestrider.\" 	(Sourire en coin.) « Je suis Libre-Marcheur. » 
+TS_Crab	(Lui lever le pouce.) \"I'm a Nationalist.\" 	(Lui faire un pouce levé.) « Je suis Nationaliste. » 
+TS_Crab	(Avoir l'air triste.) \"I'm Apolitical.\" 	(Avoir l'air triste.) « Je suis Apolitique. » 
+TS_Crab	\"Hehe.\" 	« Héhé. » 
+TS_Crab	C'est juste. 	Soit. 
+TS_Crab	\"WOAH!\" 	« OUAH ! » 
+TS_Crab	\"Bon choix.\" 	« Bon choix. » 
+TS_Crab	Ew. 	Beurk. 
+TS_Crab	\"Que sais-tu du salon de thé ?\" 	« Que savez-vous de la boutique de thé ? » 
+TS_Crab	E-« Citoyen. » 	« Citoyen. » 
+TS_Crab	Elle ne répond pas. 	Il ne répond pas. 
+JC_Urth	\"Hey.\" 	\"Hé.\" 
+JC_Urth	\"How?\" 	« Comment ? » 
+JC_Urth	\"Are you... truly <b>him</b>?\" (Se lever.) 	« Êtes-vous... vraiment <b>lui</b> ? » (Se relever.) 
+JC_Urth	\"Yes.\" 	« Oui. » 
+JC_Urth	\"Qui sait ?\" 	« Qui sait ? » 
+JC_Urth	\"C'est... insane.\" 	« C'est... dingue. » 
+JC_Urth	\"Je ne le conteste pas. That was my initial reaction to the first few years in this place.\" 	« Je ne suis pas en désaccord. Telle fut ma réaction initiale aux premières années en ce lieu. » 
+JC_Urth	\"Bien joué.\" 	« Bien joué. » 
+JC_Urth	PRIDE. 	FIERTÉ. 
+JC_Urth	\"Merci. <i>Urth</i>.\" 	« Merci. <i>Urth</i>. » 
+JC_Urth	Sers-t'en. 	Profites-en. 
+JC_Urth	Now. 	Maintenant. 
+JC_Urth	M-« Je dois vous demander à propos du Seigneur Gorm. » 	« Je dois vous demander à propos du Seigneur Gorm. »\"\" 
+JC_Urth	\"C'est...\" 	« C'est... » 
+JC_Urth	\"What?\" 	« Quoi ? » 
+JC_Urth	\"Bon sang.\" 	« Putain de merde. » 
+JC_Urth	\"Outer gods, in the Endless Wastes? L'autre... side? Some illusion, left from the Gate War? Hm. If I were alive, I would go there myself. But... when he carved this - and I do recognize his terrible writing - it must have been a long time ago.\" 	« Des dieux Extérieurs, dans les Désolations Infinies ? Un autre... côté ? Quelque illusion, laissée par la Guerre de la Porte ? Hm. Si j'étais vivant, j'irais moi-même. Mais... quand il a gravé ceci — et je reconnais bien son écriture terrible — cela doit dater de longtemps. » 
+JC_Urth	Il acquiesce, lentement. 	Il hoche la tête, lentement. 
+JC_Urth	\"Bien sûr.\" 	« Bien sûr. » 
+JC_Urth	(Nod.) 	(Hocher la tête.) 
+JC_Urth	\"Dis-lui...\" 	« Dites-lui... » 
+JC_Urth	\"Thank you, Ragn. Merci.\" 	« Merci, Ragn. Merci. » 
+JC_Urth	\"Ah.\" 	« Ah. » 
+JC_Urth	A key? 	Une clé ? 
+JC_Urth	\"En quelque sorte, oui.\" 	« Plus ou moins, oui. » 
+JC_Urth	\"I have the ability to cast minor magic here, including a soft Scrutation.\" 	« J'ai la capacité de lancer une magie mineure ici, y compris une Scrutation douce. » 
+JC_Urth	\"J'y ai combattu.\" 	« Oui. » 
+JC_Urth	\"Hm.\" 	« Hm. » 
+JC_Urth	\"Pity.\" 	« Pitié. » 
+JC_Urth	Never. 	Jamais. 
+JC_Urth	\"Je ne sais pas. I have no idea.\" 	« Je ne sais pas. Je n'en ai aucune idée. » 
+JC_Urth	\"Voilà l'esprit.\" 	« C'est l'esprit. » 
+JC_Urth	\"I do not believe in a clear answer. Plus maintenant.\" 	« Je ne crois pas en une réponse claire. Plus maintenant. » 
+JC_Urth	M-« Je crois que je... dois demander quelque chose d'encore plus important. » 	« Je crois que je... dois demander quelque chose d'encore plus important. »\"\" 
+JC_Urth	\"No.\" 	« Non. » 
+JC_Urth	\"Why?\" 	« Pourquoi ? » 
+JC_Urth	Toi aussi. 	Tout comme toi. 
+JC_Urth	Truth. 	La vérité. 
+JC_Urth	\"Je ne sais pas. I don't think I know anything anymore.\" 	« Je ne sais pas. Je crois que je ne sais plus rien. » 
+JC_Urth	(Nod.) 	(Hocher la tête.) 
+JC_Urth	\"I had the same power as all those <i>big-shots</i> in the Ère Divine.\" 	« J'avais le même pouvoir que tous ces <i>gros bonnets</i> de l'Ère Divine. » 
+JC_Urth	\"Oui tu en as besoin.\" 	« Oui c'est vrai. » 
+JC_Urth	\"C'est... crazy.\" 	« C'est... dingue. » 
+JC_Urth	\"No, no. Ne le sois pas.\" 	« Non, non. Ne le soyez pas. » 
+JC_Urth	\"Yes.\" 	« Oui. » 
+JC_Urth	\"Bien sûr. C'est un... god.\" 	« Bien sûr. C'est un... dieu. » 
+JC_Urth	« Prenez votre temps. » 	« Prends ton temps. » 
+JC_Urth	« Continue. » 	« Continuez. » 
+JC_Urth	\"Mais ensuite... Lord Gorm, he...!\" 	« Mais alors... le Seigneur Gorm, il... ! » 
+JC_Urth	\"Tout cela.\" 	« Tout. » 
+JC_Urth	\"C'est vrai. It is. But that road in Norvik was a massive risk.\" 	« C'est vrai. Cela l'est. Mais cette voie à Norvik était un risque énorme. » 
+JC_Urth	\"Que veux-tu dire ?\" 	« Que voulez-vous dire ? » 
+JC_Urth	M-« Comment voyez-vous les risques si clairement ? » 	« Comment voyez-vous les risques si clairement ? »\"\" 
+JC_Urth	« Je ne sais pas. » 	« Je l'ignore. » 
+JC_Urth	\"Jusqu'à ce que ça ne le soit plus.\" 	« Jusqu'à ce que ce ne le soit plus. » 
+JC_Urth	« Je ne sais pas. » 	« Je l'ignore. » 
+JC_Urth	\"Yes.\" 	« Oui. » 
+JC_Urth	\"Me?\" 	« Moi ? » 
+JC_Urth	\"Bien sûr.\" 	« Bien sûr. » 
+JC_Urth	\"Them.\" 	« Eux. » 
+JC_Urth	\"Yes.\" 	« Oui. » 
+JC_Urth	« Quoi qu'il advienne. » 	« Peu importe. » 
+JC_Urth	\"Cela en valait la peine. You must defend your tribe at all costs.\" 	« Cela en valait la peine. Vous devez défendre votre tribu à tout prix. » 
+JC_Urth	\"Cela vaut le coup ?\" 	« En valait la peine ? » 
+JC_Urth	Il regarde dans le vide. 	Il regarde vers le vide. 
+JC_Urth	\"Bien sûr. You need to prioritize your own. Always.\" 	« Bien sûr. Il faut donner la priorité aux siens. Toujours. » 
+JC_Urth	\"It's not so black and white. Your parents go before your neighbor. Your neighbor before the foreigner. Et ainsi de suite.\" 	« Ce n'est pas si noir et blanc. Vos parents passent avant votre voisin. Votre voisin avant l'étranger. Et ainsi de suite. » 
+JC_Urth	M-« Vous... » 	« Vous... » 
+JC_Urth	« Le... » 	« La... » 
+JC_Urth	\"Yes.\" 	« Oui. » 
+JC_Urth	NO. 	NON. 
+JC_Urth	(Te mettre à transpirer.) 	(Commencer à transpirer.) 
+JC_Urth	\"Not in that form, at least. But I knew it from the start.\" Il secoue la tête. \"I knew moving my people to Askan could cause it. I did it anyway.\" 	« Pas sous cette forme, du moins. Mais je le savais depuis le début. » Il secoue la tête. « Je savais que déplacer mon peuple à Askan pourrait la causer. Je l'ai fait quand même. » 
+JC_Urth	YES! 	OUI ! 
+JC_Urth	Regret. 	Du regret. 
+JC_Urth	\"Hm.\" 	« Hm. » 
+JC_Urth	\"Good.\" 	« Bien. » 
+JC_Urth	Il lève le menton. \"I've seen you travel with the goblin. Snell. I would suggest keeping him close. If there is one thing I can see in him, it is his heart.\" 	Il lève le menton. « Je vous ai vu voyager avec le gobelin. Snell. Je suggérerais de le garder près. S'il y a une chose que je vois en lui, c'est son cœur. » 
+JC_Urth	\"Good.\" 	« Bien. » 
+JC_Urth	\"Yes.\" 	« Oui. » 
+JC_Urth	\"Yes?\" 	« Oui ? » 
+JC_Urth	\"So I asked him, what of his daughters? Did they dream of war and slaughter? Vengeance ?\" 	« Alors je lui ai demandé, et ses filles ? Rêvaient-elles de guerre et de massacre ? De vengeance ? » 
+JC_Urth	\"I spent the night explaining my visions to him. He, in turn, told me stories about Tokig le Parieur. For hours we talked, exchanging ideas and I proved well and enough how I knew it all.\" 	« J'ai passé la nuit à lui expliquer mes visions. Lui, en retour, m'a raconté des histoires sur Tokig le Parieur. Pendant des heures nous avons parlé, échangeant des idées et j'ai bien et suffisamment prouvé que je savais tout. » 
+JC_Urth	\"Yes.\" 	« Oui. » 
+JC_Urth	Il fronce les sourcils. \"A <i>successful genocide</i>, yeah? What's your definition of <i>success</i> here?\" 	Il se renfrogne. « Un <i>génocide réussi</i>, ouais ? C'est quoi votre définition du <i>succès</i> ici ? » 
+JC_Urth	\"But not for my people alone. Pas cette fois.\" 	« Mais pas pour mon peuple seul. Pas cette fois. » 
+JC_Urth	\"Peut-être.\" 	« Peut-être bien. » 
+JC_Urth	\"Alas.\" 	« Hélas. » 
+JC_Urth	\"J'y réfléchirai. <i>Urth</i>.\" 	« Je vais y réfléchir. <i>Urth</i>. » 
+JC_Urth	\"Good!\" 	« Bien ! » 
+JC_Urth	\"Me?\" 	« Moi ? » 
+JC_Urth	« Je sais. » 	« Je le sais. » 
+JC_Urth	Hope. 	Espoir. 
+JC_Urth	\"Now.\" 	« Maintenant. » 
+JC_Urth	\"Urth.\" 	« Urth. » 
+JC_Urth	\"I...\" 	« Je... » 
+JC_Urth	\"Rien.\" 	« Rien. » 
+JC_Urth	Heh. 	Hé. 
+JC_Urth	Une marque d'affection. 	Un terme d'affection. 
+JC_Urth	Truth. 	La vérité. 
+JC_Urth	« Si. » 	« Elle l'a été. » 
+JC_Urth	\"Yes.\" 	« Oui. » 
+JC_Urth	\"Yes.\" 	« Oui. » 
+JC_Urth	Oh man. 	Oh mec. 
+JC_Urth	(Baisser la tête.) 	(Incliner la tête.) 
+JC_Urth	« Prends-la. » 	« Prenez-le. » 
+JC_Urth	« Je sais. » 	« Je le sais. » 
+JC_Urth	« Moi aussi. » 	\"Moi aussi.\" 
+JC_Urth	\"No.\" 	« Non. » 
+JC_Urth	\"Good!\" 	« Bien ! » 
+JC_Urth	\"Right. <i>That</i>.\" (Se sentir embarrassé.) 	« D'accord. <i>Celle-là</i>. » (Se sentir gêné.) 
+JC_Urth	\"C'est l'heure.\" 	« Il est temps. » 
+JC_Urth	\"Bien sûr que tu l'es.\" 	« Bien sûr que oui. » 
+JC_Urth	Votre dieu hausse les épaules. \"But then again, who knows?\" 	Votre dieu hausse les épaules. « Mais cela dit, qui sait ? » 
+JC_Urth	\"Whoa!\" 	« Wouah ! » 
+JC_Urth	(Haleter pour reprendre ton souffle.) 	(Suffoquer.) 
+JC_Urth	And... 	Et... 
+JC_Urth	\"...Quel jour sommes-nous ?!\" 	« ...Quel jour on est ?! » 
+JC_Urth	(Grogner.) \"Guess I'm okay.\" 	(Grogner.) « J'imagine que ça va. » 
+JC_Urth	M-« J'ai trouvé le Seigneur Gorm. » 	« J'ai trouvé le Seigneur Gorm. »\"\" 
+JC_Urth	\"Yeah.\" 	« Ouais. » 
+JC_Urth	\"Dommage.\" 	« Dommage. » 
+JC_Urth	« C'est— » 	« C'est — » 
+JC_Urth	\"Bon sang.\" 	« Bon sang. » 
+JC_Urth	\"Hm.\" 	« Hm. » 
+JC_Urth	E-« Merci, Snell. » 	« Merci 
+JC_Urth	\"We have had enough of that. Pour l'instant.\" 	« Nous en avons eu assez. Pour l'instant. » 
+JC_Urth	« Eh bien, c'est injuste. » 	« Bon, c'est injuste. » 
+JC_Urth	\"Yeah. C'est dingue.\" (Keep groaning on the ground.) \"Sorry- what did you say?\" 	« Ouais. C'est dingue. » (Continuer à grogner au sol.) « Désolé — qu'est-ce que t'as dit ? » 
+JC_Urth	\"Yep.\" 	« Eh ouais. » 
+JC_Urth	\"Tu le sais. The esoteric is what it is.\" 	« Tu le sais. L'ésotérique est ce qu'il est. » 
+JC_Urth	\"D'accord, d'accord. I keep forgetting,\" he mutters and looks like he's about to throw up as well. 	« C'est vrai, c'est vrai. J'oublie sans arrêt », marmonne-t-il, et il a aussi l'air sur le point de vomir. 
+JC_Urth	\"What- like in the magazines? Allez.\" 	« Quoi — comme dans les magazines ? Allez. » 
+JC_Urth	\"D'accord, d'accord. I keep forgetting,\" he mutters and looks like he's about to throw up as well. 	« C'est vrai, c'est vrai. J'oublie sans arrêt », marmonne-t-il, et il a aussi l'air sur le point de vomir. 
+JC_Urth	(Regarder autour.) \"Is everyone here?\" 	(Regarder autour.) « Tout le monde est là ? » 
+JC_Urth	\"Oh dieux. I need to figure out what I'm voting.\" 	« Oh dieux. Je dois trouver pour qui je vote. » 
+JC_Urth	E-« D'accord. Allons-y. » 	« D'accord. Allons-y. »\"\" 
+JC_Urth	\"Voilà l'esprit.\" 	« C'est l'esprit. » 
+Default_DetectThoughts	Okay. 	D'accord. 
+Default_DetectThoughts	Shit! 	Merde ! 
+OP_EverGlad	C'est ça. 	C'est cela. 
+OP_EverGlad	DC20 cha-(Parle simplement.) « Bonjour. » 	DC20 cha-(Juste parler.) « Bonjour. » 
+OP_EverGlad	R-Je dois... l'attaquer ! 	Je dois... l'attaquer ! 
+OP_EverGlad	O-OUI... ! 	OUI...! 
+OP_EverGlad	ROLL12 str-Frapper la bête du poing. 	Frapper la bête du poing. 
+OP_EverGlad	ROLL14 con-Tenir bon. 	Tenir bon. 
+OP_EverGlad	(Se lever.) 	(Se relever.) 
+OP_EverGlad	(S'agenouiller.) \"Oh, great one, from the Far Realm... spare us!\" 	(S'agenouiller.) « Ô, grand être, du Royaume Lointain... épargnez-nous ! » 
+OP_EverGlad	« J'ai quelques questions pour toi. » 	« J'ai des questions pour toi. » 
+OP_EverGlad	\"Oh?\" (Se lever.) 	« Oh ? » (Se relever.) 
+OP_EverGlad	« Qu'es-tu ? » 	« Qu'êtes-vous ? » 
+OP_EverGlad	M-« C'est vous qu'on appelle Toujours-Joyeux ? » 	« C'est vous qu'on appelle Toujours-Joyeux ? »\"\" 
+OP_EverGlad	\"J'adore.\" 	« J'adore. » 
+OP_EverGlad	\"C'est... it's fine, I just wanted to check.\" 	« C'est... c'est bon, je voulais juste vérifier. » 
+OP_EverGlad	\"Merveilleux.\" 	« Merveilleux. » 
+OP_EverGlad	\"<b>Oui</b>.\" 	« <b>Oui</b>. » 
+OP_EverGlad	\"No.\" 	« Non. » 
+OP_EverGlad	\"C'est le cas. And you will.\" 	« Vous l'êtes. Et vous le serez. » 
+OP_EverGlad	\"Oh, oui.\" 	« Oh, oui. » 
+OP_EverGlad	« Mmh-mmh. » 	« Mh-hm. » 
+OP_EverGlad	R-« J'accepte ! » 	« Je prends ! » 
+OP_EverGlad	\"Évaluation juste...\" 	« Évaluation juste... » 
+OP_EverGlad	\"C'est exact.\" 	« C'est exact. » 
+OP_EverGlad	\"Ça marche.\" (Lui lever le pouce.) 	« Ça me va. » (Lui faire un pouce levé.) 
+OP_EverGlad	\"Intéressant.\" 	« Intéressant. » 
+OP_EverGlad	\"Oops.\" 	« Oups. » 
+OP_EverGlad	\"Good.\" 	« Bien. » 
+OP_EverGlad	ROLL17 cha-Inventer un faux secret. 	Inventer un faux secret. 
+OP_EverGlad	ROLL17 int-Élaborer un argument expliquant pourquoi l'information sur sa tentative de meurtre ne mérite pas un secret. 	Élaborer un argument expliquant pourquoi l'information sur sa tentative de meurtre ne mérite pas un secret. 
+OP_EverGlad	ROLL28 con-Rassembler le courage de lui dire ton secret le plus profond — la source de toute ton insécurité et de ta honte. 	Rassembler le courage de lui dire ton secret le plus profond — la source de toute ton insécurité et de ta honte. 
+OP_EverGlad	\"Eh...\" 	« Bof... » 
+OP_EverGlad	\"Deal.\" 	« Marché conclu. » 
+OP_EverGlad	\"Oh, oui... do tell.\" 	« Oh, oui... racontez. » 
+OP_EverGlad	Nope. 	Nan. 
+OP_EverGlad	What? 	Quoi ? 
+OP_EverGlad	\"Ah...\" 	« Ah... » 
+OP_EverGlad	You... 	Tu... 
+OP_EverGlad	\"Oh...\" 	« Oh... » 
+OP_EverGlad	\"Cleric. Sois prudent.\" 	« Clerc. Sois prudent. » 
+OP_EverGlad	\« Je ne suis <b>pas</b>... ni ne l'ai jamais <b>été</b>... 	« Je ne suis <b>pas</b>... ni ne l'ai jamais <b>été</b>... #LOC_389\" 
+OP_EverGlad	<b>SEXUELLEMENT ACTIF</b> ! » 	<b>SEXUELLEMENT ACTIF</b> ! » #LOC_391\" 
+OP_EverGlad	\"I...\" 	« Je... » 
+OP_EverGlad	\"Hm...\" 	« Hm... » 
+OP_EverGlad	The telepathic voice of the angel enters your mind. \"Risky play. Yet a good move. Bien joué.\" 	La voix télépathique de l'ange entre dans votre esprit. « Jeu risqué. Pourtant un bon coup. Bien joué. » 
+OP_EverGlad	Il te lève le pouce. 	Il vous fait un pouce levé. 
+OP_EverGlad	No... 	Non... 
+OP_EverGlad	Okay. 	D'accord. 
+OP_EverGlad	Fine. 	Très bien. 
+OP_EverGlad	\"Plus tard peut-être.\" 	« Plus tard, peut-être. » 
+OP_EverGlad	\"Ah...\" 	« Ah... » 
+OP_EverGlad	\"C'est...\" 	« C'est... » 
+OP_EverGlad	\"Yeah.\" 	« Ouais. » 
+OP_EverGlad	\"Yes?\" 	« Oui ? » 
+OP_EverGlad	\"À ton avis ?\" 	« Qu'est-ce que t'en penses ? » 
+OP_EverGlad	\"Essaie autre chose. If you have... anything.\" 	« Essayez autre chose. Si vous avez... quoi que ce soit. » 
+OP_EverGlad	\"Oh!\" 	« Oh ! » 
+OP_EverGlad	« Quoi ?! » 	\"Quoi ?!\" 
+OP_EverGlad	\"C'est dingue. You're way cooler than I thought you were, Cleric.\" 	« C'est dingue. Tu es bien plus cool que je ne le pensais, Clerc. » 
+OP_EverGlad	\"Oh...\" 	« Oh... » 
+OP_EverGlad	\"Huh.\" 	« Tiens. » 
+OP_EverGlad	\"What?\" 	« Quoi ? » 
+OP_EverGlad	\"Oh, allons.\" 	« Oh, allez. » 
+OP_EverGlad	(Se contenter d'écouter.) 	(Écouter simplement.) 
+OP_EverGlad	\"Développe. Now.\" 	« Développez. Maintenant. » 
+OP_EverGlad	\"Bien sûr. I know most - things to know.\" 	« Bien sûr. Je sais la plupart — des choses à savoir. » 
+OP_EverGlad	« Dis-le-moi. Maintenant. » 	« Dites-moi. Maintenant. » 
+OP_EverGlad	\"Ne t'en fais pas. You will find out in time.\" 	« Ne vous inquiétez pas. Vous le découvrirez en temps voulu. » 
+OP_EverGlad	« Je ne comprends pas. » 	« Je comprends pas. » 
+OP_EverGlad	« De rien. » 	« Je vous en prie. » 
+OP_EverGlad	\"Ah...\" 	« Ah... » 
+OP_EverGlad	Cell? 	Cellule ? 
+OP_EverGlad	\"C'est pas tes affaires.\" 	« Pas vos affaires. » 
+OP_EverGlad	\"Intéressant...\" 	« Intéressant... » 
+OP_EverGlad	\"I do.\" 	« Oui. » 
+OP_EverGlad	M-« D'accord. Cool comme passé. » 	« D'accord. Cool comme passé. »\"\" 
+OP_EverGlad	\"Yes. Les Toulin'catl.\" 	« Oui. Les Toulin'catl. » 
+OP_EverGlad	\"Intéressant.\" 	« Intéressant. » 
+OP_EverGlad	\"Yes.\" 	« Oui. » 
+OP_EverGlad	Tu ne gères pas. 	Tu ne l'es pas. 
+OP_EverGlad	\"Merci.\" 	« Merci. » 
+OP_EverGlad	\"Cependant...\" 	« Cependant... » 
+OP_EverGlad	\"No.\" 	« Non. » 
+OP_EverGlad	\"Rien.\" 	« Rien. » 
+OP_EverGlad	\"What?\" 	« Quoi ? » 
+OP_EverGlad	\"What exactly does this mean? Je suis confus.\" 	« Que signifie cela exactement ? Je suis confus. » 
+OP_EverGlad	« Je comprends. » (Baisser la tête.) 	« Je comprends. » (Incliner la tête.) 
+OP_EverGlad	\"Good.\" 	« Bien. » 
+OP_EverGlad	R-« Oui. Je souhaite signer le contrat. » 	« Oui. Je souhaite signer le contrat. »\"\" 
+OP_EverGlad	\"Bien sûr. Do not rush such a big commitment...\" 	« Bien sûr. Ne précipitez pas un tel engagement... » 
+OP_EverGlad	\"<shake>Oui...</shake>\" 	« <shake>Oui...</shake> » 
+OP_EverGlad	(Regarder autour.) \"I feel a bit strange, maybe...\" 	(Regarder autour de soi.) « Je me sens un peu étrange, peut-être... » 
+OP_EverGlad	L'obscurité. 	Les ténèbres. 
+OP_EverGlad	\"Naru?\" 	« Naru ? » 
+OP_EverGlad	\"Tu as vu quelque chose.\" 	« Vous avez vu quelque chose. » 
+OP_EverGlad	\"Intéressant.\" 	« Intéressant. » 
+OP_EverGlad	\"A spell. You pulled on les Fils.\" 	« Un sort. Vous avez tiré sur les Fils. » 
+OP_EverGlad	\"No?\" 	\"Non ?\" 
+OP_EverGlad	\"No.\" 	« Non. » 
+OP_EverGlad	\"But yes. I have nothing to ask of you. Pour l'instant.\" 	« Mais oui. Je n'ai rien à vous demander. Pour l'instant. » 
+OP_EverGlad	Quelle horreur. 	Comme c'est terrible. 
+OP_EverGlad	Eh. 	Bof. 
+OP_EverGlad	\"Bien. Bon à savoir.\" 	« D'accord. Bon à savoir. » 
+OP_EverGlad	\"Bien sûr. In time.\" 	« Bien sûr. En temps voulu. » 
+OP_EverGlad	\"Peut-être. But I will not know until the contract is signed.\" 	« Peut-être. Mais je ne le saurai pas avant que le contrat soit signé. » 
+OP_EverGlad	\"Peut-être. But it is the truth.\" 	« Peut-être. Mais c'est la vérité. » 
+OP_EverGlad	\"Plus ou moins.\" 	« Quelque peu. » 
+OP_EverGlad	\"Good.\" 	« Bien. » 
+OP_EverGlad	(Le frapper du poing.) 	(Le frapper.) 
+OP_EverGlad	\"Intéressant.\" 	« Intéressant. » 
+Q_Demo	Hey! 	Hé ! 
+Q_Demo	Ouais bordel ! 	Bordel ouais ! 
+Q_Demo	Wow. 	Eh ben. 
+Q_Demo	Bien sûr que tu l'as. 	Bien sûr que tu aimes. 
+Q_Demo	E-...Bonne discussion. 	...Bonne discussion. 
+VL_Books	Il vous adresse un regard inquiet. \"We do have slightly more important stuff to handle, than... reading. At least right now, Cleric.\" 	Il vous lance un regard inquiet. « On a des choses un peu plus importantes à gérer que... lire. Du moins pour l'instant, Clerc. » 
+VL_Books	« C'est ça. Bien. » 	« D'accord. Bien. » 
+VL_Books	Ironic. 	Ironique. 
+VL_Books	Heh. 	Hé. 
+VL_Books	What? 	Quoi ? 
+VL_Books	It is. 	C'est vrai. 
+VL_Books	Puis il te lève le pouce. 	Puis il vous fait un pouce levé. 
+Q_Riddle	They... 	Ils... 
+Q_Riddle	M-Je n'aurai pas de vraies réponses, hein ? 	Je n'aurai pas de vraies réponses, hein ? 
+Q_Riddle	Indeed. 	En effet. 
+Q_Riddle	No. 	Non. 
+Q_Riddle	Creepy. 	Flippant. 
+Q_Riddle	Voilà. 	Et voilà. 
+CB_Pickaxe	E-Non ! Je vais la porter avec fierté. 	Non ! Je vais la porter avec fierté. 
+CB_Pickaxe	E-Oui. Je vais la mettre au fond de mon sac. 	Oui. Je vais la mettre au fond de mon sac. 
+CB_Pickaxe	E-Pourquoi est-ce que je <i>me</i> parle à moi-même ? 	Pourquoi est-ce que je <i>me</i> parle à moi-même ? 
+CB_Pickaxe	ROLL14 int-Comprendre comment en extraire le sort. 	Comprendre comment en extraire le sort. 
+CB_Pickaxe	E-Bon à savoir. 	Bon à savoir. 
+CB_Pickaxe	E-Stupéfiant. 	Génial. 
+CB_Pickaxe	Not up. 	Pas vers le haut. 
+CB_Pickaxe	No. 	Non. 
+CB_Pickaxe	No. 	Non. 
+LL_VotingCard	L'élection se profile. 	L'élection approche. 
+LL_VotingCard	E-Bon à savoir. 	Bon à savoir. 
+LL_VotingCard	Oh. Oh! 	Oh. Oh ! 
+LL_VotingCard	Bien sûr que tu l'as. 	Bien sûr que tu aimes. 
+LL_VotingCard	No. 	Non. 
+Q_Class	C'est ça. 	C'est exact. 
+Q_Class	Yes. 	Oui. 
+Q_Class	No. 	Non. 
+Q_Class	Got it. 	Compris. 
+Q_Class	Duh. 	Bah ouais. 
+Q_Class	Uh. 	Euh. 
+Q_Class	YES. 	OUI. 
+Q_Class	Uh-huh? 	Mouais ? 
+Q_Class	Oh yes. 	Ah ça oui. 
+Q_Class	Say it. 	Dis-le. 
+Q_Class	SAY IT. 	DIS-LE. 
+Q_Class	Ouais bordel ! 	Bordel ouais ! 
+Q_Class	Lovely. 	Charmant. 
+TS_Seagull	Le gobelin lève un sourcil. « Un quoi ? » 	Le gobelin hausse un sourcil. \"Un quoi ?\" 
+TS_Seagull	E-(Hocher la tête et partir.) 	(Hocher la tête et partir.) 
+TS_Seagull	ROLL10 dex-Une dernière tentative. <i>Caresser l'oiseau.</i> 	Une dernière tentative. <i>Caresser l'oiseau.</i> 
+TS_Seagull	But... 	Mais... 
+TS_Seagull	IROLL-Lancer l'initiative. 	Lancer l'initiative. 
+TS_Seagull	\"Allez... <i>birdy</i>...\" 	\"Allez... <i>piaf</i>...\" 
+TS_Seagull	ROLL13 str-Attraper l'oiseau. 	Attraper l'oiseau. 
+TS_Seagull	ROLL8 con-Vous coucher au sol en boule et crier : \"Je ne consens pas !\" 	S'allonger et se recroqueviller en petite boule et crier : « Je ne consens pas ! » 
+TS_Seagull	À quoi tu t'attendais ? 	À quoi t'attendais-tu ? 
+TS_Seagull	ROLL13 str-Attraper l'oiseau. 	Attraper l'oiseau. 
+TS_Seagull	ROLL10 wis-T'excuser. Sincèrement. 	Excuse-toi. Sincerely. 
+TS_Seagull	Yes. 	Oui. 
+TS_Seagull	Yes. 	Oui. 
+TS_Seagull	Yes. 	Oui. 
+TS_Seagull	Faster! 	Plus vite ! 
+TS_Seagull	Uh... 	Euh... 
+TS_Seagull	Yes! 	Oui ! 
+TS_Seagull	\"Bon sang. Decisive blow.\" 	\"Putain de merde. Coup décisif.\" 
+TS_Seagull	Darn. 	Zut. 
+TS_Seagull	(Prendre une profonde inspiration.) 	(Prendre une grande inspiration.) 
+TS_Seagull	E-J'ai survécu. Mais cette tentative sur ma vie était sévère. Je dois récupérer maintenant. 	J'ai survécu. Mais cette tentative sur ma vie était sévère. Je dois récupérer maintenant. 
+TS_Seagull	« C'est grossier. » 	\"C'est impoli.\" 
+TS_Seagull	\"J'ai quelques questions.\" 	« J'ai quelques questions. » 
+TS_Seagull	\"Elle parle ?!\" 	\"Ça parle ?!\" 
+TS_Seagull	\"Look, Je m'en fiche. I just have some questions.\" 	\"Écoute, je m'en moque. J'ai juste quelques questions.\" 
+TS_Seagull	\"YES!\" 	\"OUI !\" 
+TS_Seagull	« Que fais-tu ici ? » 	\"Que fais-tu ici ?\" 
+TS_Seagull	\"Pour qui votes-tu aux élections ?\" 	« Pour qui votes-tu à l'élection ? » 
+TS_Seagull	« Merci pour votre temps. » (Rompre le sort.) 	\"Merci pour ton temps.\" (Rompre le sort.) 
+TS_Seagull	\"Geez.\" 	\"Bon sang.\" 
+TS_Seagull	\"No!\" 	« Non ! » 
+TS_Seagull	« Le quoi ? » 	\"Le quoi ?\" 
+TS_Seagull	\"The Lord of the Water has spoken of it much. Il sait... he knows that is the sign of the end times.\" 	\"Le Seigneur de l'Eau en a beaucoup parlé. Il sait... il sait que c'est le signe des derniers temps.\" 
+TS_Seagull	Oh dieux. 	Oh mon dieu. 
+TS_Seagull	\"Je comprends. That's cool.\" 	\"Je comprends. C'est cool.\" 
+TS_Seagull	\"No.\" 	« Non. » 
+TS_Seagull	Pain. 	La douleur. 
+TS_Seagull	\"Beau boulot.\" 	« Beau boulot. » 
+TS_Seagull	Sarcasme. 	Du sarcasme. 
+TS_Seagull	E-Darn. 	Zut. 
+Meek_Companion	\"Ahoy?\" 	\"Ahoy ?\" 
+Meek_Companion	\"Okay!\" 	« D'accord ! » 
+Meek_Companion	E-C'est tout pour l'instant, Meek. 	C'est tout pour l'instant, Meek. 
+Meek_Companion	\"Oui, oui. That is what he say.\" 	\"Oui, oui. C'est ce que lui dire.\" 
+Meek_Companion	M-\"C'est tout sur ton ancien maître.\" 	\"C'est tout sur ton ancien maître.\" 
+Meek_Companion	\"Yes!\" 	« Oui ! » 
+Meek_Companion	\"Yes!\" 	« Oui ! » 
+Meek_Companion	\"Perchance? Qu'est-ce que ça veut dire ?\" 	\"D'aventure ? Ça veut dire quoi ?\" 
+Meek_Companion	\"Yes?\" 	« Oui ? » 
+Meek_Companion	\"C'est un... thing smart people say.\" 	\"C'est un... truc que disent les gens intelligents.\" 
+Meek_Companion	\"Oh.\" 	« Oh. » 
+Meek_Companion	\"C'est logique. Master is smart after all!\" 	\"Logique. Maître être intelligent, après tout !\" 
+Meek_Companion	\"Cool.\" 	« Cool. » 
+Meek_Companion	\"Terrible! Mais efficace.\" 	\"Horrible ! Mais efficace.\" 
+Meek_Companion	\"Very!\" 	\"Beaucoup !\" 
+Meek_Companion	\"Bon, ça ira.\" 	« Suffisant. » 
+Meek_Companion	\"Good!\" 	« Bien ! » 
+Meek_Companion	\"No.\" 	« Non. » 
+Meek_Companion	\"Oh!\" 	« Oh ! » 
+Meek_Companion	\"...In future. Pas maintenant.\" 	\"...Dans futur. Pas maintenant.\" 
+Meek_Companion	E-\"Juste... cache-toi un peu, mon vieux.\" 	\"Juste... cache-toi un peu, mon vieux.\" 
+Meek_Companion	\"Élection ? What is?\" 	\"Élection ? Être quoi ?\" 
+Meek_Companion	\"Ah!\" 	« Ah ! » 
+Meek_Companion	\"What?\" 	« Quoi ? » 
+Meek_Companion	\"Huh.\" 	« Tiens. » 
+Meek_Companion	\"Sure.\" 	« Bien sûr. » 
+Meek_Companion	\"...Pas tout à fait. But alright.\" 	\"...Pas tout à fait. Mais bon.\" 
+Meek_Companion	\"Yes!\" 	« Oui ! » 
+Meek_Companion	\"Okay!\" 	« D'accord ! » 
+Meek_Companion	E-\"Fais donc ça, mon vieux.\" 	\"Fais donc ça, mon vieux.\" 
+Meek_Companion	\"Good!\" 	« Bien ! » 
+VL_Ost	\"Tu n'as pas à me dire quoi faire.\" 	« Tu ne me dis pas quoi faire. » 
+VL_Ost	« J'ai quelques questions pour toi. » 	« J'ai des questions pour toi. » 
+VL_Ost	E-« Merci de ton temps. » 	« Merci pour votre temps. » 
+VL_Ost	Le gobelin pouffe. 	Le gobelin glousse. 
+VL_Ost	\"Il t'a eu là.\" 	« Il t'a eu là. » 
+VL_Ost	\"...C'est juste.\" 	« ...Soit. » 
+VL_Ost	\"Yes.\" 	« Oui. » 
+VL_Ost	\"No, no. I'm fine. Continuez.\" 	« Non, non. Ça va. Continue. » 
+VL_Ost	It is. 	C'est vrai. 
+VL_Ost	Fair. 	Juste. 
+VL_Ost	E-« Merci de ton temps, kobold. » 	« Merci de ton temps 
+VL_Ost	\"Yeah, sure. Bon, ça ira.\" 	« Ouais, bien sûr. C'est bon. » 
+VL_Ost	ROLL10 dex-Tenter de sauver la question. 	Tenter de sauver la question. 
+VL_Ost	\"My crossbow. Pas les tiennes.\" 	« Mon arbalète. Pas la tienne. » 
+VL_Ost	« S'il vous plaît ? » 	« S'il te plaît ? » 
+VL_Ost	R-(Prendre l'arbalète, c'est tout.) 	(Prendre l'arbalète 
+VL_Ost	« Si c'était ta faute. » 	« Si c'en était une. » 
+VL_Ost	\"No.\" 	« Non. » 
+VL_Ost	\"Hrmf.\" 	« Hmf. » 
+VL_Ost	\"Boom.\" 	« Boum. » 
+VL_Ost	\"Sure.\" 	« Bien sûr. » 
+VL_Ost	\"Milk.\" 	« Lait. » 
+VL_Ost	\"Cows.\" 	« Vaches. » 
+VL_Ost	\"Really? Intéressant. See, I always wondered about that.\" 	« Vraiment ? Intéressant. Tu vois, je me suis toujours posé la question. » 
+VL_Ost	\"Just.\" 	« Juste. » 
+VL_Ost	\"No.\" 	« Non. » 
+VL_Ost	\"No.\" 	« Non. » 
+VL_Ost	ROLL7 cha-« Moi non plus je n'aime pas le lait. » 	« Moi non plus je n'aime pas le lait. » 
+VL_Ost	\"No.\" 	« Non. » 
+VL_Ost	\"Okay.\" 	« D'accord. » 
+VL_Ost	« Tu votes quoi à l'élection à venir ? » 	« Pour qui votez-vous à la prochaine élection ? » 
+VL_Ost	\"Yes.\" 	« Oui. » 
+VL_Ost	\"Okay, sweet! D'accord !\" 	« D'accord, génial ! D'accord ! » 
+VL_Ost	\"Compris.\" 	« Compris. » 
+VL_Ost	\"Yes!\" 	« Oui ! » 
+VL_Ost	\"No.\" 	« Non. » 
+VL_Ost	\"Oui. Très bien. Strong men lead. Bright tomorrow.\" 	« Oui. Très bon. Hommes forts diriger. Avenir radieux. » 
+VL_Ost	\"Okay.\" 	« D'accord. » 
+VL_Ost	\"Ouch!\" 	« Aïe ! » 
+VL_Ost	\"Huh?\" 	« Hein ? » 
+VL_Ost	Ton compagnon a l'air troublé. 	Votre compagnon a l'air perturbé. 
+VL_Ost	ROLL15 cha-Trouver un argument raisonnable. (Probablement avec un mensonge.) 	Trouver un argument raisonnable. (Probablement avec un mensonge.) 
+VL_Ost	\"No.\" 	« Non. » 
+VL_Ost	C'est juste. 	Soit. 
+VL_Ost	« Je le ferai. » 	« Je vais. » 
+VL_Ost	\"Quoi ? Pourquoi ?\" 	« Quoi ? Pourquoi ? » 
+VL_Ost	\"Mm.\" 	« Mm. » 
+VL_Ost	E-« Merci. » 	« Merci. » 
+VL_Ost	E-« Merci. » 	« Merci. » 
+VL_Ost	\"No more questions.\" (Rompre le sort.) 	« Plus de questions. » (Rompre le sort.) 
+VL_Ost	\"Yes. Yes! You get crossbow. Bien sûr.\" 	« Oui. Oui ! Toi avoir arbalète. Bien sûr. » 
+VL_Ost	\"Guh!\" 	« Guh ! » 
+VL_Ost	Il secoue la tête. \"I... anyway. Ask anything, I answer!\" 	Il secoue la tête. « Je... bref. Demande n'importe quoi, je réponds ! » 
+VL_Ost	Snell soupire. \"Stop playing with fire, Cleric.\" 	Snell soupire. « Arrête de jouer avec le feu, Clerc. » 
+VL_Ost	E-Juste y aller. 	Juste y aller. 
+VL_Ost	\"Why?\" 	« Pourquoi ? » 
+VL_Ost	\"La ferme !\" 	« La ferme ! » 
+VL_Ost	\"Ce n'est pas le cas. Very called for.\" 	« C'est pas. Très justifié. » 
+VL_Ost	\"What?\" 	« Quoi ? » 
+VL_Ost	E-Juste y aller. 	Juste y aller. 
+VL_Ost	\"Faux. Very not true.\" 	« Pas vrai. Très pas vrai. » 
+VL_Ost	\"Et ainsi de suite.\" 	« Et ainsi de suite. » 
+VL_Ost	\"Et ainsi de suite.\" 	« Et ainsi de suite. » 
+VL_Ost	\"No!\" 	« Non ! » 
+VL_Ost	IROLL-Lancer l'initiative. 	Lancer l'initiative. 
+VL_Ost	Bordel de merde. 	Putain de bordel. 
+VL_Ost	Ouch! 	Aïe ! 
+VL_Ost	ROLL12 str-Te pousser à la limite — resserrer ta prise sur l'arbalète ! 	Te pousser à la limite — resserrer ta prise sur l'arbalète ! 
+VL_Ost	ROLL11 cha-Lui demander gentiment de lâcher prise. 	Lui demander gentiment de lâcher prise. 
+VL_Ost	ROLL8 dex-Déstabiliser la caisse sur laquelle il est assis. 	Déstabiliser la caisse sur laquelle il est assis. 
+VL_Ost	\"No!\" 	« Non ! » 
+VL_Ost	\"<b>NON !</b>\" 	« <b>NON !</b> » 
+VL_Ost	Ça vaut le coup d'essayer. 	Ça valait le coup d'essayer. 
+VL_Ost	\"Gah!\" 	« Gah ! » 
+VL_Ost	ROLL12 con-Tenir bon. En faire un concours d'endurance. 	Tiens bon. En faire un concours d'endurance. 
+VL_Ost	ROLL7 int-Élaborer un vrai plan. 	Élaborer un vrai plan. 
+VL_Ost	Oh? 	Oh ? 
+VL_Ost	\"La ferme ! La ferme ! La ferme !\" 	« La ferme ! La ferme ! La ferme ! » 
+VL_Ost	A bolt. 	Un carreau. 
+VL_Ost	Oh no. 	Oh non. 
+VL_Ost	ROLL12 str-Faire votre tentative finale. Arracher l'arbalète de sa prise ! 	Faire votre tentative finale. Arracher l'arbalète de sa prise ! 
+VL_Ost	ROLL12 str-Faire votre tentative finale. Arracher l'arbalète de sa prise ! 	Faire votre tentative finale. Arracher l'arbalète de sa prise ! 
+VL_Ost	ROLL30 cha-Le convaincre d'abandonner. 	Le convaincre d'abandonner. 
+VL_Ost	« Vous... vous... » 	« Toi... toi... » 
+VL_Ost	E-« On verra ça. » 	« On verra bien. » 
+VL_Ost	E-« Ça me semble juste. Merci ! » 	« Ça me semble juste. Merci ! »\"\" 
+VL_Ost	E-« Non, elle est à moi. » 	« Non 
+VL_Ost	Tu prends une profonde inspiration. 	Vous prenez une profonde inspiration. 
+VL_Ost	E-« D'accord. Désolé. » 	« D'accord. Désolé. » 
+VL_Ost	E-Ne rien dire. 	Ne rien dire. 
+VL_Ost	ROLL5 wis-Tenter de tirer les <i><b>Fils</b></i>. 	Tenter de tirer sur les <i><b>Cordes</b></i>. 
+VL_Ost	No. 	Non. 
+VL_Ost	Tu les suis tandis qu'elles dansent. 	Tu les suis tandis qu'ils dansent. 
+VL_Ost	What? 	Quoi ? 
+VL_Ost	Crowns? 	Des couronnes ? 
+VL_Ost	NO. 	NON. 
+VL_Ost	What? 	Quoi ? 
+VL_Ost	Wait... 	Attends... 
+VL_Ost	SHIT! 	MERDE ! 
+VL_Ost	\"Pardon.\" 	« Désolé. » 
+VL_Ost	\"Yes.\" 	« Oui. » 
+VL_Ost	\"No harm? Plus pour longtemps.\" 	« Pas de mal ? Pas pour longtemps. » 
+VL_Ost	\"Recommence. Find out. Okay?\" 	« Réessaie. Tu verras. D'accord ? » 
+VL_Ost	E-Y réfléchir. 	Réfléchis-y. 
+Q_Gate	But... 	Mais... 
+Q_Gate	But. 	Mais. 
+Q_Gate	Yes. 	Oui. 
+Q_Gate	False. 	Faux. 
+Q_Gate	Do it. 	Fais-le. 
+Q_Gate	Love. 	L'amour. 
+Q_Gate	E-(Sentir que la FIN est proche.) 	(Sentir que la FIN est proche.) 
+CB_BagofHolding	No way! 	C'est pas vrai ! 
+CB_BagofHolding	Huh. 	Hum. 
+CB_BagofHolding	Way. 	Si. 
+CB_BagofHolding	Way! 	Si ! 
+CB_BagofHolding	Oh yes! 	Oh oui ! 
+CB_BagofHolding	ROLL12 str-Enfoncer votre bras à l'intérieur et fouiller. 	Enfoncer votre bras à l'intérieur et fouiller. 
+CB_BagofHolding	ROLL15 int-Examiner le sac de près. 	Examiner le sac de près. 
+CB_BagofHolding	ROLL12 dex-Glisser prudemment votre main dans le sac. 	Glisser prudemment votre main dans le sac. 
+CB_BagofHolding	ROLL18 wis-Essayer de demander des trucs au sac en différentes langues. 	Essayer de demander des trucs au sac en différentes langues. 
+CB_BagofHolding	ROLL8 con-Enfoncer votre tête à l'intérieur. 	Enfoncer votre tête à l'intérieur. 
+CB_BagofHolding	ROLL25 cha-Lui demander gentiment quelque chose. 	Lui demander gentiment quelque chose. 
+CB_BagofHolding	E-Je vais poser le sac. 	Je vais poser le sac. 
+CB_BagofHolding	Hm. 	Hum. 
+CB_BagofHolding	No. 	Non. 
+CB_BagofHolding	A... 	Un... 
+CB_BagofHolding	Hard. 	Fort. 
+CB_BagofHolding	Ugh... 	Argh... 
+CB_BagofHolding	\"Oh dieux.\" 	« Oh dieux. » 
+CB_BagofHolding	At first surprised, your companion's expression soon turns to weariness. \"Bien sûr.\" 	Surpris d'abord, l'expression de votre compagnon se mue bientôt en lassitude. « Évidemment. » 
+CB_BagofHolding	Yes. 	Oui. 
+CB_BagofHolding	It is. 	C'est vrai. 
+CB_BagofHolding	\"On peut y aller maintenant ?\" 	« On peut y aller maintenant ? » 
+CB_BagofHolding	Excepté... 	Sauf que... 
+CB_BagofHolding	Il soupire. \"Oh, who am I kidding. Go nuts.\" 	Il soupire. « Oh, qui je veux tromper. Lâche-toi. » 
+CB_BagofHolding	No, no. 	Non, non. 
+CB_BagofHolding	Damn! 	Bon sang ! 
+CB_BagofHolding	Nice. 	Sympa. 
+CB_BagofHolding	Indeed. 	En effet. 
+DS_Deck	A deck. 	Un deck. 
+DS_Deck	Yes. 	Oui. 
+DS_Deck	No. 	Non. 
+DS_Deck	\"You found it, then. Comme c'est intéressant.\" 	« Vous l'avez donc trouvé. Comme c'est intéressant. » 
+DS_Deck	R-(Le ramasser.) 	(Le ramasser.) 
+DS_Deck	R-Allons-y. Tirons des cartes. 	Faisons-le. Let's draw cards. 
+DS_Deck	E-Je devrais laisser ça tranquille pour l'instant. 	Je devrais laisser ça tranquille pour l'instant. 
+DS_Deck	Es-tu certain ? 	En êtes-vous certain ? 
+DS_Deck	R-(Tirer des cartes.) 	(Tirer des cartes.) 
+DS_Deck	Yes. 	Oui. 
+DS_Deck	\"Yeah?\" 	« Ouais ? » 
+DS_Deck	\"Bien sûr que non. It's very dangerous.\" 	« Bien sûr que non. C'est très dangereux. » 
+DS_Deck	\"Tu n'as pas à me dire quoi faire.\" 	« Tu ne me dis pas quoi faire. » 
+DS_Deck	\"Good.\" 	« Bien. » 
+DS_Deck	No. 	Non. 
+DS_Deck	\"Laisse tomber. Let's just get it done.\" 	« Laisse tomber. Finissons-en, c'est tout. » 
+DS_Deck	\"Oh.\" 	« Oh. » 
+DS_Deck	\"Yeah.\" 	« Ouais. » 
+DS_Deck	\"I am here for you. Es-tu prêt ?\" 	« Je suis là pour toi. Es-tu prêt ? » 
+DS_Deck	\"No?\" 	\"Non ?\" 
+DS_Deck	ROLL16 cha-Convaincre la Mort que vous devez vivre. 	Convaincre la Mort que vous devez vivre. 
+DS_Deck	R-« Je suis prêt. » (Accepter la Mort.) 	\"I am ready.\" (Accept Death.) 
+DS_Deck	\"Dommage.\" 	« Dommage. » 
+DS_Deck	\"No.\" 	« Non. » 
+DS_Deck	What? 	Quoi ? 
+DS_Deck	See the- 	Vois le — 
+DS_Deck	\"No.\" 	« Non. » 
+DS_Deck	« Tu l'es ? » 	« Ah bon ? » 
+DS_Deck	\"I am.\" 	« Oui. » 
+DS_Deck	\"La liberté. I can give you freedom.\" 	« La liberté. Je peux te donner la liberté. » 
+DS_Deck	« Continue. » 	« Continuez. » 
+DS_Deck	\"Oh.\" 	« Oh. » 
+DS_Deck	\"Bien sûr.\" 	« Bien sûr. » 
+DS_Deck	\"Shit.\" 	« Merde. » 
+DS_Deck	\"Yep.\" 	« Eh ouais. » 
+DS_Deck	\"Nope.\" 	« Nope. » 
+DS_Deck	\"Yeah.\" 	« Ouais. » 
+DS_Deck	\"Bien sûr que tu l'as.\" 	« Bien sûr que oui. » 
+DS_Deck	« Qu'est-ce que c'est ? » 	« Laquelle ? » 
+DS_Deck	\"One.\" 	« Un. » 
+DS_Deck	\"Two.\" 	« Deux. » 
+DS_Deck	\"Dommage.\" 	« Dommage. » 
+DS_Deck	\"Il s'est passé quelque chose ?\" 	« Quelque chose s'est passé ? » 
+DS_Deck	Sapristi. 	Sacrés enfers. 
+DS_Deck	\"Oh.\" 	« Oh. » 
+DS_Deck	Worse. 	Pire. 
+DS_Deck	Uh oh. 	Oh-oh. 
+DS_Deck	OH. NO. 	OH. NON. 
+DS_Deck	ROLL5 str-Essayer de sauter le plus haut possible. 	Essayer de sauter le plus haut possible. 
+DS_Deck	Quite. 	Tout à fait. 
+DS_Deck	No. 	Non. 
+DS_Deck	Vous le faites. 	Tu t'exécutes. 
+DS_Deck	\"Comme c'est inquiétant.\" 	« Comme c'est sinistre. » 
+DS_Deck	« Pitié. » 	« S'il vous plaît. » 
+DS_Deck	Doom. 	Funeste destin. 
+DS_Deck	Hm? 	Hm ? 
+DS_Deck	Oh boy. 	Aïe aïe. 
+DS_Deck	NOW. 	MAINTENANT. 
+DS_Deck	\"Huh?\" 	« Hein ? » 
+DS_Deck	« ... Oui. » 	« ... D'accord. » 
+DS_Deck	What? 	Quoi ? 
+DS_Deck	ROLL5 str-Essayer de sauter le plus haut possible. 	Essayer de sauter le plus haut possible. 
+DS_Deck	\"Yeah.\" 	« Ouais. » 
+DS_Deck	Vous le faites. 	Tu t'exécutes. 
+DS_Deck	\"Oh!\" 	« Oh ! » 
+DS_Deck	\"Bon sang.\" 	« Putain de merde. » 
+DS_Deck	\"Well. Relativement parlant.\" 	« Enfin. Relativement parlant. » 
+DS_Deck	\"A real expensive manor apartment is like, a thousand a month to rent, right? Quelque chose comme ça. So with this you could live in one for... ten years or so?\" 	« Un appartement de manoir vraiment cher coûte genre mille par mois à louer, non ? Quelque chose comme ça. Donc avec ça tu pourrais vivre dans un comme ça pendant... une dizaine d'années ? » 
+DS_Deck	Ew. 	Beurk. 
+DS_Deck	« Eh ben. » 	« Oh là là. » 
+DS_Deck	Il grogne. 	Il gémit. 
+DS_Deck	No. 	Non. 
+DS_Deck	Uh oh. 	Oh-oh. 
+DS_Deck	\"Bon choix. Or well, the <i>good</i> choice would have been to not draw at all.\" 	« Bon choix. Enfin, le <i>bon</i> choix aurait été de ne pas tirer du tout. » 
+DN_Darrow	\"Bien sûr. Comme tu voudras.\" 	« Bien sûr. Comme tu dis. » 
+DN_Darrow	\"Oh they did that. Il y a longtemps.\" 	« Oh ça a été fait. Il y a longtemps. » 
+DN_Darrow	\"<b>Non</b>.\" 	« <b>Non</b>. » 
+DN_Darrow	\"Yes.\" 	« Oui. » 
+DN_Darrow	« Le... » 	« La... » 
+DN_Darrow	\"Ah, whatever. Vas-y. Take what you need.\" 	« Ah, peu importe. Allez-y. Prenez ce dont vous avez besoin. » 
+DN_Darrow	\"Pardon ?\" 	« Pardon ? » 
+DN_Darrow	\"Merci.\" 	« Merci. » 
+DN_Darrow	Il vous foudroie du regard. \"Yeah. Uh-huh.\" 	Il vous toise. « Ouais. Mmh-mmh. » 
+DN_Darrow	\"Exactement. City business.\" 	« Exactement. Les affaires de la cité. » 
+DN_Darrow	(Se taire.) 	(Être silencieux.) 
+DN_Darrow	Votre compagnon ricane. 	Ton compagnon ricane. 
+DN_Darrow	\"Brave homme.\" 	« Brave homme. » 
+DN_Darrow	\"No.\" 	« Non. » 
+DN_Darrow	\"No.\" 	« Non. » 
+DN_Darrow	\"Ignore-le. He's harmless.\" 	« Ignorez-le. Il est inoffensif. » 
+DN_Darrow	\"...Bien sûr.\" 	« ... Bien sûr. » 
+DN_Darrow	Wow. 	Eh ben. 
+DN_Darrow	Bien sûr que tu l'as. 	Bien sûr que tu aimes. 
+DN_Darrow	Il claque la langue. \"Straight to the point. Good.\" 	Il claque la langue. « Droit au but. Bien. » 
+DN_Darrow	\"Le salon de thé.\" 	« La maison de thé. » 
+DN_Darrow	M-« Compris. » 	« Compris. » 
+DN_Darrow	\"No.\" 	« Non. » 
+DN_Darrow	\"No.\" 	« Non. » 
+DN_Darrow	\"So...\" 	« Donc... » 
+DN_Darrow	\"Mm.\" 	« Mm. » 
+DN_Darrow	\"I do believe it's getting late. Peut-être que tu devrais... head off.\" 	« Je crois qu'il se fait tard. Peut-être devriez-vous... vous en aller. » 
+DN_Darrow	E-Juste y aller. 	Juste y aller. 
+DN_Darrow	\"I think that's everything. I'll go now.\" (Partir simplement.) 	« Je crois que c'est tout. Je vais y aller maintenant. » (Juste partir.) 
+DN_Darrow	Il lève les yeux au ciel. \"And I wouldn't be able to lock her in even if I tried.\" 	Il lève les yeux au ciel. « Et je ne pourrais pas l'enfermer même si j'essayais. » 
+DN_Darrow	\"Pour l'instant.\" 	« Pour l'instant. » 
+DN_Darrow	\"Plus ou moins.\" 	« Plus ou moins. » 
+DN_Darrow	\"Oh.\" 	« Oh. » 
+DN_Darrow	Le Seigneur des Couronnes rit. \"Oh!\" 	Le Seigneur des Couronnes rit. « Oh ! » 
+DN_Darrow	Il rit davantage. \"Oh, oh, oh!\" 	Il rit encore. « Oh, oh, oh ! » 
+DN_Darrow	\"Bien sûr. Not something I hear spoken out loud too often.\" 	« Bien sûr. Pas quelque chose que j'entends prononcer à voix haute trop souvent. » 
+DN_Darrow	\"Ah. Tu sais.\" 	« Ah. Vous le savez. » 
+DN_Darrow	\"On s'accorde sur notre désaccord.\" 	« On n'est pas obligés d'être d'accord. » 
+DN_Darrow	\"Yes.\" 	« Oui. » 
+DN_Darrow	\"He could be anywhere.\" (Regarder par-dessus ton épaule.) 	« Il pourrait être n'importe où. » (Regarder par-dessus votre épaule.) 
+DN_Darrow	\"Is that what the papers call him now?\" Il rit. 	« C'est ainsi que les journaux l'appellent maintenant ? » Il rit. 
+DN_Darrow	Il secoue la tête. \"If you find him skulking about below, you can ask him anything you want.\" 	Il secoue la tête. « Si vous le trouvez à rôder en bas, vous pourrez lui demander tout ce que vous voulez. » 
+DN_Darrow	« Je serai damné ! » 	« Eh ben merde alors ! » 
+DN_Darrow	\"Oh.\" 	« Oh. » 
+DN_Darrow	\"Well.\" 	\"Well. <> #LOC_417 
+DN_Darrow	« Qui ne l'était pas. » 	\"Who wasn't. <> #LOC_419 
+DN_Darrow	« D'accord », dit-il, en se grattant l'oreille. 	\"Okay,\" he says, scratching his ear. \"<> #LOC_423 
+DN_Darrow	« Buvons à ça. » 	« J'ai besoin d'accéder au salon de thé. » (Avaler difficilement.) 
+DN_Darrow	Il esquisse un sourire en coin. « Mm-hmm. » 	Il sourit en coin. « Mm-hmm. » 
+DN_Darrow	\"Well.\" 	\"Well. <> #LOC_429 
+DN_Darrow	Oof. 	Aïe. 
+DN_Darrow	« Bref. » 	\"Anyway. <> #LOC_435 
+DN_Darrow	« Autre chose dont vous avez besoin ? » 	« Autre chose dont vous avez besoin ? »\" #Darrow #LOC_436\" 
+DN_Darrow	Il se frotte les tempes. \"Are you now? Great.\" 	Il se masse les tempes. « Vraiment ? Génial. » 
+DN_Darrow	\"Vas-y.\" 	« Allez-y. » 
+DN_Darrow	R-Mettre un genou à terre. 	Mettre un genou à terre. 
+DN_Darrow	« Mmh-mmh. » 	« Mh-hm. » 
+DN_Darrow	\"Hm. Intéressant.\" 	« Hum. Intéressant. » 
+DN_Darrow	« Hm. Bien sûr. » 	« Hum. Bien sûr. » 
+DN_Darrow	E-« Merci de votre temps, mon seigneur. » 	« Merci de votre temps 
+DN_Darrow	E-Je devrais y aller, dans un silence solennel. 	Je devrais y aller, dans un silence solennel. 
+DN_Darrow	\"Beau travail.\" 	« Beau boulot. » 
+DN_Darrow	\"Dommage.\" 	« Dommage. » 
+DN_Darrow	Il ricane. \"Too bad indeed.\" 	Il ricane. « Dommage, en effet. » 
+DN_Darrow	Il soupire. \"You have read Léxandro, I assume?\" 	Il soupire. « Vous avez lu Léxandro, je présume ? » 
+DN_Darrow	Il agite la main. \"Bien sûr. But you'd be surprised- not every Cleric is as well-read as you'd imagine.\" 	Il agite la main. « Bien sûr. Mais vous seriez surpris — tous les Clercs ne sont pas aussi cultivés qu'on l'imaginerait. » 
+DN_Darrow	\"Plus ou moins.\" 	« Plus ou moins. » 
+DN_Darrow	\"No, no. Bien sûr que non.\" 	« Non, non. Bien sûr que non. » 
+DN_Darrow	Il rit. \"They've infiltrated every guild! Their 'Rally Circus' causes near-riots wherever they gather up.\" 	Il rit. « Ils ont infiltré chaque guilde ! Leur « Cirque des Rassemblements » provoque des quasi-émeutes partout où ils se rassemblent. » 
+DN_Darrow	\"Peut-être.\" 	« Peut-être. » 
+DN_Darrow	\"True, we won't gain votes by any of this. Cependant...\" 	« Vrai, nous ne gagnerons aucun vote avec tout cela. Cependant... » 
+DN_Darrow	\"Why?\" 	« Pourquoi ? » 
+DN_Darrow	\"Yeah.\" 	« Ouais. » 
+DN_Darrow	\"Well.\" 	« Eh bien. » 
+DN_Darrow	\"I am-\" 	« Je suis— » 
+DN_Darrow	\"It's-\" 	« C'est— » 
+DN_Darrow	R-« Oui, mon seigneur. » 	« Oui 
+DN_Darrow	\"No?\" 	\"Non ?\" 
+DN_Darrow	Yep. 	Ouais. 
+DN_Darrow	R-« Je comprends, mon seigneur. » 	« Je comprends 
+DN_Darrow	Il soupire. \"I'm not sure how to make it much clearer.\" 	Il soupire. « Je ne suis pas sûr de pouvoir rendre cela plus clair. » 
+DN_Darrow	Hah. 	Ha. 
+DN_Darrow	« ... Bien. » 	« ...Bien. » 
+DN_Darrow	R-« Je ne souhaite pas mentir, mon seigneur. » 	« Je ne souhaite pas mentir 
+DN_Darrow	Il sourit. \"Sans commentaire.\" 	Il sourit. « Sans commentaire. » 
+DN_Darrow	Il prend une profonde inspiration. 	Il prend une grande inspiration. 
+DN_Darrow	\"Parfait.\" 	« Parfait. » 
+DN_Darrow	« ...D'accord. » 	« ... D'accord. » 
+DN_Darrow	\"Merveilleux.\" 	« Merveilleux. » 
+DN_Darrow	\"Mm.\" 	« Mm. » 
+DN_Darrow	No! 	Non ! 
+DN_Darrow	No! 	Non ! 
+DN_Darrow	No! 	Non ! 
+DN_Darrow	\"Fine. Je peux travailler avec ça.\" 	« Bon. Je peux composer avec ça. » 
+DN_Darrow	Tu es seul à présent. 	Tu es seul maintenant. 
+DN_Darrow	R-Mettre un genou à terre. 	Mettre un genou à terre. 
+DN_Darrow	R-« Je ne peux pas. » 	« Je ne peux pas. » 
+DN_Darrow	\"Fascinant.\" 	« Fascinant. » 
+DN_Darrow	\"Y-Yes.\" (Lutter pour respirer.) 	« O-oui. » (Avoir du mal à respirer.) 
+DN_Darrow	\"C'est une situation délicate. I need to place my trust in you.\" 	« C'est une situation délicate. Je dois pouvoir vous faire confiance. » 
+DN_Darrow	\"Uh. Enfin...\" 	« Euh. Je veux dire... » 
+DN_Darrow	\"Yes?\" 	« Oui ? » 
+DN_Darrow	\"Qu'Urth soit béni.\" 	« Qu'Urth soit béni. » 
+DN_Darrow	Je jure de maintenir la vérité, la justice, et le saint royaume de sa conquête. 	Je jure de défendre la vérité, la justice et le saint royaume de sa conquête. 
+DN_Darrow	\"Je jure de maintenir la vérité, la justice, et le saint royaume de sa conquête.\" 	« Je jure de défendre la vérité, la justice et le saint royaume de sa conquête. » 
+DN_Darrow	Et servir votre cause en humble serviteur jusqu'à ce que mon service soit achevé. 	Et de servir votre cause en humble serviteur jusqu'à ce que mon service soit achevé. 
+DN_Darrow	\"Et servir votre cause en humble serviteur jusqu'à ce que mon service soit achevé.\" 	« Et servir votre cause en humble serviteur jusqu'à ce que mon service soit achevé. » 
+DN_Darrow	E-Juste y aller. 	Juste y aller. 
+DN_Darrow	\"En effet.\" 	« En effet. » 
+DN_Darrow	\"Quoi qu'il en soit...\" 	« Quoi qu'il en soit... » 
+DN_Darrow	« Ouais. Vous ne saviez pas ? » 	« Ouais. Tu savais pas ? » 
+DN_Darrow	\"I was not aware, no. Quoi qu'il en soit...\" 	« Je n'en avais pas conscience, non. Quoi qu'il en soit... » 
+DN_Darrow	\"Qu'avez-vous trouvé ?\" 	« Qu'as-tu trouvé ? » 
+DN_Darrow	\"En effet.\" 	« En effet. » 
+DN_Darrow	\"Quoi qu'il en soit...\" 	« Quoi qu'il en soit... » 
+DN_Darrow	« Ouais. Vous ne saviez pas ? » 	« Ouais. Tu savais pas ? » 
+DN_Darrow	\"I was not aware, no. Quoi qu'il en soit...\" 	« Je n'en avais pas conscience, non. Quoi qu'il en soit... » 
+DN_Darrow	\"I am.\" 	« Oui. » 
+GG_Miska	« Je suis en désaccord. » 	« Je ne suis pas d'accord. » 
+GG_Miska	« Je m'en moque. » 	« Je m'en fiche. » 
+GG_Miska	E-« D'accord. » (Frissonner.) 	« D'accord. » (Frissonner.) 
+GG_Miska	« Tu votes quoi à l'élection à venir ? » 	« Pour qui votez-vous à la prochaine élection ? » 
+GG_Miska	E-« C'est tout pour l'instant. » 	« C'est tout pour l'instant. »\"\" 
+GG_Miska	Elle s'esclaffe. \"Focus on that first.\" 	Elle s'esclaffe. « Concentrez-vous d'abord sur ça. » 
+GG_Miska	Snell acquiesce. \"Tea shop first.\" 	Snell hoche la tête. « D'abord la maison de thé. » 
+GG_Miska	Elle s'esclaffe. \"Yes, I know about your little trip down the river.\" 	Elle s'esclaffe. « Oui, je suis au courant de votre petite balade sur le fleuve. » 
+GG_Miska	ROLL10 con-Ne pas s'effrayer. 	Ne pas s'effrayer. 
+GG_Miska	\"Lady!\" 	« Madame ! » 
+GG_Miska	Elle pouffe. \"But I'll let this one <i>slide</i>.\" 	Elle glousse. « Mais je vais <i>passer l'éponge</i> sur celle-ci. » 
+GG_Miska	ROLL10 con-Ne pas s'effrayer. 	Ne pas s'effrayer. 
+GG_Miska	Fear. 	De la peur. 
+GG_Miska	Unsure. 	Incertain. 
+GG_Miska	Uh-oh. 	Oh-oh. 
+GG_Miska	Elle inspire profondément. 	Elle prend une profonde inspiration. 
+GG_Miska	\"Elle... however...\" she says. \"Entirely our problem that you are <b>incapable of even</b>-\" 	« C'est... cependant... » dit-elle. « Entièrement notre problème que vous soyez <b>incapable même de</b>— » 
+GG_Miska	\"Oui, oui. Whatever.\" 	« Oui, oui. Peu importe. » 
+GG_Miska	He opens his mouth to give a resigned, \"Merci.\" 	Il ouvre la bouche pour donner un résigné : « Merci. » 
+GG_Miska	M-« Et où exactement la maison de thé se trouve-t-elle ? » 	« Et où exactement la maison de thé se trouve-t-elle ? »\"\" 
+GG_Miska	Elle joint les mains. \"See? This is what I've been dealing with. Blind faith in a failing system!\" She lets out a frustrated groan. 	Elle frappe les mains ensemble. « Vous voyez ? C'est ce à quoi j'ai affaire. Une foi aveugle dans un système défaillant ! » Elle pousse un grognement frustré. 
+GG_Miska	Elle vous foudroie du regard. \"It is - or was - rented out of a corner of the central fort. Just above the Holes, next to The Pillar.\" 	Elle vous foudroie du regard. « Elle est — ou était — louée à un coin du fort central. Juste au-dessus des Trous, à côté du Pilier. » 
+GG_Miska	\"What?\" 	« Quoi ? » 
+GG_Miska	Uh-oh. 	Oh-oh. 
+GG_Miska	\"He was apparently dressed in a 'fancy yellow outfit'. Quoi que cela signifie.\" 	« Il était apparemment vêtu d'une « tenue jaune chic ». Quoi que cela veuille dire. » 
+GG_Miska	\"Yeah.\" 	« Ouais. » 
+GG_Miska	« Mmh-mmh. » 	« Mh-hm. » 
+GG_Miska	\"Sure.\" 	« Bien sûr. » 
+GG_Miska	\"Yeah.\" 	« Ouais. » 
+GG_Miska	\"Corruption. De la folie.\" She claws at her wooden throne. \"<i>POLITICS.</i>\" 	« Corruption. Folie. » Elle griffe son trône de bois. « <i>POLITIQUE.</i> » 
+GG_Miska	\"You.\" 	« Vous. » 
+GG_Miska	\"Vengeance ? No, Cleric. A gardener does not seek revenge upon the Hail Snail.\" 	« Vengeance ? Non, Clerc. Un jardinier ne cherche pas vengeance contre l'Escargot de Grêle. » 
+GG_Miska	R-« C'est <b>mon enquête</b>. » 	« C'est <b>mon enquête</b>. »\"\" 
+GG_Miska	\"Vengeance ? No, Cleric. A gardener does not seek revenge upon the Hail Snail.\" 	« Vengeance ? Non, Clerc. Un jardinier ne cherche pas vengeance contre l'Escargot de Grêle. » 
+GG_Miska	Ouch. 	Aïe. 
+GG_Miska	\"Yours?\" Elle rit. \"You've done nothing but <b>fail</b> since the moment you arrived on Tolstad.\" 	« La vôtre ? » Elle rit. « Vous n'avez rien fait d'autre qu'<b>échouer</b> depuis l'instant où vous êtes arrivé à Tolstad. » 
+GG_Miska	Ouch. 	Aïe. 
+GG_Miska	\"The city allows you here, goblin. Do not forget that.\" (Se tenir droit.) 	« La cité vous autorise ici, gobeline. N'oubliez pas ça. » (Se tenir droit.) 
+GG_Miska	Elle sourit en coin. \"At least you've got backbone.\" 	Elle sourit en coin. « Au moins, vous avez du caractère. » 
+GG_Miska	Oui. Tu vas le faire. 	Oui. Tu le feras. 
+GG_Miska	\"Vengeance ? No, Cleric. A gardener does not seek revenge upon the Hail Snail.\" 	« Vengeance ? Non, Clerc. Un jardinier ne cherche pas vengeance contre l'Escargot de Grêle. » 
+GG_Miska	Elle s'esclaffe. \"Sure. Pourquoi pas ? Just bring me my justice, Cleric, and any glory you seek will be yours.\" 	Elle s'esclaffe. « Bien sûr. Pourquoi pas ? Apportez-moi juste ma justice, Clerc, et toute gloire que vous cherchez sera vôtre. » 
+GG_Miska	\"Je n'aime pas ça.\" 	« Ça ne me plaît pas. » 
+GG_Miska	\"No.\" 	« Non. » 
+GG_Miska	Ça vaut le coup d'essayer. 	Ça valait le coup d'essayer. 
+GG_Miska	Il vous ignore. 	Il t'ignore. 
+GG_Miska	Il vous ignore. 	Il t'ignore. 
+GG_Miska	Elle sourit. \"Yes. C'est le cas.\" 	Elle sourit. « Oui. Vous l'êtes. » 
+GG_Miska	\"So you gotta ask your Coinlord for the passphrase. Malheureusement.\" 	« Donc tu dois demander la phrase de passe à ton Seigneur des Couronnes. Hélas. » 
+GG_Miska	Yes. 	Oui. 
+GG_Miska	« Oh bordel. » 	« Oh putain. » 
+GG_Miska	« Ouais. Vous ne saviez pas ? » 	« Ouais. Tu savais pas ? » 
+GG_Miska	Le gobelin soupire. \"You know the massive pillar reaching endlessly up into the sky? Yeah. Just west of that.\" 	Le gobelin soupire. « Tu sais, le pilier massif qui s'élève sans fin dans le ciel ? Ouais. Juste à l'ouest de ça. » 
+GG_Miska	« Tu fais du sarcasme ? » 	« Tu es sarcastique ? » 
+GG_Miska	\"Non. Pas du tout. Allons-y.\" 	« Non. Pas du tout. Allons-y. » 
+GG_Miska	E-Neat. 	Neat. 
+GG_Miska	Elle grogne. \"Elves. Illym, obviously.\" 	Elle grogne. « Des elfes. Illym, évidemment. » 
+GG_Miska	ROLL5 cha-La convaincre que vous êtes un idiot. 	La convaincre que vous êtes un idiot. 
+GG_Miska	ROLL30 int-Présenter l'histoire complète à Dame Feuille-de-Sauge. 	Présenter l'histoire complète à Dame Feuille-de-Sauge. 
+GG_Miska	Hm. 	Hum. 
+GG_Miska	E-Nod. 	Hocher la tête. 
+GG_Miska	\"Okay.\" (Le lui tendre.) 	« D'accord. » (La tendre.) 
+GG_Miska	\"Fine.\" (Le lui tendre.) 	« Bon. » (La tendre.) 
+GG_Miska	\"À ton avis ?\" 	« Qu'est-ce que t'en penses ? » 
+GG_Miska	\"If.\" 	« Si. » 
+GG_Miska	\"Worn?\" 	« Portée ? » 
+GG_Miska	M-« Puis-je la récupérer ? S'il vous plaît ? » 	« Puis-je la récupérer ? S'il vous plaît ? »\"\" 
+GG_Miska	M-« Vous pouvez la garder. » 	« Vous pouvez la garder. »\"\" 
+GG_Miska	\"What?\" 	« Quoi ? » 
+GG_Miska	\"Laisse tomber.\" 	« Laissez tomber. » 
+GG_Miska	Elle se contente de vous fixer. 	Elle se contente de te fixer. 
+GG_Miska	\"Laisse tomber.\" 	« Laissez tomber. » 
+GG_Miska	\"Okay?\" 	\"D'accord ?\" 
+GG_Miska	\"I-\" 	« Je— » 
+GG_Miska	Elle se contente de vous fixer. 	Elle se contente de te fixer. 
+GG_Miska	Elle se contente de vous fixer. 	Elle se contente de te fixer. 
+GG_Miska	\"Intéressant. Considering the shop was closed at the time, that is quite the clue.\" 	« Intéressant. Vu que la boutique était fermée à ce moment-là, c'est tout un indice. » 
+GG_Miska	\"Une question de plus. What kind of tea leaves were in the machine?\" 	« Encore une question. Quel genre de feuilles de thé étaient dans la machine ? » 
+GG_Miska	\"Melt?\" 	« Fondre ? » 
+GG_Miska	\"Yes.\" 	« Oui. » 
+GG_Miska	Rester silencieux. 	Reste silencieux. 
+GG_Miska	\"Hm.\" 	« Hm. » 
+GG_Miska	\"Hmf.\" 	« Hmf. » 
+GG_Miska	\"That is good information. Bien joué.\" 	« C'est une bonne information. Bien joué. » 
+GG_Miska	\"Développe.\" 	« Élaborez. » 
+GG_Miska	\"No.\" 	« Non. » 
+GG_Miska	\"Un Collier d'Embrasement.\" 	« Un Collier de Boules de Feu. » 
+GG_Miska	Elle s'esclaffe. \"This explosion could not have been produced by Arcanist mimicry.\" 	Elle s'esclaffe. « Cette explosion n'a pas pu être produite par une imitation Arcaniste. » 
+GG_Miska	Shrug. 	Hausser les épaules. 
+GG_Miska	\"Dommage. Perhaps you should find those specifics, Cleric.\" 	« Dommage. Peut-être devriez-vous trouver ces détails, Clerc. » 
+GG_Miska	Elle s'esclaffe. \"This explosion could not have been produced by Arcanist mimicry.\" 	Elle s'esclaffe. « Cette explosion n'a pas pu être produite par une imitation Arcaniste. » 
+GG_Miska	« Il en a stocké. » 	« Oui. » 
+GG_Miska	\"Je suis d'accord.\" 	« Je suis d'accord. » 
+GG_Miska	« Je suis en désaccord. » 	« Je ne suis pas d'accord. » 
+GG_Miska	(Garder le silence.) 	(Rester silencieux.) 
+GG_Miska	(Garder le silence.) 	(Rester silencieux.) 
+GG_Miska	NO. 	NON. 
+GG_Miska	Elle inspire profondément. 	Elle prend une profonde inspiration. 
+GG_Miska	\"Yes?\" 	« Oui ? » 
+GG_Miska	(Prendre une profonde inspiration.) \"Honestly, this whole tea shop mystery can only be described in one simple term: inconclusive.\" 	(Prendre une profonde inspiration.) « Honnêtement, tout ce mystère de la maison de thé ne peut être décrit qu'en un terme simple : non concluant. » 
+GG_Miska	\"C'est quoi ce bordel ?\" 	« C'est quoi ce bordel ? » 
+GG_Miska	\"No.\" 	« Non. » 
+GG_Miska	(Garder le silence.) 	(Rester silencieux.) 
+GG_Miska	\"Hey, Cleric,\" Snell says and snaps his fingers at you. \"Tais-toi.\" 	« Hé, Clerc », dit Snell en claquant des doigts vers vous. « Ferme-la. » 
+GG_Miska	She growls, \"Bon, ça ira.\" 	Elle gronde : « Assez bien. » 
+GG_Miska	\"Yes?\" 	« Oui ? » 
+GG_Miska	\"Your honor.\" (Te racler la gorge.) 	« Votre honneur. » (S'éclaircir la gorge.) 
+GG_Miska	Yes. 	Oui. 
+GG_Miska	\"Oh?\" 	« Oh ? » 
+GG_Miska	\"Hm.\" 	« Hm. » 
+GG_Miska	\"But you'd have to find more proof, first. Évidemment. I'm looking forward to it.\" 	« Mais il vous faudrait trouver plus de preuves, d'abord. Évidemment. J'ai hâte. » 
+GG_Miska	\"Je suis d'accord.\" 	« Je suis d'accord. » 
+GG_Miska	\"Hmm.\" 	« Hmm. » 
+GG_Miska	« Continue. » 	« Continuez. » 
+GG_Miska	Elle hausse les épaules. \"Why, indeed?\" 	Elle hausse les épaules. « Pourquoi, en effet ? » 
+GG_Miska	\"We can't say for sure. Pas tout de suite.\" 	« Nous ne pouvons pas l'affirmer. Pas maintenant. » 
+GG_Miska	(Garder le silence.) 	(Rester silencieux.) 
+GG_Miska	Il hoche la tête. \"Exceedingly rare, my Lady. Perhaps not, uh...\" 	Il hoche la tête. « Extrêmement rare, ma Dame. Peut-être pas, euh... » 
+GG_Miska	(Garder le silence.) 	(Rester silencieux.) 
+GG_Miska	Elle s'esclaffe. \"There are no rules. Pas vraiment.\" 	Elle s'esclaffe. « Il n'y a pas de règles. Pas vraiment. » 
+GG_Miska	« Parlez. » 	« Parle. » 
+GG_Miska	\"Intéressant. Once spent, the core chain must have retained some magic. Until trifled with, of course.\" 	« Intéressant. Une fois épuisée, la chaîne centrale a dû conserver un peu de magie. Jusqu'à ce qu'on l'agite, bien sûr. » 
+GG_Miska	« Bien sûr que oui. » 	« Évidemment. » 
+GG_Miska	\"Bien joué. You've convinced me of this <i>perspective</i>.\" 	« Bien joué. Vous m'avez convaincue de cette <i>perspective</i>. » 
+GG_Miska	\"A ring? Comme c'est intéressant.\" 	« Un anneau ? Comme c'est intéressant. » 
+GG_Miska	(Garder le silence.) 	(Rester silencieux.) 
+GG_Miska	\"Oh dieux...\" 	« Oh, dieux... » 
+GG_Miska	Elle s'esclaffe. \"I was considering giving it to you as a gift, for your hard work.\" 	Elle s'esclaffe. « J'envisageais de vous le donner en cadeau, pour votre dur labeur. » 
+GG_Miska	She gives up and groans. \"Whatever. I was considering giving you a reward for your trouble, but it seems it has been misplaced. Tant pis.\" 	Elle abandonne et grogne. « Peu importe. J'envisageais de vous donner une récompense pour vos efforts, mais il semble qu'elle a été égarée. Tant pis. » 
+GG_Miska	\"Yeah.\" 	« Ouais. » 
+GG_Miska	Elle grogne. \"Cleric. I don't see how you've managed to get a complete picture here.\" 	Elle grogne. « Clerc. Je ne vois pas comment vous avez réussi à obtenir une image complète ici. » 
+GG_Miska	Il s'incline. \"Apologies, my Lady. I-\" 	Il s'incline. « Mes excuses, ma Dame. Je— » 
+GG_Miska	\"Oh, oui. Always!\" 	« Oh, oui. Toujours ! » 
+GG_Miska	\"No!\" 	« Non ! » 
+GG_Miska	\"Yes? Qu'est-ce que c'est ?\" 	« Oui ? Qu'est-ce que c'est ? » 
+GG_Miska	\"Qui sait ?\" 	« Qui sait ? » 
+GG_Miska	\"Elles ne sont pas si mauvaises.\" 	« Ils ne sont pas si mauvais. » 
+GG_Miska	Elle s'esclaffe. 	Elle ricane. 
+GG_Miska	\"Now, who would work with elves? Une bonne question. Look into it.\" 	« Maintenant, qui travaillerait avec des elfes ? Bonne question. Cherchez. » 
+GG_Miska	Snell secoue la tête. \"Out of all people.\" 	Snell secoue la tête. « Parmi toutes les personnes. » 
+GG_Miska	\"Huh.\" 	« Tiens. » 
+GG_Miska	Elle grogne. \"That damn Freestrider- he's probably high! High on his own damn fumes or... something.\" 	Elle grogne. « Ce satané Libre-Marcheur — il est probablement défoncé ! Défoncé sur ses propres fumées ou... quelque chose. » 
+GG_Miska	\"Hm.\" 	« Hm. » 
+GG_Miska	\"It's useful. D'une manière ou d'une autre.\" 	« C'est utile. D'une certaine manière. » 
+GG_Miska	Do it. 	Fais-le. 
+GG_Miska	ROLL18 cha-Leur offrir un spectacle qu'ils n'oublieront jamais. 	Leur offrir un spectacle qu'ils n'oublieront jamais. 
+GG_Miska	Elle claque la langue. \"Boooring.\" 	Elle claque la langue. « Ennuyeuuux. » 
+GG_Miska	\"Ce serait ridicule.\" 	« Ce serait ridicule. » 
+GG_Miska	\"I- I know. I'm amazing.\" (Reprendre ton souffle.) 	« Je — je sais. Je suis stupéfiant. » (Reprendre son souffle.) 
+GG_Miska	\"The extension?\" (Haleter pour reprendre ton souffle.) 	« La prolongation ? » (Suffoquer.) 
+GG_Miska	C'est ça. 	C'est cela. 
+GG_Miska	Snell se frotte les yeux. \"I'll never get that out of my head. By the gods, Cleric.\" 	Snell se frotte les yeux. « Je n'arriverai jamais à me sortir ça de la tête. Par les dieux, Clerc. » 
+GG_Miska	(Prendre une profonde inspiration.) \"How?\" 	(Prendre une profonde inspiration.) « Comment ? » 
+GG_Miska	Elle soupire. \"Yes, I suppose you could say that.\" 	Elle soupire. « Oui, je suppose qu'on pourrait dire ça. » 
+GG_Miska	\"Hm?\" 	« Hum ? » 
+GG_Miska	\"Laisse tomber.\" 	« Laissez tomber. » 
+GG_Miska	\"Mm.\" 	« Mm. » 
+GG_Miska	Tasty. 	Savoureux. 
+GG_Miska	\"Yes.\" 	« Oui. » 
+GG_Miska	\"Merci.\" 	« Merci. » 
+GG_Miska	\"Yes.\" 	« Oui. » 
+GG_Miska	Elle inspire profondément. \"I'd say it's obvious.\" 	Elle prend une profonde inspiration. « Je dirais que c'est évident. » 
+GG_Miska	Elle ricane bruyamment. \"I'm the director of operations.\" 	Elle ricane. « Je suis la directrice des opérations. » 
+GG_Miska	\"Mm.\" 	« Mm. » 
+GG_Miska	\"Yes.\" 	« Oui. » 
+GG_Miska	Elle sourit en coin. « Intelligent. » 	Elle sourit en coin. « Malin. » 
+GG_Miska	R-\"<b>Oui</b>.\" 	« <b>Oui</b>. » 
+GG_Miska	\"Oh.\" 	« Oh. » 
+GG_Miska	\"No.\" 	« Non. » 
+GG_Miska	Elle sourit en coin. « Intelligent. » 	Elle sourit en coin. « Malin. » 
+GG_Miska	\"What?\" 	« Quoi ? » 
+GG_Miska	\"Oh.\" 	« Oh. » 
+GG_Miska	M-« Bon. Je suis content d'être en vie, je suppose. » 	« Bon. Je suis content d'être en vie 
+GG_Miska	Elle s'esclaffe. \"Yes, I've had reports about that.\" 	Elle s'esclaffe. « Oui, j'ai eu des rapports là-dessus. » 
+GG_Miska	Hein. Intéressant. 	Hm. Intéressant. 
+GG_Miska	Elle s'esclaffe. 	Elle ricane. 
+GG_Miska	\"Eh bien alors.\" 	« Bon, eh bien. » 
+GG_Miska	\"Hm.\" 	« Hm. » 
+GG_Miska	Des hommes comme toi ont pris la suite de ces bêtes il y a longtemps. Ne crois pas un mot de sa langue de lézard. 	Des hommes comme toi ont pris la relève de ces bêtes il y a longtemps. Ne fais pas confiance à la parole de sa langue de lézard. 
+GG_Miska	ROLL25 wis-Pourquoi siège-t-elle sur ce trône ? 	Pourquoi siège-t-elle sur ce trône ? 
+GG_Miska	« S'il vous plaît ? » 	« S'il te plaît ? » 
+GG_Miska	\"C'est juste. I probably wouldn't know it anyway.\" 	« D'accord. Je ne le connaîtrais probablement pas de toute façon. » 
+GG_Miska	Elle inspire profondément. 	Elle prend une profonde inspiration. 
+GG_Miska	\"No?\" 	\"Non ?\" 
+GG_Miska	Fakery. 	Imposture. 
+GG_Miska	\"Hm?\" 	« Hum ? » 
+GG_Miska	\"Hm.\" 	« Hm. » 
+GG_Miska	« Je l'attends avec impatience. » 	« J'ai hâte. » 
+GG_Miska	Elle ricane bruyamment. 	Elle ricane. 
+GG_Miska	Elle sourit en coin. \"Once you've finished this mess - bring Snell to me. He has served well for many years.\" 	Elle sourit en coin. « Une fois que vous aurez terminé ce bazar — amenez-moi Snell. Il a bien servi pendant bien des années. » 
+GG_Miska	Il secoue la tête. \"Actually, don't tell me. She'd get mad if you did.\" 	Il secoue la tête. « En fait, ne me dis pas. Elle serait fâchée si tu le faisais. » 
+GG_Miska	E-L'heure de... partir. 	L'heure de... partir. 
+GG_Miska	\"What?\" 	« Quoi ? » 
+GG_Miska	\"C'est quoi ce bordel ?\" 	« C'est quoi ce bordel ? » 
+GG_Miska	An eye. 	Un œil. 
+GG_Miska	\"Ceasing. Oui, madame.\" 	« Je cesse. Oui, madame. » 
+GG_Miska	E-Vous vivez. Pour l'instant. 	Tu vis. Pour l'instant. 
+Q_Election	ROLL15 int-Tenter de te demander, pour de vrai cette fois : pour qui devrais-je voter à l'élection ? 	Tenter de te demander, pour de vrai cette fois : pour qui devrais-je voter à l'élection ? 
+Q_Election	No. 	Non. 
+Q_Election	No. 	Non. 
+Q_Election	Ask. 	Demande. 
+Q_Election	C'est comme ça qu'ils t'attrapent. 	C'est comme ça qu'ils t'attrapent. Tu vois <> 
+Q_Election	Ils ne s'arrêteraient jamais là. 	Ils ne s'arrêteraient jamais là. Tu vois <> 
+Q_Election	Eh. 	Bof. 
+Q_Election	Oui tu en as besoin. 	Oui, tu en as besoin. 
+Q_Election	Ouais bordel ! 	Bordel ouais ! 
+Q_Election	E-Bonne discussion. 	Bonne discussion. 
+Q_TeaShop	So... 	Alors... 
+Q_TeaShop	Indeed. 	En effet. 
+Q_TeaShop	Ne t'en fais pas. 	Ne t'inquiète pas. 
+Q_TeaShop	Yes. 	Oui. 
+Q_TeaShop	Non. Elle ne correspond pas. 	Non. Ça ne l'a pas l'air. 
+Q_TeaShop	Oh, la ferme. 	Oh, tais-toi. 
+Q_TeaShop	Yes. 	Oui. 
+Q_TeaShop	No. 	Non. 
+Q_TeaShop	Non, en effet. 	Non, tu ne l'es pas. 
+Q_TeaShop	Great! 	Super ! 
+Q_TeaShop	Hm. 	Hum. 

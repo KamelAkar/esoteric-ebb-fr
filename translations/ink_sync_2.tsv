@@ -1,0 +1,930 @@
+LL_ApplePile	Tu reviens vers le tas de pommes. 	Tu retournes au tas de pommes. 
+LL_ApplePile	S'éloigner. 	Repars. 
+LL_ApplePile	Les pommes te font du bien. 	Les pommes, c'est bon pour toi. 
+LL_ApplePile	Ces pommes ne sont pas en parfait état. 	Ces pommes ne sont pas en condition impeccable. 
+LL_ApplePile	Le gobelin se tient à tes côtés, fixant le tas. 	Le gobelin se tient à côté de toi, fixant le tas. 
+LL_ApplePile	« Eh ouais. Bonne récolte l'an dernier. » 	« Ouaip. Bonne récolte l'année dernière. » 
+LL_ApplePile	Devrait-on les entreposer à côté de cadavres ? 	Devraient-elles être stockées à côté de cadavres ? 
+LL_ApplePile	E-(Acquiescer au tas.) 	(Adresser un signe de tête au tas.) 
+LL_ApplePile	« Ouais. Pommes de la saison dernière. Elles n'ont pas pu être expédiées à temps, et maintenant elles... pourrissent lentement ici. » 	« Ouais. Des pommes de la saison dernière. Elles n'ont pas pu être expédiées à temps, et maintenant elles... pourrissent lentement ici. » 
+LL_ApplePile	« Pour être clair, je m'occupe pas des exports. C'est pas mon foutoir à gérer. » 	« Pour être clair, je suis pas en charge des exports. C'est pas mon bordel à gérer. » 
+LL_ApplePile	« Que les dieux soient loués. » 	« Grâce aux dieux. » 
+LL_ApplePile	Rien que la biomasse est immense. Ce serait une entreprise colossale de la déplacer. 	Rien que la biomasse est immense. Ce serait une entreprise immense de les déplacer. 
+LL_ApplePile	Une aide ésotérique serait suggérable. 	Une aide ésotérique serait suggestible. 
+LL_ApplePile	La seule ferme à pommes de Norvik serait le Goblin Garden. Ces pommes sont la propriété du HBWT. 	La seule ferme de pommes à Norvik serait le Jardin Gobelin. Ces pommes sont la propriété de la HBWT. 
+LL_ApplePile	Peut-être qu'elles sont cultivées par ici. Ou en dessous. 	Peut-être qu'elles poussent quelque part par ici. Ou en dessous. 
+LL_ApplePile	Comme des patates. Ou... des tomates. 	Comme les pommes de terre. Ou... les tomates. 
+LL_ApplePile	Tu as faim, maintenant. 	Tu as maintenant faim. 
+LL_ApplePile	Non. C'est un risque sanitaire. 	Non. C'est un danger sanitaire. 
+LL_ApplePile	Bien sûr que non. C'est dégoûtant. 	Bien sûr que non. C'est dégueulasse. 
+LL_ApplePile	Quelque chose te dit que, non, elles ne devraient pas. 	Quelque chose te dit que non, elles ne devraient pas. 
+LL_ApplePile	Ce n'est pas vraiment une question de « pouvoir ». C'est une question de « as-tu le temps ? » 	Ce n'est pas vraiment une question de « pourrais ». C'est une question de « as-tu le temps ? » 
+LL_ApplePile	No. 	Non. 
+LL_ApplePile	Tu as l'impression que ça pourrait en valoir la peine. Mais seulement si tu vas jusqu'au bout. 	Tu as l'impression que cela pourrait valoir le coup. Mais seulement si tu pousses jusqu'au bout. 
+LL_ApplePile	Tu n'es pas capable de porter un tel fardeau. 	Tu n'es pas capable de porter un fardeau aussi immense. 
+LL_ApplePile	Un défi formidable, digne de ton attention. 	Un défi immense, digne de ton attention. 
+LL_ApplePile	Bah. Ne perds pas ton temps ici. 	Bof. Ne gaspille pas ton temps ici. 
+LL_ApplePile	À tout le moins, ne mange pas les moins... fraîches. 	Au minimum, ne mange pas les moins... fraîches. 
+LL_ApplePile	Pitié, non. Tu n'es plus l'Appleboy. 	S'il te plaît, non. Tu n'es plus le Garçon-Pomme. 
+LL_ApplePile	Il jette ses griffes en l'air. « Tu sais quoi. On s'en branle. » 	Il lève les griffes en l'air. « Tu sais quoi. Tant pis. » 
+LL_ApplePile	« Vas-y franchement. Personne d'autre va les manger. » 	« Régale-toi. Personne d'autre va les manger. » 
+LL_ApplePile	Le DD (Degré de Difficulté) est souvent influencé par tes choix, grands ou petits. 	Le DC (Degré de Difficulté) est souvent influencé par tes choix, grands ou petits. 
+LL_ApplePile	(Retirer les pommes pourries d'abord.) 	(Enlever d'abord les mauvaises pommes.) 
+LL_ApplePile	ROLL12 con-Commencer à manger. 	Commencer à manger. 
+LL_ApplePile	La plupart des pommes te semblent correctes. Mais tu écartes une poignée qui te regardent d'un drôle d'air. 	La plupart des pommes te semblent en bon état. Mais tu en écartes une poignée qui te regardent bizarrement. 
+LL_ApplePile	Tes mains parcourent la surface des pommes, écartant soigneusement celles qui montrent des signes d'altération. 	Tes mains balaient la surface des pommes, en cueillant soigneusement toutes celles qui montrent des signes de pourriture. 
+LL_ApplePile	Tu contemples ce défi avec détermination. 	Tu regardes ce défi avec détermination. 
+LL_ApplePile	(Y aller.) 	(Se mettre à manger.) 
+LL_ApplePile	Tu attaques. La première pomme descend dans le gosier. 	On y va. La première pomme descend par l'écoutille. 
+LL_ApplePile	Ça se passe bien jusque-là. 	Ça se passe bien jusqu'ici. 
+LL_ApplePile	La deuxième se passe bien. Tu la mâches en paix. 	La numéro deux passe bien. Tu la mâches en paix. 
+LL_ApplePile	Ouaip. C'était bien une pomme. 	Ouaip. C'était bel et bien une pomme. 
+LL_ApplePile	Ça se passe bien jusque-là. 	Ça se passe bien jusqu'ici. 
+LL_ApplePile	Celle-ci fut plus dure. Ton estomac lutte contre le goût. 	Celle-là était plus dure. Ton estomac combat le goût. 
+LL_ApplePile	Cela devient difficile. 	Ça devient difficile. 
+LL_ApplePile	Une de plus devrait passer. 	Encore une, ça devrait aller. 
+LL_ApplePile	C'est la limite. Tandis que tu engloutis la pomme, tu sens ta mâchoire douloureuse, tes mains tremblent. 	C'est la limite. Tandis que tu engloutis la pomme, tu sens ta mâchoire t'élancer, tes mains trembler. 
+LL_ApplePile	Tu te sens... rafraîchi. Pour un instant, du moins. 	Tu te sens... rafraîchi. Pour un instant, au moins. 
+LL_ApplePile	Tu contemples ce défi la peur au ventre. 	Tu regardes ce défi avec la peur au ventre. 
+LL_ApplePile	(Y aller.) 	(Se mettre à manger.) 
+LL_ApplePile	Tu attaques. La première pomme descend dans le gosier. 	On y va. La première pomme descend par l'écoutille. 
+LL_ApplePile	Ça se passe bien jusque-là. Maybe this will be easy. 	Ça se passe bien jusqu'ici. Peut-être que ce sera facile. 
+LL_ApplePile	Une autre ! (Press on.) 	Une autre ! (Continuer.) 
+LL_ApplePile	La deuxième se passe bien. Au début. Puis tu sens quelque chose gargouiller. 	La numéro deux passe bien. Au début. Puis tu sens quelque chose gronder. 
+LL_ApplePile	Peut-être devrais-je m'arrêter. 	Je devrais peut-être m'arrêter. 
+LL_ApplePile	Un trognon pourri. 	Un cœur pourri. 
+LL_ApplePile	Il pourrait y avoir quelque chose de bon dans le tas. Persévère ! 	Il pourrait y avoir quelque chose de bien dans le tas. Continue ! 
+LL_ApplePile	Ton défi du tas sera sûrement récompensé. Continue ! 	Ton défi face au tas sera sûrement récompensé. Continue ! 
+LL_ApplePile	La suivante ! (Press on.) 	La suivante ! (Continuer.) 
+LL_ApplePile	Plus... argh... 	Plus aucune... argh... 
+LL_ApplePile	Ton estomac lutte contre tes mains tandis que tu mords dans la pomme. 	Ton estomac combat contre tes mains tandis que tu mords dans la pomme. 
+LL_ApplePile	Tu peux le supporter. Ne. T'arrête. Pas. 	Tu peux encaisser. Ne. T'arrête. Pas. 
+LL_ApplePile	C'est tellement viril. Des larmes te montent aux yeux. 	C'est tellement viril. Des larmes se forment dans tes yeux. 
+LL_ApplePile	Une de plus devrait passer. I will surely be rewarded for this. (Press on, one last time.) 	Encore une, ça devrait aller. Je serai sûrement récompensé pour ça. (Continuer, une dernière fois.) 
+LL_ApplePile	C'est la limite. Tandis que tu engloutis une ultime pomme, tu sens ta mâchoire douloureuse, tes mains tremblent. 	C'est la limite. Tandis que tu engloutis une dernière pomme, tu sens ta mâchoire t'élancer, tes mains trembler. 
+LL_ApplePile	Le tas de pommes te surplombe encore. Tu as à peine entamé. 	Le tas de pommes te domine toujours. Tu y as à peine fait un trou. 
+LL_ApplePile	L'<b>Appleboy</b> est de retour. 	Le <b>Garçon-Pomme</b> est de retour. 
+LL_ApplePile	OUI. MANGE LA POMME, APPLEBOY. 	OUI. MANGE LA POMME, GARÇON-POMME. 
+LL_ApplePile	Ce ne sont que des écus. 	Ce ne sont que quelques couronnes. 
+LL_ApplePile	Hé ! Pas attendu ça. 	Tiens ! Je m'y attendais pas. 
+LL_ApplePile	Pommes-pièces. 	Des pommes-pièces. 
+LL_ApplePile	E-J'adore les écus ! J'adore tellement les écus ! 	J'adore les couronnes ! J'adore tellement les couronnes ! 
+LL_ApplePile	Tu as travaillé dur pour ça. Bien joué. 	Tu as travaillé dur pour l'obtenir. Beau travail. 
+LL_ApplePile	C'est <i>Lumières Dansantes</i> — un tour de magie polyvalent qui peut éclairer tes environs à volonté. 	C'est <i>Lumières Dansantes</i> — un tour de magie polyvalent qui peut être utilisé pour éclairer ce qui t'entoure à volonté. 
+LL_ApplePile	Tu mémorises rapidement le parchemin, l'absorbant dans ta psyché. Comme à ton habitude. 	Tu mémorises rapidement le parchemin, l'absorbant dans ta psyché. Comme tu le fais toujours. 
+LL_ApplePile	Certains aux Tours craignaient ton pouvoir inné de maîtriser ainsi la magie. 	Certaines personnes aux Tours redoutaient ton pouvoir inné de maîtriser la magie comme cela. 
+LL_ApplePile	Les tours de magie sont des sorts qu'on peut lancer à volonté hors dialogue. Ils ne consomment aucun emplacement de sort. 	Les tours de magie sont des sorts pouvant être lancés à volonté en dehors des dialogues. Ils ne consomment aucun emplacement de sort. 
+LL_ApplePile	Ainsi fais-tu. 	Tu t'exécutes. 
+LL_ApplePile	Tu jettes un œil au tas, réalisant que tu n'as fait qu'effleurer la surface de ce paradis de pommes pourries. 	Tu jettes un œil au tas, en réalisant que tu n'as fait qu'effleurer la surface de ce paradis de pommes pourries. 
+LL_ApplePile	Du jus de pomme pourri dégouline à l'intérieur de ton heaume. 	Du jus de pomme pourri coule à l'intérieur de ton heaume. 
+LL_ApplePile	Attends, comment tu les manges ? 	Attends, comment tu manges celles-là ? 
+LL_ApplePile	Tu les enfournes juste... par en-dessous ? 	Tu les enfournes juste... par en dessous ? 
+LL_ApplePile	Une fine manière de dîner. 	Une belle façon de dîner. 
+LL_ApplePile	Même l'Appleboy ne pouvait pas avaler tout ce truc suintant, hein ? 	Même le Garçon-Pomme n'a pas pu encaisser tout ce truc suintant, hein ? 
+LL_ApplePile	Par tous les — JE T'EN PRIE arrête avec ce nom. 	Par pitié — S'IL TE PLAÎT arrête de prononcer ce nom. 
+LL_ApplePile	<i><wiggle>APPLEBOY.</wiggle></i> 	<i><wiggle>GARÇON-POMME.</wiggle></i> 
+LL_ApplePile	Le mot résonne dans ton crâne creux. Échos. 	Le mot résonne dans ton crâne creux. En écho. 
+LL_ApplePile	Tes pensées sont interrompues par le son de quelque chose de léger et dur tombant au sol. 	Tes pensées sont interrompues par le bruit de quelque chose de léger et dur qui heurte le sol. 
+LL_ApplePile	Une pierre brillante ? C'est du butin correct. Prends-la ! 	Une pierre brillante ? C'est un butin décent. Prends-la ! 
+LL_ApplePile	Elle a dû tomber dans le tas de pommes à un moment. 	Cela a dû tomber dans le tas de pommes à un moment donné. 
+LL_ApplePile	Est-elle sortie d'une des pommes ? 	Cela venait-il de l'une des pommes ? 
+LL_ApplePile	Il est relié à un <i>Filament</i>. 	Il est relié par une <i>Corde</i>. 
+LL_ApplePile	Ça fait drôle. Prudence. 	Il fait une drôle d'impression. Prudence. 
+LL_ApplePile	Normalement, les tests ne se débloquent qu'au terme d'un repos court ou long. 	Normalement, les tests ne sont débloqués qu'à l'issue d'un repos court ou long. 
+LL_CorpseOne	Humain. Mâle. La quarantaine passée. 	Humain. Mâle. Plus de quarante ans. 
+LL_CorpseOne	Comment ce gars peut-il dormir ici ? 	Comment ce type peut-il dormir ici en bas ? 
+LL_CorpseOne	Il est sans doute très, très fatigué. 	Il est sans doute juste très, très fatigué. 
+LL_CorpseOne	Tu es simplet ? Il fait semblant. Juste un fainéant. 	Tu es simple d'esprit ? Il fait clairement semblant. Juste un fainéant. 
+LL_CorpseOne	« Ah, je vois. Ce doit être normal de faire la sieste ici. » 	« Ah, je vois. Ça doit être normal de faire des siestes ici en bas. » 
+LL_CorpseOne	E-Le laisser dormir. Il a dû avoir une rude journée. 	Laisse-le dormir. Il a dû avoir une journée difficile. 
+LL_CorpseOne	Comportement curieux que de rester parfaitement immobile sous une couverture ainsi. Peut-être a-t-il besoin d'aide ? 	Comportement curieux que de rester parfaitement immobile sous une couverture comme cela. Peut-être a-t-il besoin d'aide ? 
+LL_CorpseOne	Le gobelin te regarde, le sourcil froncé. 	Le gobelin te regarde le front froncé. 
+LL_CorpseOne	« Monsieur ? Je vous en prie, ne m'ignorez pas. » 	« Monsieur ? Veuillez ne pas m'ignorer. » 
+LL_CorpseOne	« Allez, réveillez-vous. » 	« Allons, réveillez-vous. » 
+LL_CorpseOne	E-Je devrais le laisser dormir. Il a dû avoir une rude journée. 	Je devrais le laisser dormir. Il a dû avoir une journée difficile. 
+LL_CorpseOne	« Sapristi. Tu sais, pour un vivant, il est très immobile, silencieux, et froid. » 	« Mince. Tu sais, pour un type vivant, il est très immobile, silencieux, et froid. » 
+LL_CorpseOne	Amusant. 	Drôle. 
+LL_CorpseOne	E-Je devrais cesser d'embêter le cadavre. 	Je devrais arrêter de tripoter le cadavre. 
+LL_CorpseOne	Sans blague. 	Sans déconner. 
+LL_CorpseOne	Une affirmation véridique. 	Une déclaration vraie. 
+LL_CorpseOne	Récemment décédé. 	Décédé récemment. 
+LL_CorpseOne	Dessous tu trouves le cadavre froid d'un humain. 	En dessous tu trouves le cadavre froid d'un humain. 
+LL_CorpseOne	Et... il était vivant. Jadis. 	Et... il était vivant. Une fois. 
+LL_CorpseOne	Milieu de la quarantaine. Ouvrier d'usine. Sang askanien. 	Milieu de la quarantaine. Ouvrier d'usine. Sang askanii. 
+LL_CorpseOne	Son teint ne montre presque aucune décomposition. Sans doute sous l'effet d'un sort de conservation. 	Son teint ne montre presque aucune décomposition. Très probablement sous l'effet d'un sort de préservation. 
+LL_CorpseOne	Ouais, ce gars a l'air frais. Comme s'il pouvait s'asseoir et te parler. 	Ouais, ce type a l'air frais. Comme s'il pouvait juste se redresser et te parler. 
+LL_CorpseOne	Le DD (Degré de Difficulté) d'un Choix de Dé dépend de la difficulté que représentera ce jet pour toi. 	Le DC (Degré de Difficulté) d'un Choix de Dé est déterminé par la difficulté de ce jet pour toi. 
+LL_CorpseOne	Si tu sélectionnes un Choix de Dé, tu lances un dé à vingt faces. Si tu obtiens le DD ou plus, tu réussis ce jet. 	Si tu sélectionnes un Choix de Dé, tu lances ensuite un dé à vingt faces. Si tu obtiens le même résultat ou supérieur au DC, alors tu réussis ce jet. 
+LL_CorpseOne	Je suis bon avec les cadavres, non ? 	Je suis doué avec les cadavres, n'est-ce pas ? 
+LL_CorpseOne	ROLL10 int-L'examiner de plus près. 	L'examiner de plus près. 
+LL_CorpseOne	Genre, j'ai été formé à les manier. C'est ça ? 	Genre, j'ai été formé pour les manipuler. Pas vrai ? 
+LL_CorpseOne	Tu n'as pas la formation pour les manier, non. 	Tu n'as pas la formation pour les manipuler, non. 
+LL_CorpseOne	La formation officielle est pour ceux sans véritable talent. 	La formation formelle, c'est pour les gens sans véritable talent. 
+LL_CorpseOne	Oh. Vrai. Je m'occupais surtout de paperasse. 	Oh. Bien. Je m'occupais surtout de paperasse. 
+LL_CorpseOne	Un héros ne craint pas de se salir les mains. 	Un héros n'a pas peur de se salir les mains de sang. 
+LL_CorpseOne	Compris. Je suis maître en cadavrologie. 	Compris. Je suis un maître en art-cadavre. 
+LL_CorpseOne	Du papier et de l'encre, mon ami. 	Papier et encre, baby. 
+LL_CorpseOne	Travail affreux. 	Travail épouvantable. 
+LL_CorpseOne	Paroles plus vraies furent rarement prononcées. 	Des mots plus vrais ont rarement été prononcés. 
+LL_CorpseOne	Il y a quelque chose d'étrange ici. Nous devons regarder de plus près. 	Il y a quelque chose d'étrange ici. Il faut regarder de plus près. 
+LL_CorpseOne	(Se pencher pour regarder de plus près.) 	(Se pencher et regarder de plus près.) 
+LL_CorpseOne	Des signes d'un travailleur acharné ou d'un négligent jonchent sa peau. 	Des signes d'être soit un travailleur acharné soit un travailleur négligent jonchent sa peau. 
+LL_CorpseOne	Pense à vérifier le dos aussi. 	Veille à vérifier aussi le dos. 
+LL_CorpseOne	À l'instant où tu le touches, des veines noires apparaissent sur sa peau. 	Au moment où tu le touches, des veines noires apparaissent sur sa peau. 
+LL_CorpseOne	Un sentiment de mort imminente te submerge. Ton estomac chavire. 	Un sentiment de fatalité imminente t'envahit. Ton estomac chute. 
+LL_CorpseOne	Énergies nécrotiques. Lâche ce maudit cadavre ! 	Énergies nécrotiques. Lâche ce foutu cadavre ! 
+LL_CorpseOne	À l'instant où tu lâches, la douleur s'estompe. 	Au moment où tu lâches, la douleur s'apaise. 
+LL_CorpseOne	Le gobelin te regarde avec une expression préoccupée. 	Le gobelin te regarde avec une expression inquiète. 
+LL_CorpseOne	« C'est pour ça que je ne m'occupe pas des cadavres. » 	« C'est pour ça que je m'occupe pas des cadavres. » 
+LL_CorpseOne	Quel sort horrible. Ce cadavre est maudit par quelque chose de pernicieux au-delà de tes pouvoirs. 	Quel sort horrifique. Ce cadavre est maudit par quelque chose de malfaisant au-delà de tes pouvoirs. 
+LL_CorpseOne	Ils devraient au moins mettre un panneau. 	Ils devraient au moins avoir mis un panneau. 
+LL_CorpseOne	Genre « ne touchez pas les morts, ils sont pleins de magie noire ». 	Genre, « ne touchez pas les morts, ils sont pleins de magie noire ». 
+LL_CorpseOne	Tu recouvres lentement le cadavre. 	Tu recouvres lentement le cadavre une fois encore. 
+LL_CorpseOne	N'en parlons pas. 	Ne parlons pas de cela. 
+LL_CorpseOne	Tu dois creuser cette affaire. 	Tu dois te pencher davantage là-dessus. 
+LL_CorpseOne	Ouvre l'œil. 	Garde l'œil ouvert. 
+LL_CorpseOne	(Se pencher pour regarder de plus près.) 	(Se pencher et regarder de plus près.) 
+LL_CorpseOne	Des signes d'un travailleur acharné ou d'un négligent jonchent sa peau. 	Des signes d'être soit un travailleur acharné soit un travailleur négligent jonchent sa peau. 
+LL_CorpseOne	La cause du décès ne paraît pas directement visible. 	La cause de la mort semble ne pas être directement visible. 
+LL_CorpseOne	Pas de traumatisme contondant non plus. 	Aucun traumatisme contondant non plus. 
+LL_CorpseOne	Vu son âge et la forme de son corps, cet homme est sans doute mort d'une maladie courante ou d'une défaillance interne. 	Vu son âge et la forme de son corps, cet homme est très probablement mort d'une maladie commune ou d'une défaillance interne. 
+LL_CorpseOne	C'est plutôt large. Et vague. 	C'est assez large. Et vague. 
+LL_CorpseOne	À moins de te mettre à découper, c'est tout ce que tu obtiendras. 	À moins que tu sois prêt à commencer à découper, c'est tout ce que tu auras. 
+LL_CorpseOne	Sauf... 	Sauf que... 
+LL_CorpseOne	Tu te souviens : c'est la marque PR. « Revivification Potentielle ». 	Tu te souviens : c'est la marque de RP. « Revivification Potentielle ». 
+LL_CorpseOne	Oh. Vrai. Ce gars peut être revivifié ? 	Oh. Bien. Ce type peut être ramené à la vie ? 
+LL_CorpseOne	On dirait. Il est sans doute mort en soins, et a reçu un Repos Tranquille immédiat. 	On dirait. Il est très probablement mort durant les soins, et s'est vu accorder un Repos Tranquille immédiat. 
+LL_CorpseOne	Toutefois, il n'avait clairement pas de FR. Un <i>Fonds de Réanimation</i>. Ni de membres de famille avec assez de liquide. 	Cependant, il n'avait clairement pas de FR. Un <i>Fonds de Revivification</i>. Il n'avait pas non plus de membres de sa famille avec assez de liquide. 
+LL_CorpseOne	Ou peut-être était-il juste un type peu aimable. Qui sait ? 	Ou peut-être n'était-il qu'un type peu sympathique. Qui sait ? 
+LL_CorpseOne	Tant pis. 	Soit. 
+LL_CorpseOne	Tu recouvres une fois encore le cadavre. 	Tu recouvres le cadavre une fois encore. 
+LL_CorpseOne	« Tu as fini ? » 	« T'as fini ? » 
+LL_CorpseOne	Il a l'air nauséeux. 	Il a l'air patraque. 
+LL_CorpseOne	Un gobelin faible, qui ne supporte pas la présence de la mort. Compréhensible. 	Un gobelin faible, ne peut supporter la présence de la mort. Compréhensible. 
+LL_CorpseOne	Le gobelin n'est pas habitué à la cadavrologie. Bien. 	Le gobelin n'est pas habitué à l'art-cadavre. Bien. 
+LL_CorpseOne	C'est OK de le piller, non ? 	C'est ok de le piller, non ? 
+LL_CorpseOne	Qui était ce gars ? 	Qui était ce type ? 
+LL_CorpseOne	E-Je devrais cesser d'embêter le cadavre. 	Je devrais arrêter d'embêter le cadavre maintenant. 
+LL_CorpseOne	Bien que la question soit plutôt : <i>pourquoi le ferais-tu</i> ? 	Bien que la question s'apparente plus à : <i>pourquoi le devrais-tu</i> ? 
+LL_CorpseOne	Un emplacement de sort de niveau trois est une ressource précieuse. Pourquoi le gaspiller sur un cadavre de col-bleu ? 	Un emplacement de sort de troisième niveau est une ressource précieuse. Pourquoi le gaspiller sur un cadavre de col bleu ? 
+LL_CorpseOne	Ignorant le fait que tu ne peux dépenser ton <i>pouvoir</i> sur n'importe quel vieil imbécile... 	En ignorant le fait que tu ne peux pas simplement dépenser ton <i>pouvoir</i> sur n'importe quel vieil imbécile... 
+LL_CorpseOne	Il existe aussi un million d'issues à une résurrection menant à un résultat négatif pour le monde. 	Il y a aussi un million de résultats à une résurrection qui pourraient mener à une issue négative dans le monde. 
+LL_CorpseOne	Peut-être dans ton naïf système d'alignement. Mais pas dans la réalité. 	Peut-être dans ton système d'alignement insensé. Mais pas dans la réalité. 
+LL_CorpseOne	Quelque chose d'horrible. Véritablement maléfique. 	Quelque chose d'horrifique. Vraiment maléfique. 
+LL_CorpseOne	Cela semble un Repos Tranquille à première vue. Mais cette énergie nécrotique... 	Cela ressemble à un Repos Tranquille au premier regard. Mais cette énergie nécrotique... 
+LL_CorpseOne	Une hypothèse serait un rituel d'animation avancé. Mais tu ne connais pas de tels sorts sombres. 	On pourrait deviner un rituel d'animation avancé. Mais tu n'as aucune connaissance de tels sorts sombres. 
+LL_CorpseOne	Quoi que ce soit, n'y touche plus. 	Quoi que ce soit, ne le touche plus. 
+LL_CorpseOne	Intégrité morale ? C'est un mort. Il n'aura pas besoin de ses affaires, manifestement ? 	L'intégrité morale ? C'est un mort. Il aura pas besoin de ses affaires, c'est évident ? 
+LL_CorpseOne	C'est pas comme si le gars allait se plaindre. Mais n'en parle pas trop fort, d'accord ? 	C'est pas comme si le type allait se plaindre. Mais va pas en parler trop fort, d'accord ? 
+LL_CorpseOne	De toute façon, tu n'auras pas d'ennuis. Personne ne le saura. 	Quoi qu'il en soit, tu n'auras aucun ennui. Personne ne saura. 
+LL_CorpseOne	C'est un travailleur mort. Le genre à passer sa vie à trimer pour rien. 	C'est un ouvrier mort. Le genre à passer toute sa vie à trimer pour rien. 
+LL_CorpseOne	C'est une triste manière de voir une vie de précieux labeur. 	C'est une façon triste de voir une vie de travail précieux et acharné. 
+LL_CorpseOne	Un labeur <b>honorable</b>. 	Un travail acharné <b>honorable</b>. 
+LL_CorpseOne	Un mort <b>honorable</b>. 	Un homme mort <b>honorable</b>. 
+LL_CorpseOne	C'est une morgue. Une lichhouse. Manifestement. 	C'est une morgue. Une lichmaison. Clairement. 
+LL_CorpseOne	On conserve les cadavres au froid dans des lieux comme celui-ci, avant crémation ou inhumation. 	Les cadavres sont conservés au frais dans des endroits comme celui-ci, avant la crémation ou l'inhumation. 
+LL_CorpseOne	Ce devait être un sacré arrangement pour mettre les deux ensemble. 	Ça a dû être un sacré marché pour mettre ces deux-là ensemble. 
+LL_CorpseOne	Le cadavre est empli de l'esprit animé de qui il fut en vie. 	Le cadavre est rempli de l'esprit animé de celui qu'il était de son vivant. 
+LL_CorpseOne	« Je pense pas que ce gars ait quelque chose d'intéressant à dire, Clerc. » 	« Je crois pas que ce type ait quoi que ce soit d'intéressant à dire, Clerc. » 
+LL_CorpseOne	« Attends, c'était pas une question, hein ? » 	« Attendez, c'était pas une question, ça, hein ? » 
+LL_CorpseOne	« Hum. Voyons voir, que devrais-je demander... ? » 	« Hm. Voyons voir, qu'est-ce que je devrais demander... ? » 
+LL_CorpseOne	« Je n'ai pas, » murmure le cadavre. 	« Je n'ai pas », murmure le cadavre. 
+LL_CorpseOne	« Ah merde. » 	« Ah putain. » 
+LL_CorpseOne	« Si c'en était une. » 	« Elle l'a été. » 
+LL_CorpseOne	« Je ne sais pas ça. » 	« Je ne sais pas cela. » 
+LL_CorpseOne	(Réfléchir simplement.) 	(Juste réfléchir.) 
+LL_CorpseOne	Cet homme, clairement, n'a pas d'importance. 	Cet homme, clairement, n'a aucune importance. 
+LL_CorpseOne	« Dites-moi tout ce que vous savez du salon de thé. Ou... ce que vous saviez. » 	« Dites-moi tout ce que vous savez sur la boutique de thé. Ou... ce que vous saviez. » 
+LL_CorpseOne	« Comment êtes-vous mort ? » 	« Comment êtes-vous morte ? » 
+LL_CorpseOne	« N'aviez-vous personne pour payer votre résurrection ? » 	« N'aviez-vous personne qui aurait pu payer pour votre résurrection ? » 
+LL_CorpseOne	« Parti de Norvik. » 	« Le Parti de Norvik. » 
+LL_CorpseOne	« Excellent choix. Je suis aussi Nationaliste ! » 	« C'est un excellent choix. Je suis aussi Nationaliste ! » 
+LL_CorpseOne	« Eh bien, je voterai pour les Franc-Marcheurs, évidemment. » 	« Eh bien, je voterai pour les Libre-Marcheurs, évidemment. » 
+LL_CorpseOne	« Imbécile ! Vous êtes manifestement de la classe ouvrière. Vous devriez voter Azgaliste ! » 	« Imbécile ! Vous êtes clairement de la classe ouvrière. Vous devriez voter pour les Azgalistes ! » 
+LL_CorpseOne	DC11 int-« Je voterai pour moi. Je serai votre dirigeant Arcaniste. Un mage-roi. Ça sonne bien, hein ? » 	DC11 int-« Je voterai pour moi-même. Je serai votre dirigeant Arcaniste. Un roi-magicien. Ça sonne bien, hein ? » 
+LL_CorpseOne	« D'accord. Bon. Je m'en fiche. » (Rester apolitique. De manière neutre.) 	« D'accord. Bon. Je m'en fiche. » (Être simplement apolitique. De manière neutre.) 
+LL_CorpseOne	DC17 con-(Avoir honte.) « Je suis Agrarien. Juste un gars de la ferme. Cherchant à revenir à l'essentiel, vous voyez ? » 	DC17 con-(Avoir honte.) « Je suis Agrarien. Juste un fils de la ferme. Cherche à revenir aux bases, vous voyez ? » 
+LL_CorpseOne	Tu n'obtiens aucune réponse du cadavre. 	Vous n'obtenez aucune réponse du cadavre. 
+LL_CorpseOne	« Content maintenant ? » 	« T'es content maintenant ? » 
+LL_CorpseOne	\"Pas une question.\" 	« Pas une question. » 
+LL_CorpseOne	(Soupirer.) « Que, comment, quand et qui connaissez-vous, en lien ou autour du sujet général, du salon de thé qui a explosé et/ou de tout ce qui s'y passe ? » 	(Soupirer.) « Quoi, comment, quand et qui connaissez-vous, en lien avec ou autour du sujet général, de la boutique de thé qui a explosé et/ou de tout ce qui s'y passe ? » 
+LL_CorpseOne	« Les nains y vont. C'est un repaire rebelle. Mauvais endroit. » 	« Les nains y vont. C'est un repaire de rebelles. Mauvais endroit. » 
+LL_CorpseOne	« Je ne laisse pas mes gars approcher, j'élèverai pas un sale Azgaliste. » 	« Je laisse pas mes gars s'approcher, je vais pas élever un puant d'Azgaliste. » 
+LL_CorpseOne	« Ce Bird est aussi une pomme pourrie. Au cas où vous voudriez savoir. » 	« Cet Oiseau est aussi une pomme pourrie. Au cas où vous vouliez savoir. » 
+LL_CorpseOne	« Sapristi. Tu t'es trouvé un buveur de lait. » 	« Mince. Vous vous êtes attiré un buveur de lait. » 
+LL_CorpseOne	« Plutôt commune comme manière de partir, honnêtement. » 	« Façon plutôt courante de partir, honnêtement. » 
+LL_CorpseOne	« Haute-Rue de Tolstad, quatorze. Un complexe d'appartements. » 	« Haute-Tolstreet, quatorze. Un complexe d'appartements. » 
+LL_CorpseOne	« Trop cher. Les Azgalistes en sont la cause. » 	« Trop cher. Les Azgalistes sont à blâmer. » 
+LL_CorpseOne	Tu en doutes fort. 	Tu en doutes fortement. 
+LL_CorpseOne	« Les docks. Pendant vingt ans. Beaucoup de compagnies différentes. Le dock a changé de mains plusieurs fois. » 	« Les docks. Pendant vingt ans. Beaucoup de compagnies différentes. Les docks ont changé de mains de nombreuses fois. » 
+LL_CorpseOne	Et il changera sans doute encore plus à l'avenir. 	Et ils changeront sûrement encore davantage à l'avenir. 
+LL_CorpseOne	« Oui. Mes... fils. » 	« Oui. Mes... garçons. » 
+LL_CorpseOne	Manifestement, si. 	Ils osent clairement. 
+LL_CorpseOne	Quel manque de respect de la part de ses fils que de le laisser ici ! 	Quel manque de respect de la part de ses fils de le laisser ici ! 
+LL_CorpseOne	« Et le dur labeur. » 	« Et le travail acharné. » 
+LL_CorpseOne	On dirait un brave homme, en effet ! 	Ça ressemble en effet à un brave homme ! 
+LL_CorpseOne	Mais à qui les fruits de ce labeur ont-ils été donnés ? 	Mais à qui ont été donnés les fruits de ce labeur ? 
+LL_CorpseOne	Ça fait deux. Trois autres questions. 	Ça fait deux. Trois questions de plus. 
+LL_CorpseOne	Une question restante. Sois précis. 	Une question restante. Fais en sorte qu'elle compte. 
+LL_CorpseOne	« J'espère que tu as appris quelque chose. » 	« J'espère que t'as appris quelque chose. » 
+LL_CorpseOne	« Je peux te dire avec certitude qu'il y a cent vieux humains qui répondraient exactement la même chose juste en bas à Waterlane. » 	« Je peux te garantir qu'il y a une centaine de vieux humains qui répondraient exactement la même chose sur Waterlane. » 
+LL_CorpseOne	« Donc tu pourrais dépenser de l'argent pour le revivifier, mais... vraiment, c'est à toi de voir. » 	« Donc j'imagine que tu pourrais dépenser de l'argent pour le ranimer, mais... vraiment, c'est à toi de voir. » 
+LL_CorpseOne	(Acquiescer au cadavre.) 	(Adresser un signe de tête au cadavre.) 
+LL_CorpseOne	« Bien que tu penses ainsi. » 	« Bien que tu penses cela. » 
+LL_CorpseOne	« Une autre fois, d'accord. Pas maintenant. » 	« Un jour, oui. Pas maintenant. » 
+LL_CorpseOne	Il n'acquiesce pas en retour. 	Il ne lui rend pas le signe de tête. 
+LL_CorpseOne	(Poser ta main sur ses yeux.) 	(Placer ta main sur ses yeux.) 
+LL_CorpseOne	« Oh, tu le revivifies vraiment ? » 	« Oh, tu le ranimes pour de vrai ? » 
+LL_CorpseOne	« Enfin, d'accord. C'est un peu une loterie, le faire sur un quidam comme ça. » 	« Enfin, d'accord. C'est un peu une loterie, de faire ça à un inconnu comme ça. » 
+LL_CorpseOne	« Mais d'accord. Vas-y. » 	« Mais oui. Vas-y. » 
+LL_CorpseOne	(Payer 300 écus.) 	(Payer 300 couronnes.) 
+LL_CorpseOne	Tu touches d'un doigt son front, sa poitrine, et son poignet gauche. 	Tu poses un doigt sur son front, sur sa poitrine, et sur son poignet gauche. 
+LL_CorpseOne	<i>Corps entier, esprit perdu</i>. 	<i>Corps entier, perte de l'esprit</i>. 
+LL_CorpseOne	Pas la Revivification la plus facile. Le Repos Tranquille empêche le corps de se décomposer, mais il reste froid. Et l'âme est partie loin. 	Pas la Revivification la plus facile. Le Repos Tranquille empêche le corps de se décomposer, mais il est toujours froid. Et l'âme est partie loin. 
+LL_CorpseOne	Tu sais que cela va marcher. 	Tu sais que cela fonctionnera. 
+LL_CorpseOne	On dirait un gaspillage d'argent. 	On dirait du gaspillage d'argent. 
+LL_CorpseOne	La faible silhouette d'un visage ésotérique apparaît autour du cadavre. 	Le faible contour d'un visage ésotérique apparaît autour du cadavre. 
+LL_CorpseOne	« Gah... ! » 	« Argh... ! » 
+LL_CorpseOne	« Vous allez bien maintenant, citoyen. Je vous ai revivifié. » 	« Tout va bien maintenant, citoyen. Je vous ai ramené à la vie. » 
+LL_CorpseOne	L'homme se relève lentement du bloc froid. 	L'homme se lève lentement du bloc froid. 
+LL_CorpseOne	« Je me sens... putain de mal. Qu'as-tu fait, salopard ? » 	« Je me sens... putain de merde. Qu'est-ce que tu m'as fait, espèce d'enculé ? » 
+LL_CorpseOne	Voilà pourquoi tu ne dépenses pas d'emplacements de sort de niveau trois et trois cents écus sur des vieillards au hasard. 	C'est pour cela que tu ne dépenses pas d'emplacements de sort de troisième niveau et trois cents couronnes sur des vieux hommes au hasard. 
+LL_CorpseOne	\"Quoi ?\" 	« Quoi ? » 
+LL_CorpseOne	« J'ai dit, qu'as-tu — argh... ! » il grogne et s'écarte, lâchant la bâche. 	« J'ai dit, qu'est-ce que tu as — argh... ! » grogne-t-il en s'éloignant, en lâchant la bâche. 
+LL_CorpseOne	(Détourner le regard.) « Vous êtes nu, citoyen. » 	(Détourner les yeux.) « Vous êtes nu, citoyen. » 
+LL_CorpseOne	« Ouais, je <shake>fucking</shake> remarque ! Gah... » il grogne encore et se prend la tête. 	« Ouais, je <shake>peux putain</shake> le voir ! Argh... » grogne-t-il encore en se tenant la tête. 
+LL_CorpseOne	« Où est Rollo ? Ce putain de gosse... il sait que j'ai une assurance ! J'ai payé pour qu'on me ramène habillé, bordel ! » 	« Où est Rollo ? Ce putain de gamin... il sait que j'ai une assurance ! J'ai payé pour être ramené avec des vêtements, bon sang ! » 
+LL_CorpseOne	Le vieil homme nu te pointe au visage. « Je te ferai virer, imbécile ! Combien de temps suis-je resté éteint ? Je lui ai dit avant de partir d'utiliser le fonds d'urgence ! » crie-t-il, manifestement désorienté, des postillons atterrissant sur ton heaume. 	Le vieil homme nu te pointe le visage du doigt. « Je vais te faire virer, idiot ! Ça fait combien de temps que je suis parti ? Je lui ai dit avant de m'évanouir d'utiliser le fonds d'urgence ! » hurle-t-il, clairement désorienté, des postillons atterrissant sur ton heaume. 
+LL_CorpseOne	« Monsieur. Il faut vous calmer. Vous êtes mort depuis un bon moment, il vous faut — » 	« Monsieur. Vous devez vous calmer. Vous êtes mort depuis un bon moment, vous devez — » 
+LL_CorpseOne	« Un gobelin ?! Tu me dis rien, <i>peau-verte</i>. Casse-toi ! » 	« Un gobelin ?! Tu me dis rien du tout, <i>peau-verte</i>. Va te faire foutre ! » 
+LL_CorpseOne	« Vous êtes resté éteint quelques semaines, je crois. » 	« Vous êtes parti depuis quelques semaines, je crois. » 
+LL_CorpseOne	(Se contenter de fixer le vieil homme déchaîné.) 	(Se contenter de fixer le vieillard dérangé.) 
+LL_CorpseOne	\"Quoi ?\" 	« Quoi ? » 
+LL_CorpseOne	« Mais... ça veut dire que je n'ai plus de boulot ! Qui va payer ça, toi ? » 	« Mais... ça veut dire que j'ai plus de putain de boulot ! Qui va payer pour ça, toi ? » 
+LL_CorpseOne	« C'est le moins que tu puisses faire ! Vous les enfoirés de la cité êtes même pas fichus d'empêcher les gobelins de nous voler ! » 	« C'est le moins que tu puisses faire ! Vous, les enfoirés de la ville, vous arrivez même pas à empêcher les gobelins de nous dépouiller ! » 
+LL_CorpseOne	« Putain. » Il attrape la bâche et s'en enveloppe. 	« Au diable tout ça. » Il attrape la bâche et s'en enveloppe. 
+LL_CorpseOne	« Je dois PRIER qu'ils ne m'aient pas déjà remplacé. Que les dieux soient DAMNÉS ! » 	« Je dois PRIER pour qu'ils m'aient pas déjà remplacé. Que les dieux soient DAMNÉS ! » 
+LL_CorpseOne	Le vieil homme désormais presque nu quitte la lichhouse en hâte. 	Le vieil homme presque nu maintenant quitte la lichmaison précipitamment. 
+LL_CorpseOne	Snell prend une grande inspiration. 	Snell prend une profonde inspiration. 
+LL_CorpseOne	« On dirait que tu as eu pas de chance avec ton cadavre-loterie. » 	« J'imagine que t'as eu pas de chance avec ton cadavre-loterie. » 
+LL_CorpseOne	Quel homme infect. 	Quel homme abject. 
+LL_CorpseOne	« Juste. Je peux comprendre. » 	« Juste. Je peux comprendre cela. » 
+LL_CorpseOne	« Si jamais je suis ressuscité, je te promets, je serai plus poli. » 	« Si jamais je suis ressuscité, je te promets que je serai plus poli. » 
+LL_CorpseOne	« Espérons. » 	« Espérons-le. » 
+LL_CorpseOne	« T'en fais pas. Qui voudrait te tuer ? » 	« T'inquiète pas. Qui voudrait te tuer ? » 
+LL_CorpseOne	« De mauvais augure. J'aime. » 	« De mauvais augure. J'aime bien. » 
+LL_PrayerBookPickup	Le livre est ruiné. La plupart des pages, désormais sèches, ont été complètement trempées. 	Le livre est ruiné. La plupart des pages, bien que sèches à présent, ont été complètement trempées. 
+LL_PrayerBookPickup	Dans de l'eau salée. C'est absolument et totalement ruiné. 	Dans de l'eau salée. Il est absolument et totalement bon à jeter. 
+LL_PrayerBookPickup	Seules quelques pages détrempées de papyrus brachénien sont lisibles. Elles semblent contenir des symboles indéchiffrables... 	Seules quelques pages de papyrus brachen détrempé sont lisibles. Elles semblent contenir une sorte de symboles indéchiffrables... 
+LL_PrayerBookPickup	De l'écriture askanienne. De la plus basique. Attends... oh non... 	De l'écriture askanienne. Du genre le plus basique. Attends... oh non... 
+LL_PrayerBookPickup	Quelqu'un a tenté de le sécher de son mieux. 	Quelqu'un a tenté de le faire sécher du mieux qu'il pouvait. 
+LL_PrayerBookPickup	\"By Urth...\" 	« Par Urth... » 
+LL_PrayerBookPickup	Il faudrait tout relier à neuf. Il est ruiné. 	Il faudrait le relier entièrement. Il est foutu. 
+LL_PrayerBookPickup	Cela coûtera une fortune ! 	Ça va coûter une fortune ! 
+LL_PrayerBookPickup	Ce serait dispendieux ! Mets plutôt la main sur un neuf... 	Ce serait coûteux ! Mettons plutôt la main sur un nouveau... 
+LL_PrayerBookPickup	Un livre de chant supporte l'humidité. Pas les excursions sous-marines. 	Un livre de chants peut supporter l'humidité. Pas les excursions sous-marines. 
+LL_PrayerBookPickup	Tu aurais dû protéger les Chants d'Urth plus soigneusement. Quelle honte. 	Tu aurais dû mieux protéger les Chants d'Urth. Quelle disgrâce. 
+LL_PrayerBookPickup	Tu as suffisamment protégé Ses paroles. Le livre est encore récupérable. 	Tu as suffisamment protégé sa parole. Le livre est encore récupérable. 
+LL_PrayerBookPickup	Une vraie personne reconnaît quand la vie est injuste. 	Une vraie personne saurait reconnaître quand la vie est injuste. 
+LL_PrayerBookPickup	Et traite ceux d'en bas avec grâce — non avec mépris. Un homme bon le ferait au moins. 	Et traiter ses subordonnés avec bienveillance - non avec mépris. Du moins, un homme de bien le ferait. 
+LL_PrayerBookPickup	<b>Des excuses</b>. Repens-toi par le service. Va maintenant ! Poursuis ta quête. 	<b>Des excuses</b>. Rachète-toi par le service. Va maintenant ! En route vers ta quête. 
+LL_PrayerBookPickup	(Prendre le Livre de Prières ruiné.) 	(Prendre le Livre de Prières Ruiné.) 
+LL_ZombieCheck	ARRÊTE-TOI. 	UN INSTANT. 
+LL_ZombieCheck	Regarde. 	Écoute. 
+LL_ZombieCheck	Regarde ce que tu as manqué. 	Regarde ce que tu as raté. 
+LL_ZombieCheck	(Embrasser la salle du regard.) 	(Observer la chambre.) 
+LL_ZombieCheck	So? 	Et alors ? 
+LL_ZombieCheck	Oh. Est-ce pertinent pour moi ? 	Oh. C'est censé me concerner ? 
+LL_ZombieCheck	Et que devrais-je faire exactement à ce sujet ? 	Et qu'est-ce que je suis censé faire à ce sujet, exactement ? 
+LL_ZombieCheck	C'est le travail d'un clerc que de s'occuper de tout zombie errant qui pourrait se présenter. 	C'est le travail d'un clerc de s'occuper de tout zombie errant qui pourrait apparaître. 
+LL_ZombieCheck	Cela paraît dangereux. 	Ça a l'air dangereux. 
+LL_ZombieCheck	M-Alors... 	Alors... 
+LL_ZombieCheck	Par un combat féroce. 	Par une bataille acharnée. 
+LL_ZombieCheck	Par des choix stratégiques judicieux. 	Par des choix stratégiques avisés. 
+LL_ZombieCheck	En effet. 	C'est vrai. 
+LL_ZombieCheck	Tu peux le gérer. 	Tu peux gérer. 
+LL_ZombieCheck	Tu te sens plutôt en sueur à cette pensée. 	Tu transpires plutôt à cette pensée. 
+LL_ZombieCheck	Tu peux le faire au sanctuaire, si outrageusement recouvert de pommes. 	Tu peux le faire au sanctuaire, si scandaleusement recouvert de pommes. 
+LL_ZombieCheck	Sans magie, tu te promènes essentiellement nu. 	Sans magie, tu te balades essentiellement nu. 
+LL_ZombieCheck	C'est sot et dégénéré. 	C'est insensé et dégénéré. 
+LL_ZombieCheck	Va. CONSOMME. 	Vas-y. CONSOMME. 
+LL_ZombieCheck	Tu scrutes la salle. 	Tu scrutes l'autre bout de la chambre. 
+LL_ZombieCheck	Au-delà tu vois un autre escalier, et... 	Au-delà, tu vois un autre escalier, et... 
+LL_ZombieCheck	C'est décidé. Tu dois vaincre ce zombie. Sur-le-champ. 	C'est décidé. Tu dois vaincre ce zombie. Tout de suite. 
+LL_ZombieCheck	En regardant de plus près, tu remarques bien autre chose. 	En regardant de plus près, tu remarques effectivement autre chose. 
+LL_ZombieCheck	Oui. It is time. 	Oui. Il est temps. 
+LL_ZombieCheck	Temps de partir, plutôt. 	Il est temps de partir, plutôt. 
+LL_ZombieCheck	N'écoute pas le rouge. Ça vaut pas la peine. 	N'écoute pas le rouge. Ça n'en vaut pas la peine. 
+LL_ZombieCheck	D'accord. Je vais m'occuper du zombie vite fait. (Rester ?) 	D'accord. Je vais aller m'occuper du zombie en vitesse. (Rester ?) 
+LL_ZombieCheck	Oui. Very good. 	Oui. Très bien. 
+LL_ZombieCheck	(Se préparer ?) 	(Te préparer ?) 
+LL_ZombieCheck	Hum. Bon, oui. Ce serait peut-être mieux ainsi. 	Hm. D'accord, oui. C'est peut-être pour le mieux. 
+LL_ZombieCheck	E-Filons d'ici ? 	On se tire d'ici ? 
+LL_Intro	Ragn. Ton nom est Ragn. 	Ragn. Ton nom, c'est Ragn. 
+LL_Intro	Et sur ta déclaration de citoyenneté — Ragn Hemlin. 	Et sur ta déclaration de citoyenneté - Ragn Hemlin. 
+LL_Intro	Uh. 	Euh. 
+LL_Intro	Oui, ton nom. 	C'est vrai, ton nom. 
+LL_Intro	Cela commence par un R. 	Ça commence par un R. 
+LL_Intro	Ragn ? C'est ça ? 	Ragn ? C'est bien ça ? 
+LL_Intro	Tu n'es pas appelé ainsi très souvent. 	On ne t'appelle pas comme ça très souvent, j'ai l'impression. 
+LL_Intro	Non, en effet. 	Non, tu ne l'es pas. 
+LL_Intro	Ce qui est plutôt embarrassant quand on y pense. 	Ce qui est plutôt embarrassant, quand on y pense. 
+LL_Intro	Ragn ? Hum. Ça ne sonne pas juste. 	Ragn ? Hm. Ça ne sonne pas juste. 
+LL_Intro	(Garder le silence.) 	(Rester silencieux.) 
+LL_Intro	Oui. C'est bien ça. 	Oui. C'est bien celui-ci. 
+LL_Intro	Cela ne me semble pas juste. 	Ça ne me semble pas juste, à moi. 
+LL_Intro	Ouais, ouais. Personne ne t'aime. Bouh-bouh. 	Ouais, ouais. Personne ne t'aime. Bouh-hou. 
+LL_Intro	S'il te plaît arrête de hurler ça sans cesse. 	Arrête de hurler ça tout le temps, s'il te plaît. 
+LL_Intro	Hé ! Respect. Le Heaume. 	Hé ! Du respect. Le Heaume. 
+LL_Intro	DC12 str-<i>Le</i> Clerc ? J'aime ça. 	DC12 str-<i>Le</i> Clerc ? J'aime bien. 
+LL_Intro	En fait, ton vrai nom est Eric. 	En vérité, ton vrai nom est Eric. 
+LL_Intro	C'est <i>C.L.</i> Eric. Ou quelque chose comme ça. 	C'est <i>C.L.</i> Eric. Ou quelque chose dans ce goût-là. 
+LL_Intro	Ils ne t'appelaient pas « Dick-Ass », autrefois ? 	On ne t'appelait pas « Dick-Ass », à une époque ? 
+LL_Intro	N'emploie pas un langage aussi vil. 	N'emploie pas un tel langage vulgaire. 
+LL_Intro	FC8 wis-C. L. Eric ? Ça sonne comme <i>Cleric</i>. 	FC8 wis-C. L. Eric ? On dirait <i>Cleric</i>. 
+LL_Intro	Donc... mon nom est... 	Donc... mon nom, c'est... 
+LL_Intro	C'était « Dick-Ass <i>Roublard</i> ». 	C'était « Dick-Ass <i>le Roublard</i> ». 
+LL_Intro	Tu sais. À l'époque où tu trafiquais. Dans la rue. 	Tu sais. Du temps où tu magouillais. Dans la rue. 
+LL_Intro	N'aborde pas ce sujet. Bon sang. 	Ne ramène pas ça sur le tapis. Bon sang. 
+LL_Intro	C'étaient des temps sombres. Avant que tu ne trouves la lumière d'Urth. 	C'était une époque sombre. Avant que tu ne trouves la lumière d'Urth. 
+LL_Intro	C'était ça. 	C'était bien ça. 
+LL_Intro	Idiot. 	Imbécile. 
+LL_Intro	Oui. Dis-le. 	Oui. Énonce-le. 
+LL_Intro	DC15 dex-« Dick-Ass Roublard. » 	DC15 dex-« Dick-Ass le Roublard. » 
+LL_Intro	(Garder le silence.) 	(Rester silencieux.) 
+LL_Intro	NO! 	NON ! 
+LL_Intro	Ça ne sonne pas si bien à voix haute... 	Ça ne sonne pas si bien quand tu le dis à voix haute... 
+LL_Intro	Tu réponds. Une autre question issue des ténèbres. 	Tu réponds. <> 
+LL_Intro	NO! 	NON ! 
+LL_Intro	Attends. C.L. signifie quoi ? 	Attends. C.L., ça veut dire quoi ? 
+LL_Intro	Tu réponds. Une autre question issue des ténèbres. 	Tu réponds. <> 
+LL_Intro	Bon. Ça pourrait être pire. 	Bon. Pourrait être pire. 
+LL_Intro	Tu réponds. Une autre question issue des ténèbres. 	Tu réponds. <> 
+LL_Intro	Si ton nom est ce dont on t'appelle, alors c'est ça. 	Si ton nom, c'est ce qu'on t'appelle, alors c'est bien ça. 
+LL_Intro	Hum. Ça pourrait être pire. 	Hm. Pourrait être pire. 
+LL_Intro	Tu réponds. Une autre question issue des ténèbres. 	Tu réponds. <> 
+LL_Intro	Tu réponds. Une autre question issue des ténèbres. 	Tu réponds. <> 
+LL_Intro	Tu ne dis rien. Une autre question issue des ténèbres. 	Tu ne dis rien. <> 
+LL_Intro	Tu réponds. Une autre question issue des ténèbres. 	Tu réponds. <> 
+LL_Intro	Exact. 	Correct. 
+LL_Intro	Tu réponds. Une autre question issue des ténèbres. 	Tu réponds. <> 
+LL_Intro	Tu ne dis rien. Une autre question issue des ténèbres. 	Tu ne dis rien. <> 
+LL_Intro	Comme si ça avait de l'importance. 	Comme si ça avait la moindre importance. 
+LL_Intro	Qu'est-ce que c'est, un interrogatoire ? 	C'est quoi, ça, un interrogatoire ? 
+LL_Intro	Tu penses, n'est-ce pas ? 	Tu penses, non ? 
+LL_Intro	Mort ne signifie pas <b>parti</b>. 	Être mort ne veut pas dire être <b>parti</b>. 
+LL_Intro	Tu visais Patriarche. Plus réalistement, tu aurais fini Envoyeur. 	Tu visais Patriarche. Plus réalistement, tu aurais fini Expéditeur. 
+LL_Intro	DC15 str-Je vous en prie, non, je ne veux pas être un Envoyeur... 	DC15 str-Pitié, non, je ne veux pas être Expéditeur... 
+LL_Intro	Qu'est-ce qu'une « occupation » dans ce contexte ? 	Ça veut dire quoi, « occupation », dans ce contexte ? 
+LL_Intro	(Garder le silence.) 	(Rester silencieux.) 
+LL_Intro	C'est plus que des ténèbres. C'est le néant. Tout autour de toi. 	Ce n'est pas seulement l'obscurité. C'est le néant. Tout autour de toi. 
+LL_Intro	Tes sens s'étendent dans le vide. Une lueur, suspendue très, très loin. 	Tes sens se tendent dans le vide. Une lueur, vacillant très, très loin. 
+LL_Intro	La politique des Tours n'aurait guère permis autre chose, n'est-ce pas ? 	La politique aux Tours ne permettait pas grand-chose d'autre, n'est-ce pas ? 
+LL_Intro	Peu le font. Si tu peux l'embrasser, fais-le. 	Peu de gens le font. Si tu peux l'embrasser, fais-le. 
+LL_Intro	C'est certainement à propos de ton métier. 	C'est forcément à propos de ton boulot. 
+LL_Intro	N'avais-tu pas un boulot ? Quelque chose de vraiment important... 	Tu n'avais pas un boulot ? Quelque chose de vraiment important... 
+LL_Intro	Dis à la voix quelle est ta <b>classe</b>. 	Parle à la voix de ta <b>classe</b>. 
+LL_Intro	Tu es un grand lanceur de sorts qui régnera un jour sur le monde. 	Tu es un grand lanceur de sorts qui régnera sur le monde un jour. 
+LL_Intro	Occupation ? Hah ! Se tenir à jamais aux portes du chaos, maintenir la ligne contre toutes les choses immondes n'est pas un simple métier. C'est une vocation ! Un destin ! 	Occupation ? Hah ! Se tenir éternellement aux portes du chaos, faire front contre toutes les choses immondes, ce n'est pas un simple boulot. C'est une vocation ! Une destinée ! 
+LL_Intro	Aucune réponse n'est vraiment bonne ici. 	Je ne suis pas sûr qu'une seule réponse soit bonne ici. 
+LL_Intro	Va avec ce qui fonctionne sur le moment. 	Vas-y avec ce qui marche sur le moment. 
+LL_Intro	Ta classe c'est ce qui te tient à l'écart de la société, en général. 	Ta classe, c'est tout ce qui t'évite la société, en général. 
+LL_Intro	Tu es un clerc de cité. Rien de plus. 	Tu es un clerc de la ville. Rien de plus. 
+LL_Intro	Tu es une canaille de la haute. Le meilleur des meilleurs. 	Tu es une crapule de haute classe. Le meilleur des meilleurs. 
+LL_Intro	Et lamentable... en TOUT. 	Et nul... en TOUT. 
+LL_Intro	DC14 int-« Je suis un foutu magicien. » 	DC14 int-« Je suis un putain de magicien. » 
+LL_Intro	DC13 wis-« Je suis bel et bien un clerc. » 	DC13 wis-« Je suis assurément un clerc. » 
+LL_Intro	DC15 str-« Je suis le Gardien de la justice et de la paix. Un véritable héros <i>humain</i>. » 	DC15 str-« Je suis le Gardien de la justice et de la paix. Un vrai héros <i>humain</i>. » 
+LL_Intro	« Je suis lamentable en tout. » 	« Je suis nul en tout. » 
+LL_Intro	(Garder le silence.) 	(Rester silencieux.) 
+LL_Intro	Que les dieux soient damnés, c'est vrai. 	Par tous les dieux, tu l'es. 
+LL_Intro	Le fort et inébranlable... 	Le fort et l'inébranlable... 
+LL_Intro	Et fringant, qui plus est. 	Un fringant, qui plus est. 
+LL_Intro	Ne dis pas cela à voix haute. Se rabaisser n'est pas un bon moyen de se faire aimer. 	Tu ne devrais sans doute pas le dire tout haut. Te rabaisser n'est pas la meilleure façon de te faire aimer des gens. 
+LL_Intro	Sauf à être <i>très</i> habile dans la manœuvre. 	À moins d'être <i>très</i> habile dans la manipulation. 
+LL_Intro	C'est le cas. Et la paie sera bonne. 	Tu en as un. Et la paie sera grasse. 
+LL_Intro	Bien trop important. Tu n'en sortiras pas vivant. 	Bien trop important. Tu n'en ressortiras jamais vivant. 
+LL_Intro	Honnêtement, vu que tu ignores à qui tu as affaire, je suis d'accord. 	Franchement, vu que tu ne sais pas à qui tu as affaire, je suis d'accord. 
+LL_Intro	Un long moment s'écoule avant que la question suivante ne soit posée. 	Il faut un moment avant que la prochaine question ne soit posée. 
+LL_Intro	Objectif ? Sortir de ce sombre puits serait déjà bien. 	Un objectif ? Ce serait sympa de sortir de cette fosse obscure, pour commencer. 
+LL_Intro	Il nous faut découvrir qui a fait sauter le salon de thé. 	On doit découvrir qui a fait sauter le salon de thé. 
+LL_Intro	Et surtout, dans quel dessein néfaste. 	Et surtout, dans quel dessein malfaisant. 
+LL_Intro	Avec ton don tu peux aisément prendre le contrôle un jour. 	Avec ton don, tu pourras facilement prendre le contrôle un jour. 
+LL_Intro	La chef gobeline. Elle a besoin de toi. 	La cheffe gobeline. Elle a besoin de toi. 
+LL_Intro	DC15 int-Control? 	DC15 int-Le contrôle ? 
+LL_Intro	DC13 dex-« Pour sortir des ténèbres. » 	DC13 dex-« Sortir de l'obscurité. » 
+LL_Intro	DC14 str-« Pour sauver le monde. » 	DC14 str-« Sauver le monde. » 
+LL_Intro	DC15 int-Pour regner sur le monde. 	DC15 int-« Régner sur le monde. » 
+LL_Intro	« Trouver la chef gobeline ? C'est ça ? » 	« Trouver la cheffe gobeline ? C'est ça ? » 
+LL_Intro	(Garder le silence.) 	(Rester silencieux.) 
+LL_Intro	C'est ce pour quoi tu as été fait. 	C'est pour cela que tu as été fait. 
+LL_Intro	Ce n'est pas bien. J'aime les salons de thé. 	Ce n'est pas bon. J'aime bien les salons de thé. 
+LL_Intro	Tant mieux. Je déteste les salons de thé. On devrait les bannir. 	Tant mieux. Je déteste les salons de thé. On devrait les interdire. 
+LL_Intro	Je n'ai aucune opinion forte sur les salons de thé. En fait, je n'y pense jamais. 	Je n'ai pas d'opinion arrêtée sur les salons de thé. À vrai dire, je n'y pense jamais. 
+LL_Intro	Rien qu'un repaire de criminels. 	Rien qu'un nid de criminels. 
+LL_Intro	Tu pourras méditer davantage sur les salons de thé une autre fois. 	Tu pourras ruminer sur les salons de thé une autre fois. 
+LL_Intro	Une question attend réponse. Ton objectif est... 	Il y a une question à laquelle répondre. Ton objectif, c'est... 
+LL_Intro	Aucune idée. Mais continue à les faire parler. 	Aucune idée. Mais tu devrais le faire parler. 
+LL_Intro	Le silence dure ici depuis bien trop longtemps. 	Le silence dure depuis trop longtemps ici. 
+LL_Intro	Ce gars veut quelque chose. Aucune idée de quoi cependant. 	Ce type veut quelque chose. Aucune idée de quoi, par contre. 
+LL_Intro	Tu devrais sans doute mentir. Dis-lui que tu collectes des impôts ou quelque chose. Ce serait amusant. 	Tu devrais sans doute mentir. Dis-lui que tu collectes les impôts ou un truc du genre. Ce serait amusant. 
+LL_Intro	Ouais. Ça devrait les effrayer. 	Ouais. Ça devrait lui flanquer la trouille. 
+LL_Intro	Continue à chercher une issue... ! 	Continue de chercher une sortie... ! 
+LL_Intro	Ils comptent sur toi. Tiens bon. 	Ils comptent sur toi. Ne craque pas. 
+LL_Intro	Ouais, non. Dévoiler ainsi tes aspirations personnelles pourrait se retourner contre toi. 	Ouais, non. Balancer tes aspirations personnelles comme ça pourrait vraiment te retomber dessus. 
+LL_Intro	Garder le silence fait tomber un silence profond sur les ténèbres. Jusqu'à ce qu'il soit rompu par la question suivante. 	Rester silencieux fait tomber un profond silence sur l'obscurité. Jusqu'à ce qu'il soit brisé par la question suivante. 
+LL_Intro	Pas de réponse. Aucun retour. 	Aucune réponse. Aucun retour. 
+LL_Intro	La question frappe ta conscience entière, la faisant vaciller. 	La question frappe ta conscience tout entière et la fait tournoyer. 
+LL_Intro	C'est un piège. Forcément. 	C'est un coup monté. Forcément. 
+LL_Intro	Si tu te soucies de ton prochain — vote pour les Azgalistes. 	Si tu te soucies de ton prochain - vote pour les Azgalistes. 
+LL_Intro	Pas question. Ces nains veulent tout te prendre. Ce qui n'est pas grand-chose, mais quand même. 	Pas question. Ces nains veulent tout te prendre. Pas grand-chose, certes, mais quand même. 
+LL_Intro	C'est les... Azgalistes. Oui, ils sont corrects. Peut-être. 	Ce sont les... Azgalistes. Oui, ils sont convenables. Probablement. 
+LL_Intro	C'est le devoir des puissants de diriger. C'est toi. Personne d'autre. 	Il est du devoir des puissants de gouverner. C'est toi. Personne d'autre. 
+LL_Intro	Nous avons dépassé les limites des dictateurs. Nous sommes libres de faire nos choix, grâce aux Franc-Marcheurs Révolutionnaires ! 	Nous avons dépassé le règne des dictateurs. Nous sommes libres de nos choix, grâce aux Francs-Marcheurs révolutionnaires ! 
+LL_Intro	<i>Les Franc-Marcheurs</i>, peut-être ? 	<i>Les Francs-Marcheurs</i>, peut-être ? 
+LL_Intro	Cela dit, tu n'es pas un révolutionnaire. Les choses vont bien trop vite de nos jours... 	Cela dit, tu n'es pas révolutionnaire. Les choses vont vraiment trop vite, de nos jours... 
+LL_Intro	« Les Franc-Marcheurs. » 	« Les Francs-Marcheurs. » 
+LL_Intro	DC11 int-« <i>Je</i> devrais être aux commandes, en tant que dieu-roi mage-seigneur. » 	DC11 int-« C'est <i>moi</i> qui devrais commander, en tant que magicien-roi-divin. » 
+LL_Intro	DC17 con-« Les Agrariens. S'ils étaient encore là... » 	DC17 con-« Les Agrariens. S'ils existaient encore... » 
+LL_Intro	« En fait, je suis apolitique. » 	« En vérité, je suis apolitique. » 
+LL_Intro	(Garder le silence.) 	(Rester silencieux.) 
+LL_Intro	Bien. Ensemble nous garderons Norvik en sûreté. Pour Urth et Torna ! 	Bien. Ensemble nous garderons Norvik en sécurité. Pour Urth et Torna ! 
+LL_Intro	La vie est une lutte pour alléger l'oppression. Les exilés le savent bien. 	La vie est une lutte pour soulager l'oppression. Les Exilés le savent bien. 
+LL_Intro	Tu les as soutenus par le passé. Le moment est venu de le refaire. 	Tu les as soutenus par le passé. Il est temps de le faire à nouveau. 
+LL_Intro	La dernière fois que tu les as soutenus, ta vie a pris un tournant drastique. 	La dernière fois que tu les as soutenus, ta vie a pris un tournant radical. 
+LL_Intro	Paix, prospérité et fraternité. Nous allons être RICHES ! 	Paix, prospérité et fraternité. On va devenir RICHES ! 
+LL_Intro	Ça déraille. Autant s'accrocher. 	Ça part en vrille. Autant s'accrocher. 
+LL_Intro	Ne t'en fais pas, cela n'a pas d'importance. Dis simplement ce qui te sera le plus utile. 	Ne t'inquiète pas, ça n'a aucune importance. Dis simplement ce qui te paraît le plus utile. 
+LL_Intro	Ce qui est, euh... 	C'est-à-dire, euh... 
+LL_Intro	Dis simplement que tu es apolitique. 	Dis juste que tu es apolitique. 
+LL_Intro	Et je crois que tu sais exactement ce que c'est... 	Et je crois que tu sais exactement de quoi il s'agit... 
+LL_Intro	Jadis, notre valeur se fondait sur le savoir et l'aptitude. Cela reviendra. 	Autrefois, notre valeur reposait sur le savoir et le talent. Ce temps reviendra. 
+LL_Intro	Toute la TERRE dans nos VEINES jaillira sur le monde. Sans contrainte. Car tes tripes te disent une vérité simple... 	Toute la TERRE dans nos VEINES jaillira sur le monde. Sans entrave. Car tes tripes te disent une vérité toute simple... 
+LL_Intro	Perfection. Personne ne peut t'en vouloir. Et tout le monde t'aimera. 	La perfection. Personne ne pourra t'en vouloir. Et tout le monde t'aimera. 
+LL_Intro	Le silence est d'or. En politique, du moins. 	Le silence est d'or. Du moins, en matière de politique. 
+LL_Intro	La voix s'estompe. C'est la fin. La dernière question. 	La voix s'estompe. C'est la fin. L'ultime question. 
+LL_Intro	De la même manière que tu as vécu. Incapable de quitter l'uniforme. Pas une seconde. 	De la même façon que tu as vécu. Incapable de quitter l'uniforme. Pas une seconde. 
+LL_Intro	(Garder le silence jusqu'à la fin des ténèbres.) 	(Rester silencieux jusqu'à ce que l'obscurité prenne fin.) 
+LL_Intro	DC9 dex-« Je <shake><b>NE SUIS PAS MORT</b></shake>. » 	DC9 dex-« Je ne suis <shake><b>PAS MORT</b></shake>. » 
+LL_Intro	Ton cœur bat fort. Hurlant. 	Tes battements de cœur sont assourdissants. Hurlants. 
+LL_Intro	Ton corps est endolori. Raide, comme si tu avais dormi des jours. 	Ton corps souffre. Il est raide, comme si tu avais dormi pendant des jours. 
+LL_Intro	Ne dors pas dans l'armure, abruti. 	Ne dors pas en armure, espèce d'idiot. 
+LL_Intro	Prêt à reprendre <b>ta glorieuse quête</b>. 	Prêt à reprendre <b>ta quête glorieuse</b>. 
+LL_Intro	M-Attends, c'est quoi cette histoire de quête ? 	Attends, c'est quoi cette histoire de quête ? 
+LL_Intro	Une salle circulaire de pierre. Un entrepôt à pommes et cadavres. 	Une chambre de pierre circulaire. Un entrepôt pour pommes et cadavres. 
+LL_Intro	Une maison des morts. Ton foyer. 	Une demeure des morts. Ton foyer. 
+LL_Intro	Ces tas de pommes... est-ce Tolstad ? 	Ces tas de pommes... on est à Tolstad ? 
+LL_Intro	Tes mains s'agitent sur ta bourse et ton uniforme. 	Tes mains s'agitent autour de ta bourse et de ton uniforme. 
+LL_Intro	Panique. Sueur. 	La panique. La sueur. 
+LL_Intro	Tu prends une grande inspiration. Du calme. 	Tu prends une profonde inspiration. Du calme. 
+LL_Intro	Pas de grimoire, pas de masse... admets-le, tu t'es fait voler. 	Pas de grimoire, pas de masse... regarde la réalité en face, on t'a volé. 
+LL_Intro	Tes jambes tremblent. Des larmes commencent à monter. 	Tes jambes tremblent. Les larmes commencent à monter. 
+LL_Intro	Respire profondément. Tes affaires sont sûrement là quelque part. 	Respire profondément. Tes affaires doivent être quelque part par ici. 
+LL_Intro	Ah oui, une <b>QUÊTE</b> ! 	Oh oui, une <b>QUÊTE</b> ! 
+LL_Intro	Tu es en quête de <b>sauver</b> la <b>cité</b>. 	Tu es en quête pour <b>sauver</b> la <b>ville</b>. 
+LL_Intro	Interagis avec les mots surlignés pour obtenir une entrée du glossaire. 	Interagis avec les mots surlignés pour obtenir une entrée de Glossaire. 
+LL_Intro	<i>Bénie soit Urth</i>. 	<i>Béni soit Urth</i>. 
+LL_Intro	DC9 str-Sauver la cité ? 	DC9 str-Sauver la ville ? 
+LL_Intro	Oui ! Sauve-la des mâchoires de la démocratie. 	Oui ! La sauver des griffes de la démocratie. 
+LL_Intro	Euh. Pas sûr. Tu aurais une sorte d'amnésie ? 	Euh. J'en sais rien. Tu as une espèce d'amnésie ? 
+LL_Intro	Souviens-toi simplement. Tes pensées sont éparses. 	Souviens-toi, c'est tout. Tes pensées sont éparses. 
+LL_Intro	Mais ton esprit va bien. 	Mais ton esprit fonctionne bien. 
+LL_Intro	Ta quête t'a été donnée hier. Souviens-toi. <i>Le salon de thé</i>. 	Ta quête t'a été confiée hier. Souviens-toi. <i>Le salon de thé</i>. 
+LL_Intro	FC10 wis-D'accord. Mais c'est quoi la quête déjà ? 	FC10 wis-D'accord. Mais c'est quoi déjà, la quête ? 
+LL_Intro	Tu as un boulot. Le boulot du salon de thé. 	On t'a confié un boulot. Le boulot du salon de thé. 
+LL_Intro	Oui. Le Salon de Thé qui a Explosé. 	Ouaip. Le Salon de Thé qui a Explosé. 
+LL_Intro	Ce sera coriace. Ça prendra peut-être des jours. 	Ce sera un dur. Ça pourrait prendre des jours. 
+LL_Intro	DC13 con-Rédemption ? Attendez, qu'ai-je fait ? 	DC13 con-Rédemption ? Attends, qu'est-ce que j'ai fait ? 
+LL_Intro	Juste un boulot ? Ah. Je l'ai donc déjà fait. 	Juste un boulot ? Ah. J'ai donc déjà fait ça. 
+LL_Intro	Une quête ? J'aime ça. 	Une quête ? J'aime bien ça. 
+LL_Intro	Attends, combien de temps me reste-t-il ? 	Attends, combien de temps j'ai ? 
+LL_Intro	M-Donc, pour être clair, je dois découvrir qui a fait sauter un quelconque salon de thé ? 	Donc, pour être clair, je dois découvrir qui a fait sauter un salon de thé au hasard ? 
+LL_Intro	Les mots vivent au cœur de ta moelle. 	Ces mots vivent dans la moelle de tes os. 
+LL_Intro	Enfin. Peut-être pas <i>ce type particulier</i> de boulot. 	Bon. Peut-être pas <i>ce type particulier</i> de boulot. 
+LL_Intro	Tu... n'as pas <i>vraiment</i>. 	Tu... n'as pas <i>vraiment</i> fait ça. 
+LL_Intro	Ton expérience passée se limite à un service de base dans la milice de la Garde-d'Urth, ainsi qu'à quelques années aux Tours. 	Ton expérience antérieure se limite à un service de base dans la milice de la Garde-d'Urth, ainsi qu'à quelques années aux Tours. 
+LL_Intro	La sorcellerie rebelle n'était pas ta matière principale. Mais oui. Tu as beaucoup lu sur ce genre d'événements enflammés. 	La sorcellerie clandestine n'était pas ta matière principale. Mais oui. Tu as beaucoup lu sur ce genre d'événements incendiaires. 
+LL_Intro	Ils ne sont pas si courants ces temps-ci. Toutefois, cet incident ne semble pas trop complexe. 	Ils ne sont pas si courants de nos jours. Toutefois, cet incident ne semble pas excessivement complexe. 
+LL_Intro	Bonne attitude. Il y en a toujours d'autres au coin, ouvre l'œil. Tu n'en raterais pas un seul. 	Bonne attitude. Il y en a toujours d'autres au coin de la rue, alors sois vigilant. Tu ne voudrais pas en manquer une. 
+LL_Intro	Ils sont dangereux. Tu pourrais ne pas t'en sortir. 	Elles sont dangereuses. Tu pourrais ne pas t'en sortir. 
+LL_Intro	Jusqu'à l'élection, évidemment. 	Jusqu'à l'élection, voyons. 
+LL_Intro	Soit dans <b>cinq jours</b>. 	C'est-à-dire dans <b>cinq jours</b>. 
+LL_Intro	Soit dans <b>six jours</b>. 	C'est-à-dire dans <b>six jours</b>. 
+LL_Intro	Non, ce n'est pas ça. Bon sang. C'est dans CINQ jours. 	Non, pas du tout. C'est quoi ce délire. C'est dans CINQ jours. 
+LL_Intro	Cela dépend de tes définitions. 	Ça dépend de tes définitions. 
+LL_Intro	<i>LE TEMPS</i> ? 	Du <i>TEMPS</i> ? 
+LL_Intro	Le Patriarche a été très clair : régler le salon de thé avant le jour de l'élection. 	Le Patriarche a été très clair : règle l'affaire du salon de thé avant le jour de l'élection. 
+LL_Intro	Tu dois honorer cette requête — et accomplir cette QUÊTE. 	Tu dois honorer cette demande - et accomplir cette QUÊTE. 
+LL_Intro	Mais tu as genre cinq jours pour le faire. Pas de stress. 	Mais t'as genre cinq jours pour le faire. Donc pas de stress. 
+LL_Intro	Il y a aussi de la politique de merde là-dedans. Tu vas adorer. 	Il y a aussi des conneries politiques là-dedans. Tu vas adorer. 
+LL_Intro	C'est toi qu'ils ont envoyé. Mets-toi au boulot, <b>héros</b>. 	C'est toi qu'ils ont envoyé. Tu ferais mieux de te mettre au travail, <b>héros</b>. 
+LL_Intro	Cette sensation revient. 	Cette sensation, encore une fois. 
+LL_Intro	Cette sensation d'entrer sur une voie sans retour. 	La sensation que tu es sur le point d'emprunter un chemin sans retour. 
+LL_Intro	DC14 wis-Pas de retour possible ? Ça n'augure rien de bon. 	DC14 wis-Sans retour ? Ça ne présage rien de bon. 
+LL_Intro	Puis-je y réfléchir d'abord ? 	Je peux y réfléchir d'abord ? 
+LL_Intro	Oui. Terminons ce boulot. 	Oui. Allons finir ce boulot. 
+LL_Intro	Bien ou mal. Tu ne le sauras qu'arrivé au bout. 	Bon ou mauvais. Tu ne le sauras qu'arrivé au bout. 
+LL_Intro	C'est de très mauvais augure. Je- 	C'est très inquiétant. Je- 
+LL_Intro	Je peux pas juste ne pas aller sur la- 	Je peux pas juste ne pas partir sur- 
+LL_Intro	<b>Oui.</b> Il est temps de tout livrer à cette merveilleuse cité. 	<b>Oui.</b> Il est temps de tout offrir à cette merveilleuse cité. 
+LL_Intro	Tout ? Je ne crois pas- 	Tout ? Je crois pas- 
+LL_Intro	En quoi cela fait de moi un- 	En quoi ça fait de moi un- 
+LL_Intro	Bien dit ! Tu vas gérer. Maintenant en route. 	Bien dit ! Tu vas assurer. Maintenant, en route. 
+LL_Intro	D'accord. Mais d'abord je- 	D'accord. Mais d'abord, je- 
+LL_Intro	Tu te sens étourdi. 	Tu as la tête qui tourne. 
+LL_Intro	Le poids de l'uniforme de la Garde-d'Urth. Une douleur sourde s'installe. 	Le poids de l'uniforme de la Garde-d'Urth. Une douleur sourde s'empare de toi. 
+LL_Intro	Ton corps souffre. Son contenu pourrit. 	Ton corps souffre. Ses entrailles pourrissent. 
+LL_Intro	Tu dois manger une pomme. MAINTENANT. 	Tu dois consommer une pomme. TOUT DE SUITE. 
+LL_Intro	<i>DES CADAVRES ?</i> Quel diable d'endroit est-ce ? 	<i>DES CADAVRES ?</i> C'est quoi cet endroit, par tous les enfers ? 
+LL_Intro	Ton esprit trace un sentier d'une croix à l'autre. Tu ignores pourquoi tu te tiens parmi ces pommes. Mais tu sais <i>tout le reste</i> qui est allé de travers dans ta vie. 	Ton esprit trace un sentier d'une croix à une autre. Tu ignores pourquoi tu te tiens parmi ces pommes. Mais tu sais <i>tout le reste</i> qui a mal tourné dans ta vie. 
+LL_Intro	Tu dois sortir de cette tranchée. Avec bonté et un amour toujours plus éclatant pour le <i>peuple</i>. 	Tu dois sortir de cette tranchée. Avec bonté et un amour toujours plus brillant pour les <i>gens</i>. 
+LL_Intro	Ton crâne est brisé — son contenu <i>intact</i>. 	Ton crâne est brisé - son contenu <i>intact</i>. 
+LL_Intro	Reviens du bord du gouffre. Trouve le réconfort sur la voie et sauve le paladin de sa folie. La chair t'en remerciera. 	Reviens du bord de l'abîme. Trouve le réconfort sur le chemin et sauve le paladin de sa folie. La chair t'en remerciera. 
+LL_Intro	Ne te soucie pas de la douleur. Ne te soucie pas de la faim. 	Ne te soucie ni de la douleur. Ni de la faim. 
+LL_Intro	Achève cette tâche avec précision et résolution, regagne ta position aux Tours, puis retourne à ta vraie mission. 	Accomplis cette tâche avec précision et résolution, retrouve ta position aux Tours, puis reviens à ta véritable mission. 
+LL_Intro	Tu dois vraiment trouver un autre boulot. Sérieusement. 	Tu dois vraiment te trouver un autre boulot. Sérieusement. 
+LL_Intro	Une fois que nous aurons rejoint les Cités Libres, tu devrais songer à tirer parti de tes talents — deviens indépendant ! Ou l'un de ces <i>agents corporatifs</i> bien payés ! Tu as déjà tâté de la propagande, ça n'a pas marché, alors... 	Une fois qu'on aura rejoint les Cités Libres, tu devrais penser à tirer parti de tes compétences - deviens free-lance ! Ou un de ces <i>agents corporatistes</i> bien payés ! Tu t'es déjà essayé à la propagande, et ça n'a pas marché, donc... 
+LL_Intro	Vas-y mollo. Tu as peut-être échoué à te faire aimer des deux ou trois cents premières personnes. Mais il te reste un demi-million d'autres âmes à berner dans cette cité ! 	Vas-y mollo. Tu as peut-être échoué à te faire aimer des deux ou trois premières centaines de personnes. Mais il te reste un demi-million d'autres âmes à embobiner dans cette cité ! 
+LL_Intro	C'est avec une absolue certitude que <i>tu sais</i> : un jour, quelqu'un finira par t'aimer. 	C'est avec la plus parfaite confiance que <i>tu sais</i> : à terme, quelqu'un finira bien par t'aimer. 
+LL_Intro	Si tes stats sont assez hautes ou basses, des <b>Tintements</b> apparaîtront dans ton esprit. 	Si tes caractéristiques sont assez hautes ou assez basses, des <b>Carillons</b> apparaîtront dans ton esprit. 
+LL_Intro	Ils suggéreront, informeront, et offriront des voies uniques. Fais-leur confiance à tes risques et périls. 	Ils suggéreront, informeront et offriront des voies uniques. Fais-leur confiance à tes risques et périls. 
+LL_Intro	DC17 int-« <i>Prendre le pouvoir</i> ? » 	DC17 int-« <i>Saisir le pouvoir</i> ? » 
+LL_Intro	« Je suis vraiment confus. » 	« Je suis terriblement perdu. » 
+LL_Intro	« Mmh-mmh. » (Se masser les tempes.) 	« Mouais. » (Te masser les tempes.) 
+LL_Intro	E-D'accord. Merci, voix dans ma tête.  	D'accord. Merci, voix dans ma tête. 
+LL_Intro	Ouais... ce n'était pas une grande idée de suivre les traces de ta mère. 	Ouais... c'était pas une bonne idée de suivre les traces de ta mère. 
+LL_Intro	Ce sera une longue route, que tu emprunteras inévitablement. Pour surpasser les Arcanistes d'antan et devenir Roi-Dieu-Mage. 	Ce sera un long chemin, que tu finiras inévitablement par emprunter. Pour surpasser les Arcanistes d'autrefois et devenir Magicien-Roi-Divin. 
+LL_Intro	Une monnaie de pacotille en temps troubles. Mais tu es prêt à les sacrifier tous — comme Urth l'enseigne. 	Une monnaie bon marché en temps de trouble. Mais tu es prêt à les sacrifier tous - exactement comme l'enseigne Urth. 
+LL_Intro	C'est beaucoup. Ne te laisse pas briser l'esprit. 	C'est beaucoup. Ne laisse pas cela briser ton esprit. 
+LL_Intro	Un monde de rédemption attend à la fin. Tu n'as qu'à conserver exactement ce qui fait de toi quelqu'un de vraiment, et inimaginablement, <i>bon</i>. 	Un monde de rédemption t'attend au bout. Tout ce que tu as à faire, c'est de garder précisément ce qui fait de toi quelqu'un de vraiment, et inimaginablement, <i>bon</i>. 
+LL_Intro	Ton <i>estomac</i> appelle le vide. 	Ton <i>estomac</i> aspire au néant. 
+LL_Intro	<i>Ne prends pas l'Épée Langue de Feu</i>. 	<i>Ne prends pas la Langue de Flammes</i>. 
+LL_Intro	Bon. 	Eh bien. 
+LL_Intro	Visons « tenir debout » pour le moment. 	Visons « tenir bon » pour le moment. 
+LL_Intro	Ton esprit est d'une puissance impie. 	Ton esprit est d'une puissance divine. 
+LL_Intro	Va simplement au boulot. Tu sais... fais le job. 	Va juste bosser. Tu sais... faire ce qu'il y a à faire. 
+LL_Intro	Une étape à la fois. 	Un pas à la fois. 
+LL_Intro	E-En route. 	On se met en route. 
+LL_Intro	Ce faisant, tes doigts touchent un acier froid. Il couvre toute ta tête. 	Ce faisant, tes doigts rencontrent de l'acier froid. Il recouvre la totalité de ta tête. 
+LL_Intro	Familièrement appelé un « casque ». 	Couramment appelé « heaume ». 
+LL_Intro	Puis-je l'enlever ? 	**Je peux l'enlever ? 
+LL_Intro	E-D'accord. Merci. 	D'accord. Merci. 
+LL_Intro	Hâte de voir ça quand tu le feras. 	Hâte que tu le fasses. 
+LL_Cloak	Le manteau est étalé sur la dalle de fer. Dès que tu le saisis, tu sens l'humidité gagner tes gants. 	La cape est étalée sur la dalle de fer. Dès que tu la saisis, tu sens immédiatement l'humidité se répandre dans tes gants. 
+LL_Cloak	Il est bleu clair et en lambeaux. 	Elle est bleu pâle et en lambeaux. 
+LL_Cloak	Et il fut autrefois le tien. 	Et elle t'a appartenu, autrefois. 
+LL_Cloak	Un complément de manteau de Garde-d'Urth. 	Un accessoire de cape de la Garde-d'Urth. 
+LL_Cloak	Il a été déchiré en lambeaux à la base, mais tu pourrais encore le porter. 	La base a été déchirée en lambeaux, mais tu pourrais encore t'en servir. 
+LL_Cloak	Je t'en prie, non. Ce truc est dégoûtant. 	Pitié, non. Ce truc est dégoûtant. 
+LL_Cloak	Style intéressant ! Tu pourrais le porter avec panache. 	Style intéressant ! Tu pourrais le porter. 
+LL_Cloak	(Essorer l'eau.) 	(En essorer l'eau.) 
+LL_Cloak	M-Devrais-je... devrais-je porter ça ? 	Est-ce que je... est-ce que je devrais porter ça ? 
+LL_Cloak	« C'est un bout de... pourquoi serait-ce <i>impoli</i> ? » 	« C'est un morceau de chiffon... pourquoi ce serait <i>impoli</i> ? » 
+LL_Cloak	« C'est mon bout de merde en lambeaux. » 	« C'est mon morceau de chiffon à moi. » 
+LL_Cloak	« Je vais ignorer ce commentaire pour l'instant. » 	« Je vais ignorer cette remarque pour l'instant. » 
+LL_Cloak	« Tu as peut-être raison. C'est peut-être un peu 'beurk'. » 	« Tu as peut-être raison. C'est peut-être un peu « beurk ». » 
+LL_Cloak	« Fais donc. » 	« Comme tu voudras. » 
+LL_Cloak	« <i>Possiblement</i>. » 	« <i>Peut-être</i>. » 
+LL_Cloak	Il est lourd. 	Elle est lourde. 
+LL_Cloak	Le liquide immonde tombe sur le sol de la salle de pierre. 	Le liquide immonde tombe sur le sol de la chambre de pierre. 
+LL_Cloak	Cela sent l'eau salée. 	Ça sent l'eau salée. 
+LL_Cloak	Prends garde. Quelqu'un a dû mélanger ici de l'eau et du sel. 	Méfie-toi. Quelqu'un a dû mélanger de l'eau et du sel ici. 
+LL_Cloak	Une infâme concoction alchimique. 	Une vile concoction alchimique. 
+LL_Cloak	Il est encore bien humide. 	Elle est encore bien mouillée. 
+LL_Cloak	No? 	Non ? 
+LL_Cloak	Tu <i>pourrais</i> le porter avec panache. 	Tu <i>pourrais</i> assumer ce look. 
+LL_Cloak	Bien sûr que tu devrais le porter ! 	Bien sûr que tu devrais la porter ! 
+LL_Cloak	Un capuchon est l'outil parfait pour tout roublard ou vaurien qui se respecte. 	Une capuche est l'outil parfait de tout roublard digne de ce nom, voire de tout vaurien. 
+LL_Cloak	Et alors s'il est un peu humide — il faut le porter ! 	Et alors, si elle est un peu humide - tu dois la porter ! 
+LL_Cloak	J'y réfléchirai. 	Je vais y réfléchir. 
+LL_Cloak	Enfin, je suis roublard, donc... ouais. Portons-le ! 	Enfin, je suis un roublard, donc... ouais. Mettons-la ! 
+LL_Cloak	Mais je ne suis pas roublard ? 	Mais je ne suis pas un roublard ? 
+LL_Cloak	Désolé. Les mots « je ne suis pas roublard » ne figurent pas dans ton vocabulaire, en fait. 	Désolé. L'expression « je ne suis pas un roublard » n'existe pas dans ton vocabulaire, en fait. 
+LL_Cloak	Veuillez reformuler. 	Merci de reformuler. 
+LL_Cloak	Cela ne fait pas <i>un</i> mot, pourtant. 	Ce n'est pas <i>une</i> expression, ça. 
+LL_Cloak	Oh. Bon, j'imagine que je suis roublard alors. 	Oh. Bon, alors je suppose que je suis un roublard. 
+LL_Cloak	Tu ne me dis pas quoi faire. 	Tu n'as pas à me dire quoi faire. 
+LL_Cloak	Si pédant. 	Quel pédant. 
+LL_Cloak	Hum. Ça ne sonne pas comme ce que dirait un bon roublard. 	Hm. Ce n'est pas le genre de chose que dirait un bon roublard. 
+LL_Cloak	Tu vois, c'est ce qu'un bon roublard dirait ! 	Tu vois, c'est ce que dirait un bon roublard ! 
+LL_Cloak	Tu tends la main vers ta belle <b>Bourse Sans-fond</b> rouge. 	Tu tends la main vers ta belle <b>Bourse sans Fond</b> rouge. 
+LL_Cloak	Le manteau glisse aisément à l'intérieur, dans l'espace extra-dimensionnel. Avec un <i>slurp</i> satisfaisant. 	La cape s'y glisse facilement, dans l'espace extra-dimensionnel. Avec un <i>slurp</i> des plus satisfaisants. 
+LL_Cloak	J'aime vraiment ma Bourse Sans-fond. 	J'adore vraiment ma Bourse sans Fond. 
+LL_Cloak	Bon sang, je peux mettre tellement d'objets là-dedans. 	Par tous les dieux, je peux ranger tellement d'objets là-dedans. 
+LL_Cloak	Oui, tu as bien de la chance. 	Oui, tu as beaucoup de chance. 
+LL_Cloak	Ça vaut, genre, un million d'écus au marché. 	Ce truc vaut genre un million de couronnes sur le marché. 
+LL_Cloak	Ce genre d'objet magique peut grimper jusqu'à dix mille écus. 	Ce genre d'objet magique peut grimper jusqu'à dix mille couronnes. 
+LL_Cloak	Bien sûr, tu ne <i>possèdes</i> pas vraiment cette Bourse Sans-fond. 	Bien sûr, tu ne <i>possèdes</i> pas vraiment cette Bourse sans Fond. 
+LL_Cloak	Elle est propriété de l'État. Traite-la comme telle. 	Elle est propriété de l'État. Traite-la en conséquence. 
+LL_Cloak	Elle n'est pas à toi, cela dit. Elle est à la cité. 	Mais elle n'est pas à toi. Elle est à la ville. 
+LL_Cloak	Tu ne peux pas l'utiliser pour n'importe quoi... 	Tu ne peux pas l'utiliser n'importe comment... 
+LL_Cloak	Tais-toi. It's yours. You can do whatever you want with it! 	La ferme. Elle est à toi. Tu en fais ce que tu veux ! 
+LL_Cloak	Maintenant va enfiler votre manteau, et <s>détrousser quelques gens</s> <i>redistribuer</i> quelques ressources ! 	Maintenant, va mettre ta cape, et va <s>plumer quelques pigeons</s> <i>redistribuer</i> quelques ressources ! 
+LL_Cloak	Équiper des objets altère temporairement tes Caractéristiques. 	S'équiper d'objets modifie temporairement tes valeurs de caractéristique. 
+LL_Cloak	E-Bien. 	D'accord. 
+LL_Sand	Tu t'approches d'une caisse pleine de sable. 	Tu t'approches d'une caisse remplie de sable. 
+LL_Sand	Ils ont importé... du sable ? À Norvik ? 	On a importé... du sable ? À Norvik ? 
+LL_Sand	Pour quoi, le soufflage de verre ? 	Pour quoi, du soufflage de verre ? 
+LL_Sand	E-Je devrais partir. 	Je devrais y aller. 
+LL_Sand	Tu remarques un petit marquage à l'arrière avec les lettres « HBWT ». 	Tu remarques une petite inscription au dos, avec les lettres « HBWT ». 
+LL_Sand	Elle paraît non marquée. 	Elle ne semble pas marquée. 
+LL_Sand	Le couvercle a été jeté derrière. 	Le couvercle a été jeté derrière elle. 
+LL_Sand	En regardant de plus près, tu vois que le couvercle a été massacré. Il y a des éclats, et les clous censés tenir la caisse fermée ont été arrachés. 	En regardant de plus près, tu vois que le couvercle a été défoncé. Il y a des éclats de bois, et les clous qui devaient maintenir la caisse fermée ont été arrachés. 
+LL_Sand	Tandis que tu regardes autour, quelque chose... bouge. 	Alors que tu regardes autour de toi, quelque chose... bouge. 
+LL_Sand	FAIM. 	LA FAIM. 
+LL_Sand	Pourquoi ouvriraient-ils la caisse de la sorte ? 	Pourquoi forcer la caisse comme ça ? 
+LL_Sand	C'est du sable maudit de LA GUEULE. Aussi connu sous le nom de <i>Sable Moustique</i>. De Hae'Xi. 	C'est du sable maudit de LA GUEULE. Aussi connu sous le nom de <i>Sable Moustique</i>. Originaire de Hae'Xi. 
+LL_Sand	Quoi que tu fasses, <b>N'Y TOUCHE PAS</b>. 	Quoi que tu fasses, <b>NE LE TOUCHE PAS</b>. 
+LL_Sand	« Vous êtes paranoïaque, Meek. Détendez-vous. Ce n'est qu'une boîte de sable. » 	« Tu es paranoïaque, Meek. Détends-toi. Ce n'est qu'une caisse de sable. » 
+LL_Sand	« Hum. Bon, peut-être devrais-je être un peu prudent alors. » 	« Hm. Bon, je devrais peut-être faire un peu attention, alors. » 
+LL_Sand	« Si maître dire ça... » 	« Si maître dire... » 
+LL_Sand	« Oui, maître doit PRENDRE GARDE... » 	« Oui, maître DOIT se méfier... » 
+LL_Sand	« Voyons voir, c'est un... » 	« Voyons voir, c'est une... » 
+LL_Sand	Ses yeux s'ouvrent grand. Très, très grand. 	Ses yeux s'écarquillent. Énormément, énormément. 
+LL_Sand	Il t'éloigne de la caisse. 	Il t'écarte de la caisse. 
+LL_Sand	« Tu as peur d'un peu de sable ? » 	« T'as peur d'un peu de sable ? » 
+LL_Sand	« Oh. À ce point, hein ? » 	« Oh. C'est si grave que ça ? » 
+LL_Sand	« J'essaie de te garder en vie, crétin ! » 	« J'essaie de te garder en vie, abruti ! » 
+LL_Sand	(Prouver à quel point tu es un homme en touchant le sable malgré tout.) 	(Prouver à quel point tu es un homme en touchant le sable quand même.) 
+LL_Sand	« À ce point, hein ? » 	« Si grave que ça, hein ? » 
+LL_Sand	« Ouaip. Touche pas à cette merde. » 	« Ouaip. Touche pas à ce truc. » 
+LL_Sand	« Ouaip. Touche pas à cette merde. » 	« Ouaip. Touche pas à ce truc. » 
+LL_Sand	Vous étant éloignés de quelques pas de la caisse, il prend une inspiration. 	Lorsque vous êtes tous deux à quelques pas de la caisse, il reprend son souffle. 
+LL_Sand	Sans plus d'explications, le gobelin se faufile derrière la caisse et saisit le couvercle. 	Sans plus d'explications, le gobelin se faufile derrière la caisse et attrape le couvercle. 
+LL_Sand	Bougeant avec plus de prudence que tu ne l'as jamais vu, il replace doucement le couvercle sur la caisse. 	Avec une prudence que tu ne lui as jamais vue, il replace doucement le couvercle sur la caisse. 
+LL_Sand	« Un truc a dû l'effrayer, pour qu'il pousse le couvercle comme ça. » 	« Quelque chose a dû le surprendre, pour qu'il ait poussé le couvercle comme ça. » 
+LL_Sand	Il essuie la sueur de son front. 	Il essuie quelques gouttes de sueur sur son front. 
+LL_Sand	« Tu veux pas d'aide pour ça ? » 	« Tu ne veux pas un coup de main ? » 
+LL_Sand	« ...Qu'est-ce qu'il m'aurait fait si... ? » 	« ...Qu'est-ce que ça m'aurait fait si... ? » 
+LL_Sand	« Non. Non, j'en veux pas. » 	« Non. Non, ça va. » 
+LL_Sand	« D'après ce que je comprends, il t'aurait étouffé, vidé de ton sang, et lentement réduit en bouillie dans cette caisse. » 	« D'après ce que je sais, ça t'aurait étouffé, vidé de ton sang, et progressivement réduit en bouillie à l'intérieur de cette caisse. » 
+LL_Sand	Ça sonne comme un bon week-end. 	Voilà un beau programme de week-end. 
+LL_Sand	« De rien. » 	« Je vous en prie. » 
+LL_Sand	« Maintenant on laisse ce putain de truc tranquille. » 	« Maintenant, on va le laisser tranquille, putain. » 
+LL_Sand	E-« D'accord. » 	« D'accord. » 
+LL_Sand	Le sable s'agite légèrement à ton contact. 	Le sable bouge légèrement à ton contact. 
+LL_Sand	RETIRE. TA. MAIN. 	RETIRE. TA MAIN. 
+LL_Sand	R-(Aller plus profond.) 	(Aller plus profond.) 
+LL_Sand	(Retirer la main.) 	(Retirer ta main.) 
+LL_Sand	Tu plonges la main entière, les doigts en premier. 	Tu plonges la main entière, doigts en avant. 
+LL_Sand	Pas celle-ci. 	Pas celui-ci. 
+LL_Sand	Puis tu sens une traction. 	Puis tu sens qu'on tire. 
+LL_Sand	Une prise. 	Une emprise. 
+LL_Sand	Et enfin, une succion. 	Et enfin, une traction. 
+LL_Sand	Tandis que tu tentes de lever ta main, tu remarques quelque chose. 	Alors que tu essaies de lever la main, tu remarques quelque chose. 
+LL_Sand	Le sable l'a apparemment recouverte. 	Le sable semble l'avoir recouverte. 
+LL_Sand	T'attirant vers le bas. 	En t'attirant vers le bas. 
+LL_Sand	« Attends, je — » 	« Attends, je- » 
+LL_Sand	(Lutter.) 	(Te débattre.) 
+LL_Sand	Tu parviens à l'empêcher d'engloutir l'essentiel de ton bras. Mais ce faisant, le sable s'agrippe à l'avant de ton heaume. 	Tu réussis à l'empêcher d'engloutir la majeure partie de ton bras. Mais dans la manœuvre, le sable s'agrippe à l'avant de ton heaume. 
+LL_Sand	Ton visage s'enfonce désormais. 	Ton visage est désormais en train de s'enfoncer. 
+LL_Sand	Un grognement crépitant emplit tes oreilles. 	Un grognement sifflant emplit tes oreilles. 
+LL_Sand	Le son du sable, tu supposes. 	Le bruit du sable, supposes-tu. 
+LL_Sand	(Tenter de crier.) 	(Essayer de crier.) 
+LL_Sand	(Lutter contre.) 	(Lutter.) 
+LL_Sand	Te draine-t-il... ? 	Il est en train... de te vider ? 
+LL_Sand	Hors de ta PEAU, oui. 	De ta PEAU, oui. 
+LL_Sand	Bon sang, sors de ce truc ! 	Par les dieux, sors de ce truc ! 
+LL_Sand	NE le laisse PAS prendre le HEAUME. 	Ne le laisse SURTOUT PAS prendre le HEAUME. 
+LL_Sand	ROLL6 str-Échapper, SANS perdre ton heaume. 	T'échapper, SANS perdre ton heaume. 
+LL_Sand	Le sable essaie de TE DÉVORER ! 	Le sable essaie de te DÉVORER ! 
+LL_Sand	Échappe-toi ! C'était une erreur ! 	Éloigne-toi ! C'était une erreur ! 
+LL_Sand	Le gobelin a déjà commencé à tirer sur tes jambes. 	Le gobelin a déjà commencé à te tirer par les jambes. 
+LL_Sand	Mais à mesure que tu déploies tes bras gorgés d'adrénaline, tu sens l'énergie quitter tes veines. 	Mais alors que tu mets toute la force de tes bras gorgés d'adrénaline, tu sens l'énergie qu'on aspire de tes veines. 
+LL_Sand	Tu te fais ASPIRER. 	On t'ASPIRE. 
+LL_Sand	C'est du <i>sable-vampire ?!</i> 	C'est du <i>sable vampire ?!</i> 
+LL_Sand	Tandis que tu persistes, tu réalises... 	Alors que tu continues à pousser, tu réalises... 
+LL_Sand	Il te faudrait laisser le HEAUME. 	Il faudrait abandonner le HEAUME. 
+LL_Sand	« <b>Saperlipopette</b> ! » (Tenter de garder ton heaume.) 	« <b>Bon sang</b> ! » (Essayer de garder ton heaume sur la tête.) 
+LL_Sand	Tes muscles se changent en bouillie tandis que tu cesses de lutter. 	Tes muscles se ramollissent quand tu cesses de te débattre. 
+LL_Sand	Oui. Il le faut. 	Oui. Tu en as une. 
+LL_Sand	Tu sais distinctement que ton cerveau pourrait se répandre si tu l'enlevais. 	Tu as la certitude distincte que ton cerveau pourrait se répandre si tu l'enlevais. 
+LL_Sand	« Allez, salaud ! » 	« Allez, espèce de salaud ! » 
+LL_Sand	Le bruit confus d'une tête désormais privée de tout ce sang hurle à tes oreilles. 	Le bruit brumeux d'une tête désormais privée de tout ce sang hurle dans tes oreilles. 
+LL_Sand	Empli de feux purs d'adrénaline, tes muscles craquent et tes os crissent. 	Embrasés par le feu pur de l'adrénaline, tes muscles grincent et tes os craquent. 
+LL_Sand	Et cela paie. En quelques secondes, l'étreinte d'acier du sable se desserre. 	Et ça paie. En quelques secondes, l'emprise dure comme la pierre du sable se relâche. 
+LL_Sand	Puis elle lâche entièrement. 	Puis elle lâche complètement. 
+LL_Sand	Tu rejettes la tête en arrière, emplissant tes poumons d'air, tandis qu'une traînée de sable te suit. 	Tu rejettes la tête en arrière, remplissant tes poumons d'air, tandis qu'une traînée de sable te suit. 
+LL_Sand	« Gah ! » 	« Guh ! » 
+LL_Sand	En un instant, le sable retourne d'un coup dans la caisse, sans qu'un seul grain ne tombe au sol. 	En un instant, le sable se rétracte d'un coup dans la caisse, sans qu'un seul grain ne tombe au sol. 
+LL_Sand	Tu recules en chancelant. 	Tu recules en titubant. 
+LL_Sand	En jetant un œil à la caisse, tu vois que son contenu repose désormais immobile. Comme s'il ne s'était rien passé. 	En jetant un œil vers la caisse, tu vois que son contenu est désormais immobile. Comme si rien ne s'était passé. 
+LL_Sand	Tu devrais remettre le couvercle. Pour t'assurer que cela n'arrive à personne d'autre. 	Tu devrais remettre le couvercle. Pour t'assurer que ça n'arrive pas à quelqu'un d'autre. 
+LL_Sand	(Secouer la tête pour chasser le sable de tes oreilles.) 	*(Secouer la tête pour faire tomber le sable de tes oreilles.) 
+LL_Sand	Tu fais un pas très, très prudent vers la caisse pour saisir le couvercle. 	Tu fais un pas très, très prudent vers la caisse pour attraper le couvercle. 
+LL_Sand	Puis tu le poses doucement dessus. 	Puis tu le poses délicatement par-dessus. 
+LL_Sand	E-J'ai rendu un grand service à la communauté. 	J'ai rendu un grand service à la communauté. 
+LL_Zombie	Il te mord puis t'ignore ? Quel manque d'éducation. 	Il te mord et ensuite il t'ignore tout simplement ? Quelle impolitesse. 
+LL_Zombie	« Salutations, citoyenne. » 	\"Salutations, citoyenne.\" 
+LL_Zombie	(Se contenter de le fixer.) 	(Simplement le fixer.) 
+LL_Zombie	Un macchabée ? Sapristi. 	C'est un mort ? Mince. 
+LL_Zombie	Tâche de ne pas te faire mordre. 	Essaie de ne pas te faire mordre. 
+LL_Zombie	Le gobelin se tient à distance raisonnable. 	Le gobelin reste à une distance saine. 
+LL_Zombie	Oui. En effet. 	Oui. C'est le cas. 
+LL_Zombie	Réponds maintenant à l'appel du <b>devoir</b>. 	Maintenant réponds à l'appel du <b>devoir</b>. 
+LL_Zombie	Il t'incombe d'en finir. 	Tu es tenu de t'en occuper. 
+LL_Zombie	Il ne daigne même pas se retourner vers toi. 	Il ne se tourne même pas pour te regarder. 
+LL_Zombie	« Tu tentes quelque chose, petit malin ? » 	« Vous essayez quelque chose, monsieur le malin ? » 
+LL_Zombie	« Je ne vais rien dire, Clerc. » 	« Je vais rien dire, Clerc. » 
+LL_Zombie	Mais il en est <i>bien</i> un. 	Mais <i>il dit</i>. 
+LL_Zombie	Le gobelin pense à deux mots. 	Le gobelin pense deux mots. 
+LL_Zombie	<i>NE. PAS.</i> 	<i>NE. LE. FAIS PAS.</i> 
+LL_Zombie	Ses yeux sombres et vitreux fixent droit devant... le vide. 	Ses yeux sombres et vitreux fixent juste devant... le néant. 
+LL_Zombie	Sans doute un zombie ouvrier. Bien qu'il soit illégal d'employer des morts-vivants depuis la Purge des Os de '11. 	Sans doute un zombie-ouvrier. Bien qu'il soit illégal d'employer des morts-vivants depuis la Purge des Os de '11. 
+LL_Zombie	R-(Attaquer le zombie.) 	(Attaquer le zombie.) 
+LL_Zombie	E-T'en aller. 	T'en aller. 
+LL_Zombie	« Non, Clerc. Ils ne le sont pas. » 	« Non, Clerc. Ils le sont pas. » 
+LL_Zombie	« Donc je devrais... » 	« Alors je devrais... » 
+LL_Zombie	« Donc le moment est venu de... » 	« Alors il est temps de... » 
+LL_Zombie	« Mais vu à quel point ce bonhomme est calme et aimable, je suggère de le laisser tranquille. » 	« Mais vu à quel point ce type est calme et adorable, je te suggérerais de le laisser tranquille. » 
+LL_Zombie	« Demande-lui plutôt son statut politique. Je suis sûr que ça marchera. » 	« Peut-être qu'il faudrait plutôt demander son statut politique. Je suis sûr que ça marchera. » 
+LL_Zombie	Ce serait ridicule. Il n'est manifestement pas en état de voter. 	Ce serait ridicule. Il est clairement pas en état de voter. 
+LL_Zombie	On dirait qu'il s'affaire avec les pommes. Ou quelque chose. 	Il a l'air de s'agiter au sujet des pommes. Ou quelque chose comme ça. 
+LL_Zombie	Bon travailleur. Respect ! 	Travailleur acharné. Respect ! 
+LL_Zombie	Il continue simplement à travailler. Lentement. 	Il continue juste à travailler. Lentement. 
+LL_Zombie	Elle est, en effet, à toi. Garde-la précieusement. 	Elle est, en effet, à toi. Garde-la en sécurité. 
+LL_Zombie	« Tu es très impoli, le savais-tu ? » 	« Vous êtes très impoli, le saviez-vous ? » 
+LL_Zombie	« Je pense voter pour les Nationalistes. Ils ont un bon plan pour l'avenir de la cité. » 	« Je pense voter pour les Nationalistes. Ils ont un bon plan pour l'avenir de la ville. » 
+LL_Zombie	« La révolution Franc-Marcheuse sera bonne pour cette cité, je pense. Pas vous ? » 	« La révolution Libre-Marcheuse sera bonne pour cette ville, je crois. Pas vous ? » 
+LL_Zombie	« Il nous faut établir un gouvernement Azgaliste. C'est la seule voie pour que nous, paysans ordinaires, ne retombions pas dans l'oppression du féodalisme — ou pire, la <i>magocratie</i>. » 	« Nous devons établir un gouvernement Azgaliste. C'est le seul moyen pour nous, paysans moyens, de ne pas retomber dans l'oppression du féodalisme — ou pire, dans la <i>magocratie</i>. » 
+LL_Zombie	DC11 int-« Tout ce qui entoure ce prétendu 'processus démo-cratique' est folie. Tout le monde devrait voter pour moi, leur dieu-mage-roi. Ainsi, je résoudrai tous leurs problèmes, par dictature magique. » 	DC11 int-« Tout ce qui entoure ce soi-disant « processus démo-cratique » est de la folie. Tout le monde devrait juste voter pour moi, comme leur dieu-magicien-roi. Ainsi, je pourrai résoudre tous leurs problèmes, par la dictature magique. » 
+LL_Zombie	« Je n'ai pas d'opinion politique. J'imagine que je n'ai pas besoin de cette carte de vote. » 	« Je n'ai pas d'opinion politique. J'imagine donc que je n'ai pas besoin de cette carte de vote. » 
+LL_Zombie	DC17 con-(Crier et hurler au zombie.) « AGRARIEN ! IL FAUT VOTER AGRARIEN ! SI NOUS NE LE FAISONS PAS, LA TERRE SERA SALÉE ET LE PAYS MAUDIT ! <shake>AGRARIEN</shake> ! » 	DC17 con-(Crier et hurler sur le zombie.) « AGRARIEN ! IL FAUT VOTER AGRARIEN ! SINON, LA TERRE SERA SALÉE ET LE PAYS MAUDIT ! <shake>AGRARIEN</shake> ! » 
+LL_Zombie	Non. Il vient juste de trouver une autre pomme hors de sa place. 	Non. Il vient juste de trouver une autre pomme mal placée. 
+LL_Zombie	Nous PURIFIERONS la cité. 	Nous PURIFIERONS la ville. 
+LL_Zombie	Ils veulent du bien, mais leurs méthodes ont perdu la douceur d'Urth. 	Ils veulent le bien, mais leurs méthodes ont perdu la douceur d'Urth. 
+LL_Zombie	Ne profère pas son saint nom en vain. 	Ne jette pas son bon nom en vain. 
+LL_Zombie	Urth n'avait pas la main douce. Il avait la poigne ferme ! 	Urth n'avait pas la main douce. Il avait une poigne ferme ! 
+LL_Zombie	Ses doctrines disent le contraire. 	Ses politiques disent autre chose. 
+LL_Zombie	Le zombie continue simplement de déplacer des pommes. 	Le zombie continue juste à déplacer des pommes. 
+LL_Zombie	« Avec les Patriarches au pouvoir, nous nous débarrasserons de tous les morts-vivants. Et de tous les autres maux de Norvik. Une bonne fois pour toutes. » 	« Avec les Patriarches au pouvoir, on se débarrassera de tous vos morts-vivants. Et de tous les autres maux de Norvik. Une fois pour toutes. » 
+LL_Zombie	« Quoique je suppose que leur bilan n'est pas glorieux. Depuis qu'Urth s'est éteint... » 	« Bien que je suppose qu'ils n'ont pas le meilleur des bilans. Depuis qu'Urth s'est estompé... » 
+LL_Zombie	Le madrier de chair ne répond ni ne contre tes paroles. 	La planche-boule de chair ne répond ni ne réplique à tes paroles. 
+LL_Zombie	Oh oui ! Ils apporteront la fortune des Roseaux à chaque coin de la Côte ! 	Oh oui ! Ils apporteront la fortune de Reeds à chaque coin de la Côte ! 
+LL_Zombie	Une révolution qui a prouvé qu'elle laisse les nécessiteux derrière elle. 	Une révolution qui a prouvé qu'elle laissait les nécessiteux derrière. 
+LL_Zombie	Et alors ? Peu importe, <i>toi</i> tu vas réussir. C'est tout ce qui compte. 	Et alors ? Qui s'en soucie, <i>toi</i> tu y arriveras. C'est tout ce qui compte. 
+LL_Zombie	Le zombie continue simplement de déplacer des pommes. 	Le zombie continue juste à déplacer des pommes. 
+LL_Zombie	« Avec le suffrage permanent, le peuple pourra nous mener vers une direction fortunée. » 	« Avec un suffrage permanent, le peuple pourra nous orienter dans une direction favorable. » 
+LL_Zombie	« Le libre-échange avec les Cités Libres de Reeds nous enrichira tous ! » 	« Un commerce ouvert avec les Cités Libres de Reeds nous enrichira tous ! » 
+LL_Zombie	« Il faut juste espérer que les Guildes ne se rebellent pas quand les lois protectrices du travail d'Urth seront abrogées. » 	« Il faut juste espérer que les Guildes ne se rebellent pas quand les lois de protection du travail d'Urth seront jetées aux orties. » 
+LL_Zombie	Le madrier de chair ne répond ni ne contre tes paroles. 	La planche-boule de chair ne répond ni ne réplique à tes paroles. 
+LL_Zombie	Un gouvernement avec du cœur. 	Un gouvernement avec un cœur. 
+LL_Zombie	Ces pauvres petits paysans — penser qu'on les a trompés au point de se croire dignes de gouverner. 	Ces pauvres petits paysans — penser qu'on les a dupés en leur faisant croire qu'ils sont dignes de gouverner. 
+LL_Zombie	Ils mourront de faim cet hiver. 	Ils mourront de faim à l'arrivée de l'hiver. 
+LL_Zombie	Le zombie continue simplement de déplacer des pommes. 	Le zombie continue juste à déplacer des pommes. 
+LL_Zombie	« Le modèle social-démocrate des nains est ingénieux ! Juste assez équilibré pour fonctionner avec notre majorité humano-naine. » 	« Le modèle social-démocrate des nains est ingénieux ! Juste assez équilibré pour fonctionner avec notre populace majoritairement humaine-naine. » 
+LL_Zombie	« Une véritable révolution prolétarienne est clairement nécessaire. La propriété coopérative des Guildes en est la première étape — exactement comme Urth l'a établi avec l'agriculture collectivisée de Norvik. » 	« Une véritable révolution de la classe ouvrière est clairement nécessaire. La propriété coopérative des Guildes est la première étape — tout comme Urth l'a établi avec l'agriculture collectivisée norvikienne. » 
+LL_Zombie	« Tant que nous ne nous effondrons pas comme l'État originel Azgalien de la Sous-Côte. Ou les royaumes Vyz-Kha. Ou les Trois Ailes de Divinii Torum. Ou les... euh... » 	« Tant qu'on s'effondre pas comme l'État Sous-Côtier Azgalien d'origine. Ou les royaumes Vyz-Kha. Ou les Trois Ailes de Divinii Torum. Ou les... euh... » 
+LL_Zombie	Le madrier de chair ne répond ni ne contre tes paroles. 	La planche-boule de chair ne répond ni ne réplique à tes paroles. 
+LL_Zombie	C'est une pensée naïve. Mais à dire vrai, il n'y a pas de meilleure voie. 	C'est une pensée naïve. Mais en toute honnêteté, il n'y a pas d'autre bonne voie à suivre. 
+LL_Zombie	Ton génie éclairera les masses. C'est ainsi qu'il en doit être. 	Ton génie éclairera les masses. Il en est tout simplement ainsi. 
+LL_Zombie	Oui. Un vrai chef requiert exactement tout ce qu'il y a dans ta tête. 	Oui. Un vrai dirigeant requiert exactement toutes les choses qui se trouvent dans ta tête. 
+LL_Zombie	Tu es l'élu, le génie, l'extraspecteur introspectif et magistral qui formulera un plan si incroyable, si grandiose, si fantastique et franchement parfait que personne ne le remettra jamais en cause, ni toi, ni rien. 	Tu es l'élu, le génie, le maître introspectif extra-spectatif qui formulera un plan si incroyable, si élargi, si fantastique et tout à fait honnêtement parfait que personne ne te remettra jamais vraiment en question, ni lui ni rien. 
+LL_Zombie	Le zombie n'objecte rien à ton discours de campagne. En fait, le zombie ne réagit pas du tout. 	Le zombie ne s'oppose pas à ton discours de campagne. En fait, le zombie ne réagit pas du tout. 
+LL_Zombie	Ne crois pas que l'absence de pensée soit admirable. 	Ne crois pas qu'une absence de pensée soit d'une certaine manière admirable. 
+LL_Zombie	Où penses-tu être, une fois que l'avenir t'aura piétiné ? Hein ? 	Où crois-tu être, une fois que l'avenir t'aura piétiné de partout ? Hein ? 
+LL_Zombie	Faut bouger, mec ! 	Il faut que tu bouges, mec ! 
+LL_Zombie	Crie-le sans cesse. Les gens t'adoreront pour ça. <shake>TU ES APOLITIQUE !</shake> 	Crie-le tout le temps. Les gens t'aimeront pour ça. <shake>TU ES APOLITIQUE !</shake> 
+LL_Zombie	Sois souple dans ta manière de le dire. La plupart des gens aiment qu'on abonde dans leur sens politique. Un petit mensonge n'a jamais fait de mal, non ? 	Sois juste subtil dans la façon dont tu le dis. La plupart des gens aiment quand on est d'accord avec leurs opinions politiques. Et un petit mensonge ne fait jamais de mal, non ? 
+LL_Zombie	Le zombie continue simplement de déplacer des pommes. 	Le zombie continue juste à déplacer des pommes. 
+LL_Zombie	Le zombie se tourne réellement vers toi avec des yeux creux. 	Le zombie tourne effectivement la tête pour te jeter un œil avec ses yeux creux. 
+LL_Zombie	Tout comme ton compagnon. Mais sans les yeux creux. Plutôt, des yeux emplis d'effroi. 	Comme le fait ton compagnon. Mais sans les yeux creux. Plutôt, des yeux remplis de peur. 
+LL_Zombie	« Désolé. Je ne sais pas ce qui m'a pris. Je ne suis qu'un fils de fermier. » 	« Désolé. Je ne sais pas ce qui m'a pris. Je ne suis qu'un fils de la ferme. » 
+LL_Zombie	(Respirer profondément.) 	(Respirer lourdement.) 
+LL_Zombie	Il n'a pas d'opinion. D'aucune sorte. 	Il n'a aucune opinion. D'aucune sorte. 
+LL_Zombie	Oui. Ce n'est que justice. 	Oui. C'est juste. 
+LL_Zombie	Le gars ne fait de mal à personne. Honnêtement, il est sans doute un membre plus productif de la société que toi. 	Ce type ne fait de mal à personne. Honnêtement, il est sans doute un membre plus productif de la société que toi. 
+LL_Zombie	Oui ! Occupe-toi de cette infâme créature. 	Oui ! Occupe-toi de cette créature immonde. 
+LL_Zombie	Les rencontres sont des conflits au tour par tour, où chaque participant lance les dés et agit à son tour. 	Les rencontres sont des conflits au tour par tour, où chaque participant prend des tours à lancer des dés et à entreprendre des actions. 
+LL_Zombie	Durant ton tour, tu peux effectuer <b>une action de dé</b> ainsi que lancer <b>un sort</b> de ton choix. 	Pendant ton tour, tu peux effectuer <b>une action de dé</b> ainsi que lancer <b>un sort</b> de ton choix. 
+LL_Zombie	« C'est manifestement une affaire de clerc. Je n'interviendrai pas. » 	« C'est clairement une affaire de clerc. Je vais rester en dehors. » 
+LL_Zombie	Il fait un très grand pas en arrière. 	Il fait un très long pas en arrière. 
+LL_Zombie	Ne laisse pas ce titubant te prendre par surprise. 	Ne laisse pas ce titubeur te prendre par surprise maintenant. 
+LL_Zombie	IROLL-Lancer l'initiative. 	Lancer l'initiative. 
+LL_Zombie	Tu es rapide ! Tu vas gérer ! 	Tu es rapide ! Tu vas y arriver ! 
+LL_Zombie	Comment peux-tu être <i>plus lent</i> qu'un fichu zombie ?! 	Comment peux-tu être <i>plus lent</i> qu'un foutu zombie ?! 
+LL_Zombie	Le zombie lent reste planté là. 	Le lent zombie se contente de rester là. 
+LL_Zombie	Tu as tout ton temps. 	Tu as tout le temps du monde. 
+LL_Zombie	À ton tour ! Pas de quartier. 	À ton tour ! Ne lui montre aucune pitié. 
+LL_Zombie	Infliger des Blessures conviendrait ici, cependant... il inflige des dégâts nécrotiques. 	Infliction des Blessures fonctionnerait ici, cependant... cela inflige des dégâts nécrotiques. 
+LL_Zombie	Et c'est un zombie. Cela pourrait l'achever, mais en général les morts-vivants résistent fort bien à ces sorts. 	Et c'est un zombie. Cela pourrait l'achever, mais en règle générale les morts-vivants sont très résistants à de tels sorts. 
+LL_Zombie	ROLL8 str-Le pousser ! 	Le pousser ! 
+LL_Zombie	ROLL12 con-Garder ton calme. Attendre et voir. 	Garder ton sang-froid. Attendre et voir. 
+LL_Zombie	ROLL6 dex-Lever un poing fermé et dire, « Tiens, regarde ça », puis tenter rapidement de le faire trébucher. 	Lever un poing fermé et dire : « Tiens, regarde ça », puis tenter rapidement de le faire trébucher. 
+LL_Zombie	Mettant tout ton poids, tu repousses le zombie en arrière. 	En y mettant tout ton poids, tu pousses le zombie en arrière. 
+LL_Zombie	Il tente de se stabiliser en titubant. 	Il tente de se stabiliser tout en titubant. 
+LL_Zombie	Tentant d'y mettre toute la puissance que tu peux rassembler, le poids du zombie et l'inflexible épaisseur du mort-vivant agissent comme un mur de béton. 	En tentant d'y mettre toute la puissance que tu peux rassembler, le poids du zombie et son épaisseur de mort-vivant inflexible agissent comme un mur de béton. 
+LL_Zombie	Tu prends une grande inspiration. 	Vous prenez une profonde inspiration. 
+LL_Zombie	Fixant chacun des gestes du zombie, tu restes en place. 	Fixant chaque mouvement du zombie, tu restes en place. 
+LL_Zombie	Il tremble, oscille d'avant en arrière. D'un côté à l'autre. 	Il tremble, bougeant d'avant en arrière. De gauche à droite. 
+LL_Zombie	<b>Combats. OU. Fuis.</b> 	<b>Combat. OU. FUITE.</b> 
+LL_Zombie	COMBATTRE. 	COMBAT. 
+LL_Zombie	FUIR. 	FUITE. 
+LL_Zombie	Alors que tu tentes de fuir, le zombie place une attaque d'opportunité et t'inflige une vilaine morsure. 	Alors que tu tentes de t'enfuir, le zombie place une attaque d'opportunité, te donnant une vilaine morsure. 
+LL_Zombie	E-Continuer simplement à courir. 	Continuer simplement à courir. 
+LL_Zombie	Mettant tout ton poids, tu repousses le zombie en arrière. 	En y mettant tout ton poids, tu pousses le zombie en arrière. 
+LL_Zombie	Il tente de se stabiliser en titubant. 	Il tente de se stabiliser tout en titubant. 
+LL_Zombie	Ta manœuvre sournoise fonctionne ! Le zombie tourne son regard vers ton poing et puis... 	Ta manœuvre sournoise fonctionne ! Le zombie tourne son regard vers ton poing et alors... 
+LL_Zombie	D'un coup vif, tu le fais reculer en titubant. 	D'un coup rapide, tu le fais trébucher en arrière. 
+LL_Zombie	Tendre le poing devant le zombie semble fonctionner. Il se penche et le fixe. Et puis... 	Tendre ton poing devant le zombie semble fonctionner. Il se penche en avant et le fixe. Et alors... 
+LL_Zombie	Attends... est-ce qu'il...? 	Attends... est-ce qu'il... ? 
+LL_Zombie	Le zombie tente d'accrocher sa main avec ses dents immondes. 	Le zombie tente de s'agripper à ta main avec ses dents immondes. 
+LL_Zombie	Tu parviens à te retirer à temps, grâce à ses mouvements lents. 	Tu réussis à retirer ta main à temps, grâce à ses mouvements lents. 
+LL_Zombie	Que diable ! Il te mord maintenant ? 	C'est quoi ce délire ! Il te mord maintenant ? 
+LL_Zombie	Tu projettes ta main, chargée d'une énergie nécrotique pulsante. 	Tu lances ta main en avant, chargée d'énergie nécrotique pulsante. 
+LL_Zombie	Mais à ta stupéfaction incrédule, le zombie lent et titubant esquive simplement. 	Mais à ta stupéfaction incrédule, le zombie lent et titubant s'écarte simplement. 
+LL_Zombie	Zut ! Un tour gâché ! 	Mince ! Un tour gâché ! 
+LL_Zombie	Son cou pivote brusquement, le visage flétri à présent face au tien. 	Son cou tourne d'un coup, le visage flétri faisant maintenant face au tien. 
+LL_Zombie	Tu peux le dire, vu à quel point tu es un homme du peuple. 	Tu le sens, vu que t'es tellement à l'aise avec les gens. 
+LL_Zombie	Bon, ce zombie est tranquille. Tu n'as rien fait pour l'énerver vraiment, n'est-ce pas ? 	Bon, ce zombie déraille. Tu n'as pas vraiment fait quoi que ce soit pour l'énerver, si ? 
+LL_Zombie	Cette abomination morte-vivante doit être appréhendée, avant qu'elle ne nuise à des innocents. 	Cette abomination morte-vivante doit être appréhendée, avant qu'elle ne cause des dégâts à des innocents. 
+LL_Zombie	Tu devrais probablement tenter d'apaiser. Juste un conseil. 	Tu devrais sans doute tenter de désamorcer la situation. Juste un conseil. 
+LL_Zombie	ROLL8 str-L'attraper, lui prendre... le bras ! 	L'attraper, attrape son... bras ! 
+LL_Zombie	ROLL6 cha-Changer de tactique, le manipuler. 	Changer de tactique, tenter de le manipuler. 
+LL_Zombie	Tu lui attrapes les bras avec succès. Tes mains gantées épaisses enserrent ses frêles poignets et les maintiennent. 	Tu réussis à attraper ses bras. Tes mains gantées et épaisses s'enroulent autour de ses poignets frêles et les maintiennent stables. 
+LL_Zombie	Il ne s'échappera pas, désormais. 	Il ne s'échappera plus maintenant. 
+LL_Zombie	Le zombie te renvoie aisément dans un déchaînement presque convulsif. 	Le zombie te repousse facilement dans une agitation presque convulsive. 
+LL_Zombie	Quelle force possède cette infâme créature ?! 	Comme cette créature immonde est forte ?! 
+LL_Zombie	J'essaie de lui donner des ordres ? 	Je vais essayer de lui donner des ordres ? 
+LL_Zombie	Je complimente son travail ? 	Je vais le complimenter sur son travail ? 
+LL_Zombie	Je lui demande comment il se sent ? 	Je vais lui demander comment il se sent ? 
+LL_Zombie	Bah. N'importe quoi. Essaie juste. 	Bof. N'importe quoi. Essaie juste. 
+LL_Zombie	« Écoute-moi, je suis ton maître. Sers-moi ! » 	« Écoutez-moi, je suis votre maître. Servez-moi ! » 
+LL_Zombie	« Servant mort-vivant, tu as fait du bon travail aujourd'hui. Bravo ! » 	« Serviteur mort-vivant, vous avez fait du beau travail aujourd'hui. Bravo ! » 
+LL_Zombie	« J'espère que tu vas bien, zombie. Pense à décompresser de temps en temps. » 	« J'espère que vous allez bien, zombie. Veillez à vous détendre de temps en temps. » 
+LL_Zombie	Peut-être qu'il est juste lent. N'abandonne pas ! 	Peut-être que c'est juste un délai. N'abandonne pas ! 
+LL_Zombie	Bon, bon. Alors, euh... 	D'accord, d'accord. Alors, euh... 
+LL_Zombie	C'est une situation délicate. Tu ne veux pas que ce gars devienne... sauvage. 	C'est une situation délicate. Tu veux pas que ce type devienne... sauvage. 
+LL_Zombie	Tu pousses un cri retentissant. C'est moins un cri de guerre qu'un cri de « Au secours, on m'assassine ». 	Tu pousses un cri retentissant. C'est moins un cri de guerre et plus un cri du genre « Au secours, on m'assassine ». 
+LL_Zombie	Reprends-toi, mec ! 	Ressaisis-toi, mec ! 
+LL_Zombie	Tu projettes ta main, chargée d'une énergie nécrotique pulsante. 	Tu lances ta main en avant, chargée d'énergie nécrotique pulsante. 
+LL_Zombie	Comment peux-tu rater ça ? Il est juste devant toi ! 	Comment tu peux le rater ? Il est juste devant toi ! 
+LL_Zombie	Bon. Ça ne marche pas. Essaie autre chose. 	D'accord. Ça ne marche pas. Essaie autre chose. 
+LL_Zombie	De nouveau le zombie claque la mâchoire vers toi. 	De nouveau le zombie claque sa gueule vers toi. 
+LL_Zombie	Cette fois il s'accroche fermement. 	Cette fois il s'accroche fort. 
+LL_Zombie	Ça va faire un bleu demain. Pourquoi tu n'esquives pas ?! 	Ça va faire une ecchymose demain. Pourquoi tu n'esquives pas ?! 
+LL_Zombie	Ta dernière chance. Ne flanche pas ! 	Ta dernière chance. Ne faiblis pas ! 
+LL_Zombie	ROLL12 str-En finir - d'un coup en traître ! 	Finir ça — par un coup en traître ! 
+LL_Zombie	ROLL10 cha-Tu peux encore reprendre le contrôle - fais semblant d'être son maître ! 	Tu peux encore prendre le contrôle — fais croire que tu es son maître ! 
+LL_Zombie	Mets-le K.O. ! 	Mets-le KO ! 
+LL_Zombie	Reprenant ton souffle, tu fixes la créature désormais immobile. 	En reprenant ton souffle, tu fixes la créature désormais immobile. 
+LL_Zombie	Va maintenant le piller ! Récupère cette dent raffinée ! 	Maintenant va le piller ! Récupère cette belle dent ! 
+LL_Zombie	E-Victoire. 	Victoire. 
+LL_Zombie	Le zombie s'éloigne immédiatement en boitillant, disparaissant dans l'escalier. 	Le zombie s'éloigne immédiatement en traînant les pieds, disparaissant dans l'escalier. 
+LL_Zombie	Tu prends une grande inspiration en réalisant qu'il ne reviendra certainement pas. 	Tu prends une profonde inspiration en réalisant qu'il ne reviendra certainement pas. 
+LL_Zombie	Infâme créature. Retournée d'où elle vient — un sombre tunnel d'en bas. 	Créature immonde. Retournée là où elle appartient — un tunnel sombre en dessous. 
+LL_Zombie	Mais attends, le butin ! Argh ! Tu n'auras jamais cette dent ! 	Mais attends, le butin ! Argh ! Maintenant tu n'auras jamais cette dent ! 
+LL_Zombie	Elle te fixe. Les mouvements erratiques remplacés par une immobilité menaçante. 	Il te fixe. Les mouvements erratiques remplacés par une immobilité de mauvais augure. 
+LL_Zombie	Tu as son attention. Maintenant, frappe-la encore — d'un ordre ! 	Tu as son attention. Maintenant, frappe-le encore — avec un ordre ! 
+LL_Zombie	« Quitte ce lieu ! Fuis ! » 	« Quitte cet endroit ! Fuis ! » 
+LL_Zombie	« Vas-y, fais-toi plaisir. » 	« Mets-toi KO. » 
+LL_Zombie	La créature baisse aussitôt la tête et retourne au tas de pommes. 	La créature baisse immédiatement la tête et se tourne à nouveau vers le tas de pommes. 
+LL_Zombie	Super. C'était facile. 	Cool. C'était facile. 
+LL_Zombie	« C'est bon. Le travail dur est une récompense en soi. » 	« C'est bon. Le travail acharné est une récompense en soi. » 
+LL_Zombie	(Soupirer.) « Vas-y, fais-toi plaisir. » 	(Soupirer.) « Mets-toi simplement KO. » 
+LL_Zombie	Il met la main dans sa bouche et arrache bien trop facilement sa dent de sagesse. 	Il met la main dans sa bouche et extrait beaucoup trop facilement sa dent de sagesse. 
+LL_Zombie	Pourquoi as-tu fait cela, déjà ? 	Pourquoi as-tu fait ça déjà ? 
+LL_Zombie	La dent vibre dans une faible aura ésotérique. Intéressant. 	La dent vibre d'une faible aura ésotérique. Intéressant. 
+LL_Zombie	Exact. 	Vrai. 
+LL_Zombie	On peut considérer la journée terminée. 	J'imagine que tu peux juste t'en tenir là pour la journée. 
+LL_Zombie	Paroles plus sages furent rarement prononcées. 	Des mots plus sages ont rarement été prononcés. 
+LL_Zombie	Puis il se frappe le visage du poing. 	Puis il se donne un coup de poing au visage. 
+LL_Zombie	Une méthode de lâche. Mais efficace. 	Une façon de lâche. Mais efficace. 
+LL_Zombie	Va maintenant le piller ! 	Maintenant va le piller ! 
+LL_Zombie	E-Victoire. 	Victoire. 
+LL_Zombie	Mets-le K.O. ! 	Mets-le KO ! 
+LL_Zombie	Ton puissant poing de fer semble sans poids. 	Ton puissant poing de fer ne semble avoir aucun poids derrière lui. 
+LL_Zombie	Lorsqu'il frappe la carapace du zombie, on dirait un mur de béton. 	Quand il heurte le cuir du zombie, on dirait qu'il frappe un foutu mur. 
+LL_Zombie	Tu frappes sous un mauvais angle sur sa cage thoracique saillante. Beau travail. 	Tu frappes sous un mauvais angle sur sa cage thoracique saillante. Beau boulot. 
+LL_Zombie	Le zombie semble impassible tandis que tu recules en titubant. 	Le zombie semble impassible tandis que tu titubes en arrière. 
+LL_Zombie	Il ne t'est plus hostile. 	Il n'est plus hostile envers toi. 
+LL_Zombie	Oh. On lui a sans doute ordonné de ne pas blesser sauf en cas de menace. 	Oh. On lui a sans doute ordonné de ne pas faire de mal à moins d'être menacé. 
+LL_Zombie	Cela veut dire qu'il ne te voit plus comme une menace. Hilarant. 	Cela veut dire qu'il ne te considère plus comme une menace. Hilarant. 
+LL_Zombie	E-(Frotter sa main et gémir.) 	(Se frotter la main et grogner.) 
+LL_Zombie	Tu es prêt. Déchaîne une puissance dominatrice et fais de cette créature ton servant docile ! 	Tu es prêt. Déchaîne un pouvoir dominateur et transforme cette créature en serviteur consentant ! 
+LL_Zombie	Que fais-tu ? Arrête ! 	Qu'est-ce que tu fais ? Arrête ! 
+LL_Zombie	(Gémir.) « Je ne veux plus me battre. » 	(Pleurnicher.) « Je ne veux plus me battre. » 
+LL_Zombie	Le zombie te domine, immobile. 	Le zombie se dresse au-dessus de toi, immobile. 
+LL_Zombie	Tiens. On dirait que... ça marche ? 	Hm. J'imagine que ça... marche ? 
+LL_Zombie	Ça ne te rapportera rien, mais... au moins tu es en vie ? 	Ça te rapportera rien, mais... au moins tu es en vie ? 
+LL_Zombie	Ah ! On lui a sans doute ordonné de ne pas blesser sauf en cas de menace. 	Ah ! On lui a sans doute ordonné de ne pas faire de mal à moins d'être menacé. 
+LL_Zombie	Ce qui veut dire... qu'il ne te voit plus comme une menace. Hilarant. 	Ce qui veut dire... qu'il ne te considère plus comme une menace. Hilarant. 
+LL_Zombie	E-Je ne devrais plus déranger le zombie. 	Je ne devrais plus embêter le zombie. 
+LL_Zombie	Des veines noires éclosent sur la peau grise du zombie. 	Des veines noires jaillissent à travers la peau grise du zombie. 
+LL_Zombie	Il recule en titubant, s'effondrant sur le tas de pommes. 	Il recule en titubant, dégringolant sur le tas de pommes. 
+LL_Zombie	Le zombie résiste aux dégâts nécrotiques. Comme tous les morts-vivants. 	Le zombie est résistant aux dégâts nécrotiques. Comme tous les morts-vivants. 
+LL_Zombie	Tu as de la chance que ce zombie ait été très, très faible. 	Tu as de la chance que ce zombie était très, très faible. 
+LL_Zombie	Une dernière convulsion. Puis tout est fini. 	Une dernière convulsion. Puis c'est fini. 
+LL_Zombie	Le zombie devait être incroyablement faible. Les dégâts nécrotiques ne devraient pas être aussi efficaces, peu importe la précision de ton coup. 	Le zombie devait être incroyablement faible. Les dégâts nécrotiques ne devraient pas être aussi efficaces, peu importe la précision de ta frappe. 
+LL_Zombie	Va maintenant le piller ! 	Maintenant va le piller ! 
+LL_Zombie	E-Victoire. 	Victoire. 
+LL_Zombie	Tes doigts farfouillant dans sa bouche, ta prise sur la dent magique raffinée glisse, et... 	Tes doigts s'agitent maladroitement dans sa bouche, ta prise sur la belle dent magique te glisse, et... 
+LL_Zombie	Il referme sa mâchoire. 	Il referme ses mâchoires. 
+LL_Zombie	Tu retires instinctivement tes mains mais il parvient quand même à te grignoter rapidement. 	Tu retires instinctivement les mains mais il réussit quand même à te grignoter rapidement. 
+LL_Zombie	<b>TA MAIN EST DANS SA BOUCHE ?</b> 	<b>TU ES DANS SA BOUCHE ?</b> 
+LL_Zombie	Argh ! Tu dois détruire cette infâme créature... ! 	Argh ! Tu dois détruire cette créature immonde... ! 
+LL_Zombie	Si tu veux cette dent, à ce stade... ouais. C'est peut-être ta seule option. 	Si tu veux cette dent, alors à ce stade... ouais. C'est peut-être ta seule option. 
+LL_Zombie	Cesse de fouiller dans les gueules de morts-vivants. S'il te plaît. 	Cesse de fouiller dans les gueules des morts-vivants. S'il te plaît. 
+LL_Zombie	Voilà un comportement très intrusif. Essaie de te tenir. 	C'est un comportement hautement invasif. Essaie de te tenir. 
+LL_Zombie	« Tu peux fourrer tes doigts où tu veux. Mais, à l'avenir, je suggère au minimum de NE PAS les mettre dans la gueule d'un mordeur. » 	« Tu peux fourrer tes doigts où tu veux. Mais, à l'avenir, je te suggérerais au moins de NE PAS les mettre dans la bouche d'un mordeur. » 
+LL_Zombie	E-(Faire un pas en arrière.) 	(Reculer d'un pas.) 

@@ -1,0 +1,739 @@
+GW_InkPickup	On the top-box you see the words, 'Kauldrige R. Special Cartridge Quillwells.' 	Sur la caisse du dessus, tu vois les mots : « Quillwells à Cartouches Spéciales Kauldrige R. ». 
+GW_InkPickup	Yes. This is the ink Modissa asked for. 	Oui. C'est l'encre que Modissa a demandée. 
+GW_InkPickup	(Open the box.) 	(Ouvrir la caisse.) 
+GW_InkPickup	Inside you see a tightly stacked series of iron cartridges, each marked with a series of numbers. 	À l'intérieur, tu vois une série de cartouches en fer serrées les unes contre les autres, chacune marquée d'une suite de chiffres. 
+GW_InkPickup	More importantly, there are three different colors of ink. 	Plus important encore, il y a trois couleurs d'encre différentes. 
+GW_InkPickup	Uh oh. 	Oh-oh. 
+GW_InkPickup	Red, yellow, and green Quillwell variants. 	Des variantes Quillwell rouge, jaune et verte. 
+GW_InkPickup	Pick red, of course. 	Prends le rouge, évidemment. 
+GW_InkPickup	Hah! Go with yellow, she'll hate it. 	Hah ! Pars sur le jaune, elle va détester. 
+GW_InkPickup	If there was black, that would be the logical choice. However, since this shipment clearly does not contain any black ink, go with the green one. 	S'il y avait du noir, ce serait le choix logique. Mais comme cette livraison ne contient manifestement pas d'encre noire, va sur la verte. 
+GW_InkPickup	It makes the most logical sense- being the Azgalists' colors. 	C'est ce qui a le plus de sens - ce sont les couleurs des Azgalistes. 
+GW_InkPickup	Green. 	La verte. 
+GW_InkPickup	Go with green. 	Pars sur la verte. 
+GW_InkPickup	(Keep the green Quillwell.) 	(Garder la Quillwell verte.) 
+GW_InkPickup	(Grab the red ink instead.) 	(Prendre l'encre rouge à la place.) 
+GW_InkPickup	(Grab the yellow ink instead.) 	(Prendre l'encre jaune à la place.) 
+GW_InkPickup	Wait... which one did she want? 	Attends... laquelle voulait-elle ? 
+GW_InkPickup	You don't remember if she specified any color? 	Tu ne te souviens pas si elle a précisé une couleur ? 
+GW_InkPickup	She did not specify. 	Elle n'a pas précisé. 
+GW_InkPickup	Logically, she would want a black ink for the paper. 	Logiquement, elle voudrait de l'encre noire pour le papier. 
+GW_InkPickup	But this crate seems to only contain color-ink. 	Mais cette caisse semble ne contenir que des encres de couleur. 
+GW_InkPickup	Ah. So this is probably the reason why her 'vendor' didn't sell her the stuff, right? 	Ah. C'est probablement la raison pour laquelle son « fournisseur » ne lui a pas vendu le truc, non ? 
+GW_InkPickup	They didn't have any black ink. Just color. 	Ils n'avaient pas d'encre noire. Que de la couleur. 
+GW_InkPickup	Maybe it doesn't matter which one? 	Peut-être que peu importe laquelle ? 
+GW_InkPickup	Would the color ink turn the paper into that color? 	Est-ce que l'encre de couleur transformerait le papier dans cette couleur ? 
+GW_InkPickup	Guess I have to pick a color? 	J'imagine que je dois choisir une couleur ? 
+GW_InkPickup	Of course it matters. Color is very important in the world of typography. 	Bien sûr que ça importe. La couleur est très importante dans le monde de la typographie. 
+GW_InkPickup	Maybe not. 	Peut-être pas. 
+GW_InkPickup	Mixed with their regular ink, it would turn the text into a faint color variety. 	Mélangée à leur encre habituelle, elle donnerait au texte une teinte légère. 
+GW_InkPickup	It would be quite strange, but also unique. 	Ce serait assez étrange, mais aussi unique. 
+GW_InkPickup	The text would. Potentially. 	Le texte, oui. Potentiellement. 
+GW_InkPickup	Yes. You do. 	Oui. Tu en as une. 
+GW_InkPickup	You grab one of the iron cartridges from the crate. 	Tu saisis l'une des cartouches en fer dans la caisse. 
+GW_InkPickup	They are heavy. The rigid metal feels cold to the touch. 	Elles sont lourdes. Le métal rigide est froid au toucher. 
+GW_InkPickup	You hear something sloshing around inside. 	Tu entends quelque chose clapoter à l'intérieur. 
+GW_InkPickup	There you go. Another quest complete! 	Et voilà. Une quête de plus accomplie ! 
+GW_InkPickup	Just need to turn it in now. 	Plus qu'à la rendre maintenant. 
+GW_InkPickup	Despite placing the cartridge in my Pouch of Holding, I don't quite feel like I've actually looted it. 	Bien que j'aie placé la cartouche dans ma Bourse sans Fond, je n'ai pas vraiment l'impression de l'avoir réellement récupérée comme du butin. 
+GW_InkPickup	E-Let's get this back to Modissa. 	Ramenons ça à Modissa. 
+GW_InkPickup	Ignore that. 	Ignore ça. 
+GW_InkPickup	That's just your innate feeling that this quest item isn't that important. 	C'est juste ton sentiment instinctif que cet objet de quête n'est pas si important. 
+GW_InkPickup	E-...Right. 	...C'est cela. 
+GW_Drummer	You approach one of the many large crates in the warehouse. 	Vous vous approchez de l'une des nombreuses grandes caisses de l'entrepôt. 
+GW_Drummer	Why is there a... rhythmic thumping noise here? 	Pourquoi y a-t-il un... bruit sourd rythmique ici ? 
+GW_Drummer	It is coming from this box. 	Il provient de cette caisse. 
+GW_Drummer	Where's the sound coming from? 	D'où vient ce bruit ? 
+GW_Drummer	(Look at the crate.) 	(Regarder la caisse.) 
+GW_Drummer	(Knock on the crate.) 	(Frapper sur la caisse.) 
+GW_Drummer	\"Hello?\" 	« Bonjour ? » 
+GW_Drummer	ROLL16 str-Open the crate. 	Ouvrir la caisse. 
+GW_Drummer	E-Later. 	Plus tard. 
+GW_Drummer	The crate looks at you in turn. 	La caisse vous regarde à son tour. 
+GW_Drummer	You spot a label. It says, 'A.R. Ankheg Exoskeleton. Export.' 	Vous repérez une étiquette. Elle indique : « A.R. Exosquelette d'Ankheg. Export. » 
+GW_Drummer	There are little holes in the crate. In various places. 	Il y a des petits trous dans la caisse. À divers endroits. 
+GW_Drummer	Air holes. 	Des trous d'aération. 
+GW_Drummer	\"I do.\" 	« Oui. » 
+GW_Drummer	He points at the side of the crate. 	Il pointe le côté de la caisse. 
+GW_Drummer	He shows you a strange expression. 	Il vous montre une expression étrange. 
+GW_Drummer	Is that... is he hungry? 	C'est... il a faim ? 
+GW_Drummer	You know that face well. 	Tu connais bien cette tête. 
+GW_Drummer	Constipation. Most likely. 	Constipation. Très probablement. 
+GW_Drummer	The goblin assumes you understand his subtle facial cues. 	Le gobelin présume que vous comprenez ses indices faciaux subtils. 
+GW_Drummer	Clearly overestimating your social ability. 	Surestimant clairement tes aptitudes sociales. 
+GW_Drummer	It's a face that says, 'Be careful, I think we've got something here.' 	C'est une tête qui dit : « Attention, je crois qu'on tient quelque chose là. » 
+GW_Drummer	Yeah. He wants you to open the crate. 	Ouais. Il veut que tu ouvres la caisse. 
+GW_Drummer	Obviously. 	Évidemment. 
+GW_Drummer	As you do, the drumming noise stops. 	Tandis que vous le faites, le bruit de tambour s'arrête. 
+GW_Drummer	Then... after a short break, it starts up again. 	Puis... après une courte pause, il reprend. 
+GW_Drummer	Your companion gives you a tired shrug. 	Votre compagnon vous adresse un haussement d'épaules fatigué. 
+GW_Drummer	\"Come on.\" 	« Allez. » 
+GW_Drummer	How peculiar. Must be the wind. 	Comme c'est singulier. Ce doit être le vent. 
+GW_Drummer	After you speak, the drumming noise stops. 	Après que vous parlez, le bruit de tambour s'arrête. 
+GW_Drummer	Then... after a short break, it starts up again. 	Puis... après une courte pause, il reprend. 
+GW_Drummer	Snell sighs. Deeply. 	Snell soupire. Profondément. 
+GW_Drummer	Must be an Esoteric Event. 	Ce doit être un Événement Ésotérique. 
+GW_Drummer	Yes. You are not very good at this manly business. 	Oui. Tu n'es pas très doué pour ces affaires viriles. 
+GW_Drummer	Don't say that. You can do anything. 	Ne dis pas ça. Tu peux tout faire. 
+GW_Drummer	Just believe in yourself. 	Crois en toi, c'est tout. 
+GW_Drummer	Perhaps you should get some assistance. 	Peut-être devrais-tu obtenir de l'aide. 
+GW_Drummer	Perhaps from a friendly goblin. 	Peut-être d'un gobelin amical. 
+GW_Drummer	You get in position. 	Vous vous mettez en position. 
+GW_Drummer	You lean in and... uh... 	Vous vous penchez et... euh... 
+GW_Drummer	\"Ready when you are.\" 	« Prêt quand tu l'es. » 
+GW_Drummer	(Lift with your back.) 	(Soulever avec votre dos.) 
+GW_Drummer	(Lift with your legs?) 	(Soulever avec vos jambes ?) 
+GW_Drummer	No. That's not it. 	Non. Ce n'est pas ça. 
+GW_Drummer	(Right. Lift with your back.) 	(D'accord. Soulever avec votre dos.) 
+GW_Drummer	Your back strains. 	Votre dos se tend. 
+GW_Drummer	Your back muscles snap. 	Les muscles de votre dos claquent. 
+GW_Drummer	As you hear that rancid noise, a scream escapes your mouth. 	En entendant ce bruit rance, un cri s'échappe de votre bouche. 
+GW_Drummer	And the pain causes you to fall. 	Et la douleur vous fait tomber. 
+GW_Drummer	\"Geezus, how do you <i>lift</i>, Cleric?!\" 	« Bon sang, comment tu <i>portes</i>, Clerc ?! » 
+GW_Drummer	\"Fucking hells. Just let me finish this, alright?\" 	« Putain d'enfers. Laisse-moi finir ça, d'accord ? » 
+GW_Drummer	\"<shake>Alright...!</shake>\" 	« <shake>D'accord... !</shake> » 
+GW_Drummer	The goblin puts his meager body weight into it, and despite you being out of commission, he gets the side to crack open. 	Le gobelin y met tout son maigre poids, et malgré votre mise hors service, il parvient à faire céder le côté. 
+GW_Drummer	(Watch him rip it open.) 	(Le regarder l'ouvrir d'un coup.) 
+GW_Drummer	You step back. Whatever you're doing, it might not be working. 	Vous reculez. Quoi que vous fassiez, ça ne marche peut-être pas. 
+GW_Drummer	The crate drums at you, menacingly. 	La caisse tambourine sur vous, menaçante. 
+GW_Drummer	With a tight grip, you press hard. It's difficult. 	D'une poigne ferme, vous appuyez fort. C'est difficile. 
+GW_Drummer	Even the goblin is straining to put his measly body weight into it. 	Même le gobelin peine à y mettre son chétif poids. 
+GW_Drummer	But... 	Mais... 
+GW_Drummer	(Rip open the side of the crate.) 	(Arracher le côté de la caisse.) 
+GW_Drummer	\"I can explain. <i>Dunk</i>. <i>Dunk</i>.\" 	« Je peux expliquer. <i>Dunk</i>. <i>Dunk</i>. » 
+GW_Drummer	You watch the wingless crow-looking creature scramble to compose himself. 	Vous regardez la créature sans ailes ressemblant à un corbeau s'efforcer de se ressaisir. 
+GW_Drummer	\"Drummer.\" 	« Drummer. » 
+GW_Drummer	That is a Yobukodori. Often shortened to just Yobu. 	C'est un Yobukodori. Souvent abrégé en simplement Yobu. 
+GW_Drummer	The bird-man lets out a strange throat-noise, then makes a series of nervous chuckles. 	L'homme-oiseau émet un étrange bruit de gorge, puis pousse une série de petits rires nerveux. 
+GW_Drummer	He's inside of a shipping crate marked for 'export'. He's clearly trying to flee the law. 	Il est à l'intérieur d'une caisse de transport marquée « export ». Il essaie clairement de fuir la loi. 
+GW_Drummer	Maybe he has a good reason to escape. Is the fellow in danger? 	Il a peut-être une bonne raison de fuir. Ce gars est-il en danger ? 
+GW_Drummer	You would have done the same in his shoes. Hopefully. 	Tu aurais fait la même chose à sa place. Du moins espérons. 
+GW_Drummer	Weakling. Hiding like this... it's disgraceful. 	Faiblard. Se cacher ainsi... c'est honteux. 
+GW_Drummer	\"Explain it quickly.\" 	« Expliquez-vous rapidement. » 
+GW_Drummer	\"You're not trying to leave the city, are you?\" 	« Vous n'essayez pas de quitter la cité, n'est-ce pas ? » 
+GW_Drummer	\"It's illegal to live in crates like this.\" 	« Il est illégal de vivre dans des caisses comme celle-ci. » 
+GW_Drummer	\"Oh. Ah! <i>Dunk</i>. Yes.\" 	« Oh. Ah ! <i>Dunk</i>. Oui. » 
+GW_Drummer	\"No, no. <i>Dunk</i>. That's not... something-\" 	« Non, non. <i>Dunk</i>. Ce n'est pas... quelque chose— » 
+GW_Drummer	His voice shifts to a higher pitch. \"-I would do.\" 	Sa voix monte d'un cran. « —que je ferais. » 
+GW_Drummer	\"Is... is it? <i>Dunk</i>.\" 	« Est-ce... est-ce le cas ? <i>Dunk</i>. » 
+GW_Drummer	\"I'm not sure if it is, Cleric,\" the goblin whispers to you. 	« Je sais pas si c'est le cas, Clerc », te chuchote le gobelin. 
+GW_Drummer	He then turns to the bird. \"Sure is. You better spit out the details before we take you to the stockade.\" 	Il se tourne ensuite vers l'oiseau. « C'est bien le cas. T'as intérêt à cracher les détails avant qu'on t'embarque au cachot. » 
+GW_Drummer	\"I'm just... inspecting the wares. Warehouse wares.\" 	« Je suis juste... en train d'inspecter les marchandises. Les marchandises de l'entrepôt. » 
+GW_Drummer	\"<i>Dunk</i>.\" 	« <i>Dunk</i>. » 
+GW_Drummer	\"What's that sound?\" 	« C'est quoi, ce bruit ? » 
+GW_Drummer	\"What? <i>Dunk</i>.\" 	« Quoi ? <i>Dunk</i>. » 
+GW_Drummer	\"That.\" 	« Ça. » 
+GW_Drummer	\"I'd say you could make that argument.\" 	« Je dirais qu'on peut faire valoir cet argument. » 
+GW_Drummer	\"I- I'm not...\" 	« Je— je ne suis pas... » 
+GW_Drummer	\"Nah. That's just Drummer.\" 	« Non. C'est juste Drummer. » 
+GW_Drummer	\"<i>Dunk</i>.\" 	« <i>Dunk</i>. » 
+GW_Drummer	\"So you're inspecting wares, are you?\" 	« Donc vous inspectez les marchandises, n'est-ce pas ? » 
+GW_Drummer	\"Why's your voice so weird?\" 	« Pourquoi votre voix est-elle si bizarre ? » 
+GW_Drummer	\"Are you aware that your tea shop has exploded?\" 	« Êtes-vous au courant que votre salon de thé a explosé ? » 
+GW_Drummer	So should I threaten this guy or... something else? 	Donc je devrais menacer ce gars ou... autre chose ? 
+GW_Drummer	ROLL16 str-Threaten him for the truth. 	Le menacer pour la vérité. 
+GW_Drummer	ROLL17 dex-Catch him in the lie. 	Le prendre en flagrant délit de mensonge. 
+GW_Drummer	\"Yes!\" 	« Oui ! » 
+GW_Drummer	\"I am a local-\" he stops, shifting his tone deeper, \"-<b>local entrepreneur</b>.\" 	« Je suis un local— » il s'arrête, prenant un ton plus grave, « —<b>entrepreneur local</b>. » 
+GW_Drummer	He is trying to assert himself by sounding like a tough guy. 	Il tente de s'imposer en parlant comme un dur. 
+GW_Drummer	\"<b>The A.R., they're my supplier. For tea. And... sometimes coffee.</b>\" 	« <b>L'A.R., c'est mon fournisseur. Pour le thé. Et... parfois le café.</b> » 
+GW_Drummer	That deep voice... it's making you falter. 	Cette voix grave... elle te fait vaciller. 
+GW_Drummer	Don't mess with him. 	Ne le cherche pas. 
+GW_Drummer	The bird is not dangerous. Only slippery. 	L'oiseau n'est pas dangereux. Seulement glissant. 
+GW_Drummer	\"Coffee? Isn't that illegal?\" 	« Le café ? N'est-ce pas illégal ? » 
+GW_Drummer	\"So you're inspecting goods... inside of a crate. Inside of a sealed warehouse.\" 	« Donc vous inspectez des marchandises... à l'intérieur d'une caisse. À l'intérieur d'un entrepôt scellé. » 
+GW_Drummer	\"Does the Trade Company know about you being here?\" 	« La Compagnie des Marchands sait-elle que vous êtes ici ? » 
+GW_Drummer	M-\"What kind of goods are we talking about here?\" 	« De quel genre de marchandises parlons-nous ? »\"\" 
+GW_Drummer	\"It's not.\" 	\"Ce n'en est pas une.\" 
+GW_Drummer	\"<b>Difficult to get. But not illegal.</b>\" 	« <b>Difficile à obtenir. Mais pas illégal.</b> » 
+GW_Drummer	\"Yes.\" 	« Oui. » 
+GW_Drummer	\"What, you don't believe him?\" 	« Quoi, tu ne le crois pas ? » 
+GW_Drummer	\"Hm?\" 	« Hum ? » 
+GW_Drummer	\"Hm,\" the bird hums like a... bird. And just nods. 	« Hm », murmure l'oiseau comme un... oiseau. Et il se contente de hocher la tête. 
+GW_Drummer	Is he pretending to not hear you? 	Fait-il semblant de ne pas vous entendre ? 
+GW_Drummer	How incredibly rude. 	Comme c'est incroyablement grossier. 
+GW_Drummer	\"<b>I SAID, DO THE FREESTRIDERS KNOW ABOUT YOUR PRESENCE, GOOD SIR?</b>\" 	« <b>J'AI DIT, LES MARCHE-LIBRE SONT-ILS AU COURANT DE VOTRE PRÉSENCE, CHER MONSIEUR ?</b> » 
+GW_Drummer	\"Hm?\" 	« Hum ? » 
+GW_Drummer	\"Gah! <i>Dunk</i>.\" 	« Gah ! <i>Dunk</i>. » 
+GW_Drummer	\"They- they, <b>of course!</b>\" 	« Ils— ils, <b>bien sûr !</b> » 
+GW_Drummer	\"Hm.\" 	« Hm. » 
+GW_Drummer	He keeps repeating the same phrase. 	Il répète la même phrase. 
+GW_Drummer	\"I...\" 	« Je... » 
+GW_Drummer	He grabs a scale of Ankheg exoskeleton from the crate. 	Il attrape une plaque d'exosquelette d'Ankheg dans la caisse. 
+GW_Drummer	\"<b>I have a great plan!</b>\" 	« <b>J'ai un grand plan !</b> » 
+GW_Drummer	\"I'm planning on renovating my shop. With... these.\" 	« Je projette de rénover ma boutique. Avec... ceci. » 
+GW_Drummer	\"<i>Protection</i>.\" 	« <i>Protection</i>. » 
+GW_Drummer	(Reach forward and touch the exoskeleton plate.) 	(Tendre la main et toucher la plaque d'exosquelette.) 
+GW_Drummer	\"Renovating with that... chitin?\" 	« Rénover avec ce... chitine ? » 
+GW_Drummer	Your hands glide over it. 	Vos mains glissent dessus. 
+GW_Drummer	Smooth. Hard. A perfect defense. 	Lisse. Dure. Une défense parfaite. 
+GW_Drummer	This would do great for any interior design. 	Cela ferait des merveilles pour n'importe quelle décoration d'intérieur. 
+GW_Drummer	The bird stares at you as you caress the chitin in his claws. 	L'oiseau vous fixe tandis que vous caressez la chitine dans ses serres. 
+GW_Drummer	\"<i>Dunk</i>.\" 	« <i>Dunk</i>. » 
+GW_Drummer	\"Uh-huh,\" he says, sounding like a young naive kid. 	« Mh-hm », dit-il, sonnant comme un jeune gamin naïf. 
+GW_Drummer	You believe him. 	Tu le crois. 
+GW_Drummer	Nuh-uh. 	Non-non. 
+GW_Drummer	He's lying. 	Il ment. 
+GW_Drummer	\"I am...\" 	« Je suis... » 
+GW_Drummer	\"Yobu.\" 	« Yobu. » 
+GW_Drummer	\"<i><shake>Yobukodori</shake></i>.\" 	« <i><shake>Yobukodori</shake></i>. » 
+GW_Drummer	The voice leaves the bird's throat like a drum on fire. 	La voix sort de la gorge de l'oiseau comme un tambour en feu. 
+GW_Drummer	DC14 int-\"Right. You're cursed. Got it.\" 	DC14 int-« D'accord. Vous êtes maudit. Compris. » 
+GW_Drummer	DC14 int-\"That's bird-folk from Ym, then?\" 	DC14 int-« Du peuple-oiseau d'Ym, alors ? » 
+GW_Drummer	FC14 int-\"That doesn't really answer my question.\" 	FC14 int-« Cela ne répond pas vraiment à ma question. » 
+GW_Drummer	FC14 int-\"Are you mocking me?\" 	FC14 int-« Vous moquez-vous de moi ? » 
+GW_Drummer	\"Oh. Yes.\" 	« Oh. Oui. » 
+GW_Drummer	\"No,\" the bird says and makes a cross with his non-winged arms. 	« Non », dit l'oiseau en croisant ses bras sans ailes. 
+GW_Drummer	\"Never.\" 	« Jamais. » 
+GW_Drummer	\"<b>Yobu-</b> we've no voice of our own. You know. Like. You know.\" 	« <b>Yobu—</b> nous n'avons pas de voix propre. Vous savez. Genre. Vous savez. » 
+GW_Drummer	\"I get it. Us oppressed folk need to stick together. So we can find our voice, together. That's what democracy is all about.\" 	« Je comprends. Nous, les opprimés, devons nous serrer les coudes. Pour trouver notre voix, ensemble. C'est ça, la démocratie. » 
+GW_Drummer	\"Sounds like esoteric bullshit.\" 	« Ça ressemble à des conneries ésotériques. » 
+GW_Drummer	\"Have you tried speaking normally?\" 	« Avez-vous essayé de parler normalement ? » 
+GW_Drummer	The bird glares at you, no expression in its expressionless face. 	L'oiseau vous foudroie du regard, sans expression sur son visage inexpressif. 
+GW_Drummer	\"<i>Dunk</i>.\" 	« <i>Dunk</i>. » 
+GW_Drummer	\"<b>Yes!</b> A folk curse.\" 	« <b>Oui !</b> Une malédiction de peuple. » 
+GW_Drummer	\"Terrible stuff.\" 	« Une chose terrible. » 
+GW_Drummer	He pauses for a moment and glares at you. 	Il s'arrête un instant et vous foudroie du regard. 
+GW_Drummer	Then he gestures towards his throat. \"Curse. Folk curse.\" 	Puis il fait un geste vers sa gorge. « Malédiction. Malédiction de peuple. » 
+GW_Drummer	\"I have no <b>chance</b>.\" 	« Je n'ai aucune <b>chance</b>. » 
+GW_Drummer	Because Charm Person only makes him treat you like a friend. 	Car Charme-Personne le fait seulement vous traiter comme un ami. 
+GW_Drummer	And this bird does not treat his friends with the truth. 	Et cet oiseau ne traite pas ses amis avec la vérité. 
+GW_Drummer	Good question. Something tells you it won't do any good here. 	Bonne question. Quelque chose te dit que cela ne servira à rien ici. 
+GW_Drummer	Zone of Truth would work better. 	Zone de Vérité fonctionnerait mieux. 
+GW_Drummer	Sadly, you do not have time to go prepare it. 	Hélas, tu n'as pas le temps d'aller la préparer. 
+GW_Drummer	\"What?!\" 	\"Quoi ?!\" 
+GW_Drummer	He knows. 	Il sait. 
+GW_Drummer	How sad. You were the one to deliver the horrible news. 	Comme c'est triste. C'est toi qui a apporté l'affreuse nouvelle. 
+GW_Drummer	The bird mimics the sound of a young and shocked man. 	L'oiseau mime le son d'un jeune homme sous le choc. 
+GW_Drummer	Bad sound to pick. He sounds almost sarcastic. 	Mauvais choix de son. Il a presque l'air sarcastique. 
+GW_Drummer	\"What a horrible- <i>and</i>-\" 	« Quelle horrible— <i>et</i>— » 
+GW_Drummer	\"<i>Dunk</i>.\" 	« <i>Dunk</i>. » 
+GW_Drummer	\"-<shake>shocking revelation</shake>.\" 	« —<shake>révélation choquante</shake>. » 
+GW_Drummer	He's struggling to put together cohesive sentences. 	Il peine à assembler des phrases cohérentes. 
+GW_Drummer	Ah. That's like his nervous tic. When his sentences get twisted like that. 	Ah. C'est comme son tic nerveux. Quand ses phrases s'embrouillent comme ça. 
+GW_Drummer	\"You didn't hear the explosion?\" 	« Vous n'avez pas entendu l'explosion ? » 
+GW_Drummer	\"You've been down here... for how long exactly?\" 	« Vous êtes ici en bas... depuis combien de temps exactement ? » 
+GW_Drummer	\"Do you have any enemies, Mr. Drummer?\" 	« Avez-vous des ennemis, monsieur Drummer ? » 
+GW_Drummer	\"Tell me what happened on that morning. When it blew up.\" 	« Racontez-moi ce qui s'est passé ce matin-là. Quand ça a sauté. » 
+GW_Drummer	M-\"Well. Now you know.\" 	« Eh bien. Maintenant vous savez. »\"\" 
+GW_Drummer	\"Sorry?\" 	« Pardon ? » 
+GW_Drummer	He holds up a claw to the side of his head. 	Il porte une serre au côté de sa tête. 
+GW_Drummer	Oh no. He's got a hearing problem. How sad. 	Oh non. Il a un problème d'audition. Comme c'est triste. 
+GW_Drummer	This bird fuck is clearly messing with you. 	Ce salaud d'oiseau se fout clairement de toi. 
+GW_Drummer	Either that, or he's the most awful compulsive liar you've ever met. 	Soit ça, soit c'est le pire menteur compulsif que tu aies jamais rencontré. 
+GW_Drummer	You see your companion rub his eyes. 	Vous voyez votre compagnon se frotter les yeux. 
+GW_Drummer	\"I said, <b>DID YOU NOT HEAR THE EXPLOSION</b>?!\" 	« J'ai dit, <b>N'AVEZ-VOUS PAS ENTENDU L'EXPLOSION</b> ?! » 
+GW_Drummer	\"Stop messing around. This is serious.\" 	« Arrêtez de jouer. C'est sérieux. » 
+GW_Drummer	The bird jolts away from you. 	L'oiseau s'écarte brusquement de vous. 
+GW_Drummer	\"I- <i>no</i>- did not hear.\" 	« Je— <i>non</i>— n'ai pas entendu. » 
+GW_Drummer	\"Hm? Yes! I understand.\" 	« Hm ? Oui ! Je comprends. » 
+GW_Drummer	Infuriating. 	Exaspérant. 
+GW_Drummer	\"<i>Dunk</i>.\" 	« <i>Dunk</i>. » 
+GW_Drummer	\"I am... inspecting many wares.\" 	« Je suis... en train d'inspecter de nombreuses marchandises. » 
+GW_Drummer	Yobu bird-folk are able to survive for up to two months without sustenance. 	Le peuple-oiseau Yobu est capable de survivre jusqu'à deux mois sans subsistance. 
+GW_Drummer	Yeah, these types of mimic-birds are known for being able to just hide in a hole for a very, very long time. 	Ouais, ces types d'oiseaux imitateurs sont connus pour pouvoir simplement se cacher dans un trou très, très longtemps. 
+GW_Drummer	\"You're pretty bad at your job, Mr. Drummer.\" 	« Vous êtes plutôt mauvais à votre boulot, monsieur Drummer. » 
+GW_Drummer	\"Sorry for being- <i>pretty bad at</i>- inspection. I try my best.\" 	« Désolé d'être— <i>plutôt mauvais à</i>— l'inspection. Je fais de mon mieux. » 
+GW_Drummer	\"No. Everyone has- <i>people tend to dig me, you know?</i>\" 	« Non. Tout le monde a— <i>les gens ont tendance à m'apprécier, vous savez ?</i> » 
+GW_Drummer	\"Sure.\" 	« Bien sûr. » 
+GW_Drummer	Does this bird ever say anything true? 	Cet oiseau dit-il jamais quelque chose de vrai ? 
+GW_Drummer	He's genuinely slippery. One greased-up magpie motherfucker. 	Il est sincèrement glissant. Un sacré enfoiré de pie graissée. 
+GW_Drummer	\"Oh, it was all normal. Empty tea shop all morning.\" 	« Oh, tout était normal. Salon de thé vide toute la matinée. » 
+GW_Drummer	\"I had- <i>business</i>- on Waterlane. Over noon.\" 	« J'avais— <i>des affaires</i>— à Waterlane. Vers midi. » 
+GW_Drummer	\"Been... busy since then. <b>This is big shock</b>!\" 	« Été... occupé depuis. <b>C'est un grand choc</b> ! » 
+GW_Drummer	\"Awful news.\" 	« Affreuse nouvelle. » 
+GW_Drummer	\"I didn't even have- <b>had no insurance, sadly</b>.\" 	« Je n'avais même pas— <b>n'avais aucune assurance, hélas</b>. » 
+GW_Drummer	\"That's for the best. Otherwise I'd say you blew it up yourself.\" 	« C'est pour le mieux. Sinon je dirais que vous l'avez fait sauter vous-même. » 
+GW_Drummer	\"Is money all you care about?\" 	« L'argent est-il tout ce qui vous importe ? » 
+GW_Drummer	\"No. He's clearly telling us everything.\" 	« Non. Il nous dit clairement tout. » 
+GW_Drummer	You can sense him thinking, 'Everything he <i>wants</i> to say'. 	Vous le sentez penser : « Tout ce qu'il <i>veut</i> dire ». 
+GW_Drummer	Sarcasm warning. 	Alerte sarcasme. 
+GW_Drummer	You hear the bird let out a hearty laugh. 	Vous entendez l'oiseau lâcher un rire chaleureux. 
+GW_Drummer	If he had a voice of his own, it'd be a nervous laugh. 	S'il avait sa propre voix, ce serait un rire nerveux. 
+GW_Drummer	\"No worries! I'll get back on my feet. Always do!\" 	« Pas de souci ! Je me remettrai sur pied. Je le fais toujours ! » 
+GW_Drummer	\"I'll just go back to- <i>inspection</i>. And you know where to find me.\" 	« Je vais juste retourner à— <i>l'inspection</i>. Et vous savez où me trouver. » 
+GW_Drummer	\"Oh!\" 	« Oh ! » 
+GW_Drummer	\"Same. I vote for- the same <shake>PARTY</shake> as you.\" 	« Pareil. Je vote pour— le même <shake>PARTI</shake> que vous. » 
+GW_Drummer	\"Which is...?\" 	« C'est-à-dire... ? » 
+GW_Drummer	DC17 con-\"I'm so sorry. I'm so very, very sorry.\" (Begin to cry because you are an Agrarian.) 	DC17 con-« Je suis tellement désolé. Je suis tellement, tellement désolé. » (Commencer à pleurer parce que vous êtes agrarien.) 
+GW_Drummer	\"So you vote yellow, then.\" 	« Donc vous votez jaune, alors. » 
+GW_Drummer	\"You're a nationalist too? The Nationalists will win this election, and continue ruling this city for another half-century.\" 	« Vous êtes nationaliste aussi ? Les Nationalistes remporteront cette élection, et continueront à gouverner cette cité pour un autre demi-siècle. » 
+GW_Drummer	\"You don't seem like an Azgal.\" 	« Vous n'avez pas l'air d'un Azgal. » 
+GW_Drummer	\"Look at me. Do I look like someone who needs a party?\" (Smirk.) 	« Regardez-moi. Ai-je l'air de quelqu'un qui a besoin d'un parti ? » (Sourire en coin.) 
+GW_Drummer	\"<i>Which is...?</i>\" 	« <i>C'est-à-dire... ?</i> » 
+GW_Drummer	You sound like that? Oh gods. 	Tu sonnes comme ça ? Oh, par les dieux. 
+GW_Drummer	He is stealing your voice. 	Il est en train de te voler ta voix. 
+GW_Drummer	\"Uh...!\" 	« Euh... ! » 
+GW_Drummer	The bird freezes. 	L'oiseau se fige. 
+GW_Drummer	He has NO CLUE. NO clue on how to handle... 	Il n'a AUCUNE idée. AUCUNE idée de comment gérer... 
+GW_Drummer	Your IDEAS. Your infectious... ideas. 	Tes IDÉES. Tes idées... contagieuses. 
+GW_Drummer	(Whisper.) \"I'm <shake>Agrarian</shake>...\" 	(Chuchoter.) « Je suis <shake>agrarien</shake>... » 
+GW_Drummer	\"Yes. <b>The Freestrider.</b>\" 	« Oui. <b>Le Marche-Libre.</b> » 
+GW_Drummer	You recognize that voice. Is that Agent Viira? 	Tu reconnais cette voix. Est-ce l'Agente Viira ? 
+GW_Drummer	\"Great!\" 	« Génial ! » 
+GW_Drummer	\"They help- the growth of the city is important.\" 	« Ils aident— la croissance de la cité est importante. » 
+GW_Drummer	\"Ah! Yes. I vote- <i>Party of Norvik</i>. Like you.\" 	« Ah ! Oui. Je vote— <i>Parti de Norvik</i>. Comme vous. » 
+GW_Drummer	\"Oh.\" 	« Oh. » 
+GW_Drummer	\"I am! <i>Very</i>- green.\" 	« Je le suis ! <i>Très</i>— vert. » 
+GW_Drummer	The bird-man looks you up and down. \"No?\" 	L'homme-oiseau vous toise de haut en bas. « Non ? » 
+GW_Drummer	DC11 int-\"I'm the only one who can rule this city. As a wizard-god-king-cleric.\" 	DC11 int-« Je suis le seul qui puisse gouverner cette cité. En tant que magicien-dieu-roi-clerc. » 
+GW_Drummer	\"I'm clearly apolitical. Who needs democracy? That shit sucks.\" 	« Je suis clairement apolitique. Qui a besoin de la démocratie ? Ce truc, c'est nul. » 
+GW_Drummer	\"Oh.\" 	« Oh. » 
+GW_Drummer	\"Okay. You vote for- yourself?\" 	« D'accord. Vous votez pour— vous-même ? » 
+GW_Drummer	\"Yep.\" 	« Eh ouais. » 
+GW_Drummer	\"The only good choice.\" 	« Le seul bon choix. » 
+GW_Drummer	\"Ah!\" 	« Ah ! » 
+GW_Drummer	\"I agree!\" 	« Je suis d'accord ! » 
+GW_Drummer	\"What you say- <i>is true</i>.\" 	« Ce que vous dites— <i>est vrai</i>. » 
+GW_Drummer	\"<b>Good</b>- great choice, my man!\" 	« <b>Bon</b>— excellent choix, mon vieux ! » 
+GW_Drummer	You get a feeling he probably uses that sound every time someone tries to talk politics with him at the tea shop. 	Tu as le sentiment qu'il utilise probablement ce son chaque fois que quelqu'un essaie de parler politique avec lui au salon de thé. 
+GW_Drummer	What a genius. You should learn from him. 	Quel génie. Tu devrais apprendre de lui. 
+GW_Drummer	This bird is a smooth talker. Be careful around him. You'll get swept up in that charm. 	Cet oiseau est un beau parleur. Sois prudent avec lui. Tu vas te laisser emporter par ce charme. 
+GW_Drummer	He's kissing your ass. You don't need this. 	Il te lèche les bottes. Tu n'as pas besoin de ça. 
+GW_Drummer	He seems pretty threatening himself, so... maybe not. 	Il a l'air plutôt menaçant lui-même, donc... peut-être pas. 
+GW_Drummer	A push is all he needs. Then he will spill the <b>TRUTH</b>. 	Il suffit d'une pression. Alors il crachera la <b>VÉRITÉ</b>. 
+GW_Drummer	He sure talks a lot for someone without a voice. 	Il parle sûrement beaucoup pour quelqu'un sans voix. 
+GW_Drummer	But he sucks at lying. 	Mais il est nul pour mentir. 
+GW_Drummer	The bird's pretty quick! You gotta catch up if you want to find a way to twist reality out of him. 	L'oiseau est plutôt rapide ! Tu dois suivre si tu veux trouver un moyen d'extorquer la réalité. 
+GW_Drummer	He's quicker than you. Can you really keep up? 	Il est plus rapide que toi. Peux-tu vraiment suivre ? 
+GW_Drummer	Something esoteric? A spell? Don't know. 	Quelque chose d'ésotérique ? Un sortilège ? Je ne sais pas. 
+GW_Drummer	Beware. Failure here... will mean debasing yourself. 	Prends garde. Échouer ici... signifiera te rabaisser. 
+GW_Drummer	You cause a thick sludge of colorful magical grease to erupt around the bird-man. 	Vous faites jaillir une épaisse boue de graisse magique colorée autour de l'homme-oiseau. 
+GW_Drummer	\"<b>Dunk, dunk</b>!\" 	« <b>Dunk, dunk</b> ! » 
+GW_Drummer	\"<i>What the hell, man</i>!\" 	« <i>C'est quoi ce délire, mec</i> ! » 
+GW_Drummer	Your companion struggles to contain his laughter. 	Votre compagnon peine à contenir son rire. 
+GW_Drummer	You look down on the pathetic bird-man. 	Vous toisez de haut le pathétique homme-oiseau. 
+GW_Drummer	He quivers before you. This will be easy. 	Il tremble devant vous. Ce sera facile. 
+GW_Drummer	Make sure to set it up first. Display your dominance. 	Pose d'abord le décor. Affiche ta dominance. 
+GW_Drummer	\"Let me ask you something, Mr. Drummer. What is your beak made out of?\" 	« Laissez-moi vous demander quelque chose, monsieur Drummer. En quoi votre bec est-il fait ? » 
+GW_Drummer	\"This- <b>I</b>- what?\" 	« Ceci— <b>moi</b>— quoi ? » 
+GW_Drummer	\"Is it bone? I think it's bone.\" 	« Est-ce de l'os ? Je pense que c'est de l'os. » 
+GW_Drummer	The goblin gives you a look. But he lets you continue. 	Le gobelin vous lance un regard. Mais il vous laisse continuer. 
+GW_Drummer	The bird stops speaking as you reach towards something next to him. 	L'oiseau cesse de parler tandis que vous tendez la main vers quelque chose à côté de lui. 
+GW_Drummer	(Grab a piece of the Ankheg chitin.) 	(Attraper un morceau de chitine d'Ankheg.) 
+GW_Drummer	\"What is- Cleric- doing?\" 	« Que— le Clerc— fait-il ? » 
+GW_Drummer	\"Do you know, Mr. Drummer, how many times softer your beak is, compared to this piece of exoskeleton?\" 	« Savez-vous, monsieur Drummer, combien de fois plus tendre est votre bec, comparé à ce morceau d'exosquelette ? » 
+GW_Drummer	\"I have- I am- I-\" 	« J'ai— je suis— je— » 
+GW_Drummer	\"Me neither.\" (Snap it in half.) 	« Moi non plus. » (Le briser en deux.) 
+GW_Drummer	You can see the weak bird-man's beak drop. His eyes fixated on the now broken piece of insect in your hands. 	Vous voyez le bec du faible homme-oiseau s'affaisser. Ses yeux fixés sur le morceau d'insecte désormais brisé entre vos mains. 
+GW_Drummer	You glance to your side, spotting the goblin with an impressed grin on his face. 	Vous jetez un regard de côté, et apercevez le gobelin avec un sourire impressionné sur le visage. 
+GW_Drummer	\"Who blew up the tea shop, Mr. Drummer?\" 	« Qui a fait sauter le salon de thé, monsieur Drummer ? » 
+GW_Drummer	Oh no. 	Oh non. 
+GW_Drummer	The way that bird stares at you... 	La manière dont cet oiseau te fixe... 
+GW_Drummer	He is too powerful. 	Il est trop puissant. 
+GW_Drummer	He's not that bad. 	Il n'est pas si terrible. 
+GW_Drummer	What the hell, stop shivering! 	Mais bon sang, arrête de trembler ! 
+GW_Drummer	You must... submit. 	Tu dois... te soumettre. 
+GW_Drummer	What? 	Quoi ? 
+GW_Drummer	There is no way for you to break this bird. 	Il n'y a aucun moyen pour toi de briser cet oiseau. 
+GW_Drummer	Your only chance... is to bend the knee. 	Ta seule chance... est de plier le genou. 
+GW_Drummer	(Descend.) \"Mr. Drummer. I am here to protect you from those who mean you harm.\" 	(S'abaisser.) « Monsieur Drummer. Je suis ici pour vous protéger de ceux qui veulent vous nuire. » 
+GW_Drummer	\"Oh?\" 	« Oh ? » 
+GW_Drummer	\"You are safe. Now tell us <i>your</i> side of the story.\" 	« Vous êtes en sécurité. Maintenant racontez-nous <i>votre</i> version de l'histoire. » 
+GW_Drummer	\"I- you- I-\" 	« Je— vous— je— » 
+GW_Drummer	The bird sputters around for a moment. Then he pauses, and scratches his beak. 	L'oiseau bafouille un instant. Puis il marque une pause, et se gratte le bec. 
+GW_Drummer	You seem to have inadvertently given him room to trust you. 	Vous semblez lui avoir, par inadvertance, donné l'espace pour vous faire confiance. 
+GW_Drummer	He will speak now. But will it be the full truth? 	Il va parler maintenant. Mais sera-ce la vérité entière ? 
+GW_Drummer	The bird trusts you now. He will speak the truth. 	L'oiseau vous fait confiance désormais. Il dira la vérité. 
+GW_Drummer	Smooth now. 	En douceur, maintenant. 
+GW_Drummer	Just continue the convo, and slip in that question... 	Continue simplement la conversation, et glisse cette question... 
+GW_Drummer	\"Good, good. By the way, I gotta ask. Which crate were you inspecting when the explosion happened?\" 	« Bien, bien. Au fait, je dois vous demander. Quelle caisse inspectiez-vous quand l'explosion s'est produite ? » 
+GW_Drummer	\"It was- <b>other one</b>. The one with potion. I was-\" 	« C'était— <b>l'autre</b>. Celle avec la potion. J'étais— » 
+GW_Drummer	He stops. 	Il s'arrête. 
+GW_Drummer	\"Ah-hah! Got you!\" 	« Ah-hah ! Je vous tiens ! » 
+GW_Drummer	\"No, I meant-\" 	« Non, je voulais dire— » 
+GW_Drummer	\"Ah-ah. Can't take that back, Mr. Drummer.\" 	« Ah-ah. Vous ne pouvez pas revenir là-dessus, monsieur Drummer. » 
+GW_Drummer	\"Your lies have been eviscerated by my impeccable wit and raucousness!\" 	« Vos mensonges ont été éviscérés par mon esprit impeccable et ma véhémence ! » 
+GW_Drummer	\"You're taking it a bit far, Cleric.\" 	« Tu vas un peu loin, Clerc. » 
+GW_Drummer	He gives Drummer a frown. \"Just... spill the fucking beans already.\" 	Il fronce les sourcils à l'attention de Drummer. « Juste... crachez le morceau, putain. » 
+GW_Drummer	\"<i>Dunk</i>.\" 	« <i>Dunk</i>. » 
+GW_Drummer	Now hit him with the big questions. 	Maintenant, frappe-le avec les grosses questions. 
+GW_Drummer	\"Who blew up the tea shop, Mr. Drummer?\" 	« Qui a fait sauter le salon de thé, monsieur Drummer ? » 
+GW_Drummer	Here we go. 	C'est parti. 
+GW_Drummer	Set a trap, and let the bird-guy fall into it... 	Tends un piège, et laisse l'oiseau y tomber... 
+GW_Drummer	\"So... tell me more about this tea shop of yours.\" 	« Alors... parlez-moi davantage de ce salon de thé qui est le vôtre. » 
+GW_Drummer	\"Tea shop? Oh- <b>yes</b>. I'm an entrepreneur, you see?\" 	« Salon de thé ? Oh— <b>oui</b>. Je suis un entrepreneur, voyez-vous ? » 
+GW_Drummer	Now hit him with the- 	Maintenant frappe-le avec la— 
+GW_Drummer	(Slam your fist into the side of the crate.) \"You don't even like tea, <b>do you</b>?!\" 	(Abattre votre poing contre le côté de la caisse.) « Vous n'aimez même pas le thé, <b>n'est-ce pas</b> ?! » 
+GW_Drummer	The bird looks visibly distraught at your accusation. 	L'oiseau semble visiblement bouleversé par votre accusation. 
+GW_Drummer	\"You have- what- it's not- <i>Dunk</i>.\" 	« Vous avez— quoi— ce n'est pas— <i>Dunk</i>. » 
+GW_Drummer	Wait! This isn't a trap! 	Attends ! Ce n'est pas un piège ! 
+GW_Drummer	This is just silly. 	C'est juste ridicule. 
+GW_Drummer	\"FRAUD!\" (Point at the bird-man.) 	« IMPOSTEUR ! » (Pointer l'homme-oiseau du doigt.) 
+GW_Drummer	\"I- you- I-\" 	« Je— vous— je— » 
+GW_Drummer	The bird sputters around for a moment. Then he pauses, and scratches his beak. 	L'oiseau bafouille un instant. Puis il marque une pause, et se gratte le bec. 
+GW_Drummer	\"I don't have to- <i>enjoy tea</i>.\" 	« Je n'ai pas à— <i>apprécier le thé</i>. » 
+GW_Drummer	\"I- serve tea. <i>Dunk</i>.\" 	« Je— sers le thé. <i>Dunk</i>. » 
+GW_Drummer	\"That's true, Cleric. What do you have to say in your defense?\" 	« C'est vrai, Clerc. Qu'as-tu à dire pour ta défense ? » 
+GW_Drummer	The goblin is mocking you? 	Le gobelin se moque de vous ? 
+GW_Drummer	The goblin is mocking you. 	Le gobelin se moque de vous. 
+GW_Drummer	Understandable. 	Compréhensible. 
+GW_Drummer	\"That might be true, but... I... you...\" 	« Cela pourrait être vrai, mais... je... vous... » 
+GW_Drummer	\"Look, I don't care about your bullshit. Just tell me your side and we'll be out of your hair. Or feathers.\" 	« Écoutez, je m'en fous de vos conneries. Dites-nous juste votre version et on vous laissera tranquille. Ou plutôt, à vos plumes. » 
+GW_Drummer	Drummer and your companion both stare at you. 	Drummer et votre compagnon vous fixent tous les deux. 
+GW_Drummer	Drummer stares at you. 	Drummer vous fixe. 
+GW_Drummer	Change course. 	Change de cap. 
+GW_Drummer	This is getting you nowhere. 	Cela ne te mène nulle part. 
+GW_Drummer	The bird-man observes you in silence. Then he slowly nods. 	L'homme-oiseau vous observe en silence. Puis il hoche lentement la tête. 
+GW_Drummer	You seem to have inadvertently given him room to trust you. 	Vous semblez lui avoir, par inadvertance, donné l'espace pour vous faire confiance. 
+GW_Drummer	He will speak now. But will it be the full truth? 	Il va parler maintenant. Mais sera-ce la vérité entière ? 
+GW_Drummer	The bird trusts you now. He will speak the truth. 	L'oiseau vous fait confiance désormais. Il dira la vérité. 
+GW_Drummer	He glances at Snell. 	Il jette un regard à Snell. 
+GW_Drummer	\"They're after me.\" 	« Ils en ont après moi. » 
+GW_Drummer	\"Who is?\" 	« Qui ça ? » 
+GW_Drummer	\"<b>The Freestriders.</b> And- HWBT.\" 	« <b>Les Marche-Libre.</b> Et— HWBT. » 
+GW_Drummer	\"What, because of some missed rent?\" 	« Quoi, à cause de loyers impayés ? » 
+GW_Drummer	He turns to you and mutters, \"...or that stash in the back.\" 	Il se tourne vers vous et marmonne : « ... ou de cette planque à l'arrière. » 
+GW_Drummer	He looks distraught again. 	Il a de nouveau l'air bouleversé. 
+GW_Drummer	\"They forced me! <i>They made me</i>.\" 	« Ils m'ont forcé ! <i>Ils m'ont contraint</i>. » 
+GW_Drummer	\"I didn't have a choice. <i>Dunk</i>.\" 	« Je n'avais pas le choix. <i>Dunk</i>. » 
+GW_Drummer	\"Blackmail. Knife to my throat.\" 	« Chantage. Couteau sous la gorge. » 
+GW_Drummer	\"<i>I was trapped. They had me by the balls</i>.\" 	« <i>J'étais coincé. Ils me tenaient par les couilles</i>. » 
+GW_Drummer	\"You're hiding from the Freestriders... inside of a Freestrider-operated warehouse?\" 	« Vous vous cachez des Marche-Libre... à l'intérieur d'un entrepôt opéré par les Marche-Libre ? » 
+GW_Drummer	\"Why are you afraid of the HWBT?\" 	« Pourquoi avez-vous peur du HWBT ? » 
+GW_Drummer	\"How are the Freestriders connected with this?\" 	« Quel est le lien des Marche-Libre avec ça ? » 
+GW_Drummer	M-\"And what's this got to do with the explosion?\" 	« Et quel est le rapport avec l'explosion ? »\"\" 
+GW_Drummer	\"They are- <b>scary</b>.\" 	« Ils sont— <b>effrayants</b>. » 
+GW_Drummer	\"<i>But not very bright.</i>\" 	« <i>Mais pas très brillants.</i> » 
+GW_Drummer	The goblin chuckles. 	Le gobelin glousse. 
+GW_Drummer	\"Not to my knowledge, no.\" 	« Pas à ma connaissance, non. » 
+GW_Drummer	\"This sounds entirely like a Freestrider extension.\" 	« Cela ressemble entièrement à une extension Marche-Libre. » 
+GW_Drummer	\"They will give me- <b>punished</b>.\" 	« Ils vont me— <b>punir</b>. » 
+GW_Drummer	\"<i>If they find out my little secret...</i>\" 	« <i>S'ils découvrent mon petit secret...</i> » 
+GW_Drummer	\"<i>Dunk</i>.\" 	« <i>Dunk</i>. » 
+GW_Drummer	\"Possibly. The Old Lady won't take kindly to having a smuggling operation going on right under her nose.\" 	« Possible. La Vieille Dame ne va pas apprécier qu'un trafic se déroule juste sous son nez. » 
+GW_Drummer	\"They set it up. They set- me- up.\" 	« Ils ont tout monté. Ils m'ont— piégé. » 
+GW_Drummer	\"<i>I had</i>- access to the- <b>secret tunnel</b>- under the temple.\" 	« <i>J'avais</i>— accès au— <b>tunnel secret</b>— sous le temple. » 
+GW_Drummer	\"They forced me. I had to.\" 	« Ils m'ont forcé. J'ai dû. » 
+GW_Drummer	\"Listen. I only- run away- to save myself.\" 	« Écoutez. Je— m'enfuis seulement— pour me sauver. » 
+GW_Drummer	\"When- tea shop- <b>exploded</b>! I-\" 	« Quand— salon de thé— <b>a explosé</b> ! Je— » 
+GW_Drummer	\"You knew beforehand that it was going to explode?\" 	« Saviez-vous à l'avance qu'il allait exploser ? » 
+GW_Drummer	\"No!\" 	« Non ! » 
+GW_Drummer	\"I was in the Warehouse. Here. Inspection. I hear- <b>Freestriders</b>- talking about it upstairs.\" 	« J'étais dans l'Entrepôt. Ici. Inspection. J'entends— les <b>Marche-Libre</b>— en parler à l'étage. » 
+GW_Drummer	\"So I hide. In here. Waiting for- boat.\" 	« Alors je me cache. Là-dedans. En attendant— le bateau. » 
+GW_Drummer	\"To get away from- <i>this bloody mess</i>.\" 	« Pour m'éloigner de— <i>ce foutu bordel</i>. » 
+GW_Drummer	\"Okay! Okay!\" the bird-man repeats twice with the voice of a shrill woman. 	« D'accord ! D'accord ! » répète deux fois l'homme-oiseau avec la voix d'une femme stridente. 
+GW_Drummer	\"<b>I'll tell you everything!</b>\" 	« <b>Je vais tout vous dire !</b> » 
+GW_Drummer	\"Start talking, then.\" 	« Alors commencez à parler. » 
+GW_Drummer	\"I'm running a business on the side.\" 	« Je tiens une affaire à côté. » 
+GW_Drummer	\"Import. Export.\" 	« Import. Export. » 
+GW_Drummer	\"Smuggling.\" 	« Contrebande. » 
+GW_Drummer	\"How is it relevant to the explosion?\" 	« En quoi est-ce pertinent pour l'explosion ? » 
+GW_Drummer	\"Keep going.\" 	« Continuez. » 
+GW_Drummer	\"<b>Freestriders</b>. My supplier.\" 	« <b>Les Marche-Libre</b>. Mon fournisseur. » 
+GW_Drummer	\"They set up a meeting- on that day. I left the tea shop behind- went to check on wares. That's true!\" 	« Ils ont organisé une rencontre— ce jour-là. J'ai laissé le salon de thé derrière— je suis allé vérifier les marchandises. C'est vrai ! » 
+GW_Drummer	\"Wait. Did you know beforehand that it was going to explode?\" 	« Attendez. Saviez-vous à l'avance qu'il allait exploser ? » 
+GW_Drummer	\"No! <i>Dunk, dunk</i>.\" 	« Non ! <i>Dunk, dunk</i>. » 
+GW_Drummer	\"I was in the Warehouse. Here. I hear- explosion. Then I hear- <b>Freestriders</b>- talking about it upstairs.\" 	« J'étais dans l'Entrepôt. Ici. J'entends— l'explosion. Puis j'entends— les <b>Marche-Libre</b>— en parler à l'étage. » 
+GW_Drummer	\"So I hide. In here. Waiting for- boat.\" 	« Alors je me cache. Là-dedans. En attendant— le bateau. » 
+GW_Drummer	\"To get away from- HWBT and- <b>Freestriders</b>. And the rest- <i>of this bloody mess</i>.\" 	« Pour m'éloigner du— HWBT et— des <b>Marche-Libre</b>. Et du reste— <i>de ce foutu bordel</i>. » 
+GW_Drummer	\"Why are you afraid of the HWBT?\" 	« Pourquoi avez-vous peur du HWBT ? » 
+GW_Drummer	\"How are the Freestriders connected with this?\" 	« Quel est le lien des Marche-Libre avec ça ? » 
+GW_Drummer	M-\"Tell me more about this meeting.\" 	« Parlez-moi davantage de cette rencontre. »\"\" 
+GW_Drummer	\"Not to my knowledge, no. God damn.\" 	« Pas à ma connaissance, non. Bon sang. » 
+GW_Drummer	\"This sounds entirely like a Freestrider extension. Typical.\" 	« Cela ressemble entièrement à une extension Marche-Libre. Typique. » 
+GW_Drummer	\"They will give me- <b>punished</b>.\" 	« Ils vont me— <b>punir</b>. » 
+GW_Drummer	\"<i>If they find out my little secret...</i>\" 	« <i>S'ils découvrent mon petit secret...</i> » 
+GW_Drummer	\"<i>Dunk</i>.\" 	« <i>Dunk</i>. » 
+GW_Drummer	\"Possibly. The Old Lady won't take kindly to having a smuggling operation going on right under her nose.\" 	« Possible. La Vieille Dame ne va pas apprécier qu'un trafic se déroule juste sous son nez. » 
+GW_Drummer	\"They set it up. They set- me- up.\" 	« Ils ont tout monté. Ils m'ont— piégé. » 
+GW_Drummer	\"<i>I had</i>- access to the- <b>secret tunnel</b>- under the temple.\" 	« <i>J'avais</i>— accès au— <b>tunnel secret</b>— sous le temple. » 
+GW_Drummer	\"They forced me. I had to.\" 	« Ils m'ont forcé. J'ai dû. » 
+GW_Drummer	\"It was-\" 	\"C'était—\" 
+GW_Drummer	He seems to stop for a moment, contemplating his next mimicry carefully. 	Il semble s'arrêter un instant, contemplant soigneusement sa prochaine imitation. 
+GW_Drummer	\"At noon. Information broker. A foreign woman.\" 	« À midi. Courtière en informations. Une femme étrangère. » 
+GW_Drummer	\"She was selling. Something. To <b>Freestriders</b>.\" 	« Elle vendait. Quelque chose. Aux <b>Marche-Libre</b>. » 
+GW_Drummer	\"She was in- tea shop- when I left.\" 	« Elle était dans— le salon de thé— quand je suis parti. » 
+GW_Drummer	\"Oh boy.\" 	« Oh là là. » 
+GW_Drummer	\"Elf.\" 	« Elfe. » 
+GW_Drummer	He repeats your own voice back to you. 	Il vous renvoie votre propre voix. 
+GW_Drummer	As if he just learned the word from you. 	Comme s'il venait juste d'apprendre le mot de vous. 
+GW_Drummer	\"Speak.\" 	« Parle. » 
+GW_Drummer	\"Yes. <i>Elf</i>.\" 	« Oui. <i>Elfe</i>. » 
+GW_Drummer	\"I do not- know much.\" 	« Je ne sais— pas grand-chose. » 
+GW_Drummer	The voice he's mimicking displays way more confidence than his body language admits. 	La voix qu'il imite affiche bien plus de confiance que son langage corporel ne le concède. 
+GW_Drummer	\"She- I didn't know- <i>her name</i>. She would hang out- with the dwarves. Sometimes.\" 	« Elle— je ne savais pas— <i>son nom</i>. Elle traînait— avec les nains. Parfois. » 
+GW_Drummer	Dwarves, eh? You should go have a chat with them about that. 	Des nains, hein ? Tu devrais aller leur en toucher un mot. 
+GW_Drummer	This broker must be a good person, if she is friends with dwarves. 	Cette courtière doit être une bonne personne, si elle est amie avec les nains. 
+GW_Drummer	\"Who was she meeting with?\" 	« Qui rencontrait-elle ? » 
+GW_Drummer	\"A- Freestrider freelancer.\" 	« Un— pigiste Marche-Libre. » 
+GW_Drummer	\"The <b>hag</b>.\" 	« La <b>hagre</b>. » 
+GW_Drummer	The hag. <i>Lisa</i>. 	La hagre. <i>Lisa</i>. 
+GW_Drummer	He starts flapping his arms, as if he had wings. \"That's it!\" 	Il se met à battre des bras, comme s'il avait des ailes. « C'est ça ! » 
+GW_Drummer	\"She- the <b>hag</b> - she did it! She- blew up- my tea shop.\" 	« Elle— la <b>hagre</b>— c'est elle ! Elle— a fait sauter— mon salon de thé. » 
+GW_Drummer	\"Typical,\" he says, imitating Snell's voice and giving him a nod. 	« Typique », dit-il, imitant la voix de Snell et lui adressant un signe de tête. 
+GW_Drummer	\"Don't do that.\" 	« Ne fais pas ça. » 
+GW_Drummer	\"But he's right. If there's a rogue hag running around, some esoteric bullshit is sure to follow.\" 	« Mais il a raison. S'il y a une hagre voyou qui se balade, des conneries ésotériques sont sûres de suivre. » 
+GW_Drummer	\"But he's right. The hag would be a prime suspect.\" 	« Mais il a raison. La hagre serait une suspecte de premier rang. » 
+GW_Drummer	He leans in and whispers to you, \"If we hadn't already talked to her, of course. He's clearly just tossing out something here.\" 	Il se penche et te chuchote : « Si on lui avait pas déjà parlé, bien sûr. Il balance juste quelque chose au hasard, là. » 
+GW_Drummer	\"We'll need to follow up.\" 	« Il faudra qu'on enquête. » 
+GW_Drummer	\"Do you know where this hag is located?\" 	« Savez-vous où se trouve cette hagre ? » 
+GW_Drummer	\"No. Don't know. Ask- the Freestriders.\" 	« Non. Sais pas. Demandez— aux Marche-Libre. » 
+GW_Drummer	\"That's all. That's all- I know.\" 	« C'est tout. C'est tout— ce que je sais. » 
+GW_Drummer	\"Where do you store these smuggled goods?\" 	« Où entreposez-vous ces marchandises de contrebande ? » 
+GW_Drummer	\"<i>Dunk</i>.\" 	« <i>Dunk</i>. » 
+GW_Drummer	\"In... <shake>Secret Tunnel</shake>.\" 	« Dans... le <shake>Tunnel Secret</shake>. » 
+GW_Drummer	Snell squints. 	Snell plisse les yeux. 
+GW_Drummer	\"And how do I gain access to this Secret Tunnel?\" 	« Et comment puis-je accéder à ce Tunnel Secret ? » 
+GW_Drummer	\"It...\" 	« Il... » 
+GW_Drummer	He is very reluctant to share this. 	Il est très réticent à partager cela. 
+GW_Drummer	Eh. You've broken him enough. He'll spill the beans on this too. 	Bah. Tu l'as suffisamment brisé. Il crachera le morceau là-dessus aussi. 
+GW_Drummer	\"Well? Go on.\" 	« Alors ? Continuez. » 
+GW_Drummer	\"Entrance, from- tea shop <i>might be broken</i>.\" 	« Entrée, depuis— le salon de thé <i>est peut-être brisée</i>. » 
+GW_Drummer	\"There is - <i>hidden</i> - entrance. From <b>Temple of Urth</b>.\" 	« Il y a — une entrée <i>cachée</i>. Depuis le <b>Temple d'Urth</b>. » 
+GW_Drummer	\"A hidden entrance? In the temple?\" 	« Une entrée cachée ? Dans le temple ? » 
+GW_Drummer	\"<i>Yeah, yeah...</i>\" 	« <i>Ouais, ouais...</i> » 
+GW_Drummer	\"You can find it- along the right side - <b>windows</b>. Move rocks.\" 	« Vous pouvez la trouver— sur le côté droit— les <b>fenêtres</b>. Bougez les pierres. » 
+GW_Drummer	\"Just enter - that large - chamber - then go right.\" 	« Entrez juste — dans cette grande — chambre — puis allez à droite. » 
+GW_Drummer	\"Can't miss it.\" 	« Impossible de la rater. » 
+GW_Drummer	\"Move <i>rocks</i>?\" 	« Bouger des <i>pierres</i> ? » 
+GW_Drummer	\"Great. I'll just go check it out.\" 	« Génial. Je vais aller voir ça. » 
+GW_Drummer	\"Yes.\" 	« Oui. » 
+GW_Drummer	\"Loose - stone tiles in the floor. By the window, middle of the wall - to the right.\" 	« Des dalles de pierre — descellées dans le sol. Près de la fenêtre, au milieu du mur — sur la droite. » 
+GW_Drummer	\"Can you explain it without the strange voice mimicry?\" 	« Pouvez-vous l'expliquer sans l'étrange imitation de voix ? » 
+GW_Drummer	\"Look, I don't have the greatest sense of geographic sensory perception or whatever - could you describe this in the form of some other type of non-verbal communication?\" 	« Écoutez, je n'ai pas le plus grand sens de la perception sensorielle géographique ou je-ne-sais-quoi — pourriez-vous décrire cela sous la forme d'un autre type de communication non verbale ? » 
+GW_Drummer	\"No.\" 	« Non. » 
+GW_Drummer	The bird stares at you for several seconds. 	L'oiseau vous fixe pendant plusieurs secondes. 
+GW_Drummer	Then he performs a series of movements with his little talon-hands. Using precise motions, he visualizes the Temple of Urth. A big square. Then he shows you, very clearly, that there are two specific tiles found in the floor, along the right wall. 	Puis il exécute une série de mouvements avec ses petites mains-serres. Par des gestes précis, il visualise le Temple d'Urth. Un grand carré. Puis il vous montre, très clairement, que deux dalles spécifiques se trouvent dans le sol, le long du mur de droite. 
+GW_Drummer	These two stone tiles can be pried open to reveal a staircase down to this place he's describing. 	Ces deux dalles de pierre peuvent être soulevées pour révéler un escalier descendant vers cet endroit qu'il décrit. 
+GW_Drummer	\"I don't get it.\" 	« Je comprends pas. » 
+GW_Drummer	(Give him a thumbs up.) 	(Lui faire un pouce levé.) 
+GW_Drummer	The bird stares at you some more. 	L'oiseau vous fixe encore un peu. 
+GW_Drummer	\"But.. I'm sure I'll find it.\" 	« Mais... je suis sûr que je vais la trouver. » 
+GW_Drummer	The bird stares at you some more. 	L'oiseau vous fixe encore un peu. 
+GW_Drummer	\"Center - of Tolstad.\" 	« Au centre — de Tolstad. » 
+GW_Drummer	\"<i>Dunk</i>.\" 	« <i>Dunk</i>. » 
+GW_Drummer	\"What's your plan now, bird-man?\" 	« Quel est votre plan maintenant, homme-oiseau ? » 
+GW_Drummer	\"And you're sure you've told me everything you can?\" 	« Et vous êtes sûr de m'avoir dit tout ce que vous pouvez ? » 
+GW_Drummer	M-\"Let me see your papers, citizen.\" 	« Laissez-moi voir vos papiers 
+GW_Drummer	He whispers back, \"Protocol?\" 	Il chuchote en retour : « Protocole ? » 
+GW_Drummer	\"If he's trying to leave the city, taking his cit reg would be a good start.\" 	« S'il essaie de quitter la cité, prendre son registre citoyen serait un bon début. » 
+GW_Drummer	\"I'm sure the Old Lady would love to have a word with him.\" 	« Je suis sûr que la Vieille Dame adorerait lui toucher un mot. » 
+GW_Drummer	\"I will leave.\" 	« Je vais partir. » 
+GW_Drummer	\"<i>Dunk</i>.\" 	« <i>Dunk</i>. » 
+GW_Drummer	\"<b>I have business in Reeds. Big Business.</b>\" 	« <b>J'ai des affaires aux Roseaux. De Grandes Affaires.</b> » 
+GW_Drummer	\"But if you leave now, you won't be able to vote in the election!\" 	« Mais si vous partez maintenant, vous ne pourrez pas voter à l'élection ! » 
+GW_Drummer	\"You should really stay and deal with this tea shop mess.\" 	« Vous devriez vraiment rester et régler ce bazar du salon de thé. » 
+GW_Drummer	\"Smart.\" 	« Intelligent. » 
+GW_Drummer	\"Yes. That is- regret. Regretfully.\" 	« Oui. C'est— un regret. À regret. » 
+GW_Drummer	\"<i>Dunk</i>.\" 	« <i>Dunk</i>. » 
+GW_Drummer	The bird stares at you, looking uncomfortable. 	L'oiseau vous fixe, ayant l'air mal à l'aise. 
+GW_Drummer	\"Yes! Please.\" 	« Oui ! Je vous en prie. » 
+GW_Drummer	\"I am in trouble. <i>But I did nothing wrong</i>!\" 	« J'ai des ennuis. <i>Mais je n'ai rien fait de mal</i> ! » 
+GW_Drummer	The goblin scoffs. 	Le gobelin ricane. 
+GW_Drummer	The bird fiddles with his satchel. 	L'oiseau tripote sa sacoche. 
+GW_Drummer	A worn piece of paper. His claw holds it forth. 	Un morceau de papier usé. Sa serre le présente. 
+GW_Drummer	\"Citizen's Registry.\" 	« Registre du Citoyen. » 
+GW_Drummer	(Grab it.) 	(L'attraper.) 
+GW_Drummer	As you hold it up to your helmet, the bird makes that rhythmic thumping noise a few more times. 	Tandis que vous le tenez près de votre heaume, l'oiseau émet ce bruit sourd rythmique à plusieurs reprises. 
+GW_Drummer	(Inspect the papers.) 	(Inspecter les papiers.) 
+GW_Drummer	R-(Hand the papers back to him.) 	(Lui rendre les papiers.) 
+GW_Drummer	R-\"I'll keep these. Don't leave the city, Mr. Drummer.\" 	« Je les garde. Ne quittez pas la cité 
+GW_Drummer	You turn it over in your hands. The paper is thick. 	Vous le retournez dans vos mains. Le papier est épais. 
+GW_Drummer	It says, 'DRUMMER YMLING'. 	On y lit : « DRUMMER YMLING ». 
+GW_Drummer	'BORN 01, 01, 02 PE'. 	« NÉ LE 01, 01, 02 EP ». 
+GW_Drummer	Bet he picked 02 as his birth year just to avoid it looking too fake. 	Je parie qu'il a choisi 02 comme année de naissance juste pour que ça paraisse moins faux. 
+GW_Drummer	\"Oh. Thank you.\" 	« Oh. Merci. » 
+GW_Drummer	He nervously glances towards the exit. 	Il jette un coup d'œil nerveux vers la sortie. 
+GW_Drummer	Should I contain this guy? 	Devrais-je contenir ce gars ? 
+GW_Drummer	It would take time to do so. 	Cela prendrait du temps. 
+GW_Drummer	He does not deserve it. 	Il ne le mérite pas. 
+GW_Drummer	Your gut tells you... no. 	Tes tripes te disent... non. 
+GW_Drummer	Annoying. 	Agaçant. 
+GW_Drummer	Eh. Boring. 	Bah. Ennuyeux. 
+GW_Drummer	Tossing him in the stockade does seem like a good choice. 	Le jeter au cachot semble en effet un bon choix. 
+GW_Drummer	But spending time on that seems stupid. 	Mais y consacrer du temps semble stupide. 
+GW_Drummer	He just shrugs. 	Il se contente de hausser les épaules. 
+GW_Drummer	\"Oh. <i>Thank you</i>.\" 	« Oh. <i>Merci</i>. » 
+GW_Drummer	The voice sounds grateful. 	La voix semble reconnaissante. 
+GW_Drummer	\"Oh! Thank you.\" 	« Oh ! Merci. » 
+GW_Drummer	The voice sounds sarcastic. Hah. 	La voix semble sarcastique. Hah. 
+GW_Drummer	\"Since you are- <b>so kind</b>.\" 	« Puisque vous êtes— <b>si aimable</b>. » 
+GW_Drummer	He hands you another note from his satchel. There's a series of numbers on it. 	Il vous tend une autre note tirée de sa sacoche. Il y a une série de chiffres dessus. 
+GW_Drummer	\"Hidden safe. In my office.\" 	« Coffre caché. Dans mon bureau. » 
+GW_Drummer	\"That is- combination. <i>Feel free to take all the shit you want</i>. The contents. <i>Contents</i>. <b>I will not return to this establishment.</b>\" 	« C'est— la combinaison. <i>Sentez-vous libre de prendre tout ce que vous voulez</i>. Le contenu. <i>Le contenu</i>. <b>Je ne reviendrai pas dans cet établissement.</b> » 
+GW_Drummer	\"<i>Thank you for your service</i>.\" 	« <i>Merci pour votre service</i>. » 
+GW_Drummer	A bit late. But sure. 	Un peu tard. Mais bon. 
+GW_Drummer	\"Ah. Oh. Okay.\" 	« Ah. Oh. D'accord. » 
+GW_Drummer	\"Good idea,\" Snell whispers to you. \"You can always drop them off to Lady Sageleaf. She'd appreciate it.\" 	« Bonne idée », te chuchote Snell. « Tu peux toujours les apporter à Dame Feuille-de-Sauge. Elle apprécierait. » 
+GW_Drummer	The bird-man looks nervous. 	L'homme-oiseau a l'air nerveux. 
+GW_Drummer	The bird-man looks perfectly fine with this turn of events. 	L'homme-oiseau a l'air parfaitement satisfait de cette tournure. 
+GW_Drummer	\"But I can- I- leave- Warehouse?\" 	« Mais je peux— je— quitter— l'Entrepôt ? » 
+GW_Drummer	The bird-man starts to shuffle towards the stairs. 	L'homme-oiseau commence à se traîner vers les escaliers. 
+GW_Drummer	\"Good luck out there, Mr. Drummer.\" 	« Bonne chance dehors, monsieur Drummer. » 
+GW_Drummer	(Just watch him walk away.) 	(Le regarder simplement s'éloigner.) 
+GW_Drummer	He freezes in his step. 	Il se fige dans son pas. 
+GW_Drummer	Without looking your way, you hear him mimic a shrill voice. 	Sans regarder dans votre direction, vous l'entendez imiter une voix stridente. 
+GW_Drummer	\"<i>Not my problem</i>.\" 	« <i>C'est pas mon problème</i>. » 
+GW_Drummer	Then he just keeps walking. 	Puis il continue simplement à marcher. 
+GW_Drummer	Did he know? 	Le savait-il ? 
+GW_Drummer	No. Not for sure. 	Non. Pas avec certitude. 
+GW_Drummer	But he had a hunch. 	Mais il avait une intuition. 
+GW_Drummer	He figured there was a chance the elf was dead. Just another reason for running. 	Il pensait qu'il y avait une chance que l'elfe soit morte. Juste une raison de plus pour fuir. 
+GW_Drummer	Without stopping you hear him mutter out in a shrill voice. 	Sans s'arrêter, vous l'entendez marmonner d'une voix stridente. 
+GW_Drummer	\"You too- <b>cleric</b>.\" 	« Vous aussi— <b>clerc</b>. » 
+GW_Drummer	That 'cleric'. The voice enters your bloodstream. 	Ce « clerc ». La voix pénètre ton sang. 
+GW_Drummer	That is the voice of a paladin. 	C'est la voix d'un paladin. 
+GW_Drummer	Wait... shouldn't you...? 	Attends... ne devrais-tu pas... ? 
+GW_Drummer	Alright. He's already on his way. Too late. 	Bon. Il est déjà en route. Trop tard. 
+GW_Drummer	As the bird-man leaves the warehouse, you hear a faint rhythmic sound follow him out. 	Tandis que l'homme-oiseau quitte l'entrepôt, vous entendez un faible son rythmique le suivre vers la sortie. 
+GW_Drummer	\"<i>Dunk</i>.\" 	« <i>Dunk</i>. » 
+GW_Drummer	The bird sure told you a bunch of things. 	L'oiseau t'en a sûrement raconté, des choses. 
+GW_Drummer	Interrogation finished. 	Interrogatoire terminé. 
+GW_Drummer	He mentioned the information broker. 	Il a mentionné la courtière en informations. 
+GW_Drummer	The elf. 	L'elfe. 
+GW_Drummer	She's the key to this. 	C'est elle, la clé de tout ça. 
+GW_Drummer	She might be relevant. 	Elle pourrait être pertinente. 
+GW_Drummer	Her connection with the dwarves and Freestriders. Start there. 	Son lien avec les nains et les Marche-Libre. Commence par là. 
+GW_Drummer	E-Cool. 	Cool. 
+GW_Drummer	\"I wonder what he'll do.\" 	« Je me demande ce qu'il va faire. » 
+GW_Drummer	\"Is it okay to have him running around?\" 	« C'est OK de le laisser se balader ? » 
+GW_Drummer	\"You believe anything he said?\" 	« Tu crois quoi que ce soit de ce qu'il a dit ? » 
+GW_Drummer	\"Cool. Let's go.\" (Toss the papers to Snell and leave.) 	« Cool. Allons-y. » (Lancer les papiers à Snell et partir.) 
+GW_Drummer	\"Eh.\" 	« Bof. » 
+GW_Drummer	\"Not like we've got a jail to toss him in.\" 	« C'est pas comme si on avait une prison où le jeter. » 
+GW_Drummer	\"Well, I mean. <i>You</i> do. But then you'd have to go do that.\" 	« Enfin, je veux dire. <i>Toi</i> oui. Mais alors il faudrait que tu ailles faire ça. » 
+GW_Drummer	\"Sounds like a pain, just to catch a lying bird.\" 	« Ça a l'air pénible, juste pour attraper un oiseau menteur. » 
+GW_Drummer	Going all the way to the stockade, to do all the paperwork, and document all the evidence... 	Aller jusqu'au cachot, faire toute la paperasse, documenter toutes les preuves... 
+GW_Drummer	It would take a full day. If you're lucky. 	Cela prendrait une journée entière. Avec un peu de chance. 
+GW_Drummer	\"Your choice.\" 	« À toi de choisir. » 
+GW_Drummer	\"Sageleaf will be pissed either way. Now at least she might not have to deal with him anymore.\" 	« Feuille-de-Sauge sera furax dans tous les cas. Au moins maintenant elle n'aura peut-être plus à s'en occuper. » 
+GW_Drummer	\"I'll handle the fallout. Always do.\" 	« Je gérerai les retombées. Comme toujours. » 
+GW_Drummer	\"Happy isn't the right word.\" 	« Content, c'est pas le bon mot. » 
+GW_Drummer	\"But Sageleaf might be slightly less pissed this way. In the short term.\" 	« Mais Feuille-de-Sauge sera peut-être légèrement moins furax comme ça. À court terme. » 
+GW_Drummer	\"Having to deal with that bird sure is a headache.\" 	« Devoir s'occuper de cet oiseau, c'est sûrement un mal de crâne. » 
+GW_Drummer	\"Sure. I'm certain he believes he's a victim here.\" 	« Bien sûr. Je suis certain qu'il croit être la victime ici. » 
+GW_Drummer	\"I'm inclined to say the same, somewhat.\" 	« Je suis enclin à dire pareil, plus ou moins. » 
+GW_Drummer	\"And he did not blow up the tea shop. Not with that smuggling stuff going on.\" 	« Et il n'a pas fait sauter le salon de thé. Pas avec ce truc de contrebande en cours. » 
+GW_Drummer	\"We need to check out the tea shop. Properly. ASAP. And then check up on that info broker...\" 	« Il faut qu'on inspecte le salon de thé. Correctement. Au plus vite. Et ensuite qu'on enquête sur cette courtière... » 
+GW_Drummer	\"And that elf...\" 	« Et cette elfe... » 
+GW_Drummer	His voice trails off. Then he mutters a curse word. 	Sa voix s'éteint. Puis il marmonne un juron. 
+GW_Drummer	\"She had a connection with the Azgals in the tea shop. She also had a meeting with the Freestriders.\" 	« Elle avait un lien avec les Azgals au salon de thé. Elle avait aussi une rencontre avec les Marche-Libre. » 
+GW_Drummer	\"Feels like she's a String connecting every fucking party in the city.\" 	« On dirait qu'elle est un Fil qui relie chaque putain de parti de la cité. » 
+GW_Drummer	\"What a fucking mess.\" 	« Quel putain de bordel. » 
+GW_Sand	You pick up the polished Sallet helm, sand flowing from its orifices. 	Tu ramasses le heaume salade poli, du sable s'écoulant de ses orifices. 
+GW_Sand	But before you remove it from the box entirely... 	Mais avant de le retirer entièrement de la caisse... 
+GW_Sand	You sense your scarf rushing to your aid. 	Tu sens ton écharpe se précipiter à ton aide. 
+GW_Sand	Ah shit. 	Ah merde. 
+GW_Sand	Not again. 	Pas encore. 
+GW_Sand	Move! QUICK! 	Bouge ! VITE ! 
+GW_Sand	You see something shift in the sand in the crate. 	Tu vois quelque chose bouger dans le sable de la caisse. 
+GW_Sand	No. 	Non. 
+GW_Sand	It is the SAND that is shifting. 	C'est le SABLE qui bouge. 
+GW_Sand	Hm? 	Hm ? 
+GW_Sand	ROLL8 dex-Dodge the sand. 	Esquiver le sable. 
+GW_Sand	What's...? 	Qu'est-ce que... ? 
+GW_Sand	In a heartbeat (or faster) you pull back your gloved hands. 	En un battement de cœur (voire plus vite), tu retires tes mains gantées. 
+GW_Sand	You watch as the sand attempts to rush forward - the shape of it like a slithering esoteric creature - and just barely graze you before slinking back into the box. 	Tu regardes le sable tenter de se jeter vers l'avant - sa forme rappelant une créature ésotérique reptilienne - et t'effleurer de justesse avant de se replier dans la caisse. 
+GW_Sand	Ah-hah! Won't get you again, you damn spooky blood-sucking sand-monster-thing! 	Ah-hah ! Tu m'auras pas une deuxième fois, satané monstre-de-sable-flippant-suceur-de-sang ! 
+GW_Sand	Then the sand goes still once more. 	Puis le sable s'immobilise à nouveau. 
+GW_Sand	(Look at it.) 	(La regarder.) 
+GW_Sand	Nice job. 	Bien joué. 
+GW_Sand	But yeah. This sand isn't really sand. 	Mais ouais. Ce sable n'est pas vraiment du sable. 
+GW_Sand	Good job getting that helmet though. It looks REALLY nice. 	Beau boulot pour le heaume, ceci dit. Il a l'air VRAIMENT classe. 
+GW_Sand	Not again. 	Pas encore. 
+GW_Sand	Ah, yeah. 	Ah, ouais. 
+GW_Sand	You don't get away in time. 	Tu ne t'en sors pas à temps. 
+GW_Sand	(Get pulled in.) 	(Te faire happer.) 
+GW_Sand	GODS BE GOOD. 	PAR LA BONTÉ DES DIEUX. 
+GW_Sand	Shit, shit, shit! 	Merde, merde, merde ! 
+GW_Sand	\"<shake>CLERIC</shake>!\" 	« <shake>CLERC</shake> ! » 
+GW_Sand	The sand... is sucking you dry. 	Le sable... te vide jusqu'à la dernière goutte. 
+GW_Sand	This Mosquito Sand. It is quite potent. 	Ce Sable Moustique. Il est plutôt puissant. 
+GW_Sand	You will not survive for long. 	Tu ne survivras pas longtemps. 
+GW_Sand	ROLL10 dex-Wriggle your way out. 	T'en extirper en gigotant. 
+GW_Sand	WRIGGLE! 	GIGOTE ! 
+GW_Sand	<shake>WRIGGLE...!</shake> 	<shake>GIGOTE... !</shake> 
+GW_Sand	(Wriggle loose.) 	(Te dégager en gigotant.) 
+GW_Sand	You wriggle harder than you've ever done before. And faster too. 	Tu gigotes plus fort que tu ne l'as jamais fait. Et plus vite aussi. 
+GW_Sand	And ultimately... 	Et finalement... 
+GW_Sand	Shit...! 	Merde... ! 
+GW_Sand	You gotta... <shake>wriggle...</shake>! 	Tu dois... <shake>gigoter...</shake> ! 
+GW_Sand	I can't wriggle... I'm too... stiff! 	J'arrive pas à gigoter... je suis trop... raide ! 
+GW_Sand	You gotta loosen up! Loosen up before it... 	Faut que tu te détendes ! Détends-toi avant que ça... 
+GW_Sand	Sucks... 	Ne te vide... 
+GW_Sand	This is unbecoming of a hero. 	Cela ne sied guère à un héros. 
+GW_Sand	To die in sand. 	Mourir dans le sable. 
+GW_Sand	Like some common peasant. 	Comme un vulgaire paysan. 
+GW_Sand	It's actually quite the exotic death, really. 	C'est en fait une mort plutôt exotique, à vrai dire. 
+GW_Sand	I mean, it's a story, right? 	Enfin, c'est une histoire, non ? 
+GW_Sand	Cleric sucked dry by esoteric sand-monster! 	Clerc vidé de son sang par un monstre de sable ésotérique ! 
+GW_Sand	Could be a magazine tale. 	Pourrait faire un récit de magazine. 
+GW_Sand	SHUT UP! 	LA FERME ! 
+GW_Sand	You are... <b>leaking</b>. 	Tu es... en train de <b>fuir</b>. 
+GW_Sand	GAH...! TRY <i>HARDER</i>! 	GAH... ! ESSAIE <i>PLUS FORT</i> ! 
+GW_Sand	The sand is trying to EAT YOU! 	Le sable essaie de te DÉVORER ! 
+GW_Sand	<shake>AGAIN</shake>! 	<shake>ENCORE</shake> ! 
+GW_Sand	Uh, wait... 	Euh, attends... 
+GW_Sand	The goblin appears to have noticed what you stuck your hands into, and is (in said slow motion) reacting to it. 	Le gobelin semble avoir remarqué ce dans quoi tu as plongé les mains, et y réagit (dans ledit ralenti). 
+GW_Sand	You make it out! 	Tu y arrives ! 
+GW_Sand	The remnant sand rushes back to the crate, after sucking out a bit more of your precious blood. 	Le sable restant retourne vivement dans la caisse, après avoir aspiré un peu plus de ton précieux sang. 
+GW_Sand	Now close the lid, before you get into more trouble. 	Maintenant ferme le couvercle, avant de t'attirer d'autres ennuis. 
+GW_Sand	(Close the lid.) 	(Refermer le couvercle.) 
+GW_Sand	You do so, quickly. The sand seems to calm down underneath. 	Tu t'exécutes, rapidement. Le sable semble se calmer dessous. 
+GW_Sand	Whelp. 	Bon. 
+GW_Sand	E-Okay. I'll leave this thing alone now. (Be happy about your new helmet.) 	D'accord. Je vais laisser ce truc tranquille maintenant. (Être content de ton nouveau heaume.) 
+GW_Sand	Snell rushes forward with the lid in hand. 	Snell se précipite avec le couvercle en main. 
+GW_Sand	He shuts it with a satisfying thud. 	Il le referme dans un bruit sourd satisfaisant. 
+GW_Sand	\"Good gods.\" 	« Par tous les dieux. » 
+GW_Sand	\"I hate Mosquito Sand.\" 	« Je déteste le Sable Moustique. » 
+GW_Sand	\"Yeah, same.\" 	« Ouais, pareil. » 
+GW_Sand	\"It's not so bad.\" 	« C'est pas si grave. » 
+GW_Sand	\"I have no feelings on it.\" 	« Je n'ai pas d'avis là-dessus. » 
+GW_Sand	\"It's...\" 	« C'est... » 
+GW_Sand	He sighs. 	Il soupire. 
+GW_Sand	\"It doesn't matter. Just don't touch it anymore, okay?\" 	« Peu importe. Ne le touche plus, d'accord ? » 
+GW_Sand	The goblin does not respond at first. He simply looks around, and sighs. 	Le gobelin ne répond pas tout de suite. Il regarde simplement autour de lui, et soupire. 
+GW_Sand	\"Be more careful. There's lots of weird shit in here.\" 	« Sois plus prudent. Il y a plein de trucs bizarres ici. » 
+GW_PocketBikes	You stare at the rack of hanging, tiny bicycles. 	Tu fixes le présentoir de minuscules bicyclettes suspendues. 
+GW_PocketBikes	Some of them <i>very</i> tiny. 	Certaines <i>extrêmement</i> petites. 
+GW_PocketBikes	Pocket bikes! The dream of every kid in Norvik. 	Des Vélos de Poche ! Le rêve de tout gamin de Norvik. 
+GW_PocketBikes	They're covered in dust. 	Ils sont couverts de poussière. 
+GW_PocketBikes	These are extremely expensive. If they work. Few pocket bikes are functional these days. 	Ils sont extrêmement coûteux. S'ils fonctionnent. Peu de Vélos de Poche sont fonctionnels de nos jours. 
+GW_PocketBikes	The bikes don't seem to do anything. 	Les vélos ne semblent rien faire. 
+GW_PocketBikes	\"Look, Snell.\" (Giggle.) \"It's a bike for you.\" 	« Regarde, Snell. » (Pouffer.) « C'est un vélo pour toi. » 
+GW_PocketBikes	\"You want one?\" 	« Tu en veux un ? » 
+GW_PocketBikes	\"I really like these bikes.\" 	« J'aime vraiment ces vélos. » 
+GW_PocketBikes	In response, the goblin points to a crate in the corner, with the text 'eso-conserved milk' on it. 	En réponse, le gobelin pointe du doigt une caisse dans le coin, avec le texte « lait éso-conservé » dessus. 
+GW_PocketBikes	\"Look, Cleric.\" 	« Regarde, Clerc. » 
+GW_PocketBikes	\"A <i>treat</i> for you.\" 	« Une <i>gâterie</i> pour toi. » 
+GW_PocketBikes	The goblin is calling you a milk-drinker. 	Le gobelin est en train de te traiter de buveur de lait. 
+GW_PocketBikes	He's not allowed to make fun of you like that! 	Il n'a pas le droit de se moquer de toi comme ça ! 
+GW_PocketBikes	(Even if it's true.) 	(Même si c'est vrai.) 
+GW_PocketBikes	Just play along. He'll think it's funny if you're cool. 	Joue le jeu. Il trouvera ça drôle si tu es cool. 
+GW_PocketBikes	He does not mean it in a mean way. 	Il ne le dit pas méchamment. 
+GW_PocketBikes	Snell would never be mean to you. Not in a real way. 	Snell ne serait jamais méchant avec toi. Pas vraiment. 
+GW_PocketBikes	\"<b>You take that back</b>!\" 	« <b>Retire ça</b> ! » 
+GW_PocketBikes	\"Yum.\" (Play along.) 	« Miam. » (Jouer le jeu.) 
+GW_PocketBikes	\"We don't have time to make stupid jokes, Snell. Get serious for once.\" 	« On n'a pas le temps de faire des blagues stupides, Snell. Sois sérieux pour une fois. » 
+GW_PocketBikes	\"Whoa. Can dish out, but can't take, huh?\" 	« Ouah. Capable d'en envoyer, mais pas d'en prendre, hein ? » 
+GW_PocketBikes	\"Just focus on the fucking task.\" 	« Concentre-toi juste sur la putain de mission. » 
+GW_PocketBikes	He chuckles. 	Il pouffe. 
+GW_PocketBikes	YOU'RE BONDING. 	VOUS CRÉEZ DES LIENS. 
+GW_PocketBikes	\"Excuse me?\" 	« Pardon ? » 
+GW_PocketBikes	\"Get serious? ME?\" 	« Sois sérieux ? MOI ? » 
+GW_PocketBikes	\"Yeah. <i>Get real</i>.\" 	« Ouais. <i>Reviens sur terre</i>. » 
+GW_PocketBikes	\"...Whatever.\" 	« ...Bref. » 
+GW_PocketBikes	\"Okay. I'll get real for you.\" 	« D'accord. Je vais redevenir sérieux pour toi. » 
+GW_PocketBikes	\"STOP looking at broken pocket bikes. And start focusing on the gods-be-damned JOB!\" 	« ARRÊTE de regarder des Vélos de Poche cassés. Et commence à te concentrer sur cette satanée MISSION ! » 
+GW_PocketBikes	Whoa. He bit back. 	Ouah. Il a mordu en retour. 
+GW_PocketBikes	\"Whatever?\" 	« Peu importe ? » 
+GW_PocketBikes	He shakes his head. 	Il secoue la tête. 
+GW_PocketBikes	\"Whatever.\" 	« Peu importe. » 
+GW_PocketBikes	\"No, thanks.\" 	« Non, merci. » 
+GW_PocketBikes	\"I'm sure you do.\" 	« Je suis sûr que oui. » 
+GW_PocketBikes	\"I'm assuming they're broken anyhow. They'd never leave actual functioning Pocket Bikes in a place like this.\" 	« Je suppose qu'ils sont cassés de toute façon. On ne laisserait jamais de vrais Vélos de Poche fonctionnels dans un endroit pareil. » 
+GW_PocketBikes	\"Way too expensive.\" 	« Bien trop chers. » 
+GW_PocketBikes	Snell looks around. 	Snell regarde autour de lui. 
+GW_PocketBikes	\"Where is that rhythmic thumping noise coming from? Focus on that instead.\" 	« D'où vient ce bruit de cognement rythmé ? Concentre-toi là-dessus à la place. » 
+GW_PocketBikes	You stare at the tiny bikes. 	Tu fixes les petits vélos. 
+GW_PocketBikes	(Try touching one of the tiny bikes.) 	(Essayer de toucher l'un des petits vélos.) 
+GW_PocketBikes	Can I ride one of these things? 	Je peux monter sur l'un de ces trucs ? 
+GW_PocketBikes	E-Right. Neat. 	Bien. Cool. 
+GW_PocketBikes	A quick tap reveals the lack of any esoteric tingle. 	Un petit tapotement révèle l'absence du moindre picotement ésotérique. 
+GW_PocketBikes	The bikes are unusable. Permanently stuck in their tiny form. 	Les vélos sont inutilisables. Bloqués à jamais dans leur forme miniature. 
+GW_PocketBikes	Probably why they're here, covered in dust. 	Sans doute la raison pour laquelle ils sont ici, couverts de poussière. 
+GW_PocketBikes	Unless you're the size of a goblin with the Reduce spell cast on him, no. 	À moins de faire la taille d'un gobelin avec un sort de Rapetissement, non. 
+GW_PocketBikes	I'm sure you could make it work. 	Je suis sûr que tu pourrais te débrouiller. 
+GW_PocketBikes	You'd look like a jester. But not in a good way. 	Tu aurais l'air d'un bouffon. Mais pas dans le bon sens. 
+GW_PocketBikes	It would be a challenge. One not worth it. 	Ce serait un défi. Qui n'en vaudrait pas la peine. 

@@ -1,0 +1,288 @@
+Ettir_Companion	E-\"Continuons.\" 	\"Continuons.\" 
+Ettir_Companion	\"How?\" 	« Comment ? » 
+Ettir_Companion	\"Hm?\" 	« Hum ? » 
+Ettir_Companion	\"Elle...\" 	« C'est... » 
+Ettir_Companion	\"Yeah.\" 	« Ouais. » 
+Ettir_Companion	\"Okay.\" 	« D'accord. » 
+Ettir_Companion	\"Intéressant. Well, that ruins my plan.\" 	\"Intéressant. Voilà qui ruine mon plan.\" 
+Ettir_Companion	\"Bon à savoir.\" 	« Bon à savoir. » 
+Ettir_Companion	\"Comme c'est intéressant.\" 	« Comme c'est intéressant. » 
+Ettir_Companion	\"En effet.\" 	« En effet. » 
+Ettir_Companion	\"No.\" 	« Non. » 
+Ettir_Companion	\"Okay.\" 	« D'accord. » 
+Ettir_Companion	\"Why?\" 	« Pourquoi ? » 
+Ettir_Companion	\"I see. You're simply too powerful to require healing, then.\" (Laisser tomber.) 	\"Je vois. Tu es simplement trop puissante pour nécessiter une guérison, alors.\" (Laisser tomber.) 
+Ettir_Companion	Ses multiples yeux te fusillent du regard. 	Ses yeux innombrables vous fusillent du regard. 
+Ettir_Companion	M-\"...Intéressant.\" 	\"...Intéressant.\" 
+Ettir_Companion	\"Oh.\" 	« Oh. » 
+Ettir_Companion	\"I understand. Thank you for sharing.\" (Laisser tomber.) 	\"Je comprends. Merci de t'être confiée.\" (Laisser tomber.) 
+Ettir_Companion	\"Yes.\" 	« Oui. » 
+Ettir_Companion	\"J'y ai combattu.\" 	« Oui. » 
+Ettir_Companion	\"Ce n'est pas le cas.\" 	« Ce ne l'est pas. » 
+Ettir_Companion	\"I.\" 	\"Je.\" 
+Ettir_Companion	BEHELD. 	REGARDÉ. 
+Ettir_Companion	\"Allez. Talk normally.\" 	\"Allons. Parle normalement.\" 
+Ettir_Companion	\"Yes.\" 	« Oui. » 
+Ettir_Companion	\"Je suis d'accord.\" 	« Je suis d'accord. » 
+Ettir_Companion	\"Compréhensible.\" 	« Compréhensible. » 
+OP_Isk	A seal? 	Un sceau ? 
+OP_Isk	Indeed. 	En effet. 
+OP_Isk	E-Je m'occuperai de ceci plus tard. 	Je m'occuperai de ceci plus tard. 
+OP_Isk	« ...Oui. » 	« ... Oui. » 
+OP_Isk	\"Vas-y. Ask.\" 	\"Allez-y. Demandez.\" 
+OP_Isk	« ...D'accord. » 	« ... D'accord. » 
+OP_Isk	\"Oh.\" 	« Oh. » 
+OP_Isk	\"Lady?\" 	\"Madame ?\" 
+OP_Isk	« Allô ? » 	« Bonjour ? » 
+OP_Isk	\"Geez.\" 	\"Bon sang.\" 
+OP_Isk	« Je ne suis pas sûr de comprendre. » 	« Je ne suis pas sûre de comprendre. » 
+OP_Isk	Agreed. 	D'accord. 
+OP_Isk	E-Je devrais y aller. 	Je devrais y aller. 
+OP_Isk	\"<b>Oui</b>.\" 	« <b>Oui</b>. » 
+OP_Isk	\"Looks clear. Je crois.\" 	\"Ça a l'air dégagé. Je crois.\" 
+OP_Isk	ROLL15 int-Tenter de comprendre ce que cela fait. 	Tenter de comprendre ce que cela fait. 
+OP_Isk	E-Bah. Pas maintenant. 	Nah. Pas maintenant. 
+OP_Isk	\"C'est un... Snail.\" 	\"C'est... un Escargot.\" 
+OP_Isk	(Vous racler la gorge, bruyamment.) 	(Te racler la gorge, bruyamment.) 
+OP_Isk	(La fixer.) 	(Le fixer.) 
+OP_Isk	Aucun doute. 	Il n'y a aucun doute. 
+OP_Isk	\"Pardon ?\" 	« Pardon ? » 
+OP_Isk	\"Voilà. That should be better.\" 	\"Et voilà. Cela devrait aller mieux.\" 
+OP_Isk	\"Je suis le Clerc.\" 	« Je suis Le Clerc. » 
+OP_Isk	What?! 	Quoi ?! 
+OP_Isk	M-\"Je crois que vous avez été emprisonné ici très longtemps.\" 	\"Je crois que vous avez été emprisonné ici très longtemps.\" 
+OP_Isk	\"Pour quoi ?\" 	« Pour quoi ? » 
+OP_Isk	\"Qu'est-il arrivé ?\" 	\"Que s'est-il passé ?\" 
+OP_Isk	\"Pardon.\" 	« Désolé. » 
+OP_Isk	\"Tut?\" 	\"Tut ?\" 
+OP_Isk	\"Hm.\" 	« Hm. » 
+OP_Isk	Ce serait... 	Cela ferait... 
+OP_Isk	\"Yes.\" 	« Oui. » 
+OP_Isk	« Je suis désolée. » 	\"Je suis désolé.\" 
+OP_Isk	« ...Oui. » 	« ... Oui. » 
+OP_Isk	\"Oui ça l'est.\" 	« Si, c'est vrai. » 
+OP_Isk	(Se taire.) 	(Être silencieux.) 
+OP_Isk	\"Oh.\" 	« Oh. » 
+OP_Isk	\"That bastard... he led them into pure <i>de-evolution</i>. C'est...\" 	\"Ce salaud... il les a menés à une pure <i>dé-évolution</i>. C'est...\" 
+OP_Isk	« Raconte-moi. » 	« Dites-moi. » 
+OP_Isk	\"I...\" 	« Je... » 
+OP_Isk	\"<b>Oui</b>.\" 	« <b>Oui</b>. » 
+OP_Isk	\"Oui, oui. Anything you need. I am in your debt as well of course.\" 	\"Oui, oui. Tout ce qu'il vous faut. Je vous suis redevable également, bien sûr.\" 
+OP_Isk	« Moi aussi. » 	\"Moi aussi.\" 
+OP_Isk	\"Pouvez-vous m'apprendre la magie ?\" 	« Pouvez-vous m'enseigner la magie ? » 
+OP_Isk	\"Pour qui votes-tu aux élections ?\" 	« Pour qui votes-tu à l'élection ? » 
+OP_Isk	E-À la prochaine, Isk. 	À la prochaine, Isk. 
+OP_Isk	Ew. 	Beurk. 
+OP_Isk	\"I see. Dommage.\" 	\"Je vois. Dommage.\" 
+OP_Isk	\"Sure!\" 	« Bien sûr ! » 
+OP_Isk	Ah! 	Ah ! 
+OP_Isk	\"No.\" 	« Non. » 
+OP_Isk	\"No, you seem to have thought of all I am able to hand you. Excepté...\" 	\"Non, vous semblez avoir pensé à tout ce que je puis vous remettre. Sauf...\" 
+OP_Isk	\"Hm?\" 	« Hum ? » 
+OP_Isk	« Qu'est-ce que tu fais ? » 	« Que faites-vous ? » 
+OP_Isk	(Se contenter de regarder.) 	(Simplement regarder.) 
+OP_Isk	A grin. 	Un sourire. 
+OP_Isk	\"Oh!\" 	« Oh ! » 
+OP_Isk	\"Pardon.\" 	« Désolé. » 
+OP_Isk	(Se contenter de le fixer.) 	(Simplement le fixer.) 
+OP_Isk	\"Ah oui. Tut was your dead wife.\" 	\"Ah oui. Tut était votre défunte épouse.\" 
+OP_Isk	\"You've already taken it, of course.\" Il vous foudroie du regard. 	\"Vous l'avez déjà pris, bien entendu.\" Il vous fusille du regard. 
+OP_Isk	\"Je le nomme Merevesh — Bâton des Fils. Vous pouvez l'appeler Bâton des Toulin'catl, en souvenir de mon peuple disparu. Il me sera rendu une fois que vous en aurez terminé avec tout cela.\" 	« Je l'appelle Merevesh. Tu peux l'appeler Bâton de Toulin'catl, en mémoire de mon peuple tombé. Il me sera rendu une fois que tu en auras fini avec tout ceci. » 
+OP_Isk	\"Merci. And Tut.\" 	\"Merci. Et merci à Tut.\" 
+OP_Isk	\"Pardon ?\" 	« Pardon ? » 
+OP_Isk	\"Huh.\" 	« Tiens. » 
+OP_Isk	\"Intéressant. I should go speak with him too at some point!\" 	\"Intéressant. Je devrais aller lui parler aussi à un moment donné !\" 
+OP_Isk	M-\"Alors, que voulez-vous demander ?\" 	\"Alors, que voulez-vous demander ?\" 
+OP_Isk	(Rire.) \"No.\" 	(Rire.) \"Non.\" 
+OP_Isk	(Y réfléchir.)\"Technically speaking...\" 	(Y réfléchir.)\"Techniquement parlant...\" 
+OP_Isk	\"No.\" 	« Non. » 
+OP_Isk	\"Yes?\" 	« Oui ? » 
+OP_Isk	\"Ah.\" 	« Ah. » 
+OP_Isk	\"This must be some common knowledge. Veuillez préciser.\" 	\"Cela doit être quelque savoir commun. Je vous prie de développer.\" 
+OP_Isk	\"It's a direction. Tu sais. Downwards on the map.\" 	\"C'est une direction. Vous savez. Vers le bas sur la carte.\" 
+OP_Isk	\"Intéressant. Do you not use Inwards and Outwards? With and Against?\" 	\"Intéressant. Vous n'utilisez pas Vers-l'intérieur et Vers-l'extérieur ? Avec et Contre ?\" 
+OP_Isk	Bien sûr que tu l'as. 	Bien sûr que tu aimes. 
+OP_Isk	Well. 	Eh bien. 
+OP_Isk	\"Attends. Here?\" 	\"Attendez. Ici ?\" 
+OP_Isk	\"Potentiellement.\" 	« Potentiellement. » 
+OP_Isk	\"Je ne sais pas. It was a library, and it talked.\" 	\"Je ne sais pas. C'était une bibliothèque, et elle parlait.\" 
+OP_Isk	« Eh ben. » 	« Oh là là. » 
+OP_Isk	« Parfois. » 	\"Parfois.\" 
+OP_Isk	\"You live upon the ruins of my people's creations. Très intéressant...\" 	\"Vous vivez sur les ruines des créations de mon peuple. Très intéressant...\" 
+OP_Isk	« C'était— » 	\"C'était—\" 
+OP_Isk	\"Oh?\" 	« Oh ? » 
+OP_Isk	\"By Jor. C'est... very good.\" 	\"Par Jor. C'est... très bien.\" 
+OP_Isk	\"Many gods were born in the next era, the Ère Divine.\" 	\"Bien des dieux naquirent à l'ère suivante, l'Ère Divine.\" 
+OP_Isk	\"Continuez.\" 	\"Continuez donc.\" 
+OP_Isk	« C'est compliqué. » 	\"C'est compliqué.\" 
+OP_Isk	\"Fascinant.\" 	« Fascinant. » 
+OP_Isk	Stalk? 	Pédoncule ? 
+OP_Isk	\"I...\" 	« Je... » 
+OP_Isk	« Non, pas du tout. » 	\"Non, pas du tout.\" 
+OP_Isk	Sorry. 	Pardon. 
+OP_Isk	\"That's all I have to ask about wizards. Pour l'instant.\" 	\"C'est tout ce que j'ai à demander sur les magiciens. Pour l'instant.\" 
+OP_Isk	\"No.\" 	« Non. » 
+OP_Isk	\"Merci. That was very informative.\" 	\"Merci. C'était fort instructif.\" 
+OP_Isk	\"Oui, je te prie.\" 	\"Oui, je t'en prie.\" 
+OP_Isk	\"Oh.\" 	« Oh. » 
+OP_Isk	\"It cuts off flow to les Fils. Flow from the past and future. A ripple of non-magic through time. I will be honest, I have no clue what the exact parameters of casting such a spell would be, nor what the long-term effects are.\" 	\"Il coupe le flux vers les Fils. Le flux du passé et du futur. Une ondulation de non-magie à travers le temps. Je serai franc, je n'ai aucune idée des paramètres exacts de lancement d'un tel sort, ni de ses effets à long terme.\" 
+OP_Isk	STARS. 	ÉTOILES. 
+OP_Isk	« Continue. » 	« Continuez. » 
+OP_Isk	\"He created les Fils. Instead of having a series of nodes with connections between them, his leylines were simply just nodes. They contain a sort of Esoteric Vector, intensity, delta, rush, tone... some call it colors. Various difficult to parse parameters.\" 	\"Il a créé les Fils. Au lieu d'avoir une série de nœuds avec des connexions entre eux, ses leylines n'étaient que de simples nœuds. Ils contiennent une sorte de Vecteur Ésotérique, d'intensité, de delta, de flux, de ton... certains appellent cela des couleurs. Divers paramètres difficiles à analyser.\" 
+OP_Isk	\"Instead of being interconnected, they simply bump into one another. Physiquement. That is how they interact, to put it in a simple metaphor.\" 	\"Au lieu d'être interconnectés, ils s'entrechoquent simplement. Physiquement. C'est ainsi qu'ils interagissent, pour le dire par une métaphore simple.\" 
+OP_Isk	\"Connected from the past, through the present, to the future. A straight line. A cord. Une Corde.\" 	\"Connectés depuis le passé, à travers le présent, jusqu'au futur. Une ligne droite. Une corde. Un Fil.\" 
+OP_Isk	M-\"Bien. Thank you, that should be every question I have about les Fils.\" 	« Bien. Merci, ce devrait être toutes les questions que j'ai sur les Fils. » 
+OP_Isk	DC18 int-\"Rien. I know nothing. Tell me everything you know.\" 	DC18 int-\"Rien. Je ne sais rien. Dites-moi tout ce que vous savez.\" 
+OP_Isk	Why? 	Pourquoi ? 
+OP_Isk	\"Yes.\" 	« Oui. » 
+OP_Isk	(Se contenter d'écouter.) 	(Écouter simplement.) 
+OP_Isk	« Quoi ?! » 	\"Quoi ?!\" 
+OP_Isk	\"They're not secret. Plus maintenant.\" 	\"Ils ne sont plus secrets. Plus maintenant.\" 
+OP_Isk	DC17 int-\"It became common knowledge during the Ère Arcanique. The Arcanists even used one of them as a battery in their floating city.\" 	DC17 int-\"C'est devenu de notoriété publique durant l'Ère Arcanique. Les Arcanistes ont même utilisé l'un d'eux comme batterie dans leur cité flottante.\" 
+OP_Isk	FC20 int-\"Intéressant. No, we don't know their names, or at least I don't. Just that there were eight of them.\" 	FC20 int-\"Intéressant. Non, nous ne connaissons pas leurs noms, du moins moi non. Juste qu'ils étaient huit.\" 
+OP_Isk	\"Oh!\" 	« Oh ! » 
+OP_Isk	M-\"Pourquoi a-t-elle disparu ?\" 	\"Pourquoi a-t-elle disparu ?\" 
+OP_Isk	\"Kind.\" 	\"Bienveillant.\" 
+OP_Isk	\"Geez.\" 	\"Bon sang.\" 
+OP_Isk	\"Fascinant.\" 	« Fascinant. » 
+OP_Isk	\"Since I've been given a second chance, perhaps we will find out. Un jour.\" 	\"Puisqu'on m'a donné une seconde chance, peut-être le découvrirons-nous. Un jour.\" 
+OP_Isk	\"Foutrement bien dit.\" 	« Foutrement bien dit. » 
+OP_Isk	\"Bonne chance.\" 	« Bonne chance. » 
+OP_Isk	« Le quoi ? » 	\"Le quoi ?\" 
+OP_Isk	\"Huh!\" 	\"Tiens !\" 
+OP_Isk	\"Very glib, indeed.\" Qu'est-ce que ça veut dire ? 	\"Une grande légèreté, en effet.\" Qu'est-ce que cela veut dire ? 
+OP_Isk	Ouch. 	Aïe. 
+OP_Isk	E-Merci... 	Merci... 
+OP_Fiend	Ton estomac se retourne. 	Votre estomac se noue. 
+OP_Fiend	E-Pas aujourd'hui. 	Pas aujourd'hui. 
+OP_Fiend	\"Yes!\" 	« Oui ! » 
+OP_Fiend	« Que veux-tu ? » 	« Que voulez-vous ? » 
+OP_Fiend	M-\"J'ai décidé ce que je vais faire.\" 	\"J'ai décidé ce que je vais faire.\" 
+OP_Fiend	\"Vous ne l'êtes pas ?\" 	« Vous ne l'êtes pas ? » 
+OP_Fiend	ROLL6 cha-Le convaincre de t'en dire davantage sur son passé fort poignant. 	Le convaincre de t'en dire davantage sur son passé fort poignant. 
+OP_Fiend	Yeah. 	Ouais. 
+OP_Fiend	\"Hm.\" 	« Hm. » 
+OP_Fiend	\"Oh?\" 	« Oh ? » 
+OP_Fiend	\"En effet.\" 	« En effet. » 
+OP_Fiend	\"Yeah?\" 	« Ouais ? » 
+OP_Fiend	Shit. 	Merde. 
+OP_Fiend	\"Yes.\" 	« Oui. » 
+OP_Fiend	\"Oh?\" 	« Oh ? » 
+OP_Fiend	\"No.\" (Rompre le sort.) 	\"Non.\" (Rompre le sort.) 
+OP_Fiend	\"Merci.\" 	« Merci. » 
+OP_Fiend	It's... 	C'est... 
+OP_Fiend	ROLL15 cha-Protéger ton esprit. 	Protéger ton esprit. 
+OP_Fiend	\"Oh putain. Cleric!\" 	\"Oh putain. Clerc !\" 
+OP_Fiend	(Prendre une inspiration.) \"I'm... okay.\" 	(Reprendre votre souffle.) \"Je vais... bien.\" 
+OP_Fiend	E-Bon, ouais. Il est temps de partir. 	Bon, ouais. Il est temps de partir. 
+OP_Chimera	E-Je reviendrai à ça. Plus tard. Peut-être. 	Je reviendrai à ça. Plus tard. Peut-être. 
+OP_Chimera	\"And I have no personal issues with goats. Lions and snakes though? Dangereux.\" 	\"Et je n'ai rien personnellement contre les chèvres. En revanche, les lions et les serpents ? Dangereux.\" 
+OP_Chimera	\"Je suis d'accord.\" 	« Je suis d'accord. » 
+OP_Chimera	« Je suis en désaccord. » 	« Je ne suis pas d'accord. » 
+OP_Chimera	\"Oh.\" 	« Oh. » 
+OP_Chimera	Ses multiples yeux te fusillent du regard. 	Ses yeux innombrables vous fusillent du regard. 
+OP_Chimera	\"Intéressant.\" 	« Intéressant. » 
+OP_Chimera	\"Sinistre. Je ne l'aime pas.\" 	\"De mauvais augure. Je n'aime pas ça.\" 
+OP_Chimera	\"Bien sûr.\" 	« Bien sûr. » 
+OP_Chimera	ROLL13 str-Surmonter la douleur. (Résister à la force magique.) 	Surmonter la douleur. (Résister à la force magique.) 
+OP_Chimera	And...! 	Et...! 
+OP_Chimera	La douleur est écrasante. 	La douleur est insoutenable. 
+OP_Chimera	But... 	Mais... 
+OP_Chimera	Tu VIS. 	Vous VIVEZ. 
+OP_Chimera	YES! 	OUI ! 
+OP_Chimera	Then... 	Puis... 
+OP_Chimera	« Je peux vous entendre. » 	\"Je peux vous entendre.\" 
+OP_Chimera	(Le regarder.) 	(La regarder.) 
+OP_Chimera	\"Hm.\" 	« Hm. » 
+OP_Chimera	E-C'était horrible. 	C'était horrible. 
+OP_Efreeti	\"C'est moi. Bonjour.\" 	« C'est moi. Bonjour. » 
+OP_Efreeti	Anyway. 	Enfin bref. 
+OP_Efreeti	(Coller l'oreille contre la porte.) 	(Coller votre oreille contre la porte.) 
+OP_Efreeti	E-Je verrai cela... plus tard, peut-être. 	Je verrai cela... plus tard 
+OP_Efreeti	\"Prudence.\" 	\"Attention.\" 
+OP_Efreeti	Then... 	Puis... 
+OP_Efreeti	\"No.\" 	« Non. » 
+OP_Efreeti	Score. 	Bingo. 
+OP_Efreeti	Lies. 	Mensonges. 
+OP_Efreeti	Pas faux. 	Argument juste. 
+OP_Efreeti	\"Huh?\" 	« Hein ? » 
+OP_Efreeti	Bind. 	Liez. 
+OP_Efreeti	M-\"So... I've got a genie in a bottle now?\" (Se pencher pour écouter.) 	\"So... I've got a genie in a bottle now?\" (Se pencher pour écouter.) 
+OP_Efreeti	Don't. 	Ne le fais pas. 
+OP_Efreeti	Comme c'est horrifiant. 	Quelle horreur. 
+OP_Efreeti	La voix s'éteint. 	La voix se tait. 
+OP_Efreeti	E-Bien. Cool, cool. 	Bien. Cool, cool. 
+OP_Efreeti	ROLL9 con-(Supporter la douleur.) 	(Supporter la douleur.) 
+OP_Efreeti	Then. 	Puis. 
+OP_Efreeti	(Pull.) 	(Tirer.) 
+OP_Efreeti	Silent. 	Silencieuse. 
+OP_Efreeti	E-Temps de partir. 	Il est temps d'y aller. 
+OP_Efreeti	Empty. 	Vide. 
+OP_Map	\"Damn.\" 	« Bon sang. » 
+OP_Map	E-(Partir.) 	(Partir.) 
+OP_Map	\"Je le pense.\" 	« Je crois. » 
+OP_Map	M-\"C'est vrai. Découverte fort intéressante.\" 	\"C'est vrai. Découverte fort intéressante.\" 
+OP_Map	\"The Choir did not centralize into a functional state until the Ère Divine. There were many centuries of infighting and disorder.\" 	\"Le Chœur ne s'est pas centralisé en un État fonctionnel avant l'Ère Divine. Il y eut bien des siècles de luttes internes et de désordre.\" 
+OP_Map	« Oui, Snell. » 	\"Oui, Snell.\" 
+OP_Map	\"Huh.\" 	« Tiens. » 
+OP_Map	\"En effet.\" 	« En effet. » 
+OP_Map	Non. Elle ne correspond pas. 	Non. Ça ne l'a pas l'air. 
+OP_Map	Hm? 	Hm ? 
+OP_Map	(Regarder de plus près.) \"Is that a frog?\" 	(Regarder de plus près.) \"Est-ce une grenouille ?\" 
+OP_Map	Yeah. 	Ouais. 
+OP_Map	M-J'en ai fini de regarder des dragons. 	J'en ai fini de regarder des dragons. 
+OP_Map	Good. 	Bien. 
+OP_Map	Uh... 	Euh... 
+Enc_Final	IROLL-Lancer l'initiative. 	Lancer l'initiative. 
+Enc_Final	What? 	Quoi ? 
+Enc_Final	ROLL12 str-Frapper les jambes de l'assassine.  	Frapper les jambes de l'assassine. 
+Enc_Final	ROLL9 wis-Ne pas combattre. Essayer simplement de comprendre...  	Ne pas combattre. Essayer simplement de comprendre... 
+Enc_Final	ROLL22 cha-\"Discutons, simplement ! Nous ne sommes pas venus nous battre !\" 	\"Discutons, simplement ! Nous ne sommes pas venus nous battre !\" 
+Enc_Final	Elle grogne. \"You're <i>meant</i> to <i>die</i>!\" 	Elle grogne. \"Vous êtes <i>destiné</i> à <i>mourir</i> !\" 
+Enc_Final	\"You-\" 	« Vous — » 
+Enc_Final	Pain? 	De la douleur ? 
+Enc_Final	« Guh... ! » 	« Argh... ! » 
+Enc_Final	ROLL16 dex-Esquiver les tentacules. 	Esquiver les tentacules. 
+Enc_Final	ROLL12 con-Résister aux tentacules. 	Résister aux tentacules. 
+Enc_Final	\"Fort bien.\" 	« Très bien. » 
+Enc_Final	\"Attention ! Watch <i>neck</i>!\" 	\"Attention ! Attention <i>cou</i> !\" 
+Enc_Final	ROLL20 int-Déduire ce qui se passe et qui se cache derrière tout cela. 	Déduire ce qui se passe et qui se cache derrière tout cela. 
+Enc_Final	ROLL15 str-Frapper. Frapper juste. 	Frapper. Frapper juste. 
+Enc_Final	Then... 	Puis... 
+Enc_Final	\"Que regardez-vous ?\" 	« Tu regardes quoi ? » 
+Enc_Final	\"That would be protocol. Cependant...\" 	\"Ce serait là le protocole. Toutefois...\" 
+Enc_Final	\"Huh?\" 	« Hein ? » 
+Enc_Final	\"<i>Tss</i>.\" 	« <i>Tss</i>. » 
+Enc_Final	« C'est— » 	« C'est — » 
+Enc_Final	\"Wait. Are you...?\" (Reculer d'un pas.) 	\"Attends. Tu es... ?\" (Reculer d'un pas.) 
+Enc_Final	Hah! 	Hah ! 
+Enc_Final	Quelle horreur. 	Comme c'est terrible. 
+Enc_Final	\"Bon sang.\" 	« Putain de merde. » 
+Enc_Final	\"Ouais, ouais. Take an <i>LR</i>, it'll last longer.\" 	\"Ouais, ouais. Prenez un <i>LR</i>, ça durera plus longtemps.\" 
+Enc_Final	\"J'en suis conscient, oui.\" 	\"J'en suis consciente, oui.\" 
+Enc_Final	\"Que veux-tu dire ?\" 	« Que voulez-vous dire ? » 
+Enc_Final	\"Ugh. Laisse tomber.\" 	\"Beurk. Laissez tomber.\" 
+Enc_Final	\"No?\" 	\"Non ?\" 
+Enc_Final	SCARY. 	EFFRAYANT. 
+Enc_Final	M-\"Bien sûr. Je me demande juste une chose : <i>pourquoi</i> ?\" 	\"Bien sûr. Je me demande juste une chose : <i>pourquoi</i> ?\" 
+Enc_Final	\"True.\" 	« Vrai. » 
+Enc_Final	\"Yeah.\" 	« Ouais. » 
+Enc_Final	\"À ton avis ?\" 	« Qu'est-ce que t'en penses ? » 
+Enc_Final	\"Je n'en suis pas sûr. That's why I'm asking.\" 	\"Je n'en sais rien. C'est pour ça que je te demande.\" 
+Enc_Final	(Regarder autour.) \"Are you talking about me?\" 	(Regarder autour de soi.) \"Tu parles de moi ?\" 
+Enc_Final	\"Ugh.\" 	\"Beurk.\" 
+Enc_Final	\"No.\" 	« Non. » 
+Enc_Final	\"No?\" 	\"Non ?\" 
+Enc_Final	Elle s'esclaffe. 	Elle ricane. 
+Enc_Final	\"I needed easy spell slots. He wanted an extra pair of eyes. Gagnant-gagnant. But then he started asking for these night-outings, and the <i>reconnaissance missions</i>...\" 	\"J'avais besoin d'emplacements de sorts faciles. Il voulait une paire d'yeux supplémentaire. Gagnant-gagnant. Mais après il s'est mis à demander ces sorties nocturnes, et les <i>missions de reconnaissance</i>...\" 
+Enc_Final	\"Oh.\" 	« Oh. » 
+Enc_Final	\"Bon sang. Knew that would happen.\" 	\"Bon sang. Je savais que ça arriverait.\" 
+Enc_Final	\"Explique.\" 	« Expliquez. » 
+Enc_Final	« Heureux maintenant ? » 	« T'es content maintenant ? » 
+Enc_Final	\"Oh dieux. <i>Puny commands</i>. Do whatever you want then!\" 	\"Oh par les dieux. <i>Ordres dérisoires</i>. Faites donc ce que vous voulez !\" 
+Enc_Final	\"Fine.\" (Laisse-la partir.) 	\"D'accord.\" (La laisser partir.) 
+Enc_Final	\"<i>Tss</i>.\" 	« <i>Tss</i>. » 
+Enc_Final	\"Hah.\" 	« Hah. » 
+Enc_Final	(Sigh.) 	(Soupirer.) 
+Enc_Final	\"Hahah. Ah. Tant pis. Let's go see if <i>Mr. Toilet Worm</i> is hiding in any of these tunnels.\" 	\"Hahah. Ah. Tant pis. Allons voir si <i>Monsieur Ver-de-Cuvette</i> ne se planque pas dans un de ces tunnels.\" 
+Enc_Final	E-Il est temps de voir ce qu'il y a en bas. 	Il est temps de voir ce qu'il y a en bas. 
