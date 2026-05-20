@@ -149,7 +149,7 @@ DATE_PATCHES = [
     (4098, 'Collected Spells', 'Sorts Collectés'),     # 16=16 in-place (validé idem)
     (9344, 'Prepared Spells', 'Sorts Préparés'),       # 15<16 REPOINT (validé idem)
     (2240, '<i>one single time</i>', '<i>une unique fois</i>'),  # 22=22 in-place — résout le bug Quest_34
-    (4535, 'DC', 'DD'),                 # 2=2 in-place — DC1/DC2 etc. dans glossaire journal
+    # (4535, 'DC', 'DD'),  # DISABLED 2026-05-20 — patcher littéral "DC" → "DD" casse le stripping du préfixe DC dans choices Ink
 
     # ---- Time of day + action verbs (smoke test passé 2026-05-19) ----
     (5178, 'EVENING', 'SOIR'),          # 7>4 in-place
