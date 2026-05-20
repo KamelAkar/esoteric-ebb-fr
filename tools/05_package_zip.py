@@ -18,6 +18,9 @@ PATCH_DIR = DIST_DIR / f"EsotericEbb-FR-Patch-v{VERSION}"
 ZIP_FILE = DIST_DIR / f"EsotericEbb-FR-Patch-v{VERSION}.zip"
 
 # Files to include in the patch (relative to Esoteric Ebb_Data/)
+# Inclut TOUS les fichiers que v1.2.2 ou cette session ont pu modifier.
+# Les sharedassets contiennent les TextAssets Ink (dialogues + intro) qui
+# doivent être livrés en totalité — sinon installation sur vanilla = dialogues EN.
 INCLUDED_FILES = [
     "il2cpp_data/Metadata/global-metadata.dat",
     "resources.assets",
@@ -25,8 +28,8 @@ INCLUDED_FILES = [
 # All level files
 for i in range(0, 25):
     INCLUDED_FILES.append(f"level{i}")
-# Sharedassets we definitely touched (Crowns/items)
-for i in [0, 1, 4, 11, 22]:
+# ALL sharedassets — chacun contient des LL_*/CB_*/etc. TextAssets Ink traduits
+for i in range(0, 25):
     INCLUDED_FILES.append(f"sharedassets{i}.assets")
 
 LISEZ_MOI = """================================================================================
