@@ -32,6 +32,26 @@ def slot_size(content_len):
 # (see tools/02_apply_metadata.py). Kept for reference but no-op here.
 PATCHES = [
     (b'Garden Apple', 'Pomme Jardin'),  # 16 → 16 ✓ (4+12+0 == 4+12+0) item display name
+    (b'Crowns', 'Écus'),                # 12 → 12 ✓ currency name
+
+    # ---- Items courants (batch conservateur 2026-05-20, slot-aligned) ----
+    (b'Boots', 'Bottes'),                       # 12 → 12 ✓
+    (b'Cloak', 'Manteau'),                      # 12 → 12 ✓
+    (b'Bottle', 'Fiole'),                       # 12 → 12 ✓
+    (b'Dagger', 'Dague'),                       # 12 → 12 ✓
+    (b'Bag of Holding', 'Sac sans Fond'),       # 20 → 20 ✓
+    (b'Bracers of Thievery', 'Brassards de Voleur'),  # 24 → 24 ✓
+    (b'Belt of Dwarvenkind', 'Ceinture des Nains'), # 24 → 24 ✓
+    (b'Bronze Shield', 'Bouclier Bronze'),      # 20 → 20 ✓
+    (b'Ancient Tome', 'Tome Ancien'),           # 16 → 16 ✓
+    (b'Broken Sword', 'Lame Brisée'),           # 16 → 16 ✓ (é=2B)
+    (b'Bottle of Milk', 'Fiole de Lait'),       # 20 → 20 ✓
+    (b'Amulet of Annihilation', "Amulette d'Annihilation"),  # 28 → 28 ✓
+    (b'Empty Efreeti Bottle', "Fiole d'Efrit Vide"),   # 24 → 24 ✓
+    (b'Filled Efreeti Bottle', "Fiole d'Efrit Remplie"), # 28 → 28 ✓
+    (b'Adamantine Warhammer', 'Marteau Adamantin'),    # 24 → 24 ✓
+    (b'Crusader\'s Mantle', 'Manteau du Croisé'),       # 24 → 24 ✓
+
     # ---- Sorts: TESTÉS et CASSANT le compteur Sorts Préparés/Tours/Sorts ----
     # (b'Cure Wounds', 'Soin Plaies'),    # casse X placeholder dans Grimoire
     # (b'Mage Hand', 'Main du Mage'),     # idem
