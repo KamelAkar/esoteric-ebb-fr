@@ -1,0 +1,1263 @@
+VL_Pinja	The elf's corpse lies motionless on the slab. 	Le cadavre de l'elfe gît immobile sur la dalle. 
+VL_Pinja	(Take a closer look.) 	(Regarder de plus près.) 
+VL_Pinja	How did they move the corpse here? 	Comment ont-ils transporté le cadavre jusqu'ici ? 
+VL_Pinja	E-(Leave it.) 	(La laisser.) 
+VL_Pinja	Moving it to the lichhouse has caused some minor scuff-marks. 	Le déplacer jusqu'à la maison des morts a causé quelques éraflures mineures. 
+VL_Pinja	But nothing major. 	Mais rien de majeur. 
+VL_Pinja	There's a Gentle Repose cast on it. 	Un Repos Tranquille a été lancé sur lui. 
+VL_Pinja	That's how it survived the journey in one piece. 	C'est ainsi qu'il a survécu au voyage en un seul morceau. 
+VL_Pinja	The so-called 'Duck'. Visken and him performed a corpse-retrieval. 	Le dénommé « Canard ». Visken et lui ont procédé à la récupération du cadavre. 
+VL_Pinja	The dark knight carried it here. Visken clearly has some unique minions. 	Le chevalier noir l'a porté jusqu'ici. Visken a manifestement des sbires hors du commun. 
+VL_Pinja	A real man. 	Un vrai homme. 
+VL_Pinja	It was an impressive feat of magic to keep it intact, despite the short journey. 	C'était un tour de magie impressionnant de le garder intact, malgré le court trajet. 
+VL_Pinja	With little fanfare nor any magical sparks, you see a slight twitch on the scorched body. 	Sans grande fanfare ni étincelles magiques, vous voyez un léger tressaillement sur le corps calciné. 
+VL_Pinja	As long as the mouth remains somewhat intact, the spell will allow it to speak. 	Tant que la bouche reste plus ou moins intacte, le sortilège lui permettra de parler. 
+VL_Pinja	There is something wrong about this. 	Il y a quelque chose de dérangeant là-dedans. 
+VL_Pinja	It is sacrilegious. But perhaps the animated spirit will give you something useful in retribution. 	C'est sacrilège. Mais peut-être que l'esprit animé te donnera quelque chose d'utile en compensation. 
+VL_Pinja	As if they weren't turned to a coal-like substance, the lips begin to move. 	Comme s'ils n'avaient pas été réduits à une substance charbonneuse, les lèvres se mettent à bouger. 
+VL_Pinja	Like sludge. 	Comme de la vase. 
+VL_Pinja	A faint wheezing comes out of its throat. 	Un faible râle s'échappe de sa gorge. 
+VL_Pinja	Horrific. 	Horrifique. 
+VL_Pinja	What are the rules of this again? 	Quelles sont les règles de tout ça, déjà ? 
+VL_Pinja	Do I ask in present or past tense? 	Je pose mes questions au présent ou au passé ? 
+VL_Pinja	M-Okay. I'm ready. 	D'accord. Je suis prêt. 
+VL_Pinja	Five questions. 	Cinq questions. 
+VL_Pinja	The spirit of the deceased is under no obligation to answer truthfully. 	L'esprit du défunt n'a aucune obligation de répondre avec véracité. 
+VL_Pinja	Considering you're just a random cleric... the answers should be fair. 	Vu que tu n'es qu'un clerc quelconque... les réponses devraient être honnêtes. 
+VL_Pinja	Then again, you are human. And this is an elf. So... 	Mais bon, tu es humain. Et c'est une elfe. Donc... 
+VL_Pinja	The soul itself cannot learn new information. You are not speaking to the actual person, but rather just speaking with a mirror of its mind at the point of death. 	L'âme elle-même ne peut acquérir aucune information nouvelle. Tu ne parles pas à la personne réelle, mais simplement à un miroir de son esprit au moment de la mort. 
+VL_Pinja	So no asking about the afterlife. Got it. 	Donc pas de questions sur l'au-delà. Compris. 
+VL_Pinja	Souls can only be animated by Speak with Dead once per week. 	Les âmes ne peuvent être animées par Parler avec les Morts qu'une fois par semaine. 
+VL_Pinja	This is your only opportunity. 	C'est ta seule occasion. 
+VL_Pinja	Be direct and stern in your questions. 	Sois direct et ferme dans tes questions. 
+VL_Pinja	And stoic. 	Et stoïque. 
+VL_Pinja	It does not matter. The elf will not be aware of your perspective, and as such will interpret any question such as 'What was your name' as 'What <i>is</i> your name'. 	Cela n'a pas d'importance. L'elfe n'aura pas conscience de ta perspective, et interprétera donc toute question comme « Quel était votre nom » au sens de « Quel <i>est</i> votre nom ». 
+VL_Pinja	Time to talk. Maybe she'll be happy to answer! 	C'est l'heure de parler. Peut-être qu'elle sera heureuse de répondre ! 
+VL_Pinja	\"Remember, Cleric. Five questions.\" 	« Souviens-toi, Clerc. Cinq questions. » 
+VL_Pinja	\"That's all you get. So make 'em count.\" 	« C'est tout ce que t'as. Alors fais en sorte qu'elles comptent. » 
+VL_Pinja	Be polite. Ask her if you can get her some tea or something. She obviously liked tea. 	Sois poli. Demande-lui si tu peux lui apporter du thé ou autre chose. Elle aimait visiblement le thé. 
+VL_Pinja	\"Can I get you something - tea?\" 	« Puis-je vous apporter quelque chose — du thé ? » 
+VL_Pinja	\"What was your name?\" 	« Quel était votre nom ? » 
+VL_Pinja	\"What's it like being dead?\" 	« Qu'est-ce que ça fait, d'être morte ? » 
+VL_Pinja	\"What are you - were you - voting in the election?\" 	« Pour qui votez — votiez-vous, à l'élection ? » 
+VL_Pinja	\"Why were you in the tea shop, when it exploded?\" 	« Pourquoi étiez-vous dans le salon de thé, quand il a explosé ? » 
+VL_Pinja	\"Who killed you?\" 	« Qui vous a tuée ? » 
+VL_Pinja	\"How did you die?\" 	« Comment êtes-vous morte ? » 
+VL_Pinja	\"How did you live?\" 	« Comment avez-vous vécu ? » 
+VL_Pinja	\"Where did you die?\" 	« Où êtes-vous morte ? » 
+VL_Pinja	\"What was your favorite color?\" 	« Quelle était votre couleur préférée ? » 
+VL_Pinja	\"Where did you live?\" 	« Où viviez-vous ? » 
+VL_Pinja	\"Did anyone want to kill you?\" 	« Quelqu'un voulait-il votre mort ? » 
+VL_Pinja	\"Who did you work for?\" 	« Pour qui travailliez-vous ? » 
+VL_Pinja	\"What's the meaning of life?\" 	« Quel est le sens de la vie ? » 
+VL_Pinja	The corpse's lips widen, as if mimicking the motions of taking a breath. 	Les lèvres du cadavre s'écartent, comme si elles imitaient le mouvement d'une inspiration. 
+VL_Pinja	\"Did you seriously just waste a question on-\" 	« T'as sérieusement gaspillé une question sur— » 
+VL_Pinja	\"<b>Yes.</b>\" 	« <b>Oui.</b> » 
+VL_Pinja	The voice comes out like a Kargameshian desert wind. 	La voix sort tel un vent du désert kargameshien. 
+VL_Pinja	\"Protect <i>her</i>. My failings... should not lie upon <i>her soul</i>.\" 	« Protégez-<i>la</i>. Mes échecs... ne devraient pas peser sur <i>son âme</i>. » 
+VL_Pinja	Snell stares at the burnt corpse. 	Snell fixe le cadavre brûlé. 
+VL_Pinja	\"Protect <i>Lisa</i>.\" 	« Protégez <i>Lisa</i>. » 
+VL_Pinja	\"I pray she did not get dragged into this.\" 	« Je prie pour qu'elle n'ait pas été entraînée dans tout ceci. » 
+VL_Pinja	<b>Guilt</b>. Even among those who have left us. 	<b>La culpabilité</b>. Même chez celles qui nous ont quittés. 
+VL_Pinja	\"I always get the best of people into the worst of trouble. That is my curse.\" 	« J'entraîne toujours les meilleures personnes dans les pires ennuis. Telle est ma malédiction. » 
+VL_Pinja	The goblin looks down. His expression fading into a solemn scowl. 	Le gobelin baisse les yeux. Son expression s'estompe en une moue solennelle. 
+VL_Pinja	\"Hm.\" 	« Hm. » 
+VL_Pinja	THE HAG BELOW. 	LA HAGRE D'EN BAS. 
+VL_Pinja	Hm. 	Hum. 
+VL_Pinja	That name is a clue indeed. 	Ce nom est en effet un indice. 
+VL_Pinja	The hagling, yes. 	La hagrelette, oui. 
+VL_Pinja	They were good friends. 	Elles étaient de bonnes amies. 
+VL_Pinja	LOVERS. 	AMANTES. 
+VL_Pinja	Oh. Yes, perhaps that is true as well. 	Oh. Oui, peut-être que c'est vrai également. 
+VL_Pinja	Uh-huh. Yeah, they really cared for each other. 	Mh-hm. Oui, elles tenaient vraiment l'une à l'autre. 
+VL_Pinja	Quite sad. 	Bien triste. 
+VL_Pinja	Another reason to avenge this fallen woman. Despite her elf-ness. 	Une raison de plus pour venger cette femme tombée. Malgré son caractère elfique. 
+VL_Pinja	\"Pinja'Athena.\" 	« Pinja'Athena. » 
+VL_Pinja	\"Yeah. Sounds elven.\" 	« Ouais. Ça sonne elfique. » 
+VL_Pinja	She closes her eyes and nods. \"Pinja'Athena.\" 	Elle ferme les yeux et hoche la tête. « Pinja'Athena. » 
+VL_Pinja	Translation: 'Pinja of the Mend'. An elf of the Illym Forest. Interesting. 	Traduction : « Pinja du Raccommodement ». Une elfe de la Forêt d'Illym. Intéressant. 
+VL_Pinja	<i>Athena</i> is an elven title, granted to those related to Illym the Mender. 	<i>Athena</i> est un titre elfique, accordé à ceux qui sont liés à Illym le Raccommodeur. 
+VL_Pinja	Your heart starts pumping harder. 	Votre cœur se met à battre plus fort. 
+VL_Pinja	Didn't you...? 	N'as-tu pas... ? 
+VL_Pinja	Yes. You spoke with this elf. Or did you? 	Oui. Tu as parlé à cette elfe. Ou pas ? 
+VL_Pinja	That's the elf you... that... 	C'est l'elfe que tu... que... 
+VL_Pinja	\"You okay, Cleric?\" 	« Ça va, Clerc ? » 
+VL_Pinja	I must be misremembering. 	Je dois mal me souvenir. 
+VL_Pinja	He scoffs. \"Good one. Like you would mingle with elves.\" 	Il ricane. « Elle est bonne. Comme si tu fréquentais les elfes. » 
+VL_Pinja	(Nervously adjust your helmet.) 	(Ajuster nerveusement votre heaume.) 
+VL_Pinja	His eyes go back and forth between you and corpse. \"You're serious.\" 	Ses yeux font des allers-retours entre vous et le cadavre. « Tu es sérieux. » 
+VL_Pinja	\"I met an elf with that name.\" 	« J'ai rencontré une elfe portant ce nom. » 
+VL_Pinja	\"Huh. When exactly?\" 	« Tiens. Quand exactement ? » 
+VL_Pinja	\"On a ledge. Upper Tolstad.\" 	« Sur une corniche. Tolstad supérieure. » 
+VL_Pinja	\"Okay.\" 	« D'accord. » 
+VL_Pinja	\"You were there. Or maybe you weren't?\" 	« Tu étais là. Ou peut-être pas ? » 
+VL_Pinja	\"Sorry to say, I don't remember seeing any elf up there.\" 	« Désolé de te dire ça, je me souviens pas avoir vu d'elfe là-haut. » 
+VL_Pinja	\"I only know Nessan.\" 	« Je ne connais que Nessan. » 
+VL_Pinja	\"But last time I checked, she was very much alive.\" 	« Mais aux dernières nouvelles, elle était bien vivante. » 
+VL_Pinja	\"Maybe I'm mistaken.\" 	« Je me trompe peut-être. » 
+VL_Pinja	\"This is truly an... Esoteric Event.\" 	« C'est véritablement un... Événement Ésotérique. » 
+VL_Pinja	\"I've been tricked. Those elves sure are sneaky.\" 	« On m'a dupé. Ces elfes sont vraiment sournois. » 
+VL_Pinja	\"Maybe,\" he says, and squints. \"Don't be too sure about being unsure, though.\" 	« Peut-être, » dit-il en plissant les yeux. « Ne sois pas trop sûr de ne pas l'être, par contre. » 
+VL_Pinja	\"I'd normally just say you're misremembering, but...\" 	« Normalement je dirais juste que tu te trompes de souvenir, mais... » 
+VL_Pinja	\"Elves sneaking around Tolstad? I mean...\" 	« Des elfes qui rôdent dans Tolstad ? Enfin... » 
+VL_Pinja	\"Weirder shit has happened.\" 	« On a vu des trucs plus bizarres. » 
+VL_Pinja	\"Like a dead elf in a tea shop that blew up?\" 	« Comme une elfe morte dans un salon de thé qui a sauté ? » 
+VL_Pinja	\"Like a cleric rising out of the river to complete a divine quest?\" 	« Comme un clerc qui sort du fleuve pour accomplir une quête divine ? » 
+VL_Pinja	\"Like an election set to happen and no one seemingly acknowledging the corrupt nature of this system that's completely overtaking our lives?\" 	« Comme une élection sur le point de se tenir et personne, semble-t-il, ne reconnaissant la nature corrompue de ce système qui phagocyte complètement nos vies ? » 
+VL_Pinja	\"...I was going to suggest the Muletown Incident. But sure.\" 	« ... J'allais suggérer l'Incident de Muletown. Mais bon. » 
+VL_Pinja	Either that, or someone lied to you. 	Soit ça, soit quelqu'un t'a menti. 
+VL_Pinja	The woman on that ledge could have been an agent of Illym. 	La femme sur cette corniche aurait pu être une agente d'Illym. 
+VL_Pinja	How exciting. 	Comme c'est excitant. 
+VL_Pinja	You're really in the shit now. 	Tu es vraiment dans la merde, maintenant. 
+VL_Pinja	\"I am not.\" 	« Je ne le suis pas. » 
+VL_Pinja	\"I am not dead.\" 	« Je ne suis pas morte. » 
+VL_Pinja	\"I guess self-awareness ain't a trait of a... reanimated spirit,\" he whispers to you. 	« J'imagine que la conscience de soi, c'est pas un trait d'un... esprit réanimé », te chuchote-t-il. 
+VL_Pinja	\"Freestrider.\" 	« Marche-Libre. » 
+VL_Pinja	\"Huh.\" 	« Tiens. » 
+VL_Pinja	\"Guess that could make sense. Haven't socialized enough with elves to know how they lean politically.\" 	« J'imagine que ça se tient. J'ai pas assez fréquenté les elfes pour savoir comment ils penchent politiquement. » 
+VL_Pinja	\"As you might imagine, elf, I'm a Nationalist.\" 	« Comme vous pouvez l'imaginer, elfe, je suis nationaliste. » 
+VL_Pinja	\"I'll also be voting for the Freestriders.\" 	« Je voterai moi aussi pour les Marche-Libre. » 
+VL_Pinja	\"I'm an Azgalist!\" (Lean in towards the corpse.) 	« Je suis azgaliste ! » (Se pencher vers le cadavre.) 
+VL_Pinja	DC11 int-\"If you ever get a chance, you should vote for me. I'm the best candidate for god-king.\" 	DC11 int-« Si jamais l'occasion se présente, vous devriez voter pour moi. Je suis le meilleur candidat au poste de dieu-roi. » 
+VL_Pinja	DC17 con-(Whisper softly to the corpse.) \"I'm Agrarian. Don't tell anyone.\" 	DC17 con-(Chuchoter doucement au cadavre.) « Je suis agrarien. Ne le dites à personne. » 
+VL_Pinja	\"I'm not sure why I asked you. Because, interestingly enough, I'm actually an apolitical entity.\" 	« Je ne suis pas sûr de pourquoi je vous ai demandé. Parce que, fait intéressant, je suis en réalité une entité apolitique. » 
+VL_Pinja	You get no response from the corpse. 	Vous n'obtenez aucune réponse du cadavre. 
+VL_Pinja	\"Don't think the elf cares, Cleric.\" 	« J'crois que l'elfe s'en fout, Clerc. » 
+VL_Pinja	\"Meriadoc Moonwatch.\" 	« Meriadoc Veille-de-Lune. » 
+VL_Pinja	\"Oh.\" 	« Oh. » 
+VL_Pinja	The <i>man-in-yellow</i>. 	L'<i>homme-en-jaune</i>. 
+VL_Pinja	\"Interesting.\" 	« Intéressant. » 
+VL_Pinja	The corpse's scorched mouth then chatters, another sentence falling out. 	La bouche carbonisée du cadavre claque alors, une autre phrase en tombe. 
+VL_Pinja	\"<i>I. Love. His. Books.</i>\" 	« <i>J'. Adore. Ses. Livres.</i> » 
+VL_Pinja	Snell looks slack-jawed at the dead elf. 	Snell regarde l'elfe morte, bouche bée. 
+VL_Pinja	\"Right. Okay.\" 	« Bon. D'accord. » 
+VL_Pinja	\"I guess some people do change their political affiliations based on novels they read. No judgment here.\" 	« Je suppose que certains changent leurs affiliations politiques en fonction des romans qu'ils lisent. Aucun jugement ici. » 
+VL_Pinja	\"Huh. So she doesn't know him, but knows <i>of</i> him.\" 	« Tiens. Donc elle ne le connaît pas, mais elle <i>en a entendu parler</i>. » 
+VL_Pinja	\"Either way, we've got all the info we need from him already. So that's good.\" 	« Dans tous les cas, on a déjà toutes les infos qu'il nous faut sur lui. C'est bien. » 
+VL_Pinja	\"Yeah. Now we need to head inside the Pillar.\" 	« Ouais. Maintenant il faut qu'on rentre dans le Pilier. » 
+VL_Pinja	\"Uh-huh.\" 	« Mh-hm. » 
+VL_Pinja	\"However the hell that's supposed to happen.\" 	« De quelle manière, ça reste à savoir. » 
+VL_Pinja	\"Anyhow.\" 	« Bref. » 
+VL_Pinja	\"A meeting. A planned meeting. With my friend.\" 	« Une réunion. Une réunion prévue. Avec mon amie. » 
+VL_Pinja	\"The <i>lovely hag</i>.\" 	« La <i>charmante hagre</i>. » 
+VL_Pinja	Snell gives you a look. 	Snell vous lance un regard. 
+VL_Pinja	\"So we gotta find a hag now? This is getting messy.\" 	« Donc maintenant on doit trouver une hagre ? Ça devient le bordel. » 
+VL_Pinja	\"It's confirmed then. <i>Lisa</i>.\" 	« C'est confirmé alors. <i>Lisa</i>. » 
+VL_Pinja	\"I did.\" 	« Oui. » 
+VL_Pinja	The goblin leans in, eyebrows raised. 	Le gobelin se penche en avant, les sourcils levés. 
+VL_Pinja	\"Fascism chose the path. <i>I chose the end</i>.\" 	« Le fascisme a choisi la voie. <i>Moi, j'ai choisi la fin</i>. » 
+VL_Pinja	He scowls. 	Il fronce les sourcils. 
+VL_Pinja	\"Huh.\" 	« Tiens. » 
+VL_Pinja	\"Fascism forced her to... blow up the tea shop. <i>Right</i>.\" 	« Le fascisme l'a forcée à... faire sauter le salon de thé. <i>Bien sûr</i>. » 
+VL_Pinja	\"That's pretty broad.\" 	« C'est plutôt large. » 
+VL_Pinja	\"She was forced to do it. By... fascism.\" 	« Elle a été forcée à le faire. Par... le fascisme. » 
+VL_Pinja	\"Yeah, well, find me someone in Askan who isn't bound by fascist ideals and I'll give you a thousand crowns.\" 	« Ouais, eh ben, trouve-moi quelqu'un à Askan qui n'est pas asservi par des idéaux fascistes et je te donne mille couronnes. » 
+VL_Pinja	Yet oh so true. 	Pourtant si vrai. 
+VL_Pinja	The goblin shrugs. 	Le gobelin hausse les épaules. 
+VL_Pinja	The Illym could be considered fascists. 	Les Illym pourraient être considérés comme des fascistes. 
+VL_Pinja	As could every <i>effective</i> government. 	Tout comme n'importe quel gouvernement <i>efficace</i>. 
+VL_Pinja	That is reductive. A fascist state would be described as such when its core does not uphold values of personal rights. 	C'est réducteur. Un État fasciste serait qualifié comme tel lorsque son cœur ne défend pas les valeurs des droits individuels. 
+VL_Pinja	Honestly. 'Fascist' is used by commoners to describe any authority these days. 	Franchement. « Fasciste » est employé par le commun pour décrire n'importe quelle autorité ces temps-ci. 
+VL_Pinja	The common thought is important. If so many speak of fascism, perhaps one should learn to listen? 	La pensée commune est importante. Si tant de gens parlent de fascisme, peut-être devrait-on apprendre à écouter ? 
+VL_Pinja	If we listen to every commoner, we'll soon be charging right off a cliff. 	Si on écoute chaque roturier, on finira bientôt par foncer droit dans un précipice. 
+VL_Pinja	Fascism? Isn't that what they call Urth's Rule these days? 	Le fascisme ? N'est-ce pas comme ça qu'on appelle le Règne d'Urth de nos jours ? 
+VL_Pinja	It is a foolish term, used to diminish his greatness. 	C'est un terme sot, employé pour amoindrir sa grandeur. 
+VL_Pinja	\"Nine...\" 	« Neuf... » 
+VL_Pinja	\"Nine fires of humanity.\" 	« Neuf feux de l'humanité. » 
+VL_Pinja	\"Cryptic. But it fits the Necklace-narrative.\" 	« Cryptique. Mais ça cadre avec le récit du Collier. » 
+VL_Pinja	\"Great. Cryptic bullshit.\" 	« Génial. Des conneries cryptiques. » 
+VL_Pinja	\"In fear and hatred.\" 	« Dans la peur et la haine. » 
+VL_Pinja	\"Hoping to escape.\" 	« Espérant m'échapper. » 
+VL_Pinja	\"The meeting place.\" 	« Le lieu de la réunion. » 
+VL_Pinja	\"Drummer's tea shop.\" 	« Le salon de thé de Drummer. » 
+VL_Pinja	\"Oh? She was meeting with someone?\" 	« Oh ? Elle rencontrait quelqu'un ? » 
+VL_Pinja	\"The meeting with the hag then.\" 	« La réunion avec la hagre, alors. » 
+VL_Pinja	\"Yellow.\" 	« Jaune. » 
+VL_Pinja	\"In the fashion of gold.\" 	« À la manière de l'or. » 
+VL_Pinja	\"I was...\" 	« J'étais... » 
+VL_Pinja	\"Meeting. I had a meeting scheduled.\" 	« Une réunion. J'avais une réunion prévue. » 
+VL_Pinja	\"Intense meeting. Maybe ask her about it.\" 	« Une réunion intense. Peut-être lui demander à ce sujet. » 
+VL_Pinja	\"It was...\" 	« C'était... » 
+VL_Pinja	\"A sale. A negotiation.\" 	« Une vente. Une négociation. » 
+VL_Pinja	\"With... my Freestrider contact.\" 	« Avec... mon contact Marche-Libre. » 
+VL_Pinja	\"Oh. Interesting.\" 	« Oh. Intéressant. » 
+VL_Pinja	\"Not...\" 	« Pas... » 
+VL_Pinja	\"Not the one I expected.\" 	« Pas celui que j'attendais. » 
+VL_Pinja	You see Snell mouth, <i>And...?</i> 	Vous voyez Snell articuler en silence : <i>Et... ?</i> 
+VL_Pinja	\"It was...\" 	« C'était... » 
+VL_Pinja	The ruined body convulses- soot and charred flesh cracking and creasing. 	Le corps ravagé est secoué de convulsions — suie et chair carbonisée se craquellent et se froissent. 
+VL_Pinja	As if it is attempting to rise. To get away. 	Comme s'il tentait de se relever. De s'enfuir. 
+VL_Pinja	\"<b>The state</b>.\" 	« <b>L'État</b>. » 
+VL_Pinja	\"Huh?\" 	« Hein ? » 
+VL_Pinja	One of her hands, burnt and stale, attempts to unfurl its fingers. 	L'une de ses mains, brûlée et figée, tente de déplier ses doigts. 
+VL_Pinja	It breaks as it does, black dust falling to the table. 	Elle se brise en le faisant, de la poussière noire tombe sur la table. 
+VL_Pinja	But it is clear: she is attempting to point. 	Mais c'est clair : elle tente de pointer du doigt. 
+VL_Pinja	\"It was YOU.\" 	« C'était VOUS. » 
+VL_Pinja	\"In many places.\" 	« En de nombreux lieux. » 
+VL_Pinja	\"The embassy often. Seldom in Darrow's mansion.\" 	« Souvent à l'ambassade. Rarement dans le manoir de Darrow. » 
+VL_Pinja	\"<i>Darrow</i>.\" 	« <i>Darrow</i>. » 
+VL_Pinja	\"No.\" 	« Non. » 
+VL_Pinja	\"Everyone loves me.\" 	« Tout le monde m'aime. » 
+VL_Pinja	Narcissist, much? 	Un peu narcissique ? 
+VL_Pinja	Jealous, much? 	Un peu jalouse ? 
+VL_Pinja	\"Great. We've got a damn saint on our hands.\" 	« Génial. On a une sainte sur les bras. » 
+VL_Pinja	\"Unless the elf's being sarcastic. Can corpses be sarcastic?\" 	« À moins que l'elfe ne soit sarcastique. Les cadavres peuvent-ils être sarcastiques ? » 
+VL_Pinja	\"They can lie during answers, if they want to.\" 	« Ils peuvent mentir dans leurs réponses, s'ils le veulent. » 
+VL_Pinja	\"I wish everyone loved me.\" (Whisper to yourself.) 	« J'aimerais que tout le monde m'aime. » (Se chuchoter à soi-même.) 
+VL_Pinja	\"Right. Do you...\" 	« D'accord. Tu... » 
+VL_Pinja	He leans in to whisper, \"Do you think she did?\" 	Il se penche pour chuchoter : « Tu crois qu'elle l'était ? » 
+VL_Pinja	He is whispering for a good reason. 	Il chuchote pour une bonne raison. 
+VL_Pinja	If he had said that aloud, it would have counted as a question for the corpse. 	S'il l'avait dit à voix haute, ça aurait compté comme une question pour le cadavre. 
+VL_Pinja	\"It's an elf. Of course it'll lie.\" 	« C'est une elfe. Évidemment qu'elle va mentir. » 
+VL_Pinja	\"I believe in the dead elf.\" 	« Je crois en l'elfe morte. » 
+VL_Pinja	\"No clue. Next question.\" 	« Aucune idée. Question suivante. » 
+VL_Pinja	\"Yeah. Sure.\" 	« Ouais. Bien sûr. » 
+VL_Pinja	\"What was that?\" 	« C'était quoi ? » 
+VL_Pinja	\"Nothing. Next question.\" 	« Rien. Question suivante. » 
+VL_Pinja	\"Mm. Go ahead.\" 	« Mm. Vas-y. » 
+VL_Pinja	\"Illym. Myself. My heart.\" 	« Illym. Moi-même. Mon cœur. » 
+VL_Pinja	\"In reverse order.\" 	« Dans l'ordre inverse. » 
+VL_Pinja	What a tragedy. 	Quelle tragédie. 
+VL_Pinja	Why make it so complicated? 	Pourquoi rendre les choses si compliquées ? 
+VL_Pinja	Just say it is the correct order, duh. 	Dis simplement que c'est l'ordre correct, voyons. 
+VL_Pinja	\"<i>Love</i>.\" 	« <i>L'amour</i>. » 
+VL_Pinja	\"Unquestioning, irrational love.\" 	« Un amour aveugle, irrationnel. » 
+VL_Pinja	Cheesy. 	Mièvre. 
+VL_Pinja	True. 	Vrai. 
+VL_Pinja	That could very well be true for you as well. 	Cela pourrait très bien être vrai pour toi aussi. 
+VL_Pinja	Oh, definitely. 	Oh, assurément. 
+VL_Pinja	Five questions remaining. 	Cinq questions restantes. 
+VL_Pinja	Four questions remaining. 	Quatre questions restantes. 
+VL_Pinja	That's two. Three more questions. 	Ça fait deux. Trois questions de plus. 
+VL_Pinja	Three asked. Two more. 	Trois posées. Deux de plus. 
+VL_Pinja	One question left. Make it count. 	Une question restante. Fais en sorte qu'elle compte. 
+VL_Pinja	The corpse's mouth stiffens once more, and the mimicking of life ends. 	La bouche du cadavre se raidit une fois de plus, et l'imitation de la vie prend fin. 
+VL_Pinja	That is five. 	Cela en fait cinq. 
+VL_Pinja	\"Alright. Cool.\" 	« D'accord. Cool. » 
+VL_Pinja	\"What did we learn?\" 	« Qu'avons-nous appris ? » 
+VL_Pinja	\"That's true. It's an elf.\" 	« C'est vrai. C'est une elfe. » 
+VL_Pinja	\"That's true. It's an elf, that everybody loves very, very much.\" 	« C'est vrai. C'est une elfe, que tout le monde aime très, très fort. » 
+VL_Pinja	\"An elf that you've met at some point, apparently.\" 	« Une elfe que tu as rencontrée à un moment donné, apparemment. » 
+VL_Pinja	\"The elf, uh... wants to protect someone?\" 	« L'elfe, euh... veut protéger quelqu'un ? » 
+VL_Pinja	\"And is voting Freestrider.\" 	« Et vote Marche-Libre. » 
+VL_Pinja	\"And was killed by... fascism? So like, the general concept of it I suppose.\" 	« Et a été tuée par... le fascisme ? Donc genre, le concept général, je suppose. » 
+VL_Pinja	\"More importantly, she was meeting with a Freestrider. So we should probably go talk with them. Down on Waterlane.\" 	« Plus important encore, elle rencontrait un Marche-Libre. Donc on devrait probablement aller leur parler. En bas à Waterlane. » 
+VL_Pinja	\"Oh, and her favorite color? Yellow. Remember that. It'll be important.\" 	« Oh, et sa couleur préférée ? Jaune. Souviens-t'en. Ce sera important. » 
+VL_Pinja	\"But... whoever showed up wasn't her friend. Instead...\" 	« Mais... celui qui s'est présenté n'était pas son amie. À la place... » 
+VL_Pinja	He gives you a solid stare. 	Il vous fixe d'un regard appuyé. 
+VL_Pinja	\"She said it was <i>you</i>.\" 	« Elle a dit que c'était <i>toi</i>. » 
+VL_Pinja	\"I was not at the tea shop during the explosion.\" 	« Je n'étais pas au salon de thé pendant l'explosion. » 
+VL_Pinja	\"You don't suspect me, do you?\" 	« Tu ne me soupçonnes pas, n'est-ce pas ? » 
+VL_Pinja	\"I have an alibi.\" 	« J'ai un alibi. » 
+VL_Pinja	\"Yeah?\" 	« Ouais ? » 
+VL_Pinja	\"But you did know this elf, or what?\" 	« Mais tu connaissais bien cette elfe, ou quoi ? » 
+VL_Pinja	\"I was at the Towers. My Patriarch can vouch for me. Even if he really doesn't like me.\" 	« J'étais aux Tours. Mon Patriarche peut se porter garant de moi. Même s'il ne m'apprécie vraiment pas. » 
+VL_Pinja	\"The elf must be mistaken.\" 	« L'elfe doit se tromper. » 
+VL_Pinja	\"I believe you.\" 	« Je te crois. » 
+VL_Pinja	\"Hm.\" 	« Hm. » 
+VL_Pinja	\"Well that's not possible.\" 	« Eh bien, c'est impossible. » 
+VL_Pinja	\"What, she got a twin?\" 	« Quoi, elle a une jumelle ? » 
+VL_Pinja	\"I'm thinking more of a... ghost-type encounter.\" 	« Je pense plutôt à une... rencontre de type fantôme. » 
+VL_Pinja	\"No. It was an esoteric vision.\" 	« Non. C'était une vision ésotérique. » 
+VL_Pinja	\"I think you were there. Weren't you?\" 	« Je crois que tu y étais. Non ? » 
+VL_Pinja	\"Ah. Right.\" 	« Ah. D'accord. » 
+VL_Pinja	\"I see.\" 	« Je vois. » 
+VL_Pinja	\"I'm not sure, Cleric. You get up to a lot of weird shit.\" 	« J'suis pas sûr, Clerc. Tu fais beaucoup de trucs bizarres. » 
+VL_Pinja	\"Yeah, no.\" 	« Ouais, non. » 
+VL_Pinja	\"Don't worry about it.\" 	« T'en fais pas pour ça. » 
+VL_Pinja	\"Huh?\" 	« Hein ? » 
+VL_Pinja	\"We sent for you.\" 	« On t'a fait venir. » 
+VL_Pinja	\"If there was some deep state conspiracy, and you somehow blew up the tea shop...\" 	« S'il y avait une conspiration d'État profond, et que toi t'avais d'une manière ou d'une autre fait sauter le salon de thé... » 
+VL_Pinja	\"Why would they send <i>you</i> to investigate it?\" 	« Pourquoi t'enverraient-ils, <i>toi</i>, enquêter dessus ? » 
+VL_Pinja	\"To cover my tracks?\" 	« Pour couvrir mes traces ? » 
+VL_Pinja	\"Maybe the deep state conspirators are idiots?\" 	« Peut-être que les conspirateurs de l'État profond sont des idiots ? » 
+VL_Pinja	\"Yeah. Doesn't make sense.\" 	« Ouais. Ça n'a aucun sens. » 
+VL_Pinja	\"You haven't really done that, from what I've seen.\" 	« T'as pas vraiment fait ça, d'après ce que j'ai vu. » 
+VL_Pinja	\"That's probably true either way.\" 	« C'est probablement vrai dans tous les cas. » 
+VL_Pinja	\"No. It doesn't.\" 	« Non. Aucun. » 
+VL_Pinja	\"So don't worry. I don't suspect you of anything.\" 	« Donc t'inquiète. Je ne te soupçonne de rien. » 
+VL_Pinja	\"Yeah. True.\" 	« Ouais. C'est vrai. » 
+VL_Pinja	\"We sent for you. You were clearly not on Tolstad at the time.\" 	« On t'a fait venir. T'étais clairement pas à Tolstad à ce moment-là. » 
+VL_Pinja	\"And someone is obviously trying really hard to NOT let you investigate all of this.\" 	« Et quelqu'un fait visiblement de gros efforts pour ne PAS te laisser enquêter sur tout ça. » 
+VL_Pinja	\"True. It's really annoying.\" 	« C'est vrai. C'est vraiment agaçant. » 
+VL_Pinja	\"Yeah...\" 	« Ouais... » 
+VL_Pinja	\"Thanks for believing in me.\" 	« Merci de croire en moi. » 
+VL_Pinja	\"No prob.\" 	« Pas de souci. » 
+VL_Pinja	\"My guess is...\" 	« Je dirais que... » 
+VL_Pinja	\"It's another agent of the state responsible.\" 	« C'est un autre agent de l'État qui est responsable. » 
+VL_Pinja	\"What?\" 	« Quoi ? » 
+VL_Pinja	\"The elf points at you. Or tries to- and says you're the one she saw at the tea shop?\" 	« L'elfe te pointe du doigt. Ou essaie — et dit que c'est toi qu'elle a vu au salon de thé ? » 
+VL_Pinja	\"Yeah, no. She means a cleric. Or an Urthguard. Or something like that. A hundred percent.\" 	« Ouais, non. Elle veut dire un clerc. Ou une Urthgarde. Ou quelque chose comme ça. À cent pour cent. » 
+VL_Pinja	\"...That makes a lot more sense than me having amnesia.\" 	« ... Ça a beaucoup plus de sens que moi ayant une amnésie. » 
+VL_Pinja	\"So I'm not the one who...?\" 	« Donc ce n'est pas moi qui... ? » 
+VL_Pinja	\"I was starting to doubt my own sanity there for a second.\" 	« Je commençais à douter de ma propre santé mentale, là. » 
+VL_Pinja	\"Yeah. It's not like memory-changing spells don't exist, but...\" 	« Ouais. C'est pas comme si les sortilèges altérant la mémoire n'existaient pas, mais... » 
+VL_Pinja	\"It's <i>too much</i>. Gotta follow the simplest answer. And that's not you being a secret bad guy.\" 	« C'est <i>trop</i>. Faut suivre la réponse la plus simple. Et c'est pas toi en méchant secret. » 
+VL_Pinja	\"So now: we look for more clues.\" 	« Donc maintenant : on cherche d'autres indices. » 
+VL_Pinja	\"Frank son of Frank. The witness. We gotta find that fucker.\" 	« Frank fils de Frank. Le témoin. Faut qu'on retrouve ce salopard. » 
+VL_Pinja	\"Let's follow the leads.\" 	« Suivons les pistes. » 
+VL_Pinja	\"So now: we look into Meriadoc's claims.\" 	« Donc maintenant : on se penche sur les affirmations de Meriadoc. » 
+VL_Pinja	\"If there's a way for us to get into the Pillar, that's what we gotta do.\" 	« S'il y a un moyen pour nous d'entrer dans le Pilier, c'est ce qu'on doit faire. » 
+VL_Pinja	\"Some interesting stuff to think about.\" 	« Des choses intéressantes à méditer. » 
+VL_Pinja	The goblin nods, then gives you a thumbs up. 	Le gobelin hoche la tête, puis vous fait un pouce levé. 
+VL_Pinja	\"Nice job on the spell, Cleric.\" 	« Beau boulot avec le sortilège, Clerc. » 
+VL_Pinja	(Give him a thumbs up back, then leave.) 	(Lui rendre le pouce levé, puis partir.) 
+VL_Pinja	She's an elf. 	C'est une elfe. 
+VL_Pinja	She's an elf, that everybody loves very, very much. 	C'est une elfe, que tout le monde aime très, très fort. 
+VL_Pinja	An elf you know. 	Une elfe que tu connais. 
+VL_Pinja	Who wants to protect someone? A companion? 	Qui veut protéger quelqu'un ? Une compagne ? 
+VL_Pinja	And is voting Freestrider. Smart elf. 	Et qui vote Marche-Libre. Elfe intelligente. 
+VL_Pinja	And the horrors of fascism caused her end. 	Et les horreurs du fascisme ont causé sa fin. 
+VL_Pinja	But more importantly, she was meeting with a Freestrider. Go speak with them down on Waterlane. 	Mais plus important encore, elle rencontrait un Marche-Libre. Va leur parler en bas, à Waterlane. 
+VL_Pinja	Oh, and her favorite color was yellow. Great use of that question. 	Oh, et sa couleur préférée était le jaune. Belle utilisation de cette question. 
+VL_Pinja	You got something out of it, then. 	Tu en as tiré quelque chose, alors. 
+VL_Pinja	Most importantly, someone who looks a lot like you was at the tea shop during the explosion. 	Plus important encore, quelqu'un qui te ressemble beaucoup était au salon de thé pendant l'explosion. 
+VL_Pinja	It is very good you do not have any sort of amnesia. Otherwise, you would suspect yourself in this case. 	Il est très heureux que tu ne souffres d'aucune sorte d'amnésie. Sinon, tu te soupçonnerais toi-même dans cette affaire. 
+VL_Pinja	E-...Something to think about. 	... De quoi méditer. 
+VL_Meeting	\"Good evening, Cleric.\" 	« Bonsoir, Clerc. » 
+VL_Meeting	The pleasant words belie his annoyance. 	Ces paroles aimables dissimulent son agacement. 
+VL_Meeting	You've interrupted something here. 	Tu as interrompu quelque chose ici. 
+VL_Meeting	They're having a meeting. 	Ils sont en pleine réunion. 
+VL_Meeting	Crocodile. Dark knight. 	Crocodile. Chevalier sombre. 
+VL_Meeting	Kobold. Goblin. 	Kobold. Gobelin. 
+VL_Meeting	What the fuck? Is this an ambush?! 	C'est quoi ce bordel ? Une embuscade ?! 
+VL_Meeting	\"Greetings.\" 	« Salutations. » 
+VL_Meeting	\"This is an ominous sighting.\" 	« Voilà un spectacle de mauvais augure. » 
+VL_Meeting	FC7 wis-(Look around at the five of them.) \"You guys just hanging out here?\" 	FC7 wis-(Regarder les cinq autour.) « Vous êtes juste en train de traîner ici ? » 
+VL_Meeting	DC7 wis-(Look around at the five of them.) \"So, what's the subject of this here meeting?\" 	DC7 wis-(Regarder les cinq autour.) « Alors, quel est le sujet de cette réunion ? » 
+VL_Meeting	A long, slow blink. 	Un long et lent battement de paupières. 
+VL_Meeting	\"Cleric is trespasser. Go home!\" 	« Clerc être intrus. Rentrer chez toi ! » 
+VL_Meeting	\"But first, give back crossbow!\" 	« Mais d'abord, rendre arbalète ! » 
+VL_Meeting	Wow, this guy <i>loves</i> this crossbow. 	Wahou, ce gars <i>adore</i> cette arbalète. 
+VL_Meeting	The kobold points his crossbow in your general direction. 	Le kobold pointe son arbalète dans ta direction générale. 
+VL_Meeting	\"What a cute kobold.\" 	« Quel mignon petit kobold. » 
+VL_Meeting	\"You're right, I should leave.\" (Attempt to leave.) 	« Tu as raison, je devrais partir. » (Tenter de partir.) 
+VL_Meeting	(Just stare at the kobold.) 	(Juste fixer le kobold.) 
+VL_Meeting	\"Bastard Cleric...\" 	« Bâtard de Clerc... » 
+VL_Meeting	The little green dragon-ish growls, fermenting in rage. 	Le petit dragonnet vert gronde, fermentant de rage. 
+VL_Meeting	\"<b>Cleric</b>.\" 	« <b>Clerc</b>. » 
+VL_Meeting	His words... they cause your legs to falter. 	Ses paroles... elles font vaciller tes jambes. 
+VL_Meeting	His words bounce off your steely innards. You do not quake for being like this anymore. 	Ses paroles rebondissent sur tes entrailles d'acier. Tu ne trembles plus à cause de ce genre de choses. 
+VL_Meeting	\"I would like to ensure something from you.\" 	« J'aimerais m'assurer de quelque chose de votre part. » 
+VL_Meeting	\"What would that be?\" 	« De quoi s'agit-il ? » 
+VL_Meeting	\"No, I think I'm gonna leave.\" (Try to move your legs.) 	« Non, je crois que je vais partir. » (Essayer de bouger tes jambes.) 
+VL_Meeting	\"Uh oh.\" 	« Oh-oh. » 
+VL_Meeting	\"Silence.\" 	« Silence. » 
+VL_Meeting	\"Cleric not go!\" 	« Clerc partir pas ! » 
+VL_Meeting	\"Cleric is scared. Cleric should be.\" 	« Clerc avoir peur. Clerc devrait. » 
+VL_Meeting	\"Ôst.\" 	« Ôst. » 
+VL_Meeting	The pale man glances towards his servants before he speaks. 	L'homme pâle jette un œil vers ses serviteurs avant de parler. 
+VL_Meeting	\"You have uncovered a fair bit of information.\" 	« Vous avez découvert un certain nombre d'informations. » 
+VL_Meeting	\"I'm impressed. However, I must insist you keep that information to yourself.\" 	« Je suis impressionné. Cependant, je dois insister pour que vous gardiez ces informations pour vous. » 
+VL_Meeting	He shrugs as though he has no choice in the matter. 	Il hausse les épaules comme s'il n'avait pas le choix en la matière. 
+VL_Meeting	\"Permanently.\" 	« De manière permanente. » 
+VL_Meeting	He is going to kill you. 	Il va te tuer. 
+VL_Meeting	He is going to make you sign a nondisclosure agreement. 	Il va te faire signer un accord de non-divulgation. 
+VL_Meeting	An <i>airtight</i> nondisclosure agreement. 	Un accord de non-divulgation <i>hermétique</i>. 
+VL_Meeting	The dark knight lifts his axe to his shoulder. 	Le chevalier sombre porte sa hache à son épaule. 
+VL_Meeting	He's tying up loose ends, of course. 	Il fait le ménage, bien sûr. 
+VL_Meeting	Make sure you show yourself useful. 	Assure-toi de te montrer utile. 
+VL_Meeting	\"Whoa! Hold on. I won't say anything to anyone!\" 	« Holà ! Attendez. Je ne dirai rien à personne ! » 
+VL_Meeting	\"I have no interest in your business here. Let me go.\" 	« Je n'ai aucun intérêt pour vos affaires ici. Laissez-moi partir. » 
+VL_Meeting	\"I'm here to learn, Visken. I am no threat.\" 	« Je suis ici pour apprendre, Visken. Je ne suis pas une menace. » 
+VL_Meeting	R-\"No.\" 	« Non. » 
+VL_Meeting	\"Excuse me?\" 	« Pardon ? » 
+VL_Meeting	You hear the crocodile let out a satisfied grumble. 	Tu entends le crocodile lâcher un grognement satisfait. 
+VL_Meeting	\"I believe I must have misheard you, Cleric.\" 	« Je crois avoir mal entendu, Clerc. » 
+VL_Meeting	An executioner's axe trembles above the condemned. They lift their chin defiantly. 	La hache du bourreau tremble au-dessus du condamné. Il relève le menton avec défi. 
+VL_Meeting	Filthy lich. 	Sale liche. 
+VL_Meeting	\"You don't control <i>me</i>, lich.\" 	« Vous ne me contrôlez <i>pas</i>, liche. » 
+VL_Meeting	\"...nevermind.\" 	« ...laissez tomber. » 
+VL_Meeting	\"Hm.\" 	« Hm. » 
+VL_Meeting	\"There is a bit of a security risk here, as I'm sure you can imagine.\" 	« Il y a un certain risque de sécurité ici, comme vous l'imaginez sans doute. » 
+VL_Meeting	You hear a chuckle coming from the goblin hiding in a corner. 	Tu entends un petit rire venant du gobelin caché dans un coin. 
+VL_Meeting	\"Your <i>handler</i> follows you everywhere, Cleric.\" 	« Votre <i>régleur</i> vous suit partout, Clerc. » 
+VL_Meeting	\"Good thing he's not a night creature like yourself.\" 	« Heureusement qu'il n'est pas une créature nocturne comme vous. » 
+VL_Meeting	Handler? 	Régleur ? 
+VL_Meeting	Damn it. I should have brought Snell with me. 	Bon sang. J'aurais dû emmener Snell avec moi. 
+VL_Meeting	\"I'm sure we can work something out here.\" 	« Je suis sûr qu'on peut trouver un arrangement ici. » 
+VL_Meeting	(Gulp.) 	(Déglutir.) 
+VL_Meeting	Yes. They are only willing to do this because you did not. 	Oui. Ils ne sont prêts à faire ça que parce que tu ne l'as pas amené. 
+VL_Meeting	This is an ambush for a single target, intended to kill. 	C'est une embuscade pour une seule cible, destinée à tuer. 
+VL_Meeting	Kill?! 	Tuer ?! 
+VL_Meeting	Oh. I'm screwed. 	Oh. Je suis foutu. 
+VL_Meeting	Not yet. 	Pas encore. 
+VL_Meeting	In fact... not <i>ever</i>. 	En fait... <i>jamais</i>. 
+VL_Meeting	\"Kraaid is happy to see this.\" 	« Kraaid être content de voir ça. » 
+VL_Meeting	\"Cleric will struggle, yes? Cleric will not give up?\" 	« Clerc résister, oui ? Clerc abandonner pas ? » 
+VL_Meeting	A wide grin is etched into the beast's face. He inhales deeply. 	Un large sourire est gravé sur le visage de la bête. Il inspire profondément. 
+VL_Meeting	That thing is so fucked up. You hate that thing. 	Ce truc est tellement tordu. Tu détestes ce truc. 
+VL_Meeting	\"Do what Master say. If not, Cleric die!\" 	« Faire ce que Maître dire. Sinon, Clerc mourir ! » 
+VL_Meeting	\"Do not move, soldier.\" 	« Ne bouge pas, soldat. » 
+VL_Meeting	\"That is an order.\" 	« C'est un ordre. » 
+VL_Meeting	Yeah, don't listen to the ole \"lie down and die\" order. 	Ouais, n'écoute pas le vieil ordre « couche-toi et meurs ». 
+VL_Meeting	You need to talk. Talk, talk, talk! 	Tu dois parler. Parler, parler, parler ! 
+VL_Meeting	You may as well. You're screwed. You're so stupid! 	Autant le faire. T'es foutu. T'es tellement bête ! 
+VL_Meeting	\"Let's just calm down here, alright? We're not enemies.\" 	« On se calme, d'accord ? On n'est pas ennemis. » 
+VL_Meeting	\"Good thing you're all gathered. I won't have to hunt you down one by one.\" (Try to sound cool.) 	« Heureusement que vous êtes tous réunis. J'aurai pas à vous traquer un par un. » (Essayer d'avoir l'air cool.) 
+VL_Meeting	(Freeze.) 	(Se figer.) 
+VL_Meeting	\"Sure, sure. And why don't you come over here, then, friend?\" 	« Bien sûr, bien sûr. Et pourquoi ne viens-tu pas par ici, alors, mon ami ? » 
+VL_Meeting	Oh, good! He called you a friend! Maybe he's remembering good times with Snell, and has had a change of heart. 	Oh, bien ! Il t'a appelé ami ! Peut-être qu'il se rappelle des bons moments avec Snell, et qu'il a eu un changement de cœur. 
+VL_Meeting	It'll be just like old times, but with Razz this time! 	Ce sera comme au bon vieux temps, mais avec Razz cette fois ! 
+VL_Meeting	\"Goood...! <i>Kraaid</i> is ready for blood...\" 	« Biiien...! <i>Kraaid</i> être prêt pour le sang... » 
+VL_Meeting	He laughs at you. 	Il se moque de toi. 
+VL_Meeting	\"Okay, no, I get it. You're funny.\" 	« D'accord, non, je comprends. Tu es drôle. » 
+VL_Meeting	The wretched goblin takes a step closer. 	Le misérable gobelin fait un pas de plus. 
+VL_Meeting	\"I'll enjoy skinning you alive, you <i>filthy human</i>.\" 	« Je vais prendre plaisir à t'écorcher vif, <i>sale humain</i>. » 
+VL_Meeting	\"This time, I'm <i>not</i> going to put my knife away until I've peeled every last scrap of your skin.\" 	« Cette fois, je ne rangerai <i>pas</i> mon couteau avant d'avoir épluché jusqu'au dernier bout de ta peau. » 
+VL_Meeting	Wait, what the hell? 	Attends, c'est quoi ce bordel ? 
+VL_Meeting	The goblin lets out an insane, <i>shivering</i> chuckle. 	Le gobelin laisse échapper un petit rire dément, <i>frissonnant</i>. 
+VL_Meeting	No... 	Non... 
+VL_Meeting	The skin needs to be attached. 	La peau doit rester attachée. 
+VL_Meeting	Assassins are not good company, even by your standards. 	Les assassins ne sont pas une bonne compagnie, même selon tes critères. 
+VL_Meeting	You are <i>aware</i> of that, <i>thank</i> you. 	Tu en es <i>conscient</i>, <i>merci</i>. 
+VL_Meeting	\"Cleric gets what's coming to Cleric!\" 	« Clerc recevoir ce que Clerc mériter ! » 
+VL_Meeting	\"Tell me. Are you involved with the tea shop explosion?\" 	« Dites-moi. Êtes-vous impliqué dans l'explosion de la boutique de thé ? » 
+VL_Meeting	\"These are your evil minions, Visken?\" 	« Ce sont vos sbires maléfiques, Visken ? » 
+VL_Meeting	\"Are they all undead?\" 	« Sont-ils tous des morts-vivants ? » 
+VL_Meeting	\"What's it like being a lich?\" 	« C'est comment, d'être une liche ? » 
+VL_Meeting	\"What exactly is the grand plan here?\" 	« Quel est exactement le grand projet ici ? » 
+VL_Meeting	\"So... what are you guys voting in the-\" 	« Alors... pour qui vous votez à l— » 
+VL_Meeting	ROLL23 cha-Convince him to let you go. 	Le convaincre de te laisser partir. 
+VL_Meeting	R-\"You will not be permitted in my city.\" (Attack.) 	« Vous ne serez pas autorisé dans ma cité. » (Attaquer.) 
+VL_Meeting	\"Of course not, Cleric.\" 	« Bien sûr que non, Clerc. » 
+VL_Meeting	\"It has been an annoyance, however.\" 	« Cela a été un agacement, cependant. » 
+VL_Meeting	\"Remember, I'm solving that annoyance.\" 	« Souvenez-vous, je suis en train de régler cet agacement. » 
+VL_Meeting	\"Then you want me to deal with it? Yeah, I can do that, no prob. <i>Nooooo prob</i>.\" 	« Donc vous voulez que je m'en occupe ? Ouais, je peux faire ça, pas d'soucis. <i>Aucuuuun soucis</i>. » 
+VL_Meeting	\"I don't believe you.\" 	« Je ne te crois pas. » 
+VL_Meeting	The pale man stares at you. 	L'homme pâle te fixe. 
+VL_Meeting	\"Indeed.\" 	« En effet. » 
+VL_Meeting	\"Yeah. You should let me go. So I can go finish up the job.\" 	« Ouais. Vous devriez me laisser partir. Pour que je puisse aller finir le boulot. » 
+VL_Meeting	\"I'm very close to finding out the truth. I am.\" 	« Je suis très près de découvrir la vérité. Vraiment. » 
+VL_Meeting	DC6 cha-\"You're smart, right? You know threatening me won't help you.\" 	DC6 cha-« Vous êtes intelligent, n'est-ce pas ? Vous savez que me menacer ne vous aidera pas. » 
+VL_Meeting	FC6 cha-\"Even someone as dumb as you knows threatening me won't help.\" 	FC6 cha-« Même quelqu'un d'aussi bête que vous sait que me menacer ne servira à rien. » 
+VL_Meeting	With unerring deliberation, his face arrives at a faint smile. 	Avec une délibération infaillible, son visage parvient à un léger sourire. 
+VL_Meeting	\"Perhaps.\" 	« Peut-être. » 
+VL_Meeting	\"I do not care.\" 	« Je m'en moque. » 
+VL_Meeting	Fair. 	Juste. 
+VL_Meeting	Do not ignore the words of <b>the Cleric</b>. 	N'ignorez pas les paroles du <b>Clerc</b>. 
+VL_Meeting	\"They are my <i>associates</i>.\" 	« Ce sont mes <i>associés</i>. » 
+VL_Meeting	Weird business, then. 	Drôle d'entreprise, alors. 
+VL_Meeting	\"You know Ôst, my faithful companion.\" 	« Vous connaissez Ôst, mon fidèle compagnon. » 
+VL_Meeting	\"Master!\" 	« Maître ! » 
+VL_Meeting	\"The Duck is force incarnate, and my enforcer.\" 	« Le Canard est la force incarnée, et mon exécuteur. » 
+VL_Meeting	The dark knight bows his head. 	Le chevalier sombre incline la tête. 
+VL_Meeting	\"Razz is a reliable mercenary and a quick, silent killer.\" 	« Razz est un mercenaire fiable et un tueur rapide et silencieux. » 
+VL_Meeting	\"Yeah, that's right.\" 	« Ouais, c'est ça. » 
+VL_Meeting	\"Finally, Kraaid is not only brutally strong, but he is one of the great hunters of our age.\" 	« Enfin, Kraaid n'est pas seulement d'une force brutale, mais c'est aussi l'un des grands chasseurs de notre époque. » 
+VL_Meeting	\"<i>Kraaid</i> is also proficient chef...!\" 	« <i>Kraaid</i> aussi être chef compétent... ! » 
+VL_Meeting	The lich tilts his head. \"Of course.\" 	La liche penche la tête. « Bien sûr. » 
+VL_Meeting	\"No.\" 	« Non. » 
+VL_Meeting	\"But some of them are?\" 	« Mais certains le sont ? » 
+VL_Meeting	Visken stares at you blankly. 	Visken te fixe d'un regard vide. 
+VL_Meeting	The crocodile lets out a noisy chortle. 	Le crocodile laisse échapper un rire sonore. 
+VL_Meeting	\"<i>Kraaid</i>... is slightly undead.\" 	« <i>Kraaid</i>... être légèrement mort-vivant. » 
+VL_Meeting	\"It will pass.\" 	« Cela passera. » 
+VL_Meeting	The crocodile is either in denial, or some type of charm. 	Le crocodile est soit dans le déni, soit sous une sorte de charme. 
+VL_Meeting	Could be both. 	Ça pourrait être les deux. 
+VL_Meeting	\"Slightly undead?\" 	« Légèrement mort-vivant ? » 
+VL_Meeting	\"Is the kobold undead?\" 	« Le kobold est-il mort-vivant ? » 
+VL_Meeting	\"And... Razz?\" 	« Et... Razz ? » 
+VL_Meeting	M-\"And... what about him?\" (Point to The Duck.) 	« Et... lui alors ? » (Pointer Le Canard.) 
+VL_Meeting	\"<i>Kraaid</i> fell during the razing of a village. A good battle.\" 	« <i>Kraaid</i> être tombé pendant la mise à sac d'un village. Bonne bataille. » 
+VL_Meeting	\"As you can imagine, for me, death is only a slight hindrance.\" 	« Comme vous l'imaginez, pour moi, la mort n'est qu'un léger obstacle. » 
+VL_Meeting	\"However, from a biological perspective, the crocolisk body is a nightmare.\" 	« Cependant, d'un point de vue biologique, le corps de crocolisk est un cauchemar. » 
+VL_Meeting	\"Ôst performed my necromancy with great form, but much of Kraaid's flesh was unaffected.\" 	« Ôst a exécuté ma nécromancie avec grande maîtrise, mais une grande partie de la chair de Kraaid est restée intacte. » 
+VL_Meeting	\"Ôst followed instructions, master! Very good instructions.\" 	« Ôst suivre instructions, maître ! Très bonnes instructions. » 
+VL_Meeting	\"So today, even in a technical sense, Kraaid is, arguably, <i>slightly</i> undead.\" 	« Donc aujourd'hui, même au sens technique, Kraaid est, sans doute, <i>légèrement</i> mort-vivant. » 
+VL_Meeting	Necromancy can be a highly unstable form of magic. To master it is truly remarkable. 	La nécromancie peut être une forme de magie hautement instable. La maîtriser est véritablement remarquable. 
+VL_Meeting	More of an art than a science. 	Plus un art qu'une science. 
+VL_Meeting	\"No! Ôst is alive servant. Until Ôst die.\" 	« Non ! Ôst être serviteur vivant. Jusqu'à ce que Ôst mourir. » 
+VL_Meeting	\"Then Ôst is undead servant for master! Forever!\" 	« Alors Ôst être serviteur mort-vivant pour maître ! À jamais ! » 
+VL_Meeting	So loyal. At least the creature has one redeeming quality. 	Si loyal. Au moins la créature a une qualité rédemptrice. 
+VL_Meeting	\"Right. You just really love your master.\" 	« Bien. Tu adores vraiment ton maître. » 
+VL_Meeting	\"Are you sure you want to do that?\" 	« Tu es sûr de vouloir faire ça ? » 
+VL_Meeting	\"Yes!\" 	« Oui ! » 
+VL_Meeting	\"Of course!\" 	« Bien sûr ! » 
+VL_Meeting	\"Ôst is a very good servant, Cleric. Do not worry about that.\" 	« Ôst est un très bon serviteur, Clerc. Ne vous en faites pas pour cela. » 
+VL_Meeting	\"I work for pay, human.\" 	« Je travaille pour de l'argent, humain. » 
+VL_Meeting	\"And Visken's got crowns to spare.\" 	« Et Visken a des couronnes à revendre. » 
+VL_Meeting	He jingles a heavy purse. \"Best employer in the city.\" 	Il fait tinter une bourse lourde. « Meilleur employeur de la ville. » 
+VL_Meeting	The lich looks away. 	La liche détourne le regard. 
+VL_Meeting	\"Razz has, in turn, proven to be indispensable.\" 	« Razz, à son tour, s'est révélé indispensable. » 
+VL_Meeting	DC7 int-\"As a hired killer?\" 	DC7 int-« En tant que tueur à gages ? » 
+VL_Meeting	FC7 int-\"As a knife guy?\" 	FC7 int-« En tant que mec aux couteaux ? » 
+VL_Meeting	The lich blinks slowly. 	La liche cligne lentement des yeux. 
+VL_Meeting	\"At times. But primarily as a source of information.\" 	« Parfois. Mais surtout comme source d'informations. » 
+VL_Meeting	\"Not as fun. But yeah.\" 	« Moins amusant. Mais ouais. » 
+VL_Meeting	\"Paranoid humans will pay anything for secrets.\" 	« Les humains paranoïaques paient n'importe quoi pour des secrets. » 
+VL_Meeting	The lich tapped his finger. 	La liche tapote du doigt. 
+VL_Meeting	For him, that's an outward display of annoyance at Razz's clueless boasting. 	Pour lui, c'est une démonstration extérieure d'agacement face aux fanfaronnades inconscientes de Razz. 
+VL_Meeting	That does sound like good work... 	Ça a l'air d'un bon boulot... 
+VL_Meeting	They all go quiet and stare at Visken. 	Ils se taisent tous et fixent Visken. 
+VL_Meeting	Then Visken nods to the dark knight. 	Puis Visken adresse un signe de tête au chevalier sombre. 
+VL_Meeting	\"I am a <i>Wraith</i>.\" 	« Je suis un <i>Spectre</i>. » 
+VL_Meeting	\"A wraith? Like a... spirit?\" 	« Un spectre ? Comme un... esprit ? » 
+VL_Meeting	\"So <i>you're</i> undead?\" 	« Alors <i>vous</i>, vous êtes mort-vivant ? » 
+VL_Meeting	\"Huh.\" 	« Tiens. » 
+VL_Meeting	\"I am... a manifestation of the <i>fear</i> instilled in the enemies of the state.\" 	« Je suis... une manifestation de la <i>peur</i> inspirée aux ennemis de l'État. » 
+VL_Meeting	\"I... bring <i>order</i> to <i>chaos</i>.\" 	« Je... apporte l'<i>ordre</i> au <i>chaos</i>. » 
+VL_Meeting	No... <b>you</b> do that! 	Non... c'est <b>toi</b> qui fais ça ! 
+VL_Meeting	\"Yes! Tell Cleric!\" 	« Oui ! Dire à Clerc ! » 
+VL_Meeting	The kobold smirks. \"You take wrong step, BORGO will END Cleric!\" 	Le kobold sourit en coin. « Toi faire mauvais pas, BORGO ACHEVER Clerc ! » 
+VL_Meeting	Visken clicks his tongue. 	Visken claque la langue. 
+VL_Meeting	The kobold stops smiling. His normally unfeeling face ends up in a sort of terrified scowl. 	Le kobold cesse de sourire. Son visage normalement inexpressif se mue en une sorte de grimace terrifiée. 
+VL_Meeting	The kobold messed up. He used the wrong name. 	Le kobold s'est planté. Il a utilisé le mauvais nom. 
+VL_Meeting	They all go quiet, and look to their master. 	Ils se taisent tous, et regardent leur maître. 
+VL_Meeting	Hm? 	Hm ? 
+VL_Meeting	Borgo? As in, the legendary paladin, <i>Borgo Darrow</i>?! 	Borgo ? Comme dans le paladin légendaire, <i>Borgo Darrow</i> ?! 
+VL_Meeting	Borgo? Wait... 	Borgo ? Attends... 
+VL_Meeting	Interesting. The wizard must have stolen the corpse. 	Intéressant. Le magicien a dû voler le cadavre. 
+VL_Meeting	\"What's happening?\" 	« Que se passe-t-il ? » 
+VL_Meeting	DC13 wis-\"<i>Borgo</i>?\" 	DC13 wis-« <i>Borgo</i> ? » 
+VL_Meeting	DC11 str-\"Borgo <b>Darrow</b>?!\" (Stare at him.) 	DC11 str-« Borgo <b>Darrow</b> ?! » (Le fixer.) 
+VL_Meeting	DC10 int-\"You resurrected Borgo <i>Darrow</i>?\" 	DC10 int-« Vous avez ressuscité Borgo <i>Darrow</i> ? » 
+VL_Meeting	\"A <i>misspeak</i>.\" 	« Une <i>maladresse de langage</i>. » 
+VL_Meeting	\"A common name, Cleric.\" 	« Un nom courant, Clerc. » 
+VL_Meeting	\"No. He is another Borgo.\" 	« Non. C'est un autre Borgo. » 
+VL_Meeting	\"Of course not, Cleric. This is another Borgo.\" 	« Bien sûr que non, Clerc. C'est un autre Borgo. » 
+VL_Meeting	A deflection. 	Une diversion. 
+VL_Meeting	He's lying. Straight-up. 	Il ment. Carrément. 
+VL_Meeting	Oh. The pale man is flustered. As much as he is able to be. 	Oh. L'homme pâle est désarçonné. Autant qu'il peut l'être. 
+VL_Meeting	\"Let me explain. At one point, they each had codenames.\" 	« Laissez-moi expliquer. À un moment, ils avaient chacun des noms de code. » 
+VL_Meeting	\"Unfortunately, they were not found to be too practical. <i>The Duck</i> is one of the codenames.\" 	« Malheureusement, ils se sont révélés peu pratiques. <i>Le Canard</i> est l'un des noms de code. » 
+VL_Meeting	\"So perhaps we can move on from this.\" 	« Alors peut-être pouvons-nous passer à autre chose. » 
+VL_Meeting	\"Wait, who came up with that codename? It's awful.\" 	« Attendez, qui a inventé ce nom de code ? Il est affreux. » 
+VL_Meeting	\"Right. Moving on.\" 	« Bien. Passons. » 
+VL_Meeting	An awkward silence falls upon the chamber. 	Un silence gênant s'abat sur la pièce. 
+VL_Meeting	Visken raises one finger. 	Visken lève un doigt. 
+VL_Meeting	\"I did.\" 	« Oui. » 
+VL_Meeting	\"...it's not <i>that</i> awful.\" 	« ...il n'est pas <i>si</i> affreux. » 
+VL_Meeting	\"Oh.\" 	« Oh. » 
+VL_Meeting	\"The <i>Duck</i>? What was the plan, to send him on a lot of bread-eating missions?\" 	« Le <i>Canard</i> ? Le plan, c'était de l'envoyer en mission grignoter du pain ? » 
+VL_Meeting	The pale man stares at you. 	L'homme pâle te fixe. 
+VL_Meeting	He lets the silence stick in the air. 	Il laisse le silence s'installer. 
+VL_Meeting	\"What were the other codenames?\" 	« Quels étaient les autres noms de code ? » 
+VL_Meeting	\"Ôst was The Hand. Razz was The Eye. Kraaid was The Rage.\" 	« Ôst était La Main. Razz était L'Œil. Kraaid était La Rage. » 
+VL_Meeting	\"Not really sticking to a theme, huh?\" 	« Vous tenez pas trop à un thème, hein ? » 
+VL_Meeting	\"And Borgo was The Duck.\" 	« Et Borgo était Le Canard. » 
+VL_Meeting	\"It was an attempt.\" 	« C'était une tentative. » 
+VL_Meeting	\"<i>Kraaid</i> liked The Rage. It was suitable...\" 	« <i>Kraaid</i> aimer La Rage. C'était approprié... » 
+VL_Meeting	\"Razz is fine.\" 	« Razz, ça va. » 
+VL_Meeting	\"Ôst like whatever master suggest.\" 	« Ôst aimer ce que maître suggérer. » 
+VL_Meeting	The pale man nods. 	L'homme pâle acquiesce. 
+VL_Meeting	\"Yes. Cleric move on.\" 	« Oui. Clerc passer à autre chose. » 
+VL_Meeting	The kobold looks relieved. 	Le kobold a l'air soulagé. 
+VL_Meeting	The pale man does not answer your question for quite some time. He simply stares at you, dead still. 	L'homme pâle ne répond pas à ta question pendant un long moment. Il se contente de te fixer, immobile comme la mort. 
+VL_Meeting	Oh geez. See how still he is? 	Oh purée. Tu vois comme il est immobile ? 
+VL_Meeting	He's stopped <i>pretending to breathe</i>. 	Il a cessé de <i>faire semblant de respirer</i>. 
+VL_Meeting	That's fucking gangster. 	C'est carrément gangster. 
+VL_Meeting	\"It is good. I have made a good... <i>life</i> for myself.\" 	« C'est bien. Je me suis fait une bonne... <i>vie</i>. » 
+VL_Meeting	Life? But he's dead. You should tell him that, he'd appreciat- 	La vie ? Mais il est mort. Tu devrais lui dire, il appréci— 
+VL_Meeting	\"Lichdom is not to be undertaken lightly. It requires personal sacrifice, and often, general bloodshed.\" 	« La lichéité n'est pas à entreprendre à la légère. Elle exige un sacrifice personnel, et souvent, des effusions de sang généralisées. » 
+VL_Meeting	\"Personally, I avoid such barbarism. My continued existence does not hurt anyone, I assure you.\" 	« Personnellement, j'évite une telle barbarie. Ma continuation d'existence ne blesse personne, je vous l'assure. » 
+VL_Meeting	FC8 cha-\"You said 'life' earlier but you're dead. I just wanted to correct you. You're dead.\" 	FC8 cha-« Vous avez dit « vie » tout à l'heure mais vous êtes mort. Je voulais juste vous corriger. Vous êtes mort. » 
+VL_Meeting	\"How is that supposed to work? Liches have to suck souls, don't they?\" 	« Comment c'est censé fonctionner ? Les liches doivent aspirer des âmes, non ? » 
+VL_Meeting	\"So you're a good lich?\" 	« Alors vous êtes une bonne liche ? » 
+VL_Meeting	He eyes you and his minions. \"<i>Undead</i>, to be clear.\" 	Il vous toise, toi et ses sbires. « <i>Mort-vivant</i>, pour être clair. » 
+VL_Meeting	He pauses for a moment, then continues. 	Il fait une pause un instant, puis continue. 
+VL_Meeting	The corners of his mouth twirl upwards, slightly. 	Les coins de sa bouche se retroussent légèrement. 
+VL_Meeting	\"That is not how I identify, no.\" 	« Ce n'est pas comme cela que je m'identifie, non. » 
+VL_Meeting	\"Normally the cost is very high. For me, it is cheap.\" 	« Normalement le coût est très élevé. Pour moi, il est bon marché. » 
+VL_Meeting	\"That is for a multitude of reasons, which I won't get in to. But the upside is major: I do not draw any attention, nor do I hurt anyone.\" 	« Cela tient à une multitude de raisons, dans lesquelles je n'entrerai pas. Mais l'avantage est majeur : je n'attire aucune attention, et je ne blesse personne. » 
+VL_Meeting	He is stressing that he does not hurt any individual. The harm he causes is diffuse. 	Il insiste sur le fait qu'il ne blesse aucun individu. Le mal qu'il cause est diffus. 
+VL_Meeting	\"That allows me to work in peace.\" 	« Cela me permet de travailler en paix. » 
+VL_Meeting	\"I am what you would consider a researcher. Beyond that, my goals are my own.\" 	« Je suis ce que vous considéreriez comme un chercheur. Au-delà, mes objectifs sont les miens. » 
+VL_Meeting	\"No, Cleric.\" 	« Non, Clerc. » 
+VL_Meeting	\"This is not the time.\" 	« Ce n'est pas le moment. » 
+VL_Meeting	Yeah. Not that you're very consistent with asking that at the <i>right</i> time. 	Ouais. C'est pas comme si tu étais très cohérent à demander ça au <i>bon</i> moment. 
+VL_Meeting	But it's the week of the election...? 	Mais c'est la semaine de l'élection... ? 
+VL_Meeting	Okay. You've got four deranged killers, and a lich. 	D'accord. Tu as quatre tueurs déséquilibrés, et une liche. 
+VL_Meeting	And none of them like you or respect you. 	Et aucun d'eux ne t'apprécie ni ne te respecte. 
+VL_Meeting	Except for <i>maybe</i> Razz, who respects you only because you allowed him to stab you. 	Sauf <i>peut-être</i> Razz, qui ne te respecte que parce que tu l'as laissé te poignarder. 
+VL_Meeting	This is bad. 	C'est mauvais. 
+VL_Meeting	You need to somehow prove to them you're capable of keeping this secret. 	Tu dois leur prouver d'une manière ou d'une autre que tu es capable de garder ce secret. 
+VL_Meeting	Which you obviously cannot do. 	Ce que tu ne peux évidemment pas faire. 
+VL_Meeting	I can't do anything?! 	Je ne peux rien faire ?! 
+VL_Meeting	There's no 'right thing' to say. 	Il n'y a pas de « bonne chose » à dire. 
+VL_Meeting	Instead you have to do something awful. 	Au lieu de cela tu dois faire quelque chose d'horrible. 
+VL_Meeting	Here goes... 	C'est parti... 
+VL_Meeting	R-\"I'll swear an oath. I'll serve you.\" 	« Je vais prêter serment. Je vais vous servir. »\"\" 
+VL_Meeting	R-\"Fuck you.\" (Attack.) 	« Va te faire foutre. »\" (Attack.)\" 
+VL_Meeting	\"I need you to swear an oath, Cleric.\" 	« J'ai besoin que vous prêtiez serment, Clerc. » 
+VL_Meeting	\"A binding contract on your soul. Swear yourself to my interest.\" 	« Un contrat contraignant sur votre âme. Engagez-vous à mes intérêts. » 
+VL_Meeting	Another one? But you've already sworn to the interest of the Coinlord... 	Encore un ? Mais tu as déjà juré aux intérêts du Seigneur des Couronnes... 
+VL_Meeting	To follow this abomination would be heresy, to say the least. 	Suivre cette abomination serait une hérésie, c'est le moins qu'on puisse dire. 
+VL_Meeting	\"You will be rewarded for such loyalty, of course. In return, you will simply have to perform a handful of tasks on my behalf.\" 	« Vous serez récompensé pour une telle loyauté, bien sûr. En retour, vous aurez simplement à accomplir une poignée de tâches en mon nom. » 
+VL_Meeting	Yo... rewards do rule, though... and maybe you could stay under the radar for the worst shit. 	Yo... les récompenses, c'est cool, faut le dire... et peut-être que tu pourrais rester sous les radars pour les pires trucs. 
+VL_Meeting	\"A slight service in exchange for great influence.\" 	« Un léger service en échange d'une grande influence. » 
+VL_Meeting	To bow down is not ideal. However... 	S'incliner n'est pas idéal. Cependant... 
+VL_Meeting	You can learn a great deal from this lich. Enough to make such an oath worthwhile. 	Tu peux apprendre énormément de cette liche. Assez pour que ce serment en vaille la peine. 
+VL_Meeting	And, when the time comes, you can figure a way out of your oath. Rules were made to be broken. 	Et, le moment venu, tu pourras trouver un moyen de te sortir de ton serment. Les règles sont faites pour être brisées. 
+VL_Meeting	This wizard could teach you a great deal. 	Ce magicien pourrait beaucoup t'apprendre. 
+VL_Meeting	\"An... apprenticeship?\" 	« Un... apprentissage ? » 
+VL_Meeting	\"An oath is a big deal.\" 	« Un serment, c'est une grosse affaire. » 
+VL_Meeting	\"Do I have a choice?\" 	« Ai-je le choix ? » 
+VL_Meeting	\"Let us not go quite so far yet.\" 	« N'allons pas tout à fait si loin pour le moment. » 
+VL_Meeting	\"It is.\" 	« Cela l'est. » 
+VL_Meeting	\"We always have a choice, Cleric.\" 	« Nous avons toujours le choix, Clerc. » 
+VL_Meeting	Live. Or die. 	Vivre. Ou mourir. 
+VL_Meeting	The pale man greets you with a quick wave. 	L'homme pâle te salue d'un rapide geste de la main. 
+VL_Meeting	\"Do you have more business here, Cleric?\" 	« Avez-vous d'autres affaires ici, Clerc ? » 
+VL_Meeting	\"I don't think so.\" 	« Je ne crois pas. » 
+VL_Meeting	\"Can't I join you guys? Hang out?\" 	« Je peux pas vous rejoindre ? Traîner avec vous ? » 
+VL_Meeting	E-\"Right. Bye.\" 	« Bien. Au revoir. »\"\" 
+VL_Meeting	\"Then good evening to you.\" 	« Alors bonne soirée à vous. » 
+VL_Meeting	\"No, Cleric.\" 	« Non, Clerc. » 
+VL_Meeting	\"I do not wish for you to formally join my Helpers. Not now.\" 	« Je ne souhaite pas que vous rejoigniez formellement mes Aides. Pas pour l'instant. » 
+VL_Meeting	\"For now, please leave.\" 	« Pour l'instant, partez s'il vous plaît. » 
+VL_Meeting	\"Good.\" 	« Bien. » 
+VL_Meeting	\"Recite it. Clearly.\" 	« Récitez-le. Clairement. » 
+VL_Meeting	You can't fake it with this guy. 	Tu ne peux pas faire semblant avec ce type. 
+VL_Meeting	He'll notice if you do. 	Il le remarquera si tu le fais. 
+VL_Meeting	If you swear an oath here, you'll be branded for eternity. 	Si tu prêtes serment ici, tu seras marqué pour l'éternité. 
+VL_Meeting	You <b>cannot</b> serve a <b>lich</b>. 	Tu <b>ne peux pas</b> servir une <b>liche</b>. 
+VL_Meeting	What exactly is the implication here? 	Que sous-entend-on exactement ici ? 
+VL_Meeting	(Get down on one knee.) 	(Mettre un genou à terre.) 
+VL_Meeting	\"Can I think about it for a bit? Just to make sure it's a good idea.\" 	« Je peux y réfléchir un moment ? Juste pour m'assurer que c'est une bonne idée. » 
+VL_Meeting	Endless service to an undead monster. 	Service sans fin à un monstre mort-vivant. 
+VL_Meeting	<b>Do not</b>. <b>Do it</b>. 	<b>Ne le fais pas</b>. <b>Fais-le</b>. 
+VL_Meeting	He <i>is</i> strong. And serving the strong <i>is</i> a moral good. 	Il <i>est</i> fort. Et servir les forts <i>est</i> un bien moral. 
+VL_Meeting	You could learn a lot from such a master. 	Tu pourrais beaucoup apprendre d'un tel maître. 
+VL_Meeting	And it doesn't have to last forever. 	Et ça n'a pas à durer éternellement. 
+VL_Meeting	Liches do have a tendency to be struck down in their prime... 	Les liches ont tendance à être abattues dans la fleur de l'âge... 
+VL_Meeting	\"I suppose.\" 	« Je suppose. » 
+VL_Meeting	That bought some time. Good. 	Cela a fait gagner du temps. Bien. 
+VL_Meeting	\"Swear, Cleric. On your god.\" 	« Jurez, Clerc. Sur votre dieu. » 
+VL_Meeting	You remember the words well enough. 	Tu te souviens assez bien des mots. 
+VL_Meeting	Those words, used for the divine bound. 	Ces mots, utilisés pour le lien divin. 
+VL_Meeting	To swear an oath. On your god. Like... this. 	Prêter serment. Sur ton dieu. Comme... ça. 
+VL_Meeting	Horrendous. 	Horrible. 
+VL_Meeting	\"On the name of the Last-Born God.\" (Wince.) 	« Au nom du Dieu Dernier-Né. » (Grimacer.) 
+VL_Meeting	<i>Urth Be Blessed</i>. Such a vainglorious phrase. 	<i>Qu'Urth Soit Béni</i>. Quelle phrase vaniteuse. 
+VL_Meeting	\"<i>Urth Be Blessed</i>.\" 	« <i>Qu'Urth Soit Béni</i>. » 
+VL_Meeting	I swear to uphold the truth, justice, and holy realm of his conquest. 	Je jure de défendre la vérité, la justice et le saint royaume de sa conquête. 
+VL_Meeting	A lich's conquest... something to behold. 	La conquête d'une liche... quelque chose à contempler. 
+VL_Meeting	For this... horrid creature. Your soul is <i>rotting</i>. 	Pour cette... créature horrible. Ton âme <i>pourrit</i>. 
+VL_Meeting	\"I swear to uphold the truth, justice, and holy realm of his conquest.\" 	« Je jure de défendre la vérité, la justice et le saint royaume de sa conquête. » 
+VL_Meeting	And serve your cause as a humble servant until my service is finished. 	Et de servir votre cause en humble serviteur jusqu'à ce que mon service soit achevé. 
+VL_Meeting	Which would be forever, theoretically. 	Ce qui serait pour toujours, théoriquement. 
+VL_Meeting	Which is for ever, probly. 	Ce qui veut dire à jamais, sans doute. 
+VL_Meeting	\"And serve your cause as a humble servant until my service is finished.\" (Swear your oath.) 	« Et de servir votre cause en humble serviteur jusqu'à ce que mon service soit achevé. » (Prêter ton serment.) 
+VL_Meeting	He pats you on the shoulder. \"There it is. <i>Assurance</i>.\" 	Il te tapote l'épaule. « Voilà. <i>Assurance</i>. » 
+VL_Meeting	\"I will not require your service at this time.\" 	« Je n'aurai pas besoin de votre service pour l'instant. » 
+VL_Meeting	\"I will call upon you in the future, if so needed.\" 	« Je ferai appel à vous à l'avenir, si nécessaire. » 
+VL_Meeting	\"For now, continue with your... quest.\" 	« Pour l'heure, poursuivez votre... quête. » 
+VL_Meeting	The lich smiles. 	La liche sourit. 
+VL_Meeting	A shiver runs down your spine. 	Un frisson te parcourt l'échine. 
+VL_Meeting	Damn, what the fuck? He did all that to say piss off? 	Putain, c'est quoi ce bordel ? Il a fait tout ça pour dire dégage ? 
+VL_Meeting	No. The wolf has not escaped the snare. It is on a long lead. 	Non. Le loup n'a pas échappé au piège. Il est en laisse longue. 
+VL_Meeting	You have violated everything you stand for. 	Tu as bafoué tout ce pour quoi tu te bats. 
+VL_Meeting	This is a dark day for everything good. 	C'est un jour sombre pour tout ce qui est bon. 
+VL_Meeting	You cast the divine spell, filling the room in a golden hue. 	Tu lances le sort divin, baignant la pièce d'une teinte dorée. 
+VL_Meeting	\"I'm afraid that will not suffice, Cleric.\" 	« Je crains que cela ne suffise pas, Clerc. » 
+VL_Meeting	\"But good try.\" 	« Mais belle tentative. » 
+VL_Meeting	\"<i>Kraaid</i> feels like saying: Cleric looks tasty...\" 	« <i>Kraaid</i> avoir envie de dire : Clerc avoir l'air savoureux... » 
+VL_Meeting	The kobold lets out a yipping laugh. 	Le kobold laisse échapper un rire glapissant. 
+VL_Meeting	\"Tasty? He looks dumb. Dumb-stupid!\" 	« Savoureux ? Il avoir l'air bête. Bête-stupide ! » 
+VL_Meeting	\"Soldier. This magic is not suitable.\" 	« Soldat. Cette magie n'est pas appropriée. » 
+VL_Meeting	\"Yeah, what do you want from us? The truth?\" 	« Ouais, tu veux quoi de nous ? La vérité ? » 
+VL_Meeting	\"I'd love to skin you alive, that the truth.\" 	« J'adorerais t'écorcher vif, ça c'est la vérité. » 
+VL_Meeting	\"Oh.\" 	« Oh. » 
+VL_Meeting	\"Yeah. <i>Oh</i>.\" 	« Ouais. <i>Oh</i>. » 
+VL_Meeting	The spell might not do much, but... 	Le sort ne fera peut-être pas grand-chose, mais... 
+VL_Meeting	It's one hell of a distraction! Now you've got them all chatty- use it! Try to convince them again! 	C'est une sacrée distraction ! Maintenant tu les as tous bavards — utilise ça ! Essaie de les convaincre encore ! 
+VL_Meeting	Oh. That was not your intention. 	Oh. Ce n'était pas ton intention. 
+VL_Meeting	You should probably just bite the sour lemon, and begin this <i>violent affair</i>. 	Tu devrais sans doute juste mordre dans le citron amer, et entamer cette <i>affaire violente</i>. 
+VL_Meeting	Right. Right. 	Bien. Bien. 
+VL_Meeting	Four insane killers and a lich. 	Quatre tueurs déments et une liche. 
+VL_Meeting	You can handle that. 	Tu peux gérer ça. 
+VL_Meeting	Can I? 	Vraiment ? 
+VL_Meeting	Sure. Everyone's got leverage. You just need to find it. 	Bien sûr. Tout le monde a un levier. Il faut juste le trouver. 
+VL_Meeting	This guy's clearly got himself in a bind. He's a lich with a secret organization. 	Ce type est clairement coincé. C'est une liche avec une organisation secrète. 
+VL_Meeting	An <i>open</i> secret, at least. One built on fear and convenience. 	Un secret <i>de Polichinelle</i>, du moins. Construit sur la peur et la convenance. 
+VL_Meeting	Neither is a stable foundation. Visken knows it. 	Ni l'un ni l'autre n'est une fondation stable. Visken le sait. 
+VL_Meeting	He needs to feel power over you. And that's why he wants an oath. 	Il a besoin de sentir un pouvoir sur toi. Et c'est pourquoi il veut un serment. 
+VL_Meeting	But you can offer something just as good as an oath. You can offer... 	Mais tu peux offrir quelque chose d'aussi bon qu'un serment. Tu peux offrir... 
+VL_Meeting	\"Visken.\" 	« Visken. » 
+VL_Meeting	\"Yes, Cleric.\" 	« Oui, Clerc. » 
+VL_Meeting	\"You are aware that you're in quite a bad situation, right?\" 	« Vous êtes conscient que vous êtes dans une situation plutôt mauvaise, n'est-ce pas ? » 
+VL_Meeting	\"Hm.\" 	« Hm. » 
+VL_Meeting	His eyebrow tweaks ever-so-slightly. 	Son sourcil frémit à peine. 
+VL_Meeting	His eyes say \"elaborate.\" 	Ses yeux disent : « développez. » 
+VL_Meeting	\"So you say.\" 	« Si vous le dites. » 
+VL_Meeting	DC18 int-\"I do. And that's just politics. An esoteric shift is happening too. You know it.\" 	DC18 int-« Je le dis. Et ça, c'est juste la politique. Un basculement ésotérique est aussi en cours. Vous le savez. » 
+VL_Meeting	FC18 int-\"I do. And half of the city already knows there's more to you than cleaning dead bodies. Being unpopular is costly.\" 	FC18 int-« Je le dis. Et la moitié de la ville sait déjà qu'il y a plus en vous que de nettoyer les cadavres. Être impopulaire, ça coûte cher. » 
+VL_Meeting	\"Mm.\" 	« Mm. » 
+VL_Meeting	\"What you need right now, is to lay low. If anyone finds out you've got a cleric sworn to your service, that would be a massive blow to that thinly veiled credibility of yours.\" 	« Ce dont vous avez besoin maintenant, c'est de faire profil bas. Si quiconque découvre que vous avez un clerc juré à votre service, ce serait un coup massif à cette crédibilité à peine voilée que vous avez. » 
+VL_Meeting	\"You suggest I simply let you go, then. Place my faith in you.\" 	« Vous suggérez que je vous laisse simplement partir, alors. Que je place ma foi en vous. » 
+VL_Meeting	Now hit him with the counteroffer. 	Maintenant frappe-le avec la contre-offre. 
+VL_Meeting	\"I suggest a deal.\" (Hold out your hand.) 	« Je suggère un marché. » (Tendre la main.) 
+VL_Meeting	\"Oh?\" 	« Oh ? » 
+VL_Meeting	This is the only clean way out. 	C'est la seule sortie propre. 
+VL_Meeting	\"Fifty crowns for my silence. Pay me, now.\" 	« Cinquante couronnes pour mon silence. Payez-moi, maintenant. » 
+VL_Meeting	<i>Hells</i> yeah, brother! 	<i>Putain</i> ouais, frère ! 
+VL_Meeting	What? 	Quoi ? 
+VL_Meeting	This is dishonorable! 	C'est déshonorant ! 
+VL_Meeting	It's the <b>only way out</b>. 	C'est la <b>seule sortie</b>. 
+VL_Meeting	The dark knight raises his axe again, ready to strike. 	Le chevalier sombre lève à nouveau sa hache, prêt à frapper. 
+VL_Meeting	His eyes light up. 	Ses yeux s'illuminent. 
+VL_Meeting	\"Such words alone are highly illegal, Cleric.\" 	« De tels mots à eux seuls sont hautement illégaux, Clerc. » 
+VL_Meeting	\"Highly illegal\" is your middle name. 	« Hautement illégal » est ton deuxième prénom. 
+VL_Meeting	\"But clearly I have no choice. I must pay.\" 	« Mais clairement je n'ai pas le choix. Je dois payer. » 
+VL_Meeting	\"Master?\" 	« Maître ? » 
+VL_Meeting	\"Clearly. I'm threatening you.\" 	« Clairement. Je vous menace. » 
+VL_Meeting	The goblin is chuckling in the corner. 	Le gobelin glousse dans un coin. 
+VL_Meeting	\"I have multiple witnesses that the Cleric here is performing an act of extortion.\" 	« J'ai plusieurs témoins que le Clerc ici présent commet un acte d'extorsion. » 
+VL_Meeting	\"I can write it down too, if you want.\" 	« Je peux l'écrire aussi, si vous voulez. » 
+VL_Meeting	\"No need.\" 	« Inutile. » 
+VL_Meeting	\"This is assurance enough.\" 	« Voilà une assurance suffisante. » 
+VL_Meeting	He tosses you a pouch of coins. 	Il te lance une bourse de pièces. 
+VL_Meeting	Sweet deal. 	Sacré marché. 
+VL_Meeting	You go free, and get paid? 	Tu sors libre, et tu te fais payer ? 
+VL_Meeting	You should do this more often. 	Tu devrais faire ça plus souvent. 
+VL_Meeting	\"You know what? Make it a hundred.\" 	« Vous savez quoi ? Faites-en cent. » 
+VL_Meeting	\"Thank you for your patronage.\" 	« Merci pour votre patronage. » 
+VL_Meeting	(Look around.) \"So... we're good?\" 	(Regarder autour.) « Alors... on est bon ? » 
+VL_Meeting	\"Oh, but Cleric, I have already bribed you.\" 	« Oh, mais Clerc, je vous ai déjà soudoyé. » 
+VL_Meeting	\"I am sure you would not want me to think this relationship will be a running expense.\" 	« Je suis sûr que vous ne voudriez pas me faire croire que cette relation sera une dépense récurrente. » 
+VL_Meeting	\"As I prefer things to be handled neatly.\" 	« Car je préfère que les choses soient menées proprement. » 
+VL_Meeting	\"Good point.\" 	« Bonne remarque. » 
+VL_Meeting	\"...Fine.\" (Kick your foot petulantly.) 	« ...D'accord. » (Donner un coup de pied petulant.) 
+VL_Meeting	He nods. 	Il hoche la tête. 
+VL_Meeting	\"We are good.\" 	« Nous sommes bons. » 
+VL_Meeting	Leverage for leverage. 	Levier contre levier. 
+VL_Meeting	If you ever cross him, he'll be able to destroy you legally. 	Si tu le trahis jamais, il pourra te détruire légalement. 
+VL_Meeting	He obviously has no real reason to do it, just as you have no reason to stab him in the back. 	Il n'a évidemment aucune vraie raison de le faire, tout comme tu n'as pas de raison de le poignarder dans le dos. 
+VL_Meeting	Win-win. 	Gagnant-gagnant. 
+VL_Meeting	You avoided selling your soul. 	Tu as évité de vendre ton âme. 
+VL_Meeting	A good solution, in a bad scenario. 	Une bonne solution, dans un mauvais scénario. 
+VL_Meeting	\"Eh. Boring.\" 	« Bof. Ennuyeux. » 
+VL_Meeting	\"Less work though.\" 	« Moins de boulot par contre. » 
+VL_Meeting	That <i>was</i> smooth. 	C'<i>était</i> élégant. 
+VL_Meeting	This method is not one you enjoy. 	Cette méthode n'est pas une que tu apprécies. 
+VL_Meeting	No blood is spilled. 	Aucun sang n'est versé. 
+VL_Meeting	Another fray would see it <i>flow</i>. 	Une autre mêlée le verrait <i>couler</i>. 
+VL_Meeting	Right? 	N'est-ce pas ? 
+VL_Meeting	\"Cleric speaks smoothly. <i>Kraaid</i> is impressed, yet disappointed in the lack of a hunt...\" 	« Clerc parler avec aisance. <i>Kraaid</i> être impressionné, mais déçu du manque de chasse... » 
+VL_Meeting	\"Soldier.\" 	« Soldat. » 
+VL_Meeting	He puts down his axe, which was dangerously close to the back of your neck. 	Il dépose sa hache, qui était dangereusement près de l'arrière de ton cou. 
+VL_Meeting	\"Cleric go now! Do not bother in future.\" 	« Clerc partir maintenant ! Pas embêter à l'avenir. » 
+VL_Meeting	\"<i>Stupid Cleric</i>.\" 	« <i>Stupide Clerc</i>. » 
+VL_Meeting	\"Yes, you may leave, Cleric.\" 	« Oui, vous pouvez partir, Clerc. » 
+VL_Meeting	He motions to the door with two fingers. 	Il fait signe vers la porte de deux doigts. 
+VL_Meeting	\"Thank you for stopping by.\" 	« Merci d'être passé. » 
+VL_Meeting	\"Are you sure? I can just... <i>go</i>?\" 	« Vous êtes sûr ? Je peux juste... <i>partir</i> ? » 
+VL_Meeting	(Stare at his helpers, nervously.) 	(Fixer ses aides, nerveusement.) 
+VL_Meeting	\"Right. Okay. See you around.\" (Leave, as if it was all just a dream.) 	« Bien. D'accord. À plus. » (Partir, comme si tout cela n'avait été qu'un rêve.) 
+VL_Meeting	\"Yes, Cleric.\" 	« Oui, Clerc. » 
+VL_Meeting	\"I trust you will not share anything you have learned about my operation.\" 	« Je vous fais confiance pour ne rien partager de ce que vous avez appris sur mon opération. » 
+VL_Meeting	\"And I am sure you will perform the rest of your duty here on Tolstad very admirably.\" 	« Et je suis sûr que vous accomplirez le reste de votre devoir ici à Tolstad de manière très admirable. » 
+VL_Meeting	\"I wish you luck. Truly.\" 	« Je vous souhaite bonne chance. Vraiment. » 
+VL_Meeting	\"As always, Cleric.\" 	« Comme toujours, Clerc. » 
+VL_Meeting	None of his facial muscles move even an inch. 	Aucun de ses muscles faciaux ne bouge d'un pouce. 
+VL_Meeting	\"No, Cleric. We have settled this.\" 	« Non, Clerc. Nous avons réglé cela. » 
+VL_Meeting	\"I can see you are much too important for this city.\" 	« Je vois que vous êtes bien trop important pour cette ville. » 
+VL_Meeting	\"Really?\" 	« Vraiment ? » 
+VL_Meeting	\"I am?\" 	« Je le suis ? » 
+VL_Meeting	\"Truly.\" 	« Vraiment. » 
+VL_Meeting	\"Yes.\" 	« Oui. » 
+VL_Meeting	\"And you had to go through all of this just to figure that out?\" 	« Et vous avez dû passer par tout cela juste pour comprendre ça ? » 
+VL_Meeting	\"That's fine by me.\" (Grab your arm, to make sure it's still there.) 	« Ça me va. » (Saisir ton bras, pour t'assurer qu'il est toujours là.) 
+VL_Meeting	\"I'm not sure I believe you. This is giving me a bit of whiplash.\" 	« Je ne suis pas sûr de vous croire. Ça me donne un peu le tournis. » 
+VL_Meeting	\"It appears so.\" 	« Il semblerait que oui. » 
+VL_Meeting	\"Good.\" 	« Bien. » 
+VL_Meeting	\"I can see that.\" 	« Je peux le voir. » 
+VL_Meeting	\"Remember- the world is made out of those with esoteric knowledge, and those without.\" 	« Souvenez-vous — le monde est constitué de ceux qui ont la connaissance ésotérique, et de ceux qui ne l'ont pas. » 
+VL_Meeting	\"Make sure to stay on the correct path, Cleric.\" 	« Veillez à rester sur le bon chemin, Clerc. » 
+VL_Meeting	\"No, Cleric. I do not wish your service, beyond silence.\" 	« Non, Clerc. Je ne souhaite pas votre service, hormis le silence. » 
+VL_Meeting	For now. 	Pour l'instant. 
+VL_Meeting	You should be ashamed of yourself. 	Tu devrais avoir honte de toi. 
+VL_Meeting	\"That is all. You have my word.\" 	« C'est tout. Vous avez ma parole. » 
+VL_Meeting	The crocodile gives you a shit-eating grin. 	Le crocodile te lance un sourire d'idiot heureux. 
+VL_Meeting	The dark knight stares at you silently from the darkness under his helm. 	Le chevalier sombre te fixe silencieusement depuis la pénombre sous son heaume. 
+VL_Meeting	The wretched goblin takes out his pipe and stuffs it with leaves. 	Le misérable gobelin sort sa pipe et la bourre de feuilles. 
+VL_Meeting	The kobold looks around as you glance at him. 	Le kobold regarde autour de lui quand tu lui jettes un œil. 
+VL_Meeting	\"Well? What is Cleric waiting for?\" 	« Eh bien ? Clerc attendre quoi ? » 
+VL_Meeting	\"Get lost!\" 	« Va-t'en ! » 
+VL_Meeting	As you take a few stumbling steps away, all the helpers begin to leave as well. 	Tandis que tu fais quelques pas chancelants pour partir, tous les aides commencent à partir aussi. 
+VL_Meeting	YOU. NEED. REST. 	TU. AS BESOIN. DE REPOS. 
+VL_Meeting	(Stumble away.) 	(S'éloigner en titubant.) 
+VL_Meeting	\"I wish this could have gone another way, Cleric.\" 	« J'aurais souhaité que cela se passe autrement, Clerc. » 
+VL_Meeting	He motions to the others in the room. 	Il fait signe aux autres dans la pièce. 
+VL_Meeting	They interpret it correctly: \"kill him.\" 	Ils l'interprètent correctement : « tuez-le. » 
+VL_Meeting	They seem to think it means \"kill him?\" You were <i>not</i> getting that, but okay... 	On dirait qu'ils croient que cela veut dire « tuez-le ? » Tu n'<i>avais</i> pas saisi ça, mais d'accord... 
+VL_Meeting	IROLL-Roll initiative. 	Lancer l'initiative. 
+VL_Meeting	The four helpers get ready to attack. 	Les quatre aides se préparent à attaquer. 
+VL_Meeting	To <i>kill</i>. 	À <i>tuer</i>. 
+VL_Meeting	Visken takes a step back. 	Visken fait un pas en arrière. 
+VL_Meeting	\"Focus. He is a powerful cleric.\" 	« Concentration. C'est un clerc puissant. » 
+VL_Meeting	\"<i>Grah</i>!\" 	« <i>Grah</i> ! » 
+VL_Meeting	Ost hoists his crossbow and aims it carefully. 	Ôst soulève son arbalète et la pointe avec soin. 
+VL_Meeting	You hear the twang of the release, and the bolt pierces your leg. 	Tu entends le claquement du déclenchement, et le carreau te transperce la jambe. 
+VL_Meeting	<shake>PAIN</shake>. 	<shake>DOULEUR</shake>. 
+VL_Meeting	You steeled yourself for this impact. But it is also a bolt through your leg. 	Tu t'étais préparé à cet impact. Mais c'est aussi un carreau à travers ta jambe. 
+VL_Meeting	Ost reaches to a strap at his side, pulls a dagger out, and throws it. 	Ôst tend la main vers une sangle à son côté, sort une dague, et la lance. 
+VL_Meeting	It clips you in the side of the leg. 	Elle t'égratigne le côté de la jambe. 
+VL_Meeting	You feel the cut in your leg, but it barely bothers you. 	Tu sens la coupure à la jambe, mais cela te dérange à peine. 
+VL_Meeting	\"When Cleric is dead, Ost take crossbow back!\" 	« Quand Clerc être mort, Ôst reprendre arbalète ! » 
+VL_Meeting	<i>Again</i> with the crossbow shit? At a time like this? 	<i>Encore</i> avec ce truc d'arbalète ? À un moment pareil ? 
+VL_Meeting	\"<i>Kraaid</i> hunts...!\" 	« <i>Kraaid</i> chasser... ! » 
+VL_Meeting	The beast attempts to lunge towards you, but the grease makes him slip. 	La bête tente de se ruer sur toi, mais la graisse la fait glisser. 
+VL_Meeting	He flops, belly on the ground, and fails to hit you at all. He hisses miserably. 	Elle s'étale, ventre au sol, et n'arrive absolument pas à te toucher. Elle siffle misérablement. 
+VL_Meeting	Hah! 	Hah ! 
+VL_Meeting	What a big crocodile flat-fuck idiot. 	Quel grand idiot de crocodile à plat. 
+VL_Meeting	This is just ridiculous. 	C'est juste ridicule. 
+VL_Meeting	The beast makes a rapid, slithering lunge at your torso. 	La bête se rue sur toi d'un mouvement rapide et sinueux vers ton torse. 
+VL_Meeting	You lean back to dodge the worst of it, but he makes do with a gut-wrenching bite to your arm. 	Tu te penches en arrière pour esquiver le pire, mais elle se contente d'une morsure déchirante sur ton bras. 
+VL_Meeting	<shake>PAIN</shake>. 	<shake>DOULEUR</shake>. 
+VL_Meeting	You grit your teeth against the pain. That it's expected doesn't make it <i>much</i> easier. 	Tu serres les dents contre la douleur. Le fait que tu t'y attendais ne la rend pas <i>beaucoup</i> plus facile. 
+VL_Meeting	\"Burning <i>Kraaid</i>'s eyes... not enough to stop <i>Kraaid</i>!\" 	« Brûler yeux de <i>Kraaid</i>... pas suffisant pour arrêter <i>Kraaid</i> ! » 
+VL_Meeting	Make sure that's not infected later. His mouth is filthy. 	Veille à ce que ça ne s'infecte pas plus tard. Sa gueule est crasseuse. 
+VL_Meeting	The titanic knight seems not to be moving at all. 	Le titanesque chevalier semble ne pas bouger du tout. 
+VL_Meeting	Until you notice waves of sickening energy pulsating from his helm. 	Jusqu'à ce que tu remarques des vagues d'énergie écœurante pulsant depuis son heaume. 
+VL_Meeting	Ah, shit. 	Ah, merde. 
+VL_Meeting	You feel one crash into you, a brick wall of nausea. 	Tu en sens une t'écraser, un mur de nausée. 
+VL_Meeting	You feel one crash into you. It's nauseating, but you were prepared for that. 	Tu en sens une t'écraser. C'est nauséeux, mais tu t'y étais préparé. 
+VL_Meeting	The goblin draws his bow, and... 	Le gobelin bande son arc, et... 
+VL_Meeting	Lowers it slightly. 	L'abaisse légèrement. 
+VL_Meeting	\"Step away from the boss, <i>fucker</i>!\" 	« Écarte-toi du patron, <i>enfoiré</i> ! » 
+VL_Meeting	He doesn't want to risk hitting Visken. 	Il ne veut pas risquer de toucher Visken. 
+VL_Meeting	He'll close the gap next time. 	Il comblera l'écart la prochaine fois. 
+VL_Meeting	\"Heh.\" 	« Hé. » 
+VL_Meeting	The goblin draws and fires his bow in a fluid motion. 	Le gobelin bande et tire avec son arc d'un mouvement fluide. 
+VL_Meeting	<b>Fire</b> throughout your back as the arrow pierces your body. 	<b>Feu</b> à travers ton dos alors que la flèche transperce ton corps. 
+VL_Meeting	The arrow pierces your back. You prepared yourself for this. 	La flèche transperce ton dos. Tu t'y étais préparé. 
+VL_Meeting	His eyes are alight with glee. 	Ses yeux brillent de jubilation. 
+VL_Meeting	You're surrounded. 	Tu es encerclé. 
+VL_Meeting	Even with all your agility, there's no way you can dodge this. 	Même avec toute ton agilité, il n'y a aucun moyen d'esquiver cela. 
+VL_Meeting	No way you can dodge anything here. 	Aucun moyen d'esquiver quoi que ce soit ici. 
+VL_Meeting	The only thing you might be able to do is pick who you're close to. 	La seule chose que tu peux peut-être faire, c'est choisir de qui tu es proche. 
+VL_Meeting	Or you might be able to disrupt <i>their</i> attacks with magic. 	Ou tu peux peut-être perturber <i>leurs</i> attaques avec la magie. 
+VL_Meeting	No. You must endure. 	Non. Tu dois endurer. 
+VL_Meeting	Am I going to die here? 	Vais-je mourir ici ? 
+VL_Meeting	ROLL10 con-Steel yourself. Take the hits. 	Trempe-toi. Encaisser les coups. 
+VL_Meeting	ROLL15 dex-Get closer to Visken. 	Te rapprocher de Visken. 
+VL_Meeting	Signs point to: yes. 	Les signes indiquent : oui. 
+VL_Meeting	Yeah, your odds aren't exactly looking good. 	Ouais, tes chances n'ont pas exactement l'air bonnes. 
+VL_Meeting	Surrounded. No chance of escape. 	Encerclé. Aucune chance de fuite. 
+VL_Meeting	Fuck, this is really bad. You gotta <i>lock in</i>. Focus on the prize. 	Putain, c'est vraiment grave. Faut que tu te <i>concentres</i>. Reste fixé sur l'objectif. 
+VL_Meeting	They aren't trying to kill you. This is all just a big joke! 	Ils n'essaient pas de te tuer. Tout ça n'est qu'une grosse blague ! 
+VL_Meeting	Visken's your pal! 	Visken est ton pote ! 
+VL_Meeting	You accept your situation and envision yourself unmoving. Steadfast. 	Tu acceptes ta situation et t'envisages immobile. Inébranlable. 
+VL_Meeting	You are the mountain. You are the land itself. 	Tu es la montagne. Tu es la terre elle-même. 
+VL_Meeting	The winds and waters may chip away at you, but to deface is not to defeat. You will remain. 	Les vents et les eaux peuvent t'éroder, mais défigurer n'est pas vaincre. Tu resteras. 
+VL_Meeting	You plant your feet firmly, ready to <b>ENDURE</b>. 	Tu plantes fermement tes pieds, prêt à <b>ENDURER</b>. 
+VL_Meeting	You try to face your foes bravely, but you begin to panic. 	Tu essaies de faire face à tes ennemis avec courage, mais tu commences à paniquer. 
+VL_Meeting	There are five of them. Each of them is dangerous. And every one of them wants to kill you. 	Ils sont cinq. Chacun d'eux est dangereux. Et chacun d'eux veut te tuer. 
+VL_Meeting	You are going to die. You are going to die. 	Tu vas mourir. Tu vas mourir. 
+VL_Meeting	<b>You are going to die</b>. 	<b>Tu vas mourir</b>. 
+VL_Meeting	Trapped in the center of several foes, you recognize you have to make a decision. 	Piégé au centre de plusieurs ennemis, tu reconnais que tu dois prendre une décision. 
+VL_Meeting	Stillness is death. 	L'immobilité, c'est la mort. 
+VL_Meeting	(Move just a bit closer.) 	(Se rapprocher juste un peu.) 
+VL_Meeting	You shift yourself quickly forward, getting closer to the lich. 	Tu te déplaces rapidement en avant, te rapprochant de la liche. 
+VL_Meeting	One step at a time. 	Un pas à la fois. 
+VL_Meeting	You try to step forward, but the kobold and the knight box you out. 	Tu essaies de faire un pas en avant, mais le kobold et le chevalier te bloquent. 
+VL_Meeting	You stumble and stop yourself short before you run into an extra attack. 	Tu trébuches et t'arrêtes juste avant de te jeter sur une attaque supplémentaire. 
+VL_Meeting	A flash of holy light escapes from you, radiating like rays from the sun. 	Un éclair de lumière sainte s'échappe de toi, rayonnant comme les rayons du soleil. 
+VL_Meeting	The crocodile hisses in anger. He, the knight, and the lich all cover their eyes. 	Le crocodile siffle de colère. Lui, le chevalier, et la liche se couvrent tous les yeux. 
+VL_Meeting	It wasn't enough to make them flee, but it did hurt them. This is taking more effort, now. 	Ce n'était pas assez pour les faire fuir, mais ça leur a fait mal. Cela demande plus d'efforts maintenant. 
+VL_Meeting	You lift your hand, rubbing your fingers together, and spray grease all over... 	Tu lèves la main, en frottant tes doigts l'un contre l'autre, et asperges de la graisse partout sur... 
+VL_Meeting	Yourself. 	Toi-même. 
+VL_Meeting	This is the most dangerous situation you have ever been in. 	C'est la situation la plus dangereuse dans laquelle tu te sois jamais trouvé. 
+VL_Meeting	The lich must pay. 	La liche doit payer. 
+VL_Meeting	Visken crosses his arms, glancing between you and his helpers. 	Visken croise les bras, le regard passant de toi à ses aides. 
+VL_Meeting	\"Come now. It should not take much longer.\" 	« Allons. Cela ne devrait plus prendre beaucoup de temps. » 
+VL_Meeting	\"Die!\" 	« Meurs ! » 
+VL_Meeting	The kobold has loaded another bolt into his crossbow. 	Le kobold a chargé un autre carreau dans son arbalète. 
+VL_Meeting	He pulls the trigger. 	Il appuie sur la détente. 
+VL_Meeting	The bolt lands in your thigh. 	Le carreau se plante dans ta cuisse. 
+VL_Meeting	The bolt lands in your thigh. It hurts, but you were ready for pain. 	Le carreau se plante dans ta cuisse. Cela fait mal, mais tu étais prêt à la douleur. 
+VL_Meeting	The kobold pulls another two daggers and tosses both into your leg. 	Le kobold sort encore deux dagues et te les balance toutes les deux dans la jambe. 
+VL_Meeting	The kobold pulls another two daggers and tosses both towards you- but being ready allows you to dodge the first one. 	Le kobold sort encore deux dagues et te les balance toutes les deux — mais être prêt te permet d'esquiver la première. 
+VL_Meeting	The second one goes into your leg though. Damn it. 	La seconde te touche la jambe par contre. Bon sang. 
+VL_Meeting	\"Cleric give back CROSSBOW!\" 	« Clerc rendre ARBALÈTE ! » 
+VL_Meeting	How many knives does this damn kobold have?! 	Combien de couteaux possède ce foutu kobold ?! 
+VL_Meeting	\"<i>Kraaid</i> hunts... more...!\" 	« <i>Kraaid</i> chasser... encore... ! » 
+VL_Meeting	Just as you recognize he's moving, the crocodile closes his jaws around your arm, and twists. 	Juste quand tu reconnais qu'il bouge, le crocodile referme ses mâchoires autour de ton bras, et tord. 
+VL_Meeting	Tearing of flesh. 	Déchirement de la chair. 
+VL_Meeting	Ripping of veins. 	Arrachement des veines. 
+VL_Meeting	Pieces of chainmail scattered across the ground. 	Des morceaux de cotte de mailles éparpillés au sol. 
+VL_Meeting	Huh? 	Hein ? 
+VL_Meeting	<b>Your right arm is RIPPED from your BODY</b>. 	<b>Ton bras droit est ARRACHÉ de ton CORPS</b>. 
+VL_Meeting	(Look at your stump.) 	(Regarder ton moignon.) 
+VL_Meeting	Blood sprays. Your mind is filled with the white noise of panic. 	Le sang gicle. Ton esprit est rempli du bruit blanc de la panique. 
+VL_Meeting	No, no, no, no! No... no... 	Non, non, non, non ! Non... non... 
+VL_Meeting	(Let out a primal scream.) 	(Laisser échapper un cri primal.) 
+VL_Meeting	YOU'RE GOING TO DIE HERE. 	TU VAS MOURIR ICI. 
+VL_Meeting	You watch as though from a distance as your arm detaches from your body. 	Tu regardes comme à distance ton bras se détacher de ton corps. 
+VL_Meeting	Blood sprays. Yet holding on to your mind - pushing all panic away - the feeling is not pain. 	Le sang gicle. Pourtant en gardant ton esprit — en repoussant toute panique — la sensation n'est pas la douleur. 
+VL_Meeting	It is FOCUS. 	C'est la CONCENTRATION. 
+VL_Meeting	PURE ADRENALINE. 	ADRÉNALINE PURE. 
+VL_Meeting	You can reattach it. Relax. 	Tu peux le rattacher. Détends-toi. 
+VL_Meeting	\"Is that all you've got?!\" 	« C'est tout ce que vous avez ?! » 
+VL_Meeting	(Bite down and focus.) 	(Serrer les dents et te concentrer.) 
+VL_Meeting	\"Cleric is <wiggle>formidable</wiggle>...\" 	« Clerc être <wiggle>formidable</wiggle>... » 
+VL_Meeting	\"Mm... then maybe <i>Kraaid</i> will go back for <i>seconds</i>...\" 	« Mm... alors peut-être <i>Kraaid</i> reprendre <i>du rab</i>... » 
+VL_Meeting	The crocodile crunches your arm, savoring it. 	Le crocodile croque ton bras, en le savourant. 
+VL_Meeting	The knight steps forward inexorably, lifting his axe. 	Le chevalier s'avance inexorablement, levant sa hache. 
+VL_Meeting	He crushes it down on you. 	Il l'abat sur toi. 
+VL_Meeting	There is no way to resist this pain. This hurts. 	Aucun moyen de résister à cette douleur. Ça fait mal. 
+VL_Meeting	He slips and slides on the grease, falling to the side silently. 	Il glisse sur la graisse, et tombe sur le côté en silence. 
+VL_Meeting	<i>Hah</i>! <i>Exorable</i> after all! 	<i>Hah</i> ! <i>Exorable</i> en fin de compte ! 
+VL_Meeting	Like a controlled demolition. 	Comme une démolition contrôlée. 
+VL_Meeting	HE. FALLS. 	IL. TOMBE. 
+VL_Meeting	The knight will regain his footing- but it will take SECONDS. 	Le chevalier va retrouver son équilibre — mais cela prendra des SECONDES. 
+VL_Meeting	\"Yes, <i>yes</i>! Fucking finally...!\" 	« Oui, <i>oui</i> ! Putain enfin... ! » 
+VL_Meeting	The goblin is already behind you, bracing himself against your body. 	Le gobelin est déjà derrière toi, s'appuyant contre ton corps. 
+VL_Meeting	You gasp as a dagger enters your back. 	Tu suffoques alors qu'une dague pénètre dans ton dos. 
+VL_Meeting	You loosen, tighten, <b>brace</b> as a dagger enters your back. It hurts... slightly less than it might've. 	Tu te relâches, te contractes, te <b>raidis</b> alors qu'une dague pénètre dans ton dos. Cela fait mal... légèrement moins que ça aurait pu. 
+VL_Meeting	The goblin has already leaped behind you, but his feet catch the slick surface and he stumbles. 	Le gobelin a déjà bondi derrière toi, mais ses pieds accrochent la surface glissante et il trébuche. 
+VL_Meeting	He regains his footing quickly, nimble as he is, but you've stepped outside of his range. 	Il retrouve son équilibre rapidement, agile comme il est, mais tu t'es écarté de sa portée. 
+VL_Meeting	One catastrophe averted. 	Une catastrophe évitée. 
+VL_Meeting	The wretched goblin spins the tip of his dagger in his palm. 	Le misérable gobelin fait tourner la pointe de sa dague dans sa paume. 
+VL_Meeting	Gotta say, fighting a whole squad like this? 	Faut dire, combattre toute une escouade comme ça ? 
+VL_Meeting	Not ideal. 	Pas idéal. 
+VL_Meeting	Your right stump pulsates with numbing waves of FIRE. 	Ton moignon droit pulse de vagues engourdissantes de FEU. 
+VL_Meeting	You are very, very hurt. 	Tu es très, très blessé. 
+VL_Meeting	Come on- you're right next to the lich! 	Allez — tu es juste à côté de la liche ! 
+VL_Meeting	FOCUS! 	CONCENTRE-TOI ! 
+VL_Meeting	You cannot attack any of his 'helpers'. The rest of them will simply annihilate you. 	Tu ne peux attaquer aucun de ses « aides ». Les autres t'anéantiront simplement. 
+VL_Meeting	THE PALE MAN is your ONLY target. 	L'HOMME PÂLE est ta SEULE cible. 
+VL_Meeting	GET HIM. 	ATTRAPE-LE. 
+VL_Meeting	You are doomed. You are doomed. 	Tu es condamné. Tu es condamné. 
+VL_Meeting	Doom is a term for the lair of a lich. 	Doom est un terme pour le repaire d'une liche. 
+VL_Meeting	So yes, quite literally, you are. 	Alors oui, littéralement, tu l'es. 
+VL_Meeting	You step forward, trying to grab the lich. 	Tu fais un pas en avant, en tentant d'attraper la liche. 
+VL_Meeting	Your arms flail about in front of you as the knight gives your chest one hard shove, knocking you backwards. 	Tes bras s'agitent devant toi alors que le chevalier te donne une grande poussée à la poitrine, te projetant en arrière. 
+VL_Meeting	You stumble back. 	Tu recules en titubant. 
+VL_Meeting	Oh, no. No, no, no. No! No! 	Oh, non. Non, non, non. Non ! Non ! 
+VL_Meeting	You see the well-oiled machine that is your four attackers, and wonder how you can disrupt them. 	Tu vois la machine bien huilée que sont tes quatre attaquants, et tu te demandes comment les perturber. 
+VL_Meeting	Only one idea comes to you in the chaos of the fight. Let's hope you can pull it off... 	Une seule idée te vient dans le chaos du combat. Espérons que tu pourras la mener à bien... 
+VL_Meeting	\"This isn't even a fair fight for you guys without your fifth member.\" 	« C'est même pas un combat équitable pour vous sans votre cinquième membre. » 
+VL_Meeting	The wretched goblin blinks. 	Le misérable gobelin cligne des yeux. 
+VL_Meeting	\"What?\" 	« Quoi ? » 
+VL_Meeting	\"Astrid? The mage? The one who's always casting Cloud of Daggers? She's the only strong one of you, anyway.\" 	« Astrid ? La mage ? Celle qui lance toujours Nuage de Dagues ? C'est la seule à être forte parmi vous, de toute façon. » 
+VL_Meeting	Your armhole is just <b>pouring</b> blood. 	Ton trou de bras <b>déverse</b> littéralement du sang. 
+VL_Meeting	Visken shakes his head impatiently. 	Visken secoue la tête avec impatience. 
+VL_Meeting	\"There is no Astrid.\" 	« Il n'y a pas d'Astrid. » 
+VL_Meeting	\"What did you do to Astrid?! She may have been my foe, but she was honorable and loyal! And really skilled at casting Cloud of Daggers!\" 	« Qu'avez-vous fait à Astrid ?! C'était peut-être mon ennemie, mais elle était honorable et loyale ! Et vraiment douée pour lancer Nuage de Dagues ! » 
+VL_Meeting	The knight hefts his axe and steps towards you. 	Le chevalier brandit sa hache et fait un pas vers toi. 
+VL_Meeting	\"There was never-\" 	« Il n'y a jamais eu — » 
+VL_Meeting	(Point at The Duck.) \"You had her executed by this monstrosity, didn't you? Another helper disposed of? Who's next, Visken?\" 	(Pointer Le Canard du doigt.) « Vous l'avez fait exécuter par cette monstruosité, n'est-ce pas ? Encore un aide éliminé ? À qui le tour, Visken ? » 
+VL_Meeting	The knight falters and looks at Visken. 	Le chevalier hésite et regarde Visken. 
+VL_Meeting	\"Liar! Cleric liar, right Visken?\" 	« Menteur ! Clerc menteur, hein Visken ? » 
+VL_Meeting	The crocodile swivels his head at the lich. 	Le crocodile pivote la tête vers la liche. 
+VL_Meeting	The goblin takes a step away from The Duck and glances between you and the pale man. 	Le gobelin recule d'un pas par rapport au Canard et son regard passe de toi à l'homme pâle. 
+VL_Meeting	\"Yes! Yes. He is lying, obviously.\" 	« Oui ! Oui. Il ment, évidemment. » 
+VL_Meeting	His flat tone isn't very convincing, is it? This is going to help you... if you can survive a little longer. 	Son ton plat n'est pas très convaincant, n'est-ce pas ? Cela va t'aider... si tu peux survivre encore un peu. 
+VL_Meeting	You see the well-oiled machine that is your four attackers, and wonder how you can disrupt them. 	Tu vois la machine bien huilée que sont tes quatre attaquants, et tu te demandes comment les perturber. 
+VL_Meeting	One idea comes to you in the chaos of the fight... 	Une idée te vient dans le chaos du combat... 
+VL_Meeting	\"Well, good to see you all, but it looks like it's gettin' to be about that time...\" (Whistle casually.) 	« Bon, content de vous voir tous, mais on dirait que c'est à peu près l'heure... » (Siffler nonchalamment.) 
+VL_Meeting	Your foes heft their weapons. 	Tes ennemis brandissent leurs armes. 
+VL_Meeting	\"Yes, Cleric. Unfortunately, it is.\" 	« Oui, Clerc. Malheureusement, c'est le cas. » 
+VL_Meeting	No! He turned it back around on you! 	Non ! Il l'a retournée contre toi ! 
+VL_Meeting	\"No, what I meant was, like, time to hit the ol' dusty trail, you know? For all of us.\" (Whistle faster and more casually.) 	« Non, ce que je voulais dire, c'est, genre, l'heure de reprendre la bonne vieille route, tu vois ? Pour nous tous. » (Siffler plus vite et plus nonchalamment.) 
+VL_Meeting	Your enemies step closer. 	Tes ennemis se rapprochent. 
+VL_Meeting	Shit. 	Merde. 
+VL_Meeting	(Try to laugh casually.) \"You wouldn't want to hurt a little guy like me, would you? I'm just a little guy! I'm the birthday boy!\" 	(Essayer de rire avec décontraction.) « Vous voudriez pas faire de mal à un petit gars comme moi, hein ? Je suis juste un petit gars ! C'est mon anniversaire ! » 
+VL_Meeting	\"Kill him.\" 	« Tuez-le. » 
+VL_Meeting	Fuck! 	Putain ! 
+VL_Meeting	A flash of holy light escapes from you, radiating like rays from the sun. 	Un éclair de lumière sainte s'échappe de toi, rayonnant comme les rayons du soleil. 
+VL_Meeting	The crocodile hisses in anger. He, the knight, and the lich all cover their eyes. 	Le crocodile siffle de colère. Lui, le chevalier, et la liche se couvrent tous les yeux. 
+VL_Meeting	It wasn't enough to make them flee, but it did hurt them. This is taking more effort, now. 	Ce n'était pas assez pour les faire fuir, mais ça leur a fait mal. Cela demande plus d'efforts maintenant. 
+VL_Meeting	You lift your hand, rubbing your fingers together, and spray grease all over... 	Tu lèves la main, en frottant tes doigts l'un contre l'autre, et asperges de la graisse partout sur... 
+VL_Meeting	Yourself. 	Toi-même. 
+VL_Meeting	Again...? 	Encore... ? 
+VL_Meeting	You're surrounded by enemies who are fixated on your death. 	Tu es entouré d'ennemis fixés sur ta mort. 
+VL_Meeting	You're tired, and you've made barely any progress. 	Tu es fatigué, et tu n'as fait quasiment aucun progrès. 
+VL_Meeting	\"Cleric, I believe you have reached your limit.\" He taps a finger. 	« Clerc, je crois que vous avez atteint votre limite. » Il tapote du doigt. 
+VL_Meeting	The hole from your ripped-off arm pours blood onto the floor. 	Le trou de ton bras arraché déverse du sang sur le sol. 
+VL_Meeting	Visken appears to be opening his reagents pouch. 	Visken semble ouvrir sa bourse à composants. 
+VL_Meeting	\"I am impressed, Cleric. You are much more formidable than I anticipated.\" 	« Je suis impressionné, Clerc. Vous êtes bien plus formidable que je l'avais anticipé. » 
+VL_Meeting	\"And I implore you all, once again: do not walk upon <i>esoteric grease</i>.\" 	« Et je vous implore tous, encore une fois : ne marchez pas sur la <i>graisse ésotérique</i>. » 
+VL_Meeting	\"Remember the <i>staircase incident</i>.\" 	« Souvenez-vous de l'<i>incident de l'escalier</i>. » 
+VL_Meeting	\"Cleric die!\" 	« Clerc mourir ! » 
+VL_Meeting	The kobold braces the crossbow against his body and launches a bolt. 	Le kobold cale l'arbalète contre son corps et lance un carreau. 
+VL_Meeting	It connects directly under your helm. 	Il te touche directement sous le heaume. 
+VL_Meeting	You spit and gurgle blood through your helm. 	Tu craches et gargouilles du sang à travers ton heaume. 
+VL_Meeting	The kobold seems to have one knife left. 	Le kobold semble avoir encore un couteau. 
+VL_Meeting	He sprints towards you with it in both hands and leaps through the air. 	Il sprinte vers toi en le tenant à deux mains et bondit dans les airs. 
+VL_Meeting	He lands right next to you and plunges it into your remaining arm. 	Il atterrit juste à côté de toi et le plonge dans ton bras restant. 
+VL_Meeting	He sprints towards you and tries to leap through the air, but the greasy floor makes him slip. 	Il sprinte vers toi et tente de bondir dans les airs, mais le sol graisseux le fait glisser. 
+VL_Meeting	The knife slips out of his hand as he wobbles, and flips upside down. The handle hits him in the nose and he falls backwards. 	Le couteau lui échappe de la main alors qu'il vacille, et fait un tour sur lui-même. Le manche le frappe au nez et il tombe à la renverse. 
+VL_Meeting	\"Dagger hit nose!\" he yelps as he collapses on the ground. \"<i>Ouf</i>!\" 	« Dague frapper nez ! » glapit-il en s'écroulant au sol. « <i>Ouf</i> ! » 
+VL_Meeting	The vicious beast tosses your arm to the side. 	La bête vicieuse balance ton bras sur le côté. 
+VL_Meeting	Your knees wobble in terror. 	Tes genoux vacillent de terreur. 
+VL_Meeting	\"Cleric is good prey. <i>Kraaid</i> is almost satisfied.\" 	« Clerc être bonne proie. <i>Kraaid</i> être presque satisfait. » 
+VL_Meeting	That horrifying smile. \"My blade wants a taste too...\" 	Ce sourire horrifiant. « Ma lame veut aussi y goûter... » 
+VL_Meeting	With a blindingly quick dash, the crocodile swings his cleaver at your shoulder. 	Avec un sprint éblouissant, le crocodile fait tournoyer son couperet vers ton épaule. 
+VL_Meeting	But his aim is off; your blinding flash seems to have affected his depth perception. 	Mais sa visée est faussée ; ton éclair aveuglant semble avoir affecté sa perception de la profondeur. 
+VL_Meeting	He snarls and swings a second time, still meeting only air. 	Il grogne et frappe une seconde fois, ne rencontrant toujours que de l'air. 
+VL_Meeting	With another blindingly quick dash, the crocodile swings his cleaver into your shoulder. 	D'un autre sprint éblouissant, le crocodile abat son couperet dans ton épaule. 
+VL_Meeting	The blade parts your flesh as intended, pushing the side of your body away from your head. 	La lame fend ta chair comme prévu, repoussant le côté de ton corps loin de ta tête. 
+VL_Meeting	You are a mangled, torn-up mess of flesh, rapidly bleeding out. 	Tu es un amas de chair déchiquetée et lacérée, te vidant rapidement de ton sang. 
+VL_Meeting	The crocodile dashes towards you and hefts the cleaver, but slips on the grease. 	Le crocodile fonce vers toi et brandit le couperet, mais glisse sur la graisse. 
+VL_Meeting	An undignified flop onto all fours keeps the crocodile from impaling himself on his own cleaver. 	Une chute peu digne à quatre pattes empêche le crocodile de s'empaler sur son propre couperet. 
+VL_Meeting	He hisses in anger as he rights himself. 	Il siffle de colère en se redressant. 
+VL_Meeting	Without saying a word... 	Sans dire un mot... 
+VL_Meeting	The knight lifts himself from the pool of grease and steps deliberately towards you. 	Le chevalier s'extrait de la flaque de graisse et marche délibérément vers toi. 
+VL_Meeting	The knight steps towards you, and slips on the grease. 	Le chevalier s'avance vers toi, et glisse sur la graisse. 
+VL_Meeting	He falls on his butt, silent as the grave. 	Il tombe sur le derrière, silencieux comme la tombe. 
+VL_Meeting	Heh. 	Hé. 
+VL_Meeting	The knight matter-of-factly steps towards you and swings. 	Le chevalier s'avance vers toi avec détachement et frappe. 
+VL_Meeting	The dark knight steps towards you as your vision blurs. 	Le chevalier sombre s'avance vers toi tandis que ta vision se trouble. 
+VL_Meeting	He embeds his axe deeply into your back. 	Il enfonce sa hache profondément dans ton dos. 
+VL_Meeting	<shake>PAIN</shake>. 	<shake>DOULEUR</shake>. 
+VL_Meeting	\"Leave something for <i>me</i>!\" 	« Laissez quelque chose pour <i>moi</i> ! » 
+VL_Meeting	The goblin has recovered from falling down, and he looks pissed. 	Le gobelin s'est remis de sa chute, et il a l'air furieux. 
+VL_Meeting	The goblin easily closes the distance between the two of you. 	Le gobelin comble facilement la distance entre vous deux. 
+VL_Meeting	The goblin runs towards you, but wobbles on the slick ground and falls. 	Le gobelin court vers toi, mais vacille sur le sol glissant et tombe. 
+VL_Meeting	Always satisfying to see a plan rewarded. 	Toujours satisfaisant de voir un plan récompensé. 
+VL_Meeting	Woah! It worked! Congrat's. 	Wahou ! Ça a marché ! Bravo. 
+VL_Meeting	He shoves his dagger right into your kidney. 	Il plante sa dague directement dans ton rein. 
+VL_Meeting	<shake>PAIN</shake>. 	<shake>DOULEUR</shake>. 
+VL_Meeting	You cannot last any longer. 	Tu ne peux plus tenir. 
+VL_Meeting	If you fail here, you will die. 	Si tu échoues ici, tu mourras. 
+VL_Meeting	It all comes down to this. 	Tout se résume à cela. 
+VL_Meeting	You step towards the lich and try to grab him. 	Tu fais un pas vers la liche et tentes de l'attraper. 
+VL_Meeting	Your hand glances against his robe as the knight shoves you backwards. Hard. 	Ta main effleure sa robe alors que le chevalier te repousse en arrière. Violemment. 
+VL_Meeting	You stumble backwards, groping at air as a sinking feeling appears throughout your body. 	Tu titubes en arrière, tâtant l'air, alors qu'une sensation d'effondrement parcourt tout ton corps. 
+VL_Meeting	You knew it! You knew it was time to panic! 	Tu le savais ! Tu savais qu'il était temps de paniquer ! 
+VL_Meeting	This is it. This is your death. 	C'est la fin. C'est ta mort. 
+VL_Meeting	Hit it. One final remark, before you die. 	Lance-la. Une dernière remarque, avant de mourir. 
+VL_Meeting	\"Eh, fuck it. Just end this.\" (Get ready to die.) 	« Bof, qu'on en finisse. Termine ça. » (Te préparer à mourir.) 
+VL_Meeting	\"Guh?! Cleric bastard!\" 	« Argh ?! Bâtard de Clerc ! » 
+VL_Meeting	The knight is almost perfectly still, but there is <i>something</i> in his body language that shifts. 	Le chevalier est presque parfaitement immobile, mais il y a <i>quelque chose</i> dans son langage corporel qui change. 
+VL_Meeting	The crocodile blinks, stunned at the audacity of a recently-delimbed man going out of his way to taunt him. 	Le crocodile cligne des yeux, sidéré par l'audace d'un homme récemment démembré qui se donne la peine de le railler. 
+VL_Meeting	The wretched goblin, who might've grabbed you otherwise, hesitates for just a moment. 	Le misérable gobelin, qui t'aurait peut-être attrapé autrement, hésite juste un instant. 
+VL_Meeting	The pale man looks at you, his expressionless face almost changing into... something. 	L'homme pâle te regarde, son visage inexpressif se transformant presque en... quelque chose. 
+VL_Meeting	Your vision is beginning to blur. You are bleeding out and nobody is going to help you. 	Ta vision commence à se troubler. Tu te vides de ton sang et personne ne va t'aider. 
+VL_Meeting	You lift your head defiantly to the lich, who stares at you with that same blank look. 	Tu lèves la tête avec défi vers la liche, qui te fixe de ce même regard vide. 
+VL_Meeting	\"<i>Mors Omnia Aequat</i>.\" 	« <i>Mors Omnia Aequat</i>. » 
+VL_Meeting	A jagged beam of necrotic energy surges from the lich's finger. 	Un faisceau dentelé d'énergie nécrotique jaillit du doigt de la liche. 
+VL_Meeting	A Finger... of Death... 	Un Doigt... de Mort... 
+VL_Meeting	(Become nothing.) 	(Devenir rien.) 
+VL_Meeting	You feel your body changing. This is death. 	Tu sens ton corps changer. C'est la mort. 
+VL_Meeting	But it is not over. 	Mais ce n'est pas terminé. 
+VL_Meeting	You are not nothing. 	Tu n'es pas rien. 
+VL_Meeting	You are valued. You are a servant. 	Tu as de la valeur. Tu es un serviteur. 
+VL_Meeting	\"It is too bad, Cleric. I would have preferred a different ending for you.\" 	« C'est dommage, Clerc. J'aurais préféré une autre fin pour vous. » 
+VL_Meeting	Visken has done you a kindness. 	Visken t'a rendu service. 
+VL_Meeting	He is your savior. 	Il est ton sauveur. 
+VL_Meeting	\"Oh, well. One can't get <i>everything</i> in this life.\" 	« Eh bien. On ne peut pas <i>tout</i> avoir dans cette vie. » 
+VL_Meeting	But you have everything you need now. 	Mais tu as tout ce dont tu as besoin maintenant. 
+VL_Meeting	You have someone to serve, unquestioningly. 	Tu as quelqu'un à servir, sans poser de questions. 
+VL_Meeting	You can have an honorable existence. 	Tu peux avoir une existence honorable. 
+VL_Meeting	\"<i>Go clean up the apples.</i>\" 	« <i>Va nettoyer les pommes.</i> » 
+VL_Meeting	Yes... that's a good use of your skills. 	Oui... c'est un bon emploi de tes compétences. 
+VL_Meeting	You've always been good with your hands. 	Tu as toujours été doué de tes mains. 
+VL_Meeting	You will do your best, at least. 	Tu feras de ton mieux, au moins. 
+VL_Meeting	For Master. 	Pour Maître. 
+VL_Meeting	(Become... <i>something</i>.) 	(Devenir... <i>quelque chose</i>.) 
+VL_Meeting	Bloodied and mangled like a walking corpse- one arm stretched out. 	Ensanglanté et déchiqueté comme un cadavre ambulant — un bras tendu. 
+VL_Meeting	You step forward, grab the lich, and swivel around him, putting him between you and your foes. 	Tu fais un pas en avant, saisis la liche, et tournes autour d'elle, la plaçant entre toi et tes ennemis. 
+VL_Meeting	\"<b>Not one more step</b>.\" (Grip him hard.) 	« <b>Pas un pas de plus</b>. » (Le serrer fort.) 
+VL_Meeting	You have a solid hold on the lich, who was just about to cast some wicked spell. 	Tu as une prise solide sur la liche, qui était sur le point de lancer un sort funeste. 
+VL_Meeting	The \"helpers\" stare, shocked. They've failed. You've succeeded. 	Les « aides » fixent, choqués. Ils ont échoué. Tu as réussi. 
+VL_Meeting	\"<i>Cleric</i>.\" 	« <i>Clerc</i>. » 
+VL_Meeting	\"You will surrender, now. Or I will channel my god and watch as your body turns to powder.\" 	« Vous allez vous rendre, maintenant. Ou bien je canaliserai mon dieu et regarderai votre corps se réduire en poudre. » 
+VL_Meeting	The lich, typically so steady, is twisting in your grip. 	La liche, d'ordinaire si stable, se tord dans ta prise. 
+VL_Meeting	\"That is not quite how it works.\" 	« Ce n'est pas tout à fait comme cela que cela fonctionne. » 
+VL_Meeting	You are losing blood. Very quickly. 	Tu perds du sang. Très rapidement. 
+VL_Meeting	You are leaking blood. What you thought was relatively minor bleeding seems to be accelerating as you clutch the lich by the neck. 	Tu fuies du sang. Ce que tu pensais être un saignement relativement mineur semble s'accélérer alors que tu serres la liche par le cou. 
+VL_Meeting	Disgusting sorcery. 	Sorcellerie dégoûtante. 
+VL_Meeting	\"Put your weapons down. <b>Now</b>.\" 	« Posez vos armes. <b>Maintenant</b>. » 
+VL_Meeting	He is still in complete control of his servants. They lay their weapons down. 	Il garde le contrôle total de ses serviteurs. Ils posent leurs armes. 
+VL_Meeting	\"What do you want, Cleric? We can make a deal. You've impressed me today.\" 	« Que voulez-vous, Clerc ? Nous pouvons passer un marché. Vous m'avez impressionné aujourd'hui. » 
+VL_Meeting	\"No lich... can...\" (Try not to faint.) 	« Aucune liche... ne peut... » (Essayer de ne pas s'évanouir.) 
+VL_Meeting	You're wobbling. No... not like this... 	Tu vacilles. Non... pas comme ça... 
+VL_Meeting	\"Swear to me... you, surrender...\" 	« Jurez-moi... que vous, vous rendez... » 
+VL_Meeting	Those words... those are the last words you hear. 	Ces mots... ce sont les derniers mots que tu entends. 
+VL_Meeting	The world fades away. 	Le monde s'estompe. 
+VL_Meeting	And... then... 	Et... puis... 
+VL_Meeting	It returns. 	Il revient. 
+VL_Meeting	\"Ugh...\" (Open your eyes.) 	« Argh... » (Ouvrir les yeux.) 
+VL_Meeting	\"Good morning, Cleric.\" 	« Bonjour, Clerc. » 
+VL_Meeting	You look down at your body, at your <i>arms</i>. 	Tu baisses les yeux sur ton corps, sur tes <i>bras</i>. 
+VL_Meeting	<i>Plural.</i> 	<i>Au pluriel.</i> 
+VL_Meeting	You look down at your body, whole and unmarred. 	Tu baisses les yeux sur ton corps, entier et intact. 
+VL_Meeting	\"You... healed me?\" (Get up.) 	« Vous... m'avez soigné ? » (Se relever.) 
+VL_Meeting	The lich dips his head. \"I offer a truce, Cleric.\" 	La liche penche la tête. « Je vous propose une trêve, Clerc. » 
+VL_Meeting	<i>Saved</i> by the undead?! <shake>Untenable</shake>! 	<i>Sauvé</i> par les morts-vivants ?! <shake>Intolérable</shake> ! 
+VL_Meeting	Yeah, well, maybe just think about this for a second. 	Ouais, bon, peut-être réfléchis-y une seconde. 
+VL_Meeting	\"My helpers performed well. However, I see something else now.\" 	« Mes aides ont bien fait leur travail. Cependant, je vois autre chose maintenant. » 
+VL_Meeting	\"Your strength. It is highly impressive.\" 	« Votre force. Elle est hautement impressionnante. » 
+VL_Meeting	\"So. Again, I have offered you a truce. Do you accept?\" 	« Alors. À nouveau, je vous propose une trêve. Acceptez-vous ? » 
+VL_Meeting	<b>No</b>! 	<b>Non</b> ! 
+VL_Meeting	<i>Yes</i>! 	<i>Oui</i> ! 
+VL_Meeting	Live. 	Vis. 
+VL_Meeting	Of course. This battle was folly from the start. 	Bien sûr. Cette bataille était folie dès le départ. 
+VL_Meeting	\"I reject the truce.\" (Die with honor.) 	« Je rejette la trêve. » (Mourir avec honneur.) 
+VL_Meeting	\"I accept.\" (Live, for today.) 	« J'accepte. » (Vivre, pour aujourd'hui.) 
+VL_Meeting	\"Good, then.\" The lich nods briskly, business now settled. 	« Bien, alors. » La liche acquiesce vivement, l'affaire désormais réglée. 
+VL_Meeting	\"<i>Borgo</i>.\" 	« <i>Borgo</i>. » 
+VL_Meeting	Borgo? Is that not...? 	Borgo ? N'est-ce pas... ? 
+VL_Meeting	Silently and without hesitation, the knight proffers his hefty axe. 	Silencieusement et sans hésitation, le chevalier tend sa lourde hache. 
+VL_Meeting	\"You <i>are</i> something special, Cleric. You deserve a special weapon.\" 	« Vous <i>êtes</i> quelque chose de spécial, Clerc. Vous méritez une arme spéciale. » 
+VL_Meeting	(Look at it.) 	(La regarder.) 
+VL_Meeting	(Take it.) 	(Le prendre.) 
+VL_Meeting	The cursed axe shines before you- being close to it alone is enough for your skin to feel like a thousand little needle pricks. 	La hache maudite brille devant toi — être proche d'elle suffit à donner à ta peau l'impression de mille petites piqûres d'aiguilles. 
+VL_Meeting	You take it, moving through the motions as if in a dream. 	Tu la prends, exécutant les gestes comme dans un rêve. 
+VL_Meeting	Horrendous power... 	Pouvoir épouvantable... 
+VL_Meeting	Strength surges through the iron. 	La force déferle à travers le fer. 
+VL_Meeting	Whatever curse is placed upon it, is not attuned to <i>you</i>. 	Quelle que soit la malédiction qui pèse sur elle, elle n'est pas attunée à <i>toi</i>. 
+VL_Meeting	It is incredibly heavy. 	Elle est incroyablement lourde. 
+VL_Meeting	Despite your muscularity, it cannot be swung properly, simply due to your weight class. 	Malgré ta musculature, elle ne peut être maniée correctement, simplement à cause de ta catégorie de poids. 
+VL_Meeting	You cannot wield this. It is simply too heavy. 	Tu ne peux pas manier ceci. C'est tout simplement trop lourd. 
+VL_Meeting	But it is a great accessory. Really manly. 	Mais c'est un excellent accessoire. Vraiment viril. 
+VL_Meeting	\"Caretaker is a force to behold.\" 	« Soigneuse est une force à contempler. » 
+VL_Meeting	\"Do not let it go to your helm.\" 	« Ne laissez pas cela vous monter au heaume. » 
+VL_Meeting	He taps his finger once. 	Il tapote du doigt une fois. 
+VL_Meeting	Heh. A joke, from Visken. 	Hé. Une blague, de la part de Visken. 
+VL_Meeting	That's the lich equivalent of doing shtick. 	C'est l'équivalent chez la liche de faire un numéro. 
+VL_Meeting	\"You may go.\" 	« Vous pouvez partir. » 
+VL_ViskenCheck	You hear a surprisingly loud clearing-of-the-throat. 	Tu entends un raclement de gorge étonnamment sonore. 
+VL_ViskenCheck	Your legs. 	Tes jambes. 
+VL_ViskenCheck	They do not move. 	Elles ne bougent pas. 
+VL_ViskenCheck	He scares you that much. 	Il te fait à ce point peur. 
+VL_ViskenCheck	It must be some dark magic. 	Ce doit être une magie sombre. 
+VL_ViskenCheck	\"Before you head out, Cleric.\" 	« Avant que tu ne partes, Clerc. » 
+VL_ViskenCheck	\"There is some business for us to attend to.\" 	« Il y a quelques affaires à régler entre nous. » 
+VL_ViskenCheck	The pale man motions before his desk. 	L'homme pâle fait un geste devant son bureau. 
+VL_ViskenCheck	\"Please. If you will.\" 	« Je te prie. Si tu veux bien. » 
+VL_ViskenCheck	The kobold between you and the pale man glares at you. 	Le kobold entre toi et l'homme pâle te lance un regard noir. 
+VL_ViskenCheck	\"Do as master says. Or else.\" 	« Fais ce que maître dit. Sinon. » 
+VL_ViskenCheck	Do I have to talk to him? He looks pretty creepy. 	Je dois lui parler ? Il a l'air plutôt flippant. 
+VL_ViskenCheck	(Leave.) 	(Partir.) 
+VL_ViskenCheck	(Stay.) 	(Rester.) 
+VL_ViskenCheck	You just woke up inside of his lichhouse. 	Tu viens de te réveiller à l'intérieur de sa demeure de liche. 
+VL_ViskenCheck	It would be wise to speak with him. 	Il serait sage de lui parler. 
+VL_ViskenCheck	This man knows much. 	Cet homme sait beaucoup de choses. 
+VL_ViskenCheck	A rare opportunity: a chance for you to actually learn something from another. 	Une rare opportunité : la chance, pour toi, d'apprendre vraiment quelque chose d'un autre. 
+VL_ViskenCheck	No. 	Non. 
+VL_ViskenCheck	This pale man knows little. He looks like a foolish, ordinary worker. 	Cet homme pâle sait peu. Il a l'air d'un travailleur ordinaire et sot. 
+VL_ViskenCheck	Ignore him. 	Ignore-le. 
+VL_ViskenCheck	You have other things on your mind, so... 	Tu as d'autres choses en tête, alors... 
+VL_ViskenCheck	Come back later. For now, you should explore as much as you can and get lost and not understand what is going on at all. 	Reviens plus tard. Pour l'instant, tu devrais explorer autant que possible, te perdre et ne rien comprendre à ce qui se passe. 
+VL_ViskenCheck	Get <i>real</i> existentially confused about why you woke up in this strange lichhouse. 	Sois <i>vraiment</i> existentiellement perdu quant à la raison pour laquelle tu t'es réveillé dans cette étrange demeure de liche. 
+VL_ViskenCheck	That would be wise. 	Ce serait sage. 
+VL_EmptyPot	Looking inside, you find this pot to be empty. 	En regardant à l'intérieur, tu constates que cette urne est vide. 
+VL_EmptyPot	Most contain strange herbs or ashes. This one does not. 	La plupart contiennent d'étranges herbes ou des cendres. Pas celle-ci. 
+VL_EmptyPot	\"Cozy spot.\" 	« Coin douillet. » 
+VL_EmptyPot	He tries his hardest not to look down. 	Il fait de son mieux pour ne pas baisser les yeux. 
+VL_EmptyPot	The pot was recently emptied. You can still see remnants of dust at the bottom. 	L'urne a été récemment vidée. Tu vois encore des restes de poussière au fond. 
+VL_EmptyPot	Not corpse dust, is it? 	De la poussière de cadavre, non ? 
+VL_EmptyPot	IT CALLS TO YOU. 	ELLE T'APPELLE. 
+VL_EmptyPot	HOME. 	UN FOYER. 
+VL_EmptyPot	There is <shake>fear</shake>. 	Il y a de la <shake>peur</shake>. 
+VL_EmptyPot	You must grow <b>sturdier</b>. 	Tu dois devenir <b>plus robuste</b>. 
+VL_EmptyPot	You <i>hedonistic fool</i>. 	Espèce d'<i>idiot hédoniste</i>. 
+VL_EmptyPot	Pray the stomach dies and lets the mind work without its poisonous influence. 	Prie pour que l'estomac meure et laisse l'esprit travailler sans son influence empoisonnée. 
+VL_EmptyPot	DC18 con-(Pick up the pot.) 	DC18 con-(Prendre l'urne.) 
+VL_EmptyPot	(Leave the pot alone.) 	(Laisser l'urne tranquille.) 
+VL_EmptyPot	YOUR HANDS GRASP IT. 	TES MAINS LA SAISISSENT. 
+VL_EmptyPot	SOON YOU WILL BE HOME. 	BIENTÔT TU SERAS AU FOYER. 
+VL_EmptyPot	\"You're not serious.\" 	« Tu plaisantes. » 
+VL_EmptyPot	\"Oh gods. You're serious.\" 	« Par les dieux. Tu es sérieux. » 
+VL_EmptyPot	No. You can't. 	Non. Tu ne peux pas. 
+VL_EmptyPot	It's a <b>damn pot</b>. 	C'est une <b>satanée urne</b>. 
+VL_EmptyPot	Oh. Is this some type of new cool helmet? 	Oh. C'est un nouveau genre de heaume stylé ? 
+VL_EmptyPot	Eh. It's a slight improvement. 	Bah. C'est une légère amélioration. 
+VL_EmptyPot	Still horrendous, though. 	Mais toujours affreux. 
+VL_EmptyPot	E-I'm ready. 	Je suis prêt. 
+VL_AncientTome	You flip the tome open. 	Tu ouvres le tome. 
+VL_AncientTome	There are fine and hand-written letters scattered across the pages. 	De fines lettres manuscrites parsèment les pages. 
+VL_AncientTome	While the symbols appear to be readable, you do not understand the language. 	Bien que les symboles semblent lisibles, tu n'en comprends pas la langue. 
+VL_AncientTome	You can read these symbols, but they are in Old Draconic Diminorian. 	Tu sais lire ces symboles, mais ils sont en Vieux Draconique Diminorien. 
+VL_AncientTome	'De Verbis Draconum, Ars Occulta.' 	« De Verbis Draconum, Ars Occulta. » 
+VL_AncientTome	These words should translate into something akin to, 'Occult Dragon Speech.' 	Ces mots devraient se traduire en quelque chose comme : « Du Langage Occulte des Dragons ». 
+VL_AncientTome	The author's name appears to be 'Caelum Diminorii.' 	Le nom de l'auteur semble être « Caelum Diminorii ». 
+VL_AncientTome	The goblin lets out a tired sigh. 	Le gobelin pousse un soupir las. 
+VL_AncientTome	DC12 int-Old Draconic? 	DC12 int-Du Vieux Draconique ? 
+VL_AncientTome	DC15 int-Could I translate this? 	DC15 int-Pourrais-je traduire ceci ? 
+VL_AncientTome	FC15 int-Can I try to read it? 	FC15 int-Puis-je essayer de le lire ? 
+VL_AncientTome	(Leave the tome alone.) 	(Laisser le tome tranquille.) 
+VL_AncientTome	He shrugs. \"Fine. I'll take a breather. You do your research.\" 	Il hausse les épaules. « D'accord. Je vais souffler un peu. Fais tes recherches. » 
+VL_AncientTome	Yes. The tongue of the Dragonmasters of Old Diminor. 	Oui. La langue des Maîtres-Dragons du Vieux Diminor. 
+VL_AncientTome	Humans served them faithfully for centuries. Before the Arcanists rose up against them. 	Les humains les ont fidèlement servis pendant des siècles. Avant que les Arcanistes ne se soulèvent contre eux. 
+VL_AncientTome	No. 	Non. 
+VL_AncientTome	Not without many weeks of study. You were not trained in Draconic at the Towers. 	Pas sans plusieurs semaines d'étude. Tu n'as pas été formé au Draconique aux Tours. 
+VL_AncientTome	You skipped those classes. Why learn languages when you can just use magic? 	Tu as séché ces cours. Pourquoi apprendre des langues quand on peut simplement utiliser la magie ? 
+VL_AncientTome	No. 	Non. 
+VL_AncientTome	You have no idea what this means. 	Tu n'as aucune idée de ce que cela signifie. 
+VL_AncientTome	You do. It's highly annoying that you seem to have lost your memorization. 	Si, tu sais. C'est extrêmement agaçant que tu sembles avoir perdu ta mémorisation. 
+VL_AncientTome	Right, that is a spell you used to keep prepared all the time. 	C'est vrai, c'est un sort que tu gardais préparé en permanence. 
+VL_AncientTome	Find a spell scroll. Maybe you could buy it somewhere? It's fairly common. 	Trouve un parchemin de sort. Tu pourrais peut-être en acheter quelque part ? C'est assez courant. 
+VL_AncientTome	You should. 	Tu devrais. 
+VL_AncientTome	You mutter the words to yourself and carefully tap the frail paper. 	Tu marmonnes les mots pour toi-même et tapotes prudemment le papier fragile. 
+VL_AncientTome	The words then pop into place. 	Les mots se mettent alors en place. 
+VL_AncientTome	As they should. 	Comme il se doit. 
+VL_AncientTome	(Begin reading the first passage.) 	(Commencer à lire le premier passage.) 
+VL_AncientTome	<i>I wipe the sweat from my brow. The lair is hot.</i> 	<i>J'essuie la sueur de mon front. L'antre est chaud.</i> 
+VL_AncientTome	<i>My companion was consumed by the lower beast in the first wave.</i> 	<i>Mon compagnon a été dévoré par la bête inférieure dans la première vague.</i> 
+VL_AncientTome	<i>I saw his soul yet still screaming at me as I stepped up to the auditorium.</i> 	<i>J'ai vu son âme me hurler encore après tandis que je m'avançais vers l'auditorium.</i> 
+VL_AncientTome	<i>No. I would not allow myself a meek death.</i> 	<i>Non. Je ne me permettrais pas une mort timorée.</i> 
+VL_AncientTome	The book details a first-hand account of one of many 'lambs'. The strongest of their tribes, who were sent to fight before the Great Green dragon, Tisereldanour. The last of the Great Dragons of Old Diminor to still reign at this time, in the early Divine Era. 	Le livre détaille le témoignage direct d'un des nombreux « agneaux ». Les plus forts de leurs tribus, envoyés combattre devant la Grande Dragonne Verte, Tisereldanour. La dernière des Grands Dragons du Vieux Diminor à régner encore à cette époque, au début de l'Ère Divine. 
+VL_AncientTome	The author, Caelum, was one of the few to survive. He writes how he ended up in the good favors of the Queen of Tree after many years of servitude. But he never gave up his dream of killing each of them. 	L'auteur, Caelum, fut l'un des rares à survivre. Il écrit comment il finit dans les bonnes grâces de la Reine de l'Arbre après bien des années de servitude. Mais il n'abandonna jamais son rêve de les tuer tous. 
+VL_AncientTome	This is fascinating. Keep reading. 	Fascinant. Continue de lire. 
+VL_AncientTome	Time. Books consume time. 	Le temps. Les livres consomment du temps. 
+VL_AncientTome	You are... wasting away. 	Tu es... en train de dépérir. 
+VL_AncientTome	You can always just... skip to the end. That's usually where all the good stuff is. 	Tu peux toujours... sauter à la fin. C'est en général là que se trouvent les meilleurs passages. 
+VL_AncientTome	(Read the full book.) 	(Lire le livre intégralement.) 
+VL_AncientTome	(Skip to the end.) 	(Sauter à la fin.) 
+VL_AncientTome	You flip to the final chapter. 	Tu feuillettes jusqu'au dernier chapitre. 
+VL_AncientTome	<i>A long decade in those halls I spent in toil. I never relented, nor did I show truth. SHE saw something in me. Perhaps it was my bloodlust.</i> 	<i>J'ai passé une longue décennie à peiner dans ces salles. Je n'ai jamais cédé, ni dévoilé la vérité. ELLE a vu quelque chose en moi. Peut-être était-ce ma soif de sang.</i> 
+VL_AncientTome	Caelum became the loyal First-Human of Tisereldanour. A type of manservant. He was by her side at all times. And he listened to her every word. Documenting it. 	Caelum devint le loyal Premier-Humain de Tisereldanour. Une sorte de valet. Il restait à ses côtés en permanence. Et il écoutait chacun de ses mots. Les consignant. 
+VL_AncientTome	The book contains a long series of transcripts. Seemingly directly from the ancient dragon herself. And it slowly reveals how the author learns not just the basic tongue of draconic - which all of the high-humans spoke - but rather the deeper POWER behind those words. 	Le livre contient une longue série de transcriptions. Apparemment directement issues de l'antique dragonne elle-même. Et il révèle peu à peu comment l'auteur apprend non seulement la langue draconique de base - que parlaient tous les haut-humains - mais bien le POUVOIR plus profond derrière ces mots. 
+VL_AncientTome	<i>A human playing the Strings was amusing to them. To HER. For none could ever dream of handling anything but the most shallow of songs.</i> 	<i>Un humain pinçant les Cordes les amusait. L'amusait, ELLE. Car aucun ne pouvait rêver de manier autre chose que les chants les plus superficiels.</i> 
+VL_AncientTome	<i>Until the day <b>I</b> understood.</i> 	<i>Jusqu'au jour où <b>j'ai</b> compris.</i> 
+VL_AncientTome	This is fascinating. This story is told to all who are taught magic. How the first Arcanist 'stole' the knowledge from his Dragonmasters. 	Fascinant. Cette histoire est racontée à tous ceux à qui l'on enseigne la magie. Comment le premier Arcaniste « vola » le savoir à ses Maîtres-Dragons. 
+VL_AncientTome	But this... this you have not heard. 	Mais ceci... tu ne l'avais pas entendu. 
+VL_AncientTome	Caelum Diminorii listened to the ancient dragon until he understood: dragons control Strings not just with words, but with their voices. 	Caelum Diminorii écouta l'antique dragonne jusqu'à comprendre : les dragons ne contrôlent pas les Cordes seulement avec des mots, mais avec leurs voix. 
+VL_AncientTome	Once that clicked, the book explains, he learned how to tap into the Words of Power. <b>Higher tier magic</b>. 	Une fois ce déclic, explique le livre, il apprit à puiser dans les Mots de Pouvoir. <b>Une magie de plus haut niveau</b>. 
+VL_AncientTome	It goes on to, with incredible detail, explain exactly how his research went on during those years. How he managed to procure and transcribe dozens of previously dragon-only spells. 	Il poursuit, avec un incroyable luxe de détails, en expliquant comment ses recherches se déroulèrent durant ces années. Comment il parvint à obtenir et transcrire des dizaines de sorts jusqu'alors réservés aux dragons. 
+VL_AncientTome	He did not master all of them himself. But he did master some. 	Il ne les maîtrisa pas tous lui-même. Mais il en maîtrisa certains. 
+VL_AncientTome	And most importantly, he trained himself until he could cast a <i>spell of Jor's limits</i>. 	Et surtout, il s'exerça jusqu'à pouvoir lancer un <i>sort à la limite de Jor</i>. 
+VL_AncientTome	That would be what we today call a ninth level spell. 	C'est ce qu'on appelle aujourd'hui un sort de neuvième niveau. 
+VL_AncientTome	It goes on for pages describing basic stuff about the Draconic Civil War. Similar to things you read in school. How all of Diminor fell in their raging. In that chaos, humans were starting to rebel. 	Il continue pendant des pages à décrire des bases sur la Guerre Civile Draconique. Semblables à ce que tu as lu à l'école. Comment Diminor tout entier sombra dans leurs fureurs. Dans ce chaos, les humains commençaient à se rebeller. 
+VL_AncientTome	<i>It was with great pleasure I turned on her, when I saw my great cousin, Doug Doulin Dim, appear with that sacred standard. Yet he did not wield strength enough to break her.</i> 	<i>C'est avec un grand plaisir que je me suis retourné contre elle, lorsque j'ai vu mon grand cousin, Doug Doulin Dim, apparaître avec cette sainte bannière. Pourtant, il n'avait pas la force de la briser.</i> 
+VL_AncientTome	<i>Thus the last of the great serpents fell to me. To my one Word of Power I had learned just for her: <b>KILL</b>.</i> 	<i>Ainsi le dernier des grands serpents tomba devant moi. Devant l'unique Mot de Pouvoir que j'avais appris rien que pour elle : <b>TUE</b>.</i> 
+VL_AncientTome	Power Word Kill. 	Mot de Pouvoir : Mort. 
+VL_AncientTome	The most famous of the Power Words. How interesting. Is this truly how it came to pass into human hands? 	Le plus célèbre des Mots de Pouvoir. Quelle découverte. Est-ce ainsi qu'il est véritablement passé entre les mains humaines ? 
+VL_AncientTome	<i>Thus the era of the Wyrm was faded, with man raised in its place.</i> 	<i>Ainsi l'ère du Wyrm s'estompa, et l'homme se dressa à sa place.</i> 
+VL_AncientTome	<i>I am Caelum of Diminorii. My Words shape worlds. Myself, Jor, is what I am become.</i> 	<i>Je suis Caelum de Diminorii. Mes Mots façonnent les mondes. Moi-même, Jor, voilà ce que je suis devenu.</i> 
+VL_AncientTome	The book ends with instructions on various draconic magical theory. Most of which you already know. 	Le livre s'achève sur des instructions de théorie magique draconique diverses. Dont tu connais déjà la plupart. 
+VL_AncientTome	Elementary. 	Élémentaire. 
+VL_AncientTome	You remember most of it. 	Tu t'en souviens en grande partie. 
+VL_AncientTome	However... look at that final cantrip on the page. 	Cependant... regarde ce dernier sort mineur sur la page. 
+VL_AncientTome	Look at that <i>Mage Hand</i>. 	Regarde cette <i>Main du Mage</i>. 
+VL_AncientTome	<i>Caelum's</i> Mage Hand...? 	La Main du Mage de <i>Caelum</i> ... ? 
+VL_AncientTome	You run your fingers over the script. Yes. 	Tu fais glisser tes doigts sur le manuscrit. Oui. 
+VL_AncientTome	This is the personal transcription of the spell 'Mage Hand' by this mythical Caelum. 	C'est la transcription personnelle du sort « Main du Mage » par ce mythique Caelum. 
+VL_AncientTome	(Memorize the cantrip.) 	(Mémoriser le sort mineur.) 
+VL_AncientTome	What a masterpiece. Look at that scripture... 	Quel chef-d'œuvre. Regarde cette écriture... 
+VL_AncientTome	To imagine that you are sharing in such glory. 	Imagine que tu participes à une telle gloire. 
+VL_AncientTome	That's a complicated version of the spell. But... 	C'est une version compliquée du sort. Mais... 
+VL_AncientTome	This is a much more sleek implementation of Mage Hand than any that you've ever come by before. 	C'est une implémentation de Main du Mage bien plus élégante que toutes celles que tu aies jamais croisées auparavant. 
+VL_AncientTome	You could perform great feats with this. 	Tu pourrais accomplir de grandes prouesses avec ça. 
+VL_AncientTome	What, reach for apples? 	Genre quoi, attraper des pommes ? 
+VL_AncientTome	APPLES. 	DES POMMES. 
+VL_AncientTome	Holy shit. This will let you steal shit from a distance, won't it? 	Putain de merde. Ça va te permettre de voler des trucs à distance, non ? 
+VL_AncientTome	Yes. Although it is not as subtle as you might imagine. 	Oui. Bien que ce ne soit pas aussi subtil que tu te l'imagines. 
+VL_AncientTome	If you get caught. 	Si tu te fais prendre. 
+VL_AncientTome	Sure. But... that won't happen. Will it? 	Bien sûr. Mais... ça n'arrivera pas. N'est-ce pas ? 
+VL_AncientTome	Never in a million years. 	Jamais de la vie. 
+VL_AncientTome	Hm. I was hoping I would learn a Power Word from this. 	Hm. J'espérais apprendre un Mot de Pouvoir avec ça. 
+VL_AncientTome	E-Fascinating. 	Fascinant. 
+VL_AncientTome	Yes. Very sad. You would surely be able to wield it. 	Oui. Très triste. Tu pourrais sûrement le manier. 
+VL_AncientTome	Please. Do not. 	Pitié. Non. 
+VL_AncientTome	You've already attempted that once. 	Tu as déjà tenté ça une fois. 
+VL_AncientTome	Remember how it ended? 	Tu te souviens comment ça s'est terminé ? 
+VL_AncientTome	Right. The eyeballs exploded. 	Ah oui. Les globes oculaires ont explosé. 
+VL_AncientTome	The eyeballs exploded. 	Les globes oculaires ont explosé. 
+VL_AncientTome	You once tried. Remember? 	Tu as essayé une fois. Tu te souviens ? 
+VL_AncientTome	The back of the library. You found a transcript. You tried to memorize it. 	Au fond de la bibliothèque. Tu avais trouvé une transcription. Tu as tenté de la mémoriser. 
+VL_AncientTome	They found you the next day on the ground, barely breathing. 	On t'a retrouvé le lendemain au sol, respirant à peine. 
+VL_AncientTome	And your eyeballs had exploded. 	Et tes globes oculaires avaient explosé. 
+VL_AncientTome	Oh, right. The <i>eyeballs</i> exploded. 	Ah, oui. Les <i>globes oculaires</i> ont explosé. 
+VL_AncientTome	The Patriarch was kind enough to cast a Restoration on you. But he was not happy about it. 	Le Patriarche a eu la bonté de te lancer une Restauration. Mais il n'en était pas ravi. 
+VL_AncientTome	MY eyeballs <shake>exploded</shake>?! 	MES globes oculaires ont <shake>explosé</shake> ?! 
+VL_AncientTome	What a day. 	Quelle journée. 
+VL_AncientTome	Oh right, I remember. Yeah, I shouldn't do that again. 	Ah oui, je me souviens. Ouais, je ne devrais pas refaire ça. 
+VL_AncientTome	No, you should not. 	Non, en effet. 

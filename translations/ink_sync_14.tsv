@@ -1,0 +1,990 @@
+PC_Thal	You see a merman standing by an apartment door in PC. 	Tu vois un homme-mer debout devant la porte d'un appartement dans PC. 
+PC_Thal	He fiddles with the key, and hits the door multiple times. 	Il tripote la clé et frappe la porte plusieurs fois. 
+PC_Thal	Whatever he does, he cannot seem to turn or remove the key in the lock. 	Quoi qu'il fasse, il n'arrive ni à tourner ni à retirer la clé de la serrure. 
+PC_Thal	Clearly, it's jammed. 	Manifestement, elle est coincée. 
+PC_Thal	But you could probably help with that... 	Mais tu pourrais sans doute l'aider... 
+PC_Thal	You should leave him be. Nothing you can do to help. 	Tu devrais le laisser tranquille. Rien que tu puisses faire pour aider. 
+PC_Thal	\"Uh. Hey, Thalassos.\" 	« Euh. Hé, Thalassos. » 
+PC_Thal	The merman glances at Snell. Then he grunts and turns back to the door. 	L'homme-mer jette un œil à Snell. Puis il grogne et se retourne vers la porte. 
+PC_Thal	He is very annoyed. 	Il est très agacé. 
+PC_Thal	I should help. (Step up.) 	Je devrais aider. (S'avancer.) 
+PC_Thal	E-Nah. I should go. 	Nan. Je devrais y aller. 
+PC_Thal	The merman stares at you in silence as you step up to the door. 	L'homme-mer te fixe en silence pendant que tu t'avances vers la porte. 
+PC_Thal	ROLL15 dex-Unjam the lock. 	Débloquer la serrure. 
+PC_Thal	\"...Alright. I'll be your spotter.\" 	« ...D'accord. Je serai ton assureur. » 
+PC_Thal	With nimble fingers you poke and prod the dwarven-designed lock. 	De tes doigts agiles, tu sondes et tâtonnes la serrure de conception naine. 
+PC_Thal	Seems like there's been some... rust? 	On dirait qu'il y a eu un peu de... rouille ? 
+PC_Thal	The moisture must be terrible down here. 	L'humidité doit être terrible ici-bas. 
+PC_Thal	Hm. Yeah, you can handle this. Just go ahead and... 	Hm. Ouais, tu peux gérer ça. Vas-y et... 
+PC_Thal	(Hit the stuck key in a particular direction, then shake the handle.) 	(Frapper la clé coincée dans une direction précise, puis secouer la poignée.) 
+PC_Thal	As you do, immediately the key is freed from the jammed mechanism. 	Ce faisant, la clé se libère immédiatement du mécanisme coincé. 
+PC_Thal	(Turn the key.) 	(Tourner la clé.) 
+PC_Thal	With a satisfying click- the door is unlocked. 	Avec un déclic satisfaisant - la porte est déverrouillée. 
+PC_Thal	Thalassos lets out a short grunt. 	Thalassos pousse un bref grognement. 
+PC_Thal	(Hand him the key.) 	(Lui tendre la clé.) 
+PC_Thal	He takes it, and places a hand on your shoulder. 	Il la prend et pose une main sur ton épaule. 
+PC_Thal	\"<b>Efharistó polý</b>.\" 	« <b>Efharistó polý</b>. » 
+PC_Thal	Thalassos then enters his apartment, and closes the door behind him. 	Thalassos entre ensuite dans son appartement et referme la porte derrière lui. 
+PC_Thal	\"I think he's happy. I <i>think</i>.\" 	« Je crois qu'il est content. Je <i>crois</i>. » 
+PC_Thal	E-Alright. 	Bien. 
+PC_Thal	Uh oh. 	Oh-oh. 
+PC_Thal	Oh no. 	Oh non. 
+PC_Thal	Don't say that. (Keep trying the key.) 	Ne dis pas ça. (Continuer à essayer la clé.) 
+PC_Thal	Sorry. But this is <i>fucked</i>. 	Désolé. Mais c'est <i>foutu</i>. 
+PC_Thal	The lock's rusted shut, and the key is... not very high quality. 	La serrure est figée par la rouille, et la clé est... pas de très haute qualité. 
+PC_Thal	But you're already deep in, so... 	Mais tu es déjà bien engagé, alors... 
+PC_Thal	Time to choose. Pain or more pain. 	Il faut choisir. La douleur ou plus de douleur. 
+PC_Thal	Just be a man and put some POWER on it. 	Sois un homme et mets-y un peu de PUISSANCE. 
+PC_Thal	You should be careful... 	Tu devrais être prudent... 
+PC_Thal	(Smash the door open.) 	(Défoncer la porte.) 
+PC_Thal	(Force the key.) 	(Forcer la clé.) 
+PC_Thal	With a SLAM, you ram your shoulder against the door. 	Dans un FRACAS, tu balances ton épaule contre la porte. 
+PC_Thal	As you do, the mechanism of the lock snaps. 	Ce faisant, le mécanisme de la serrure casse net. 
+PC_Thal	Shit. 	Merde. 
+PC_Thal	You put some force onto the key. 	Tu mets un peu de force sur la clé. 
+PC_Thal	Then some more. 	Puis encore un peu plus. 
+PC_Thal	Then some MORE. 	Puis ENCORE PLUS. 
+PC_Thal	A terrible sound is heard from the lock. 	Un bruit terrible s'élève de la serrure. 
+PC_Thal	The key remains stuck. But you realize the door starts moving out of its frame. 	La clé reste coincée. Mais tu te rends compte que la porte commence à sortir de son cadre. 
+PC_Thal	(Look at Thalassos.) 	(Regarder Thalassos.) 
+PC_Thal	The merman grumbles and pushes you away from the door. 	L'homme-mer grommelle et t'écarte de la porte. 
+PC_Thal	It now hangs completely loose from the door frame. 	Elle pend désormais complètement de travers du cadre. 
+PC_Thal	Which means... it's open, at least? 	Ce qui veut dire... qu'elle est ouverte, au moins ? 
+PC_Thal	\"I... got it open for you.\" 	« Je... vous l'ai ouverte. » 
+PC_Thal	\"Sorry.\" 	« Désolé. » 
+PC_Thal	\"Whoops!\" 	« Oups ! » 
+PC_Thal	Thalassos doesn't even look at you. 	Thalassos ne te regarde même pas. 
+PC_Thal	He just enters into his apartment in silence, as the limp door sort-of closes loosely behind him. 	Il entre simplement dans son appartement en silence, tandis que la porte molle se referme à peu près derrière lui. 
+PC_Thal	Whelp. 	Bon. 
+PC_Thal	\"Great job, Cleric. Really solved that one.\" 	« Beau boulot, Clerc. T'as vraiment réglé celui-là. » 
+PC_Thal	E-...I should go. 	...Je devrais y aller. 
+PC_AzgalDoor	You approach the green door. 	Vous vous approchez de la porte verte. 
+PC_AzgalDoor	An apartment in the holes. Like any other. 	Un appartement dans les trous. Comme tous les autres. 
+PC_AzgalDoor	(Check who lives here.) 	(Vérifier qui vit ici.) 
+PC_AzgalDoor	E-No need. 	Pas besoin. 
+PC_AzgalDoor	You knock twice, in a polite fashion. 	Vous frappez deux fois, de manière polie. 
+PC_AzgalDoor	A long time passes. 	Un long moment s'écoule. 
+PC_AzgalDoor	No one is home. 	Il n'y a personne. 
+PC_AzgalDoor	No one? No one. 	Personne ? Personne. 
+PC_AzgalDoor	\"Guess we'll have to try again some other day.\" 	« On dirait qu'il faudra réessayer un autre jour. » 
+PC_AzgalDoor	Tomorrow might be a better day for knocking on this door. 	Demain serait peut-être un meilleur jour pour frapper à cette porte. 
+PC_AzgalDoor	Sadly, you can't pick these doors. They've got special esoteric keys. 	Hélas, tu ne peux pas crocheter ces portes. Elles ont des clés ésotériques spéciales. 
+PC_AzgalDoor	E-Hm. Guess I'll come back tomorrow. 	Hm. Je reviendrai sans doute demain. 
+PC_AzgalDoor	It'd be awesome. But... 	Ce serait génial. Mais... 
+PC_AzgalDoor	There's no logical reason for you to do that right now. 	Il n'y a aucune raison logique pour toi de faire ça maintenant. 
+PC_AzgalDoor	Doesn't appear to be a valid target. Must be a terrible door-type curse. 	Ne semble pas être une cible valide. Ce doit être une terrible malédiction de type porte. 
+PC_AzgalDoor	For once, your sanity wins. 	Pour une fois, ta santé mentale l'emporte. 
+PC_AzgalDoor	You can't just go around unlocking random doors, sneaking into people's apartments. 	Tu ne peux pas te promener en déverrouillant des portes au hasard, en t'introduisant dans les appartements des gens. 
+PC_AzgalDoor	That would be horrible behavior. 	Ce serait un comportement horrible. 
+PC_AzgalDoor	Good. Don't break into people's apartments. Even for the good of the city. 	Bien. N'effractionne pas les appartements des gens. Même pour le bien de la cité. 
+PC_AzgalDoor	You knock twice, in a polite fashion. 	Vous frappez deux fois, de manière polie. 
+PC_AzgalDoor	That was very low. They probably didn't hear you. 	C'était très faible. Ils ne vous ont probablement pas entendu. 
+PC_AzgalDoor	(Bang on the door.) 	(Cogner à la porte.) 
+PC_AzgalDoor	(Wait.) 	(Attendre.) 
+PC_AzgalDoor	E-Screw this. 	Au diable tout ça. 
+PC_AzgalDoor	Patience is a virtue. 	La patience est une vertu. 
+PC_AzgalDoor	But allowing them to just have you wait here... like some <shake>FOOL</shake>... that's the opposite of virtue. 	Mais les laisser te faire poireauter ici... comme un <shake>IMBÉCILE</shake>... c'est l'opposé de la vertu. 
+PC_AzgalDoor	Standing in the Pillar Crossing like this. Just waiting. 	Se tenir ainsi dans la Traversée du Pilier. À attendre. 
+PC_AzgalDoor	It's calming. 	C'est apaisant. 
+PC_AzgalDoor	Being left here to stand. Waiting. 	Être laissé planté ici. À attendre. 
+PC_AzgalDoor	It feels like being abandoned. 	Cela ressemble à être abandonné. 
+PC_AzgalDoor	\"Don't think they heard, Cleric.\" 	« J'crois qu'ils ont pas entendu, Clerc. » 
+PC_AzgalDoor	You grab it, and find it stiff. 	Vous la saisissez, et la trouvez rigide. 
+PC_AzgalDoor	Clearly locked. 	Clairement verrouillée. 
+PC_AzgalDoor	Strange. You can't seem to open the door. 	Étrange. Vous ne parvenez pas à ouvrir la porte. 
+PC_AzgalDoor	\"Cleric. You can't just grab random door handles.\" 	« Clerc. Tu peux pas juste saisir des poignées de porte au hasard. » 
+PC_AzgalDoor	\"It's really weird behavior. You can't do that.\" 	« C'est un comportement vraiment bizarre. Tu peux pas faire ça. » 
+PC_AzgalDoor	\"I can do anything.\" 	« Je peux tout faire. » 
+PC_AzgalDoor	(Stop trying to open the locked door.) 	(Cesser d'essayer d'ouvrir la porte verrouillée.) 
+PC_AzgalDoor	\"Well, you're lucky this time, since he's clearly not home.\" 	« Bon, t'as de la chance cette fois, vu qu'il est clairement pas chez lui. » 
+PC_AzgalDoor	\"But still. Don't do that.\" 	« Mais quand même. Fais pas ça. » 
+PC_AzgalDoor	\"What the hell.\" 	« C'est quoi ce délire. » 
+PC_AzgalDoor	\"That's better.\" 	« C'est mieux. » 
+PC_AzgalDoor	The goblin does not understand: you have the authority to grab any handle you wish. 	Le gobelin ne comprend pas : tu as l'autorité de saisir n'importe quelle poignée à ta guise. 
+PC_AzgalDoor	For you are the state. 	Car tu es l'État. 
+PC_AzgalDoor	It's a massive violation of their civil rights. 	C'est une violation massive de leurs droits civiques. 
+PC_AzgalDoor	But then again, if they leave their door unlocked, they're kind of asking for it. 	Mais bon, s'ils laissent leur porte ouverte, ils l'ont quand même un peu cherché. 
+PC_AzgalDoor	You grab it, and find it stiff. 	Vous la saisissez, et la trouvez rigide. 
+PC_AzgalDoor	Clearly locked. 	Clairement verrouillée. 
+PC_AzgalDoor	Strange. You can't seem to open the door. 	Étrange. Vous ne parvenez pas à ouvrir la porte. 
+PC_AzgalDoor	\"Cleric. You can't just grab random door handles.\" 	« Clerc. Tu peux pas juste saisir des poignées de porte au hasard. » 
+PC_AzgalDoor	\"It's really weird behavior. You-\" 	« C'est un comportement vraiment bizarre. Tu— » 
+PC_AzgalDoor	You glance at the mailbox. It says, 'SIMII'. 	Vous jetez un œil à la boîte aux lettres. Il y est écrit : « SIMII ». 
+PC_AzgalDoor	\"One of the Azgals. Nice guy.\" 	« L'un des Azgals. Un type sympa. » 
+PC_AzgalDoor	Within seconds, a slit in the door slides open. From within you see the glance of a hairy face. 	En quelques secondes, une fente dans la porte coulisse. À l'intérieur, vous apercevez le regard d'un visage hirsute. 
+PC_AzgalDoor	\"<b>No milk</b>!\" 	« <b>Pas de lait</b> ! » 
+PC_AzgalDoor	Why not?! 	Pourquoi pas ?! 
+PC_AzgalDoor	Yes. Indeed. 	Oui. En effet. 
+PC_AzgalDoor	Why not? 	Pourquoi pas ? 
+PC_AzgalDoor	\"Why not?\" 	« Pourquoi pas ? » 
+PC_AzgalDoor	\"Greetings citizen!\" 	« Salutations, citoyen ! » 
+PC_AzgalDoor	(Lean in and stare through the slit.) 	(Se pencher et regarder à travers la fente.) 
+PC_AzgalDoor	You hear a grumble on the other side of the door. 	Vous entendez un grognement de l'autre côté de la porte. 
+PC_AzgalDoor	\"Hm. So you're the cleric I've been hearing about.\" 	« Hm. Donc vous êtes le clerc dont on m'a parlé. » 
+PC_AzgalDoor	The dwarf inspects you through the slit. 	Le nain vous inspecte à travers la fente. 
+PC_AzgalDoor	\"That's true. How can you tell?\" 	« C'est vrai. Comment l'avez-vous deviné ? » 
+PC_AzgalDoor	\"No. That's totally wrong.\" 	« Non. C'est complètement faux. » 
+PC_AzgalDoor	\"Can I come in?\" 	« Puis-je entrer ? » 
+PC_AzgalDoor	\"My <i>great</i> intuition.\" 	« Mon <i>excellente</i> intuition. » 
+PC_AzgalDoor	\"What are you supposed to be, then?\" 	« Vous êtes censé être quoi, alors ? » 
+PC_AzgalDoor	He looks over to Snell. \"Are you the cleric, then?\" 	Il jette un œil à Snell. « C'est vous, le clerc, alors ? » 
+PC_AzgalDoor	Your companion slowly and carefully enunciates a, \"No.\" 	Votre compagnon articule lentement et soigneusement un « Non ». 
+PC_AzgalDoor	\"I'm a Rogue.\" 	« Je suis un Roublard. » 
+PC_AzgalDoor	\"I'm a Wizard.\" 	« Je suis un Magicien. » 
+PC_AzgalDoor	\"Fine. I'm THE CLERIC.\" 	« D'accord. Je suis LE CLERC. » 
+PC_AzgalDoor	\"So you <i>are</i> a cleric?\" 	« Donc vous <i>êtes</i> un clerc ? » 
+PC_AzgalDoor	\"Sure.\" 	« Bien sûr. » 
+PC_AzgalDoor	\"No.\" 	« Non. » 
+PC_AzgalDoor	\"Oh?\" 	« Oh ? » 
+PC_AzgalDoor	\"...Okay.\" 	« ... D'accord. » 
+PC_AzgalDoor	\"What are you doing here?\" 	\"Que fais-tu ici ?\" 
+PC_AzgalDoor	\"I'm investigating the tea shop explosion. I have some questions.\" 	« J'enquête sur l'explosion du salon de thé. J'ai quelques questions. » 
+PC_AzgalDoor	\"Wait... a dwarf? Is this some type of Azgal-thing?\" 	« Attendez... un nain ? C'est une sorte de truc d'Azgal ? » 
+PC_AzgalDoor	\"Because I'm a dwarf, you assume this is some type of... <i>secret hideout</i> for the Azgals on Tolstad?\" 	« Parce que je suis un nain, vous présumez que c'est une sorte de... <i>repaire secret</i> pour les Azgals à Tolstad ? » 
+PC_AzgalDoor	It is. 	C'est vrai. 
+PC_AzgalDoor	\"Yeah! That.\" 	« Oui ! C'est ça. » 
+PC_AzgalDoor	\"Am I wrong?\" 	« Ai-je tort ? » 
+PC_AzgalDoor	\"Hm.\" 	« Hm. » 
+PC_AzgalDoor	The dwarf grumbles beyond the door. 	Le nain grogne derrière la porte. 
+PC_AzgalDoor	\"Name's Alfoz. Of Bhan-Emvers.\" 	« J'm'appelle Alfoz. De Bhan-Emvers. » 
+PC_AzgalDoor	\"I am Foreman in the Azgalist Movement of Norvik.\" 	« J'suis Contremaître au Mouvement azgaliste de Norvik. » 
+PC_AzgalDoor	\"Mm. Mr. Cityman.\" 	« Mm. M'sieur le Citadin. » 
+PC_AzgalDoor	\"You think you can prove yourself yet?\" 	« Vous pensez pouvoir faire vos preuves maintenant ? » 
+PC_AzgalDoor	The slit slides open and an angry dwarf is on the other side. 	La fente coulisse et un nain en colère se trouve de l'autre côté. 
+PC_AzgalDoor	\"Why would you SAY that you're an ENEMY, and then come BACK?!\" 	« Pourquoi DIRIEZ-vous que vous êtes un ENNEMI, et puis REVENIR ?! » 
+PC_AzgalDoor	\"I changed my mind.\" 	« J'ai changé d'avis. » 
+PC_AzgalDoor	\"Sorry. I got confused.\" 	« Désolé. Je m'étais embrouillé. » 
+PC_AzgalDoor	He sighs. \"Fine. Well... are you a friend, or are you a foe?\" 	Il soupire. « Bon. Eh bien... êtes-vous un ami, ou un ennemi ? » 
+PC_AzgalDoor	\"Foe.\" 	« Ennemi. » 
+PC_AzgalDoor	\"Friend.\" 	« Amie. » 
+PC_AzgalDoor	\"<b>FUCK OFF</b>!\" 	« <b>DÉGAGEZ</b> ! » 
+PC_AzgalDoor	He slams the slit shut. 	Il claque la fente d'un coup sec. 
+PC_AzgalDoor	E-Okay then. 	D'accord 
+PC_AzgalDoor	\"...Okay. Good.\" 	« ... D'accord. Bien. » 
+PC_AzgalDoor	He sounds slightly frustrated. 	Il a l'air légèrement frustré. 
+PC_AzgalDoor	Hilarious. 	Hilarant. 
+PC_AzgalDoor	\"And I need to ask you, <i>Mr. Cityman</i>...\" 	« Et j'dois vous demander, <i>M'sieur le Citadin</i>... » 
+PC_AzgalDoor	\"You FRIEND or FOE to the <b>movement</b>?\" 	« Vous êtes AMI ou ENNEMI du <b>mouvement</b> ? » 
+PC_AzgalDoor	\"Friend.\" 	« Amie. » 
+PC_AzgalDoor	\"Foe.\" 	« Ennemi. » 
+PC_AzgalDoor	\"Do I have to pick? Right away?\" 	« Je dois choisir ? Tout de suite ? » 
+PC_AzgalDoor	\"You're just going to trust me if I tell you I'm a friend?\" 	« Vous allez juste me croire si je dis que je suis un ami ? » 
+PC_AzgalDoor	\"Mm. Good.\" 	« Mm. Bien. » 
+PC_AzgalDoor	\"Good. Then you-\" 	« Bien. Alors vous— » 
+PC_AzgalDoor	\"Hold on, did you say foe?\" 	« Attendez, vous avez dit ennemi ? » 
+PC_AzgalDoor	\"No, I said friend. Obviously.\" 	« Non, j'ai dit ami. Évidemment. » 
+PC_AzgalDoor	\"Yes. I am your enemy.\" 	« Oui. Je suis votre ennemi. » 
+PC_AzgalDoor	\"Mm. Good.\" 	« Mm. Bien. » 
+PC_AzgalDoor	The goblin mouths, \"What the fuck are you doing,\" to you under his breath. 	Le gobelin articule en silence : « Mais qu'est-ce que tu fous », à voix basse, à votre intention. 
+PC_AzgalDoor	You hear nothing from the dwarf for a moment. 	Vous n'entendez rien du nain pendant un instant. 
+PC_AzgalDoor	\"Then... I'm not going to let you inside.\" 	« Alors... j'vais pas vous laisser entrer. » 
+PC_AzgalDoor	\"Did I say enemy? I meant friend. I get those mixed up sometimes.\" 	« J'ai dit ennemi ? Je voulais dire ami. Je les mélange parfois. » 
+PC_AzgalDoor	E-\"Fine. Bye.\" 	« Bon. Au revoir. »\"\" 
+PC_AzgalDoor	\"But you said foe.\" 	« Mais vous avez dit ennemi. » 
+PC_AzgalDoor	\"No I didn't.\" 	« Non, je ne l'ai pas fait. » 
+PC_AzgalDoor	\"You should check your hearing, old man.\" 	« Vous devriez faire vérifier votre ouïe, vieil homme. » 
+PC_AzgalDoor	\"Does it really matter?\" 	« Est-ce que ça compte vraiment ? » 
+PC_AzgalDoor	\"Oh yeah, I did.\" 	« Oh ouais, j'l'ai dit. » 
+PC_AzgalDoor	More grumbling is heard beyond the wooden door. 	D'autres grognements résonnent derrière la porte en bois. 
+PC_AzgalDoor	\"We have no business with enemies of the Azgal Movement.\" 	« On n'a pas affaire aux ennemis du Mouvement azgal. » 
+PC_AzgalDoor	\"Good day.\" 	« Bonne journée. » 
+PC_AzgalDoor	The slit is shut. 	La fente se ferme. 
+PC_AzgalDoor	E-Whelp. 	Bon. 
+PC_AzgalDoor	\"Yes.\" 	« Oui. » 
+PC_AzgalDoor	\"Uh. I suppose?\" 	« Euh. Je suppose ? » 
+PC_AzgalDoor	So trusting. What an idiot. 	Si confiant. Quel idiot. 
+PC_AzgalDoor	So trusting. What a wonderful person. 	Si confiant. Quelle personne merveilleuse. 
+PC_AzgalDoor	\"As long as you are a friend, I suppose we could... answer some questions.\" 	« Tant que vous êtes un ami, on peut p't-être... répondre à quelques questions. » 
+PC_AzgalDoor	\"But I don't quite believe you.\" 	« Mais j'vous crois pas tout à fait. » 
+PC_AzgalDoor	He sounds conflicted. 	Il a l'air en conflit avec lui-même. 
+PC_AzgalDoor	\"Are you really an Azgal?\" 	« Êtes-vous vraiment un Azgal ? » 
+PC_AzgalDoor	I need to prove I'm an Azgal? 	Je dois prouver que je suis un Azgal ? 
+PC_AzgalDoor	Yes. You do. 	Oui. Tu en as une. 
+PC_AzgalDoor	ROLL8 wis-Prove you're an Azgal. 	Prouver que vous êtes un Azgal. 
+PC_AzgalDoor	E-Eh. I'll do it later. 	Bah. Je ferai ça plus tard. 
+PC_AzgalDoor	\"Snell? Ah. Sageleaf's runner.\" 	« Snell ? Ah. Le coursier de Feuille-de-Sauge. » 
+PC_AzgalDoor	\"Hello Alfoz.\" 	« Bonjour Alfoz. » 
+PC_AzgalDoor	\"Does that help me get in?\" 	« Ça m'aide à entrer ? » 
+PC_AzgalDoor	\"It doesn't hurt. Snell has helped us in the past.\" 	« Ça ne nuit pas. Snell nous a aidés par le passé. » 
+PC_AzgalDoor	\"You're not here to join the cause, are you?\" 	« Vous n'êtes pas venu rejoindre la cause, par hasard ? » 
+PC_AzgalDoor	\"Afraid I'm a bit too busy.\" 	« J'crains d'être un peu trop occupé. » 
+PC_AzgalDoor	\"Understandable. Anyhow...\" 	« Compréhensible. Bref... » 
+PC_AzgalDoor	Oh no. 	Oh non. 
+PC_AzgalDoor	You cannot lie. Yet you cannot muster up a good explanation... 	Tu ne peux pas mentir. Pourtant tu n'arrives pas à formuler une bonne explication... 
+PC_AzgalDoor	\"I'm... not an Azgal.\" 	« Je ne... suis pas un Azgal. » 
+PC_AzgalDoor	\"Oh.\" 	« Oh. » 
+PC_AzgalDoor	\"Then I can't let you in.\" 	« Alors j'peux pas vous laisser entrer. » 
+PC_AzgalDoor	\"But... I...\" 	« Mais... je... » 
+PC_AzgalDoor	\"Azgals only!\" 	« Réservé aux Azgals ! » 
+PC_AzgalDoor	\"I'm not your enemy.\" 	« Je ne suis pas votre ennemi. » 
+PC_AzgalDoor	\"You're not?\" 	« Vous ne l'êtes pas ? » 
+PC_AzgalDoor	You CANNOT lie. 	Tu ne peux PAS mentir. 
+PC_AzgalDoor	\"Well, maybe a little bit.\" 	« Eh bien, peut-être un peu. » 
+PC_AzgalDoor	\"Then go away!\" 	« Alors fichez le camp ! » 
+PC_AzgalDoor	He slams the window shut. 	Il claque la fenêtre d'un coup sec. 
+PC_AzgalDoor	\"I'm not sure which one of you is the biggest idiot.\" 	« Je sais pas lequel d'entre vous est le plus grand idiot. » 
+PC_AzgalDoor	\"Just come back later, if you really wanna get into that sweaty Azgal-chamber.\" 	« Reviens plus tard, si tu veux vraiment entrer dans cette chambre d'Azgal pleine de sueur. » 
+PC_AzgalDoor	E-Damn it. 	Bon sang. 
+PC_AzgalDoor	\"Hm? Oh.\" 	« Hm ? Oh. » 
+PC_AzgalDoor	\"It's you.\" 	« C'est vous. » 
+PC_AzgalDoor	\"You remember me!\" 	« Vous vous souvenez de moi ! » 
+PC_AzgalDoor	\"I have some questions. Can I come in?\" 	« J'ai quelques questions. Puis-je entrer ? » 
+PC_AzgalDoor	\"Yes. I'm the CLERIC.\" 	« Oui. Je suis LE CLERC. » 
+PC_AzgalDoor	\"I do. The cleric that didn't interfere at all.\" 	« Je m'en souviens. Le clerc qui n'est pas intervenu du tout. » 
+PC_AzgalDoor	\"I suppose we can answer some.\" 	« J'suppose qu'on peut en répondre à quelques-unes. » 
+PC_AzgalDoor	\"Mm. Yes, that's pretty clear.\" 	« Mm. Oui, c'est plutôt clair. » 
+PC_AzgalDoor	\"Well, you weren't in the way for us. But I have to ask...\" 	« Eh bien, vous nous avez pas gêné. Mais j'dois demander... » 
+PC_AzgalDoor	\"Âh!\" 	« Âh ! » 
+PC_AzgalDoor	\"Guess who it is, lads!\" 	« Devinez qui c'est, les gars ! » 
+PC_AzgalDoor	\"That's right! It's THE CLERIC!\" 	« C'est ça ! C'est LE CLERC ! » 
+PC_AzgalDoor	\"I have some questions for you.\" 	« J'ai des questions pour toi. » 
+PC_AzgalDoor	\"Careful. Keep going, and that big <u>ego</u> might not fit in the helmet anymore.\" 	« Attention. Continue comme ça, et ce gros <u>ego</u> tiendra plus dans le heaume. » 
+PC_AzgalDoor	\"Great to see you swing by, Mr. Cityman! Hold on, let me unlock the door for ya...\" 	« Content qu'vous passiez, M'sieur le Citadin ! Attendez, j'vais déverrouiller la porte pour vous... » 
+PC_AzgalDoor	\"Won't you look at that.\" 	« Eh ben, regardez-moi ça. » 
+PC_AzgalDoor	\"It's the gelatinous piss-cube of a cleric himself.\" 	« C'est le cube-gélatineux-d'urine de clerc en personne. » 
+PC_AzgalDoor	\"That's a good insult.\" 	« C'est une bonne insulte. » 
+PC_AzgalDoor	\"You can't talk to me like that.\" 	« Vous ne pouvez pas me parler comme ça. » 
+PC_AzgalDoor	\"I'm here to apologize.\" 	« Je suis venu m'excuser. » 
+PC_AzgalDoor	\"I have some questions for you.\" 	« J'ai des questions pour toi. » 
+PC_AzgalDoor	\"There's more where that came from!\" 	« Y en a d'autres en réserve ! » 
+PC_AzgalDoor	\"Bah!\" 	« Bah ! » 
+PC_AzgalDoor	\"I can talk to ye any way I want!\" 	« J'vous parle comme j'veux ! » 
+PC_AzgalDoor	\"Apologize? For what, being an oppressive cock swinger for the bourgeois?\" 	« Vous excuser ? Pour quoi, être un branleur de bites oppressif au service des bourgeois ? » 
+PC_AzgalDoor	\"Oppressive, what?\" 	« Oppressif, quoi ? » 
+PC_AzgalDoor	\"Burshwah, what?\" 	« Bourjwah, quoi ? » 
+PC_AzgalDoor	\"Swinging cocks is a bad thing?\" 	« Branler des bites est une mauvaise chose ? » 
+PC_AzgalDoor	\"A city hound. That's what you are.\" 	« Un chien de la cité. Voilà ce que vous êtes. » 
+PC_AzgalDoor	\"Bah! An oblivious hound of the state.\" 	« Bah ! Un chien inconscient de l'État. » 
+PC_AzgalDoor	\"It's- assâ...\" 	« C'est— assâ... » 
+PC_AzgalDoor	\"I'd argue it's generally seen as a negative trait.\" 	« Je dirais que c'est généralement vu comme un trait négatif. » 
+PC_AzgalDoor	\"But if the cock is really big...\" 	« Mais si la bite est vraiment grosse... » 
+PC_AzgalDoor	\"Fair. Masculinity bad, and so on.\" 	« Juste. La masculinité c'est mauvais, et patati et patata. » 
+PC_AzgalDoor	\"I disagree.\" 	« Je ne suis pas d'accord. » 
+PC_AzgalDoor	\"I'm NOT discussing COCK SIZES with you!\" 	« Je ne DISCUTE PAS de TAILLES DE BITES avec vous ! » 
+PC_AzgalDoor	You hear laughter coming from inside the apartment. 	Vous entendez des rires venir de l'intérieur de l'appartement. 
+PC_AzgalDoor	Followed by Alfoz yelling, \"SHUT UP!\" 	Suivis d'Alfoz qui hurle : « FERMEZ-LA ! » 
+PC_AzgalDoor	Then he turns back to you. 	Puis il se retourne vers vous. 
+PC_AzgalDoor	\"Well, that's not- it's not- that's not what I-\" 	« Eh ben, c'est pas— c'est pas— c'est pas ce que j'— » 
+PC_AzgalDoor	\"Nevermind!\" 	« Laissez tomber ! » 
+PC_AzgalDoor	\"Do as you wish.\" 	« Faites comme vous voulez. » 
+PC_AzgalDoor	\"I'm certain you do, Mr. Cityman.\" 	« J'en suis certain, M'sieur le Citadin. » 
+PC_AzgalDoor	\"Now go away!\" 	« Maintenant fichez le camp ! » 
+PC_AzgalDoor	This is so sad. You're an Azgalian at heart. 	C'est si triste. Tu es un Azgalien dans l'âme. 
+PC_AzgalDoor	You must make this right. 	Tu dois réparer cela. 
+PC_AzgalDoor	\"Come on. Don't be like that.\" 	« Allons. Ne soyez pas comme ça. » 
+PC_AzgalDoor	\"Not even one question?\" 	« Même pas une seule question ? » 
+PC_AzgalDoor	E-\"Okay, fine.\" 	« Bon, d'accord. » 
+PC_AzgalDoor	\"I'll be however I damn well please!\" 	« J'serai comme bon me semble, bordel ! » 
+PC_AzgalDoor	\"No!\" 	« Non ! » 
+PC_AzgalDoor	The slit on the door slams open, as an angry dwarf greets you with a glare. 	La fente de la porte s'ouvre brutalement, et un nain en colère vous accueille d'un regard noir. 
+PC_AzgalDoor	\"What do you want?!\" 	« Qu'est-ce que vous voulez ?! » 
+PC_AzgalDoor	This is so sad. You're an Azgalian at heart. 	C'est si triste. Tu es un Azgalien dans l'âme. 
+PC_AzgalDoor	You must make this right. 	Tu dois réparer cela. 
+PC_AzgalDoor	DC15 wis-I know what I am. I am a dwarf/Azgalian brother. I'll prove it to him! 	DC15 wis-Je sais ce que je suis. Je suis un frère nain/azgalien. Je vais le lui prouver ! 
+PC_AzgalDoor	Can't I trick him into letting me inside or something? 	Je ne peux pas le piéger pour qu'il me laisse entrer ou un truc du genre ? 
+PC_AzgalDoor	\"What's going on in there?\" 	« Qu'est-ce qui se passe là-dedans ? » 
+PC_AzgalDoor	E-Okay. 	D'accord. 
+PC_AzgalDoor	\"Snell? Ah. Sageleaf's runner.\" 	« Snell ? Ah. Le coursier de Feuille-de-Sauge. » 
+PC_AzgalDoor	\"Hello Alfoz.\" 	« Bonjour Alfoz. » 
+PC_AzgalDoor	\"Does that help me get in?\" 	« Ça m'aide à entrer ? » 
+PC_AzgalDoor	\"It doesn't hurt. Snell has helped us in the past.\" 	« Ça ne nuit pas. Snell nous a aidés par le passé. » 
+PC_AzgalDoor	\"You're not here to join the cause yourself, are you?\" 	« Vous n'êtes pas venu rejoindre la cause vous-même, par hasard ? » 
+PC_AzgalDoor	\"Afraid I'm a bit too busy.\" 	« J'crains d'être un peu trop occupé. » 
+PC_AzgalDoor	\"Understandable. Anyhow...\" 	« Compréhensible. Bref... » 
+PC_AzgalDoor	\"Will you fuck off now, or what?\" 	« Vous allez dégager maintenant, ou quoi ? » 
+PC_AzgalDoor	It's time. 	C'est le moment. 
+PC_AzgalDoor	You've reached a point of acceptance. 	Tu as atteint un point d'acceptation. 
+PC_AzgalDoor	Acceptance? 	D'acceptation ? 
+PC_AzgalDoor	You now know, you've done something wrong. 	Tu sais désormais que tu as commis quelque chose de mal. 
+PC_AzgalDoor	And it has hurt this man deeply. 	Et cela a profondément blessé cet homme. 
+PC_AzgalDoor	Or at least made him assured that you are an enemy worthy of opposing. 	Ou du moins l'a convaincu que tu es un ennemi digne d'être combattu. 
+PC_AzgalDoor	So I should... explain to him that he is wrong through facts and logic? 	Alors je devrais... lui expliquer qu'il a tort par des faits et de la logique ? 
+PC_AzgalDoor	Maybe I could wrestle him? To earn his respect? 	Peut-être que je pourrais lutter avec lui ? Pour gagner son respect ? 
+PC_AzgalDoor	I could cast magic on him again? 	Je pourrais lui lancer de la magie à nouveau ? 
+PC_AzgalDoor	Oh. I get it. 	Oh. Je comprends. 
+PC_AzgalDoor	No. 	Non. 
+PC_AzgalDoor	Not this time. 	Pas cette fois. 
+PC_AzgalDoor	Plus, there's a door between you. 	En plus, il y a une porte entre vous. 
+PC_AzgalDoor	That would make it worse. And it would be an evil temporary solution. 	Cela aggraverait les choses. Et ce serait une solution maléfique temporaire. 
+PC_AzgalDoor	Yes. 	Oui. 
+PC_AzgalDoor	Go ahead. 	Vas-y. 
+PC_AzgalDoor	\"You leaving or what?\" 	« Vous partez ou quoi ? » 
+PC_AzgalDoor	(Bow down before him.) 	(S'incliner devant lui.) 
+PC_AzgalDoor	\"Huh?\" 	« Hein ? » 
+PC_AzgalDoor	\"I've caused great harm to you.\" 	« Je vous ai causé un grand tort. » 
+PC_AzgalDoor	The dwarf glares at you. 	Le nain vous foudroie du regard. 
+PC_AzgalDoor	\"I've caused great harm to your comrades. And the movement as well.\" 	« J'ai causé un grand tort à vos camarades. Et au mouvement aussi. » 
+PC_AzgalDoor	You hear him grumble beyond the door. 	Vous l'entendez grogner derrière la porte. 
+PC_AzgalDoor	\"Please forgive me. I am a friend of the movement.\" 	« Je vous en prie, pardonnez-moi. Je suis un ami du mouvement. » 
+PC_AzgalDoor	\"You, I-\" 	« Vous, je— » 
+PC_AzgalDoor	\"I want to become an Azgal. I want to join the movement.\" 	« Je veux devenir un Azgal. Je veux rejoindre le mouvement. » 
+PC_AzgalDoor	The dwarf is silent for a while. 	Le nain reste silencieux un moment. 
+PC_AzgalDoor	(Get up.) 	(Se relever.) 
+PC_AzgalDoor	\"You're a strange one, Mr. Cityman.\" 	« Vous êtes un drôle de gars, M'sieur le Citadin. » 
+PC_AzgalDoor	\"But I suppose you can be useful.\" 	« Mais j'suppose que vous pouvez être utile. » 
+PC_AzgalDoor	You're not ready, are you? 	Tu n'es pas prêt, n'est-ce pas ? 
+PC_AzgalDoor	To truly accept your misdeeds, and convince this dwarf of your regret. 	À véritablement accepter tes méfaits, et convaincre ce nain de ton regret. 
+PC_AzgalDoor	But I didn't do anything wrong? 	Mais je n'ai rien fait de mal ? 
+PC_AzgalDoor	This is dumb. The dwarves are dumb. 	C'est débile. Les nains sont débiles. 
+PC_AzgalDoor	So what do I do, then? 	Alors qu'est-ce que je fais, dans ce cas ? 
+PC_AzgalDoor	Sometimes it feels like that, despite other people hurting from your actions. 	Parfois on a cette impression, malgré que d'autres personnes souffrent de tes actions. 
+PC_AzgalDoor	Suppose you didn't. 	Supposons que non. 
+PC_AzgalDoor	You're projecting. 	Tu projettes. 
+PC_AzgalDoor	Perhaps... 	Peut-être... 
+PC_AzgalDoor	Atone. Any way you can. And think about what you've done. 	Expie. Par tous les moyens. Et réfléchis à ce que tu as fait. 
+PC_AzgalDoor	And how others are affected by it. 	Et comment cela affecte les autres. 
+PC_AzgalDoor	Feel bad. Then maybe sleep on it? 	Sens-toi mal. Puis peut-être y dormir dessus ? 
+PC_AzgalDoor	The dwarf grunts behind the door. 	Le nain grogne derrière la porte. 
+PC_AzgalDoor	\"You going away, or what?\" 	« Vous vous en allez, ou quoi ? » 
+PC_AzgalDoor	\"Go away.\" 	« Allez-vous-en. » 
+PC_AzgalDoor	\"Alfoz! I'm a real dwarf! I'm an Azgalian brother! I'll prove it to you.\" 	« Alfoz ! Je suis un vrai nain ! Je suis un frère azgalien ! Je vais vous le prouver. » 
+PC_AzgalDoor	\"I don't quite believe you.\" 	« J'vous crois pas tout à fait. » 
+PC_AzgalDoor	\"I am a real Azgal. A real DWARF!\" (Take a deep breath.) 	« Je suis un vrai Azgal. Un vrai NAIN ! » (Prendre une profonde inspiration.) 
+PC_AzgalDoor	\"What are you...?\" 	« Qu'est-ce que vous... ? » 
+PC_AzgalDoor	(Scream sing the Azgalian folk song, We Own the Mines. In DWARVISH.) 	(Beugler en chantant la chanson populaire azgalienne, Nous Possédons les Mines. En NAIN.) 
+PC_AzgalDoor	\"<i>Hôr, mina vânner frân djupets sal! Dâr hammare klinga i evig bal! Vi som fôr lânge i môrker rest! Ska nu på ytan bli ârade gâst! Vi âger gruvorna, vi âger stenen! Vârt svett och blod byggde denna scenen! Frân tunnlarnas djup till stadens PORT!\" (Take a deep breath.) \"AZGALENS TID ÂR <shake>KOMMEN KORT</shake>!</i>\" 	« <i>Hôr, mina vânner frân djupets sal! Dâr hammare klinga i evig bal! Vi som fôr lânge i môrker rest! Ska nu på ytan bli ârade gâst! Vi âger gruvorna, vi âger stenen! Vârt svett och blod byggde denna scenen! Frân tunnlarnas djup till stadens PORT ! » (Prendre une profonde inspiration.) « AZGALENS TID ÂR <shake>KOMMEN KORT</shake> !</i> » 
+PC_AzgalDoor	Everyone in the Pillar Cross is now looking in your direction. 	Tout le monde dans la Traversée du Pilier regarde désormais dans votre direction. 
+PC_AzgalDoor	You <i>absolute embarrassment</i>. 	Espèce de <i>honte absolue</i>. 
+PC_AzgalDoor	They love you! 	Ils t'adorent ! 
+PC_AzgalDoor	Snell takes out his fingers from his ears. 	Snell sort les doigts de ses oreilles. 
+PC_AzgalDoor	\"You done?\" 	« T'as fini ? » 
+PC_AzgalDoor	Everyone heard your voice. From the deepest corner of the City Below. 	Tout le monde a entendu ta voix. Jusqu'au plus profond recoin de la Cité d'En Bas. 
+PC_AzgalDoor	As your voice fades from the deepest echo of the earth, Alfoz mumbles out something from beyond the door. 	Tandis que votre voix s'éteint depuis l'écho le plus profond de la terre, Alfoz marmonne quelque chose derrière la porte. 
+PC_AzgalDoor	\"Please... please stop, Mr. Cityman.\" 	« Pitié... pitié arrêtez, M'sieur le Citadin. » 
+PC_AzgalDoor	\"Do you believe me now?\" (Pant.) 	« Vous me croyez maintenant ? » (Haleter.) 
+PC_AzgalDoor	\"Yes. Yes! Please just... stop.\" 	« Oui. Oui ! Mais arrêtez... s'il vous plaît. » 
+PC_AzgalDoor	Your embarrassing display appears to have made him pity you to such a degree that he's willing to let bygones be bygones. 	Ton spectacle embarrassant semble lui avoir inspiré une telle pitié qu'il est prêt à passer l'éponge. 
+PC_AzgalDoor	This groundbreaking approach to social manipulation is truly horrifying. 	Cette approche révolutionnaire de la manipulation sociale est vraiment horrifiante. 
+PC_AzgalDoor	Wouldn't that be convenient? 	Ce serait commode, n'est-ce pas ? 
+PC_AzgalDoor	Oh. That would be... wrong? 	Oh. Ce serait... mal ? 
+PC_AzgalDoor	No force, even esoterical, would be strong enough to manipulate this dwarf into letting you inside. 	Aucune force, même ésotérique, ne serait assez puissante pour manipuler ce nain au point de te laisser entrer. 
+PC_AzgalDoor	Nah. He's not budging. 	Non. Il ne bougera pas. 
+PC_AzgalDoor	\"None of your business.\" 	« Pas vos affaires. » 
+PC_AzgalDoor	\"But... nothing illegal.\" 	« Mais... rien d'illégal. » 
+PC_AzgalDoor	\"Ah. Good! Then I don't have to break inside.\" 	« Ah. Bien ! Alors je n'ai pas à faire effraction. » 
+PC_AzgalDoor	\"I'm not sure I believe you.\" 	« Je ne suis pas sûr de te croire. » 
+PC_AzgalDoor	\"The city might care.\" 	« La cité pourrait s'en soucier. » 
+PC_AzgalDoor	\"Yes! Indeed. Stay away.\" 	« Oui ! En effet. Restez à l'écart. » 
+PC_AzgalDoor	\"Too bad!\" 	« Tant pis ! » 
+PC_AzgalDoor	\"Don't give a shit.\" 	« J'm'en fous. » 
+PC_AzgalDoor	\"Now, fuck off!\" 	« Maintenant, dégagez ! » 
+PC_AzgalDoor	Such an angry dwarf. Like, calm down dude. 	Quel nain en colère. Genre, calmos mec. 
+PC_AzgalDoor	He is righteously mad. 	Il est légitimement furieux. 
+PC_AzgalDoor	He closes the slit. 	Il ferme la fente. 
+PC_AzgalDoor	You hear some yelling from beyond. 	Vous entendez quelques hurlements de l'autre côté. 
+PC_AzgalDoor	Then you hear a click in the door. 	Puis vous entendez un déclic dans la porte. 
+PC_AzgalDoor	It is open. 	Elle est ouverte. 
+PC_AzgalDoor	\"Time to make some friends.\" 	« C'est l'heure de se faire des amis. » 
+PC_AzgalDoor	E-Okay then. 	D'accord 
+PC_AzgalDoor	With a flick of your wrist a faint circle appears before the door. 	D'un coup de poignet, un faible cercle apparaît devant la porte. 
+PC_AzgalDoor	And then... 	Et puis... 
+PC_AzgalDoor	<Shake>CLANG!</Shake> 	<Shake>CLANG !</Shake> 
+PC_AzgalDoor	An overwhelming explosive sound echoes out into Pillar Crossing. 	Un son explosif assourdissant se répercute dans la Traversée du Pilier. 
+PC_AzgalDoor	In an instant the wooden door is flung open, and- 	En un instant, la porte en bois est projetée ouverte, et— 
+PC_AzgalDoor	It stops. Hitting something hard, creating another loud clang. 	Elle s'arrête. Cognant contre quelque chose de dur, produisant un autre clang sonore. 
+PC_AzgalDoor	\"FA-AN...!\" 	« FA-AN... ! » 
+PC_AzgalDoor	The door appears to have hit a dwarf on the other side. 	La porte semble avoir heurté un nain de l'autre côté. 
+PC_AzgalDoor	\"You okay in there?\" 	« Vous allez bien là-dedans ? » 
+PC_AzgalDoor	\"Nice, it's unlocked.\" (Try to enter the apartment.) 	« Cool, c'est déverrouillé. » (Tenter d'entrer dans l'appartement.) 
+PC_AzgalDoor	(Wait.) 	(Attendre.) 
+PC_AzgalDoor	\"I'm-\" 	« Je— » 
+PC_AzgalDoor	The dwarf on the other side grunts, and shoves the door shut again. 	Le nain de l'autre côté grogne, et repousse la porte d'un coup. 
+PC_AzgalDoor	He opens the slit in the door and screams, \"IT HIT MY DAMN TOE!\" 	Il ouvre la fente de la porte et hurle : « ÇA M'A TAPÉ L'ORTEIL, BORDEL ! » 
+PC_AzgalDoor	\"Sorry.\" 	« Désolé. » 
+PC_AzgalDoor	\"Oops.\" 	« Oups. » 
+PC_AzgalDoor	\"So can I come in?\" 	« Alors je peux entrer ? » 
+PC_AzgalDoor	You hear him take a deep breath. 	Vous l'entendez prendre une profonde inspiration. 
+PC_AzgalDoor	\"I. <shake>Hate</shake>. Magic.\" 	« Je. <shake>Déteste</shake>. La magie. » 
+PC_AzgalDoor	\"Maybe we should start over.\" 	« On devrait peut-être recommencer. » 
+Enc_Crossing	Your muscles tense up. 	Tes muscles se tendent. 
+Enc_Crossing	A face of iron appears from nothing. 	Un visage de fer surgit de nulle part. 
+Enc_Crossing	You hear the goblin say something to you. 	Tu entends le gobelin te dire quelque chose. 
+Enc_Crossing	\"Dagger.\" 	« Dague. » 
+Enc_Crossing	He doesn't need to raise his voice. 	Il n'a pas besoin d'élever la voix. 
+Enc_Crossing	You know the gravity of the word. 	Tu connais la gravité du mot. 
+Enc_Crossing	PAIN INCOMING. 	DOULEUR EN APPROCHE. 
+Enc_Crossing	This creature visits death upon your door. FIGHT BACK. 	Cette créature dépose la mort à ta porte. RIPOSTE. 
+Enc_Crossing	This is no time for introspection. Get ready. <b>Now!</b> 	Ce n'est pas le moment de faire de l'introspection. Prépare-toi. <b>Maintenant !</b> 
+Enc_Crossing	IROLL-Roll initiative. 	Lancer l'initiative. 
+Enc_Crossing	Blood pumping. All of you ready for death. 	Le sang qui afflue. Tout en toi prêt pour la mort. 
+Enc_Crossing	Breathing stopped. Fear response begun. 	Respiration arrêtée. Réponse de peur enclenchée. 
+Enc_Crossing	Snell gets ready to act. 	Snell se prépare à agir. 
+Enc_Crossing	His eyes quickly assess the situation. 	Ses yeux évaluent rapidement la situation. 
+Enc_Crossing	The goblin's quick. 	Le gobelin est rapide. 
+Enc_Crossing	The goblin gets a hold of your garments and pulls you aside. 	Le gobelin agrippe tes vêtements et te tire sur le côté. 
+Enc_Crossing	In one fast tug he's managed to move you a bit to the side. Not by much, but... 	D'une traction rapide il a réussi à te déplacer un peu sur le côté. Pas de beaucoup, mais... 
+Enc_Crossing	Is it enough to save you from that blade?! Let's hope so! 	Est-ce suffisant pour te sauver de cette lame ? ! Espérons-le ! 
+Enc_Crossing	The goblin glances at the dagger almost piercing your chest. 	Le gobelin jette un œil à la dague qui transperce presque ta poitrine. 
+Enc_Crossing	He then rushes forth, aiming a decisive blow against the Masked One's left leg. 	Il se précipite alors en avant, visant un coup décisif sur la jambe gauche du Masqué. 
+Enc_Crossing	It hits! Not by much, but enough to stagger the Masked One! 	Touché ! Pas de beaucoup, mais assez pour faire chanceler le Masqué ! 
+Enc_Crossing	The Masked One is ready. 	Le Masqué est prêt. 
+Enc_Crossing	The Masked One immediately rushes forward, the sharp dagger thrust towards its target. 	Le Masqué s'élance immédiatement en avant, la dague acérée pointée vers sa cible. 
+Enc_Crossing	You feel the steel brush up against your chest. 	Tu sens l'acier effleurer ta poitrine. 
+Enc_Crossing	The ring mail underneath is the only thing keeping you from being gashed open. 	L'armure d'anneaux dessous est la seule chose qui t'empêche d'être éventré. 
+Enc_Crossing	The Masked One immediately rushes forward, the sharp dagger thrust towards its target. 	Le Masqué s'élance immédiatement en avant, la dague acérée pointée vers sa cible. 
+Enc_Crossing	Fortunately, the target (you) has been pulled aside by Snell. 	Heureusement, la cible (toi) a été tirée sur le côté par Snell. 
+Enc_Crossing	The dagger misses you by an inch. 	La dague te rate d'un pouce. 
+Enc_Crossing	\"Cleric, wake the fuck up!\" 	« Clerc, réveille-toi bordel ! » 
+Enc_Crossing	This guy wants to kill you. Don't let him! 	Ce type veut te tuer. Ne le laisse pas faire ! 
+Enc_Crossing	Great advice. 	Excellent conseil. 
+Enc_Crossing	You probably can't talk your way out of this one. 	Tu ne pourras sans doute pas t'en sortir par la parole. 
+Enc_Crossing	Can't you ask him to put the blade away? 	Tu ne peux pas lui demander de ranger la lame ? 
+Enc_Crossing	Take a deep breath. Get it together. 	Prends une profonde inspiration. Ressaisis-toi. 
+Enc_Crossing	Heart racing. Death approaching. 	Le cœur s'emballe. La mort approche. 
+Enc_Crossing	<b>You will not die here</b>. 	<b>Tu ne mourras pas ici</b>. 
+Enc_Crossing	Is this some kind of... <i>encounter</i>? 	Serait-ce une sorte de... <i>rencontre</i> ? 
+Enc_Crossing	You better make sure. 	Tu ferais mieux d'en être sûr. 
+Enc_Crossing	FC10 dex-Wait, what's going on here? 	FC10 dex-Attends, qu'est-ce qui se passe ici ? 
+Enc_Crossing	ROLL12 str-Try to counter-attack. 	Tenter une contre-attaque. 
+Enc_Crossing	ROLL8 con-Attempt to regain composure. 	Tenter de retrouver ton sang-froid. 
+Enc_Crossing	Just a glance, and it's clear. 	Un seul coup d'œil, et c'est clair. 
+Enc_Crossing	The goblin is moving. You're already behind. 	Le gobelin bouge. Tu es déjà en retard. 
+Enc_Crossing	\"Anything! <i>Spells</i>!\" the goblin blurts out. 	« N'importe quoi ! Des <i>sorts</i> ! » lâche le gobelin. 
+Enc_Crossing	You are UNDER SIEGE. 	Tu es ASSIÉGÉ. 
+Enc_Crossing	You are being destroyed, actively... 	Tu es en train d'être détruit, activement... 
+Enc_Crossing	Death. Death is going on. 	La mort. La mort est en cours. 
+Enc_Crossing	Instinctual, with your body barely listening to any commands... 	Instinctif, avec ton corps qui écoute à peine les ordres... 
+Enc_Crossing	The Masked One gets a light jab on his arm. 	Le Masqué prend un léger coup sur le bras. 
+Enc_Crossing	Your muscles do not listen. 	Tes muscles n'obéissent pas. 
+Enc_Crossing	Time to go a little nuts. 	C'est le moment de péter un peu les plombs. 
+Enc_Crossing	Please, no. 	S'il te plaît, non. 
+Enc_Crossing	Lash out. (Start flailing.) 	Frappe à l'aveugle. (Commencer à gesticuler.) 
+Enc_Crossing	You send your arms outwards. Just... outwards. 	Tu projettes tes bras vers l'extérieur. Juste... vers l'extérieur. 
+Enc_Crossing	Any direction, really. They start swinging around. 	N'importe quelle direction, en vérité. Ils commencent à balayer l'air. 
+Enc_Crossing	You don't hit anything. But maybe you distracted him. 	Tu ne touches rien. Mais tu l'as peut-être distrait. 
+Enc_Crossing	\"<b>Cleric</b>!\" 	« <b>Clerc</b> ! » 
+Enc_Crossing	A deep breath. You close your eyes. 	Une profonde inspiration. Tu fermes les yeux. 
+Enc_Crossing	It feels like a minute. But with your body's current bio-perception, there is no doubt it has only been a few split seconds. 	On dirait une minute. Mais avec la bio-perception actuelle de ton corps, il n'y a aucun doute que cela n'a duré que quelques fractions de seconde. 
+Enc_Crossing	Now you are ready to strike. 	Maintenant tu es prêt à frapper. 
+Enc_Crossing	Intrusive thoughts and fear spread through your mind the moment you start breathing again. 	Des pensées intrusives et de la peur se répandent dans ton esprit à l'instant où tu recommences à respirer. 
+Enc_Crossing	The heart beats faster. 	Le cœur bat plus vite. 
+Enc_Crossing	You can't control it. You simply must do it. 	Tu ne peux pas le contrôler. Tu dois simplement le faire. 
+Enc_Crossing	The body is in control. 	Le corps a le contrôle. 
+Enc_Crossing	Be polite now. 	Sois poli maintenant. 
+Enc_Crossing	(Reach forward to shake the Masked One's hand.) 	(Tendre la main pour serrer celle du Masqué.) 
+Enc_Crossing	You hold out a hand towards the Masked One. 	Tu tends une main vers le Masqué. 
+Enc_Crossing	What? 	Quoi ? 
+Enc_Crossing	Very nice of you. 	Très gentil de ta part. 
+Enc_Crossing	You smile. 	Tu souris. 
+Enc_Crossing	A polite smile. But really, is it the time? 	Un sourire poli. Mais vraiment, est-ce le moment ? 
+Enc_Crossing	You're wearing a helmet. The bastard can't see it! 	Tu portes un heaume. Le salaud ne peut pas le voir ! 
+Enc_Crossing	You line up the spell, but it misses its target. 	Tu alignes le sort, mais il manque sa cible. 
+Enc_Crossing	After the initial attack, the Masked One goes in for another attempt. 	Après l'attaque initiale, le Masqué se lance dans une nouvelle tentative. 
+Enc_Crossing	DO NOT LET HIM. COUNTER! 	NE LE LAISSE PAS FAIRE. CONTRE ! 
+Enc_Crossing	Your goblin companion jolts his arm to the side, and a thick string appears out of his sleeve. 	Ton compagnon gobelin lance son bras sur le côté, et une corde épaisse surgit de sa manche. 
+Enc_Crossing	It's a long woven chord, with a pouch at its center. 	C'est une longue corde tressée, avec une pochette en son centre. 
+Enc_Crossing	Along with an iron ball. 	Avec une boule de fer. 
+Enc_Crossing	\"<b>YAH!</b>\" 	« <b>YAH !</b> » 
+Enc_Crossing	A loud thud explodes from the lower left hip of the Masked One. 	Un grand bruit sourd éclate au niveau de la hanche gauche inférieure du Masqué. 
+Enc_Crossing	\"Guh...!\" he squeaks. 	« Argh...! » couine-t-il. 
+Enc_Crossing	Direct hit! 	Coup direct ! 
+Enc_Crossing	A surprise! The goblin knows how to break a man with those iron balls! 	Une surprise ! Le gobelin sait comment briser un homme avec ces boules de fer ! 
+Enc_Crossing	Despite the damage taken to his body, you can hear him grunting and pulling himself together. 	Malgré les dégâts subis par son corps, tu peux l'entendre grogner et se ressaisir. 
+Enc_Crossing	Once again the masked one lunges forward. 	Une fois encore le masqué bondit en avant. 
+Enc_Crossing	The dagger now aimed for your vitals. 	La dague visant maintenant tes organes vitaux. 
+Enc_Crossing	This will not break you. 	Cela ne te brisera pas. 
+Enc_Crossing	This could kill you. 	Cela pourrait te tuer. 
+Enc_Crossing	His movements... they are desperate. The masked one does not do this out of devotion. It is fear. 	Ses mouvements... ils sont désespérés. Le masqué ne fait pas cela par dévotion. C'est de la peur. 
+Enc_Crossing	This will be the last attack. A final desperate charge. STAND TALL. 	Ce sera la dernière attaque. Une dernière charge désespérée. TIENS BON. 
+Enc_Crossing	\"Cleric, look out!\" 	« Clerc, attention ! » 
+Enc_Crossing	The dagger hits. 	La dague touche. 
+Enc_Crossing	Right below your neck artery. 	Juste sous ton artère du cou. 
+Enc_Crossing	The shock sends a shiver through your system. 	Le choc envoie un frisson à travers ton système. 
+Enc_Crossing	The complicated shock of both being aware of a sharp object piercing your skin while also not feeling any pain is strange. 	Le choc compliqué d'être à la fois conscient d'un objet tranchant qui te perce la peau tout en ne ressentant aucune douleur est étrange. 
+Enc_Crossing	The pain is muffled by pure adrenaline, and will be kept at bay. 	La douleur est étouffée par pure adrénaline, et sera tenue à distance. 
+Enc_Crossing	For now. 	Pour l'instant. 
+Enc_Crossing	\"Fuck,\" you hear a weak voice behind the mask. 	« Putain », entends-tu d'une voix faible derrière le masque. 
+Enc_Crossing	His breath short and strained. 	Son souffle court et tendu. 
+Enc_Crossing	He is done now. He will escape. 	Il est fini maintenant. Il va s'enfuir. 
+Enc_Crossing	Don't let him get away. 	Ne le laisse pas s'échapper. 
+Enc_Crossing	Now's your chance to turn things around! Just don't think about the stab wound. 	C'est ta chance de renverser la situation ! Pense juste pas à la plaie. 
+Enc_Crossing	You're screwed. Better smile when he gets ya, so you get to be a pretty corpse. 	T'es foutu. Vaut mieux sourire quand il t'aura, comme ça tu seras un joli cadavre. 
+Enc_Crossing	This will not continue for much longer. 	Cela ne durera plus longtemps. 
+Enc_Crossing	This fool will run away. You must stop him. 	Cet idiot va s'enfuir. Tu dois l'arrêter. 
+Enc_Crossing	Retaliate! This bastard is trying to <b>kill you</b>! 	Riposte ! Ce salaud essaie de <b>te tuer</b> ! 
+Enc_Crossing	What about the wound? Are you dying? 	Et la plaie ? Tu es en train de mourir ? 
+Enc_Crossing	You got this. Do whatever comes to mind first, it's probably correct! 	Tu vas y arriver. Fais ce qui te vient à l'esprit en premier, c'est sans doute correct ! 
+Enc_Crossing	The goblin's bullet must have staggered him. This is your chance. 	La balle du gobelin a dû le faire chanceler. C'est ta chance. 
+Enc_Crossing	(Quickly check your wound.) 	(Vérifier rapidement ta blessure.) 
+Enc_Crossing	ROLL18 str-Punch the attacker. 	Frapper l'agresseur d'un coup de poing. 
+Enc_Crossing	ROLL8 int-Come up with an apprehension plan. 	Élaborer un plan d'arrestation. 
+Enc_Crossing	You tap a hand against your neck. 	Tu tapotes une main contre ton cou. 
+Enc_Crossing	The area hurts. But more importantly it is not wet. 	La zone fait mal. Mais plus important encore, elle n'est pas humide. 
+Enc_Crossing	You will live. 	Tu survivras. 
+Enc_Crossing	The blade got caught by the ring mail again! Lucky! 	La lame a encore été arrêtée par l'armure d'anneaux ! Heureusement ! 
+Enc_Crossing	Lucky every time! 	De la chance à chaque fois ! 
+Enc_Crossing	Life. You have your life. Intact. 	La vie. Tu as ta vie. Intacte. 
+Enc_Crossing	Nothing but a minor bruise. You can heal that with your magic easily. 	Rien qu'une légère contusion. Tu peux la soigner facilement avec ta magie. 
+Enc_Crossing	You clench your gloved fist and ram it as hard as you can into the mask. 	Tu serres ton poing ganté et le fonces aussi fort que tu peux dans le masque. 
+Enc_Crossing	You can clearly see it's made out of metal. You knew it would hurt to punch him there. 	Tu peux clairement voir qu'il est fait de métal. Tu savais que ça ferait mal de le frapper là. 
+Enc_Crossing	You also know it hurts more to have an iron plate break your nose. 	Tu sais aussi que ça fait plus mal d'avoir une plaque de fer qui te casse le nez. 
+Enc_Crossing	\"Ugh-\" he mutters and staggers back. 	« Argh — », marmonne-t-il en chancelant en arrière. 
+Enc_Crossing	Your fist flies past the Masked One's iron face causing you to stumble forward. 	Ton poing passe à côté du visage de fer du Masqué te faisant trébucher en avant. 
+Enc_Crossing	It goes right over the goblin's head. 	Il passe juste au-dessus de la tête du gobelin. 
+Enc_Crossing	\"Watch out...!\" 	« Attention... ! » 
+Enc_Crossing	Spending a few seconds actually thinking about it, you realize what this is. 	En prenant quelques secondes pour vraiment y réfléchir, tu réalises ce que c'est. 
+Enc_Crossing	A quick hit. 	Une frappe rapide. 
+Enc_Crossing	This guy will run away. So you should... 	Ce type va s'enfuir. Donc tu devrais... 
+Enc_Crossing	(Prepare.) I'll strike when he tries to get away. 	(Se préparer.) Je frapperai quand il tentera de s'enfuir. 
+Enc_Crossing	Just so. 	Exactement. 
+Enc_Crossing	Spending a few seconds actually thinking about it, you realize what this is. 	En prenant quelques secondes pour vraiment y réfléchir, tu réalises ce que c'est. 
+Enc_Crossing	A misunderstanding. 	Un malentendu. 
+Enc_Crossing	A failure to communicate. Maybe. 	Un défaut de communication. Peut-être. 
+Enc_Crossing	This guy's trying to kill you! You think you can ask him nicely to stop? 	Ce type essaie de te tuer ! Tu crois pouvoir lui demander gentiment d'arrêter ? 
+Enc_Crossing	This guy's trying to kill you! You should ask him nicely to stop. 	Ce type essaie de te tuer ! Tu devrais lui demander gentiment d'arrêter. 
+Enc_Crossing	\"Hey! <b>Stop that</b>!\" 	« Hé ! <b>Arrête ça</b> ! » 
+Enc_Crossing	\"I don't know what you want!\" 	« Je ne sais pas ce que tu veux ! » 
+Enc_Crossing	\"In the name of Urth, <b>I demand</b> you lay down your arms!\" 	« Au nom d'Urth, <b>j'exige</b> que tu déposes les armes ! » 
+Enc_Crossing	The Masked One flinches at your request. 	Le Masqué tressaille à ta requête. 
+Enc_Crossing	\"Think the fucker wants you dead, Cleric,\" Snell says and gets ready for another attack. 	« Je crois que l'enculé veut ta peau, Clerc », dit Snell en se préparant à une autre attaque. 
+Enc_Crossing	The Masked One flinches at your request. 	Le Masqué tressaille à ta requête. 
+Enc_Crossing	You line up the spell, but it misses its target. 	Tu alignes le sort, mais il manque sa cible. 
+Enc_Crossing	You can do this. Just don't let this guy get away. 	Tu peux y arriver. Ne laisse juste pas ce type s'échapper. 
+Enc_Crossing	If he's captured, you can make him talk... 	S'il est capturé, tu pourras le faire parler... 
+Enc_Crossing	The Masked One seeks your death. But not a real fight. 	Le Masqué cherche ta mort. Mais pas un vrai combat. 
+Enc_Crossing	They will not seek further violence this day. 	Ils ne chercheront pas davantage de violence ce jour. 
+Enc_Crossing	Is it over? 	Est-ce terminé ? 
+Enc_Crossing	After an impressive display with his sling, the goblin rushes forward trying to grab one of the Masked One's legs. 	Après une démonstration impressionnante avec sa fronde, le gobelin s'élance en avant pour tenter d'attraper une des jambes du Masqué. 
+Enc_Crossing	\"You're not getting away, asshole!\" 	« Tu vas pas t'échapper, enfoiré ! » 
+Enc_Crossing	The Masked One immediately starts sprinting away. 	Le Masqué se met immédiatement à sprinter pour s'enfuir. 
+Enc_Crossing	Capture the coward! 	Capture le lâche ! 
+Enc_Crossing	A fight that is over need not be fought. 	Un combat qui est terminé n'a pas à être livré. 
+Enc_Crossing	You get an attack of opportunity here. Take it. <b>Take it!</b> 	Tu obtiens une attaque d'opportunité ici. Saisis-la. <b>Saisis-la !</b> 
+Enc_Crossing	ROLL15 dex-Chase him down. 	Le pourchasser. 
+Enc_Crossing	(Let him go.) 	(Le lâcher.) 
+Enc_Crossing	He is dead set on escaping at this point. Maybe you should let him. 	Il est résolument déterminé à s'échapper à ce stade. Peut-être devrais-tu le laisser. 
+Enc_Crossing	NEVER. 	JAMAIS. 
+Enc_Crossing	In the name of URTH, it's time for a righteous <b>GRAPPLE</b>! 	Au nom d'URTH, il est temps pour une <b>EMPOIGNADE</b> vertueuse ! 
+Enc_Crossing	Don't let him get away. You'll never know when this asshole will reappear. 	Ne le laisse pas s'enfuir. Tu ne sais jamais quand cet enfoiré réapparaîtra. 
+Enc_Crossing	The battle is over. Stay and be safe. 	La bataille est terminée. Reste et sois en sécurité. 
+Enc_Crossing	ROLL15 dex-Chase him down. 	Le pourchasser. 
+Enc_Crossing	(Let him go.) 	(Le lâcher.) 
+Enc_Crossing	You rush after the Masked One. 	Tu te précipites à la poursuite du Masqué. 
+Enc_Crossing	Once you manage to grab an arm, it doesn't take long for you to pin him to the ground. 	Une fois que tu réussis à attraper un bras, tu ne mets pas longtemps à le clouer au sol. 
+Enc_Crossing	He's struggling. But your grip is iron! 	Il se débat. Mais ta prise est de fer ! 
+Enc_Crossing	He's struggling. Careful, he might get loose! 	Il se débat. Attention, il pourrait se libérer ! 
+Enc_Crossing	\"Guh...!\" 	« Argh... ! » 
+Enc_Crossing	A tingle. An esoteric tingle. 	Un picotement. Un picotement ésotérique. 
+Enc_Crossing	A tingle. 	Un picotement. 
+Enc_Crossing	Something magical. 	Quelque chose de magique. 
+Enc_Crossing	Magic? Oh. You need to- 	De la magie ? Oh. Tu dois — 
+Enc_Crossing	The goblin rushes after you, yelling, \"Get him!\" 	Le gobelin se précipite derrière toi en hurlant : « Attrape-le ! » 
+Enc_Crossing	Quick, stop him from speaking! Gag him! 	Vite, empêche-le de parler ! Bâillonne-le ! 
+Enc_Crossing	DC11 dex-I can't gag him, he's wearing this damn mask! 	DC11 dex-Je ne peux pas le bâillonner, il porte ce foutu masque ! 
+Enc_Crossing	\"Who are you?!\" 	\"Qui êtes-vous ?!\" 
+Enc_Crossing	\"Who sent you?!\" 	« Qui t'envoie ?! » 
+Enc_Crossing	(Try to grab the mask.) 	(Tenter d'attraper le masque.) 
+Enc_Crossing	As your hand gets close to it, you sense the intense esoteric energy surrounding it. 	Quand ta main s'en approche, tu sens l'intense énergie ésotérique qui l'entoure. 
+Enc_Crossing	\"<i>Ukul. Essami. Uddami.</i>\" 	« <i>Ukul. Essami. Uddami.</i> » 
+Enc_Crossing	In an instant, the Masked One is gone. 	En un instant, le Masqué a disparu. 
+Enc_Crossing	\"What?\" (Look around.) 	« Quoi ? » (Regarder autour.) 
+Enc_Crossing	\"Where did he go, Snell?\" 	« Il est passé où, Snell ? » 
+Enc_Crossing	The goblin looks around. \"Invisible?\" He swings his head around, as if fighting the air. 	Le gobelin regarde autour. « Invisible ? » Il balance la tête en tous sens, comme s'il combattait l'air. 
+Enc_Crossing	\"But you had him? <i>Shit</i>, was that teleportation?\" 	« Mais tu l'avais ? <i>Merde</i>, c'était de la téléportation ? » 
+Enc_Crossing	Most likely. 	Très probablement. 
+Enc_Crossing	Could be. 	Possible. 
+Enc_Crossing	\"There <i>was</i> something magical about him. I think.\" 	« Il y <i>avait</i> quelque chose de magique chez lui. Je crois. » 
+Enc_Crossing	\"Damn it!\" 	« Putain ! » 
+Enc_Crossing	\"What a weirdo.\" 	« Quel taré. » 
+Enc_Crossing	\"Uh...\" 	« Euh... » 
+Enc_Crossing	That's what you <b>get</b>! 	C'est ce que tu <b>récoltes</b> ! 
+Enc_Crossing	None can survive a fall like that. 	Personne ne peut survivre à une chute pareille. 
+Enc_Crossing	Glancing over the side into the darkness reveals... nothing. 	Un coup d'œil par-dessus le côté dans les ténèbres ne révèle... rien. 
+Enc_Crossing	The Masked One is gone. 	Le Masqué a disparu. 
+Enc_Crossing	\"I tripped.\" 	« J'ai trébuché. » 
+Enc_Crossing	\"He tripped.\" 	« Il a trébuché. » 
+Enc_Crossing	\"He deserved it. Right?\" 	« Il l'a mérité. Non ? » 
+Enc_Crossing	\"Sure.\" 	« Bien sûr. » 
+Enc_Crossing	\"Try not to trip on anyone else, will ya?\" 	« Essaie de pas trébucher sur quelqu'un d'autre, hein ? » 
+Enc_Crossing	\"Sure.\" 	« Bien sûr. » 
+Enc_Crossing	\"Let's make that the official story.\" 	« Adoptons ça comme histoire officielle. » 
+Enc_Crossing	\"Sure he did. Sure.\" 	« Bien sûr qu'il l'a fait. Bien sûr. » 
+Enc_Crossing	The goblin leans out over the abyss. 	Le gobelin se penche au-dessus de l'abîme. 
+Enc_Crossing	Taking the opportunity, you watch the Masked One turn and dash away. 	Saisissant l'occasion, tu regardes le Masqué se retourner et s'enfuir à toute vitesse. 
+Enc_Crossing	Within seconds, they disappear within an esoteric visual illusion. 	En quelques secondes, ils disparaissent au sein d'une illusion visuelle ésotérique. 
+Enc_Crossing	Within a few steps, the guy's just... gone. 	En quelques pas, le type est juste... parti. 
+Enc_Crossing	\"Did he just...?\" 	« Il vient juste de... ? » 
+Enc_Crossing	Invisibility. 	Invisibilité. 
+Enc_Crossing	Yes, they disappeared too quickly. It was magic, alright. 	Oui, ils ont disparu trop vite. C'était de la magie, c'est sûr. 
+Enc_Crossing	Coward. 	Lâche. 
+Enc_Crossing	\"Yes, Snell. He ran away. Like a coward.\" 	« Oui, Snell. Il s'est enfui. Comme un lâche. » 
+Enc_Crossing	\"Ballsy move. Show up, stab me, and walk away.\" 	« Coup gonflé. Débarquer, me poignarder, et repartir. » 
+Enc_Crossing	DC11 int-\"An invisibility spell. Yes.\" 	DC11 int-« Un sort d'invisibilité. Oui. » 
+Enc_Crossing	\"I meant the fact that he just disappeared.\" 	« Je voulais dire le fait qu'il vient de disparaître. » 
+Enc_Crossing	\"A bit rude, maybe.\" 	« Un peu impoli, peut-être. » 
+Enc_Crossing	\"Huh.\" 	« Tiens. » 
+Enc_Crossing	\"But that <i>was</i> magic, right?\" 	« Mais c'<i>était</i> de la magie, hein ? » 
+Enc_Crossing	\"Yes. There was something esoteric about this whole encounter.\" 	« Oui. Il y avait quelque chose d'ésotérique dans toute cette rencontre. » 
+Enc_Crossing	\"No. I'm sure we just hallucinated.\" 	« Non. Je suis sûr qu'on a juste halluciné. » 
+Enc_Crossing	\"Collectively?\" 	« Collectivement ? » 
+Enc_Crossing	\"...Maybe not.\" 	« ...Peut-être pas. » 
+Enc_Crossing	\"It's possible.\" 	« C'est possible. » 
+Enc_Crossing	\"Yes.\" 	« Oui. » 
+Enc_Crossing	The goblin observes you for an uncomfortable amount of time before he continues. 	Le gobelin t'observe pendant une durée inconfortable avant de continuer. 
+Enc_Crossing	\"Either case, this is bad.\" 	« Dans tous les cas, c'est mauvais. » 
+Enc_Crossing	The goblin remains in his fighting-stance for a few more seconds. 	Le gobelin reste en position de combat encore quelques secondes. 
+Enc_Crossing	He then relaxes his posture, giving you a nod. 	Puis il relâche sa posture, et te fait un signe de tête. 
+Enc_Crossing	\"<i>Brutal</i>.\" 	« <i>Brutal</i>. » 
+Enc_Crossing	\"I didn't... expect him to just...\" 	« Je ne... m'attendais pas à ce qu'il... » 
+Enc_Crossing	\"Calculated.\" (Give him a thumbs up.) 	« Calculé. » (Lui faire un pouce levé.) 
+Enc_Crossing	\"Don't step on that grease. It'll disappear in a second.\" 	« Marche pas sur cette graisse. Elle va disparaître dans une seconde. » 
+Enc_Crossing	\"Hey, I'm not complaining.\" 	« Hé, je me plains pas. » 
+Enc_Crossing	\"If it works, it works.\" 	« Si ça marche, ça marche. » 
+Enc_Crossing	\"Oh, I won't.\" 	« Oh, je marcherai pas dessus. » 
+Enc_Crossing	The goblin leans out over the abyss, staying several steps away from the colorful substance greased all over the bridge. 	Le gobelin se penche au-dessus de l'abîme, en restant à plusieurs pas de la substance colorée graissée partout sur le pont. 
+Enc_Crossing	\"They <i>really</i> should add guard rails here.\" 	« Ils <i>devraient</i> vraiment ajouter des garde-corps ici. » 
+Enc_Crossing	A <shake>complaint</shake>. You FAIL once more... 	Une <shake>plainte</shake>. Tu ÉCHOUES encore une fois... 
+Enc_Crossing	\"It's cooler without.\" 	« C'est plus cool sans. » 
+Enc_Crossing	\"They really should.\" 	« Ils devraient vraiment. » 
+Enc_Crossing	\"I thought your boss was in charge down here?\" 	« Je croyais que ton patron commandait ici en bas ? » 
+Enc_Crossing	FC10 con-\"Is that my fault? Is that a dig at me? Are you complaining about the way I run this city?\" 	FC10 con-« C'est ma faute ? C'est une pique envers moi ? Tu te plains de la façon dont je dirige cette ville ? » 
+Enc_Crossing	\"Maybe if you've got that- <i>Feather Fall</i>. But for us mortals, this is a <i>splat</i> kind of moment.\" 	« Peut-être si t'as ce truc — <i>Chute Plume</i>. Mais pour nous, mortels, c'est un moment du genre <i>splat</i>. » 
+Enc_Crossing	\"...No?\" 	« ...Non ? » 
+Enc_Crossing	\"Ah. Okay. Sorry, I must have misinterpreted.\" 	« Ah. D'accord. Désolé, j'ai dû mal interpréter. » 
+Enc_Crossing	\"Are you sure? There's no underlying tension or aggression against me you need to get out?\" 	« T'es sûr ? Y a pas une tension ou une agression sous-jacente contre moi qu'il faut que tu sortes ? » 
+Enc_Crossing	\"Uh-huh.\" 	« Mh-hm. » 
+Enc_Crossing	He looks away for a moment before shaking his head and getting back on topic. 	Il détourne le regard un instant avant de secouer la tête et de revenir au sujet. 
+Enc_Crossing	\"...Yes?\" 	« ...Oui ? » 
+Enc_Crossing	\"Sadly, the Old Lady couldn't get the building permits. Otherwise we'd have bolted up this place a long time ago.\" 	« Malheureusement, la Vieille Dame n'a pas pu obtenir les permis de construire. Sinon on aurait sécurisé cet endroit depuis longtemps. » 
+Enc_Crossing	\"But for this one, I guess it worked out. Sort of.\" 	« Mais pour celui-là, j'imagine que ça a marché. En quelque sorte. » 
+Enc_Crossing	The spell hits right on his iron mask, causing him to stumble back - right over the edge. 	Le sort frappe en plein sur son masque de fer, le faisant chanceler en arrière — droit par-dessus le bord. 
+Enc_Crossing	A light shines from the location of your strike, and the emanating aura is so powerful you can feel it several feet away. 	Une lumière brille à l'endroit de ta frappe, et l'aura qui en émane est si puissante que tu la sens à plusieurs pieds de distance. 
+Enc_Crossing	Some type of magical resistance. 	Une sorte de résistance magique. 
+Enc_Crossing	A light shines from the location of your strike, and a strange emanating aura appears around it. 	Une lumière brille à l'endroit de ta frappe, et une étrange aura émanante apparaît autour. 
+Enc_Crossing	That mask... it was a magic item... 	Ce masque... c'était un objet magique... 
+Enc_Crossing	But the damage clearly went through. 	Mais les dégâts sont clairement passés. 
+Enc_Crossing	\"Holy shit.\" 	« Putain de merde. » 
+Enc_Crossing	\"Oh.\" 	« Oh. » 
+Enc_Crossing	\"Shit. Shit.\" 	« Merde. Merde. » 
+Enc_Crossing	\"I should've moved faster. To grab him. Or, uh...\" 	« J'aurais dû bouger plus vite. Pour l'attraper. Ou, euh... » 
+Enc_Crossing	\"I didn't... expect him to just...\" 	« Je ne... m'attendais pas à ce qu'il... » 
+Enc_Crossing	\"Bad guy: defeated.\" (Give him a thumbs up.) 	« Méchant : vaincu. » (Lui faire un pouce levé.) 
+Enc_Crossing	\"You think that fall is deadly?\" 	« Tu crois que cette chute est mortelle ? » 
+Enc_Crossing	\"Hey, I'm not complaining. <i>We're</i> alive.\" 	« Hé, je me plains pas. <i>Nous</i>, on est en vie. » 
+Enc_Crossing	\"Pretty definitively, too.\" 	« Plutôt définitivement, en plus. » 
+Enc_Crossing	\"I guarantee it.\" 	« Je te le garantis. » 
+Enc_Crossing	\"Unless he's got some kind of fall-stopping magic...\" 	« À moins qu'il ait une sorte de magie qui arrête les chutes... » 
+Enc_Crossing	The goblin leans out over the abyss. 	Le gobelin se penche au-dessus de l'abîme. 
+Enc_Crossing	He rubs his chin. 	Il se frotte le menton. 
+Enc_Crossing	\"Someone wants us dead.\" 	« Quelqu'un nous veut morts. » 
+Enc_Crossing	\"Or <i>you</i>, more likely.\" 	« Ou <i>toi</i>, plus probablement. » 
+Enc_Crossing	\"Wait, why me?\" 	« Attends, pourquoi moi ? » 
+Enc_Crossing	\"Whoever sent this asshole must be destroyed.\" 	« Quiconque a envoyé cet enfoiré doit être détruit. » 
+Enc_Crossing	\"We must investigate. Carefully.\" 	« On doit enquêter. Avec précaution. » 
+Enc_Crossing	Snell shrugs. 	Snell hausse les épaules. 
+Enc_Crossing	\"Looked a bit high-tech for a <i>goblin-mugger</i>,\" he says and wipes some dirt off his pants. 	« Ça avait l'air un peu trop sophistiqué pour un <i>brigand-de-gobelins</i> », dit-il en s'essuyant la poussière du pantalon. 
+Enc_Crossing	\"That wasn't a goblin. Was it?\" 	« Ce n'était pas un gobelin. Si ? » 
+Enc_Crossing	\"Yes. Way too esoterically equipped.\" 	« Oui. Beaucoup trop équipé ésotériquement. » 
+Enc_Crossing	\"No. I mean <i>mugger of goblins</i>.\" 	« Non. Je veux dire un <i>brigand qui vole les gobelins</i>. » 
+Enc_Crossing	\"They usually don't bust out creepy esoteric gear when they feel like stabbing someone like me.\" 	« Ils sortent pas l'attirail ésotérique flippant en général quand ils ont envie de poignarder quelqu'un comme moi. » 
+Enc_Crossing	\"For sure.\" 	« Carrément. » 
+Enc_Crossing	\"And I didn't exactly get targeted either. So...\" 	« Et c'est pas vraiment moi qu'on a visé non plus. Donc... » 
+Enc_Crossing	\"I think you've got a magical maniac after you. Sorry to say.\" 	« Je crois que t'as un maniaque magique aux trousses. Désolé de te le dire. » 
+Enc_Crossing	\"Retribution? I like it.\" 	« Représailles ? J'aime bien. » 
+Enc_Crossing	Don't use 'asshole' and 'destroyed' in the same sentence please. 	N'utilise pas « enfoiré » et « détruit » dans la même phrase s'il te plaît. 
+Enc_Crossing	You're getting flashbacks. 	Tu as des flashbacks. 
+Enc_Crossing	Ah, yes. 	Ah, oui. 
+Enc_Crossing	The pancake incident. 	L'incident des crêpes. 
+Enc_Crossing	He sighs. \"Yep. Another one on the list.\" 	Il soupire. « Ouaip. Un de plus sur la liste. » 
+Enc_Crossing	\"I'm not one to act all paranoid, but...\" 	« Je suis pas du genre paranoïaque, mais... » 
+Enc_Crossing	\"I don't think we're accidentally pissing off a bunch of masked rogues around every corner.\" 	« Je pense pas qu'on emmerde par hasard une bande de voyous masqués à tous les coins de rue. » 
+Enc_Crossing	\"I don't know. Maybe it's fashionable?\" 	« J'sais pas. C'est peut-être à la mode ? » 
+Enc_Crossing	\"Whoever is sending these assholes must be destroyed.\" 	« Quiconque envoie ces enfoirés doit être détruit. » 
+Enc_Crossing	\"We must investigate. Carefully.\" 	« On doit enquêter. Avec précaution. » 
+Enc_Crossing	\"To kill clerics? I sure hope not, it was hard enough to get you here.\" 	« Pour tuer des clercs ? J'espère bien que non, c'était déjà assez dur de te faire venir ici. » 
+Enc_Crossing	\"Retribution? I like it.\" 	« Représailles ? J'aime bien. » 
+Enc_Crossing	He sighs. \"Yep. Another one on the list.\" 	Il soupire. « Ouaip. Un de plus sur la liste. » 
+Enc_Crossing	He takes a deep breath and checks himself for wounds. 	Il prend une profonde inspiration et se vérifie pour des blessures. 
+Enc_Crossing	\"No one even got hurt. Ain't that a wonder.\" 	« Personne a même été blessé. C'est pas un miracle ça. » 
+Enc_Crossing	Adrenaline wearing off. Beware. 	L'adrénaline retombe. Méfie-toi. 
+Enc_Crossing	Everything is a bit wobbly. Oh boy... 	Tout est un peu flageolant. Oh là là... 
+Enc_Crossing	Everything is a bit wobbly. Not from blood loss, but... 	Tout est un peu flageolant. Pas à cause d'une perte de sang, mais... 
+Enc_Crossing	Stand still. This is embarrassing. 	Reste immobile. C'est gênant. 
+Enc_Crossing	\"Cleric. Do you need any...\" 	« Clerc. T'as besoin d'un... » 
+Enc_Crossing	He motions towards his neck. 	Il fait un geste vers son cou. 
+Enc_Crossing	The location in which you were stabbed. 	L'endroit où tu as été poignardé. 
+Enc_Crossing	Is he asking for kisses? 	Est-ce qu'il demande des bisous ? 
+Enc_Crossing	That could help. 	Cela pourrait aider. 
+Enc_Crossing	FC5 cha-\"Kisses?\" (Try to stay conscious.) 	FC5 cha-« Des bisous ? » (Tenter de rester conscient.) 
+Enc_Crossing	\"...Sorry?\" 	« ...Pardon ? » 
+Enc_Crossing	\"I'm asking: <i>Are you bleeding to death</i>?\" 	« Je te demande : <i>Es-tu en train de te vider de ton sang</i> ? » 
+Enc_Crossing	You press a hand against your neck. Right where you felt the blade hit. 	Tu presses une main contre ton cou. Juste où tu as senti la lame frapper. 
+Enc_Crossing	The area hurts. But more importantly it is not wet. 	La zone fait mal. Mais plus important encore, elle n'est pas humide. 
+Enc_Crossing	You will live. 	Tu survivras. 
+Enc_Crossing	The blade got caught by the ring mail again! Lucky! 	La lame a encore été arrêtée par l'armure d'anneaux ! Heureusement ! 
+Enc_Crossing	Lucky every time! 	De la chance à chaque fois ! 
+Enc_Crossing	Life. You have your life. Intact. 	La vie. Tu as ta vie. Intacte. 
+Enc_Crossing	Nothing but a minor bruise. You can heal that with your magic easily. 	Rien qu'une légère contusion. Tu peux la soigner facilement avec ta magie. 
+Enc_Crossing	\"I'm fine. He got my armor.\" 	« Je vais bien. Il a touché mon armure. » 
+Enc_Crossing	\"Really?\" 	« Vraiment ? » 
+Enc_Crossing	\"Yep.\" 	« Eh ouais. » 
+Enc_Crossing	Adrenaline is fading. You feel dazed. 	L'adrénaline retombe. Tu te sens hébété. 
+Enc_Crossing	\"Aren't you lucky,\" he says, taking a deep breath. 	« T'as de la chance, toi », dit-il en prenant une profonde inspiration. 
+Enc_Crossing	\"Guess we're gonna need it, if someone's sending assassins after us.\" 	« J'imagine qu'on va en avoir besoin, si quelqu'un envoie des assassins après nous. » 
+Enc_Crossing	\"Even incompetent ones like that.\" 	« Même des incompétents comme celui-là. » 
+Enc_Crossing	Why would an assassin be after you? This warrants an investigation... 	Pourquoi un assassin serait-il à tes trousses ? Cela mérite une enquête... 
+Enc_Crossing	This bloodlust is something deeper. A devotion. What have you disturbed? 	Cette soif de sang est quelque chose de plus profond. Une dévotion. Qu'as-tu perturbé ? 
+Enc_Crossing	\"Who do you think actually sent that guy?\" 	« Qui crois-tu qui a vraiment envoyé ce type ? » 
+Enc_Crossing	\"That mask was <i>weird</i>.\" 	« Ce masque était <i>bizarre</i>. » 
+Enc_Crossing	\"Why attack us?\" 	« Pourquoi nous attaquer ? » 
+Enc_Crossing	(Glance down into the abyss and move on.) 	(Jeter un œil dans l'abîme et avancer.) 
+Enc_Crossing	\"No clue.\" 	« Aucune idée. » 
+Enc_Crossing	Truth. The goblin knows nothing. 	Vérité. Le gobelin ne sait rien. 
+Enc_Crossing	\"But let's hope they're as bad at their job as that guy was at his.\" 	« Mais espérons qu'ils soient aussi mauvais à leur boulot que ce type l'était au sien. » 
+Enc_Crossing	Yeah, this assassin was really ass. 	Ouais, cet assassin était vraiment nul. 
+Enc_Crossing	\"Yup. Gives me the creeps just thinking about it.\" 	« Ouaip. J'en ai des frissons rien que d'y penser. » 
+Enc_Crossing	\"Looked like some old ceremonial thing.\" 	« On aurait dit un vieux truc cérémoniel. » 
+Enc_Crossing	Religious rites. Sacrifices. Cults. 	Rites religieux. Sacrifices. Cultes. 
+Enc_Crossing	Couldn't be. The city doesn't allow that foul nonsense. 	Ça ne se peut pas. La ville ne permet pas ces immondes inepties. 
+Enc_Crossing	\"Cultists?\" 	« Des cultistes ? » 
+Enc_Crossing	\"The mask is surely just for show.\" 	« Le masque n'est sûrement que pour le spectacle. » 
+Enc_Crossing	\"Lone actor?\" 	« Un acteur isolé ? » 
+Enc_Crossing	\"These days, evil cults aren't a thing in Norvik.\" 	« De nos jours, les cultes maléfiques n'existent pas à Norvik. » 
+Enc_Crossing	He gives you a snide smirk. \"If you believe the Magistrates.\" 	Il te lance un sourire narquois. « Si on en croit les Magistrats. » 
+Enc_Crossing	He is implying there is a world underneath the city the City Officials do not know or care for. 	Il sous-entend qu'il existe un monde sous la ville dont les Représentants de la Ville n'ont ni connaissance ni souci. 
+Enc_Crossing	The City under the City... love that place. 	La Cité sous la Cité... j'adore cet endroit. 
+Enc_Crossing	\"Hmm. Wouldn't be the first time some fanatic plays pretend.\" 	« Hmm. Ce serait pas la première fois qu'un fanatique joue à faire semblant. » 
+Enc_Crossing	\"Cultists aren't exactly common these days, but...\" 	« Les cultistes ne sont pas exactement courants de nos jours, mais... » 
+Enc_Crossing	\"Wouldn't that be nice. I'm getting cult vibes.\" 	« Ce serait pas chouette ça. J'ai des vibrations cultistes. » 
+Enc_Crossing	\"Could also be connected with something <i>below</i>...\" 	« Ça pourrait aussi être lié à quelque chose d'<i>en dessous</i>... » 
+Enc_Crossing	He snaps his fingers. 	Il claque des doigts. 
+Enc_Crossing	\"We should find a scholar to ask. I heard there's one on Waterlane- halfling called <i>Snurre</i>.\" 	« On devrait trouver un érudit à qui demander. J'ai entendu dire qu'il y en a un sur Waterlane — un halfelin appelé <i>Snurre</i>. » 
+Enc_Crossing	\"If we head by, I could have a chat with him.\" 	« Si on passe par là, je pourrais discuter avec lui. » 
+Enc_Crossing	\"We should go ask <i>Snurre</i>. Your new scholarly friend.\" 	« On devrait aller demander à <i>Snurre</i>. Ton nouvel ami érudit. » 
+Enc_Crossing	\"He might know a thing or two about cults.\" 	« Il pourrait savoir une chose ou deux sur les cultes. » 
+Enc_Crossing	\"Great question.\" 	« Excellente question. » 
+Enc_Crossing	\"My initial guess? An enemy of Lady Sageleaf.\" 	« Mon premier pari ? Un ennemi de Dame Sageleaf. » 
+Enc_Crossing	He furrows his brow. \"Won't let an insult like that slide.\" 	Il fronce les sourcils. « On laissera pas passer une insulte pareille. » 
+Enc_Crossing	Perhaps it has to do with your supposed tumble into the river? Surely it must. 	Peut-être que cela a à voir avec ta supposée chute dans la rivière ? Cela doit sûrement être le cas. 
+Enc_Crossing	The goblin's problem, or yours? 	Le problème du gobelin, ou le tien ? 
+Enc_Crossing	If you've picked up enemies, they must all be crushed. 	Si tu t'es fait des ennemis, ils doivent tous être écrasés. 
+Enc_Crossing	You're probably just stepping on some toes with this whole tea shop business... 	Tu marches sans doute juste sur quelques pieds avec toute cette affaire de boutique de thé... 
+Enc_Crossing	Tread lightly. This just got a lot more complicated. 	Marche à pas légers. Cela vient de devenir bien plus compliqué. 
+Enc_Crossing	Death follows you, <b>Cleric</b>. 	La Mort te suit, <b>Clerc</b>. 
+Enc_Crossing	The ambient groan of Norvik's red rocks echoes below. 	Le grondement ambiant des rochers rouges de Norvik résonne en dessous. 
+Enc_Crossing	The river coursing around you. Hugging you. 	La rivière qui coule autour de toi. Qui t'enlace. 
+Enc_Crossing	(Look down.) 	(Regarder en bas.) 
+Enc_Crossing	You glare into the darkness. 	Tu fusilles les ténèbres du regard. 
+Enc_Crossing	But you will see nothing down there. 	Mais tu ne verras rien en bas. 
+Enc_Crossing	And as you do, you almost feel like something... 	Et en le faisant, tu as presque l'impression que quelque chose... 
+Enc_Crossing	Your companion clicks his tongue. \"Fuck this.\" 	Ton compagnon claque la langue. « Au diable tout ça. » 
+Enc_Crossing	\"They can't get away with that. Not on our streets.\" 	« Ils peuvent pas s'en tirer comme ça. Pas dans nos rues. » 
+Enc_Crossing	DC18 wis-\"There's something down there, Snell.\" 	DC18 wis-« Il y a quelque chose en bas, Snell. » 
+Enc_Crossing	(Look into his eyes. Then give him a nod.) 	(Plonger dans ses yeux. Puis lui adresser un signe de tête.) 
+Enc_Crossing	\"I didn't sign up for this.\" 	« Je m'étais pas engagé pour ça. » 
+Enc_Crossing	He joins you in staring into the abyss. 	Il te rejoint à fixer l'abîme. 
+Enc_Crossing	Then he nods. \"I know.\" 	Puis il acquiesce. « Je sais. » 
+Enc_Crossing	He nods back. 	Il hoche la tête en retour. 
+Enc_Crossing	\"You think I did?\" 	« Tu crois que moi oui ? » 
+Enc_Crossing	He scoffs. \"Sometimes we do shit not because it's fair.\" 	Il ricane. « Parfois on fait des trucs pas parce que c'est juste. » 
+Enc_Crossing	\"We do it because someone has to.\" 	« On les fait parce qu'il faut bien que quelqu'un le fasse. » 
+Enc_Crossing	You stood your ground. 	Tu as tenu bon. 
+Enc_Crossing	Against the odds. That is commendable. 	Contre vents et marées. C'est louable. 
+Enc_Crossing	Somehow, you live to tell the tale. 	D'une manière ou d'une autre, tu survis pour raconter l'histoire. 
+Enc_Crossing	The goblin is more competent than you imagined. You have a feeling this will be a fruitful partnership - if you can get on his good side. 	Le gobelin est plus compétent que tu ne l'imaginais. Tu as le sentiment que ce sera un partenariat fructueux — si tu peux te mettre dans ses bonnes grâces. 
+Enc_Crossing	This attack was coordinated. Not very effectively, but nonetheless planned. There will be more coming. 	Cette attaque était coordonnée. Pas très efficacement, mais planifiée néanmoins. Il y en aura d'autres. 
+Enc_Crossing	The mask. It has a meaning. You need to uncover it. 	Le masque. Il a un sens. Tu dois le découvrir. 
+Enc_Crossing	You moved fast, and that kept you alive. Stay alert, and you'll live through this assignment. Hells, maybe you'll even thrive! 	Tu as bougé vite, et cela t'a maintenu en vie. Reste alerte, et tu survivras à cette mission. Que diable, peut-être que tu vas même prospérer ! 
+Enc_Crossing	Snell checks around the Crossing, a weary scowl on his face. 	Snell inspecte les alentours de la Croisée, une mine renfrognée et lasse sur le visage. 
+Enc_Crossing	\"Grease is cleared. Let's get outta here.\" 	« La graisse est partie. On se tire d'ici. » 
+Enc_Crossing	\"Let's get outta here.\" 	« On se tire d'ici. » 
+Enc_Crossing	E-\"Yeah.\" 	« Ouais. » 
+PC_GhostDoor	A beaming light emanates from a hole in the wall. 	Une lumière rayonnante émane d'un trou dans le mur. 
+PC_GhostDoor	One of the apartment doors has turned into something not-so normal. 	L'une des portes d'appartement s'est transformée en quelque chose de pas vraiment normal. 
+PC_GhostDoor	\"Cleric.\" 	« Clerc. » 
+PC_GhostDoor	\"Do not approach that thing.\" 	« N'approche pas ce truc. » 
+PC_GhostDoor	\"That is some MAJOR esoteric bullshit.\" 	« C'est de la GROSSE connerie ésotérique. » 
+PC_GhostDoor	\"Meek feel... strange-pull from door. Old magic. Very old.\" 	« Meek ressentir... étrange-attraction venant de la porte. Vieille magie. Très vieille. » 
+PC_GhostDoor	(Touch the door.) 	(Toucher la porte.) 
+PC_GhostDoor	(Leave the door alone.) 	(Laisser la porte tranquille.) 
+PC_GhostDoor	\"Do not.\" 	« Non. » 
+PC_GhostDoor	\"<b>No</b>.\" 	« <b>Non</b>. » 
+PC_GhostDoor	A sting of radiant energy fills your senses. 	Une piqûre d'énergie radieuse emplit tes sens. 
+PC_GhostDoor	You are... burning. 	Tu es... en train de brûler. 
+PC_GhostDoor	ROLL12 con-Survive. 	Survivre. 
+PC_GhostDoor	You resist the pain. The URGE. 	Tu résistes à la douleur. À la PULSION. 
+PC_GhostDoor	And all you see... 	Et tout ce que tu vois... 
+PC_GhostDoor	Is light. And... 	C'est la lumière. Et... 
+PC_GhostDoor	A door. 	Une porte. 
+PC_GhostDoor	(Go through the door.) 	(Passer par la porte.) 
+PC_GhostDoor	You FEEL... 	Tu SENS... 
+PC_GhostDoor	As the pulsating DEATH fades from your bones and skin. 	Tandis que la MORT pulsante s'efface de tes os et de ta peau. 
+PC_GhostDoor	You step outside. 	Tu sors. 
+PC_GhostDoor	The door closes behind you. 	La porte se ferme derrière toi. 
+PC_GhostDoor	Snell stands beside you, muttering to himself. 	Snell se tient à côté de toi, marmonnant pour lui-même. 
+PC_GhostDoor	\"<i>I don't want to... go. It's not good. It's not a good idea. It's...</i>\" 	« <i>Je veux pas... y aller. C'est pas bien. C'est pas une bonne idée. C'est...</i> » 
+PC_GhostDoor	He shakes his head, then looks around. 	Il secoue la tête, puis regarde autour de lui. 
+PC_GhostDoor	\"....What happened?\" 	« ...Que s'est-il passé ? » 
+PC_GhostDoor	(Just groan.) 	(Juste grogner.) 
+PC_GhostDoor	(Look around.) 	(Regarder autour.) 
+PC_GhostDoor	The door behind you is now normal. It is not glowing, magical, or anything like that. 	La porte derrière toi est désormais normale. Elle ne brille pas, n'est pas magique, ni rien de tel. 
+PC_GhostDoor	The door behind you is now normal. It must have been a temporary esoteric pocket of some kind. 	La porte derrière toi est désormais normale. Ce devait être une sorte de poche ésotérique temporaire. 
+PC_GhostDoor	A time-dilation pocket? 	Une poche de dilatation temporelle ? 
+PC_GhostDoor	Or perhaps some type of portal to the positive realm. 	Ou peut-être une sorte de portail vers le royaume positif. 
+PC_GhostDoor	Either way, you're lucky you got out. 	Dans tous les cas, tu as eu de la chance de t'en sortir. 
+PC_GhostDoor	\"Ugh...\" 	« Ugh... » 
+PC_GhostDoor	\"I feel... <i>weird</i>. Not terrible? But...\" 	« Je me sens... <i>bizarre</i>. Pas mal ? Mais... » 
+PC_GhostDoor	(Feel how you're feeling.) 	(Ressentir ce que tu ressens.) 
+PC_GhostDoor	Your body is REFRESHED. 	Ton corps est REVIGORÉ. 
+PC_GhostDoor	\"What, what time is it?\" He looks at his tiny pocket watch. 	« Quoi, quelle heure est-il ? » Il regarde sa minuscule montre de poche. 
+PC_GhostDoor	\"<b>Holy shit</b>. We lost <shake>SIX hours</shake>!\" 	« <b>Putain de merde</b>. On a perdu <shake>SIX heures</shake> ! » 
+PC_GhostDoor	\"Oh.\" 	« Oh. » 
+PC_GhostDoor	\"Yeah. <i>Oh</i>, indeed.\" 	« Ouais. <i>Oh</i>, en effet. » 
+PC_GhostDoor	\"Esoteric gods-be-damned BULLSHIT. That's what it is!\" 	« De la CONNERIE ésotérique de mes deux. Voilà ce que c'est ! » 
+PC_GhostDoor	\"I feel pretty good though.\" 	« Je me sens plutôt bien, ceci dit. » 
+PC_GhostDoor	\"Was a kind of nice door. Magic healing door.\" 	« Une porte plutôt sympa. Une porte magique de guérison. » 
+PC_GhostDoor	\"My bad.\" 	« Ma faute. » 
+PC_GhostDoor	The goblin grumbles something. 	Le gobelin grommelle quelque chose. 
+PC_GhostDoor	\"Let's just go.\" 	« Allons-y, simplement. » 
+PC_GhostDoor	\"You don't want to go sleep?\" 	« Tu ne veux pas aller dormir ? » 
+PC_GhostDoor	\"No. Because the kidnapping gods-be-damned GLOWING DOOR made me feel surprisingly refreshed. Is that what you want to hear?\" 	« Non. Parce que cette satanée PORTE LUMINEUSE kidnappeuse m'a étonnamment revigoré. C'est ce que tu veux entendre ? » 
+PC_GhostDoor	\"Let's go. We've got time to catch up on.\" 	« Allons-y. On a du temps à rattraper. » 
+PC_GhostDoor	(Nod and leave.) 	(Acquiescer et partir.) 
+PC_Frey	The girl looks across the chasm. 	La fille regarde de l'autre côté du gouffre. 
+PC_Frey	Hm. She is pretending to not look at you. 	Hm. Elle fait semblant de ne pas te regarder. 
+PC_Frey	A noblewoman? That's a pretty expensive dress... 	Une noble ? C'est une robe plutôt coûteuse... 
+PC_Frey	What's she doing down here? 	Qu'est-ce qu'elle fait ici en bas ? 
+PC_Frey	\"Citizen. Identify yourself.\" 	« Citoyenne. Identifiez-vous. » 
+PC_Frey	(Clear your throat, loudly.) 	(Te racler la gorge, bruyamment.) 
+PC_Frey	E-...I should just go. 	...Je devrais juste partir. 
+PC_Frey	She does a double-take. 	Elle fait un double regard. 
+PC_Frey	A fake-take. 	Un faux double regard. 
+PC_Frey	She slowly turns her head towards you. 	Elle tourne lentement la tête vers toi. 
+PC_Frey	\"What?\" 	« Quoi ? » 
+PC_Frey	DC10 wis-\"Why were you looking at me?\" 	DC10 wis-« Pourquoi me regardiez-vous ? » 
+PC_Frey	\"Your name?\" 	« Votre nom ? » 
+PC_Frey	\"You are loitering here. Why?\" 	« Vous flânez ici. Pourquoi ? » 
+PC_Frey	\"Where are we?\" 	« Où sommes-nous ? » 
+PC_Frey	\"What's your favorite color?\" 	« Quelle est votre couleur préférée ? » 
+PC_Frey	\"What do you think I'm going to ask you?\" 	« Que pensez-vous que je vais vous demander ? » 
+PC_Frey	\"I wasn't.\" 	« Je ne regardais pas. » 
+PC_Frey	She's denying it very quickly. That means she's lying. Maybe. 	Elle nie très vite. Ce qui veut dire qu'elle ment. Peut-être. 
+PC_Frey	\"Nah. Go away.\" 	« Nan. Allez-vous-en. » 
+PC_Frey	\"I'm not doing this. Go away.\" 	« Je ne joue pas à ce jeu. Allez-vous-en. » 
+PC_Frey	\"I- no. Go away.\" 	« Je- non. Allez-vous-en. » 
+PC_Frey	\"What? No. Go away.\" 	« Quoi ? Non. Allez-vous-en. » 
+PC_Frey	\"Don't know. Don't care.\" 	« Je sais pas. Je m'en fiche. » 
+PC_Frey	She looks uninterested. 	Elle a l'air désintéressée. 
+PC_Frey	\"Come on. Guess.\" 	« Allez. Devinez. » 
+PC_Frey	\"I was actually going to ask something very interesting.\" 	« J'allais en fait demander quelque chose de très intéressant. » 
+PC_Frey	\"Nah. Go away.\" 	« Nan. Allez-vous-en. » 
+PC_Frey	\"Sure. Still don't care.\" 	« Bien sûr. Je m'en fiche toujours. » 
+PC_Frey	How rude. Cool. 	Quelle impolitesse. Cool. 
+PC_Frey	How rude of her. Makes you mad. Tell her she's stupid. 	Quelle impolitesse de sa part. Ça te met en colère. Dis-lui qu'elle est stupide. 
+PC_Frey	Her bowels are filled with black tar and the death of trust. 	Ses entrailles sont pleines de goudron noir et de la mort de la confiance. 
+PC_Frey	By the gods. That's horrific. Why do you feel that way? 	Par les dieux. C'est atroce. Pourquoi ressens-tu cela ? 
+PC_Frey	Bowel instinct. 	Instinct des tripes. 
+PC_Frey	FC8 cha-\"You're stupid.\" 	FC8 cha-« Vous êtes stupide. » 
+PC_Frey	DC16 con-\"Bowel instinct...?\" 	DC16 con-« Instinct des tripes... ? » 
+PC_Frey	\"You're very rude.\" 	« Vous êtes très impolie. » 
+PC_Frey	\"What?\" 	« Quoi ? » 
+PC_Frey	\"<i>You're</i> stupid.\" 	« <i>C'est vous</i> qui êtes stupide. » 
+PC_Frey	She got you there. 	Elle t'a eu sur ce coup-là. 
+PC_Frey	She does look at you now, with a disgusted expression. 	Elle te regarde, désormais, avec une expression de dégoût. 
+PC_Frey	\"Did I say that out loud?\" 	« Je l'ai dit à voix haute ? » 
+PC_Frey	\"I take it back. I take it back!\" 	« Je le retire. Je le retire ! » 
+PC_Frey	\"Ew.\" 	« Beurk. » 
+PC_Frey	\"Go away.\" 	« Allez-vous-en. » 
+PC_Frey	\"Sure. Now go away.\" 	« Bien sûr. Maintenant allez-vous-en. » 
+PC_Frey	She mutters something under her breath as you approach. 	Elle marmonne quelque chose dans sa barbe quand tu t'approches. 
+PC_Frey	It's low, but she's saying, 'Not again.' 	C'est bas, mais elle dit : « Pas encore. » 
+PC_Frey	\"What do you know about the tea shop, mysterious woman?\" 	« Que savez-vous sur le salon de thé, mystérieuse femme ? » 
+PC_Frey	\"I want to ask you some personal questions, but I have a feeling you won't respond in any meaningful way.\" 	« Je veux vous poser quelques questions personnelles, mais j'ai le sentiment que vous ne répondrez rien de significatif. » 
+PC_Frey	E-\"That's all for now. Thank you, citizen.\" 	\"C'est tout pour l'instant. Merci, citoyen.\" 
+PC_Frey	\"What?\" 	« Quoi ? » 
+PC_Frey	Her voice is shaky. 	Sa voix est tremblante. 
+PC_Frey	\"That's not- I-\" 	« Ce n'est pas- je- » 
+PC_Frey	She rolls her eyes. 	Elle lève les yeux au ciel. 
+PC_Frey	\"It exploded.\" 	« Il a explosé. » 
+PC_Frey	\"Everyone keeps saying that.\" 	« Tout le monde n'arrête pas de dire ça. » 
+PC_Frey	\"Why do you say that?\" 	« Pourquoi dites-vous ça ? » 
+PC_Frey	\"<b>LIES!</b>\" 	« <b>MENSONGES !</b> » 
+PC_Frey	\"Duh.\" 	\"Bah ouais.\" 
+PC_Frey	\"Have you seen it?\" 	« L'avez-vous vu ? » 
+PC_Frey	She flinches from your outburst. 	Elle tressaille à ton éclat. 
+PC_Frey	\"I get the feeling you don't want to talk about it.\" 	« J'ai le sentiment que vous ne voulez pas en parler. » 
+PC_Frey	\"Okay, fair.\" 	« Bon, c'est juste. » 
+PC_Frey	\"Don't have anything to say.\" 	« Rien à en dire. » 
+PC_Frey	\"Yeah? Will you leave me alone now?\" 	« Ouais ? Vous allez me laisser tranquille maintenant ? » 
+PC_Frey	\"No.\" 	« Non. » 
+PC_Frey	E-\"Yes.\" 	« Oui. » 
+PC_Frey	She turns to look out at the chasm again. 	Elle se tourne pour regarder à nouveau le gouffre. 
+PC_Frey	\"Don't care for it.\" 	« Je m'en fiche. » 
+PC_Frey	\"The <i>election</i>?\" 	« L'<i>élection</i> ? » 
+PC_Frey	\"Democracy?\" 	« La démocratie ? » 
+PC_Frey	\"Your own vote?\" 	« Votre propre vote ? » 
+PC_Frey	\"Good choice. I don't care for it either. You see, I'm apolitical, and that means I don't vote in elections like this because I'm above any sort of political affiliations.\" 	« Bon choix. Moi non plus. Voyez-vous, je suis apolitique, ce qui signifie que je ne vote pas à des élections comme celle-ci parce que je suis au-dessus de toute affiliation politique. » 
+PC_Frey	\"I don't- it doesn't matter.\" 	« Je- ça n'a pas d'importance. » 
+PC_Frey	\"And I wouldn't tell you if it did.\" 	« Et je ne vous le dirais pas si c'en avait. » 
+PC_Frey	\"Well, I'm voting for the Party of Norvik.\" 	« Bon, je vote pour le Parti de Norvik. » 
+PC_Frey	\"Cool. Anyway, I'm a Freestrider.\" 	« Cool. Enfin bref, je suis Franc-Marcheur. » 
+PC_Frey	\"I'll throw my lot in for the Azgalists. They're cool.\" 	« Je miserai sur les Azgalistes. Ils sont sympas. » 
+PC_Frey	DC11 int-\"I see. You're also voting for me.\" 	DC11 int-« Je vois. Vous votez aussi pour moi. » 
+PC_Frey	DC17 con-\"The Agrarian would be great, if they still existed.\" 	DC17 con-« Les Agrariens seraient parfaits, s'ils existaient encore. » 
+PC_Frey	\"I agree with you. I'm apolitical, on good days.\" 	« Je suis d'accord avec vous. Je suis apolitique, les bons jours. » 
+PC_Frey	\"What? No?\" 	« Quoi ? Non ? » 
+PC_Frey	\"Fuck off. You're not even on the ballot!\" 	« Allez vous faire foutre. Vous n'êtes même pas sur le bulletin ! » 
+PC_Frey	\"Just paint a picture of me on the voting card. Make me look real good.\" 	« Peignez juste un portrait de moi sur la carte d'électeur. Faites-moi un beau portrait. » 
+PC_Frey	\"Are you sure?\" (Smirk inside your helmet.) 	« Vous en êtes sûre ? » (Sourire en coin sous ton heaume.) 
+PC_Frey	That's great. Manipulate her into thinking she's crazy. 	C'est génial. Manipule-la pour qu'elle pense qu'elle est folle. 
+PC_Frey	\"Fuck. Off.\" 	« Allez. Vous faire foutre. » 
+PC_Frey	\"Oh, okay. I don't care.\" 	« Oh, d'accord. Je m'en fiche. » 
+PC_Frey	She's a hard nut to crack, this one. 	C'est une noix dure à craquer, celle-là. 
+PC_Frey	\"Smart. Can you go now?\" 	« Intelligent. Pouvez-vous partir maintenant ? » 
+PC_Frey	You attempt to cast the spell, but... 	Tu tentes de lancer le sort, mais... 
+PC_Frey	\"What...?\" 	« Quoi...? » 
+PC_Frey	She resists it. 	Elle lui résiste. 
+PC_Frey	Who the hell is this? 	Qui diable est cette personne ? 
+PC_Frey	\"Did you just try to...!?\" 	« Vous venez d'essayer de... !? » 
+PC_Frey	Her voice is shaky. 	Sa voix est tremblante. 
+PC_Frey	\"You... you...!\" 	« Vous... vous... ! » 
+PC_Frey	\"What? I...\" 	« Quoi ? Je... » 
+PC_Frey	\"No, I'm not.\" 	\"Non, je le suis pas.\" 
+PC_Frey	\"No, you are. I'm sure of it.\" 	« Si, c'est le cas. J'en suis certain. » 
+PC_Frey	She glares at you. 	Elle vous foudroie du regard. 
+PC_Frey	\"And how exactly would you know that?\" 	« Et comment, exactement, le sauriez-vous ? » 
+PC_Frey	\"I can see it on you. It's obvious. I have a deep insight into people, you know.\" 	« Je le vois sur vous. C'est évident. J'ai une profonde intuition des gens, vous savez. » 
+PC_Frey	She scoffs and looks exceedingly annoyed. 	Elle ricane et a l'air extrêmement agacée. 
+PC_Frey	But you can see it. 	Mais tu le vois. 
+PC_Frey	You can see how she... is worried. Why? 	Tu vois comment elle... est inquiète. Pourquoi ? 
+PC_Frey	\"You don't need to be scared. I'm here to help.\" 	« Vous n'avez pas à avoir peur. Je suis là pour aider. » 
+PC_Frey	\"Whatever trouble you're in, please tell me.\" 	« Quels que soient les ennuis dans lesquels vous êtes, dites-le-moi, je vous en prie. » 
+PC_Frey	\"Look, your dad is my boss. I'm just doing my duty.\" 	« Écoutez, votre père est mon patron. Je fais juste mon devoir. » 
+PC_Frey	\"I really don't care. It's just my job to ask questions.\" 	« Je m'en fiche vraiment. C'est juste mon travail de poser des questions. » 
+PC_Frey	The girl turns towards the stairs. 	La fille se tourne vers les escaliers. 
+PC_Frey	\"Stop bothering me.\" 	« Cessez de m'importuner. » 
+PC_Frey	\"Do you know who I am?\" 	« Savez-vous qui je suis ? » 
+PC_Frey	What a cliché line. 	Quelle réplique cliché. 
+PC_Frey	Her anger is overflowing, but... 	Sa colère déborde, mais... 
+PC_Frey	She strikes a pose that says, 'I am offended and rich'. 	Elle prend une pose qui dit : « Je suis offensée et riche ». 
+PC_Frey	\"I am <b>Freydis Darrow</b>.\" 	« Je suis <b>Freydis Darrow</b>. » 
+PC_Frey	\"Stop. Bothering. Me.\" 	« Cessez. De m'importuner. » 
+PC_Frey	Darrow? Like the library? 	Darrow ? Comme la bibliothèque ? 
+PC_Frey	This is the daughter of Nicholas Darrow. 	C'est la fille de Nicholas Darrow. 
+PC_Frey	\"Should that mean something to me?\" 	« Est-ce censé évoquer quelque chose pour moi ? » 
+PC_Frey	\"Darrow? Like the library?\" 	« Darrow ? Comme la bibliothèque ? » 
+PC_Frey	\"I'm sorry. Please spare me.\" 	« Pardon. Épargnez-moi, je vous en prie. » 
+PC_Frey	She scoffs, and looks at you like you're a pile of trash. 	Elle ricane et te regarde comme si tu étais un tas d'ordures. 
+PC_Frey	She grits her teeth. 	Elle serre les dents. 
+PC_Frey	\"You're... you're going to be in big trouble, Cleric.\" 	« Vous... vous allez avoir de gros ennuis, Clerc. » 
+PC_Frey	She storms away, keeping her head high. 	Elle s'éloigne en trombe, la tête haute. 
+PC_Frey	Interesting outcome. 	Issue intéressante. 
+PC_Frey	What a strange lady. Why was she so mad? 	Quelle femme étrange. Pourquoi était-elle si en colère ? 
+PC_Frey	You sure pissed that strange lady off. But she acted real weird, didn't she? 	T'as bien énervé cette femme étrange. Mais elle a vraiment agi bizarrement, non ? 
+PC_Frey	Maybe... she's hiding something? 	Peut-être... qu'elle cache quelque chose ? 
+PC_Frey	She is a daughter of DARROWIAN HERITAGE. An ancestor to BORGO DARROW himself. 	Elle est issue de l'HÉRITAGE DARROWIEN. Une descendante de BORGO DARROW lui-même. 
+PC_Frey	Angering her was a mistake, surely. 	La fâcher fut sûrement une erreur. 
+PC_Frey	That lady carries a shadow behind her mask. Keep watch. 	Cette femme porte une ombre derrière son masque. Reste vigilant. 
+PC_Frey	E-Okay. 	D'accord. 
+PC_Frey	\"Hey! Stop that!\" 	« Hé ! Arrêtez ça ! » 
+PC_Frey	Damn it. So close! 	Bon sang. Si près ! 
+PC_Frey	You really bungled this one up, didn't you? 	T'as vraiment merdé sur ce coup-là, hein ? 
+PC_Frey	\"Thief! Help!\" 	« Voleur ! À l'aide ! » 
+PC_Frey	The lady turns to slap you in the face, hitting her palm right on the side of your helmet, sending it spinning along with the rest of your skull. 	La dame se retourne pour te gifler en plein visage, sa paume claquant sur le côté de ton heaume, le faisant tourner avec le reste de ton crâne. 
+PC_Frey	When the spinning stops, you... uh... 	Quand le tournoiement s'arrête, tu... euh... 
+PC_Frey	FC12 con-\"Ugh.. guh...\" 	FC12 con-« Ugh... gh... » 
+PC_Frey	DC12 con-\"Sorry. Wrong pocket.\" 	DC12 con-« Désolé. Mauvaise poche. » 
+PC_Frey	DC12 con-\"What's yours is mine.\" 	DC12 con-« Ce qui est à vous est à moi. » 
+PC_Frey	(Nod your damaged head and take a step back.) 	(Hocher ta tête meurtrie et reculer d'un pas.) 
+PC_Frey	\"Fuck off!\" 	« Allez vous faire foutre ! » 
+PC_Frey	E-\"Okay.\" (Feel awful.) 	« D'accord. » (Se sentir affreux.) 
