@@ -195,6 +195,12 @@ DATE_PATCHES = [
      'This is the DC a target has to achieve when rolling a save against one of your spells. \n\n The DC is: 8 + your wisdom or intelligence modifier (whichever is highest) + your proficiency bonus.',
      "C'est le DD qu'une cible doit atteindre pour résister à un de vos sorts. \n\n Le DD est : 8 + votre modificateur de Sagesse ou Intelligence (le plus haut) + votre bonus de maîtrise."),
 
+    # ---- Popups bourse (Stockage Profond) ----
+    (419, ' items found at the bottom of the pouch!', ' objets trouvés au fond de la bourse !'),
+    (8905, 'One item found at the bottom of the pouch!', 'Un objet trouvé au fond de la bourse !'),
+    (12213, 'Turn pouch inside out? This will empty all stored items into your inventory.',
+            'Vider la bourse ? Tous les objets stockés iront dans votre inventaire.'),
+
     # ---- CONFIRMÉS CASSER LE JEU (à NE PAS patcher en metadata) ----
     # (7260, 'Inventory', 'Inventaire') — slots inventaire disparaissent (binding key)
     # (10499, 'Spells', 'Sorts') — Grimoire affiche "X SORTS" au lieu du compte

@@ -86,6 +86,10 @@ idx	english	french	notes
 11268	The amount of spells in your spellbook...	Le nombre de sorts en votre grimoire...	in-place 101>100 (Grimoire tooltip Sorts Collectés)
 11269	The amount of spells you currently have prepared...	Le nombre de sorts actuellement préparés...	in-place 190>177 (tooltip Sorts Préparés)
 11902	This is the DC a target has to achieve...	C'est le DD qu'une cible doit atteindre...	in-place 190>182 (tooltip Difficulté Sort)
+# === Popups Stockage Profond (bourse) ===
+419	 items found at the bottom of the pouch!	 objets trouvés au fond de la bourse !	in-place 40>39
+8905	One item found at the bottom of the pouch!	Un objet trouvé au fond de la bourse !	in-place 42>39
+12213	Turn pouch inside out?...	Vider la bourse ?...	in-place 76>71
 # === CONFIRMÉS BROKEN (à NE PAS patcher) ===
 # 7260	Inventory	Inventaire	→ slots inventaire disparaissent
 # 10499	Spells	Sorts	→ Grimoire affiche "X SORTS" au lieu de compte
