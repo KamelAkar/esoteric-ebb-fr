@@ -1,0 +1,50 @@
+TS_GoboGrafitti	« Dis-moi tes secrets. » 	ROLL15 con-« Dis-moi tes secrets. » 
+TS_SirTriban	Nourrir son <u>ego</u> assez pour obtenir de vraies réponses. 	ROLL13 cha-Nourrir son <u>ego</u> assez pour obtenir de vraies réponses. 
+TS_Arn_Roof	Compatir avec lui. 	ROLL13 wis-Compatir avec lui. 
+TS_Pocket	Trouver comment descendre. 	ROLL8 int-Trouver comment descendre. 
+TS_Pocket	Tendre la main vers le bord de la poche. 	ROLL14 dex-Tendre la main vers le bord de la poche. 
+TS_Pocket	Endurer la danse jusqu'à la fin. 	ROLL12 con-Endurer la danse jusqu'à la fin. 
+EP_Borgo	Découvrir ce qu'il en est avec ce type. 	ROLL20 str-Découvrir ce qu'il en est avec ce type. 
+TS_Alfoz	Construire un argument expliquant pourquoi vous devriez avoir les papiers. 	ROLL8 int-Construire un argument expliquant pourquoi vous devriez avoir les papiers. 
+TS_Alfoz	Le faire vous frapper. 	ROLL12 cha-Le faire vous frapper. 
+TS_Alfoz	Lui montrer pourquoi c'est dans son intérêt de partir. 	ROLL10 wis-Lui montrer pourquoi c'est dans son intérêt de partir. 
+TS_Alfoz	Ne rien dire, juste ne pas le laisser vous dépasser. 	ROLL5 con-Ne rien dire, juste ne pas le laisser vous dépasser. 
+TS_Alfoz	L'insulter. 	ROLL5 cha-L'insulter. 
+TS_Alfoz	Continuer à tenir bon. 	ROLL10 con-Continuer à tenir bon. 
+TS_Alfoz	Trouver une blague drôle. 	ROLL10 cha-Trouver une blague drôle. 
+TS_Alfoz	Donner un coup de tête au nain. 	ROLL12 str-Donner un coup de tête au nain. 
+TS_Rollermill	Attraper le bâton. 	ROLL14 dex-Attraper le bâton. 
+TS_Rollermill	Tenter de sauter du moulin. 	ROLL15 str-Tenter de sauter du moulin. 
+EP_Ettir	Tentative finale : flirter avec l'ange. 	ROLL16 cha-Tentative finale : flirter avec l'ange. 
+EP_Ettir	Objectif : survivre au flirt. 	ROLL19 con-Objectif : survivre au flirt. 
+EP_Moongore	Exiger plus. 	ROLL16 str-Exiger plus. 
+Enc_Night	« TU TE TROMPES DE CLERC ! »\"\" 	ROLL13 cha-« TU TE TROMPES DE CLERC ! »\"\" 
+Enc_Night	Essayer de comprendre ton agresseur. 	ROLL15 wis-Essayer de comprendre ton agresseur. 
+Enc_Night	Frapper l'agresseur d'un coup de poing. 	ROLL13 str-Frapper l'agresseur d'un coup de poing. 
+Enc_Night	Te recroqueviller en boule et crier. 	ROLL20 con-Te recroqueviller en boule et crier. 
+Enc_Night	Lui faire peur pour le faire fuir. 	ROLL15 cha-Lui faire peur pour le faire fuir. 
+TS_BirdsNest	REACH. 	ROLL14 dex-REACH. 
+TS_TeaShopDoor	Tenter de l'enfoncer. 	ROLL25 str-Tenter de l'enfoncer. 
+Default_Pipe	Te tortiller pour passer. 	ROLL18 dex-Te tortiller pour passer. 
+TS_Potion	Le convaincre de te vendre sa potion la plus forte. 	ROLL18 str-Le convaincre de te vendre sa potion la plus forte. 
+TS_Modissa	L'aider à pousser le papier dans la fente. 	ROLL12 str-L'aider à pousser le papier dans la fente. 
+EP_Everglad	Resist. 	ROLL22 con-Resist. 
+TS_Viira	S'éclipser furtivement. 	ROLL20 dex-S'éclipser furtivement. 
+TS_Viira	Comprendre pourquoi elle ne lâche pas l'affaire, et la faire partir. 	ROLL15 wis-Comprendre pourquoi elle ne lâche pas l'affaire, et la faire partir. 
+TS_Viira	Essayer de la rattraper. 	ROLL12 cha-Essayer de la rattraper. 
+TS_ImposingTree	Atteindre le sommet ! 	ROLL13 dex-Atteindre le sommet ! 
+EP_Nessan	Le convaincre de te le dire. 	ROLL12 cha-Le convaincre de te le dire. 
+Default_PillarofJor	Try meditate on it. 	ROLL5 wis-Try meditate on it. 
+Default_PillarofJor	Essayer de lui parler. 	ROLL10 cha-Essayer de lui parler. 
+Default_PillarofJor	Essayer de le RESSENTIR. 	ROLL15 str-Essayer de le RESSENTIR. 
+Default_PillarofJor	Essayer de raisonner avec elle. 	ROLL20 int-Essayer de raisonner avec elle. 
+TS_Kull	L'intimider. 	ROLL15 cha-L'intimider. 
+TS_Kull	Le feinter, puis combler la distance entre vous. 	ROLL19 dex-Le feinter, puis combler la distance entre vous. 
+TS_Kull	L'empoigner, et le maîtriser jusqu'à la soumission. 	ROLL20 str-L'empoigner, et le maîtriser jusqu'à la soumission. 
+TS_Kull	Le maîtriser au corps à corps. 	ROLL20 str-Le maîtriser au corps à corps. 
+TS_Kull	Se rapprocher furtivement de lui. 	ROLL20 dex-Se rapprocher furtivement de lui. 
+TS_Kull	Lui attraper les pieds. 	ROLL8 dex-Lui attraper les pieds. 
+TS_Kull	Le maîtriser au corps à corps. 	ROLL20 str-Le maîtriser au corps à corps. 
+TS_Nearly	Demander une chanson. 	ROLL13 con-Demander une chanson. 
+TS_WallofTolstad	Escalader la Muraille de Tolstad. 	ROLL15 str-Escalader la Muraille de Tolstad. 
+TS_AppleBranch	Grimper aux branches. 	ROLL10 str-Grimper aux branches. 

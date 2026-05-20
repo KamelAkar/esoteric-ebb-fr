@@ -1,0 +1,30 @@
+UP_WeirdVatte	Résister au sortilège. 	ROLL13 cha-Résister au sortilège. 
+UP_WeirdVatte	Climb. 	ROLL14 str-Climb. 
+UP_Meri	Le convaincre de te payer beaucoup de couronnes. 	ROLL14 dex-Le convaincre de te payer beaucoup de couronnes. 
+UP_Meri	Trouver un argument logique justifiant qu'il te dise tout. 	ROLL13 int-Trouver un argument logique justifiant qu'il te dise tout. 
+UP_Meri	Tenter d'avoir cette conversation. 	ROLL8 con-Tenter d'avoir cette conversation. 
+UP_Brr	Comprendre les mécanismes de la poche ésotérique. 	ROLL13 int-Comprendre les mécanismes de la poche ésotérique. 
+UP_Labyrinth	Dodge! 	ROLL14 dex-Dodge! 
+UP_Labyrinth	Tiens bon. 	ROLL13 str-Tiens bon. 
+UP_Labyrinth	Te frayer un chemin à tâtons. 	ROLL15 wis-Te frayer un chemin à tâtons. 
+UP_Labyrinth	Écoute. 	ROLL15 con-Écoute. 
+UP_Labyrinth	Frapper le plus proche. 	ROLL20 str-Frapper le plus proche. 
+UP_Labyrinth	Esquiver et zigzaguer. 	ROLL16 dex-Esquiver et zigzaguer. 
+UP_Labyrinth	Chercher un schéma dans leurs mouvements. 	ROLL18 wis-Chercher un schéma dans leurs mouvements. 
+UP_Labyrinth	Charger à travers eux. 	ROLL14 str-Charger à travers eux. 
+UP_Labyrinth	Battre en retraite vers la sortie. 	ROLL12 dex-Battre en retraite vers la sortie. 
+UP_Gourgalash	S'approcher furtivement. 	ROLL12 dex-S'approcher furtivement. 
+UP_Gourgalash	Plaquer sa jambe. 	ROLL15 str-Plaquer sa jambe. 
+UP_Gourgalash	Te blinder les nerfs. 	ROLL9 con-Te blinder les nerfs. 
+UP_Gourgalash	Essayer de le calmer. 	ROLL12 wis-Essayer de le calmer. 
+UP_Gourgalash	Le convaincre que tu es juste ici pour parler. 	ROLL13 cha-Le convaincre que tu es juste ici pour parler. 
+UP_Gourgalash	Lui écraser les orteils. 	ROLL16 str-Lui écraser les orteils. 
+UP_Gourgalash	Courir autour de lui. Te repositionner ! 	ROLL12 dex-Courir autour de lui. Te repositionner ! 
+UP_Gourgalash	Trouver une manière non-violente d'en finir. 	ROLL15 int-Trouver une manière non-violente d'en finir. 
+UP_Gourgalash	Empoigner sa jambe ! 	ROLL20 str-Empoigner sa jambe ! 
+UP_Gourgalash	Calculer une façon, n'importe laquelle, pour gagner ceci. 	ROLL15 int-Calculer une façon, n'importe laquelle, pour gagner ceci. 
+UP_Gourgalash	Le pousser vers la falaise. 	ROLL24 str-Le pousser vers la falaise. 
+UP_Gourgalash	Canaliser Urth. 	ROLL25 wis-Canaliser Urth. 
+UP_Paintings	Rencontrer Iomestra. 	ROLL20 con-Rencontrer Iomestra. 
+UP_RuinClimb	Te hisser par pure force musculaire. 	ROLL5 str-Te hisser par pure force musculaire. 
+UP_RuinClimb	Choisir un chemin à travers les nœuds emmêlés. 	ROLL5 dex-Choisir un chemin à travers les nœuds emmêlés. 

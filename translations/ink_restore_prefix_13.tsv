@@ -1,0 +1,5 @@
+GW_Drummer	Ouvrir la caisse. 	ROLL16 str-Ouvrir la caisse. 
+GW_Drummer	Le menacer pour la vérité. 	ROLL16 str-Le menacer pour la vérité. 
+GW_Drummer	Le prendre en flagrant délit de mensonge. 	ROLL17 dex-Le prendre en flagrant délit de mensonge. 
+GW_Sand	Esquiver le sable. 	ROLL8 dex-Esquiver le sable. 
+GW_Sand	T'en extirper en gigotant. 	ROLL10 dex-T'en extirper en gigotant. 

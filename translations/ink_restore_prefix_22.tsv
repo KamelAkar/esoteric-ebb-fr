@@ -1,0 +1,12 @@
+OP_Isk	Tenter de comprendre ce que cela fait. 	ROLL15 int-Tenter de comprendre ce que cela fait. 
+OP_Fiend	Le convaincre de t'en dire davantage sur son passé fort poignant. 	ROLL6 cha-Le convaincre de t'en dire davantage sur son passé fort poignant. 
+OP_Fiend	Protéger ton esprit. 	ROLL15 cha-Protéger ton esprit. 
+OP_Chimera	Surmonter la douleur. (Résister à la force magique.) 	ROLL13 str-Surmonter la douleur. (Résister à la force magique.) 
+OP_Efreeti	(Supporter la douleur.) 	ROLL9 con-(Supporter la douleur.) 
+Enc_Final	Frapper les jambes de l'assassine. 	ROLL12 str-Frapper les jambes de l'assassine. 
+Enc_Final	Ne pas combattre. Essayer simplement de comprendre... 	ROLL9 wis-Ne pas combattre. Essayer simplement de comprendre... 
+Enc_Final	\"Discutons, simplement ! Nous ne sommes pas venus nous battre !\" 	ROLL22 cha-\"Discutons, simplement ! Nous ne sommes pas venus nous battre !\" 
+Enc_Final	Esquiver les tentacules. 	ROLL16 dex-Esquiver les tentacules. 
+Enc_Final	Résister aux tentacules. 	ROLL12 con-Résister aux tentacules. 
+Enc_Final	Déduire ce qui se passe et qui se cache derrière tout cela. 	ROLL20 int-Déduire ce qui se passe et qui se cache derrière tout cela. 
+Enc_Final	Frapper. Frapper juste. 	ROLL15 str-Frapper. Frapper juste. 
