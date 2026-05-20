@@ -311,6 +311,14 @@ PATCHES = [
     (13499, "[But I promise: you'll be able to delve <i>much</i> deeper on release day. -Chris]",
             "[Mais promis : tu pourras explorer <i>bien</i> plus profond le jour de la sortie. -Chris]"),
 
+    # ---- Tier de difficulté des jets (badge DC en jeu) ----
+    (3978, 'Challenging', 'Difficile'),    # 11 → 9 in-place
+    (4735, 'Daunting',    'Pénible'),      # 8 → 8 (P-é(2)-n-i-b-l-e = 8 bytes UTF-8) in-place
+    (5207, 'Effortless',  'Trivial'),      # 10 → 7 in-place
+    (8088, 'Medium',      'Moyen'),        # 6 → 5 in-place
+    (10323, 'Simple',     'Simple'),       # 6 → 6 same (no change but documented)
+    # 'Impossible' (idx 6767) reste 'Impossible' en FR — pas de patch
+
     # ---- Notes de session — additional Chris narrator strings (group 100-280) ----
     (113, " \\n\\nAs it looks now, there's only one more place to look: <i>The City Below</i>. Your star witness, this <i>Frank son of Frank</i>, seems to have been heading that way. It's time to follow, down into the Below...",
           " \\n\\nPour l'instant, il ne reste qu'un seul endroit à examiner : <i>La Cité Inférieure</i>. Ton témoin clé, ce <i>Frank fils de Frank</i>, semble s'y être rendu. Il est temps de suivre, là-bas en bas..."),
