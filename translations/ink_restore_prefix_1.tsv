@@ -1,0 +1,73 @@
+CB_Paper	Comprendre le texte draconique. 	ROLL12 int-Comprendre le texte draconique. 
+TS_Ettir	Lui dire ce que vous pensez de ses multiples yeux. 	ROLL8 cha-Lui dire ce que vous pensez de ses multiples yeux. 
+TS_Arn_Kiosk	Le convaincre de te le dire. Par le pouvoir de la manipulation sociale. 	ROLL10 cha-Le convaincre de te le dire. Par le pouvoir de la manipulation sociale. 
+TS_Arn_Kiosk	Ne pas paniquer. 	ROLL17 con-Ne pas paniquer. 
+LP_Lisa	Tenter de lire les os. 	ROLL16 wis-Tenter de lire les os. 
+LP_Lisa	Déchiffrer la mécanique ésotérique en jeu. 	ROLL16 int-Déchiffrer la mécanique ésotérique en jeu. 
+CB_CraniumAnt	Brise-la. 	ROLL16 str-Brise-la. 
+TS_OilyPouch	Comprendre ce qui s'est passé ici. 	ROLL7 int-Comprendre ce qui s'est passé ici. 
+Default_Shrine	Tenter une Prière de Guérison. 	ROLL16 wis-Tenter une Prière de Guérison. 
+DS_Rixbiter	« Dites-moi. Qui a résolu ? »\"\" 	ROLL6 cha-« Dites-moi. Qui a résolu ? »\"\" 
+DS_Rixbiter	La convaincre de vous parler de la harpie. 	ROLL20 cha-La convaincre de vous parler de la harpie. 
+Q_Youth	Réaliser ta place dans le monde. 	ROLL12 str-Réaliser ta place dans le monde. 
+Q_Youth	Comprendre soudain le genre. 	ROLL12 wis-Comprendre soudain le genre. 
+TS_Pinja	La convaincre que vous pouvez aider. 	ROLL5 str-La convaincre que vous pouvez aider. 
+AR_Kattegatt	Tenter de comprendre pourquoi elle s'enroule ainsi. 	ROLL15 wis-Tenter de comprendre pourquoi elle s'enroule ainsi. 
+TS_Thal	Essayer de ne pas le mentionner. 	ROLL16 con-Essayer de ne pas le mentionner. 
+TU_Jehanne	Refuse. 	ROLL9 con-Refuse. 
+TS_PPG_Document	L'examiner en détail. 	ROLL5 int-L'examiner en détail. 
+DS_Razz	(Le lui fracasser dans le visage.) 	ROLL16 str-(Le lui fracasser dans le visage.) 
+AR_Mephits	Prouver que tu es un seigneur élémentaire digne de ce nom en plongeant ta main dans le feu. 	ROLL14 con-Prouver que tu es un seigneur élémentaire digne de ce nom en plongeant ta main dans le feu. 
+Snell_Companion	Le persuader de révéler ses petits secrets politiques sales. 	ROLL18 cha-Le persuader de révéler ses petits secrets politiques sales. 
+TestingFeatures	TEST DE FORCE ! 	ROLL10 str-TEST DE FORCE ! 
+TestingFeatures	L'aider à pousser le papier vers le bidule. 	ROLL12 str-L'aider à pousser le papier vers le bidule. 
+TestingFeatures	str TEST DE FORCE ! -dex VERUARY 	ROLL10 cha-str TEST DE FORCE ! -dex VERUARY 
+TestingFeatures	TEST DE FORCE ! VERUARY 	ROLL10 dex-TEST DE FORCE ! VERUARY 
+TestingFeatures	TEST DE FORCE ! 	ROLL10 con-TEST DE FORCE ! 
+TestingFeatures	TEST DE FORCE ! V 	ROLL10 int-TEST DE FORCE ! V 
+TestingFeatures	TEST DE FORCE ! VE 	ROLL10 wis-TEST DE FORCE ! VE 
+TestingFeatures	TEST DE FORCE ! VER 	ROLL10 cha-TEST DE FORCE ! VER 
+TestingFeatures	TEST DE DEX ! 	ROLL10 dex-TEST DE DEX ! 
+TestingFeatures	TEST DE FORCE ! 	ROLL10 str-TEST DE FORCE ! 
+DS_Olzis	Tenter une supposition. 	ROLL18 int-Tenter une supposition. 
+DS_Olzis	Courtiser la bête. 	ROLL30 cha-Courtiser la bête. 
+TS_Crab	Se dégager de l'étau. 	ROLL13 str-Se dégager de l'étau. 
+OP_EverGlad	Frapper la bête du poing. 	ROLL12 str-Frapper la bête du poing. 
+OP_EverGlad	Tenir bon. 	ROLL14 con-Tenir bon. 
+OP_EverGlad	Inventer un faux secret. 	ROLL17 cha-Inventer un faux secret. 
+OP_EverGlad	Élaborer un argument expliquant pourquoi l'information sur sa tentative de meurtre ne mérite pas un secret. 	ROLL17 int-Élaborer un argument expliquant pourquoi l'information sur sa tentative de meurtre ne mérite pas un secret. 
+OP_EverGlad	Rassembler le courage de lui dire ton secret le plus profond — la source de toute ton insécurité et de ta honte. 	ROLL28 con-Rassembler le courage de lui dire ton secret le plus profond — la source de toute ton insécurité et de ta honte. 
+CB_Pickaxe	Comprendre comment en extraire le sort. 	ROLL14 int-Comprendre comment en extraire le sort. 
+TS_Seagull	Une dernière tentative. <i>Caresser l'oiseau.</i> 	ROLL10 dex-Une dernière tentative. <i>Caresser l'oiseau.</i> 
+TS_Seagull	Attraper l'oiseau. 	ROLL13 str-Attraper l'oiseau. 
+TS_Seagull	S'allonger et se recroqueviller en petite boule et crier : « Je ne consens pas ! » 	ROLL8 con-S'allonger et se recroqueviller en petite boule et crier : « Je ne consens pas ! » 
+TS_Seagull	Attraper l'oiseau. 	ROLL13 str-Attraper l'oiseau. 
+TS_Seagull	Excuse-toi. Sincerely. 	ROLL10 wis-Excuse-toi. Sincerely. 
+VL_Ost	Tenter de sauver la question. 	ROLL10 dex-Tenter de sauver la question. 
+VL_Ost	« Moi non plus je n'aime pas le lait. » 	ROLL7 cha-« Moi non plus je n'aime pas le lait. » 
+VL_Ost	Trouver un argument raisonnable. (Probablement avec un mensonge.) 	ROLL15 cha-Trouver un argument raisonnable. (Probablement avec un mensonge.) 
+VL_Ost	Te pousser à la limite — resserrer ta prise sur l'arbalète ! 	ROLL12 str-Te pousser à la limite — resserrer ta prise sur l'arbalète ! 
+VL_Ost	Lui demander gentiment de lâcher prise. 	ROLL11 cha-Lui demander gentiment de lâcher prise. 
+VL_Ost	Déstabiliser la caisse sur laquelle il est assis. 	ROLL8 dex-Déstabiliser la caisse sur laquelle il est assis. 
+VL_Ost	Tiens bon. En faire un concours d'endurance. 	ROLL12 con-Tiens bon. En faire un concours d'endurance. 
+VL_Ost	Élaborer un vrai plan. 	ROLL7 int-Élaborer un vrai plan. 
+VL_Ost	Faire votre tentative finale. Arracher l'arbalète de sa prise ! 	ROLL12 str-Faire votre tentative finale. Arracher l'arbalète de sa prise ! 
+VL_Ost	Faire votre tentative finale. Arracher l'arbalète de sa prise ! 	ROLL12 str-Faire votre tentative finale. Arracher l'arbalète de sa prise ! 
+VL_Ost	Le convaincre d'abandonner. 	ROLL30 cha-Le convaincre d'abandonner. 
+VL_Ost	Tenter de tirer sur les <i><b>Cordes</b></i>. 	ROLL5 wis-Tenter de tirer sur les <i><b>Cordes</b></i>. 
+CB_BagofHolding	Enfoncer votre bras à l'intérieur et fouiller. 	ROLL12 str-Enfoncer votre bras à l'intérieur et fouiller. 
+CB_BagofHolding	Examiner le sac de près. 	ROLL15 int-Examiner le sac de près. 
+CB_BagofHolding	Glisser prudemment votre main dans le sac. 	ROLL12 dex-Glisser prudemment votre main dans le sac. 
+CB_BagofHolding	Essayer de demander des trucs au sac en différentes langues. 	ROLL18 wis-Essayer de demander des trucs au sac en différentes langues. 
+CB_BagofHolding	Enfoncer votre tête à l'intérieur. 	ROLL8 con-Enfoncer votre tête à l'intérieur. 
+CB_BagofHolding	Lui demander gentiment quelque chose. 	ROLL25 cha-Lui demander gentiment quelque chose. 
+DS_Deck	Convaincre la Mort que vous devez vivre. 	ROLL16 cha-Convaincre la Mort que vous devez vivre. 
+DS_Deck	Essayer de sauter le plus haut possible. 	ROLL5 str-Essayer de sauter le plus haut possible. 
+DS_Deck	Essayer de sauter le plus haut possible. 	ROLL5 str-Essayer de sauter le plus haut possible. 
+GG_Miska	Ne pas s'effrayer. 	ROLL10 con-Ne pas s'effrayer. 
+GG_Miska	Ne pas s'effrayer. 	ROLL10 con-Ne pas s'effrayer. 
+GG_Miska	La convaincre que vous êtes un idiot. 	ROLL5 cha-La convaincre que vous êtes un idiot. 
+GG_Miska	Présenter l'histoire complète à Dame Feuille-de-Sauge. 	ROLL30 int-Présenter l'histoire complète à Dame Feuille-de-Sauge. 
+GG_Miska	Leur offrir un spectacle qu'ils n'oublieront jamais. 	ROLL18 cha-Leur offrir un spectacle qu'ils n'oublieront jamais. 
+GG_Miska	Pourquoi siège-t-elle sur ce trône ? 	ROLL25 wis-Pourquoi siège-t-elle sur ce trône ? 
+Q_Election	Tenter de te demander, pour de vrai cette fois : pour qui devrais-je voter à l'élection ? 	ROLL15 int-Tenter de te demander, pour de vrai cette fois : pour qui devrais-je voter à l'élection ? 

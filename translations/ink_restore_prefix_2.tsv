@@ -1,0 +1,10 @@
+LL_ApplePile	Commencer à manger. 	ROLL12 con-Commencer à manger. 
+LL_CorpseOne	L'examiner de plus près. 	ROLL10 int-L'examiner de plus près. 
+LL_Sand	T'échapper, SANS perdre ton heaume. 	ROLL6 str-T'échapper, SANS perdre ton heaume. 
+LL_Zombie	Le pousser ! 	ROLL8 str-Le pousser ! 
+LL_Zombie	Garder ton sang-froid. Attendre et voir. 	ROLL12 con-Garder ton sang-froid. Attendre et voir. 
+LL_Zombie	Lever un poing fermé et dire : « Tiens, regarde ça », puis tenter rapidement de le faire trébucher. 	ROLL6 dex-Lever un poing fermé et dire : « Tiens, regarde ça », puis tenter rapidement de le faire trébucher. 
+LL_Zombie	L'attraper, attrape son... bras ! 	ROLL8 str-L'attraper, attrape son... bras ! 
+LL_Zombie	Changer de tactique, tenter de le manipuler. 	ROLL6 cha-Changer de tactique, tenter de le manipuler. 
+LL_Zombie	Finir ça — par un coup en traître ! 	ROLL12 str-Finir ça — par un coup en traître ! 
+LL_Zombie	Tu peux encore prendre le contrôle — fais croire que tu es son maître ! 	ROLL10 cha-Tu peux encore prendre le contrôle — fais croire que tu es son maître ! 
