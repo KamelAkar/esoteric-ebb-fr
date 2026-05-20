@@ -3,14 +3,19 @@ idx	english	french	notes
 1837	: Success</color><#	: Succès</color><#	in-place
 1838	: Success</color></line-indent></smallcaps>\n<#	: Succès</color></line-indent></smallcaps>\n<#	in-place
 1839	: Success</color></smallcaps>	: Succès</color></smallcaps>	in-place
-5762	FF>[DC: Success]</color>	FF>[DD: Succès]</color>	DC→DD + Success→Succès
-13664	[{0}  | DC {1}] {2}	[{0}  | DD {1}] {2}	DC→DD
-20110	{0} <color=#FFFFFF>DC {1}: Success</color> {2}	{0} <color=#FFFFFF>DD {1}: Succès</color> {2}	DC→DD + Success→Succès
+# DISABLED: ces patches DC→DD cassent le parseur de choix DC du jeu (commit 7c0c198 à reverter)
+# Le parseur cherche "DC" comme literal dans le texte des choix pour stripper le préfixe.
+# Remplacer "DC" par "DD" dans metadata fait échouer la détection → affichage en brut.
+# 5762	FF>[DC: Success]</color>	FF>[DD: Succès]</color>	DC→DD + Success→Succès
+# 13664	[{0}  | DC {1}] {2}	[{0}  | DD {1}] {2}	DC→DD
+# 20110	{0} <color=#FFFFFF>DC {1}: Success</color> {2}	{0} <color=#FFFFFF>DD {1}: Succès</color> {2}	DC→DD + Success→Succès
+# 4536	DC 	DD 	standalone prefix
+# 16155	dc 	dd 	standalone lowercase
+5762	FF>[DC: Success]</color>	FF>[DC : Succès]</color>	garde DC, traduit Success→Succès
+20110	{0} <color=#FFFFFF>DC {1}: Success</color> {2}	{0} <color=#FFFFFF>DC {1} : Succès</color> {2}	garde DC, traduit Success→Succès
 1833	: Failure</color></smallcaps>	: Échec</color></smallcaps>	in-place
 1834	: Failure]</color>	: Échec]</color>	in-place
 19991	xp!	XP	in-place
-4536	DC 	DD 	standalone prefix
-16155	dc 	dd 	standalone lowercase
 # === Stats display labels ===
 10651	Strength	Force	in-place
 4927	Dexterity	Dextérité	repoint (11 > 9)
@@ -47,18 +52,19 @@ idx	english	french	notes
 8500	No	Non	repoint 2<3
 9463	Push	Pousser	repoint 4<7 (pousser objet)
 11967	Throw	Lancer	repoint 5<6 (lancer combat)
-# === Inventory tabs retestés (anciennement marqués broken) — validés 2026-05-19 ===
-2633	All Items	Tout	in-place 9>4
-13125	Weaponry	Armement	in-place 8=8
-7540	Key Items	Clés	in-place 9>5
-5986	Food	Vivres	repoint 4<6
-11034	Texts	Textes	repoint 5<6
-9500	Questing	Quêtes	in-place 8>7 (ê=2B)
-4956	Difficulty Class	Difficulté de Sort	repoint 16<19 (full FR, validé 2026-05-20)
-4098	Collected Spells	Sorts Collectés	in-place 16=16
-9344	Prepared Spells	Sorts Préparés	repoint 15<16
-2240	<i>one single time</i>	<i>une unique fois</i>	in-place 22=22 (résout bug Quest_34)
-4535	DC	DD	in-place 2=2 (préfixe DC1/DC2 du glossaire journal)
+# === Inventory tabs retestés (DÉSACTIVÉS pour debug DC parser breakage) ===
+# 2633	All Items	Tout	in-place 9>4
+# 13125	Weaponry	Armement	in-place 8=8
+# 7540	Key Items	Clés	in-place 9>5
+# 5986	Food	Vivres	repoint 4<6
+# 11034	Texts	Textes	repoint 5<6
+# 9500	Questing	Quêtes	in-place 8>7 (ê=2B)
+# 4956	Difficulty Class	Difficulté de Sort	repoint 16<19 (full FR, validé 2026-05-20)
+# 4098	Collected Spells	Sorts Collectés	in-place 16=16
+# 9344	Prepared Spells	Sorts Préparés	repoint 15<16
+# 2240	<i>one single time</i>	<i>une unique fois</i>	in-place 22=22 (résout bug Quest_34)
+# 4535 DISABLED — patcher "DC" → "DD" en metadata casse le stripping du préfixe DC dans les choix Ink
+# 4535	DC	DD	in-place 2=2 (préfixe DC1/DC2 du glossaire journal)
 # === Time of day / action verbs (smoke test passé 2026-05-19) ===
 5178	EVENING	SOIR	in-place 7>4
 7942	MORNING	MATIN	in-place 7>5

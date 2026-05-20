@@ -21,9 +21,11 @@ ZIP_FILE = DIST_DIR / f"EsotericEbb-FR-Patch-v{VERSION}.zip"
 # Inclut TOUS les fichiers que v1.2.2 ou cette session ont pu modifier.
 # Les sharedassets contiennent les TextAssets Ink (dialogues + intro) qui
 # doivent être livrés en totalité — sinon installation sur vanilla = dialogues EN.
+# NOTE: resources.assets EXCLUS — la version modifiée par le précédent traducteur
+# (FR text dans la colonne EN du Dialogs CSV) casse le parseur DC du jeu sans
+# bénéfice (texte FR vient de l'Ink JSON dans sharedassets2, pas de Dialogs).
 INCLUDED_FILES = [
     "il2cpp_data/Metadata/global-metadata.dat",
-    "resources.assets",
 ]
 # All level files
 for i in range(0, 25):

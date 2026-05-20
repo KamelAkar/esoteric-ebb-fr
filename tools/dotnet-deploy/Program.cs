@@ -28,6 +28,10 @@ class Program
         {
             return TextAssetLister.Run(args[1..]);
         }
+        if (args.Length >= 1 && args[0] == "noop")
+        {
+            return NoopRewrite.Run(args[1..]);
+        }
         if (args.Length >= 1 && args[0] == "tmptext")
         {
             return TmpTextPatcher.Run(args[1..]);
