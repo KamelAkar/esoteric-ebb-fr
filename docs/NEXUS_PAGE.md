@@ -132,6 +132,12 @@ RÈGLES STRICTES Nexus changelog :
 
 À CHAQUE nouvelle version, ajouter une nouvelle entrée changelog avec le bloc texte correspondant. Coller TEL QUEL (sans les triples backticks).
 
+### v1.3.3
+
+```
+Fix : patches STRSEC metadata (Chaparder pour Trifle, etc.) qui n'étaient pas appliqués depuis v1.3.x à cause d'un chemin pipeline cassé.
+```
+
 ### v1.3.2
 
 ```
