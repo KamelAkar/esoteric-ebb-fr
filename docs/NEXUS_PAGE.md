@@ -114,44 +114,77 @@ Esoteric Ebb © Lykkesalt Studios. Traduction distribuée à but non lucratif so
 translation, french, francais, fr, traduction, ui, dialogue, no-bepinex
 ```
 
-## Changelog
+## Description du fichier (Nexus File Description)
+
+À remplir dans le champ "Description" lors de l'upload du fichier sur Nexus. 200 caractères max recommandé. Texte plat, pas de markdown.
 
 ```
-v1.3.2 (2026-05-24)
-- HOTFIX CRITIQUE : l'initiative de combat (IROLL-) ne se déclenchait pas → dialogue en boucle infinie. Préfixes IROLL-/SPELL restaurés (~14 choix). Report par AvatarTix8.
+Patch FR complet (drag-and-drop, sans BepInEx). Glissez le contenu du ZIP dans le dossier Steam d'Esoteric Ebb. Pour désinstaller : Steam > Vérifier l'intégrité des fichiers.
+```
 
-v1.3.1 (2026-05-21)
-- FIX CRITIQUE : préfixe "DC" et "ROLL" visibles sur les choix de jet (toute la partie était impactée)
-- FIX CRITIQUE : choix manuels "S"/"F" après un jet (219 préfixes ROLL/DC/FC restaurés)
-- FIX CRITIQUE : dialogues mixtes FR/EN dans tout le jeu (~15 400 traductions Ink synchronisées)
-- Intro Lower Lair intégralement traduite (Zombie, Tas de pommes, Sven, Sable Moustique, etc.)
-- 395 lignes Dialogs CSV finalement traduites (EN/mix restants du précédent traducteur)
-- Notes de session (load game recap) intégralement traduites
+## Changelog (à coller dans LOGS sur Nexus — texte plat, pas de markdown)
+
+Nexus n'interprète PAS le markdown dans les changelogs. Le texte ci-dessous est en texte plat avec puces simples (`-`) et sans `**`, `###`, ou backticks. Coller version par version dans le champ "Add Changelog" pour chaque release.
+
+```
+[v1.3.2 — 24/05/2026]
+
+Hotfix critique suite à un report joueur (AvatarTix8 sur Nexus).
+
+- L'initiative de combat ne se déclenchait pas (zombie de l'intro et autres combats), le dialogue bouclait à l'infini. Mon regex de restauration des préfixes en v1.3.1 manquait le format IROLL- (initiative, sans nombre après contrairement à ROLL16 wis-). 14 préfixes IROLL- et SPELL <nom>- restaurés dans tout le jeu.
+
+Merci à AvatarTix8 pour le report et la suggestion de fix précise.
+```
+
+```
+[v1.3.1 — 21/05/2026]
+
+Mise à jour majeure : couverture FR poussée à ~99.99% et plusieurs bugs gameplay critiques corrigés.
+
+Corrections critiques :
+- Préfixe "DC" visible sur les choix de jet (intro et tout le jeu). Le parseur Ink ne reconnaissait plus les jets. Résolu.
+- Préfixe "ROLL" visible sur les choix de jet (ex. ROLL16 wis-...). Même cause. Résolu.
+- Choix manuels "S"/"F" apparaissant après un jet (ex. Tenter une Prière de Guérison). 219 préfixes ROLL/DC/FC restaurés.
+- Dialogues mixtes FR/EN (ex. "I have some other questions. Je crois."). 15 400 traductions Ink synchronisées depuis le Dialogs CSV.
+
+Traductions nouvelles :
+- Intro Lower Lair intégralement traduite (Zombie, Tas de pommes, Cadavre Sven, Sable Moustique, Manteau Garde-d'Urth, vérification zombie) — environ 800 strings
+- 395 lignes restantes du Dialogs CSV traduites
+- Notes de session (résumé sur l'écran de chargement) intégralement traduites
 - Tiers de difficulté : Challenging→Difficile, Daunting→Pénible, Effortless→Trivial, Medium→Moyen
 - "Journal Updated" → "Journal mis à jour"
-- Choix DC/FC de l'intro (Dick-Ass Roublard, Contrôle, Pour sauver le monde, etc.)
+- 35 choix DC/FC de l'intro non couverts (Dick-Ass Roublard, Contrôle, Pour sauver le monde, etc.)
 
-v1.3.0 (2026-05-20)
-- Onglets inventaire entièrement traduits (Tout/Casques/Armement/Livres/Clés/etc.)
+Connu/non corrigé :
+- Badge "DC" sur les jets : le littéral est en double-usage (badge + parseur de choix). Le patcher en "DD" casserait le mécanisme de jet. À traiter dans une future MAJ.
+```
+
+```
+[v1.3.0 — 20/05/2026]
+
+- Onglets inventaire entièrement traduits (Tout/Casques/Armement/Livres/Clés/Cléricaux/Babioles/Consommables)
 - Verbes d'interaction (Voir/Parler/Piquer/Examiner/Ouvrir/Lire/Toucher/Partir)
 - HUD : Jour 1 au lieu de Day 1
 - Sections du journal (Cite/Talent/Gens/Mystères/Régions/Annales/Langue/Pouvoir/Religion/Nature/Romans)
-- Items : Bottes, Manteau, Fiole, Dague, Sac sans Fond, Ceinture des Nains, etc.
+- Items : Bottes, Manteau, Fiole, Dague, Sac sans Fond, Ceinture des Nains, Marteau Adamantin, Manteau du Croisé, etc.
 - Devise : Crowns → Écus
-- Tooltips Grimoire (3 hovers) traduits
-- Popups Stockage Profond (bourse)
-- Fix bug "one single time" dans Quest_34
-- DC → DD partout
-- Factions Agrarien/Arcaniste/Azgaliste
-- Verbes UI (Retour/Annuler/Cacher/Suivant/etc.)
-- Time-of-day (Matin/Tantôt/Soir/Nuit)
+- Tooltips Grimoire (Sorts Préparés / Sorts Collectés / Difficulté de Sort)
+- Popups Stockage Profond (bourse) traduits
+- Fix du bug "one single time" dans Quest_34
+- DC → DD partout (terminologie D&D 5e VF officielle)
+- Factions : Errant, Apolitique, Agrarien, Arcaniste, Azgaliste
+- Verbes UI : Retour, Annuler, Lancer, Cacher, Suivant, Non, Pousser
+- Time-of-day : Matin / Tantôt / Soir / Nuit
 - Pomme Jardin pour l'objet item
+```
 
-v1.2.2 (état précédent — déjà publié)
+```
+[v1.2.2 — état précédent, déjà publié]
+
 - Drag-and-drop pur, BepInEx désactivé
 - Stats FR, dialogues Ink traduits, glossaire complet
 - DD : Succès / Échec, XP gagnée, dates mars/avril/etc.
-- etc.
+```
 ```
 
 ## Screenshots à fournir (TODO)
