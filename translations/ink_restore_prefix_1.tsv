@@ -28,6 +28,7 @@ TestingFeatures	TEST DE FORCE ! V 	ROLL10 int-TEST DE FORCE ! V
 TestingFeatures	TEST DE FORCE ! VE 	ROLL10 wis-TEST DE FORCE ! VE 
 TestingFeatures	TEST DE FORCE ! VER 	ROLL10 cha-TEST DE FORCE ! VER 
 TestingFeatures	TEST DE DEX ! 	ROLL10 dex-TEST DE DEX ! 
+TestingFeatures	Lancer l'initiative. 	IROLL-Lancer l'initiative. 
 TestingFeatures	TEST DE FORCE ! 	ROLL10 str-TEST DE FORCE ! 
 DS_Olzis	Tenter une supposition. 	ROLL18 int-Tenter une supposition. 
 DS_Olzis	Courtiser la bête. 	ROLL30 cha-Courtiser la bête. 
@@ -39,6 +40,7 @@ OP_EverGlad	Élaborer un argument expliquant pourquoi l'information sur sa tenta
 OP_EverGlad	Rassembler le courage de lui dire ton secret le plus profond — la source de toute ton insécurité et de ta honte. 	ROLL28 con-Rassembler le courage de lui dire ton secret le plus profond — la source de toute ton insécurité et de ta honte. 
 CB_Pickaxe	Comprendre comment en extraire le sort. 	ROLL14 int-Comprendre comment en extraire le sort. 
 TS_Seagull	Une dernière tentative. <i>Caresser l'oiseau.</i> 	ROLL10 dex-Une dernière tentative. <i>Caresser l'oiseau.</i> 
+TS_Seagull	Lancer l'initiative. 	IROLL-Lancer l'initiative. 
 TS_Seagull	Attraper l'oiseau. 	ROLL13 str-Attraper l'oiseau. 
 TS_Seagull	S'allonger et se recroqueviller en petite boule et crier : « Je ne consens pas ! » 	ROLL8 con-S'allonger et se recroqueviller en petite boule et crier : « Je ne consens pas ! » 
 TS_Seagull	Attraper l'oiseau. 	ROLL13 str-Attraper l'oiseau. 
@@ -46,6 +48,7 @@ TS_Seagull	Excuse-toi. Sincerely. 	ROLL10 wis-Excuse-toi. Sincerely.
 VL_Ost	Tenter de sauver la question. 	ROLL10 dex-Tenter de sauver la question. 
 VL_Ost	« Moi non plus je n'aime pas le lait. » 	ROLL7 cha-« Moi non plus je n'aime pas le lait. » 
 VL_Ost	Trouver un argument raisonnable. (Probablement avec un mensonge.) 	ROLL15 cha-Trouver un argument raisonnable. (Probablement avec un mensonge.) 
+VL_Ost	Lancer l'initiative. 	IROLL-Lancer l'initiative. 
 VL_Ost	Te pousser à la limite — resserrer ta prise sur l'arbalète ! 	ROLL12 str-Te pousser à la limite — resserrer ta prise sur l'arbalète ! 
 VL_Ost	Lui demander gentiment de lâcher prise. 	ROLL11 cha-Lui demander gentiment de lâcher prise. 
 VL_Ost	Déstabiliser la caisse sur laquelle il est assis. 	ROLL8 dex-Déstabiliser la caisse sur laquelle il est assis. 

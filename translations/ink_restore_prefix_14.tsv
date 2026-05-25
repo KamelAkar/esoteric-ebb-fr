@@ -1,5 +1,6 @@
 PC_Thal	Débloquer la serrure. 	ROLL15 dex-Débloquer la serrure. 
 PC_AzgalDoor	Prouver que vous êtes un Azgal. 	ROLL8 wis-Prouver que vous êtes un Azgal. 
+Enc_Crossing	Lancer l'initiative. 	IROLL-Lancer l'initiative. 
 Enc_Crossing	Tenter une contre-attaque. 	ROLL12 str-Tenter une contre-attaque. 
 Enc_Crossing	Tenter de retrouver ton sang-froid. 	ROLL8 con-Tenter de retrouver ton sang-froid. 
 Enc_Crossing	Frapper l'agresseur d'un coup de poing. 	ROLL18 str-Frapper l'agresseur d'un coup de poing. 

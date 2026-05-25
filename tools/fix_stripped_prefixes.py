@@ -13,7 +13,13 @@ REPO = Path(__file__).resolve().parent.parent
 
 # For each sharedassets index, parse its ink_sync TSV, identify stripped-prefix entries,
 # and generate a "restore prefix" patch
-PREFIX_RE = re.compile(r'^((?:ROLL|DC|FC|IROLL)\d+(?:\s+\w+)?-)')
+# Préfixes de choix Ink :
+#   ROLL<n> <stat>-    jet à dés (Wisdom, etc.)
+#   DC<n> <stat>-      check à DC (skill check)
+#   FC<n> <stat>-      check à FC (free check)
+#   IROLL-             initiative de combat (PAS de nombre)
+#   SPELL <name>-      lancer un sort
+PREFIX_RE = re.compile(r'^((?:ROLL|DC|FC)\d+(?:\s+\w+)?-|IROLL-|SPELL\s+\w+-)')
 
 per_file_patches = defaultdict(list)
 

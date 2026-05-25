@@ -1,9 +1,11 @@
 JC_Gorm	Essayer de le comprendre. 	ROLL10 wis-Essayer de le comprendre. 
 JC_Gorm	Argumenter pour un autre chemin. 	ROLL18 cha-Argumenter pour un autre chemin. 
 JC_Gorm	Le convaincre de tenir son serment envers Urth, avec ferveur religieuse. 	ROLL27 str-Le convaincre de tenir son serment envers Urth, avec ferveur religieuse. 
+JC_Gorm	Lancer l'initiative. 	IROLL-Lancer l'initiative. 
 JC_Gorm	Frapper Snell. 	ROLL12 str-Frapper Snell. 
 JC_Gorm	Battre Snell. 	ROLL6 str-Battre Snell. 
 JC_Gorm	Le faire descendre de ton dos. 	ROLL6 str-Le faire descendre de ton dos. 
+JC_Gorm	Lancer l'initiative. 	IROLL-Lancer l'initiative. 
 JC_Gorm	Attaque ! ATTAQUE ! 	ROLL21 str-Attaque ! ATTAQUE ! 
 JC_Gorm	Esquive ! Essaie d'esquiver ! 	ROLL17 dex-Esquive ! Essaie d'esquiver ! 
 JC_Gorm	Suis son mouvement. Essaie de le prédire. 	ROLL9 wis-Suis son mouvement. Essaie de le prédire. 
