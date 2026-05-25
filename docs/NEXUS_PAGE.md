@@ -135,27 +135,23 @@ RÈGLES STRICTES Nexus changelog :
 ### v1.3.2
 
 ```
-Hotfix critique : l'initiative de combat ne se déclenchait pas (zombie de l'intro et autres combats), dialogue en boucle infinie.
-Cause : mon regex de restauration des préfixes en v1.3.1 manquait le format IROLL- (initiative, sans nombre contrairement à ROLL16 wis-).
+Fix : initiative de combat qui ne se déclenchait pas (zombie de l'intro et autres combats), dialogue en boucle infinie.
 14 préfixes IROLL- et SPELL restaurés dans tout le jeu.
-Merci à AvatarTix8 pour le report et la suggestion de fix précise.
 ```
 
 ### v1.3.1
 
 ```
-Mise à jour majeure : couverture FR poussée à 99,99% et plusieurs bugs critiques corrigés.
-Fix critique : préfixe DC visible sur les choix de jet (parseur Ink cassé). Résolu.
-Fix critique : préfixe ROLL visible sur les choix de jet (ex. ROLL16 wis-...). Même cause. Résolu.
-Fix critique : choix manuels S/F après un jet (ex. Tenter une Prière de Guérison). 219 préfixes ROLL/DC/FC restaurés.
-Fix critique : dialogues mixtes FR/EN dans tout le jeu (ex. "I have some other questions. Je crois."). 15 400 traductions Ink synchronisées depuis le Dialogs CSV.
-Intro Lower Lair intégralement traduite (Zombie, Tas de pommes, Cadavre Sven, Sable Moustique, Manteau Garde-d'Urth, vérification zombie). Environ 800 strings.
-395 lignes restantes du Dialogs CSV traduites (EN/mix du précédent traducteur).
-Notes de session (résumé sur l'écran de chargement) intégralement traduites.
+Fix : préfixe DC visible sur les choix de jet (parseur Ink cassé).
+Fix : préfixe ROLL visible sur les choix de jet (ex. ROLL16 wis-...).
+Fix : choix manuels S/F après un jet. 219 préfixes ROLL/DC/FC restaurés.
+Fix : dialogues mixtes FR/EN dans tout le jeu. 15 400 traductions Ink synchronisées.
+Intro Lower Lair intégralement traduite (Zombie, Tas de pommes, Cadavre Sven, Sable Moustique, Manteau Garde-d'Urth, vérification zombie). 800 strings.
+395 lignes restantes du Dialogs CSV traduites.
+Notes de session (résumé écran de chargement) intégralement traduites.
 Tiers de difficulté : Challenging devient Difficile, Daunting devient Pénible, Effortless devient Trivial, Medium devient Moyen.
-"Journal Updated" devient "Journal mis à jour".
-35 choix DC/FC de l'intro non couverts (Dick-Ass Roublard, Contrôle, Pour sauver le monde, etc.).
-Connu : badge DC sur les jets reste en DC (le littéral est en double-usage avec le parseur de choix, le changer casserait les jets).
+Journal Updated devient Journal mis à jour.
+35 choix DC/FC de l'intro traduits (Dick-Ass Roublard, Contrôle, Pour sauver le monde, etc.).
 ```
 
 ### v1.3.0
@@ -169,8 +165,8 @@ Items : Bottes, Manteau, Fiole, Dague, Sac sans Fond, Ceinture des Nains, Martea
 Devise : Crowns devient Écus.
 Tooltips Grimoire (Sorts Préparés, Sorts Collectés, Difficulté de Sort).
 Popups Stockage Profond (bourse) traduits.
-Fix du bug "one single time" dans Quest_34.
-DC devient DD partout (terminologie D&D 5e VF officielle).
+Fix du bug one single time dans Quest_34.
+DC devient DD partout.
 Factions : Errant, Apolitique, Agrarien, Arcaniste, Azgaliste.
 Verbes UI : Retour, Annuler, Lancer, Cacher, Suivant, Non, Pousser.
 Time-of-day : Matin, Tantôt, Soir, Nuit.
