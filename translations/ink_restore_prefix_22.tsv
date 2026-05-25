@@ -3,6 +3,7 @@ OP_Fiend	Le convaincre de t'en dire davantage sur son passé fort poignant. 	ROL
 OP_Fiend	Protéger ton esprit. 	ROLL15 cha-Protéger ton esprit. 
 OP_Chimera	Surmonter la douleur. (Résister à la force magique.) 	ROLL13 str-Surmonter la douleur. (Résister à la force magique.) 
 OP_Efreeti	(Supporter la douleur.) 	ROLL9 con-(Supporter la douleur.) 
+Enc_Final	Lancer l'initiative. 	IROLL-Lancer l'initiative. 
 Enc_Final	Frapper les jambes de l'assassine. 	ROLL12 str-Frapper les jambes de l'assassine. 
 Enc_Final	Ne pas combattre. Essayer simplement de comprendre... 	ROLL9 wis-Ne pas combattre. Essayer simplement de comprendre... 
 Enc_Final	\"Discutons, simplement ! Nous ne sommes pas venus nous battre !\" 	ROLL22 cha-\"Discutons, simplement ! Nous ne sommes pas venus nous battre !\" 

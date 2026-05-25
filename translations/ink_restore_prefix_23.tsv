@@ -8,12 +8,14 @@ UP_Labyrinth	Dodge! 	ROLL14 dex-Dodge!
 UP_Labyrinth	Tiens bon. 	ROLL13 str-Tiens bon. 
 UP_Labyrinth	Te frayer un chemin à tâtons. 	ROLL15 wis-Te frayer un chemin à tâtons. 
 UP_Labyrinth	Écoute. 	ROLL15 con-Écoute. 
+UP_Labyrinth	Lancer l'initiative. 	IROLL-Lancer l'initiative. 
 UP_Labyrinth	Frapper le plus proche. 	ROLL20 str-Frapper le plus proche. 
 UP_Labyrinth	Esquiver et zigzaguer. 	ROLL16 dex-Esquiver et zigzaguer. 
 UP_Labyrinth	Chercher un schéma dans leurs mouvements. 	ROLL18 wis-Chercher un schéma dans leurs mouvements. 
 UP_Labyrinth	Charger à travers eux. 	ROLL14 str-Charger à travers eux. 
 UP_Labyrinth	Battre en retraite vers la sortie. 	ROLL12 dex-Battre en retraite vers la sortie. 
 UP_Gourgalash	S'approcher furtivement. 	ROLL12 dex-S'approcher furtivement. 
+UP_Gourgalash	Lancer l'initiative. 	IROLL-Lancer l'initiative. 
 UP_Gourgalash	Plaquer sa jambe. 	ROLL15 str-Plaquer sa jambe. 
 UP_Gourgalash	Te blinder les nerfs. 	ROLL9 con-Te blinder les nerfs. 
 UP_Gourgalash	Essayer de le calmer. 	ROLL12 wis-Essayer de le calmer. 

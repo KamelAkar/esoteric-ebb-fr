@@ -44,6 +44,12 @@ Patch de traduction française pour [url=https://store.steampowered.com/app/2647
 
 [b]Désinstallation[/b] : Steam > Vérifier l'intégrité des fichiers (restaure l'anglais).
 
+[size=4][b]Nouveautés v1.3.2[/b][/size]
+
+[list]
+[*][b]Hotfix critique[/b] : l'initiative de combat ne se déclenchait pas (zombie de l'intro + autres combats), le dialogue bouclait à l'infini. Mon regex de restauration des préfixes en v1.3.1 manquait le format `IROLL-` (initiative). 14 préfixes IROLL-/SPELL restaurés. Merci à AvatarTix8 pour le report.
+[/list]
+
 [size=4][b]Nouveautés v1.3.1[/b][/size]
 
 [list]
@@ -111,6 +117,9 @@ translation, french, francais, fr, traduction, ui, dialogue, no-bepinex
 ## Changelog
 
 ```
+v1.3.2 (2026-05-24)
+- HOTFIX CRITIQUE : l'initiative de combat (IROLL-) ne se déclenchait pas → dialogue en boucle infinie. Préfixes IROLL-/SPELL restaurés (~14 choix). Report par AvatarTix8.
+
 v1.3.1 (2026-05-21)
 - FIX CRITIQUE : préfixe "DC" et "ROLL" visibles sur les choix de jet (toute la partie était impactée)
 - FIX CRITIQUE : choix manuels "S"/"F" après un jet (219 préfixes ROLL/DC/FC restaurés)

@@ -8,6 +8,7 @@ EP_Borgo	Découvrir ce qu'il en est avec ce type. 	ROLL20 str-Découvrir ce qu'i
 TS_Alfoz	Construire un argument expliquant pourquoi vous devriez avoir les papiers. 	ROLL8 int-Construire un argument expliquant pourquoi vous devriez avoir les papiers. 
 TS_Alfoz	Le faire vous frapper. 	ROLL12 cha-Le faire vous frapper. 
 TS_Alfoz	Lui montrer pourquoi c'est dans son intérêt de partir. 	ROLL10 wis-Lui montrer pourquoi c'est dans son intérêt de partir. 
+TS_Alfoz	Lancer l'initiative. 	IROLL-Lancer l'initiative. 
 TS_Alfoz	Ne rien dire, juste ne pas le laisser vous dépasser. 	ROLL5 con-Ne rien dire, juste ne pas le laisser vous dépasser. 
 TS_Alfoz	L'insulter. 	ROLL5 cha-L'insulter. 
 TS_Alfoz	Continuer à tenir bon. 	ROLL10 con-Continuer à tenir bon. 
@@ -18,6 +19,7 @@ TS_Rollermill	Tenter de sauter du moulin. 	ROLL15 str-Tenter de sauter du moulin
 EP_Ettir	Tentative finale : flirter avec l'ange. 	ROLL16 cha-Tentative finale : flirter avec l'ange. 
 EP_Ettir	Objectif : survivre au flirt. 	ROLL19 con-Objectif : survivre au flirt. 
 EP_Moongore	Exiger plus. 	ROLL16 str-Exiger plus. 
+Enc_Night	Lancer l'initiative. 	IROLL-Lancer l'initiative. 
 Enc_Night	« TU TE TROMPES DE CLERC ! »\"\" 	ROLL13 cha-« TU TE TROMPES DE CLERC ! »\"\" 
 Enc_Night	Essayer de comprendre ton agresseur. 	ROLL15 wis-Essayer de comprendre ton agresseur. 
 Enc_Night	Frapper l'agresseur d'un coup de poing. 	ROLL13 str-Frapper l'agresseur d'un coup de poing. 
@@ -38,6 +40,7 @@ Default_PillarofJor	Try meditate on it. 	ROLL5 wis-Try meditate on it.
 Default_PillarofJor	Essayer de lui parler. 	ROLL10 cha-Essayer de lui parler. 
 Default_PillarofJor	Essayer de le RESSENTIR. 	ROLL15 str-Essayer de le RESSENTIR. 
 Default_PillarofJor	Essayer de raisonner avec elle. 	ROLL20 int-Essayer de raisonner avec elle. 
+TS_Kull	Lancer l'initiative. 	IROLL-Lancer l'initiative. 
 TS_Kull	L'intimider. 	ROLL15 cha-L'intimider. 
 TS_Kull	Le feinter, puis combler la distance entre vous. 	ROLL19 dex-Le feinter, puis combler la distance entre vous. 
 TS_Kull	L'empoigner, et le maîtriser jusqu'à la soumission. 	ROLL20 str-L'empoigner, et le maîtriser jusqu'à la soumission. 

@@ -1,5 +1,15 @@
 # Changelog — Patch FR Esoteric Ebb
 
+## v1.3.2 — 2026-05-24
+
+**Hotfix critique** suite à un report joueur Nexus (AvatarTix8).
+
+### Correction critique
+
+- **L'initiative de combat ne se déclenchait pas** (zombie de l'intro et autres combats) : dialogue qui boucle infiniment au lieu de lancer le combat. Cause identifiée : mon regex de restauration des préfixes de v1.3.1 manquait le préfixe **`IROLL-`** (format différent — pas de nombre après, contrairement à `ROLL16 wis-`). 14 préfixes `IROLL-` et `SPELL <nom>-` restaurés à travers tout le jeu.
+
+Merci à AvatarTix8 pour le report et la suggestion de fix précise.
+
 ## v1.3.1 — 2026-05-21
 
 **Mise à jour majeure** : couverture FR poussée à ~99.99% et correction de plusieurs bugs gameplay critiques introduits par les versions précédentes.
