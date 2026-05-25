@@ -12,7 +12,7 @@ from pathlib import Path
 sys.stdout.reconfigure(encoding='utf-8')
 
 SRC_LIVE = Path(r"C:\Program Files (x86)\Steam\steamapps\common\Esoteric Ebb\Esoteric Ebb_Data\il2cpp_data\Metadata\global-metadata.dat")
-SRC = Path(r"C:\Users\Ravnow\Documents\esoteric-ebb-fr\metadata_strings\global-metadata.dat.patched")  # read POST metadata_apply.py
+SRC = Path(__file__).resolve().parent.parent / "metadata_strings" / "global-metadata.dat.patched"  # read POST metadata_apply.py
 OUT = SRC_LIVE  # write directly to game
 
 # Hardcoded relative offsets within strings section (from original backup dump).
