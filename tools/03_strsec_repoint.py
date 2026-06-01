@@ -30,11 +30,16 @@ N_SECTIONS = (HEADER_SIZE - 8) // 8
 
 
 # Strings to repoint in 'strings' section.
+# DÉSACTIVÉ 2026-05-26 (HOTFIX v1.3.4) : la section 'strings' contient les noms de
+# TYPES/CLASSES/MÉTHODES de réflexion .NET. Repointer Wisdom/Dexterity/Behold/Trifle
+# (qui sont aussi des noms de types/enum référencés par le code) casse la résolution
+# de scripts et de scènes → "scene not found", zones inaccessibles, map cassée.
+# L'affichage FR des stats vient des patches stringLiteral (idx) dans 02, qui restent actifs.
 STRSEC_REPOINTS = [
-    ('Wisdom', 'Sagesse'),
-    ('Dexterity', 'Dextérité'),
-    ('Behold', 'Examiner'),
-    ('Trifle', 'Chaparder'),
+    # ('Wisdom', 'Sagesse'),       # cassait la réflexion
+    # ('Dexterity', 'Dextérité'),  # cassait la réflexion
+    # ('Behold', 'Examiner'),      # cassait la réflexion
+    # ('Trifle', 'Chaparder'),     # cassait la réflexion
     # ('Inventory', 'Inventaire'),  # BREAKS inventory UI — class/method name in stringSize
 ]
 

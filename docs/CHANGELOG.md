@@ -1,5 +1,15 @@
 # Changelog — Patch FR Esoteric Ebb
 
+## v1.3.4 — 2026-05-26
+
+**Hotfix majeur** : zones inaccessibles ("scene not found"), map coupée, sort Bless cassé.
+
+### Correction critique
+
+- Les patches sur la section `strings` de la metadata (catégories du journal : City/Skills/Geography/History/Language/Politics/Religion/Nature/Literature, le sort Bless, et les repoints Wisdom/Dexterity/Behold/Trifle) renommaient en réalité des noms de **types/classes/méthodes de réflexion .NET**. "History" (42 occurrences) et "Language" (26) à eux seuls corrompaient des dizaines de noms internes, cassant la résolution de scripts et de scènes → "scene not found", map coupée, script Bless manquant.
+- Toute la section `strings` revient à l'état vanilla. L'affichage FR des stats reste assuré par les patches stringLiteral (sûrs).
+- Effet de bord assumé : les libellés des catégories du journal et quelques noms internes réaffichés en anglais.
+
 ## v1.3.2 — 2026-05-24
 
 **Hotfix critique** suite à un report joueur Nexus (AvatarTix8).
