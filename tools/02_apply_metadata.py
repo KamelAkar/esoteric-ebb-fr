@@ -499,8 +499,17 @@ def main():
     print(f"strings section:     0x{sOff:X} (size 0x{sSize:X})")
     print()
 
-    # ---- STRSEC patches (in-place only — section format doesn't support repoint trivially) ----
-    patch_strings_section(raw, version, sOff, sSize)
+    # ---- STRSEC patches DÉSACTIVÉS 2026-05-26 (HOTFIX v1.3.4) ----
+    # La section 'strings' contient les noms de TYPES/CLASSES/MÉTHODES de réflexion .NET,
+    # PAS seulement des noms d'enum d'affichage. Les patcher par byte-match casse la
+    # résolution de scripts et de scènes :
+    #   - "Bless" (52? non, 2) → cassait le script du sort Bless (log : "referenced script Bless missing")
+    #   - "History" = 52 occurrences, "Language" = 26 → corrompait des dizaines de noms
+    #     de types/méthodes de réflexion → "scene not found", map cassée, zones inaccessibles.
+    # Report joueurs Nexus (zones inaccessibles, Goblin Garden "scene not found", map coupée).
+    # L'affichage FR des stats/journal vient des patches stringLiteral (idx), qui restent actifs.
+    # patch_strings_section(raw, version, sOff, sSize)
+    print("[STRSEC] DÉSACTIVÉ (cassait la résolution de scripts/scènes) — voir hotfix v1.3.4")
     print()
 
     appended = bytearray()  # bytes to append to end of stringLiteralData
