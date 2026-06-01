@@ -132,19 +132,13 @@ RÈGLES STRICTES Nexus changelog :
 
 À CHAQUE nouvelle version, ajouter une nouvelle entrée changelog avec le bloc texte correspondant. Coller TEL QUEL (sans les triples backticks).
 
-### v1.3.4
+### v1.3.3
 
 ```
 Fix majeur : certaines zones étaient inaccessibles (scene not found), la map était coupée, et le sort Bless était cassé.
 Cause : des patches sur les noms de types internes du jeu (catégories du journal, Bless) corrompaient la résolution des scripts et des scènes.
 Ces noms reviennent à l'état d'origine. L'affichage des stats reste en français.
 Effet de bord : quelques libellés de catégories du journal et certains noms internes réaffichés en anglais (compromis nécessaire pour ne plus casser les scènes).
-```
-
-### v1.3.3
-
-```
-Fix : patches STRSEC metadata (Chaparder pour Trifle, etc.) qui n'étaient pas appliqués depuis v1.3.x à cause d'un chemin pipeline cassé.
 ```
 
 ### v1.3.2
