@@ -10,6 +10,12 @@
 - Toute la section `strings` revient à l'état vanilla. L'affichage FR des stats reste assuré par les patches stringLiteral (sûrs).
 - Effet de bord assumé : les libellés des catégories du journal et quelques noms internes réaffichés en anglais.
 
+## v1.3.3 — 2026-05-25
+
+### Correction
+
+- Patches STRSEC metadata (Chaparder pour Trifle, etc.) qui n'étaient pas appliqués depuis v1.3.x à cause d'un chemin pipeline cassé. (Note : ces patches STRSEC sont entièrement revertés en v1.3.4 car ils corrompaient la résolution de scripts/scènes.)
+
 ## v1.3.2 — 2026-05-24
 
 **Hotfix critique** suite à un report joueur Nexus (AvatarTix8).
