@@ -6,9 +6,9 @@
 
 ### Correction critique
 
-- 17 noms de scène Unity (Goblin Garden, Drunk Sphinx, Guild Warehouse, City Below, Old Prison, etc.) avaient été traduits en français dans les fichiers de niveau. Les portes appelaient des scènes au nom français qui n'existent pas → "scene not found" systématique, portes bloquées, map coupée.
-- Seuls ces noms de scène sont remis en anglais (1103 occurrences, slot-preserving). TOUTE la traduction est conservée : menu principal et pause, création de personnage, stats, objets, factions, dialogues.
-- Effet de bord assumé : les noms de zones sur la carte du monde réaffichés en anglais (indispensable pour que les scènes se chargent).
+- Zones inaccessibles ("scene not found"), portes bloquées, map coupée : les noms de scène Unity (Goblin Garden, City Below, etc.) avaient été traduits en français dans les fichiers de niveau par une méthode (re-sérialisation) qui corrompt aussi la structure de ces fichiers. Les scènes concernées plantaient le jeu dès qu'on tentait d'y entrer.
+- Fichiers de niveau repartis du vanilla (propres, structure intacte). Les traductions sûres sont ré-appliquées en slot-preserving (sans modifier la taille des fichiers) : menu principal et pause, libellés de création de personnage (Force, Dextérité, Sagesse, Maîtrisé, etc.), objets, factions.
+- Effet de bord assumé : les noms de zones sur la carte du monde restent en anglais (indispensable pour le chargement des scènes), et les longs textes des cartes de lore en création de personnage restent en anglais (impossible à traduire sans re-sérialiser, ce qui re-corromprait les fichiers). Les dialogues du jeu, eux, sont entièrement traduits.
 - Corrige aussi 2 dialogues au JSON cassé (Q_Sea, CB_CraniumAnt).
 
 ## v1.3.3 — 2026-05-26
