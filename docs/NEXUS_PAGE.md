@@ -132,6 +132,16 @@ RÈGLES STRICTES Nexus changelog :
 
 À CHAQUE nouvelle version, ajouter une nouvelle entrée changelog avec le bloc texte correspondant. Coller TEL QUEL (sans les triples backticks).
 
+### v1.3.4
+
+```
+Fix majeur : zones inaccessibles (scene not found), portes bloquées et map coupée au début du jeu (Jardin des Gobelins, pont).
+Cause : les noms de scène internes avaient été traduits dans les fichiers de niveau, empêchant le jeu de charger les zones.
+Fichiers de niveau corrigés ; dialogues, UI et autres traductions conservés.
+Effet de bord : les noms de zones sur la carte du monde réaffichés en anglais.
+Corrige aussi 2 dialogues au texte cassé.
+```
+
 ### v1.3.3
 
 ```

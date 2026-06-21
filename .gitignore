@@ -38,3 +38,5 @@ Thumbs.db
 
 # Distributables (built ZIP — generated)
 dist/
+backups/VANILLA_FULL/
+build_tmp/
