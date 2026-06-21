@@ -1,17 +1,17 @@
-"""HOTFIX: revert Unity scene-NAME strings in level files back to English.
+"""Revert ONLY the Unity scene-NAME strings (FR -> EN) in the previously-translated
+level files, keeping every other translation (menu, char creation, stats, items,
+factions, dialogue) intact.
 
-The previous translator translated ALL build-settings scene names (Goblin Garden,
-Lower Lair, etc.) to French inside the level files. Scene-LOAD references use these
-exact strings to call SceneManager.LoadScene(name); with French names the engine
-fails with "Scene not found".
+The previous translator re-serialized the level files to translate EVERYTHING
+(which works fine for display/GameObject names) but ALSO translated the build-
+settings scene names used by SceneManager.LoadScene(). French scene names don't
+exist in build settings -> "scene not found". This reverts just those names.
 
-Level files are slot-preserving (same byte size vanilla vs patched), so we do a
-POSITIONAL revert: for every length-prefixed scene-name string in the VANILLA file,
-copy its exact slot bytes (4-byte length + content + padding) into the patched file
-at the same offset. This restores scene names to English while preserving every
-other translation (factions, item names, action verbs, dialogue).
+Slot-preserving: replace the length-prefixed French name with the English name
+(new length + content + null pad) inside the SAME 4-byte-aligned slot, so file
+size and all internal offsets are unchanged.
 
-Usage: python tools/06_revert_scene_names.py <vanilla_dir> <patched_dir> <out_dir>
+Usage: python tools/06_revert_scene_names.py <fr_levels_dir> <out_dir>
 """
 import sys
 import os
@@ -19,62 +19,73 @@ import struct
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-SCENE_NAMES = [
-    "MainMenu", "DebugArea", "Lower Lair", "Visken's Lair", "Tolstad",
-    "Darrow's Nest", "Guard Tower", "Rollermill", "Tea Shop", "Secret Tunnel",
-    "Temple of Urth", "Drunk Sphinx", "Goblin Garden", "Guild Warehouse",
-    "Pillar Crossing", "Simii's Hole", "Snell's Pad", "Snurre's Office",
-    "Askanii-Reeds", "Waterlane View", "City Below", "Lisa's Place",
-    "Old Prison", "Undercoast Path", "Jor's Crossroad",
-]
+# French scene name -> English build-settings name (verified 1:1 by occurrence count).
+# Lower Lair / Visken's Lair / Tolstad / Rollermill / Askanii-Reeds / Waterlane View
+# were NOT translated (kept English) -> no entry needed.
+FR_TO_EN = {
+    "Jardin Gobelin": "Goblin Garden",
+    "Sphinx Ivre": "Drunk Sphinx",
+    "Entrepôt de la Guilde": "Guild Warehouse",
+    "Nid de Darrow": "Darrow's Nest",
+    "Tour de Garde": "Guard Tower",
+    "Bureau de Snurre": "Snurre's Office",
+    "Trou de Simii": "Simii's Hole",
+    "Salon de Thé": "Tea Shop",
+    "Tunnel Secret": "Secret Tunnel",
+    "Temple d'Urth": "Temple of Urth",
+    "Croisée du Pilier": "Pillar Crossing",
+    "Cité d'En Bas": "City Below",
+    "Vieille Prison": "Old Prison",
+    "Croisée de Jor": "Jor's Crossroad",
+    "Chez Lisa": "Lisa's Place",
+    "Logis de Snell": "Snell's Pad",
+    "Chemin de la Côte d'En Bas": "Undercoast Path",
+}
 
 
 def slot_size(content_len):
-    # Unity length-prefixed string: 4-byte length + content, padded to 4-byte boundary
-    return 4 + ((content_len + 3) & ~3)
+    return (4 + content_len + 3) & ~3
 
 
-def revert_file(van_path, pat_path, out_path):
-    van = van_path.read_bytes() if hasattr(van_path, "read_bytes") else open(van_path, "rb").read()
-    pat = bytearray(open(pat_path, "rb").read())
-    if len(van) != len(pat):
-        print(f"  SKIP {os.path.basename(pat_path)}: size mismatch {len(van)} vs {len(pat)}")
-        return 0
+def revert_file(path, out_path):
+    data = bytearray(open(path, "rb").read())
     reverts = 0
-    for name in SCENE_NAMES:
-        sb = name.encode("utf-8")
-        prefix = struct.pack("<I", len(sb))
-        needle = prefix + sb  # length-prefixed occurrence in vanilla
-        ss = slot_size(len(sb))
+    for fr, en in FR_TO_EN.items():
+        fr_b = fr.encode("utf-8")
+        en_b = en.encode("utf-8")
+        fr_slot = slot_size(len(fr_b))
+        if 4 + len(en_b) > fr_slot:
+            print(f"  [SKIP] {fr!r}->{en!r}: EN too long for slot ({4+len(en_b)} > {fr_slot})")
+            continue
+        needle = struct.pack("<I", len(fr_b)) + fr_b
         pos = 0
         while True:
-            i = van.find(needle, pos)
+            i = data.find(needle, pos)
             if i < 0:
                 break
-            # i points at the length prefix. Copy the whole vanilla slot to patched.
-            van_slot = van[i:i + ss]
-            if bytes(pat[i:i + ss]) != van_slot:
-                pat[i:i + ss] = van_slot
-                reverts += 1
-            pos = i + 1
-    open(out_path, "wb").write(pat)
+            new_slot = bytearray(fr_slot)
+            struct.pack_into("<I", new_slot, 0, len(en_b))
+            new_slot[4:4 + len(en_b)] = en_b
+            data[i:i + fr_slot] = new_slot
+            reverts += 1
+            pos = i + fr_slot
+    open(out_path, "wb").write(data)
     return reverts
 
 
 def main():
-    van_dir, pat_dir, out_dir = sys.argv[1], sys.argv[2], sys.argv[3]
+    fr_dir, out_dir = sys.argv[1], sys.argv[2]
     os.makedirs(out_dir, exist_ok=True)
     total = 0
     for i in range(0, 25):
-        vf = os.path.join(van_dir, f"level{i}")
-        pf = os.path.join(pat_dir, f"level{i}")
-        of = os.path.join(out_dir, f"level{i}")
-        if not (os.path.exists(vf) and os.path.exists(pf)):
+        fp = os.path.join(fr_dir, f"level{i}")
+        op = os.path.join(out_dir, f"level{i}")
+        if not os.path.exists(fp):
             continue
-        n = revert_file(vf, pf, of)
+        n = revert_file(fp, op)
         total += n
-        print(f"level{i}: {n} scene-name slots reverted to English")
-    print(f"\nTotal scene-name slots reverted: {total}")
+        print(f"level{i}: {n} scene-name occurrences reverted FR->EN")
+    print(f"\nTotal scene-name occurrences reverted: {total}")
 
 
 if __name__ == "__main__":
