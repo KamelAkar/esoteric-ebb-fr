@@ -137,9 +137,8 @@ RÈGLES STRICTES Nexus changelog :
 ```
 Fix majeur : zones inaccessibles (scene not found), portes bloquées et map coupée au début du jeu (Jardin des Gobelins, pont).
 Cause : les noms de scène internes avaient été traduits dans les fichiers de niveau, empêchant le jeu de charger les zones.
-Fichiers de niveau corrigés ; dialogues, UI et autres traductions conservés.
-Menu principal et menu pause (Échap) re-traduits.
-Effet de bord : les noms de zones sur la carte du monde réaffichés en anglais ; Quit/Exit/Save restent en anglais.
+Seuls les 17 noms de scène concernés sont remis en anglais ; toute la traduction est conservée (menu, création de personnage, stats, objets, dialogues).
+Effet de bord : les noms de zones sur la carte du monde réaffichés en anglais.
 Corrige aussi 2 dialogues au texte cassé.
 ```
 
