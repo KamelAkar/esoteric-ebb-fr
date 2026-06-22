@@ -28,6 +28,19 @@ DEP_FILES = [
     "resources.assets", "resources.assets.resS",
 ]
 
+# Fresh DISPLAY-only translations for location labels the previous translator left
+# in English. These are m_text (map labels) ONLY — the scene-load name lives in a
+# separate field, so the scene still loads. Exact-match on the stripped m_text.
+# Proper nouns (Tolstad, Visken, Askanii, Waterlane, Jor) are kept; only the common
+# noun is translated.
+DISPLAY_NAMES = {
+    "Lower Lair": "Antre Inférieur",
+    "Visken's Lair": "Antre de Visken",
+    "Rollermill": "Le Moulin",
+    "Waterlane View": "Vue de Waterlane",
+    "Askanii-Reeds": "Roseaux d'Askanii",
+}
+
 
 def make_gen():
     gen = TypeTreeGenerator("6000.1.17f1")
@@ -86,11 +99,16 @@ def translate_level(van_path, fr_path, deps_dir, out_dir, gen, idx):
             t = obj.read_typetree()
         except Exception:
             continue
-        if not (isinstance(t, dict) and "m_text" in t):
+        if not (isinstance(t, dict) and "m_text" in t and t["m_text"] is not None):
             continue
+        orig = t["m_text"]
         fr = frmap[obj.path_id]
-        if fr and fr != t["m_text"]:
-            t["m_text"] = fr
+        if fr and fr != orig:
+            new = fr
+        else:
+            new = DISPLAY_NAMES.get(orig.strip())
+        if new and new != orig:
+            t["m_text"] = new
             obj.save_typetree(t)
             applied += 1
     save_dir = os.path.join(out_dir, f"_save_{idx}")
