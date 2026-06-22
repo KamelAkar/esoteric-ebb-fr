@@ -57,11 +57,11 @@ DATE_PATCHES = [
     (8026, 'March', 'mars'),
     (8027, 'March ', 'mars '),
     (2790, 'April', 'avril'),
-    (2974, 'August', 'août'),
-    (4816, 'December', 'décembr'),
+    (2974, 'August', 'août'),  # 5<6 in-place (â=2B) — mot complet
+    (4816, 'December', 'décembre'),  # 9>8 REPOINT — corrige le 'e' coupé
     (5868, 'February', 'février'),
     (7489, 'January', 'janvier'),
-    (7506, 'July', 'juil'),
+    (7506, 'July', 'juillet'),  # 7>4 REPOINT — mot complet
     (7508, 'June', 'juin'),
     (8078, 'May', 'mai'),
 
@@ -102,7 +102,7 @@ DATE_PATCHES = [
     # label is at idx 6423 ('Helmets'). Validated visually 2026-05-19.
     (6423, 'Helmets', 'Casques'),       # 7=7 in-place
     (12134, 'Trinkets', 'Babioles'),    # 8=8 in-place
-    (4234, 'Consumables', 'Consomm.'),  # 11>8 in-place shorter
+    (4234, 'Consumables', 'Consommables'),  # 12>11 REPOINT — mot complet (avant: 'Consomm.')
     (7794, 'Literature', 'Livres'),     # 10>6 in-place shorter
     (4074, 'Clericals', 'Cléricaux'),   # 9<10 REPOINT (+1 byte)
     (13527, '[Empty Feat Slot]', '[Don vide]'),
@@ -249,7 +249,7 @@ PATCHES = [
     (1737, '1st level Spellslots +', 'Slots de sort niv 1 +'),
     (1793, '2nd level Spellslots +', 'Slots de sort niv 2 +'),
     (1804, '3rd level Spellslots +', 'Slots de sort niv 3 +'),
-    (10500, 'Spells to Prepare: ', 'Sorts à prép. : '),
+    (10500, 'Spells to Prepare: ', 'Sorts à préparer : '),  # REPOINT — mot complet (avant: 'prép.')
     (6501, 'Hit Dice +1', 'Dés de Vie +1'),
 
     # ---- Inventory/UI count formats ----
@@ -262,11 +262,11 @@ PATCHES = [
 
     # ---- Full descriptions (longer format strings, safe) ----
     (65, '\\nSpend 1 hour to recover. Gain (1d8) HP, remove 1 level of exhaustion, and restore 1 spell slot. After resting, all dice checks are unlocked.',
-         '\\nProfite d\'1h pour récupérer. Gagne (1d8) PV, retire 1 niv. d\'épuisement, restaure 1 sort. Les jets se débloquent.'),
+         '\\nProfite d\'1h pour récupérer. Gagne (1d8) PV, retire 1 niveau d\'épuisement, restaure 1 emplacement de sort. Les jets se débloquent.'),
     (10502, 'Spend 1 hour to recover. Gain (1d8) HP, remove 1 level of exhaustion, and restore 1 spell slot.',
-            '1h pour récup. Gagne (1d8) PV, retire 1 niv. d\'épuisement, restaure 1 sort.'),
+            'Passe 1h à récupérer. Gagne (1d8) PV, retire 1 niveau d\'épuisement, restaure 1 emplacement de sort.'),
     (10503, 'Spend 1 hour to recover. Gain (1d8) HP, remove 1 level of exhaustion, and restore 1 spell slot. After resting, all dice checks are unlocked.',
-            'Profite d\'1h pour récupérer. Gagne (1d8) PV, retire 1 niv. d\'épuisement, restaure 1 sort. Les jets se débloquent.'),
+            'Profite d\'1h pour récupérer. Gagne (1d8) PV, retire 1 niveau d\'épuisement, restaure 1 emplacement de sort. Les jets se débloquent.'),
 
     # ---- Previously oversized — now FULL FRENCH via repoint ----
     (9816, 'Resurgent: Regain 2 uses of spent Hit Dice.', 'Renaissant : Récupère 2 usages de Dés de Vie.'),

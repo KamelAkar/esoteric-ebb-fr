@@ -9,6 +9,7 @@
 - Zones inaccessibles ("scene not found"), portes bloquées, map coupée : les noms de scène Unity (Goblin Garden, City Below, etc.) avaient été traduits en français dans les fichiers de niveau par une méthode (re-sérialisation) qui corrompt aussi la structure de ces fichiers. Les scènes concernées plantaient le jeu dès qu'on tentait d'y entrer.
 - Fichiers de niveau repartis du vanilla (propres, structure intacte). Les traductions sûres sont ré-appliquées en slot-preserving (sans modifier la taille des fichiers) : menu principal et pause, libellés de création de personnage (Force, Dextérité, Sagesse, Maîtrisé, etc.), objets, factions.
 - Effet de bord assumé : les noms de zones sur la carte du monde restent en anglais (indispensable pour le chargement des scènes), et les longs textes des cartes de lore en création de personnage restent en anglais (impossible à traduire sans re-sérialiser, ce qui re-corromprait les fichiers). Les dialogues du jeu, eux, sont entièrement traduits.
+- Onglet d'inventaire « Consomm. » remis en entier (« Consommables ») ; mois « décembr »/« juil » corrigés en « décembre »/« juillet » ; libellés de repos dé-abrégés (niveau d'épuisement, emplacement de sort).
 - Corrige aussi 2 dialogues au JSON cassé (Q_Sea, CB_CraniumAnt).
 
 ## v1.3.3 — 2026-05-26
