@@ -16,6 +16,8 @@
 - Les noms de chargement de scène restent en anglais en interne (champ séparé de l'affichage) → l'affichage est en français ET les scènes chargent.
 - Onglet d'inventaire « Consomm. » remis en entier (« Consommables ») ; mois « décembr »/« juil » corrigés en « décembre »/« juillet » ; libellés de repos dé-abrégés.
 - 2 dialogues au texte corrompu réparés (Q_Sea, CB_CraniumAnt).
+- Bug de monnaie corrigé : les écus/couronnes disparaissaient et n'étaient pas dépensables (texte d'achat barré). Les noms d'objets et de la monnaie servaient de clés internes ; ils restent en anglais pour ne pas casser l'économie et les icônes.
+- 433 dialogues cassés réparés (guillemets mal encodés sur les textes à virgule), qui provoquaient l'erreur "error occurred in: Snell" et rendaient des choix non cliquables.
 
 ### Limite connue
 
