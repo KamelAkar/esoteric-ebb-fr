@@ -1,8 +1,8 @@
 # Changelog — Patch FR Esoteric Ebb
 
-## v1.3.4 — 2026-06-23
+## v1.3.5 — 2026-06-23
 
-**Hotfix majeur** : zones inaccessibles ("scene not found"), portes bloquées, map coupée et crash au chargement — corrigés.
+**Mise à jour majeure** : zones inaccessibles ("scene not found"), portes bloquées, map coupée et crash au chargement — corrigés ; traduction des menus/création de perso/carte ; bug de monnaie corrigé.
 
 ### Correction critique
 
@@ -18,6 +18,7 @@
 - 2 dialogues au texte corrompu réparés (Q_Sea, CB_CraniumAnt).
 - Bug de monnaie corrigé : les écus/couronnes disparaissaient et n'étaient pas dépensables (texte d'achat barré). Les noms d'objets et de la monnaie servaient de clés internes ; ils restent en anglais pour ne pas casser l'économie et les icônes.
 - 433 dialogues cassés réparés (guillemets mal encodés sur les textes à virgule), qui provoquaient l'erreur "error occurred in: Snell" et rendaient des choix non cliquables.
+- 573 lignes de dialogue restées en anglais traduites (phrases d'intro, choix, interjections) et synchronisées dans l'Ink que le jeu affiche.
 
 ### Limite connue
 
