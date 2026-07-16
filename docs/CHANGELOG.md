@@ -19,6 +19,7 @@
 - Bug de monnaie corrigé : les écus/couronnes disparaissaient et n'étaient pas dépensables (texte d'achat barré). Les noms d'objets et de la monnaie servaient de clés internes ; ils restent en anglais pour ne pas casser l'économie et les icônes.
 - 433 dialogues cassés réparés (guillemets mal encodés sur les textes à virgule), qui provoquaient l'erreur "error occurred in: Snell" et rendaient des choix non cliquables.
 - 573 lignes de dialogue restées en anglais traduites (phrases d'intro, choix, interjections) et synchronisées dans l'Ink que le jeu affiche.
+- 643 entrées de glossaire traduites (l'encyclopédie cliquable : sorts, lieux, factions, peuples, concepts du monde).
 
 ### Limite connue
 
