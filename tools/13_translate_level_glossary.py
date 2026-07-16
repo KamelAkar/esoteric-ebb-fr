@@ -21,6 +21,13 @@ GD = f"{GAME}/Esoteric Ebb_Data"
 DEP = ["globalgamemanagers", "globalgamemanagers.assets", "globalgamemanagers.assets.resS",
        "resources.assets", "resources.assets.resS"]
 
+# Stat display names shown in the dice-check badge (fields Nickname / SelectInfoTitle).
+# Selection is by 3-letter code (str/dex/...), so these are display-only -> safe.
+STAT_NAMES = {
+    "Strength": "Force", "Dexterity": "Dextérité", "Constitution": "Constitution",
+    "Intelligence": "Intelligence", "Wisdom": "Sagesse", "Charisma": "Charisme",
+}
+
 
 def make_gen():
     gen = TypeTreeGenerator("6000.1.17f1")
@@ -68,6 +75,10 @@ def main():
         lvl = os.path.join(in_dir, f"level{i}")
         if not os.path.exists(lvl):
             continue
+        # resume support: skip levels already produced
+        if os.path.exists(os.path.join(out_dir, f"level{i}")):
+            print(f"level{i}: already done, skipped")
+            continue
         ctx = os.path.join("build_tmp", f"gtx_{i}")
         os.makedirs(ctx, exist_ok=True)
         for f in DEP:
@@ -88,16 +99,22 @@ def main():
                 t = obj.read_typetree()
             except Exception:
                 continue
-            if not (isinstance(t, dict) and "GlossaryTerms" in t and isinstance(t["GlossaryTerms"], list)):
+            if not isinstance(t, dict):
                 continue
             changed = False
-            for e in t["GlossaryTerms"]:
-                if isinstance(e, dict) and "Response" in e:
-                    r = e["Response"]
-                    if r in gmap:
-                        e["Response"] = gmap[r]
+            # glossary responses
+            if isinstance(t.get("GlossaryTerms"), list):
+                for e in t["GlossaryTerms"]:
+                    if isinstance(e, dict) and e.get("Response") in gmap:
+                        e["Response"] = gmap[e["Response"]]
                         changed = True
                         applied += 1
+            # dice-check stat display names
+            for fld in ("Nickname", "SelectInfoTitle"):
+                if t.get(fld) in STAT_NAMES:
+                    t[fld] = STAT_NAMES[t[fld]]
+                    changed = True
+                    applied += 1
             if changed:
                 obj.save_typetree(t)
         if applied:
