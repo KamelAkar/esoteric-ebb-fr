@@ -1,0 +1,20 @@
+{
+ "Punching Bag": {"name": "Souffre-Douleur", "desc": "Tu es le fils d'un fermier qui a grandi en ville. Évidemment, tu allais être un paria. Il a fallu du temps, mais tu as fini par apprendre à le supporter."},
+ "Trollkiller": {"name": "Tueur de Trolls", "desc": "Tu ne t'en souviens pas, mais tu sais fort bien comment ton père est mort. Parfois cela te motivait. Parfois il semblait impossible d'être à la hauteur."},
+ "Kiosk Kid": {"name": "Gamin du Kiosque", "desc": "Ta mère était souvent absente, alors pour t'éviter les ennuis elle t'a forcé à prendre un petit boulot après l'école. Tu détestes encore l'odeur du papier journal."},
+ "Lore Enthusiast": {"name": "Passionné de Savoir", "desc": "À passer ton temps seul en ville, tu échouais souvent à la Bibliothèque de Darrow. L'étrange histoire du Royaume de Jor te tenait constamment compagnie."},
+ "Crowd Pleaser": {"name": "Amuseur de Foule", "desc": "Inévitablement, tu as fini avec la mauvaise bande. Tu as vite assimilé l'argot et la terminologie radicale — prêt à tout pour te faire de vrais amis."},
+ "Little Weirdo": {"name": "Petit Bizarre", "desc": "Tu étais une curiosité pour eux. Le gamin prêt à tout dire ou faire pour attirer leur attention. <i>Pour leur approbation</i>. Après deux ans environ, tu es devenu plutôt doué à ce jeu."},
+ "Azgalist Activist": {"name": "Activiste Azgaliste", "desc": "Tes « amis » t'ont bientôt fait découvrir le ventre rebelle de Norvik. Adolescent, tu as passé des années à semer le chaos — et pire : <i>de la propagande naine</i>."},
+ "Urthguard Recruit": {"name": "Recrue de la Garde-d'Urth", "desc": "Après ton arrestation, il n'y avait pas grand-chose à discuter. Trois années éreintantes d'entraînement, à te faire marteler le code et les vertus de la cité. Mais tu as survécu."},
+ "One Friend": {"name": "Un Seul Ami", "desc": "Tu n'as jamais vraiment prié que pour cette seule chose, durant ces années solitaires. Mais les dieux n'ont pas répondu. Alors tu as appris à faire sans, comme toujours."},
+ "Acolyte": {"name": "Acolyte", "desc": "Ton talent pour la copie t'a valu une promotion aux devoirs cléricaux. Choisi parmi les rangs, tu as vite montré une profonde dévotion envers ta cité divine."},
+ "Tower Apprentice": {"name": "Apprenti des Tours", "desc": "Rejoindre les Tours est un honneur accordé à peu. C'est aussi une terrible épreuve, même pour toi. Qui aurait cru que les cours pouvaient être aussi épuisants ?"},
+ "Arcane Prodigy": {"name": "Prodige Arcanique", "desc": "Pour la première fois de ta vie, tu étais un naturel. Tu as toujours connu quelques tours de magie, mais la vraie magie, c'était autre chose. C'était de la <i>puissance</i>."},
+ "Palace Pawn": {"name": "Pion du Palais", "desc": "Talent montant, tu te retrouvais souvent au milieu des intrigues de tes supérieurs, malgré tous tes efforts. Cela ne finissait jamais bien pour toi."},
+ "Faithful Harbinger": {"name": "Fidèle Héraut", "desc": "Quelque chose ne va pas. Prier un dieu mort dont les murmures s'attardent dans l'air... s'estompant lentement. Tu es isolé parmi tes pairs."},
+ "Esoteric Expert": {"name": "Expert Ésotérique", "desc": "Tu passais le plus clair de tes nuits à quérir le savoir ésotérique. Une vie solitaire. Tes découvertes étaient indésirables pour ceux au pouvoir, pourtant tu n'as pas cessé. Jamais."},
+ "Revolutionary Scribe": {"name": "Scribe Révolutionnaire", "desc": "Désillusion. Une cité aux idéaux non tenus. Un jour tu as choisi ton camp : la démocratie naissante. Tu as écrit jour et nuit. Pour le <i>changement et la gloire</i>."},
+ "Abject Apostate": {"name": "Apostat Abject", "desc": "Personne ne t'aime. Quand tu as été rétrogradé pour négligence, personne ne s'y est opposé. Mais ce n'est rien. Tu t'en sortiras. Après tout, tu en as l'habitude."},
+ "Dead Cleric": {"name": "Clerc Mort", "desc": "Grandir seul. S'attirer des ennuis. S'entraîner avec la Garde-d'Urth. Consacrer ta vie et devenir Clerc. Était-ce depuis toujours censé finir dans la <i>Rivière</i> ?"}
+}
