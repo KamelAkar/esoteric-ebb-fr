@@ -63,12 +63,27 @@ def build_map():
     return m
 
 
+def load_ambient():
+    """English ambient .text -> FR, from _ambient_fr.tsv (tab-separated, \\n escaped)."""
+    m = {}
+    p = "translations/_ambient_fr.tsv"
+    if os.path.exists(p):
+        for line in open(p, encoding="utf-8"):
+            parts = line.rstrip("\n").split("\t", 1)
+            if len(parts) == 2 and parts[0] and parts[1] and parts[0] != parts[1]:
+                en = parts[0].replace("\\n", "\n")
+                fr = parts[1].replace("\\n", "\n")
+                m[en] = fr
+    return m
+
+
 def main():
     in_dir, out_dir = sys.argv[1], sys.argv[2]
     os.makedirs(out_dir, exist_ok=True)
     print("building EN->FR glossary map...")
     gmap = build_map()
-    print(f"  {len(gmap)} entries")
+    amap = load_ambient()
+    print(f"  {len(gmap)} glossary + {len(amap)} ambient entries")
     gen = make_gen()
     total = 0
     for i in range(25):
@@ -115,6 +130,11 @@ def main():
                     t[fld] = STAT_NAMES[t[fld]]
                     changed = True
                     applied += 1
+            # ambient observation popups (.text field)
+            if isinstance(t.get("text"), str) and t["text"] in amap:
+                t["text"] = amap[t["text"]]
+                changed = True
+                applied += 1
             if changed:
                 obj.save_typetree(t)
         if applied:
