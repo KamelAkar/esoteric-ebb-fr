@@ -311,6 +311,13 @@ PATCHES = [
     (13499, "[But I promise: you'll be able to delve <i>much</i> deeper on release day. -Chris]",
             "[Mais promis : tu pourras explorer <i>bien</i> plus profond le jour de la sortie. -Chris]"),
 
+    # ---- Réactions joueur (refus d'action, voix intérieure) — stringLiteral sûr ----
+    (8451, 'Need to rest before I do that.', 'Besoin de me reposer avant de faire ça.'),
+    (3500, 'Can\'t afford that.', 'Pas les moyens.'),
+    (3507, 'Can\'t eat, too full.', 'Trop plein pour manger.'),
+    (3510, 'Can\'t get through here.', 'Impossible de passer par ici.'),
+    (3513, 'Can\'t move it with Mage Hand!', 'Impossible à déplacer avec la Main du Mage !'),
+
     # ---- Tier de difficulté des jets (badge DC en jeu) ----
     (3978, 'Challenging', 'Difficile'),    # 11 → 9 in-place
     (4735, 'Daunting',    'Pénible'),      # 8 → 8 (P-é(2)-n-i-b-l-e = 8 bytes UTF-8) in-place

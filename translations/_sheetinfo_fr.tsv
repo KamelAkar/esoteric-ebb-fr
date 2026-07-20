@@ -1,0 +1,194 @@
+1	IP_AKZEL_5_DEX	Voici, ici même, le quatrième pilier du système féodal. Un <i>AVENTURIER</i> au sang pur, qui spéléologue, fouille, creuse et vagabonde.
+2	IP_AKZEL_10	Bien qu'il en ait vu de toutes les couleurs en son temps, Akzel garde ses yeux luisants rivés sur la prochaine prise - la véritable récompense d'une vie sur les sentiers - un <i>trésor</i>.
+3	IP_AKZEL_15	Il le trouvera, un jour, un de ces jours. Mais pas aujourd'hui. Peut-être le reverras-tu ? À qui crois-tu la faire, bien sûr que oui.
+4	IP_AKZEL_20	Son expertise de la Cité d'En Bas n'est pas pour rien. Tu devrais le garder auprès de toi. Il te sera fort utile si jamais tu veux te lancer dans le donjon-crawl en indépendant. Sérieusement, il y a beaucoup d'argent à s'y faire !
+5	IP_ALFOZ_5_CON	Il défend ses idéaux avec les tripes, et guère plus.
+6	IP_ALFOZ_10	Une provocation lui gagnera son respect. Telle est sa manière.
+7	IP_ALFOZ_15	Alfoz sait qu'il est privilégié. Il le déteste. Son idéal se heurte à son sang.
+8	IP_ALFOZ_20	Au fond, il se bat pour la gloire. L'empathie n'enflamme pas son cœur. Il veut gagner l'admiration et la LÉGENDE.
+9	IP_ARN_5_DEX	Le gamin se démène comme un beau diable. Il gagne son pain ! Il doit suivre cette école optionnelle du week-end.
+10	IP_ARN_10	Il ira loin dans la vie avec cette attitude. Mais ce feu qui le pousse a dû être allumé par quelque chose de féroce.
+11	IP_ARN_15	C'est un garçon nerveux. Un survivant. Le genre de gamin habitué à se débrouiller seul.
+12	IP_ARN_20	Tu comprends sa peur. Le gamin ne veut pas finir comme son vieux - oublié du temps, de l'espace et de la cité.
+13	IP_ARN_25	Il fait son deuil. Mais il tient bon, pour son frère. Chacun a sa façon d'y faire face. Arn deviendra un grand capitaliste.
+14	IP_AVIK_5_CON	Un type. Un nain. De taille moyenne. Posé. Terre-à-terre. Fidèle à ses sentiments. Correctement intelligent. Détendu. <i>Cool</i>. Gentil avec les animaux. Guère plus.
+15	IP_AVIK_12	Né des Fils du Destin - les tyrans reliquats de l'Ère de l'Estompe sourient sur son passage. Pour quelque très, très, très étrange raison. Ce nain, si on lui remet un objet au destin gravé dans la pierre, pourrait automatiquement créer des <shake>EFFILOCHURES</shake>. Le chaos. La folie. Une nouvelle chance de relancer le dé.
+16	IP_AVIK_20	Il <i>est</i> la classe ouvrière. Un bon fantassin azgaliste. Un ouvrier loyal. C'est le genre d'homme qui mérite une augmentation, afin que son salaire soit à la hauteur de sa productivité.
+17	IP_BOND_2	Une demi-liche.
+18	IP_BOND_8_INT	Une demi-liche folle. Son esprit s'est brisé il y a bien des décennies. Cependant, son comportement (ainsi que le simple fait qu'il existe ici en bas dans un état relativement stable) laisse entendre que sa démence n'est soit pas entièrement installée, soit qu'on veille sur lui. Peut-être l'homme pâle d'en haut ?
+19	IP_BOND_12	Tu comprends comment lui plaire. Son EGO est presque aussi grand que son corps physique est minuscule, et il est avide du sentiment de supériorité. En pratique, c'est un assez bon professeur, si tu peux supporter le rabaissement.
+20	IP_BOND_18	Ce crâne a vu plus d'événements ésotériques, de batailles historiques et de basculements de pouvoir mondial que les plus grands dragons de l'Ère de l'Estompe. Reste dans ses bonnes grâces, et tu disposeras ici d'un formidable dépôt de savoir pour l'avenir.
+21	IP_BORGO_2_STR	Voici un véritable guerrier.
+22	IP_BORGO_9	Il n'est pas en service. Mais quel que soit ce service, il est éternel.
+23	IP_BORGO_16	Ce chevalier noir peut te briser comme une brindille. Pourtant il ne le fera pas. Il est lié par un ordre - mais pourquoi ne t'affecte-t-il pas ?
+24	IP_BORGO_21	Pas un homme. Pas même corporel. C'est un spectre silencieux et pourtant hurlant, contraint à l'asservissement par les ténèbres de ce royaume. Il y a quelque chose d'indescriptiblement viril dans la maîtrise de soi en de telles circonstances.
+25	IP_BRAXO_10	Il a un intérêt bien niché dans le régime actuel. Autrefois, les diables n'étaient admis dans la cité que sous visa de travail, il pourrait donc avoir servi plusieurs décennies.
+26	IP_BRAXO_15	D'une manière ou d'une autre, tu sais tout simplement que ce diable organiserait volontiers un génocide de masse contre les non-humains de cette cité.
+27	IP_BRAXO_18	Ce n'est pas un diablotin ordinaire. Sa stature et sa position impliquent un ancien rang. Un Diable Majeur ? À quel jeu joue-t-il ?
+28	IP_BRAXO_24	Braxo. Il travaille pour l'échelon supérieur de la cité, et en sait plus que tu n'en entendras jamais. Sa forme minuscule est une commodité. Garde-le pour ami. Il te sera utile.
+29	IP_BRR_4	Les vibrations qu'il émet sont son langage. Avec de la magie, tu pourrais mieux communiquer.
+30	IP_BRR_12	C'est un éclaireur des crevasses les plus profondes de la terre. Une créature chargée de surveiller les horreurs de la rage glacée.
+31	IP_BRR_17	Peut-être un futur ambassadeur de son peuple. Traite-le avec respect.
+32	IP_CHAMAR_9_STR	Une adepte de la Sainte Montagne. De Divinii Torum.
+33	IP_CHAMAR_12	Elle te déteste. Entièrement à cause de l'origine de ton sang. Ou peut-être y a-t-il autre chose...
+34	IP_CHAMAR_19	Ah. Bien sûr. Ce n'est pas toi qu'elle déteste. Elle se déteste elle-même. La part humaine d'elle-même. La part qui la place sous ses glorieux maîtres célestes dorés. Si elle pouvait trancher cette humanité, elle le ferait à l'instant, tout cela pour une mince chance d'entendre le chœur.
+35	IP_CHAMAR_23	Au-delà du voile de la servante fidèle, il y a aussi une strate de machination. Oui, cette femme ne s'agenouille pas tant devant le pouvoir qu'elle n'entend saisir de la hiérarchie tout ce qu'elle peut. Quelle femme intéressante.
+36	IP_DARROW_5_CHA	Le voici. Le Seigneur du Numéraire de Norvik et Magistrat de Tolstad.
+37	IP_DARROW_10	Ce sourire est une façade, bien sûr. Un simulacre d'expression, longuement entraîné au fil de vingt ans de métier. C'est un expert dans son domaine, et son domaine est la politique.
+38	IP_DARROW_15	Il ne te respectera que si tu le sers avec loyauté, comme un chien de chasse, ou... si tu te montres compétent et impitoyable. Il n'a pas de temps pour les sots. Mais un homme de sa stature ne conserve pas le pouvoir s'il ne reconnaît pas le talent lorsqu'il lui aboie au visage.
+39	IP_DARROW_20	Il a hérité de sa position de son père en bas âge. Nicholas fait cela toute sa vie, et il y est doué. L'un des meilleurs. Le seul problème étant que si l'on est doué pour le rôle de magistrat, alors on est doué, par association, pour un certain nombre d'activités infâmes et illégales.
+40	IP_DRUMMER_2_DEX	Ce n'est qu'une caisse, non ? Mais quel est ce cognement rythmé ?
+41	IP_DRUMMER_6	Tu plaisantes. L'oiseau est en fait- le patron du salon de thé est- il... allons. Vraiment ?
+42	IP_DRUMMER_12	Ce doit être le plan le plus ridicule, le plus idiot et purement stupide que tu aies jamais vu mis à exécution. Même s'il est l'un de ces hommes-oiseaux capables de survivre des semaines sans nourriture ni eau.
+43	IP_DRUMMER_15	Bon, écoute bien. Cet oiseau est à l'intérieur de la caisse, et une fois que tu l'auras ouverte, tu auras droit à un interrogatoire. Alors tiens-toi prêt. Il tentera de s'en tirer en parlant, mais ne t'en soucie pas. Concentre-toi seulement sur le fait de lui faire dire la véritable vérité. Sois rude ou tout en douceur, peu importe.
+44	IP_ETTIR_10	Elle suit les ordres. Le genre d'ordres qui accordent un accomplissement éternel.
+45	IP_ETTIR_15	Il y a une tristesse dans son existence. Des ailes brisées, coincée parmi des êtres inférieurs. Que cherche-t-elle ?
+46	IP_ETTIR_20	Quand un ange chute, elle cesse d'exister. Elle est transformée. Cette créature ne cherche ni rédemption ni émancipation. Elle cherche un dessein.
+47	IP_ETTIR_25	Ettir n'a pas besoin d'être ici. Quelque chose la lie à la terre. À Norvik. Et ce n'est pas ésotérique. En aucun sens du terme.\n\n\nCe doit être un être difficile. Vivre entre les mondes comme elle le fait. Peut-être qu'un jour elle comprendra ses paroles.
+48	IP_EVER_5_CHA	Par les dieux... c'est un FUTILEUR !
+49	IP_EVER_10	Il est cependant fort poli. Et il ne cherche véritablement pas à te tuer. Tu ne penses pas non plus qu'il ait vraiment un genre, mais on dirait un « il », n'est-ce pas ? Ne l'interroge pas sur son genre. Ou peut-être que si ?
+50	IP_EVER_15	Tu perçois ici sa motivation. L'aberration devant toi ne nourrit aucune rancune, et se montre polie envers ces fourmis qui courent autour de lui- tout cela dans le but d'une vision plus grande, <i>ésotérique</i>.
+51	IP_EVER_20	<i>Yunolotia Manathern</i>. Le destin ne peut fléchir.\n\nÉternel-Ravi cherche la fin de la façade. Éternel-Ravi cherche le commencement d'une autre Ère. Tout cela pour éviter les EFFILOCHURES DE LA DÉCHÉANCE.
+52	IP_FREY_5_STR	Elle est vêtue d'une fine robe de soie, telle une noble dame.
+53	IP_FREY_10	Ses cheveux sont courts et rêches. Du genre rebelle, mais noblesse urthfolk néanmoins.
+54	IP_FREY_15	Pourquoi est-elle ici en bas ? Peu de gens de son espèce recherchent la compagnie des ouvriers de la Voie d'Eau et des gobelins.
+55	IP_FREY_20	Attends. Tu la reconnais. C'est... *Freydis Darrow* ! La fille du Seigneur du Numéraire !
+56	IP_GORM_9_STR	Hélas, pauvre Gorm. Ses choix l'ont mené sur cette voie funeste. Douloureusement identifiable.
+57	IP_GORM_14	Nous avons ici quelqu'un qui est censé être le meilleur d'entre nous. Un humain de bonne lignée. Élevé par Urth lui-même. Éduqué, riche, apparemment en bonne santé...\n\nS'il n'a pas su rester sur le chemin, qui le pourrait ?
+58	IP_GORM_20	Gorm a aussi une mauvaise épaule. Exploite cela. (Identifiable, là encore.)
+59	IP_GOUR_5_STR	Un grand et puissant <i>troll des glaces</i>. Épouvantable, même endormi.
+60	IP_GOUR_10	Tu as plusieurs façons d'aborder ceci. Tuer un troll n'est pas chose aisée, et tu as besoin de tous les avantages possibles.\n\n1. L'attaquer sur-le-champ, ce qui te donne une longueur d'avance.\n2. Dresser une sorte de piège.\n3. Tenter d'abord de communiquer (faible).\n4. T'en aller (faible aussi).
+61	IP_GOUR_15	S'approcher suffisamment pour frapper le monstre endormi serait difficile. Cependant, cela te permettrait de porter un coup décisif.
+62	IP_GOUR_20	Il est temps de te racheter. Plus de vingt ans se sont écoulés depuis ce jour fatidique. Maintenant... fais tes preuves. Montre au monde...\n\nQue tu as du sang de TUEUR DE TROLLS dans les veines.
+63	IP_ISK_2_INT	C'est un escargot ancien, d'un autre temps.
+64	IP_ISK_8	Un individu intéressant. Un savoir incroyable, mais retenu au sein d'une culture des Bêtes de Jor- des barbares complets. Fascinant. Tu dois, en tout cas, étudier cette créature.
+65	IP_ISK_15	La maîtrise ésotérique à l'œuvre ici dépasse tout ce que tu as jamais rencontré. Reste en contact avec cet escargot. Il te rendra grand service à l'avenir.
+66	IP_ISK_20	Son but sera accompli en temps voulu. Cependant, avant cela, tu es certain qu'il brisera bien des tabous de l'Ère. C'est le genre d'homme, pas si différent des Arcanistes les plus sophistiqués, qui brisera la réalité et réécrira les règles de Jor, tout cela pour avoir le dernier mot.
+67	IP_IVCX_5_WIS	La lumière t'aveugle. Même parmi les célestes, cette créature est puissante.
+68	IP_IVCX_10	Elle semble déplacée. Pourquoi un ambassadeur de la Horde Dorée serait-il ici ? Pourquoi cette créature, d'une force si grande et si éclatante, serait-elle même ici ?\n\nCela n'a aucun sens.
+69	IP_IVCX_15	Antesepalien. Une créature qui était déjà ancienne avant que ce monde ne fût créé. Ce qui se tient devant toi n'est pas un ambassadeur- c'est un serviteur intime d'une Puissance extérieure. Voilà pourquoi ton corps recule, alors même que la lumière ne semble signaler à tes sens rien d'autre que <i>NE CRAINS RIEN</i>.
+70	IP_IVCX_20	En sa prime, il ressemblait davantage à nos dieux marcheurs qu'aucun ange de la Horde. Pourquoi est-il réduit à <i>ton</i> niveau matériel, ici dans ta cité ?\n\nQuel monde étrange tu habites, pour avoir la chance de tenir avec lui une conversation civile.
+71	IP_JEHANNE_5_CHA	Une halfeline. L'une des nombreuses qui vivent à Norvik, surtout depuis la Ligne Dorée.
+72	IP_JEHANNE_10	C'est une travailleuse acharnée, aux talents rares mais à la belle vaillance. Soutiens-la dans sa lutte contre le capital.
+73	IP_JEHANNE_15	Une botte. Voilà ce contre quoi elle enrage. Non au sens militant, mais au sens d'un labeur quotidien harassant et sans cesse changeant. Notre travail ne finit jamais.
+74	IP_JEHANNE_20	Elle préférerait ne pas être mêlée à tout ce gâchis. Hélas, comment maintiendrait-elle son salaire autrement ? Comment survivrait-elle autrement dans un monde où la nourriture renchérit tandis que le point de Rupture Matérielle approche d'heure en heure ?
+75	IP_KRAAID_5_CON	Une Bête de Jor mangeuse de chair et folle, venue des marais de Hae'Xi. Pourquoi il ne t'a pas encore dévoré, tu l'ignores.
+76	IP_KRAAID_10	Un chef magistral. Sa passion est la cuisine. Frit, mijoté, mariné, bouilli. Kraaid connaît tout - et sa palette est vaste. Toi compris.
+77	IP_KRAAID_15	Sa retenue ne vient ni de l'étiquette ni de la bonté. C'est un monstre, engendré par des générations de chasseurs infectés, affligés, par la BRUME ROUGE de l'Arbre de la Spirale - LES GUENAUDES. LES GUENAUDES L'ONT FAIT. IL EST NÉ DU MAL.
+78	IP_KRAAID_20	Malgré sa nature, il suit par-dessus tout son instinct. Actuellement, il dit : SUIS LE MAGICIEN. IL OUVRIRA LE PASSAGE VERS DE PLUS GRANDES CHASSES. Ces grondements... ils empêchent ta chair d'être DÉVORÉE.
+79	IP_KULL_5_CON	C'est un elfe.
+80	IP_KULL_10	Un elfe d'Illym. Ses yeux sont sombres du savoir de tes actes.
+81	IP_KULL_15	Ce serviteur d'Illym, cet espion, ce Gardien de la Portée - il n'est qu'une vrille de ses maîtres. Mais pas aussi efficace ni aussi habile dans ses machinations que tu pourrais l'imaginer. Non, ils sont loin de la puissance de leur apogée. Illym est morte. Ceci est un avatar de son cadavre en décomposition.
+82	IP_KULL_20	Il mentira. Il mentira. Il mentira. Il mentira. Il mentira. Il mentira. Il mentira. Il mentira. Il mentira. Il mentira. Il mentira. Il mentira. Il mentira. Il mentira. Il mentira. Il mentira. Il mentira. Il mentira. Il mentira. Il mentira. Il mentira. Il mentira. Il mentira.
+83	IP_LISA_5_WIS	Née par les moyens malfaisants de la reproduction ésotérique, ceci- ceci est une guenaude.
+84	IP_LISA_10	Une guenaudelle en fait. Pas tout à fait aussi horrible et immonde qu'une vraie guenaude, mais ce n'est pas toujours une amélioration. Au contraire, elles pourraient même finir dans davantage de positions de pouvoir, du fait que leur nature n'est pas si complètement mauvaise.
+85	IP_LISA_15	Celle-ci a mené une vie sauvage. Tu le vois dans ses yeux- les années passées au service. Le rêve d'une vie meilleure. Les corps laissés dans son sillage. Cette guenaudelle n'a plus qu'un amour désespéré de la vie et de la liberté à ce stade. Laisse-la l'avoir.
+86	IP_LISA_20	Elle a peur. Une peur mortelle- terrifiée que sa nouvelle vie soit ruinée par les circonstances. Elle le cache bien, mais tu le sais. Elle te détruirait s'il le fallait. Pour protéger sa carrière d'indépendante.
+87	IP_MASKED_15	La mort en jeu, la dague est destinée à ton cœur.
+88	IP_MASKED_20	Que penses-tu qu'elle veuille ? La chose dans les tuyaux écoute. La chose insensée. Son erreur t'entraînera dans bien des effilochures. Prends garde à tes pas.
+89	IP_MERI_5_DEX	Un véritable Errant !
+90	IP_MERI_10	Il est célèbre. Connu sur chaque place métropolitaine, dans chaque manoir et/ou salle de bal de la Côte. Le genre de type qui a su tirer parti du monde changeant, et de sa nouvelle technologie popularisée, pour se constituer une sacrée assise.
+91	IP_MERI_15	Mais il est aussi de vieille fortune. Cela n'a certes pas nui. Donc pas aussi impressionnant que l'histoire du battant parti de rien voudrait te le faire croire, mais tout de même assez impressionnant. Honnêtement, pour un sang-bleu aux liens arcanistes, ne serait-ce que survivre à la révolution est un exploit en soi- mais prospérer ? Ça, c'est du vrai talent.
+92	IP_MERI_20	Son sourire est large. Sa bouche ne cesse jamais de flatter l'ère nouvelle. C'est là que réside son intérêt- ses paris et ses investissements de l'Âge des Foules. Mais le populisme a sa faiblesse. La principale étant qu'il faut rester proche du peuple. Meriadoc semble garder ce savoir bien au cœur.
+93	IP_MISKA_5_WIS	Quelque chose ne va vraiment pas.
+94	IP_MISKA_10	Ses yeux sont saisissants. Ils saisissent ton ÂME. Accroche-toi à ce sentiment ou tu seras dévoré.
+95	IP_MISKA_15	Elle manie un pouvoir dont tu ne pourrais que rêver. Pourtant ses actes trahissent sa nature. Mauvaise ? Bonne ? L'égoïsme pour sa propre tribu est-il le trait déterminant ?
+96	IP_MISKA_20	Cette créature n'est pas une gobeline. Bien que son désir soit lourdement investi au sein de cette tribu, elle est bien plus âgée, et bien plus dangereuse que tous ces serviteurs réunis.
+97	IP_MISKA_25	Elle connaît bien les flammes d'Esuth. <i>Pourquoi est-elle ici ?</i>
+98	IP_MISKA_30	Tu vois à travers elle. Ses buts. Sa machination. Est-ce si simple ? Est-ce qu'elle... les aime, tout simplement ?
+99	IP_MODISSA_5_WIS	Une fille en mission. Elle est là pour se battre pour le vert, quelle que soit la bataille.
+100	IP_MODISSA_10	Son extérieur fougueux n'est pas un faux-semblant. C'est son cœur porté sur chacune de ses manches.
+101	IP_MODISSA_15	La responsabilité. Voilà le poids qu'elle sent peser sur ses épaules. Modissa ne voit pas en elle-même, en son EGO, quelque sens plus grand. Ce sens a plutôt été transposé d'autrui. Son mentor. Ses amis. Mais surtout, son idéologie.
+102	IP_MODISSA_23	Elle ne croit pas en l'azgalisme. Pas vraiment. Car il se trouve qu'elle est de ces gens qui ne voient aucune règle sur l'étalement urbain et les champs de bataille culturels comme digne de respect. Elle ne croit pas que quoi que ce soit puisse être figé en une idéologie. Cette croyance elle-même, voilà sa véritable idéologie. Même si elle ne le sait pas encore.
+103	IP_MOONGORE_5_STR	Une brute, une bête, et une guerrière. Elle pourrait te briser aisément.
+104	IP_MOONGORE_10	La loyauté est chose capricieuse. La sienne va aux Halfways, pour l'amour du numéraire et de l'abri. Mais aussi autre chose, quelque chose de plus éthéré.
+105	IP_MOONGORE_15	Les ogres. Les hobgobelins. Les ettins. Les trolls. Le gobelours se dresse parmi eux tous comme les chargeurs des étendues sauvages askanii. Tu as entendu dire que leur espèce trouvait une place au sein de la société civilisée, comme mercenaires et gardes. Moongore est un cliché.
+106	IP_MOONGORE_20	Que reste-t-il d'autre en elle ? Elle aime la violence. Elle aime le pouvoir. Elle est avide du frisson. C'est une femme toxique de bout en bout. \n\n...Peut-être devrais-tu apprendre à mieux la connaître.
+107	IP_NEARLY_5_WIS	Encore une gobeline. Celle-ci cherche à s'échapper.
+108	IP_NEARLY_10	Elle travaille dur. Mais seulement de façon à améliorer son métier, sa passion.
+109	IP_NEARLY_15	Elle ne se soucie ni de la politique ni du vaste monde. Pourtant elle s'efforce de maintenir un sens de la compréhension afin de faire avancer son art.
+110	IP_NEARLY_20	La gobeline joue pour elle-même. Elle ne cherche pas la gloire, seulement à subvenir à ses besoins par son métier. Il semble que cela ne se soit pas trop bien passé jusqu'ici.
+111	IP_NESSAN_5_WIS	Imperturbable. Hydratée. Heureuse. Dans son couloir.
+112	IP_NESSAN_10	Elle est concentrée sur son travail. Mais elle ne cherche pas la querelle. Elle t'aidera, si tu ne représentes pas une menace.
+113	IP_NESSAN_15	Son savoir est profond, bien en dessous de la cité. Apprends d'elle, et de sa solitude.
+114	IP_NESSAN_20	Cette elfe cherche une échappatoire. Pourquoi être *ici*, sinon, de tous les endroits ? Sa matriarche. Oui. Cette femme a des ennuis. Tout comme toi.
+115	IP_OLZIS_5_WIS	Des milliers d'années, passées à garder un trou dans la réalité. Souviens-toi : sa perception dépasse ta capacité à la concevoir. Pour elle, un jour est un instant fugace. À moins que tu ne le rendes mémorable.
+116	IP_OLZIS_10	Une gynosphinge qui distribue des énigmes. Une femme en quête de quelque chose - de n'importe quoi - même vaguement intéressant chez ces mortels qui s'agitent. Pourquoi sinon les laisser entrer ainsi dans son antre ?
+117	IP_OLZIS_15	Elle n'est pas exploitée. Quel que soit le marché qu'elle a conclu avec le tavernier, cette Bête de Jor pourrait le rompre à tout moment. Aucun d'eux ne détient de pouvoir sur elle. Pourtant elle ne peut partir.
+118	IP_OLZIS_20	Du ressentiment. Quiconque de sensé, avec ne serait-ce qu'une once de compréhension mortelle, ressentirait du ressentiment après avoir été coincé au même endroit durant des millénaires. Olzis, cette créature ô combien puissante, éprouve un soupçon de ressentiment envers ses maîtres. C'est peut-être pourquoi elle se divertit de cet instant fugace.
+119	IP_OST_5_DEX	Celui-ci est plutôt hostile. Reste sur tes gardes !
+120	IP_OST_10	Ses yeux sans expression semblent monter la garde en permanence. Il détermine à l'évidence où frapper pour que tu meures aussi vite que possible. Quelle humanité.
+121	IP_OST_15	D'ordinaire, les kobolds ne sont dangereux qu'en grand nombre. Celui-ci paraît extrêmement mortel à lui seul. Prends garde.
+122	IP_OST_20	Il y a quelque chose de plus profond dans son lien à son maître. Ce kobold tient l'homme pâle pour une « valeur suprême possible ». Littéralement son dieu personnel.
+123	IP_OYU_5_DEX	Une marchande habile. Une femme d'affaires. Une entrepreneuse halfeline. Punaise, tu pourrais apprendre une tonne de choses de quelqu'un comme elle.
+124	IP_OYU_10	Ses marchandises sont acquises aux quatre coins de la Côte. Son but : le voyage lui-même. Et, bien sûr, célébrer la puissance du Capital. Elle y est sacrément douée.
+125	IP_OYU_15	Kargamesh est à l'autre bout du monde. C'est un opposé à Askani - un miroir. À leur sec répond notre humide. À leur chaud répond notre froid. Elle t'en parlera volontiers- en surface. Elle n'est pas ici pour se faire des amis, pas vraiment. Ou du moins pas encore.
+126	IP_OYU_20	Ah. Elle n'est pas très contente du climat actuel. Voyager à travers Divinii Torum et Ym ? Pas envisageable pour le moment. Le commerce ? Rigide et réglementé. Les aéronefs ? Rares et espacés. Cette décennie a été une lente descente vers un monde de monopoles et de corruption, si tu veux son avis. \n\nElle pourrait bien finir par rester dans cette cité qui est la tienne plus longtemps qu'elle ne l'a jamais imaginé.
+127	IP_PINJA_5_WIS	Étrange, il y a quelque chose qui ne va pas tout à fait...
+128	IP_PINJA_10	...chez cette elfe au coin de la forteresse. Sa...
+129	IP_PINJA_15	...présence ne paraît pas assez vive pour que tu puisses...
+130	IP_PINJA_20	...ne serait-ce que l'accepter comme réelle. Magie elfique ? Mystique féminine ? Ou autre chose ?
+131	IP_PINJA_25	Ah. Bien sûr. Elle n'est pas vraiment ici. Cette pensée t'envoie un frisson dans l'échine.
+132	IP_RAZZ_5_CHA	Il veut te tuer.
+133	IP_RAZZ_10	Voici un suprémaciste gobelin massif, incontrôlé, sûr de lui et hautement problématique. Il ne débattra pas de la question avec toi, il ne te voit même pas comme digne d'être en vie.
+134	IP_RAZZ_15	Un tueur concentré. Son tableau de chasse doit se compter en centaines. Le genre d'homme qui ne souhaite rien que la destruction de l'humanité- les Urthfolk en particulier, et la chute de cette espèce envahissante sur les rivages d'Askanii.
+135	IP_RAZZ_20	Plus tu plonges le regard dans ses yeux déments, plus tu comprends- il n'est pas empli de haine par quelque vision idéaliste de l'avenir. Il ne voit pas l'avenir d'Askanii comme un paradis gobelin. Tout ce qu'il veut - entièrement à cause de quelque vendetta personnelle nourrie par la sociopathie - c'est effacer les humains de l'existence. <i>Gloups</i>.
+136	IP_RIX_5_DEX	L'argent, l'argent, l'argent ! Voilà ce que l'on obtient quand le pragmatisme de la diablerie se mêle à la dextérité de doigts quasi humains. Une créatrice de capital, frappeuse de monnaie et consciencieuse de la couronne, de la plus haute classe !
+137	IP_RIX_10	L'entrepreneuriat, c'est la disruption. C'est voir au travers de la glaise commune et déchiffrer les combines de la réalité. C'est comme la magie, vraiment. Sauf que ça marche à l'échelle.
+138	IP_RIX_15	Cette femme a trouvé plusieurs trous dans la bourse de la cité. Au fil des ans, elle a dirigé des usines, fondé des jeunes pousses, traité avec des corporations urbaines, conclu des accords de guilde, et voilà qu'elle est propriétaire de taverne. Une femme hautement accomplie, du genre à prospérer dans l'avenir des Errants.
+139	IP_RIX_20	Son passé mis à part, cette tieffelin trouve du sens dans les couronnes. Dans le capital. Le pouvoir et le respect qu'elle trouve dans ce monde nouveau sont tout ce qu'elle n'avait pas enfant. Ici, elle est la patronne, et en plein contrôle - jusqu'à ce qu'elle ne le soit plus.
+140	IP_ROLLO_5_STR	La prochaine génération ! Un adolescent en fin de course représentant tous les jeunes hommes parmi les Urthfolk.
+141	IP_ROLLO_10	Statistiquement, cela pourrait être inquiétant. Si tous les jeunes hommes d'aujourd'hui se sentent aussi perdus (et sans emploi) que celui-ci, alors tout doit partir en vrille. Au moins est-il politiquement actif !
+142	IP_ROLLO_15	Cela aussi pourrait être un détail inquiétant. Les jeunes hommes qui ont peu à perdre et tout à gagner sont, historiquement parlant, un moteur courant derrière les conflits qui changent le monde. Si les Nationalistes de la vieille garde ne les représentent pas- si l'errantisme ne les soutient pas- si l'azgalisme est bien trop... progressiste- alors vers quelles <i>effilochures</i> ces grondements nous mèneront-ils ?
+143	IP_ROLLO_20	Comme en toute chose, c'est l'<i>ÉCONOMIE</i> qui gouverne les masses. Le flux du CAPITAL, dont tu as tant lu. Ces garçons pourront enrager contre le monde s'ils le souhaitent, pourtant si chacun tenait dans la société un rôle qui le payait bien et lui accordait satisfaction, alors toute cette rage retomberait.\n\nIl leur faut simplement une nouvelle idéologie. Une qui soutienne leurs intérêts économiques, et rien d'autre.
+144	IP_SHEN_8_INT	Un immigré de Divinii Torum. Un homme-hibou. Un expert de tout ce qui touche au LIVRE. Il a apporté son expertise à ta cité, et pour cela tu devrais te sentir reconnaissant. Voilà l'exemple parfait de la raison pour laquelle cette nouvelle Ère est si, si merveilleuse.
+145	IP_SHEN_14	Si jamais tu ressens du mécontentement quant à son comportement, souviens-toi : c'est une personne. Il n'est pas un représentant de tout son peuple. Tout comme il y a des humains grossiers, tapageurs et égocentriques, il y a des hommes-hiboux de la même étoffe. Tous les gens sont différents. Tous les gens sont pareils.\n\nCette figure est un peu excentrique. Ne laisse pas cela assombrir ta vision de tous les autres frères et sœurs ailés de la Côte.
+146	IP_SIMII_5_CHA	Un Azgal dévoué. Il donne tout ce qu'il a pour soutenir la cause.
+147	IP_SIMII_10	Le genre de personne « cadet ». Vit dans l'ombre d'hommes plus grands.
+148	IP_SIMII_15	Il suit la voie azgale non par choix, mais par endoctrinement et tradition. Il veut être à la hauteur de quelqu'un. Son père ? Un patriarche ?
+149	IP_SIMII_20	Simii, le bras droit d'Alfoz, veut être son propre maître mais en est tout simplement incapable. Pas seulement pour sa propre peau, mais aussi pour ceux qui dépendent de lui et de son éternel dévouement.\n\nIl est douloureusement difficile de le détester.\n
+150	IP_SMARTER_5_INT	Pas tant que ça.
+151	IP_SMARTER_10	Un gobelin kleptomane et dérangé. Il a besoin d'aide. D'une aide professionnelle.
+152	IP_SMARTER_15	Sois prudent avec lui. Ce n'est pas un exemple typique de gobelin. C'est un extrême. Un stéréotype. Une fable.
+153	IP_SMARTER_20	C'est à un niveau où tu te demandes sérieusement si ce gobelin insensé est possédé par quelque esprit, quelque étincelle divine d'un dieu farceur. Mais du genre de dieu qui piégerait son avatar pour en faire le voleur le plus inutile que tu puisses imaginer.\n\nOn a vu plus étrange.
+154	IP_SNELL_5_DEX	Ce gobelin fait avancer les choses. Peu importe la difficulté.
+155	IP_SNELL_10	Hautement compétent, mais avec un besoin ardent de validation. Regarde donc la façon dont il s'habille !
+156	IP_SNELL_15	Il ne travaille ni pour lui-même, ni pour aucun idéal. Ce gobelin voue sa vie à sa « dame », pas différent d'un illuminé religieux.
+157	IP_SNELL_20	Un loup solitaire. Il se soucie trop, ne laisse personne s'approcher. Un vieux traumatisme ? Rejeté ? Des ennuis de famille ? Qui sait.
+158	IP_SNELL_25	Hé. Bon, alors- ce n'est pas vraiment un passé tragique, mais tu comprends maintenant. C'est un <i>aspirant</i>. Le genre à se jeter désespérément dans son travail au nom de quelque bien plus grand. Un idéaliste. Un <i>romantique</i>. Au sens le plus gobelin du terme.
+159	IP_SNELL_30	Prêt au sacrifice de soi. Rêveur. Il y a une étincelle dans ses yeux que tu surprends parfois. Un Fil attaché à un destin, un destin aux rares effilochures. Peut-être pourrais-tu lui faire confiance. Peut-être pourrait-il être un... tu sais.\n\n<i>Un ami.</i>
+160	IP_SNURRE_5_INT	Un érudit du Fordnip Commonwealth. Un homme qui travaille dans un trou dans le mur.
+161	IP_SNURRE_10	C'est le genre d'homme qui sait exactement où il va, et qui s'y rend simplement très lentement et délibérément. Il connaît son expertise. Ses mouvements sont calculés. Son voyage long.
+162	IP_SNURRE_15	L'ésotérique est étroitement lié aux arts érudits. Autrefois, on ne faisait aucune distinction entre les deux. Mais aujourd'hui, dans ce monde moderne, son camp est bien près de l'emporter.
+163	IP_SNURRE_20	Tu as passé pas mal de temps à te documenter sur son art. C'est intéressant. La recherche est le premier pas vers une incantation fondée, après tout. Mais au-delà de cette façade de dispensateur de savoir, ce halfelin cherche aussi des réponses à ses propres questions - à savoir, quelle est la nature du pouvoir ? La politique ? La Ligne Dorée ?
+164	IP_STEN_5_CON	Un garçon nommé d'après le mot nain pour « roche ».
+165	IP_STEN_10	Il aime ses amis. Ce sont ses seuls amis.
+166	IP_STEN_15	Il a bien un semblant d'opinions sur la vie, l'amour et cette cité. Pourtant elles ne sont pas formulées, et il n'est pas non plus assez éloquent pour les exprimer convenablement.
+167	IP_STEN_20	Il est heureux d'être ici. Vraiment. Ce garçon est sans doute l'homme le plus heureux que tu aies jamais rencontré de toute ta vie.
+168	IP_THAL_10	C'est un bon propriétaire. Il prend soin de ses locataires. Il veille à ce qu'un niveau de service décent soit assuré, entretien, contrôles de sécurité. Il est loin d'être le pire propriétaire rien que dans Tolstad.
+169	IP_THAL_15	Pourtant il détient la clé du logis, l'un des piliers de la hiérarchie des besoins. Il y a quelque chose d'intrinsèquement oppressant à jouer le jeu du système. À en tirer profit, à un degré insensé.\n\nC'est une richesse non méritée.
+170	IP_THAL_20	Pourtant il n'est qu'une personne dans le système. Devrions-nous limiter la capacité d'un simple citoyen à faire fructifier ses investissements ? Le marché libre devrait-il dicter comment et où les gens peuvent vivre ? Ce triton est-il une mauvaise personne pour jouer sa carte dans un monde bâti sur les caprices du Capital ? Tu l'ignores. Mais chacun a son opinion.
+171	IP_TOLI_5_CHA	C'est le type silencieux.
+172	IP_TOLI_10	Il réfléchit avant de parler. Il pense aussi être très cool à cause de ce comportement.
+173	IP_TOLI_15	Il y a un air de supériorité dans son langage corporel, dans sa parole, dans son <i>ton</i>. Il se croit au-dessus de tout. Même de ses amis. Espérons qu'il cessera de penser de telles choses avant que cela ne lui retombe dessus.
+174	IP_TOLI_20	Hm. Non, il ne le fera pas. Dans les pires moments, ce gamin sera le premier à s'appuyer sur ses frères. Il a appris à ravaler cet EGO quand il le faut. C'est bien. Un homme se forge par le labeur de ses pairs. Rien de plus, rien de moins.
+175	IP_URTH_5_STR	Un cordonnier.
+176	IP_URTH_10	Il y a une tristesse dans sa voix. Le genre né des années passées à regarder ses enfants s'égarer.
+177	IP_URTH_15	Tu ne crois pas ce qu'il te montre. Pourtant tu ne souhaites même pas entretenir la pensée d'écarter l'image de son sourire bienveillant.
+178	IP_URTH_20	Tu le serviras jusqu'au jour de ta mort.
+179	IP_NISSE_5_DEX	C'est un gamin merdique. Mais assez amusant, aussi.
+180	IP_NISSE_10	S'il avait été de tes camarades en grandissant, il aurait été l'un de ces putains de tyrans de cour. Ce n'est pas vraiment un énorme point négatif de sa part- à peu près tout gamin bien dans sa peau t'a tyrannisé.
+181	IP_NISSE_15	Mais il a une certaine conscience qui pousse dans ce crâne. S'il est entouré d'hommes bons, il tournera bien. S'il est entouré de mal, c'est ce que sa vie bâtira.
+182	IP_NISSE_20	Il a du talent. Pas comme le tien, grands dieux non, mais du talent tout de même. Tu dois le pousser vers la cléricature. Ou à tout le moins vers quelque forme de voie de la magie. Sans cela, il finira sûrement par blesser quelqu'un. Avec cela, il pourrait encore blesser des gens, mais seulement au nom de la loi.
+183	IP_VIIRA_5_STR	Une voyageuse. Elle n'est pas installée ici.
+184	IP_VIIRA_10	Sa foi est faible. Elle ne l'emploie pas. Sa religion est le pouvoir.
+185	IP_VIIRA_15	Est-elle mauvaise ? Non. Peut-être le bras arbitraire d'une institution, mais nulle simple marionnette.
+186	IP_VIIRA_20	Rien de ce que tu pourras dire ne la fera fléchir. Elle te jouera jusqu'à la fin.
+187	IP_VISKEN_5_INT	L'homme pâle manie des cadavres dans une cave. Un typique entrepreneur urbain à son compte.
+188	IP_VISKEN_10	Tu te souviens avoir entendu parler de cet homme. Il était autrefois dentiste et chirurgien.
+189	IP_VISKEN_15	Son étude du royaume magique est immense. Bien au-delà de tes capacités. Certains de ces textes dont il s'entoure laisseraient entendre qu'il peut lancer des sorts de cinquième, voire de sixième niveau. Ça ne pourrait pas être plus haut, si ?
+190	IP_VISKEN_20	C'est un homme ancien. Un homme oublié. Égaré dans le temps. Tu peux apprendre beaucoup de lui, si tu restes dans ses bonnes grâces.
+191	IP_XERBA_5_CON	Une fille née d'une vague azgaliste, dans un foyer azgal, issue d'un État azgal déchu.\n\nC'est une azgaliste.
+192	IP_XERBA_10	Dangereusement timide. Elle a besoin de bons amis et de meilleurs mentors. Ce n'est pas toi, soit dit en passant.
+193	IP_XERBA_15	Un brillant avenir l'attend, quelle que soit la voie sur laquelle elle finit poussée. Hélas, son libre arbitre est introuvable. Non qu'elle le cherche.
+194	IP_XERBA_20	Voilà ce dont leur mouvement a besoin. Tous les mouvements. Un témoin timide et terrifié qui, à chaque tournant, demandera à tous ceux qui l'entourent de reconsidérer leurs décisions irréfléchies. \n\nExtrêmement agaçant. Mais néanmoins... très, très bon pour la société.
