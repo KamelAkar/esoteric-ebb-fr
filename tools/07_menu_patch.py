@@ -25,13 +25,13 @@ PATCHES = [
     ("Load Game", "Charger"),      # 9 -> max12 ; 7
     ("Settings", "Options"),       # 8 -> max8 ; 7
     ("Credits", "Crédits"),        # 7 -> max8 ; 8 (é=2)
-    ("Resume", "Reprise"),         # 6 -> max8 ; 7
-    ("Controls", "Touches"),       # 8 -> max8 ; 7
+    # ("Resume", "Reprise"),   # NE PAS — peut servir de clé/action         # 6 -> max8 ; 7
+    # ("Controls", "Touches"), # NE PAS — clé de binding potentielle       # 8 -> max8 ; 7
     ("Fullscreen", "Plein écran"), # 10 -> max12 ; 12
     ("Resolution", "Résolution"),  # 10 -> max12 ; 11
     ("Language", "Langue"),        # 8 -> max8 ; 6
     ("Video", "Vidéo"),            # 5 -> max8 ; 6
-    ("Cancel", "Annuler"),         # 6 -> max8 ; 7
+    # ("Cancel", "Annuler"),   # NE PAS — nom d'action input (casse la manette)         # 6 -> max8 ; 7
     ("Save Game", "Sauvegarder"),  # 9 -> max12 ; 11
     ("Delete", "Effacer"),         # 6 -> max8 ; 7
     ("Yes", "Oui"),                # 3 -> max4 ; 3

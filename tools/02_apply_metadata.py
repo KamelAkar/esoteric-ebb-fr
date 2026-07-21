@@ -126,8 +126,13 @@ DATE_PATCHES = [
 
     # ---- UI verbs (Back/Cancel/Cast/Hide/Next/No/Push/Throw) ----
     # Patchés 2026-05-19, smoke test passé (jeu charge save sans crash).
-    (3045, 'Back', 'Retour'),           # 4<6 REPOINT
-    (3540, 'Cancel', 'Annuler'),        # 6<7 REPOINT
+    # DÉSACTIVÉS 2026-07-21 : 'Back' et 'Cancel' sont des noms d'ACTIONS d'input
+    # Unity (UI action map). Les renommer casse le lookup d'action côté MANETTE
+    # → le bouton pause ne répond plus au pad (le clavier passe par un autre
+    # chemin, d'où un bug manette-only). Report joueur Nexus, reproduit :
+    # marche en vanilla, cassé avec le patch.
+    # (3045, 'Back', 'Retour'),         # NE PAS — nom d'action input
+    # (3540, 'Cancel', 'Annuler'),      # NE PAS — nom d'action input
     (3955, 'Cast', 'Lancer'),           # 4<6 REPOINT — lancer sort
     (6469, 'Hide', 'Cacher'),           # 4<6 REPOINT
     (8492, 'Next', 'Suivant'),          # 4<7 REPOINT
