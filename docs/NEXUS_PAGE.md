@@ -124,82 +124,8 @@ Patch FR complet (drag-and-drop, sans BepInEx). Glissez le contenu du ZIP dans l
 
 ## Changelogs (onglet LOGS sur Nexus)
 
-RÈGLES STRICTES Nexus changelog :
-- Chaque ligne devient un bullet automatiquement (pas besoin de mettre `-` ou `*`)
-- Aucun balisage interprété (ni markdown ni BBCode)
-- Pas de saut de ligne au milieu d'une idée — sinon ça forme une grosse ligne
-- Une idée courte par ligne
-
-À CHAQUE nouvelle version, ajouter une nouvelle entrée changelog avec le bloc texte correspondant. Coller TEL QUEL (sans les triples backticks).
-
-### v1.3.4
-
-```
-Fix majeur : zones inaccessibles (scene not found), portes bloquées et map coupée au début du jeu (Jardin des Gobelins, pont).
-Cause : les noms de scène internes avaient été traduits dans les fichiers de niveau, empêchant le jeu de charger les zones.
-Seuls les 17 noms de scène concernés sont remis en anglais ; toute la traduction est conservée (menu, création de personnage, stats, objets, dialogues).
-Effet de bord : les noms de zones sur la carte du monde réaffichés en anglais.
-Corrige aussi 2 dialogues au texte cassé.
-```
-
-### v1.3.3
-
-```
-Fix majeur : certaines zones étaient inaccessibles (scene not found), la map était coupée, et le sort Bless était cassé.
-Cause : des patches sur les noms de types internes du jeu (catégories du journal, Bless) corrompaient la résolution des scripts et des scènes.
-Ces noms reviennent à l'état d'origine. L'affichage des stats reste en français.
-Effet de bord : quelques libellés de catégories du journal et certains noms internes réaffichés en anglais (compromis nécessaire pour ne plus casser les scènes).
-```
-
-### v1.3.2
-
-```
-Fix : initiative de combat qui ne se déclenchait pas (zombie de l'intro et autres combats), dialogue en boucle infinie.
-14 préfixes IROLL- et SPELL restaurés dans tout le jeu.
-```
-
-### v1.3.1
-
-```
-Fix : préfixe DC visible sur les choix de jet (parseur Ink cassé).
-Fix : préfixe ROLL visible sur les choix de jet (ex. ROLL16 wis-...).
-Fix : choix manuels S/F après un jet. 219 préfixes ROLL/DC/FC restaurés.
-Fix : dialogues mixtes FR/EN dans tout le jeu. 15 400 traductions Ink synchronisées.
-Intro Lower Lair intégralement traduite (Zombie, Tas de pommes, Cadavre Sven, Sable Moustique, Manteau Garde-d'Urth, vérification zombie). 800 strings.
-395 lignes restantes du Dialogs CSV traduites.
-Notes de session (résumé écran de chargement) intégralement traduites.
-Tiers de difficulté : Challenging devient Difficile, Daunting devient Pénible, Effortless devient Trivial, Medium devient Moyen.
-Journal Updated devient Journal mis à jour.
-35 choix DC/FC de l'intro traduits (Dick-Ass Roublard, Contrôle, Pour sauver le monde, etc.).
-```
-
-### v1.3.0
-
-```
-Onglets inventaire entièrement traduits (Tout, Casques, Armement, Livres, Clés, Cléricaux, Babioles, Consommables).
-Verbes d'interaction (Voir, Parler, Piquer, Examiner, Ouvrir, Lire, Toucher, Partir).
-HUD : Jour 1 au lieu de Day 1.
-Sections du journal (Cite, Talent, Gens, Mystères, Régions, Annales, Langue, Pouvoir, Religion, Nature, Romans).
-Items : Bottes, Manteau, Fiole, Dague, Sac sans Fond, Ceinture des Nains, Marteau Adamantin, Manteau du Croisé.
-Devise : Crowns devient Écus.
-Tooltips Grimoire (Sorts Préparés, Sorts Collectés, Difficulté de Sort).
-Popups Stockage Profond (bourse) traduits.
-Fix du bug one single time dans Quest_34.
-DC devient DD partout.
-Factions : Errant, Apolitique, Agrarien, Arcaniste, Azgaliste.
-Verbes UI : Retour, Annuler, Lancer, Cacher, Suivant, Non, Pousser.
-Time-of-day : Matin, Tantôt, Soir, Nuit.
-Pomme Jardin pour l'objet item.
-```
-
-### v1.2.2 (état précédent, déjà publié)
-
-```
-Drag-and-drop pur, BepInEx désactivé.
-Stats FR, dialogues Ink traduits, glossaire complet.
-DD : Succès / Échec, XP gagnée, dates mars/avril/etc.
-```
-```
+Les changelogs de toutes les versions vivent désormais dans **[NEXUS_CHANGELOG.md](NEXUS_CHANGELOG.md)**
+(avec les règles de format Nexus). Y ajouter une entrée à chaque nouvelle version.
 
 ## Screenshots à fournir (TODO)
 
