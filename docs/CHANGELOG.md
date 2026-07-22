@@ -1,14 +1,15 @@
 # Changelog — Patch FR Esoteric Ebb
 
-## v1.3.5 — 2026-06-23
+## v1.3.5 — 2026-07-22
 
-**Mise à jour majeure** : zones inaccessibles ("scene not found"), portes bloquées, map coupée et crash au chargement — corrigés ; traduction des menus/création de perso/carte ; bug de monnaie corrigé.
+**Mise à jour majeure** : zones inaccessibles ("scene not found"), crash au chargement, bug de monnaie et bouton pause manette — corrigés ; traduction fortement étendue (menus, création de personnage, carte, glossaire, fiches PNJ, ambiance).
 
 ### Correction critique
 
 - Zones « scene not found » corrigées : Jardin des Gobelins, pont et la plupart des portes/transitions sont de nouveau accessibles.
 - Crash au chargement de partie corrigé.
 - Map qui se coupait au début du jeu corrigée.
+- **Bouton pause à la manette réparé** : les fichiers de dialogue étaient reconstruits par un outil défectueux qui abîmait des composants du jeu au passage. Ils repartent désormais des fichiers d'origine, avec seulement les textes français réinjectés. Cela supprime aussi d'éventuels problèmes latents du même type.
 
 ### Traduction étendue
 
@@ -19,11 +20,23 @@
 - Bug de monnaie corrigé : les écus/couronnes disparaissaient et n'étaient pas dépensables (texte d'achat barré). Les noms d'objets et de la monnaie servaient de clés internes ; ils restent en anglais pour ne pas casser l'économie et les icônes.
 - 433 dialogues cassés réparés (guillemets mal encodés sur les textes à virgule), qui provoquaient l'erreur "error occurred in: Snell" et rendaient des choix non cliquables.
 - 573 lignes de dialogue restées en anglais traduites (phrases d'intro, choix, interjections) et synchronisées dans l'Ink que le jeu affiche.
-- 643 entrées de glossaire traduites (l'encyclopédie cliquable : sorts, lieux, factions, peuples, concepts du monde).
+- 643 entrées de glossaire traduites (l'encyclopédie cliquable : sorts, lieux, factions, peuples, concepts du monde), appliquées aussi aux révélations de jets passifs affichées en jeu.
+- 194 fiches d'examen de PNJ traduites (les observations révélées quand on examine un personnage).
+- 174 observations d'environnement traduites (les textes qui apparaissent en explorant les décors).
+- 18 historiques de création de personnage traduits (nom + description).
+- Noms de stats traduits sur les badges de jets de dés (Force, Dextérité, Sagesse, Charisme…).
+- Réactions du personnage traduites (« Besoin de me reposer avant de faire ça », « Pas les moyens », etc.).
+
+### Autres corrections
+
+- Préfixes de jets de dés qui s'affichaient en clair dans les choix (ex. « ROLL33 wis- ») : 226 doublons supprimés.
+- Marqueur technique « <> » qui apparaissait dans certains dialogues : nettoyé.
+- Libellés « Retour » et « Annuler » laissés en anglais volontairement : ces mots servent de noms d'actions au système de contrôle, les traduire cassait le bouton pause à la manette.
 
 ### Limite connue
 
 - Les catégories du journal (Politics, Geography, etc.) restent en anglais : elles sont codées en dur dans le binaire du jeu et les traduire casse les scripts.
+- Les noms d'objets et de la monnaie dans l'inventaire restent en anglais : ils servent de clés internes (comptage de l'argent, icônes, sauvegardes).
 
 ## v1.3.3 — 2026-05-26
 
