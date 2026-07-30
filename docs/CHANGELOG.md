@@ -22,7 +22,7 @@
 - 573 lignes de dialogue restées en anglais traduites (phrases d'intro, choix, interjections) et synchronisées dans l'Ink que le jeu affiche.
 - 643 entrées de glossaire traduites (l'encyclopédie cliquable : sorts, lieux, factions, peuples, concepts du monde), appliquées aussi aux révélations de jets passifs affichées en jeu.
 - 194 fiches d'examen de PNJ traduites (les observations révélées quand on examine un personnage).
-- 174 observations d'environnement traduites (les textes qui apparaissent en explorant les décors).
+- 174 observations d'environnement traduites (les textes qui apparaissent en explorant les décors), + **62 popups d'ambiance manqués** repérés et traduits via extraction ciblée du composant popup (ex. « Ouvriers sous la bannière verte d'Azgal. ») — les noms propres de lieux, le latin et les langues étrangères sont laissés intacts.
 - 18 historiques de création de personnage traduits (nom + description).
 - Noms de stats traduits sur les badges de jets de dés (Force, Dextérité, Sagesse, Charisme…).
 - Réactions du personnage traduites (« Besoin de me reposer avant de faire ça », « Pas les moyens », etc.).

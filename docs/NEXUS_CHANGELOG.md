@@ -27,7 +27,7 @@ Création de personnage traduite : présentation, classes, statistiques, 18 hist
 Noms de zones traduits sur la carte du monde.
 643 entrées de glossaire traduites : encyclopédie cliquable et révélations de jets passifs.
 194 fiches d'examen de PNJ traduites.
-174 observations d'environnement traduites.
+174 observations d'environnement traduites, plus 62 bulles d'ambiance restées en anglais repérées et traduites (par exemple Ouvriers sous la bannière verte d'Azgal).
 573 lignes de dialogue restées en anglais traduites : intro, choix, interjections.
 Noms de statistiques traduits sur les badges de jets de dés.
 Préfixes de jets qui s'affichaient en clair supprimés, par exemple ROLL33 wis-.
