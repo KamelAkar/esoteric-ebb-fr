@@ -19,7 +19,7 @@ Fichier de référence pour la zone **LOGS** de la page Nexus.
 Zones "scene not found" corrigées : Jardin des Gobelins, pont et la plupart des portes de nouveau accessibles.
 Crash au chargement de partie corrigé.
 Map coupée au début du jeu corrigée.
-Bouton pause à la manette réparé.
+Dialogues récupérés depuis les fichiers d'origine (moins de corruptions).
 Bug de monnaie corrigé : les écus ne disparaissent plus et sont de nouveau dépensables chez les marchands.
 433 dialogues cassés réparés, dont l'erreur "error occurred in: Snell" qui empêchait Snell de rejoindre le groupe.
 Menu principal et menu pause entièrement traduits.
@@ -36,6 +36,7 @@ Onglet d'inventaire "Consommables" et libellés divers remis en mots complets.
 Limite connue : les catégories du journal restent en anglais, elles sont codées en dur dans le jeu.
 Limite connue : les noms d'objets et de la monnaie dans l'inventaire restent en anglais, ils servent de clés internes.
 Limite connue : les libellés Back et Cancel restent en anglais, les traduire casse le bouton pause à la manette.
+Bug connu (corrigé en 1.3.6) : la pause à la manette réagit mal (double ouverture/fermeture). La pause au clavier fonctionne.
 ```
 
 > Note : la v1.3.4 n'a jamais été publiée sur Nexus — son contenu est fusionné dans la v1.3.5 ci-dessus.

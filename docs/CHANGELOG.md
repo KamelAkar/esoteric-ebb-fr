@@ -9,7 +9,7 @@
 - Zones « scene not found » corrigées : Jardin des Gobelins, pont et la plupart des portes/transitions sont de nouveau accessibles.
 - Crash au chargement de partie corrigé.
 - Map qui se coupait au début du jeu corrigée.
-- **Bouton pause à la manette réparé** : les fichiers de dialogue étaient reconstruits par un outil défectueux qui abîmait des composants du jeu au passage. Ils repartent désormais des fichiers d'origine, avec seulement les textes français réinjectés. Cela supprime aussi d'éventuels problèmes latents du même type.
+- Les fichiers de dialogue repartent désormais des fichiers d'origine (avec seulement les textes français réinjectés) au lieu des fichiers re-sérialisés par l'outil défectueux — cela supprime des corruptions latentes.
 
 ### Traduction étendue
 
