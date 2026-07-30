@@ -1,0 +1,501 @@
+idx	prefix	english
+0		At the end of the sewer-path, you encounter a stove. 
+1		Around it sits some crates, and what looks like a ragged bedroll. 
+2		This is a camp. 
+3		Who camps in the sewers? 
+4		We got ourselves a big sewer rat here. 
+5		Big enough to camp and cook. 
+6		The goblin looks around the dark, damp tunnel. 
+7		"I don't like this one bit." 
+8		(Feel the stove.) 
+9		(Look around.) 
+10		M-What are these crates? 
+11		It is not entirely cold. 
+12		"Recent, huh?" 
+13		"No, Cleric." 
+14		"Norvik's sewers are notoriously dangerous." 
+15		"No sane person would rest here. Or survive." 
+16		Some rats scurrying around in the corners. Nothing else. 
+17		Some rats scurrying- and some movement in the water. 
+18		Stay wary. 
+19		Leaning in, you see symbols hatched into the corners of the wood. 
+20		<i>HWBT</i>. 
+21		"Huh." 
+22		The goblin inspects them as well. 
+23		"We've had shipments going missing on Waterlane, in periods." 
+24		"Now I know where they end up." He taps the crate. "Spices." 
+25		He taps another. "Potatoes." 
+26		Yes. It's food crates. 
+27		"Just food. Over time it's been a lot." 
+28		Yes. These crates hold food. 
+29		A glance reveals most are empty. Whoever is down here is clearly siphoning off resources from the Halfway Bridge Tribe. 
+30		Where would they get these crates from? 
+31		A foolish question. 
+32		Obviously, the rats are eating it. 
+33		Due to the esoteric nature of the City Below, this sewer lane must have transformed them into ruthlessly intelligent criminals. 
+34		Criminals hell-bent on taking over this crumbling city of yours. 
+35		Obviously, this is a hideout of some kind. 
+36		These poor people. They must be starving to need this much sustenance. 
+37		Your neck tingles. 
+38		It must be because of your deep, unending hunger. 
+39		Several of the crates are marked as 'HWBT'. 
+40		Someone lives down in the sewers? ...Here? 
+41		Why so much food? 
+42		Seeing all this food is making me hungry. 
+43		Hm. What should I do about this? 
+44		Clearly. 
+45		They probably enjoy the suclusion. 
+46		Suclusion? 
+47		Yes. That is when a man seeks himself alone, instead of together with other lesser beings. 
+48		No. It's- you- they- 
+49		It's <i>se</i>-clusion. 
+50		No. You are mistaken. 
+51		It is <i>su</i>-clusion. 
+52		Like <i>su</i>-culent. Or <i>su</i>-ccess. 
+53		You know what. Sure. Why not. 
+54		They probably enjoy the seclusion. 
+55		Must be feeding a lot of people. 
+56		Or approximately one large creature. 
+57		Like a Loxorii, or Minotaur. 
+58		Naturally. 
+59		Considering the last time you had a decent meal, was... 
+60		No. 
+61		It couldn't be. 
+62		That long, huh? 
+63		Yes. 
+64		It was over a week ago at this point. 
+65		Oh gods. That long ago? 
+66		Surprisingly you're able to stand. It's honestly impressive. 
+67		A feat showcasing the indomitable spirit of man. 
+68		You are, as they say, <i>running on fumes</i>. 
+69		Who knows? It's the Halfways' business. 
+70		You should report the loss of these crates, for sure. 
+71		The HWBT would appreciate it. 
+72		A <i>hunter</i>. 
+73		<i>Comes creeping</i>. 
+74		<i>RIGHT BEHIND</i>. 
+75		<i>YOUR VERY FLESH</i>. 
+76		"I've been trying to nail this thief for a while. Figured it was some organized thing." 
+77		"And considering the size of this haul... it's got to be." 
+78		"And you never thought to check the sewers?" 
+79		"Why food?" 
+80		"This is making me hungry." 
+81		"So what do you propose? Should we keep guard and see if they come back?" 
+82		"Honestly? This whole thing is just creeping me out." 
+83		"Of course not!" 
+84		"It's not even connected to Waterlane. Except for the water-flow, and that's-" 
+85		He stops and squints at the water. 
+86		"Those <i>motherfuckers</i>." 
+87		"You see what they're doing?" 
+88		"I have a feeling you're going to tell me." 
+89		"No clue." 
+90		(Glare at him slack-jawed.) 
+91		"They've been dumping crates into the water flow! Then catching them down here." 
+92		"Probably with a net or something." 
+93		The goblin glances around the tunnel. 
+94		"Diabolical. I'd be impressed if it wasn't my job to keep track of this shit." 
+95		"You know, I've been asking myself that very question." 
+96		"And I could never quite figure it out. But look..." 
+97		The goblin shoves the loose lid of a crate, revealing an empty inside. 
+98		"Hm. Maybe there's a colony of sewer-folk eating that stuff." 
+99		"Oh gods. They've got a <i>mega</i>-monster down here!" 
+100		"Could they be shipping it to someplace else?" 
+101		"It is a lot of calories." 
+102		"We've lost maybe one or two of these crates, every other month." 
+103		"Not enough for a dozen people. But a handful? Sure." 
+104		"It's either that or-" 
+105		"Hold on, a <i>mega</i>-monster?" 
+106		"Is that an official classification?" 
+107		"It is now." 
+108		"No." 
+109		"I don't think you have that authority." 
+110		Of course you do. 
+111		"Of course I do. I'm <b>The Cleric</b>." 
+112		"You see right through me." 
+113		"Right." 
+114		He no longer cares. 
+115		"Doesn't look like it." 
+116		"Whatever they're doing, it's being eaten here." 
+117		The goblin shudders. 
+118		Off the top of your head, you calculate that three full grown adult human men could live on this amount without problem. 
+119		Or... one very large creature. Like a Loxorii, or Minotaur. 
+120		"Really?" 
+121		"You?" 
+122		Is it weird to eat food? 
+123		Is he questioning your need for calories? What's going on here? 
+124		He's calling you spindly and weak. Or something. 
+125		"Why do you act surprised? I am a human who eats food. That's normal." 
+126		"Yes?" 
+127		"Uh..." 
+128		"I am normal, Snell." (Look normal.) 
+129		You do not. 
+130		"No, it's just..." 
+131		"I haven't seen you eat anything but apples. I think." 
+132		"I think I ate some mushrooms off the walls too." 
+133		"Apples are food." 
+134		"Right. Not a pretty sight." 
+135		"I am aware." 
+136		"Right. From the garbage." 
+137		"No... it was not garbage." 
+138		He clicks his tongue. 
+139		"Adjacent to garbage." 
+140		"Adjacent to garbage is still garbage." 
+141		Told you. 
+142		"But look, I just assumed you weren't the type to get hungry." 
+143		"Of course I do. I'm normal." 
+144		"I guess I'm not exactly a <i>foodie</i>." 
+145		"No, you're right. Food ain't my style." 
+146		"Yep. Totally normal." 
+147		"The most normal." 
+148		"Top normie." 
+149		"That does explain it. A bit." 
+150		"Mm. Thought so." 
+151		"Possibly. We could also go get backup." 
+152		"I know we're on the 'tea shop mission', but-" 
+153		"<i>Quest</i>." 
+154		(Let him continue.) 
+155		"What?" 
+156		"The Tea Shop <i>Quest</i>." 
+157		"...Right. Anyway." 
+158		"This is kind of a big deal for the Halfways. Lady Sageleaf will be happy to finally get this thorn cut down." 
+159		"We should go get backup." 
+160		"We don't have time for that, Snell." 
+161		"Yeah. Probably for the best." 
+162		"I somehow have the feeling that whatever is eating all of this won't be too happy about us finding the 'stash'." 
+163		"What do you mean?" 
+164		"You do random shit all the time!" 
+165		"No I don't." 
+166		"It's not random. It's called 'questing'." 
+167		"Oh yeah. I do, don't I?" 
+168		"Nuh-uh." 
+169		Did he just <b>nuh-uh</b> you? 
+170		This fucking goblin... 
+171		He sure did. What a power move. 
+172		"But..." 
+173		He gives you a frustrated look. 
+174		"Why don't we call this a quest too, eh?" 
+175		"Oh. What's the name of the quest?" 
+176		"That's an awful name for a quest." 
+177		"<b>I love it</b>." 
+178		"We can call it, <i>The Food Quest</i>." 
+179		"Yeah? What would you call it then, smart-ass?" 
+180		"<i>A Quest for the Missing Potatoes.</i>" 
+181		"<i>Hungry in the Sewers: The Quest.</i>" 
+182		"Just, <i>Crates & Consumables.</i>" 
+183		"<i>The Lost Goblin Shipment Quest.</i>" 
+184		"Fine. Yours is better." 
+185		"I don't think the potatoes need such a main focus, really." 
+186		"But you know what? Fine." 
+187		"Eh. I mean, sure. Why not?" 
+188		"Catchy. I like it." 
+189		"A bit generic, but yeah, sure. Let's go with that." 
+190		"Thank you." 
+191		"Great." 
+192		"Yes. You do." 
+193		"So maybe we can take some time to deal with this." 
+194		"Yeah. Maybe." 
+195		"Good." 
+196		"You're telling me." 
+197		You are. Objectively. 
+198		You've heard this phrase before. Don't comment on it. 
+199		"I am, Snell. I... I just did." 
+200		"Maybe we should just... leave." 
+201		(Look at the goblin like a newborn bird in the nest looks at its mama.) 
+202		"Not, it's a- it's a <i>saying</i>." 
+203		"Saying or telling - you're still just narrating. It's quite strange." 
+204		"I don't get you and your strange ways, Snell. I must simply be far too human." 
+205		"Oh. I get it." (Don't get it.) 
+206		"No, it's <i>a</i> saying." 
+207		"I'm not going to stop you. Who likes being in the sewers?" 
+208		"I don't." 
+209		"I do." 
+210		"Me neither." 
+211		"You do?" 
+212		"No. I'm just being contrarian." 
+213		"It's cozy." 
+214		"Yeah. Lots of potential for dungeoneering." 
+215		"I can tell." 
+216		"Agree to agree- disagree. Agree to disagree." 
+217		"Sorry. The sewer fumes must be getting to me." 
+218		"The worst kind of dungeoneering, maybe. The slimy kind." 
+219		The goblin does not see it. Due to the thing on your head. 
+220		"Anyway. Uh..." 
+221		<shake>BEHIND YOU</shake>. 
+222		Your companion gasps for air, as he glances back. 
+223		You watch as his entire being suddenly leaves his corporeal body. 
+224		For an instant, he is not a goblin. He is a ghost. 
+225		"<b><wiggle>Kraaid</wiggle> hungers</b>." 
+226		TURN. AROUND. 
+227		Hm? 
+228	DC10 dex-	(Turn around.) 
+229	FC10 dex-	Hm? What's that? 
+230	FC10 dex-	"What's wrong, Snell? You look pale." 
+231		The goblin is already on the move. His sling - loaded - spinning - aiming. 
+232		"<b>To see hunt come to <wiggle>Kraaid</wiggle>? How good</b>..." 
+233		Wait... is someone here? 
+234	FC5 dex-	"Hello?" (Look around.) 
+235	DC5 dex-	"<shake>WHAT IS THAT?!</shake>" 
+236	DC5 dex-	(Scramble to get ready.) 
+237		You watch the hulking mass of flesh and wet scales rising from the shadows of the sewer. 
+238		A Crocodilus. 
+239		It towers over you. Its gaping maw widened into what could be construed as a mocking smirk. 
+240	IROLL-	Roll initiative. 
+241		<i>Urth bless your soul</i>. 
+242		Wha- wha... 
+243		Bow down. Before it is too late. 
+244		This is your dragon. 
+245		You must stand tall as it consumes you. 
+246		You. 
+247		You are food. 
+248		There's not much time. 
+249		But if there's any chance to de-escalate - do it NOW! 
+250	FC12 str-	(Bow your head.) "My life is yours, Beast." 
+251	ROLL17 str-	Raise your fists, and throw a punch. 
+252		"You- no!" 
+253		"Oh SURE, I'll get RIGHT ON IT!" 
+254		The goblin is angry because you are both about to die. 
+255		Why goblin angry? That's sad. 
+256		With determination and resolve, you take a decisive step forth. 
+257		And you throw a punch at the beast. 
+258		You hit him in the snout. 
+259		"Ugh..." 
+260		Take that you flat fuck! 
+261		Yet all it seems to do is cause the grin upon its maw to widen. 
+262		However, you're only able to strike at the thick hide. It absorbs the punch like nothing else. 
+263		The grin upon its maw widens even further. 
+264		You say the words and gather a necrotic force in your palm. 
+265		A strain is put on your muscles. 
+266		The power surges. 
+267		(Hit the monster.) 
+268		Striking with all your might. 
+269		The initial blast makes contact, shooting black veins across the beast. 
+270		It lets out a horrible growl and is pushed back. 
+271		Yet the rest of dark energy simply fades upon the crocodile's thick hide. 
+272		What? How?! 
+273		No. This beast... 
+274		It is surging with necrotic power. 
+275		An <i>UNDEAD</i> crocodile? 
+276		It is blessed by darkness. 
+277		You say the words and gather the necrotic force. 
+278		Yet when your fist goes forth, and you make contact... 
+279		The dark energy simply fades upon the crocodile's thick hide. 
+280		As you whisper the words and snap your fingers before the beast, you see the glittering effect of the charm take hold... 
+281		And fade. 
+282		Shit. 
+283		"Ah... the <i>esoteric</i>." 
+284		Snell's sling creates an incredible sound, echoing down the tunnel. He lets his stone fly in a powerful blast. 
+285		The projectile hits the monster right on the neck, causing him to let out an angry growl. 
+286		As if all the playful toying with his food is suddenly over... 
+287		The croc-like creature lunges forward. 
+288		Silent and focused, it reaches your face, and entire body, enveloping you with its maw. 
+289		Then it bites down. 
+290		You manage to squirm out of its grip before it rips your being into shreds. 
+291		Blood is... lost. 
+292		You can't let that happen again. Shit, shit, shit! 
+293		"<b>Yes...</b>" 
+294		The croc brings forth a jagged meat cleaver. 
+295		A horrific weapon to behold, if wielded by a man. 
+296		Held by this beast, it is DOOM. 
+297		"<b>The hunt is on...</b>" 
+298		This psychopathic monster just loves the thrill of the hunt over everything else. 
+299		Take that from him, and you take away the fun. 
+300		It swings the hatchet, missing your <b>stomach</b> by an inch. 
+301		Almost... spilled... 
+302		"Hunt? No, STOP! I GIVE IN!" (Bow your head.) 
+303	ROLL14 dex-	Keep attempting to dodge. 
+304		The second strike also goes right past your flesh. 
+305		The second strike however goes just where the beast wants it. 
+306		In your lower thigh. 
+307		A frustrated shriek? No. One of pleasure. 
+308		"You are rabbit, escaping slaughter..." 
+309		"<b><wiggle>Kraaid</wiggle> enjoys</b>." 
+310		Then he squints at you. 
+311		Lets out a grunt. 
+312		And lowers the weapon. 
+313		"Huh...?" 
+314		Your companion takes a step back, while keeping a wary eye on the beast. 
+315		He's unsure if he should strike again, or see if there's some strange peace to be found here. 
+316		It stares at you with cold, blank eyes. 
+317		Yet it does not strike. 
+318		Soul-less. Predatory. 
+319		A beast who developed consciousness, but lives without care for others. 
+320		Fascinating. 
+321		The goblin hesitates. 
+322		Inches away, the croc-creature makes a deep growling sound. 
+323		It sounds... annoyed. 
+324		"No hunt? No struggle?" 
+325		"<shake>Graaaah...!</shake>" 
+326		A frustrated shriek. 
+327		"Fight! Struggle, like rabbit!" 
+328		He gives you a shove with his claws. 
+329		The goblin sends a quick glance between the two of you. 
+330		"No! I don't want to!" 
+331		"Stop attacking me, citizen!" 
+332		"<wiggle>Kraaid</wiggle> is not citizen. <wiggle>Kraaid</wiggle> hunts." 
+333		"I don't think those two are exclusionary." 
+334		"Well, I don't want to be hunted, so... stop." 
+335		You whisper the words in a rushed tone, and snap your fingers. 
+336		Immediately you see within the smirking beast's eyes - that twinkle. 
+337		The charm landed perfectly. 
+338		"Uh... stop this!" 
+339		"Hey, buddy!" 
+340		It stops. 
+341		A creepy croaking noise comes out of its maw. 
+342		"What are you..." 
+343		"<wiggle>Kraaid</wiggle> greets friend." 
+344		(Take a deep breath.) 
+345		"And friend's little snack." 
+346		The goblin takes a deep breath, leaning on his knees. 
+347		"I'm a little snack alright..." 
+348		What does he mean by that? 
+349		That does not mean anything. The goblin is delirious from adrenaline. 
+350		You assume he means that he's all 'snacked out'. 
+351		Which means something like 'I'm tired'. 
+352		No. That's not a thing. 
+353		"<wiggle>Kraaid</wiggle> offers guidance to friend. How goes the hunt?" 
+354		The beast has a different tone with you now. 
+355		As if his bloodlust was instantly sated. 
+356		"Whom do you serve?" 
+357		"Why are you down here?" 
+358		"Did you steal from the Halfway Bridge Tribe?" 
+359		"Tell me about yourself." 
+360		"Can you promise not to kill us?" 
+361		"Alright then." (Break the spell.) 
+362		"<wiggle>Kraaid</wiggle> hunts, for Boulba'slop." 
+363		"That's not what I asked. Whom do you serve down here?" 
+364		"Right. Your god?" 
+365		"<wiggle>Kraaid</wiggle> does not." 
+366		"<wiggle>Kraaid</wiggle> follows the hunt." 
+367		"God?" 
+368		The crocodile stops and thinks for a moment. 
+369		Then he says, "Master." 
+370		"That's like one of those fairytale titans, I think. Creepy." 
+371		"<wiggle>Kraaid</wiggle> lurks. Until next hunt." 
+372		"Right. When's that?" 
+373		"<b>Soon</b>." 
+374		"Nice. Horrifying and vague." 
+375		"Steal?" 
+376		"<wiggle>Kraaid</wiggle> take what <wiggle>Kraaid</wiggle> needs." 
+377		"That is all <i>about</i> <wiggle>Kraaid</wiggle>." 
+378		He looks you up and down. "<wiggle>Kraaid</wiggle> does not kill..." 
+379		"<wiggle>Kraaid</wiggle> cannot kill." 
+380		"That's... that's good!" 
+381		"Wow. A pacifist, huh?" 
+382		"Why do I have a hard time believing you?" 
+383		"<wiggle>Kraaid</wiggle> cares not." 
+384		"<wiggle>Kraaid</wiggle> does not know this." 
+385		"<wiggle>Kraaid</wiggle> knows not." 
+386		"Gods be damned." 
+387		Why does it feel like the fight's not over yet? 
+388		"Hope you know what you're doing, Cleric." 
+389		As the charm fades from the beast's dead eyes, it lets out a rumbling noise. 
+390		"<shake>Guh...</shake>" 
+391		"<wiggle>Kraaid</wiggle> is bored." 
+392		"You are Cleric, no?" 
+393		The goblin takes a deep breath. Then he hisses at you under his breath. 
+394		"Do <i>NOT</i> push your luck." 
+395		"Y-yes. You know me?" 
+396		"I am <b>The Cleric</b>, yes. Get it right." 
+397		The croco-beast's tail whips around, sending dust up into your face. 
+398		The croco-beast rushes forward and grabs you by the neck. 
+399		(Struggle to breathe.) "I'm actually..." 
+400		"No! I am! I'm Cleric! That's me!" 
+401		He tightens the grip as you mutter out a faint response. 
+402		"...a rogue." 
+403		"...a wizard." 
+404		"...no, no okay, I'm a cleric. I'm <b>The Cleric</b>, even." 
+405	DC17 con-	"...<i>I'm Agrarian</i>...! No wait, shit. That's politics. I mean, uh..." 
+406		"...I'm whatever you want me to be. <i>Please don't kill me</i>." 
+407		"Whatever <wiggle>Kraaid</wiggle> wants?" 
+408		"Yes...! I'll even be apolitical!" 
+409		"Yes! I'm... I'm a rabbit!" 
+410		He releases you. 
+411		"Cleric. Yes, you are the one." 
+412		"Do not be trouble." 
+413		"And <wiggle>Kraaid</wiggle> will not be trouble." 
+414		The beast lumbers over to the encampment. You look on, taking heavy breaths. 
+415		Snell leans on his knees. He appears to be shaking. 
+416		Adrenaline running out. 
+417		Weak knees. Dizzy skull. 
+418		Kraaid sits down on a crate, in front of the little stovetop. 
+419		"Hunt is done for daytime. Now is rest. And cooking!" 
+420		What in the world have you stumbled onto here? 
+421		You have an urge to fight this thing to the death. 
+422		Yet you know, you are no match for it. Not now. 
+423		(Gulp and approach his camp.) 
+424		The hulking beast looks at you with a deep hunger. 
+425		Your gut-biome quivers. 
+426		RUN. 
+427		"<wiggle>Kraaid</wiggle> greets human." 
+428		"What do you hunt down here?" 
+429		"Those rats really seem to like you." 
+430		"I have captured all the rats, Kraaid." (Hand them to the monster, one by one.) 
+431		"I found this rat." (Show him the white rat.) 
+432		"So... you're a chef, eh?" 
+433		"Is it okay if I have a chat with your rats?" 
+434		E-Nod your head. 
+435		"<wiggle>Kraaid</wiggle> has seen this, yes." 
+436		"Oh, you have?" 
+437		"Yes..." 
+438		"<wiggle>Kraaid</wiggle> saw human in yellow go past. " 
+439		"<wiggle>Kraaid</wiggle> meant to eat such fancy human. But this human was fast... and turned invisible before <wiggle>Kraaid</wiggle> could approach..." 
+440		"<wiggle>Kraaid</wiggle> did hear fancy yellow human speak to self while walking past. Humans said: <wiggle>where is this damn secret passage, again</wiggle>." 
+441		"A secret passage? Where?" 
+442		"Are you lying to me?" 
+443		"So he went... into the dungeon?" 
+444		M-"Alright. Thanks for the info." 
+445		"<wiggle>Kraaid</wiggle> does not know." 
+446		"<wiggle>Kraaid</wiggle> does not need to lie." 
+447		"Fancy human came from southern caves - going into dungeon. Yes..." 
+448		The monster smirks. Or it makes no expression at all, because it always smirks. 
+449		The monster stares at you, as you hold up the white rat in an uncomfortable grip. 
+450		"<shake>Kraaid</shake> sees that." 
+451		"There are five of them. They make a lot of noise when they come around." 
+452		(Put the rat back in your pouch.) I guess I'll have to find all five rats then. 
+453		It's a quest. 
+454		Who gave you this quest? 
+455		I'm not sure. 
+456		Then you should probably reconsider before you head out on a rat-hunting mission. 
+457		Since nobody has promised you any pay for it. 
+458		So yeah. 
+459		Think about that. 
+460		Kraaid keeps on grilling. 
+461		"<i>Kraaid</i> has no problem with intra-species fraternization..." 
+462		"Cleric speaks if Cleric wishes." 
+463		"Great. I'll do that." 
+464		"Maybe later." 
+465		Kraaid does not focus on you, nor the rats around him. 
+466		Kraaid just keeps on grilling. He just won't stop. 
+467		You cast the spell, and suddenly the squeaking becomes clear. 
+468		Five distinct voices. 
+469		All talking at once. 
+470		"...and if we break those chains, the workers' paradise will be right AROUND THE CORNER!" 
+471		"You FOOL! Giving in to <i>foreign ideology</i> will destroy everything we have <i>built</i>!" 
+472		"Can't we all just be friends?" 
+473		"<i>Friends... how naive...</i>" 
+474		"If you'd just let the market decide, we wouldn't need any of this!" 
+475		The rats are... debating. 
+476		They're imitating. Mock play turned inanely real. 
+477		Hah! 
+478		Passionately. 
+479		Oh no. 
+480		(Clear your throat.) 
+481		The debate stops. 
+482		Five tiny heads snap toward you. 
+483		"Oh. The <i>human</i>," the RED RAT says flatly. 
+484		"Hello!" squeaks the WHITE RAT cheerfully. 
+485		"Wonderful. Is it time to be transported to another part of the world again?" mutters the YELLOW RAT. 
+486		"Iron human. Sympathizer of <i>steel</i>," observes the GREEN RAT with disdain. "At least you put us with an ally." 
+487		"<i>Death comes for us all eventually...</i>" whispers the BLACK RAT. 
+488		"What are you all doing here?" 
+489		"You're... having political debates?" 
+490		"What do you think of Kraaid?" 
+491		"Do you all... get along?" 
+492		"I don't think you guys can vote in the election, right?" 
+493		"You're very politically engaged for... rats." 
+494		"Was it okay that I brought you all together?" 
+495		"Great. Thanks for the enlightening talk." (Break the spell.) 
+496		"We live here now!" the WHITE RAT says brightly. 
+497		"Crocodile is a good teacher," the RED RAT adds. 
+498		"The big guy doesn't eat us, which is... pragmatic." The YELLOW RAT seems pleased. 
+499		"A temporary alliance of convenience," the GREEN RAT sniffs. "<i>Until the <shake>revolution</shake></i>." 

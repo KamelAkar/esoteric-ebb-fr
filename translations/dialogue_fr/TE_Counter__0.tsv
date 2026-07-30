@@ -1,0 +1,195 @@
+idx	prefix	english
+0		You step in behind the counter. 
+1		There are compartments filled with ruined tin boxes. In the back, there's a complicated set of tubes and pipes combining into some type of tea-making machine. 
+2		A brewer. Not often you get to see those these days. 
+3		For such a fine (and expensive!) piece of machinery to break. A shame. 
+4		The machine catches your attention. Search it. 
+5		Machines. Very complicated. 
+6		You understand it, however. All of this is easy to you. 
+7		So, this is where they sell tea. Right here. 
+8		Is it worth it to investigate here? 
+9		Yes. Now investigate. 
+10		Yes. Do it. 
+11		"I'll have a sweet with cream, please," Snell says nasally. 
+12		He leans over the counter. "Oh, make that half-cream, actually. My tummy's sensitive today." 
+13		He's making fun of humans and their love of milk. 
+14		Not the best joke, but he'll like you more if you play along. 
+15		Oh, the goblin's kidding! 
+16		Time to make a different, <i>better</i> joke. That'll be smooth. 
+17		"I don't work here, Snell." 
+18		"Good one." 
+19	DC10 cha-	(Answer in a snobby tone.) "We only serve Hill-sourced oatmilk, <i>sir</i>." 
+20	FC10 cha-	"But you're a goblin. Don't you want some <i>green</i> tea?" 
+21		"Yeah- I," he mutters. 
+22		He considers explaining his joke to you. 
+23		He's surprised by that answer. Did he think you were a barista? 
+24		He sighs. "Just check the damn counter." 
+25		"Thanks. See if you find something behind the counter." 
+26		The goblin looks at you, then looks at the counter. 
+27		Then looks at you again. 
+28		That's called a <i>double-take</i>. Good job. 
+29		Look at his face. Pure shock. 
+30		"Good one, Cleric." 
+31		He waves his claw. "Check the counter." 
+32		For a short instant he actually thought you were funny. Damn. 
+33		The goblin laughs. 
+34		Fake laughter. 
+35		"That's funny! Because I'm green." 
+36		His smile drops. "Check the damn counter." 
+37		Sensitive. 
+38		(Look at the surface.) 
+39		(Look over the machine.) 
+40		(Look into the charred boxes.) 
+41		E-(Stop looking around the shop counter.) 
+42		There's a slab of wood covering the stone base of the countertop. 
+43		More like charcoal at this point. 
+44		It was once finely sanded Brachen. Now ruined. 
+45		But the stone still stands. Strong. Steadfast. 
+46		Pipes and levers melted. Glass shattered. 
+47		This was once a fine work of engineering. 
+48		(Check the pipes.) 
+49		M-That's it. 
+50		A metal of some kind. 
+51		Copper pipes. Expensive. Once shiny, now charred and bent. 
+52		Hand-crafted. You can see the markings of a rounded hammer across it. A lot of care went into this machine. 
+53		This is where you put the tea leaves. 
+54		As you lean in, you don't see much beyond some burnt muck through the cracks. 
+55		But you do smell something. 
+56		It smells <i>awful</i>. 
+57		Your stomach turns. 
+58		An intense scent. 
+59		Why does it smell like that? 
+60		(Lean in. Closer.) 
+61		Do I have to? 
+62		(Move away from the chamber.) 
+63		It contains something foul. 
+64		You do not know what. 
+65		Move... away. 
+66		You must go closer. <i>Know</i> the scent. 
+67		Come on. Don't. 
+68		Good idea. Perhaps you can identify the contained flora... or perhaps fauna? 
+69		(Inhale the horrible smell.) 
+70		You smell the disgusting burnt muck through the gaps of your helm. 
+71		It smells like disgusting burnt muck. 
+72		Bad. This is not good. 
+73		You <b>know</b> this is bad. 
+74		<shake>Oouuhh...</shake> Bad. 
+75		What smells foul- makes your nose <b>stronger</b>. 
+76		That's NOT true. 
+77		Holy hells, stop shoving your face into... whatever this shit is! 
+78		(Move back.) 
+79		Your knees shake. But you stand. 
+80		Take care of yourself better. 
+81		As you turn around, you find the goblin glaring at you with a worried expression. 
+82		"I'm going to pretend I didn't see that." 
+83		You really do not. 
+84		Clues can be found in the foulest of places. 
+85		You do so. 
+86		There's a metal valve at the end. It's shut. 
+87		It's only shut when it's brewing. That means it was working during the explosion. 
+88		(Open the valve.) 
+89		(Leave it alone.) 
+90		You try to turn the valve, but it bends at an odd angle. 
+91		Wait. That is not how a valve is supposed to feel. 
+92		It's... stuck? 
+93		You are the hammer. This valve is the nail. 
+94		(Force it.) 
+95		(Be careful.) 
+96		I'm not messing with this thing. (Leave it.) 
+97		"What are you doing?" your companion asks as you lift the hammer above your head. 
+98		(Bring it <shake>down</shake>.) 
+99		With an intense precision and egregious power - you SMASH your hammer onto the valve. 
+100		If a machine does not work, you make it work. 
+101		Oh no. 
+102		You put pressure on the valve as you turn the little lever. 
+103		Only with finesse can you tame a machine like this. 
+104		Because you're such an expert at that. 
+105		You carefully put pressure on the valve as you turn the little lever. 
+106		The machine returns your indifference. 
+107		Suddenly, you hear a snap. 
+108		A tiny piece of copper comes flying towards you, hitting your helmet with a <i>dink</i>. 
+109		You totally let it do that. 
+110		Oh. There's more...! 
+111		"Shit. Step back!" 
+112		The valve bursts open, releasing an oozing pile of tea, ash, and gods-only-know-what-else onto the floor. 
+113		"Gods be damned," Snell mutters, and holds his nose. 
+114		The scent is particularly awful. 
+115		Avoid. 
+116		<b>Avoid.</b> 
+117	ROLL8 con-	Try to survive. 
+118		You leave it for now. 
+119		You leave the machine where you found it. 
+120		Tin boxes full of tea leaves. 
+121		Or... they're supposed to be. The heat from the explosion has melted both the tin and its contents. 
+122		It's just ash now. 
+123		Damn. Was hoping at least one of these would be intact. 
+124		Selling tea is a legit side hustle. The margins are <i>bonkers.</i> 
+125		<b>FOULNESS.</b> 
+126		But nothing you cannot stand. 
+127		You smell the fetid, melted ooze. 
+128		This is disgusting...! 
+129		The goblin is dry heaving next to you. 
+130		(Try your best not to puke.) 
+131		<b>NO.</b> 
+132		Your mind goes blank. 
+133		Your mouth waters. 
+134		Everything goes black. 
+135		"Cleric...!" 
+136		Did I faint? 
+137		Yes. 
+138		That's not good. 
+139		You will wake. 
+140		Your time is not <i>yet</i>. 
+141		Not until the coin is flipped. 
+142	DC18 con-	What? 
+143	FC18 con-	Oh... 
+144		You open your eyes. 
+145		Snell is standing over you. 
+146		"You good?" 
+147		"I don't believe you. But cool." 
+148		"Let's keep going, okay?" 
+149		Alas. 
+150		You persevere. 
+151		Yeah, <i>great</i> job, man. 
+152		Now stop smelling WEIRD SHIT...! 
+153		You are NOT enjoying it. 
+154		The floor behind the counter is now covered in a layer of ashy mulch. 
+155		Hm. This is what victory smells like. You have won. 
+156		You will tell the tale of <i>The Chamber and the Valve</i> to your offspring. 
+157		This will be your legacy. This is who you are. 
+158		It better not be. 
+159		Strong veto on that one. 
+160		Ugh. What did I gain from this? 
+161		A loud <i>ding</i> comes out of the machine as the last dribble of ooze exits the canister. 
+162		"It's still operational? What the hell...?" 
+163		Operational? More like leaking innards. 
+164		A <i>death knell</i>. 
+165		After the bell, a box opens up at the top of the machine. 
+166		Inside you see dry tea leaves. 
+167		It's the <i>steam leaves</i>. They're supposed to add extra flavor. 
+168		And that scent... they are Ukkul leaves. From Kargamesh. 
+169		Yummy. 
+170		In your tummy. Tea is good. 
+171		"Wait... this thing was ready to go." 
+172		"Doesn't that mean it was being used during the explosion?" 
+173		The machine was ready? Perhaps it was being used during the explosion. 
+174		(Grab the leaves.) 
+175		"Mm. Alright, well. That means those tea leaves are evidence." 
+176		The goblin is correct for once. 
+177		Always good to have proof. 
+178		"Evidence, huh..." 
+179		Snell stares at you. 
+180		"Yeah. Pick up the leaves, Cleric." 
+181		You need to get better at listening. 
+182		What? He does NOT speak to you that way. 
+183		"Oh. Right. Of course." 
+184		"You don't tell me what to do." 
+185		"Yeah. Of course." 
+186		"I think I just did." 
+187		He sighs and takes a step back. "Fine. Whatever you do, <i>don't</i> take the leaves, Cleric." 
+188		Reverse psychology? What, does he think you're fi- 
+189		"Thank you." (Grab the leaves.) 
+190		Damn it. 
+191		You carefully place the dry leaves in your pouch. 
+192		The goblin gives you a nod. 
+193		"Now can we please not hang around this... <i>goop</i>." 

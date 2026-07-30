@@ -1,0 +1,400 @@
+idx	prefix	english
+0		The only not-disintegrated thing in the central chamber is this stone slab. 
+1		It's just very, very cooked. 
+2		A table. It was once a stone table. Now it is as scorched as the rest of the tea shop. 
+3		Move this thing. It is surely hiding something important. 
+4		Maybe... leave it alone. Your arms cannot carry that burden. 
+5		Ah. Yes, a table. It must have been flipped over by the force of the explosion. 
+6		Beneath. 
+7		Everything is horrific beneath. 
+8		It could cover something. But moving it alone would be difficult. 
+9		It could cover something. Make sure the goblin helps out. 
+10		Leave this for last. If you are able. 
+11		So whisper the Strings in your ears. 
+12		"Hm? You want to flip the table?" 
+13		"It's damn heavy, but... maybe we can do it together." 
+14		Once you've flipped tables, you shall be TRUE brothers. 
+15	ROLL25 str-	Try to move the stone table. 
+16		E-Later. 
+17		You make your best attempt, but the big block of scorched wood just won't move. 
+18		"Damn," the goblin says, panting. "Heavy." 
+19		"Let's... look around more. Come back to this later, I guess." 
+20		Doing this alone is nearly impossible. If only you had a companion of some kind... 
+21		You can do this. Alone. Right? 
+22		You can do this. Alone. Maybe. 
+23		Of course you can! 
+24		The world quakes at your feet. It moves at your touch! 
+25		FLIP. THAT. TABLE! 
+26		Alone, it would be difficult. 
+27		Perhaps you should find assistance. 
+28		There is something interesting here. 
+29		However, make sure you look around first. 
+30		Then do not bother. It is just a table. 
+31		You grab the thick table with your gloved hands. 
+32		Gripping it firmly. Strongly. 
+33		Snell copies your movements. 
+34		"On three." 
+35		"One. Two." 
+36		"Three!" 
+37		(Flip the table.) 
+38		You stare into the dark corner of the tea shop. 
+39		Midst soot and broken tiles, you see a corpse. 
+40		Of circumstance. Of whispers-in-the-pipes.  
+41		Of a son in search of his father - <i>SHE PAID</i>. 
+42		It almost disappears into the destruction around it. 
+43		An aura of sorrow. This is pure tragedy, beyond any imaginable degree. 
+44		It's a... 
+45		Snell stares at it. He is silent. 
+46		Give him a second. He'll appreciate it. 
+47		One casualty. Report it. 
+48		<i>Gods be good...</i> 
+49		Huh. 
+50		Yeah, this is... a bit out of your pay grade. 
+51		(Lower your head in respect.) 
+52		(Whisper to yourself.) "<i>Urth Be Blessed</i>." 
+53		He flinches and looks at you. 
+54		"Mm. Yeah. Confirmed." 
+55		You spend a moment alone in silence. 
+56		You spend a moment next to Snell in silence. 
+57		Your thoughts landing on the disfigured remains. 
+58		It haunts you. 
+59		Your words reach no one. 
+60		Snell nods slowly. 
+61		Your words hang in the air. No one responds. 
+62		Yet it is a comfort nonetheless. 
+63		The corpse appears completely charred to you. Such destruction would make it very difficult to identify. 
+64		The corpse appears completely charred to you. 
+65		The size is average. In human terms. Somewhat slender. 
+66		The size is average. You think. 
+67		Hard to make out anything other than a silhouette. 
+68		She did not deserve this end. 
+69		You take a few careful steps up to... it. 
+70		Then you kneel down. 
+71		Most of the creature is burnt beyond recognition. 
+72		So there's only two key areas to focus on. 
+73		The hands or the head. Choose. 
+74		There's a dirty joke here somewhere. 
+75		Not the time, nor the place. 
+76		Be respectful. 
+77		The goblin steels himself. 
+78		"How much experience do you have with... corpses, Cleric?" 
+79		Your thoughts land on anatomy books. Basic medicine training. Nothing practical. 
+80		You're an expert. 
+81		In your field. 
+82		Death. 
+83		You know it. You fear it. 
+84		You were far too young. 
+85		(Clear your throat.) 
+86		The goblin breaks his intense stare-down at the corpse and turns to you. 
+87		He is afraid the corpse will awaken. 
+88		Not an unreasonable concern. 
+89		"Cleric." 
+90		"Experience with corpses? None." 
+91		"I am Urthguard. Not Health Services." 
+92		"I can handle it." 
+93		"Not much. What about you?" 
+94		"Great. Guess we'll do this one step at a time." 
+95		"Guess that's fine. Revivify probably stopped working here a while ago." 
+96		"Good to hear." 
+97		"I'm no expert. But you know... part of the gig." 
+98		Yeah, right. Like those dainty little claws have ever touched a corpse. 
+99		A lie. He wants to seem more experienced than he is. 
+100		"We should do a preliminary checkup. Just to scope out the scene." 
+101		"Then we'll get a transport to the... Lichhouse, I guess." 
+102		"Luckily it's close by." 
+103		"We should have Visken examine it." 
+104		"A preliminary checkup, huh?" 
+105		"Uh-huh." 
+106		He is barely listening to you. 
+107		"I'll check the head. You, uh..." 
+108		"Check the hands. Or something." 
+109		He is keeping a healthy distance. The goblin is afraid. 
+110		He does not want to touch the corpse. You feel bad for him. 
+111		You are not afraid. 
+112		Approach it. Do your job. 
+113		Nasty business this turned into. 
+114		Well. Time to go to work. 
+115		(Step up.) 
+116		You take a few careful steps up to... <i>it</i>. 
+117		(Kneel down.) 
+118		Seeing it up close causes you to shake. 
+119		Your flesh feels the flames. 
+120		You share the bond of death. 
+121		(Look at the torso.) 
+122		(Focus on the hands.) 
+123		A dark mass. Once skin. 
+124		Now appears to be but a solid mass. 
+125		It does not even smell. 
+126		She was incinerated. Fully. In an instant. 
+127		The intense heat caused rapid muscle contraction, freezing the woman in place. 
+128		She placed herself in this position. Most likely to take cover from the explosion. 
+129		The heat must have been the source of death. A quick death. 
+130		Nothing but blackened, brittle carbon residue. 
+131		However, you are quite certain this was a woman. 
+132		The mortician will have to determine that. 
+133		Whatever led her to this corner, it was quick. 
+134		(Just look at something else.) 
+135		"Got it. Good info." 
+136		Snell approaches, just a few steps. 
+137		He leans in, slightly closer. 
+138		Too far to see anything. 
+139		The poor goblin. 
+140		You see the left hand is half-destroyed. 
+141		Perhaps they landed on it. 
+142		Could have shattered in the fall, if the source of the fire was instantaneous enough. 
+143		But most likely, the fire would've taken at least half a minute to be lethal. 
+144		And only if the fire source was hot enough to cook the target's brain. 
+145		The thought causes your stomach to churn. 
+146		The right hand is clenched near the victim's hip. 
+147		Holding something. 
+148		A clue! Of course. 
+149		You've read stories like this. The victim always grips something important when they die. 
+150		Looks like something brittle in the grip. Perhaps leave it for later. 
+151		You'd have to have a real gentle touch not to break the content of that fist. 
+152		Go for it! 
+153		No. This is a bad idea unless you want to break that fist in a thousand pieces. 
+154		But hey. Maybe you do. 
+155	ROLL14 dex-	Pry the hand open, carefully... 
+156		(Leave it for later.) 
+157		Slowly and deliberately you sneak your fingers underneath the fingers. 
+158		And something comes loose. 
+159		A chain. 
+160		A thin gold chain, or parts of it. 
+161		Interesting. 
+162		You attempt to pry and dig, but clearly you're not doing it very well. 
+163		Because soon enough the charred hand crackles and the corpse soot... 
+164		Oh, gods save us all. 
+165		Your <b>everything</b> shivers. 
+166		There's CORPSE STUFF all over your HANDS! 
+167		I don't like this. I don't like this. I don't like this. 
+168		(Muffle a scream.) 
+169		In your panic, the hand disintegrated further, creating a pile of dust and chunks on the scorched floor. 
+170		You take a deep breath. 
+171		Your gloves. They are covered. In PERSON. 
+172		It is horrific to be so close to death. 
+173		A person stops being a person when their soul leaves. It's okay. 
+174		As the terror wears off, and the soot comes off, you find something in the mess you made. 
+175		Glimmering. 
+176		However, the second after you see it, you watch it begin to GLOW. 
+177		An esoteric glow. 
+178		Then it starts to break apart in front of your eyes. 
+179		The gold chain, within seconds, turning into another pile of dust. 
+180		"The fuck?" 
+181		"That was... magic, right?" 
+182		A cursed necklace? 
+183		"To you, maybe." 
+184		The goblin grimaces. 
+185		Perhaps a delayed reaction? 
+186		A defense mechanism. 
+187		Nothing you can deal with now. 
+188		Boring. 
+189		For the best. Yeah. 
+190		The mortician will handle it. 
+191		"I, uh..." 
+192		"Not much to see. Fire's burned off... everything." 
+193		No pain. This was an instant destruction of mind and soul. You sense it by looking at this twisted husk of a person. 
+194		It was a quick death. Gods be good. 
+195		The thought of one moment being HERE - another being NOT - causes your stomach to churn. 
+196		While charred beyond recognition, the skull itself is fairly intact. 
+197		The mouth is intact. Good. 
+198		So <i>you</i> can have someone to talk to, of course. 
+199		Speak with Dead. It requires an intact mouth on the corpse to successfully mimic speech. 
+200		Even in this condition, the corpse should be a valid target. 
+201		Do I notice anything else? 
+202		A good question. 
+203		Looking for distinguishing features, you do notice something interesting. 
+204		The ears. 
+205		"Ears?" 
+206		Yes. 
+207		I've seen ears before. 
+208		(Look at them. Closely.) 
+209		Look closer. 
+210		He squints. 
+211		"Barely there. What about them?" 
+212		"Look closer." 
+213		"Is the shape off to you?" 
+214		"Sure. What am I supposed to...?" 
+215		"Well, yeah. Because of the fire. Unless you mean..." 
+216		He tilts his head. "Oh." 
+217		Oh. 
+218		Wait, wait, wait. 
+219		Despite barely keeping a recognizable form, what remains of the ears have a peculiar shape. 
+220		They're sharp. Pointy. 
+221		They're pointy. 
+222		"Oh." 
+223		He looks around. 
+224		There's only one humanoid creature on the coast with this body size <i>and</i> pointy ears. 
+225		"Not an orc. Not a gnome." 
+226		Oh yeah. Orcs and Gnomes have pointy ears too. But... this does indeed not look like one of those. 
+227		(Mutter to yourself.) "And not a human..." 
+228		The goblin takes a step back. "No. No chance." 
+229		Denial. For both of you. It's unbelievable, but... 
+230		Oh. Oh boy. 
+231		Just the concept of such a rare creature being found in this second-rate tea shop... 
+232		There is no doubt. 
+233		Of course. Something like... 
+234		Gods be good. 
+235		Your city is in trouble. 
+236		"Oh no." 
+237		Illym weeps. 
+238		Her children are SLAVES to FASCISM. 
+239		Your companion glares at the corpse. His head then slowly turns towards you. 
+240		Oh no. 
+241		Oh dear gods. 
+242		"It's a..." 
+243		It's an <b>elf</b>. 
+244		"It's a <b>damn elf</b>!" 
+245		<i>Scent of Ukkul 'midst flame a-miss...</i> 
+246		This is the death you fear. The dramatic end to your career. 
+247		Did they know? No. They couldn't have. 
+248		Yet you have, through no means of your own, landed in this trapped hallway of a mission. 
+249		You only have one choice now. 
+250		Find out exactly why this happened. Who killed the elf? Who blew up the tea shop? 
+251		You feel the answer must lie below- far, far below... 
+252		If Meriadoc is correct, your goal lies within the Pillar... 
+253		Your eyes follow the towering dark knight as he walks past, heading down the stairs. 
+254		"The body is <b>secured</b>." 
+255		"Good, good," the pale man answers behind his desk. 
+256		Snell leans against the iron slab, his eyes fastened entirely upon the elvish corpse across the chamber. 
+257		"I think I expected a dwarf." 
+258		"Huh?" 
+259		"A dwarf." 
+260		(Make a manly grunt to acknowledge him.) 
+261		"What? Why?" 
+262		"The tea shop used to be a gathering place for the Azgals." 
+263		"My first thought was of in-fighting. Or political assassination." 
+264		"But an elf...?" 
+265		"There's like three of them. In the entire city." 
+266		(Don't say anything for a while.) 
+267		What should I say? 
+268		After a few seconds, the goblin scoffs and rubs his eyes. 
+269		"Did the dwarves have a deal with Illym?" 
+270		"Did Drummer?" 
+271		He lets out a big sigh. "Guess we've got more questions to ask." 
+272		Discuss the quest, of course. 
+273		Just share your feelings. 
+274		Ask him about it. Like, how fucked you both are. 
+275		Just speak. 
+276		"This is a mess." 
+277		"How bad is this?" 
+278		"Elves are scary." 
+279		"A right fucking mess." 
+280		"The Illym are powerful, even in Norvik." 
+281		"If one of their own got offed..." 
+282		"Yeah. Could spell trouble for sure." 
+283		"I'm inclined to agree." 
+284		"Should be easy to identify an elf, right?" 
+285		"I don't like Visken. We shouldn't have brought the elf here." (Whisper, so the pale man doesn't overhear.) 
+286		"This is above my rank." 
+287		M-"So... what now?" 
+288		"You'd think that. I'm guessing it'll be impossible." 
+289		"Look, I'll say it again. He's a weirdo." 
+290		"But the Old Lady has a deal with him." 
+291		"So for better or worse, he's our guy." 
+292		The connection here is interesting. They're both strange entities here in this strange city. 
+293		"Mm." 
+294		"But I don't see anyone jumping at the chance, so." 
+295		"You're still serving the Old Lady. For now." 
+296		He's ordering you around again. But... 
+297		Perhaps this is not the time to complain. 
+298		He takes a deep breath. 
+299		The goblin does not look forward to reporting all of this. 
+300		"Gather any remaining clues in the tea shop." 
+301		"Then we report to Lady Sageleaf." 
+302		He snaps his fingers. "ASAP." 
+303		You hear the pale man clear his throat across the circular chamber. 
+304		"Cleric. I am finished with my report." 
+305		"However, it is quite late. Please, return in the morning and we shall discuss this." 
+306		Then he just walks away, leaving you and your companion alone in the lichhouse. 
+307		(Give Visken a thumbs up.) 
+308		"I want to check out the corpse again." 
+309		"Ah, yeah. You obviously also want to do the thing." 
+310		The thing? 
+311		"What thing?" 
+312		(Just stare at him.) 
+313		"You know. The <i>thing</i>." 
+314		He holds up a hand to his mouth and mimics talking. 
+315		What is he implying? 
+316		Tell him: no thank you. 
+317	FC9 cha-	"No thank you. I'll skip." 
+318		"Elaborate." 
+319		"What <i>thing</i>?" 
+320		"What?" 
+321		"I'll skip. Whatever it is you're implying." 
+322		"Fucking hells, Cleric, no!" 
+323		He groans. 
+324		"You know. The thing you clerics do? With the corpses?" 
+325		"What's it called, the uh... when you speak with the dead?" 
+326		You never had a chance to cast Speak with Dead before coming here. 
+327		"Speak with Dead?" 
+328		"The spell? Speak with Dead?" 
+329		"Yeah. What's it called?" 
+330		"<i>Speak with Dead</i>." 
+331		He glares at you. 
+332		"Are you making fun of me?" 
+333		"No. It's called <i>Speak with Dead</i>." 
+334		"Right." 
+335		He closes his eyes and groans. 
+336		Heh. He's embarrassed. 
+337		"Oh. It's just called that? Right. That's the one." 
+338		"Right. That is a thing I am... somewhat capable of doing." 
+339		"We'll see about that." 
+340		"No way. That's creepy." 
+341	DC11 int-	"I never did any corpse-stuff at the Towers. However, I believe it is time to do so." 
+342		He squints. "Phrasing it like that doesn't... doesn't evoke trust in your abilities, Cleric." 
+343		"I guess we will." 
+344		"I don't disagree." 
+345		"Great." 
+346		"...And don't call it <i>corpse-stuff</i>. Doesn't sound good." 
+347		Sounds good to you. 
+348		Agreed. 
+349		"But you get five questions from that spell, right?" 
+350		"With that you should easily be able to figure out who, what, why, when. And so on." 
+351		Perhaps Visken can tell you something about that spell... 
+352		You already memorized this spell. Go make use of it. 
+353		"Let's talk to Visken. Hear his report." 
+354		"Let's talk to Visken in the morning. Hear out his report." 
+355		"Let me check the corpse again." 
+356		"Before anything else, we should explain all this to Lady Sageleaf." 
+357		"In the morning, we should report to Lady Sageleaf right away." 
+358		"Oh. Wait, but... doesn't it take years to learn that shit?" 
+359		(Shrug.) "Eh. Give me an afternoon or two." 
+360		"I think I lost something when I fell into the river. But it's coming back to me." 
+361		"Well, well. Aren't you just absolutely horrifying." 
+362		"Sounds... worrying. But good. Just try to get back into the groove quickly, alright?" 
+363		"Yeah. Sure. Lead the way." 
+364		"Yeah. It's late anyhow." 
+365		"Oh. Yeah, why not. You lead the way." 
+366		"Good thinking. Let's go." 
+367		"Yeah. In the morning. Good idea." 
+368		The goblin yawns. 
+369		E-Alright. Let's get going. 
+370		How exciting. 
+371		Not often you get to deal with elves. 
+372		This is a terrible idea. You should have run away the second you saw those ears. 
+373		The pale man knows what to do. It was smart to let him handle the corpse. 
+374		A new quest. 
+375		The pale man will know. 
+376		This is a real mess, isn't it? 
+377		How screwed am I? 
+378		I hate elves. 
+379		Bringing the corpse to Visken was a mistake. I don't trust that guy. 
+380		(Don't say anything. Just stand there like a man without a plan.) 
+381		E-Let's go speak with Visken. 
+382		(Look over to Visken.) 
+383		Perhaps. 
+384		Oh yes. You've really fallen into the bog this time. 
+385		You will survive. 
+386		This will be your end. 
+387		They always seem to pop up where they don't belong. 
+388		You've never even met an elf. 
+389		Now you have. And that elf does not belong. 
+390		What other choice did you have? 
+391		Eh. He's alright. Just stay on his good side and you'll be fine. 
+392		"I'm afraid it's quite late at the moment, Cleric." 
+393		"Come back in the morning. You shall have my report then." 
+394		Then he just walks away. 
+395		Wow. This fucking guy... 
+396		It is late. He needs to sleep. 
+397		Heh. Power move. 
+398		E-Oh well. 

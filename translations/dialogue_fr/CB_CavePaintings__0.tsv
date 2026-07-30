@@ -1,0 +1,95 @@
+idx	prefix	english
+0		Strange markings cover the cave walls. 
+1		Painted in faded pigments. 
+2		Humanoid figures. Simple. Primitive. 
+3		Red and white against the dark stone. 
+4		Multiple figures depicted across several surfaces. 
+5		(Examine the paintings.) 
+6		(Touch the paint.) 
+7		You step closer to inspect them. 
+8		The style is... unsettling. 
+9		Crude stick figures with circular heads. 
+10		Arms spread wide. 
+11		Some kind of ritual or dance. 
+12		You reach out carefully. 
+13		The pigment is dry. Ancient. 
+14		But still vibrant somehow. 
+15		Preserved by the cave conditions. 
+16		The goblin shrugs. 
+17		"Cave art. Seen some before." 
+18		"These look older than most though." 
+19		He's right. 
+20		The primitive cave paintings stare back at you. 
+21		Ancient humanoid figures frozen in their eternal dance. 
+22		(Count the figures.) 
+23	ROLL18 int-	Analyze the paintings' age and origin. 
+24		"These look human." 
+25		E-Fascinating. But I should move on. 
+26		You scan across the walls. 
+27		<i>Three</i> distinct figures. Each a unique design. 
+28		These are old. 
+29		Older than the Whitemane ruins. 
+30		Probably from the Fade Era. 
+31		When the snailfolk ruled these lands. 
+32		Before Norvik. Before humanity. 
+33		But that's just a guess. 
+34		Dating cave paintings is difficult without proper study. 
+35		Indestructible. Yes, perhaps. 
+36		(Run your hand over the paint again.) 
+37		There appears to be a layer of protection around each part of the paintings. Most of the rock itself, too. 
+38		A spell above Jor's Limit protects them. 
+39		They've survived. Perfectly. 
+40		No fading. No degradation. 
+41		Despite what should be millennia of exposure. 
+42		That's... very esoteric. 
+43		Quite so. 
+44		They do. 
+45		Humanoid at least. 
+46		Two arms. Two legs. Round head. 
+47		But the style is too simple to determine species. 
+48		Could be human. Could be something else. 
+49		"Goblins?" 
+50		He laughs. 
+51		"We weren't even on this continent when these were made." 
+52		"My guess would be... pre-Fade maybe?" 
+53		Pre-Fade? 
+54		Before the Fade Era? 
+55		That would make these incredibly ancient. 
+56		You study the figures carefully. 
+57		The pigments. The style. The preservation. 
+58		It's not Whitemane nor snailfolk in origin. 
+59		These paintings predate all of them. 
+60		"Before the snailfolk?" 
+61		Yes. 
+62		Before the Fade Era. At the earliest, these should be dated to the early Gate Wars. 
+63		Long before recorded <i>human</i> history. 
+64		They do look quite alien. What are those creatures supposed to be even? 
+65		They could be depictions of a forgotten Beast of Jor. 
+66		A folktype or higher being connected with Jor. 
+67		Though the less exciting answer would be: these are rare aberrations, depicted by whatever people inhabited Askan before the Toulin'catl. 
+68		I choose to believe these are super interesting alien artwork that just happens to be left here below the city. 
+69		M-I should... document this. 
+70		<i>Their</i> interest is another clue to their origin. 
+71		Whatever the Golden Horde must think important enough to send an Ambassador to spelunk for must have some inherent value. 
+72		Unless the celestials happen to be idiots. Which is not a possibility to forgo. 
+73		You already are. 
+74		(Look down at your hands.) 
+75		Pencil in hand, you see a scribble depicting these three figures, along with all the strange lettering. 
+76		"Didn't know you were an art-connoisseur, Cleric," your companion says, looking over your sketches. 
+77		"Which one of the three do you like the most?" 
+78		"The left one." 
+79		"The middle one." 
+80		"The right one." 
+81		"Hm. Why?" 
+82		"Six legs. Like a spider. It's cool." 
+83		"Looks stable." 
+84		"I think I could have a nice conversation with that one." 
+85		"Six arms. I wish I had six arms." 
+86		"The head design looks neat. Like a singular focus inside the mind of an alien god." 
+87		"Looks <i>spicy</i>." 
+88		"Because look at it- are those horns? Eye-stalks? Two giant erections? We just don't know. Mystery makes the man." 
+89		"Broad-legged son-of-a-bitch. Nothing could topple that stance." 
+90		"He looks like he could need a hug." 
+91		The goblin laughs at your justification. 
+92		"I can see that. I'll pick the same." 
+93		E-Right. (Put away your sketches and leave.) 

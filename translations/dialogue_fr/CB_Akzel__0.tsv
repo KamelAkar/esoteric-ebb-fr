@@ -1,0 +1,322 @@
+idx	prefix	english
+0		Beside the buried statue, you see someone up on a ledge. 
+1		There's grunts echoing down the chamber, along with the sound of iron against stone. 
+2		You hear the sound of... working. 
+3		Grunting. Clanging. And so on. 
+4		A dwarf? Down here? 
+5		Could be a trap. 
+6		"Hello up there!" 
+7		"Identify yourself, citizen!" 
+8		(Clear your throat.) 
+9		E-Nah. 
+10		You do so. But it gets drowned out by the noise. 
+11		(Clear your throat much, much louder.) 
+12		"Hey, I'm talking to you!" 
+13		"Huh?" 
+14		The dwarf's smoldering eyes widen as he sees you. 
+15		"Look Romulus, we've got an official visiting!" 
+16		"If that doesn't make us official, I don't know what will!" 
+17		Peeking out over the ledge you spot an orange monster creeping about. 
+18		A Rust Monster. The dwarf appears friendly with it. How strange. 
+19		Rust Monsters are known to devour metal. Keep your distance. 
+20		"And, uh..." he mutters and leans out. "Nice bucket!" 
+21		"And, uh..." he mutters and leans out. "Nice pot!" 
+22	FC9 int-	"What is that thing?!" 
+23	DC9 int-	"Is that a Rust Monster?" 
+24		"What are you doing here?" 
+25		"Do you have a license for... this?" 
+26		"Get down from there." 
+27		"What a find!" 
+28		Good. He's playing along. 
+29		He believes you are doing a <i>bit</i>. 
+30		You are. 
+31		"Such wonderful <i>loot</i>!" 
+32		"Oh, no worries! That's just Romulus." 
+33		"He's very kind." The dwarf then mumbles to himself, "<i>When he's fed</i>." 
+34		Ominous. 
+35		"Oh yes! Very correct. But no worries!" 
+36		"Me? Oh. You know." 
+37		He lets out a smoldering laugh. "A dwarf's got to have a hobby!" 
+38		Mining in ancient ruins is not a hobby. It's a profession. 
+39		"License?" 
+40		"Didn't think you needed one to risk your life down here!" 
+41		He's got a point. 
+42		"Nah. Took me ages to get this seat." 
+43		"We can talk like this! It's fine." 
+44		Insubordination. 
+45		He puts down his tools and strikes a pose. 
+46		"Let me introduce myself. I am Akzel Mâdsson!" 
+47		A dark dwarf. 
+48		Or as they prefer, <i>Underdwarf</i>. 
+49		"Pleasure to meet you! You're a Norvikian cleric, I presume?" 
+50		"Not just. I'm <i>The</i> Cleric. Of Norvik." 
+51		"I'm more of a rogue, really. The sneaky kind." 
+52		"I'm actually more of an arcane spellcaster." 
+53		"...Yes." (Don't be complicated.) 
+54		"I'll be damned!" 
+55		"Not sure what it means, but it sounds expensive!" 
+56		It means everything. 
+57		"A... rogue? Rogue what?" 
+58		"Just rogue, you know." 
+59		"A rogue actor in a world of conspiracies." 
+60		"Maybe 'thief' is a better title." 
+61		"I know?" 
+62		"You <i>know</i>." 
+63		He shrugs and says, "Sure! Why not?" 
+64		"Sounds grim! I like it." 
+65		Same. 
+66		"Oh. I suppose, uh... cleric kleptomaniac does sound catchy!" 
+67		It really does. 
+68		"Oh. So a wizard?" 
+69		"Yes. Uh. <i>Indubitably</i>." 
+70		"Sure. If you want to put it simply." 
+71		"A cleric-wizard. Yes." 
+72		Don't use that word. 
+73		A perfect word for a perfect mind. 
+74		"Magic music?" 
+75		"That's it." 
+76		"Huh. Haven't seen one of those for a while." 
+77		"...I'm really more of an aspiring Bard, but still." 
+78		"Got it." 
+79		"I see!" 
+80		"You're a bit small for that, aren't you?" 
+81		How dare he. 
+82		"Don't try me." 
+83		"I'm working on it." 
+84		(Look sad.) 
+85		He laughs. 
+86		"Ah, be whatever you want to be! It's a free realm!" 
+87		"Oh. So, like a mix?" 
+88		"Yeah. Probably." 
+89		"I'm aiming for full Druid by the end of next quarter." 
+90		"Good for you!" 
+91		A wise choice. Simplicity is strength. 
+92		He looks around. "And you're here all alone?" 
+93		"Yeah." 
+94		"Why do you care?" 
+95		"Of course. What kind of man wouldn't be lonely?" 
+96		"No, it's just..." 
+97		Deep. 
+98		"Hah! <i>Go' knaegt</i>!" 
+99		"Then I very much suggest not going into the hallway back there." 
+100		Listen to him. He knows these tunnels well. 
+101		"It's one of those ancient esoteric traps. Still functional." 
+102		"It'll burn your beard off." 
+103		"You triggered it?!" 
+104		"I'm impressed you're alive!" 
+105		So are you. 
+106		"Not sure how much experience you have with this City Below the City..." 
+107		"But most people who come down here... they die." 
+108		"Even clerics do not venture down alone. Don't you have some backup?" 
+109		You need no backup. You are the backup. 
+110		Backup would be nice, actually. 
+111		"Not really." 
+112		"What?!" 
+113		"Then what's your... goal?" 
+114		"You cannot possibly just be taking a stroll down here, can you?" 
+115		"I'm supposed to meet up with some goblin chieftain?" 
+116		"Oh. Oh!" 
+117		"You're here on business with Lady Sageleaf?" 
+118		"Then you should go to her right away. Before you end up mimic food." 
+119		Mimics. Horrible creatures. They could be anywhere - any<i>thing</i>. 
+120		"<i>Meek not horrible</i>," your shuffling cloak whispers in your ear. "<i>Meek is... useful-helpful. Promise.</i>" 
+121		"Get yourself some backup. Just some friendly advice." 
+122		"I don't need backup. I'm really, really powerful." 
+123		"That's probably a good idea. Thanks." 
+124		"But you're down here alone?" 
+125		He shows you his palms. "Alright. Good luck then." 
+126		He doesn't believe you. 
+127		He gives you a thumbs up. 
+128		Universal symbol of approval. Who doesn't love a good thumb in the air? 
+129		"No I'm not." 
+130		"I've got Romulus!" 
+131		The monster makes a high-pitched shriek. 
+132		Adorable. In a horrifying way. 
+133		"But what are you doing here?" (Look around at his strange setup.) 
+134		"Oh! And you've got a goblin with you!" 
+135		"You HWBT, friend?" 
+136		"Yeah. You're that dungeoneer looking for cats, right?" 
+137		Cats? 
+138		"More or less! Hope your lady wasn't too mad about my inquiry!" 
+139		"I'd say 'annoyed' is a better description. But it's fine. Just don't trespass anymore." 
+140		"Will do! Or... I won't, I mean. But I should correct you. I'm not a dungeoneer." 
+141		"I'm more of a... er..." 
+142		With a bright smile he adjusts the collar on his uniform. 
+143		"Well I... I'm what you'd call a <b>historian with ambition</b>!" 
+144		As he says it, the orange beast sends an echoing hissing noise down the chamber. 
+145		"Exactly, Romulus!" 
+146		"We're here on an expedition of grand proportions." 
+147		"To find the legendary <b>Missing Mine of Toul'Amon</b>! Of <i>Toulin'catl</i>!" 
+148		The snailfolk. Ancient builders of the City Below. 
+149	FC18 int-	"Tool-in Cattle?" 
+150	DC18 int-	"The snailfolk. I see." 
+151		"That sounds like a <b>quest</b>." 
+152		"Good luck with that. I actually have some questions..." 
+153		"Yes, Toul'Amon, of <b>Toulin'catl</b>!" 
+154		An ancient people of great esoteric might. 
+155		Nothing compared to the Arcanists of course. But still impressive, for Beasts of Jor. 
+156		Those weird snailfolk. 
+157		"I figured you'd know of them!" 
+158		Those weird, weird snailfolk. 
+159		"Oh, yes indeed!" 
+160		A QUEST. Your ears perk up. 
+161		"But just to be clear, I'm not sharing the spoils just like that." 
+162		Fair enough. Treasure is earned. 
+163		"Of course! I'm a bit of an expert on the subject, you see..." 
+164		"No. Not about that missing mine. I have some other questions." 
+165		"...Okay. Tell me more about this lost mine." 
+166		"...Mm. Okay then." 
+167		"Great!" 
+168		He wipes his brow and yells down to you. 
+169		"Hey there!" 
+170		"What do you know about the tea shop?" 
+171		"I've got a bunch of personal questions for you." 
+172		"Why are your eyes glowing?" 
+173		E-"Good luck down here." 
+174		"You do?" 
+175		"Er... maybe later. I've got a bunch of work to finish up here." 
+176		"But I'll be at the Drunk Sphinx once I'm finished! Ask me there, and I'll gladly indulge you!" 
+177		A tavern. Good place to extract information. 
+178		"Haven't met too many Underdwarves, have you?" 
+179		"Look, I don't have too much time, but really, once I'm done here I can talk all you want." 
+180		"Mm." 
+181		He crosses his arms and gives you a long nod. 
+182		"It's a type of café. You know, they serve tea and other drinkables." 
+183		"Sometimes they even have pastries. I love Kardemum Treats." 
+184		"I also love Kardemum Treats!" 
+185		"No, no. <i>The</i> tea shop." 
+186		"How long have you been down here?" 
+187		"O! My friend, you are truly of <i>good taste</i>." 
+188		A man of CULTURE, this dwarf. 
+189		He clicks his tongue. 
+190		"Is... is there some special tea shop I should be aware of?" 
+191		"About a week, by now." 
+192		"Takes time to set up a secure perimeter." 
+193		A week alone in the City Below? He really is an expert at this. 
+194		"So you don't know about the tea shop that exploded?" 
+195		"Exploded?!" 
+196		"I thought the election was bad enough as it is. Now they've got exploding tea shops?!" 
+197		"Norvik is in trouble, indeed!" 
+198		"Oh well," he mutters with a shrug. "Can't help you there, friend." 
+199		"So here's the deal. I'm in trouble." 
+200		His 'pet' makes a loud belching noise. 
+201		"Right?" he mumbles, and gives the monster a pet on the back. 
+202		"You want to help, friend?" 
+203		Help a stranger? That's how heroes are made. 
+204		Help a stranger? That's how fools are robbed. 
+205		"I will help you if I can." 
+206		"I'll help if I get paid." 
+207		"I might help, if I have time." 
+208		"I won't help, unless it's by accident." 
+209		"Sure, I've got some loot to share if that's the case." 
+210		Smart. Always negotiate upfront. 
+211		"Fair!" 
+212		"Sure, I'll take a possible accident." 
+213		Accidents happen. Especially around you. 
+214		"You see, there are two strange ruins in this section of the City Below the City." 
+215		He points at the statue. "<i>Whitemane</i> ruins. Before the dwarves and humans, and even trolls, this place was ruled by cats." 
+216		Cats - ruling an empire? 
+217		"The theory goes, the snails of Toulin had an esoteric mine not far from the Pillar of Jor." 
+218		"The Mines of Toul'Amon! A place of thick veins with endlessly growing amber and platinum...!" 
+219		Endless treasure...! 
+220		"But the walking god of the Whitemane, for whatever reason, sealed it shut at some point. According to legends." 
+221		"Sealed <i>esoterically</i>, probably, since we can't seem to locate it." 
+222		Esoteric seals can be broken. With the right knowledge. 
+223		"So you're looking for it." 
+224		"How can you hide an entire mine?" 
+225		"So there's ancient snail-folk, and then slightly less ancient cat-folk who built cat-stuff on top of the snail-stuff?" 
+226		M-"So what's the problem?" 
+227		"Oh yes! I'm not alone in this, of course." 
+228		"But my research has shown me clear indications that these two ruins below Tolstad are more or less unexamined. At least by skilled hands!" 
+229		Your hands are skilled. Very skilled. 
+230		"You'd be surprised! The City Below the City is..." 
+231		"What is it... four or five levels of sprawling tunnels and caverns. Here under Tolstad it's only this here top level that's in any way accessible." 
+232		"There could easily be some crevice far down that no one, not even the city's greatest paladins, have gotten close to discovering." 
+233		The deep places of the world hold many secrets. 
+234		"<b>Exactly</b>!" 
+235		Layers upon layers. Like a corpse cake. 
+236		"There's no problem with <i>this</i> site." 
+237		"But I'm almost finished here. And I am unable to gain access to the second Whitemane ruins." 
+238		"Because it's inside HWBT territory! And they are very unwilling to allow a dwarf like me past." 
+239		"Those goblins have hired a brutish <b>bugbear</b> as a guard." 
+240		He shivers. "Horrid creature." 
+241		"Your lovely goblin friends have hired a brutish <b>bugbear</b> as a guard." 
+242		"But you're a cleric! If you can get access into their territory, then please, head south!" 
+243		"Through the damp high-caverns. There should be a Whitemane ruin at the end. A shrine. Probably marked by a bunch of feline symbols." 
+244		He gestures towards the giant statue. "Just look for big cats, essentially." 
+245		"You can't get access yourself?" 
+246		"What do you want me to do there?" 
+247		"Aren't you the little spelunker. That's good." He nods. 
+248		"Did you see anything?" 
+249		"Just dust. And rubble." 
+250		"Nothing too interesting." 
+251		"Depends. What are you looking for?" 
+252		He laughs, loudly. "No way, <i>hombre</i>!" 
+253		"Lady Sageleaf has made it very, very clear that there is to be no dungeoneering in her dank tunnels." 
+254		No comment. 
+255		"Especially by outsiders. So no, that's not happening. Not while she's the leader of the HWBT." 
+256		He leans over the edge. "All I need you to do, is tell me if you find a symbol of a sun, or two blades." 
+257		"Either of those. Then report back to me!" 
+258		"If you're able. And if you have time." 
+259		He sighs. A deep, frustrated sigh. "Wish I could do it myself. Darn those goblins." 
+260		"No offense," he adds, giving your companion a nod. 
+261		"None taken. I really, really do not care." 
+262		"I'll see what I can do." 
+263		"Don't expect anything." 
+264		"Great! Since you've already made your way there, it shouldn't be too much of a hassle, I hope." 
+265		"Great! And good luck." 
+266		"Thank you, friend." 
+267		"I never do." 
+268		Nothing will come. Nothing... 
+269		"Yes?" 
+270		"And I found the symbol. On the ruins." 
+271		"The symbol of a sun?" 
+272		"Yes." 
+273		He lowers his head, letting it hang for a while. 
+274		Then he lets out a roar! 
+275		"<shake>For helvede</shake>!" 
+276		His little buddy joins in and screeches. 
+277		That's not a good sign. 
+278		The dwarf takes a deep breath. 
+279		"A sun means those ruins are just the same as these," he says and taps the stone beside him. 
+280		"They're consecrated! The Whitemanes would never consecrate a secret gate." 
+281		"Damn it!" 
+282		"Well. Sorry." 
+283		"Too bad!" 
+284		"Are you certain?" 
+285		"Bah! Don't be!" 
+286		"Agreed!" 
+287		"Oh, absolutely. I've spent years researching these cat-bastards." 
+288		"Even learned some cat-speech!" 
+289		"<i>Me llamo <b>Akzel</b>! Es un caballo blanco!</i>" 
+290		He groans. 
+291		As do you. 
+292		That's not cat-speech. That's not even close. 
+293		"Guy's not entirely off," Snell whispers to you. 
+294		"I know what I'm talking about, okay?" 
+295		"This means only one thing." 
+296		"This lead was off." He scoffs. 
+297		"Oh well. Time to regroup and rethink. After the election, that is." 
+298		"Here." 
+299		He tosses his pickaxe to you. 
+300		"That's a little trick we have in the delving business. A custom made Detect-Secret-infused pickaxe." 
+301		A magical item. As payment. Not bad. 
+302		"Detect Secret?! This is very useful." 
+303		"You're giving this to me?" 
+304		"That's a nice reward. Thanks." 
+305		"Sure is, <i>bror</i>!" 
+306		"Of course!" 
+307		"You've earned it, Cleric of Norvik!" 
+308		"Of course, the pickaxe is a bit <i>wonky</i>. The keyword is supposed to be, 'secret' - as in, you say the word, 'secret' and the pickaxe casts the spell. But it doesn't quite work, so... do with it as you please!" 
+309		Wonky magic items can be dangerous. Or hilarious. 
+310		"Anyhow, I'll be packing up soon. I'm done here." 
+311		"Thanks again. Saved me a ton of time and effort!" 
+312		"Maybe in a few months you'll join me for a real expedition? Could be fun!" 
+313		A real expedition-quest. Into the depths...! 
+314		That sounds like a death wish. 
+315		"I'll think about it." 
+316		"I would love to delve with you, Akzel!" 
+317		"I don't think so." 
+318		"Think hard and long! You've got time!" 
+319		"Never say no! Just say maybe! Think about it!" 
+320		"And if there's anything else, just let me know!" 

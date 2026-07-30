@@ -1,0 +1,501 @@
+idx	prefix	english
+0		A tense scene. 
+1		"Oh, a cleric! Just in time." 
+2		Four young guys, each looking a bit nervous. 
+3		Four young guys, just hanging around, looking normal. 
+4		Except the angry-looking blonde kid. 
+5		"We've confiscated the illegal goods," he says and bows his head. 
+6		"For the city!" 
+7		He turns his head towards one of the kids behind him. 
+8		"How's it going, Urth-Nisse?" 
+9		"I'm trying. Hold on." 
+10		"Are you militia?" 
+11		"Great job, kid." 
+12		(Point at the lanky kid trying to cast a cantrip.) "Hey. Stop it." 
+13		The blond kid shakes his head. 
+14		He smiles. "Thank you, Cleric!" 
+15		He freezes and gives the blonde kid a nervous look. 
+16		"Oh. Sorry, Cleric." 
+17		You see Rollo waving towards him. A gesture for him to ignore your comment. 
+18		"I'm Rollo," the blonde kid says and takes a bow. "Rollo Malach! At your service. Behind me are Urth-Nisse, Stenbusken, and Toli. We're members of the Norvikian Resistance, a movement to-" 
+19		"You're <i>thieves</i>!" 
+20		"And ignorant book burners!" 
+21		The girl adjusts her spectacles and straightens her back. 
+22		"With all due respect, Mr. Cleric," she says. "Don't believe a word from these thugs." 
+23		You notice the two other girls behind her, a halfling and a dwarf, both look at each other. 
+24		"Assholes!" 
+25		"Careful, it's an actual cleric..." 
+26		"Thugs? Come on, Modissa. Really? Like the AY aren't just a bunch of ruffians!" 
+27		"I've seen enough," the goblin whispers to you and sighs. "Just activists clashing." 
+28		"Hello everyone! I'm The Cleric." 
+29		"I'm confused. Is there a problem here?" 
+30		(Just let them continue arguing.) 
+31		"Azgalist Youths." 
+32		"See her green armband?" 
+33		"Problem's taken care of, Lord Cleric." 
+34		"Oh- fuck off." 
+35		"They've stolen," she hisses, then turns to Rollo to bark out, "<b>You STOLE</b>, our entire Waterlane delivery!" 
+36		"Yeah, sure. Of an <i>illegal</i> newspaper." 
+37		"Lord Cleric, I assure you, we're doing the city a favor here." 
+38		"I take that back. It's just a bunch of larpers." 
+39		"I see. It's a lover's quarrel." 
+40		"Lord Cleric? Hm. I dig it. I'm <b>The</b> Lord Cleric." 
+41		"Wait a second. No... I need to correct something here. I'm not actually a cleric." 
+42		"Okay. So, I'm sensing a conflict here." 
+43		"Are you kids even allowed to be out this late?" 
+44		"What?! No!" 
+45		He's blushing. 
+46		The girl gives you an incredulous frown. 
+47		And she's disgusted. 
+48		"That's not- Cleric. Focus." 
+49		"Oh. Sure!" 
+50		"You're not?" 
+51		The guy behind him starts to stutter out, "W-what are you then? Like... what?" 
+52		"I am actually a bad-ass rogue." 
+53		"Can't you see I'm a powerful wizard?" 
+54		"A what?" 
+55		"You know. The swashbuckling kind." 
+56		"You know. A thief." 
+57		"You know. Sneaky scout, or whatever." 
+58		"...Ridiculous." She mutters to herself and presses her face into her hands. 
+59		She's sooo over it. 
+60		A better rogue would have gotten a better reaction, methinks. 
+61		"Ah! Like a cleric-wizard!" 
+62		"Sure. I'll take it." 
+63		"<shake>No!</shake> Why can't you get this through your thick skulls?!" (Stamp your feet.) 
+64		"Just a wizard, please." 
+65		They're taken aback by your exclamation. 
+66		"What's <i>wrong</i> with this guy?" the halfling says to the dwarf girl. 
+67		"Okay. We can... we can do that." 
+68		As you shuffle your feet around, all the teenagers look at you in disapproval. 
+69		"...Okay." 
+70		"A... druid?" 
+71		"So we shouldn't call you a cleric, then?" 
+72		"Hm. No, for legal reasons you can keep calling me cleric." 
+73		"I don't trust you to address me properly, so Lord Master Cleric is fine. Or something akin." 
+74		(Just stare at him, and breathe loudly.) 
+75		The blonde kid just nods slowly. 
+76		He does not understand you. 
+77		Both sides look at you with frowns. 
+78		"Look, I have a hard time seeing how old humans are as well, but..." 
+79		"These are clearly young adults. Even if they're not acting their age." 
+80		"Hey! Shut up, goblin!" 
+81		Your companion grits his sharp fangs in the blonde kid's direction. 
+82		"Hey, kid. <b>Wanna die?</b> Keep talking." 
+83		He takes a step back. 
+84		Impressive. The goblin stands his ground. 
+85		This goblin's got bite! Damn! 
+86		"You're here to uphold the law, right?" 
+87		"So arrest these assholes!" 
+88		"Now!" 
+89		The dwarf grabs her hand and holds her back. "Modissa... calm down. Please..." 
+90		(Point at the Azgal girl.) "You. Explain your side." 
+91		(Point at the Nationalist boy.) "Okay, you. What's going on here?" 
+92		What does the law say about this conflict? 
+93		"What are you guys voting in the election?" 
+94		M-"Okay. I've come to a conclusion." 
+95		She scoffs. 
+96		"Okay. Fine." 
+97		Her dwarven friend mutters, "Modissa..." in a concerned tone. 
+98		Her friends are trying to keep her from being too brazen. Why? If they're in the right, she should be brazen. 
+99		"We deliver papers for the Azgalian Chant. Maybe you've heard of it. It's a pretty big deal." 
+100		He chuckles. 
+101		The paper is not terribly popular. But it is known for radical articles and political stances. 
+102		She draws a sharp breath. "We have a busy schedule, and right as we started delivering the papers in Waterlane, these pieces of <b>shit</b> start following us." 
+103		"Taking papers we've just delivered right out of people's mailboxes!" 
+104		"That's illegal, right?" asks the halfling girl. 
+105		"Highly illegal." 
+106		"Somewhat illegal." 
+107		"Just a bit illegal. Maybe." 
+108		"Of course it's illegal!" 
+109		Your opinion does not even register - she does not even hear it. Insolent behavior. 
+110		She does not care for your opinion on the legality of mail theft. How rude. 
+111		"And then they grab one of our paper stacks from Xerba. Like, straight-up assault and theft and...!" 
+112		"Modissa, it wasn't..." 
+113		"They can't get away with this!" 
+114		It probably was not that bad. 
+115		Poor girl. 
+116		"First of all, thank you for listening to reason." 
+117		"I know we look like some dumb kids, but we're not." 
+118		Something about his expression makes you think the exact opposite. 
+119		Burning the written word does nothing to dispel such a notion. 
+120		Yeah. No, these are dumb kids. No doubt. 
+121		He gestures towards you and then to himself. "We're on the same team here." 
+122		"I don't look dumb." 
+123		He says, looking dumb. 
+124		"Stop stalling. Tell me what you're doing here." 
+125		"Uh-huh." 
+126		(Give him a hug.) 
+127		The boy physically clenches his entire posture up into a defensive wall as you move forward to embrace him - in a manly hug. 
+128		"...Huh?" 
+129		(Whisper.) "We're in this together, brother." 
+130		"You're a good kid. Keep fighting the good fight." 
+131		(Release the hug.) 
+132		The blonde kid backs away from you with a bewildered look on his face. 
+133		The lack of a proper father figure will leave young boys unable to appreciate a manly hug. 
+134		He does not get hugged often. 
+135		"Oh boy. They're going at it." 
+136		The halfling lets out a cheer. 
+137		"Kiss! Kiss!" 
+138		Modissa scoffs. "Right out of <i>Skyline Boys</i>." 
+139		Ugh. 
+140		Somehow, their comments taint this manly display of love. 
+141		That makes you feel bad. 
+142		"So..." 
+143		"We heard about the Azgal Chant being delivered on Tolstad." 
+144		"Or I did. At the Guild." 
+145		"I work at the Fishery. And I see every day how Urthfolk get radicalized by dwarven nonsense." 
+146		"So... I figured I'd get the boys with me and we'd... you know." 
+147		"Put a stop to it." 
+148		"You want to stop the production of a copper paper?" 
+149		"Through violence and terror?" 
+150		(Glance at the pile of paper behind him.) 
+151		"We, uh... couldn't figure out where the thing was printed or anything." 
+152		"A lot of copper press zines don't really have official companies behind them." 
+153		"Especially trash like the Chant," you hear coming from the short kid in the back. 
+154		"Go fuck yourself Toli!" 
+155		"Hey, hey, relax! I'm telling <i>our</i> story here! To the good Lord Cleric!" 
+156		He turns back to you and coughs once. 
+157		"Of course, it's illegal to distribute unlicensed papers in every official district. So I ask around. Apparently, someone saw these girls at the University going around, delivering it." 
+158		"Wasn't that difficult to figure out: it was Modissa doing the deliveries." 
+159		"Fucking <i>Modissa</i>." 
+160		"She's not allowed to do that," the large kid in the back says with a nod. 
+161		"Wait, you guys know each other? There's history here?" 
+162		(Turn to the girls.) "They don't like you, do they?" 
+163		"Uh. Yeah." 
+164		"They don't like women in general," she says with a frown. 
+165		"Back in school everybody knew who Modissa was." 
+166		"The 'Azgalist Annoyance'," the blonde kid says with a grin. 
+167		"Such a terrible nickname. Unimaginative and boring. Also fuck you." 
+168		"Anyway, that's how we got here. They're delivering an illegal magazine, and we've put a stop to it." 
+169		He grins wide and proud. 
+170		The Azgal Chant - or whatever silly name its anonymous publisher gave it - is not licensed for distribution in Tolstad. 
+171		Requiring licenses for public distribution is a typical method to repress journalistic intent in Norvik. 
+172		The city knows that terrible papers should not be given out. 
+173		At the same time, it is also illegal to steal delivered newspapers from mailboxes. 
+174		Even if those papers are delivered illegally. 
+175		That's a lot of illegality. 
+176		Both are in the wrong? 
+177		In different ways, yes. 
+178		Although it's clear that the boys are bullies, and the girls are victims. 
+179		Your sense of justice says only one thing. 
+180		The newspapers are filled with ill-making propaganda. 
+181		Let it burn. 
+182		"<i>Not the time</i>," Snell says, rubbing his eyes. 
+183		"The Workers' Party," she says. "Duh." 
+184		"Same for me!" 
+185		The dwarf raises her hand, carefully. "Y-yeah." 
+186		"And these stupid boys are obviously voting for the Party of Norvik." 
+187		"No we're not. None of us are." 
+188		"Yeah. Fuck that." 
+189		"What?" 
+190		"Uh. Yeah. No." 
+191		The silent kid in the back raises his fist into the air. "Fuck the establishment." 
+192		Rollo nods to the Cleric. "There are deeper forces at work here." 
+193		"Divine forces." 
+194		"You should support the city, kid." 
+195		"I see. You're also voting Azgalist, then? Same." 
+196		"Oh. You're Freestriders? Very cool." 
+197	DC11 int-	"You should obviously vote for <b>me</b>." 
+198	DC17 con-	"Agrarian is... a good choice." 
+199		"What, you're not voting for anything?" 
+200		"Oh, we are. But..." 
+201		"What? No!" 
+202		"What? Of course not. Fuck the Freestriders the most of all." 
+203		"What? Are you on the ballot?" 
+204		"No. Just write THE CLERIC on your voting card, and that should be it." 
+205		"One day..." (Clench your fist.) 
+206		"Uh. Okay. But... no." 
+207		"Are they still around?" 
+208		"You shut your mouth!" (Seethe.) 
+209		"...No. They're not." (Seethe harder.) 
+210		He holds up his hands. "Hey, I have nothing against their original policies. But they all turned Azgal! So... no." 
+211		"Indeed!" 
+212		"We're not voting. At all." 
+213		He looks insanely proud. 
+214		Not a bad choice, considering this mess. 
+215		"You're apolitical? That's impressive. I am also apolitical. I don't engage with politics." 
+216		"What? If you don't engage in democracy, the bad guys win!" 
+217		"Fair." 
+218		"Apolitical?" 
+219		"That's not a thing." 
+220		"It's a thing." 
+221		"What? Really?" 
+222		"My aunt's apolitical. She says it's too much to think about with democracy. She liked it when Urth ruled." 
+223		"My dad says the same, but he'll be voting for the Nationalists." 
+224		"Oh. That's what my aunt does too. Maybe she's not apolitical..." 
+225		"Guys. Focus." 
+226		"We," the blonde kid says, gesturing to his three friends. 
+227		"We are fighting the evil powers- ready to establish a true resistance to anti-human sentiments." 
+228		"For Urth!" 
+229		The girl with the creased brow sighs loudly. 
+230		"Urth be Blessed!" 
+231		"Interesting sentiment." 
+232		"That sounds like a conspiracy...!" 
+233		"Take my god out of your mouth, kid." 
+234		"He is!" 
+235		"Uh. Yeah!" 
+236		"Uh-huh." The blonde kid looks to his left and right. "Right on." 
+237		"Uh- I'm-" 
+238		He stutters and looks to the guys behind him. 
+239		"Sorry." 
+240		With your witty sense of humor? 
+241		No. The spell. 
+242		That would be a solution. 
+243		Tell them you've made up your mind, and then cast it on one of them. 
+244		Tell them you're done here, and just cast it on them after that, or something. 
+245		"Good," she says, and nods. 
+246		She's hiding a nervous expression. 
+247		"Great! Uh... Good." 
+248		He's outwardly very nervous. 
+249		(Approach the blonde kid to see if you can get these <i>Nationalists</i> to back off.) 
+250		(Approach the girl with the spectacles to check if you can argue against these <i>Azgals</i>.) 
+251		"Oh. Hey." He stares at you, trying to retain his composure. 
+252		He's terrified. 
+253		This can get out of hand quickly. 
+254		If you fail at telling him to give back the papers, this might get ugly. 
+255		Your body might grow irate. 
+256		You're frustrated already. 
+257		You're likely to take it out on both sides if you fail at getting them to give back the papers. 
+258		Beware. 
+259		(Stare at him.) 
+260		(Wave your fingers in front of his face.) 
+261		"Are you good?" 
+262	ROLL14 str-	Tell him to give back the papers in a controlled and thoughtful manner. 
+263		(Step back.) 
+264		"Uh..." 
+265		His pores are sweating. 
+266		The kid is horrified by your helmed presence. 
+267		He flinches. 
+268		He looks away, and then to you. 
+269		"I'm good." 
+270		"For what?" the large boy asks. 
+271		"No, just good. Like a good person." 
+272		"Oh. Makes sense." 
+273		You see the blonde kid take a deep breath. 
+274		"What are you- hey." 
+275		She frowns as you approach. 
+276		"What do you want?" 
+277		They seem very defensive. 
+278		They are preparing for hostility. 
+279		"So you're like an Azgalian gang leader, huh?" 
+280		(Lean in close.) "You're not evil, are you?" 
+281	ROLL17 int-	Construct an argument that makes her go away. 
+282		She tries to meet your question with a frown. 
+283		But she mostly just looks stressed out. 
+284		"No. I'm just an Azgal, hard at work." 
+285		"Mr. Cleric." 
+286		She glares at you. 
+287		"No. Mr. Cleric." 
+288		Oh. 
+289		Regretfully, you should be informed. 
+290		There is no clear legal argument here to you. 
+291		What, really? 
+292		The very nature of this conflict lies in the fact that both sides have legal issues. 
+293		Whatever arguments you can come up with, she will refute them with the other side's illegality. 
+294		It's a 'what about' type situation. 
+295		So what do I do? 
+296		You find another way. Or... perhaps you simply rethink your strategy. 
+297		She squints at you for a few seconds before answering. 
+298		"I do not require a license as a paper deliverer. My boss, the ACP - Azgalian Copper Printer - is fully in their right to print this paper." 
+299		"Sâ de sâ." 
+300		Dwarven slang-phrase that means roughly, 'That's how it is.' 
+301		Her statement is true. But it dances around the fact that her boss is the one without the license to distribute in Tolstad. 
+302		You catch her eye twitching. Heh. She's nervous! 
+303		Perhaps. But you must engage in a deep meditative form of empathy in order to achieve it. 
+304		Probably not. Maybe. 
+305	ROLL20 wis-	Find a middle ground solution that nobody's happy with. 
+306		Nah. 
+307		Hmm. No. 
+308		No compromise. You'll have to deal with this head on. Somehow. 
+309		Mm. 
+310		Good. You're in control. 
+311		Take a deep breath and tell this kid to return the papers and- 
+312		"You're NOT allowed!" 
+313		Oh. Oh no... the anger... 
+314		The blonde kid stumbles back. 
+315		It's taking over... 
+316		"<b>Stop it! NO BURNING!</b>" 
+317		"What...! But this is..." 
+318		He fights you. 
+319		"We're protecting Urthfolk from this filth!" 
+320		"Filth? How would you know, Rollo? Can you even read?" 
+321		"Haha, yeah!" the halfling agrees. 
+322		"Hey, shut it!" 
+323		"Guys..." the dwarf girl mutters and glances at you. 
+324		She knows you're about to blow up. 
+325		"Stay quiet. I'm trying to stay in control." 
+326		"Typical. Reverting to dumb insults." 
+327		"Urth-Nisse. Do it." 
+328		They're not listening. 
+329		"I'm... I'm trying," he says, and keeps shooting sparks at the damp paper pile. 
+330		"Ugh, just stop! It has to be illegal to set a fire in the middle of the street, right?" 
+331		"Right, Mr. Cleric?" 
+332		"Of course it is!" 
+333		Anger brewing. 
+334		"Seriously. Stop this. I'm-" 
+335		"Uh. No it's not." 
+336		The silent kid in the back keeps nodding profusely. 
+337		"Burn it! Come on!" 
+338		The rage enters your heart. 
+339		<b>"THAT'S IT."</b> 
+340		Your outburst actually makes them go silent. 
+341		"I'm <b>DONE</b>." 
+342		They glance at each other. 
+343		"Guess that works. Now, Cleric, what if-" 
+344		"Someone has to die for this!" 
+345		"...Excuse me?" 
+346		"Die?" 
+347		"<i>Execution</i>. Right now. One of you." 
+348		There's a stunned silence sweeping over the previously rowdy street. 
+349		"And since you all love democracy so damn much..." (Take a step forward.) 
+350		"...What's he doing?" 
+351		"Each of you vote. You got ten seconds. Person with the most votes gets the honors." (Stand in between them and point to a spot where the execution will take place.) 
+352		"You can't... do that?" 
+353		"W-wait a second..." 
+354		"<shake>NOW!</shake>" 
+355		The large kid lifts his hand and points towards Rollo. 
+356		"Don't vote for <i>me</i>, you asshole!" 
+357		"What the fuck...?" 
+358		"Rollo. Should we, uh... get the hells outta here?" 
+359		Your companion stays silent. 
+360		A smirk? 
+361		He is trying really hard not to laugh his ass off. 
+362		The blonde kid quickly grabs the stack of papers and tosses it to the girls. 
+363		"Fuck this. RUN!" 
+364		The second Modissa grabs the stack she mutters something under her breath - then she and her girlfriends all rush away as well. 
+365		Within seconds, the two sides disperse. 
+366		The goblin gives you a shrug. "Unorthodox. A bit crazy. But hey, it worked." 
+367		(Take a deep breath, and let the rage dissipate.) 
+368		A true display of power. 
+369		"Uh. You weren't actually going to..." 
+370		He slides a finger across his neck. 
+371		Sure did. 
+372		"Okay. Cool. Sure." 
+373		"I... really believe you." 
+374		E-(Leave. Now.) 
+375		An argument... 
+376		Both sides here are legally in the wrong. So if you wish for her to give up her claims and leave, you need to find another angle. 
+377		Hmm... 
+378		An angle that you have not considered yet. One that is not obvious. 
+379		Threaten physical violence? 
+380		Maybe I could pay them off? 
+381		Wait, who's actually in charge here? 
+382		No. 
+383		No. They care not for wealth. 
+384		Ah. Yes. 
+385		Her boss. The one who does not have the license. 
+386		This kind of copper press organization is not necessarily illegal under city code. 
+387		But it is in a gray zone. And there are many forces who wish to shut them down for good. 
+388		What if you... 
+389		"You. Girl with the glasses." 
+390		She meets your gaze with a frown. 
+391		"You have a chance to walk away now. Before I'm forced to take this up the chain." 
+392		"Everything will be shut down if you don't let this go." 
+393		Her eyes widen. 
+394		Breathing intensifies. 
+395		She's entering fight or flight. 
+396		A scoff. "So what, you'll just... what?" 
+397		"I'd gladly slam the hammer on this whole thing, if you give me the chance." 
+398		"I don't want to. Don't force me." 
+399		(Just nod slowly.) 
+400		She laughs. 
+401		The dwarf and halfling behind her are very quiet as she stops laughing. 
+402		Her eyes show fear. 
+403		"Okay. Sure. Fine." 
+404		She throws her arms up into the air. "Fuck it." 
+405		Puff out your chest. 
+406		Take a deep breath. 
+407		(Place a hand on his shoulder.) 
+408		Your gloved hand grabs him firmly and he gives you a freaked out expression. 
+409		"Kid. Give her back the papers." 
+410		"Uh," he mutters, trying to form an argument. 
+411		"No. Stay quiet." 
+412		He glares at you. 
+413		"Give. Back. The papers." 
+414		He glances away from you. 
+415		You can see his mind working behind those wide eyes. 
+416		Then he slowly nods. 
+417		It is time. 
+418		For a compromise. 
+419		"Both of you. Listen up." 
+420		Your calm and determined voice rings out across the street. 
+421		Tell the girls, "You can't deliver your paper." Then tell the boys, "And you can't steal it." 
+422		"You. Can't. Deliver it." 
+423		"That's what I've been saying! They've-" 
+424		"And you. Can't. Take it." 
+425		"Just listen to him. Come on." 
+426		The blonde kid grits his teeth. Then he grabs the stack of papers and tosses it across. 
+427		"Ouf...!" Modissa grunts as she catches it. 
+428		Then she immediately turns to you. "What do you mean? We have every right to-" 
+429		"No. Delivering. Without. <b>A license</b>." 
+430		"Fine." 
+431		The boys quickly disperse, muttering among themselves. 
+432		"Don't," the dwarf girl tells Modissa, as she strolls up to you. 
+433		"Hey, Mr. Cleric? You know we're just going to deliver these anyway, right?" 
+434		"I'm counting on it." (Give her a thumbs up.) 
+435		"Just do it a bit later. So that blonde kid doesn't notice." 
+436		"I don't care. Just stop causing trouble." 
+437		"If I catch you doing that, you're heading to the stockade." 
+438		As you answer, she turns and walks away. 
+439		"Well. You sure made the problem go away. Somewhat." 
+440		"Now let's get out of here." 
+441		Go. 
+442		The air glimmers. 
+443		"What are you...!" 
+444		"Woah..." 
+445		You encompass the two arguing kids in your Zone. 
+446		"This is an official city interrogation. Answer my questions. Silence is illegal." 
+447		"Please answer my questions." 
+448		"Is this divine magic? <i>I think it's very cool</i>," he says, and frowns. 
+449		"Wait... why am I...? <i>Now I am also a little scared</i>." 
+450		"You can't just- <i>I don't like it when you cast magic on me</i>." 
+451		"<i>I feel violated</i>. What? Why am I...?" 
+452		"Interrogation magic? <i>I feel compelled to speak the truth</i>." 
+453		The two of them look incredibly uncomfortable. 
+454		The spell is working. Now ask away. 
+455		"Why are you so angry?" 
+456		"Are you doing anything illegal here?" 
+457		"What color is the sky?" 
+458		"Who is to blame here?" 
+459		"Are any of you guys evil?" 
+460		"I'm hungry, any of you hungry?" 
+461		"Because I feel powerless and alienated from society." 
+462		She clutches her mouth. 
+463		"Because those like me used to be in charge, and now those not like me are in charge." 
+464		He goes, "Huh..." and looks down. 
+465		"Yes." 
+466		"Yeah." 
+467		They both look at each other, then at you. 
+468		"Blue?" 
+469		"Yeah, blue!" 
+470		"She is." 
+471		"He is." 
+472		"Bad question. Too subjective." 
+473		"No!" 
+474		"No." 
+475		"Wait... are you saying that because you believe it, or because it's objectively true?" 
+476		"Uh. I don't know?" 
+477		"Yeah. What she said." 
+478		"Fucking hells." 
+479		All the teenagers shake their heads. 
+480		"Are you fucking with us?" 
+481		The magic fades and the two of them look relieved. 
+482		You hear her whisper something to her friends. 
+483		She whispered, 'I hate clerics.' 
+484		"That was... intense." 
+485		"Come on. Let's make something happen here." 
+486		"Uh." 
+487		You see the silent kid in the back take a few steps away. 
+488		She nods slowly. "Maybe... we could make a..." 
+489		"As you say, <i>compromise</i>." 
+490		It pains her to say the word. 
+491		You see the magic enforce a sudden friendly demeanor. 
+492		"Mr. Cleric. What do you think we should do?" 
+493		"Modissa?" 
+494		"I think you should leave." 
+495		She nods. "Fine. Okay." 
+496		"What? But..." 
+497		"Let's go. It's for the best." 
+498		"Oh. Uh... hey, I- what do <i>you</i> think we should do?" 
+499		"Rollo?" 

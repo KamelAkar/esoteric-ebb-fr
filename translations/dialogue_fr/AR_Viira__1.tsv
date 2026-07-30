@@ -1,0 +1,501 @@
+idx	prefix	english
+500		"I had some intel, of course. We'd been in contact with this information broker before." 
+501		"But we were cautious. She was connected with both the Illym and Azgal radicals. A scary combo." 
+502		"And considering the nature of her contact with us... and our previous talks..." 
+503		"My guess is that she was trying to escape." 
+504		"Something the Freestriders could assist with." 
+505		"An escape in exchange for an artifact." 
+506		"Lisa missed the meeting." 
+507		M-"What else do you know about the broker?" 
+508		"Possibly." 
+509		"Depends entirely on her bargaining." 
+510		"Too bad it didn't work out." 
+511		"Yes, I was aware." 
+512		"Apologies for not telling you earlier, it must have slipped my mind." 
+513		"But from what I know, she is telling the truth. She was late to the meeting, by a few minutes, and that saved her life." 
+514		"Isn't life strange sometimes?" 
+515		"Never saw her face. Don't know her name." 
+516		"Heard Lisa was a friend of hers, a while back. I don't deal in gossip too much, so I don't know why they had a falling out." 
+517		"But that's it." 
+518		She nods. Slowly. 
+519		"I suspected as much." 
+520		"Of course, I had no explicit knowledge. So don't think I was trying to hide anything from you, Cleric." 
+521		"But I am truly horrified of this outcome." 
+522		"Tell me what you know, then." 
+523		"She was an Illym elf who sold information on her 'friends'." 
+524		"We bought info on the Azgals from her in the past." 
+525		"A treacherous little lynx. That's the impression I got, never having actually met her." 
+526		"But I'm sure she was very persuasive and charming. Spies usually are." 
+527		"If it were up to me, she would not have gotten close to getting a meeting with our organization. But alas..." 
+528		"That's all you know?" 
+529		"I'm afraid so." 
+530		"My suggestion to you would be to speak with the Azgals. They should know more, if you can get them to squawk." 
+531		"Oh they will." 
+532		"You know how charming I am. It'll be easy." 
+533		"Sure." 
+534		"Of course, Cleric." 
+535		She nods and looks at the watch. 
+536		The universal signal of 'Can we wrap this up?' 
+537		"No. They were vague." 
+538		"Which usually means it's a scam. But in this case..." 
+539		"I think it was possibly a very dangerous item. One the Askanii-Reeds would want to get their hands on both for monetary reasons- but also in the name of Norvikian safety." 
+540		"Why do you think it was dangerous?" 
+541		She gives off a short laugh. 
+542		"Because of what they called it." 
+543		"Whenever someone uses the term 'artifact' instead of 'magic items', they usually are." 
+544		"Of course. I wish you luck in your investigation, Cleric." 
+545		"One greasy bird. But he's good at his job." 
+546		"What about him?" 
+547		"What do you know about him?" 
+548		"Nevermind. Another question." 
+549		"He's a Yobu. Speaks through those mimicry voices." 
+550		"We've worked with him in the past. There was some kind of conflict with the ownership of his property at one point. With the HWBT." 
+551		"It was resolved." 
+552		"No clue." 
+553		"That's..." 
+554		"Not too surprising. Bit annoying though." 
+555		"So that's what he thought it was." 
+556		"Look. Cleric. Mr. Drummer had a strained relationship with the Askanii-Reeds Trading Company." 
+557		"He rented space in one of his backrooms. A chamber that happened to be rather incognito in the eyes of the HWBT." 
+558		She gives your companion a nod. 
+559		He scoffs. 
+560		"If he had something unconscionable going on in that business of his, then the AR are not involved, I assure you." 
+561		She lifts her head and squints. 
+562		"Are you certain you wish to step into that territory, Cleric?" 
+563		The goblin scoffs next to you. 
+564		"On second thoughts, no. Let's not." 
+565		R-"I need answers, Agent Viira." 
+566		"Wise man." 
+567		"Oh, did you now?" 
+568		"I suppose that's your prerogative." 
+569		"He did have some debt relating to the AR, but I'm sure we will be able to collect it at some later date." 
+570		She smiles. 
+571		"Oh," she mouths and glances over the document. 
+572		"Aren't you ruthless. Well done." 
+573		"He does hold some debt relating to the AR, so this will make it much, much easier to handle that particular problem." 
+574		"Aren't you helpful, Cleric? Keep this up and you might end up with a company commendation." 
+575		"Is that good?" 
+576		"It's what's right." 
+577		"It's very good. Trust me." 
+578		"Oh, for sure..." 
+579		She laughs. "Oh, I wouldn't dare to think that." 
+580		"But the AR thanks you." 
+581		"Well then." 
+582		"As you might imagine, there are many not-so lawful wares traded across city jurisdiction every day." 
+583		"Because there are buyers. And where there are buyers, capital will arrive to satisfy them." 
+584		"One way or another." 
+585		"The Askanii-Reeds Trading Company does not engage in such trades. Obviously. However, we have been tasked by the city to keep track of these illegal routes." 
+586		"As per the crackdown on crime syndicate trading ventures." 
+587		"If the city were to shut them down entirely, as they've done in the past, they will spring up again, by nefarious, uncontrolled, syndicates." 
+588		"Instead, we make sure to keep them under control, via private actors. Your friend Mr. Drummer is one such actor." 
+589		"There are more smuggling operations like his?" 
+590		"You know he moved illegal goods?" 
+591		"Sounds like you're the crime syndicate." 
+592		"Many, yes. We keep tabs on all of them." 
+593		"Of course. For the safety of the city." 
+594		"A bit of a rude comment, but I'll bite." 
+595		"Without the AR Trading Co. the city would be unable to keep any track of the heaps of pixie slush, banned potions, powerful spell scrolls, and sometimes <i>people</i>, that gets smuggled through its ports." 
+596		"We make sure nothing too terrible gets through. This is an open secret, I assure you." 
+597		"I hope that does not change your opinion on your business here." 
+598		"Yes. You're the crime syndicate. All you Freestriders are." 
+599		"No. We're doing good business here. I just had to check on the details of this." 
+600		"You're doing good work here. Continue keeping the city safe." 
+601		"I don't have any opinion on this. I just had to ask." 
+602		"I'm sorry you feel that way." 
+603		"Good. And yes, I agree, it's good of you to keep track of these loose ends." 
+604		"Okay!" 
+605		"I appreciate that attitude, for sure!" 
+606		She smiles and bows her head. 
+607		She takes out her notebook. 
+608		"Have you delivered the documents?" 
+609		"I think so." 
+610		"Hm?" she looks up from her notes and nods. "Right- I'll just be waiting to hear back from the signees in that case." 
+611		"Should be any minute!" 
+612		You actually have to get some people to sign the papers, it appears. 
+613		Three local entrepreneurs was it? 
+614		Might be a challenge. But we'll see. 
+615		That should be easy! 
+616		"Of course! We could have that arranged." 
+617		"It would take some time, of course. Security clearance, and such." 
+618		Unless you- 
+619		"Unless..." 
+620		"Unless?" 
+621		"I suppose it could be sped up, if you were to help me out in the matter I'm dealing with at the moment. Would you be interested?" 
+622		"I can hear it out." 
+623		"Hm. Well, okay." 
+624		"Then we can talk about the warehouse later on- perhaps a week or so after the election?" 
+625		She's asking for a back scratch. To get a back scratch in return, you get it? 
+626		Just go along. 
+627		"Maybe I do have some time." 
+628		She looks undisturbed. 
+629		"Great!" 
+630		She walks over to a drawer, and pulls out several papers. 
+631		"I've got a perfect task for a strong cleric like yourself." 
+632		Yeah you are. 
+633		She stuffs the yellow documents in your hand. 
+634		"AEFAs." 
+635		Ah, cool. 
+636		Every good entrepreneur knows about these. 
+637	DC14 dex-	"An Economic Freestrider Accord." 
+638		"A what?" 
+639		"Ayfa?" 
+640		"That's the one!" 
+641		"An <i>Askanii</i> Economic Freestrider Accord." 
+642		"We've been unable to hand them out previously, due to a number of legal reasons that are being stripped away once we - if we - land in a good position of the future government." 
+643		"So in preparation, we're opening talks with a number of local entrepreneurs." 
+644		"Having these handed out by an official cleric would make the process a lot more official however, greatly expediting the process. At least our numbers seem to indicate that folk are much more agreeable to city officials than our own staff." 
+645		"I'm guessing you can assume why." 
+646		"Yeah. Freestriders are scary." 
+647		"You want me to hand out pamphlets?" 
+648		"Horrifying, really." 
+649		She shrugs. "Oh, me neither." 
+650		"Oh no." 
+651		She taps the documents in your hand. 
+652		"These are legal documents showing every clause in the local EFA." 
+653		"Very generous terms. That will greatly assist the local corporations in growth, revenue, and stability." 
+654		"We're not all talk, you know. We do actually support local infrastructure and businesses. Quite heavily." 
+655		"And the first step is getting those businesses to actually join our Accord." 
+656		"You want me to hand out... contracts?" 
+657		"I'll think about it." 
+658		"I'll do it!" 
+659		"Yes. Mostly for them to take a look at." 
+660		"Wonderful." 
+661		"Once we get three Tolstad businesses on paper, we'll have met our pre-election quota. That will make my bosses very happy." 
+662		"That would make me very happy." 
+663		"Three businesses, huh?" 
+664		"Yes. Of course if you want to deliver them to more... just go ahead!" 
+665		"The businesses need to be established, but not necessarily registered. If you're not sure, you can hand them out anyway." 
+666		"Off the top of my head, I can recommend visiting Visken's Lichhouse and the Drunk Sphinx of course." 
+667		"But I'm sure you can find more..." 
+668		She winks. 
+669		"Come back once you've handed them out! I'll be sure to return the favor." 
+670		"Oh?" 
+671		Do not. They will destroy everything your Azgalist friends have worked on. 
+672		They are performing an illegal printing. In an apartment complex. 
+673		It needs to be shut down. 
+674		R-"I know the location of the Azgalian printing press. The one printing The Chant." 
+675		"...Nevermind." 
+676		"So mysterious." 
+677		"Please- do tell." 
+678		"It's in Simii's apartment. One of the Azgalians working for Foreman Alfoz. They've got a whole hideout in there." 
+679		"Well that sounds very illegal." 
+680		"It is." 
+681		"Hm. Yes, this is very good information. Very, very good in fact..." 
+682		She reaches for a little book beside her, and starts writing it down. 
+683		"Thank you very much for letting us know, Cleric. I'll be sure to take care of it." 
+684		"I'd recommend not speaking about it too much- as to not alert any of them. We want to catch them red-handed, as close to the election as possible." 
+685		"You don't need help with that?" 
+686		"You've got it all covered?" 
+687		"I'm only telling you because they are illegal. Not for any political reasons. I'm apolitical, you see." 
+688		"Oh, no. Not at all." 
+689		"I sure do." 
+690		She smirks. 
+691		"We'll send in a force to take care of the problem, right at the most opportune time." 
+692		"Again, thank you. This will make my higher-ups very happy. Which obviously makes me happy." 
+693		"I'm happy too." 
+694		"I love you." 
+695		"I'm just doing what is necessary." 
+696		"Good!" 
+697		She closes her eyes for a few seconds. 
+698		"You're not too bad yourself." 
+699		"Of course." 
+700		"You'll be rewarded in time, of course. As soon as we finish the bust." 
+701		You've burned your friends. 
+702		Good. Now you've got the Freestriders even more on your side! 
+703		Hm? Sorry, what did you just do? 
+704		He BURNED his FRIENDS. 
+705		Oh. Well, that's fine. Didn't think you had those. 
+706		Not anymore. 
+707		"Oh, you want to ask about that? Again?" 
+708		"After sneaking away last time?" 
+709		Oh, right. That's a thing you did. Nice. 
+710		Hurts to remember. 
+711		Not your fault she's scary. 
+712		"Yes. Answer my question, orc." 
+713		"I could not help it. You tower over me, my lady." 
+714		"I did no such thing." 
+715		"How direct. <i>Human</i>." 
+716		She tilts her head. "I do, don't I?" 
+717		"Hm? Do you really not remember?" 
+718		"Or are you suppressing the memory?" 
+719		"I might be. Possibly." 
+720		"No. You are wrong, I am in full control of my memory." 
+721		"Your false words will not faze me." 
+722		She leans her head on her palm. 
+723		"You do realize how suspicious that is, right?" 
+724		"Asking about the tea shop and then sneaking away?" 
+725		"Yeah. Sorry." 
+726		"It was necessary." 
+727		"Can you just answer my question, please." 
+728		"I obviously looked into it after that little show." 
+729		She sighs and grabs an envelope on the table. 
+730		"Darrow put a stop to any official investigation." 
+731		"He even had his guardian angel place an arcane lock on the entryway." 
+732		"Anything else?" 
+733		"Yes, his Celestial pet." 
+734		"She's no pet. She's a powerful woman." 
+735		"I like her." 
+736		"I don't like her." 
+737		"I like you more than her." 
+738		"Powerful, yes. Woman, though? I think that definition might be stretched." 
+739		"Do you?" 
+740		"Understandable." 
+741		"That's... uh..." 
+742		She clears her throat and moves on. 
+743		"I've had the displeasure to deal with her a few times here on Tolstad." 
+744		"Ever since she was handed the reins of Coinlord-lapdog." 
+745		"She seems to enjoy mocking us 'lesser creatures', coming off almost petty." 
+746		"Strange behavior for such a transcendent creature." 
+747		She adjusts her posture. 
+748		"Now..." 
+749		She opens the envelope and reads for you. 
+750		Storytime! 
+751		"<i>Bystanders suffered minor injuries. No real casualties found after a quick search of the premises.</i>" 
+752		"<i>The flames were put down within the hour.</i>" 
+753		"<i>Eyewitnesses indicate the flames appeared alongside a loud explosion.</i>" 
+754		"<i>A few unnamed people also mention the flames were blue, for a short moment.</i>" 
+755		"Blue flames, huh?" 
+756		"The rest goes along with our info. Good to have it corroborated. Where'd you hear all this?" 
+757		She smiles. "We have our sources too, my friend." 
+758		"Blue flames. You're not the first to mention that to me." 
+759		"Blue flames? Interesting." 
+760		"And you didn't have any of these witnesses recorded?" 
+761		"How quick was the search afterwards?" 
+762		"Thank you for the info." 
+763		"Indeed. Clearly it indicates some type of magical origin." 
+764		"Sorry, I mean <i>esoteric</i>. Esoteric origin." She winks. 
+765		"Call it whatever you want, but it sure came from a spell." 
+766		"Esoterical." (Give her a thumbs up.) 
+767		She nods. 
+768		"None, I'm afraid." 
+769		"We heard the Halfways had one direct witness who identified himself." 
+770		"A 'Frank' fellow." 
+771		"But we found nothing more on that thread." 
+772		The goblin mutters something to himself. 
+773		He says 'that stupid fucking name' along with some profanities you do not wish to hear. 
+774		"Apparently only ten minutes." 
+775		"Damn. That's quick." 
+776		"Too short for a proper investigation." 
+777		"What's more interesting is that the official report does not mention any lead investigator, apart from Darrow himself, and the militia org." 
+778		"So my guess is they just didn't do anything after the militia put out all the flames and secured the structure." 
+779		"That's insane. They can't just do nothing." 
+780		"If the Coinlord ordered it, it is just." 
+781		"I am a neutral observer here, so I don't have an opinion." 
+782		"Clearly they can." 
+783		She does not care. But she is intrigued. 
+784		"Yes, of course. Darrow is infallible." 
+785		The goblin scoffs. 
+786		He speaks for the city. The city is just. Simple as. 
+787		"Okay, that is good," she says in a monotone voice. "Your non-opinion has been recorded." 
+788		She's making fun of your non-opinionated opinion. 
+789		Good to see more people have non-opinionated opinions. 
+790		"No problem. Anything else?" 
+791		"You want to know more about the Freestriders?" 
+792		"Just in general?" 
+793		"Yes. That's what I said." (Roll your eyes.) 
+794		"Yes, please fill me up on knowledge." 
+795		"No, actually I'm good." 
+796		"Uh. Okay?" 
+797		"Anything else, then?" 
+798		Good. Keep her on her toes. 
+799		You're confusing her. Not sure that's good. 
+800		"Okay, then! Go ahead and ask." 
+801		"What is the Freestrider ideology?" 
+802		"Where does it come from?" 
+803		"I don't like the Freestriders." 
+804		"I like the Freestriders." 
+805		"That's all the questions I have about <i>Freestriding</i> for now." 
+806		"Hmm. Good question. You want the long answer or short?" 
+807		"Short." 
+808		"Long." 
+809		"Three words or less." 
+810		"The Freestrider ideal is to use democracy to establish egalitarian and libertarian states." 
+811		"The Freestrider ideal is a dream of democratic rule and freedom for all." 
+812		"In the wake of Arcanist oppression, the Folk of Reeds banded together and put a stop to the fighting, establishing republics along the Coast and around the Lake." 
+813		"They sought democracy. The choosing of their own fate, built upon personal liberty and freedom." 
+814		"I'd say that's a good summary of the Freestrider ideal." 
+815		"Oh! Gods. Okay." 
+816		"I'll say..." 
+817		"You've already said three words. You've chosen to describe Freestriderism with 'Oh gods okay.'" 
+818		(Let her speak.) 
+819		She sighs. "Okay." 
+820		"Egalitarian. Freedom. And..." 
+821		"<i>Wealth</i>." 
+822		"The Freestrider Movement?" 
+823		"It originated in Old Diminor. Towards the end of the Coast War." 
+824		"It's said that soldiers spread the word to one another, even between opposing armies." 
+825		"Eventually, once the magical powers waned, the common folk managed to rebel." 
+826		"So you could say it's all a big response to Arcanist tyranny, and the oppressive force of magocracy." 
+827		"Sounds like tyranny replaced with tyranny." 
+828		"You're truly the heroes of the Coast." 
+829		"Thanks for the story." 
+830		"Any governmental force is tyrannic to some degree, but..." 
+831		"I'd say out of all the forms of rule tried, the Freestrider republic is the least worst one." 
+832		Pure. Evil. 
+833		To bow before the lesser evil is to cast away your pride and manhood. 
+834		A strong argument at face value. Highly faulty if you think about it for more than a second. 
+835		"...Sure." 
+836		"You're welcome." 
+837		Freestriderism is the only way forward, obviously. 
+838		Every other form of rule has led to complete chaos and/or less fortunate conditions for literally everyone involved. 
+839		The Reedsian dream is possible. It's coming. It's here. 
+840		"Ah. Well, please. Do go on." 
+841		She crosses her arms and leans back. 
+842		Shit! Abort, abort! 
+843		She won't like you if you say something negative about this ideology! 
+844		"Why don't you like the Freestriders?" 
+845		"The Freestriders are just lining the pockets of rich merchants. The common folk get nothing out of it." 
+846		"They're invading sovereign states by using imperial tactics and overwhelming wealth creation." 
+847	DC11 int-	"Because they're in the way of me becoming immortal dictator/wizard-king of Norvik." 
+848		"Uh... no, I meant... I- I- I'm apolitical. I don't really have an opinion either way. I'm neutral. Unbiased." 
+849		"You sound just like an Azgal." 
+850		"I am an Azgal." 
+851	DC17 con-	"I just care for the land. The earth. The growing of crops..." 
+852		"I'm just speaking the truth." 
+853		"It's called making a <i>deduction</i>, my lady." (Bow your head and smirk.) 
+854		Her smile causes you to falter at the knee-area. 
+855		"You mean Norvik, in this case?" 
+856		"Yes. Norvik would be much better off without the Freestriders. Then we'd be able to have true, independent, democracy." 
+857		"The city has the right to be independent from your influence. We are a great nation, based upon the ideals of a great god." 
+858		"Humans for humans. Not humans for... not-humans." 
+859	DC11 int-	"If democracy was in any way a decent system, everyone would vote for me." 
+860	DC17 con-	"I just wanna grow my crops. Agrarian style..." 
+861		"No. I just don't like the way you do business, in general." 
+862		The orc stifles a laugh. 
+863		She shrugs. "I suppose that's fair." 
+864		More than fair. 
+865		Norvik is not their playground. 
+866		"Just remember, our presence here in this lovely city of yours is the only reason you have anything close to a liberal democratic choice." 
+867		"As in, the ability to even have a political opinion." 
+868		"But thank you for sharing." 
+869		She's right, you know. 
+870		The liberal thought was growing before her time. 
+871		Azgalians brought it in droves. 
+872		"Didn't expect that. Very interesting position. I will not argue against you." 
+873		She shuts you down without debate. As any small-minded person would. 
+874		She is not up for the task of debating a genius. It is understandable. 
+875		"Hm. Okay, then." 
+876		"Good. Then I won't have to defeat you in combat." 
+877		OH NO! 
+878		You should have stood against her. What a mistake. 
+879		She's joking. 
+880		"I... I could still do a combat with you." 
+881		"Good. You'd break me like a... uh..." 
+882		"I am apolitical." 
+883	DC10 cha-	"You're joking." 
+884		"Straw doll?" 
+885		"Yes, exactly." 
+886		(Nod excitedly.) 
+887		She glances around the room. 
+888		"We'd make such a mess in here. Perhaps later, then?" 
+889		Such a winker. 
+890		It is... unnerving. 
+891		"Same." 
+892		"I think the Freestrider Movement really speaks to my personal principles, you know?" 
+893		"I think it's very important to stand by your principles. Especially when things get difficult." 
+894		That is not something for you. 
+895		A powerful woman should rule you. 
+896		That feels more natural. 
+897		She speaks truth. Stand by your ideals, no matter what. 
+898		Though, to be honest, you do feel an urge to kneel here. 
+899		"I don't have any principles. If a powerful woman disagrees with me, I change my mind instantly." 
+900		"Yes. I always stand by my love of the Freestriders." 
+901		"Oh." 
+902		You disappoint her. 
+903		NO! 
+904		"Maybe you should get some principles, then." 
+905		"You're right. Good idea." 
+906		(Nod profusely.) 
+907		"I agree with you. I'm wrong. You're right. I'm sorry for ever speaking out of line. My lady." (Bow your head.) 
+908		She lets out a loud laugh. 
+909		A laugh that slowly turns into a tired sigh. 
+910		"I'll assume you're being funny." 
+911		"And let's leave it at that." 
+912		"How did you get into the Revolutionary mindset, if you don't mind me asking?" 
+913		Good question. 
+914		It was a mixture of stuff, right? 
+915		"I grew disillusioned by the city's corruption during my education at the Towers. So I started writing, and it quickly turned into revolutionary rhetoric, as you could imagine." 
+916		"Azgalism failed me. Nationalism fell apart along with Urth's fading. Freestriderism is new and fresh." 
+917		"How fascinating. So you were quite politically active at the Towers?" 
+918		"Yes. I got in trouble for it." 
+919		"Somewhat, yes." 
+920		"For a time." 
+921		"What a martyr..." 
+922		"I am sorry to hear that. But I do feel as if I understand." 
+923		"I hope you find in the Free Cities the inspiration of what Norvik could become, Cleric." 
+924		"What's that?" 
+925		"The center of the new world." 
+926		"Thazen. Bloodcity Bay. These great cities littered across the Coast." 
+927		"All of them wrought in ancient scars and bearing the weight of history." 
+928		"Norvik, as strange as it seems, is as new and fresh as Freestriderism itself." 
+929		"I sincerely believe it will become the centerpiece of the Revolution. In time, of course." 
+930		A wonderful idea. 
+931		A horrifying thought. 
+932		Norvik might be young, but it is built upon the ruins of a faded empire. 
+933		The new realm will rise upon the ashes of the old. 
+934		"All in time." 
+935		"I will think about that." 
+936		"I'm not sure that's a good idea." 
+937		"You do that." 
+938		"Oh, me neither. But it does seem to be happening nonetheless." 
+939		The orc shows you a smile with her gleaming tusks. 
+940		"Thank you for sharing, Cleric." 
+941		"Oh my." 
+942		"Did you speak with Durelius?" 
+943		"No. Some guy called <i>Manius</i>. Weird name." 
+944		"Oh. That's somewhat better." 
+945		"That's one of the... <i>assistants</i> of my superior." 
+946		Lover. 
+947		"He brought a few of them over, but Manius ended up <i>sticking around</i>." 
+948		Her expression turns into a hinting smile. 
+949		(Stare at her.) 
+950		"Are you implying something here? Are they doing something illegal?" 
+951		"No! Gods." 
+952		"They're <i>screwing</i>. Obviously." 
+953		Obviously. 
+954		See? 
+955		She points at Snell. 
+956		"Confidential information. Okay?" 
+957		"My lips are sealed. Even if I did give a shit." 
+958		"It wouldn't be all hush-hush if <i>Mister Durelius</i> wasn't a part of such a prestigious family." 
+959		"But yeah. I suggest staying away from both of them." 
+960		"Not that Durelius himself is ever around. Thank the gods." 
+961		"Tell me about your colleagues." (Jump over to personal questions.) 
+962		"Right. Good to know." 
+963		"Indeed." 
+964		"Okay. Happy to share." 
+965		Her eyes say, 'Please don't use it as a <i>verb</i>.' 
+966		"It's awfully empty here. Do you have any colleagues?" 
+967		"What exactly do you do for the Askanii-Reeds Trading Company?" 
+968		"What is your favorite color?" 
+969		"What's your mother's maiden name?" 
+970		"How strong are you?" 
+971		"Whom do you wear?" 
+972		"Alright. No more personal questions." 
+973		"Certainly." 
+974		"I am only Second-in-Command here on Tolstad. First is Agent Durelius." 
+975		"He is currently off securing votes with the Tolstad Guilds. Leaving me alone here to helm the ship." 
+976		Her expression changes. Hardens. 
+977		She doesn't like this guy one bit. 
+978		She must like this guy. 
+979		"And who is this 'Durelius'?" 
+980		"Just one colleague?" 
+981	DC10 wis-	"I get a feeling you don't like this fellow." 
+982	FC10 wis-	"You like this fellow, don't you?" (Feel your heart breaking as you ask the question.) 
+983		"What does 'securing votes' mean in this context?" 
+984		"I have some other questions. Not about your buddies." 
+985		"Octavio Pompus Durelius. My wonderful superior." 
+986		Her words drip with acid. 
+987		She likes this guy? 
+988		Long name. You need to compete with this guy, clearly. 
+989		"Him and his <i>hoard</i> of interns." 
+990		Horrific practice. It should be illegal to not pay your employees like that. 
+991		Oh, stop complaining. 
+992		It's simply a smart move to gather a bunch of impressionable youngsters and tell them they're getting 'job experience' by performing labor for you. 
+993		If you're lucky and they don't suck too much, you literally get free infinite labor. 
+994		"Well... not a hoard per se. More like three to four people, in rotation." 
+995		"He likes them young and stupid." 
+996		"You picked up on that, did you?" 
+997		She gives you a light laugh. "He's a bit of a dick." 
+998		"The type to talk circles around with whatever buzzwords he's been taught to use instead of practical language. The type who, in an attempt to sound professional, ends up turning into an archdevil of the deepest hell." 
+999		"You can spend an hour in a meeting with him, and go mad as he walks around facts and direct solutions in favor of whatever makes him look more superficially intelligent." 

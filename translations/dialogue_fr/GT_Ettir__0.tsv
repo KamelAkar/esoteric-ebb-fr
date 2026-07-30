@@ -1,0 +1,501 @@
+idx	prefix	english
+0		The porcelain specter does not turn to face you as you approach. 
+1		She appears to focus on her work - a series of floating pieces of paper - with her many eyes. 
+2		"Hi, there. I'm The Cleric. Who are you?" 
+3		"You look scary." 
+4		(Poke at her.) 
+5		She quickly slaps your hand away. 
+6		The quiet in your mind changes its quality. It feels... annoyed. 
+7		"I am <b>Ettir</b>," she states to you. Yet her mouth does not move. 
+8		Telepathic communication. 
+9		She is in your head? A parasite... 
+10		Not really an introduction, more of a checklist of etiquette. 
+11		Speaking with this ethereal creature is unnerving. 
+12		"I saw you last night, right?" 
+13		(Stare at the many eyes rotating around her head.) 
+14		"Yes." 
+15		Wow, careful around this one! She's a <i>charmer</i>. 
+16		She does not acknowledge your staring. All her eyes are focused on something else. 
+17		She is avoiding eye contact in an effort to avoid conversation. 
+18		<i>None</i> of them are looking at you? What are the odds? 
+19		The celestial appears to focus on her work - a stack of many, many documents - with her many eyes. 
+20		There is no acknowledgment of your presence in her many, many eyes. 
+21		"I am busy." 
+22		"Busy with what?" 
+23		(Just look at her documents.) 
+24		"Notes." 
+25		They are a collection of some kind of notes. A diary? 
+26		She <i>does</i> seem the type to be deeply in touch with her emotions. 
+27		They are detailed notes about the tea shop. 
+28		"You need help with that?" 
+29		"How dutiful of you." 
+30	FC7 cha-	"How dutiful! Dutiful 'n' beautiful. That's an <i>Ettir Promise</i>." 
+31		"You don't mind me asking some questions, do you?" 
+32		"I do not require assistance, Cleric." 
+33		One of her many eyes glares at you for a second, before it rotates past. 
+34		Come on... really? 
+35		Hm. Maybe she didn't get it. 
+36		"Good day, Cleric." 
+37		Her voice is cold and emotionless. 
+38		You might just want to... <i>say</i> what you want. 
+39		With all the profitable things in the world you could be doing, you've chosen to hassle a celestial. 
+40		Which, if going by the Freestrider's example, will end up being a long and drawn out affair, leading to nothing but a handful of headaches and a couple of genocides. 
+41		In short, not very hustlemaxxing of you. 
+42		Don't bother with frivolities. Celestials are higher beings, and you must engage them in that manner. 
+43		That's... correct, actually. 
+44		She is not the type to do small talk. It'd be rude rather than polite. 
+45		She is glorious. 
+46		If you wish her to speak... you must <shake>engage</shake> with the <shake>elephant</shake> in the <shake>chamber</shake>. 
+47		"What's it like being an angel?" 
+48		"Can you fly? Or just... float?" (Glance at her broken wing.) 
+49		(Look around at her messy quarters.) "You, uh... live like this?" 
+50		"Can you cast spells?" 
+51		"Do you really see out of all those eyes on the halo?" 
+52	ROLL13 con-	Muster up the courage to ask her about... URTH. 
+53		I can't just ask her about Urth. Right? 
+54		E-"Okay. Uh. Bye." 
+55		No response. 
+56		The wing twitches to the side. 
+57		Hate to see it. It'd be like if you broke all the fingers on one hand. Or lost your Pouch. 
+58		You have the impulse to touch the wing. Maybe you can mend it, make it work again. 
+59		You feel a sick fascination with the crippled wing. Dread in your extremities, but you want to touch it. 
+60		"Do not." 
+61		She can talk to your mind but she can also listen to your mind when your mind is the one talking even if you didn't know you were talking with it? That's very interesting. 
+62		She is not reading your mind. She is reading your clearly telegraphed intentions. 
+63		Really. Don't. 
+64		"I'm not going to touch it." (Don't touch it.) 
+65		"What? I'm not doing anything." 
+66		"It just looks so cool." 
+67		(Whistle.) 
+68		You hear the goblin groan in the corner. 
+69		The celestial does not even look at you. Despite having so many eyes. 
+70		Some of her eyes actually turn to stare at you. 
+71		Your room at home is much, much worse. 
+72		Yeah, but she's an <i>angel</i>. There's probably a higher standard involved. 
+73		This mess is a sign that she's an industrious worker. Clearly. 
+74		Nothing wrong with a little mess. Just means she's focusing on the right stuff. If you can't get around, that's your fault. 
+75		"Yes, Cleric. This is my base." 
+76		"Cool. It's cozy." 
+77		"It's a bit messy, isn't it?" 
+78		"I thought you'd be a bit more orderly, being an angel and all." 
+79		"Why?" 
+80		Her eyes snap to you. 
+81		Celestials are supposed to be aligned towards lawfulness. 
+82		Her behavior seemed orderly. 
+83		Yeah. She seemed like the type to keep things clean. 
+84	DC7 int-	"Uh. Because lawfulness is the alignment of angels?" 
+85		"Just the vibes I got." (Shrug.) 
+86		"I'm sorry. I didn't mean to offend." 
+87		"Maybe the divinity of it all had me fooled." 
+88		She does not respond. 
+89		You've offended her. 
+90		She does not seem to care about your comment. 
+91		She just keeps working. 
+92		Most celestials have innate magical abilities. 
+93		She can SEAR you. 
+94		Burnt flesh. Burnt SOUL. 
+95		All her eyes focus on you for one second. 
+96		Your bones quiver. 
+97		You feel it. Deep. In your bones. 
+98		You clench. 
+99		You pause unnecessary bodily functions. 
+100		And some necessary ones, like breathing. 
+101		Then you focus on the goal. 
+102		<shake>Speech</shake>. 
+103		R-Tell me about Urth. 
+104		The angel's presence causing you to shake. 
+105		The body does not hold. 
+106		It cannot stand her <shake>overwhelming</shake> aura of divinity. 
+107		Could be that she's a hot woman. 
+108		Or the divine aura. Either or, really. 
+109		(Shake. And, also, shiver.) 
+110		"Cleric." 
+111		"<b>Move on</b>." 
+112		You must try again later. 
+113		This is important. 
+114		That depends. Do you think she would respect you for daring to ask such a question? 
+115		A man would dare. 
+116		A <b>true</b> man. 
+117		Besides, discussing Urth should never be off-limits. With <b>anyone</b>. 
+118		No. That sounds... horrifying. 
+119		Urth's death weighs heavily on his closest servants. This is the type of question that might be wildly offensive to an angel. 
+120		But, then again, many of them might want to talk about it, with the expected silence weighing heavily on them. Hard to say. 
+121		Yet it is clear in her body language: she does not wish to answer such a question. 
+122		Yet... the boldness might also impress her. She appears to be that type of person. 
+123		She stops writing. 
+124		Get out of here - right now. <i>Run</i>! 
+125		Looks like a harmless pause. Just be careful. 
+126		Uh oh. 
+127		She mimics a sigh. 
+128		"<i>The faded man-god</i>." 
+129		"Urth of Norvik." 
+130		"That's the guy." 
+131		"So he's your god? You serve him, like I do?" 
+132		"No." 
+133		She lifts her hand, pointing towards your chest. 
+134		"I serve his remnants." 
+135		"<i>Dzieci Smoków</i>." 
+136		Celestial. Meaning something akin to: <i>Children of Dragons</i>. 
+137		The term refers to how most humans were slaves to dragons for centuries, before the Arcanists broke those chains. 
+138	DC16 int-	"The dragons do not rule our fates anymore." 
+139	FC16 int-	"Smocko-what?" 
+140		"The city is more than just a remnant." 
+141		"Interesting." 
+142		"Hm." 
+143		She's impressed. 
+144		Her many eyes look at you. 
+145		She does not react. 
+146		She disagrees. 
+147		Not an honorable thing to say. Have you misjudged her? 
+148		She leaves no words in your mind. 
+149		The celestial turns her head in your direction, just a bit. 
+150		She is extremely curious about you. 
+151		"I uphold my honor through service to the Coinlord." 
+152		She should serve you instead. 
+153	DC16 str-	"You should serve <b>me</b> instead." 
+154		"Sounds like a shitty job." 
+155		"Good. Stay honorable. Serve the city well." 
+156		"You should quit. Darrow really sucks." 
+157		"Hah." 
+158		The short laugh echoes in your mind. 
+159		A strangely human sound, from this alien creature. 
+160		She enjoyed that. 
+161		Nice, you made her laugh. 
+162		Ah. Great. She's laughing at you. 
+163		She turns her head fully towards you. You see through the gap in her skull. 
+164		Every eye fastened upon your soul. 
+165		"You speak like a man with power." 
+166		"Yet I see but a child." 
+167		Her words break your <u>ego</u>. 
+168		Your <u>ego</u> is slightly bruised. 
+169		"Maybe one day." 
+170		"Maybe." 
+171		Hm. 
+172		"A <i>job</i>." 
+173		It's not employment, idiot. As an angel, she's gotta do some kind of service. It's like, their thing. 
+174		She does not feel she has any other option. 
+175		"<i>Honorable</i>." 
+176		The angel's many eyes land upon you. 
+177		They stay for a while, before she returns to her documents. 
+178		She is... amused? 
+179		OH yeah! That's working. Keep shitting on her boss! 
+180		(Stand tall.) 
+181	DC14 cha-	"He sucks ass! Real ass!" 
+182		Her many eyes now look away. 
+183		Okay, that was a bit much maybe. 
+184		She turns back to her documents. 
+185		"I am unsure about many things." 
+186		"Yet for now, I serve." 
+187		"For good or ill." 
+188		Her stance. It relaxes. 
+189		Ever-so-slightly, she settles in your presence. 
+190		You've got an <i>in</i>. 
+191		She is a fascinating creature. Ask her more. 
+192		Gods, she's terrifying. 
+193		Yes. She is a horrific and powerful force... 
+194		There we go. 
+195		Now she will speak with you. For real. 
+196		She is still working on detailed notes, her halo spinning slowly around her head. 
+197		"What do you know about the pale man in the morgue?" 
+198		"What do you think about the goblins?" 
+199		"You have very cool armor." 
+200		"Do you sit here all day, or what?" 
+201		R-(Get to know her better.) 
+202		E-"Have a good day, Ettir." 
+203		"No. I am busy, Cleric." 
+204		The goblin exhales. 
+205		Relief. 
+206		Later. 
+207		She'll get on board. They always come around. 
+208		If you play your cards right, anything's possible. 
+209		Disappointed. Highly disappointed. 
+210		Good. You are strong enough to carry this team. 
+211		Snell actually does <i>a lot</i>. You should appreciate him more. 
+212		The goblin? He means well, but he's just a bit of assistance. Barely noticeable. 
+213		Men were not meant to carry the world upon their shoulders. Not alone. 
+214		"Thank you." 
+215		She's welcome. 
+216		She appreciates your appreciation. 
+217		She has practiced the formal way of answering a compliment, because in her culture one does not do such things. 
+218		"I know. I'm very generous." 
+219		"No, thank <i>you</i>." 
+220		(Stare at her.) 
+221		"No, Cleric." 
+222		"What do you do, then?" 
+223		"That's fair. You're not really sitting, just kind of floating." 
+224		"That is correct." 
+225		Score! 
+226		"When the Coinlord does not require my services, I attend to the archives. From dawn to dusk, normally." 
+227		"Then I perform a patrol. As is described in my service contract." 
+228		A good service to the city. 
+229		"So... you stay here all day. Then you go out all night." 
+230		"Sounds boring." 
+231		"Sounds fun." 
+232		"Sounds... contentable?" 
+233		"Yes. I work, Cleric." 
+234		Her kind do not require sleep. 
+235		"You are unable to fly, and I am unable to carry you." 
+236		Her? Carrying <b>you</b>? 
+237		The thought immediately causes you to STIR. 
+238		Okay, my guy, RELAX. 
+239		No, no. Stay hot on the money. You've got this. 
+240		You cast Fly once. It was not worth the investment. 
+241		And you got <shake>sick</shake> while doing it... 
+242		"That is a hobby." 
+243		That's one thing to call it. 
+244		<i>Contentable</i>? That's the best you could do? 
+245		It is a correct word usage. 
+246		<b>Yes.</b> 
+247		"Those feelings are very human." 
+248		"My service is to the Coinlord." 
+249		She is bound by duty. But where does her heart lie? 
+250		A truly great woman. Commendable to the utmost level. 
+251		It is time. 
+252		Become the man you were meant to be. 
+253		SPEAK with the ANGEL. 
+254		About... 
+255		You will falter. 
+256		Before the steps of divinity, your manhood crumbles. 
+257		As you ask about... uh... 
+258		RELIGION. 
+259	ROLL22 str-	Get to know her better - by discussing <i>religion</i>. 
+260		COWARD. 
+261		Yeah. Yeah... 
+262		Celestials. A gathering term for creatures born out of and from the Good Planes. There are many such creatures scattered across the Coast. 
+263		The only major civilization of Celestials is located in Divinii Torum: The Golden Horde. 
+264		Good creatures, usually connected with radiant light and healing things. 
+265		This angel sure is one. 
+266		Should I even talk to her? 
+267		I should keep talking to her. 
+268		I shouldn't keep talking to her. 
+269		Depends. Will you say what she wants to hear? 
+270		She <i>is</i> lonely. But her demeanor does not scream "Please socialize with me." 
+271		Her demeanor does scream, <i>Please socialize with me.</i> 
+272		She puts down the pen. 
+273		"Explain." 
+274		"An assassin is trying to kill me." 
+275		"Guy's got an iron mask. Like a helmet, but worse." 
+276		"I really don't have much to tell you. It was some guy with a dagger." 
+277		Her halo rotates slightly faster. "Elaborate." 
+278		It appears her level of frustration is correlated with the speed of the halo rotation. 
+279		You did not notice this previously. 
+280		Perhaps nobody with the mental acuity necessary for such an observation is also stupid enough to upset an angel. 
+281		Oh. Yeah, that spins when she's pissed. Or excited. 
+282		Her halo stops rotating. "Describe it." 
+283		She appears interested. 
+284		She nods and turns to the desk. 
+285		"The mask looked <i>real</i> esoteric though." 
+286		The angel pulls out a newspaper clipping. 
+287		"This?" 
+288		The article is entitled, 'MASKED ROGUE SPELLCASTER STRIKES AGAIN'. 
+289		The font is terribly old - Arcane Era old. 
+290		Woah. Look! 
+291		Beside the article is an illustration. It looks exactly like the iron mask you encountered. 
+292		(Nod and look even closer.) 
+293		"You just have this lying around?" 
+294		"It is from 499 A.E. There were multiple sightings, months apart." 
+295		"Each an esoteric crime. Teleportation stabbings. Mind control." 
+296		"Interesting," Snell pipes up in the back. 
+297		"But no reported sighting since then. And we never caught a culprit." 
+298		"What about Fireball? Any incidents involving that?" 
+299		"We?" 
+300		"But that's..." (Start counting on your hands.) 
+301		"So this guy's come back to haunt me? Great." 
+302		"What should I do?" 
+303		"The assassin seemed kind of incompetent?" 
+304		M-"Thanks for the information. I'll keep it in mind." 
+305		"No. Otherwise I would have brought it up sooner." 
+306		Of course she would have. She's aware of the circumstances surrounding the tea shop as well. 
+307		Why? Is she psychic? 
+308		Firstly, in a sense, yes. She does talk inside of your mind. 
+309		Secondly, no, that does not mean she reads your mind. 
+310		Thirdly, she's aware of the tea shop because it exploded. It would be strange if a security professional on Tolstad was unaware. 
+311		Oh. That makes sense. Thank you. 
+312		Please do better. You <i>green fool</i>. 
+313		Wee waa. Wee <i>woo</i>. 
+314		"I led the investigations unit on Tolstad. At the time." 
+315		Angels must live longer than humans. This should be investigated as well. 
+316		She sure has been working for these guys for a long time. 
+317		A veteran. 
+318		"Thirty-nine years ago." 
+319		Whew. Good thing she told you. You don't have that many fingers. 
+320		Perhaps one day... 
+321		You'd have to give up pickpocketing, but you could charge good money to show off your forty-fingered hands. 
+322		All in all, probably a good thing. 
+323		This will be circled back to in the future. <b>Absolutely</b>. 
+324		"Or it is a copy. Or the mask is magical. Some kind of possession." 
+325		"Or, yes. The Masked One could have returned." 
+326		Call that The Masked <i>Two</i>! Heh. 
+327		Kind of like a sequel to the first guy. 
+328		Don't say that out loud, but you can enjoy it privately. 
+329		"Protect yourself." 
+330		Wow, thanks. Glad you visited the angel for that advice. 
+331		Good advice. 
+332		That's not going to end well. 
+333		"Interesting. Could be an imitation, then. This will be noted." 
+334		"If you can pursue or potentially apprehend the Masked One, it would be appreciated." 
+335		Excellent! You can earn her favor by capturing the assassin. 
+336		She's asking something of you? You've actually made an impression. 
+337		She wants this assassin bad enough to ask you to do it. Heh. Get to work! 
+338		"<i>Keep watch</i>." 
+339		She closes the book floating before her. 
+340		"<b>Avoid that creature</b>. There is a darkness there." 
+341		Her halo spins erratically for a moment. 
+342		"I have been told to not interfere." 
+343		He is too powerful. You should serve him instead. 
+344		"Both with the mortician and his helpers." 
+345		The pale man's reputation is insane! What the hell is he? 
+346		He is surely a powerful wizard in hiding. 
+347		Something is certainly off about him. 
+348		"Oh. But he seems like such a normal guy!" 
+349		"Helpers?" 
+350		"Did he have something to do with the tea shop?" 
+351		"Shouldn't I keep an eye on him, then?" 
+352	DC16 int-	"Is he a wizard?" 
+353	FC16 int-	"What is he?" 
+354		"Okay. Good info, thanks." 
+355		"<b>Avoid. Visken</b>." 
+356		"Mercenaries. Creatures who roam below. Dark spirits." 
+357		"They are unofficially sanctioned. None opposes their presence, for Visken keeps them in line." 
+358		Huh. Another reason not to get in Visken's way. 
+359		"Do not engage them unless forced." 
+360		"Not likely." 
+361		"Visken has been a presence here for almost four decades, to my knowledge. During all this time, he has never caused any issues." 
+362		"Beyond that, Visken is also in tight cooperation with the Halfway Bridge Tribe. Since they are the main drivers in this investigation, it would be strange if Visken was behind it." 
+363		"Although if you find any evidence towards his involvement, let me know." 
+364		"If you wish." 
+365		"I suggest not engaging." 
+366		Don't. You'll just get in trouble. 
+367		Don't. You don't have the skills necessary to actually cross that guy. He's something else entirely. 
+368		Maybe if you play your cards right, you can get something out of it? 
+369		"Of course." 
+370		"At best, he is a weak Arcanist." 
+371		"At worst, he is a powerful Arcanist." 
+372		One who survived the Coast War? That would be... interesting. 
+373		A true Arcanist would be fascinating. It is not impossible to imagine. 
+374		She opens her book again. 
+375		"Do not engage. That is my advice." 
+376		"What information do you require?" 
+377		"...Pretend I'm not here." 
+378		He steps even further into the corner of the Guard Tower. 
+379		"How are they, you know, as a people? Here on Tolstad?" 
+380		"Can I trust their chieftain?" 
+381		"What do goblins... <i>do</i> here? Just in general?" 
+382		M-"I have some other, non-goblin related questions too." 
+383		"Weak-willed and powerless as individuals." 
+384		"A creature that survives through reliance on the group, and on greater creatures." 
+385		"<i>Ouch</i>." 
+386		"I agree. An apt description of goblins." 
+387		"Thanks for sharing." 
+388		He gives you a nod along with an expression that says, 'Kiss more ass, while you're at it.' 
+389		Her eyes glance at you. 
+390		"I would describe humans the same way." 
+391		You hear a chuckle in the back. 
+392		She's calling you weak? Not okay. 
+393		She speaks truth. 
+394		"Yeah, right. Like you're much better." 
+395		"Fair. We are weak alone. Strong together." 
+396		"Interesting." (Cross your arms.) 
+397		"I'm not weak. I'm strong." 
+398		"No. I am not." 
+399		She nods slowly. 
+400		A strong man does not need to say it. 
+401		"That shall be proven in time." 
+402		"But I do not see it as a negative." 
+403		Warmth. Her soul opens. 
+404		The voice softens. 
+405		"Humility and trust are important traits, in all. For all." 
+406		Agreed. 
+407		Yes. Her words ring true. 
+408		Guess she's a softie after all. 
+409		Huh. The angel's got some weird views. 
+410		Spoken like a true Celestial, bound by selfless ideals. 
+411		"That is what I think. What else?" 
+412		"Lady Sageleaf is a powerful creature." 
+413		"Do not trifle with her - or her pawns." 
+414		Her many eyes glance at the goblin in the corner. 
+415		"Her behavior is clean and highly acceptable. However, she does meddle in dark actions when needed." 
+416		"Hey. I don't disagree. Don't mess with the Old Lady." 
+417		She looks at you for a few seconds. 
+418		"Perform your duties and leave. That is my advice." 
+419		She's smart. 
+420		Avoiding gangs like that is the only decent way of preservation. 
+421		They'll chew you up and spit you out. 
+422		If preservation is your only goal, you must raise your sights. 
+423		You can do great things in the dark side of the law. If you're careful, of course. 
+424		"The goblins perform manual labor such as militia duty, construction, various public services, mail delivery, and manning many defensive perimeters in the City Below." 
+425		"Over the last decade, they have taken up near all such posts on Tolstad." 
+426		He points to the angel. "Right on the money." Then he quickly lowers his hand as he remembers he's pointing at a literal angel. 
+427		"They are also over-represented in crime statistics, and are several times more likely to join and form crime syndicates than the general human or dwarven populace all across the city." 
+428		He clicks his tongue. In the far corner. 
+429		"This appears to be primarily due to segregated housing areas, lack of access to higher paying jobs, and general cultural elements. The goblins are a troubled yet slowly integrating part of Norvik, from what I have observed." 
+430		"I'd also add that those general cultural elements were fed to us directly from the Norvikian Education Plan." 
+431		"That is correct. The cultural erasure of goblins was Urth's attempt to avoid this situation. I would argue it has failed." 
+432		"Sure did." 
+433		(Feel awkward.) 
+434		"It appears to be a highly politicized topic. I apologize if I have made you uncomfortable." 
+435		She is correct. 
+436		The goblins are troublesome indeed. Lady Sageleaf has clearly cleaned up Tolstad, but most of your other encounters with goblins have been rather unpleasant. 
+437		Or, perhaps, the <i>cleaning up</i> has been the result of goblins being more welcomed in Tolstad over the past ten years. 
+438		<i>Somewhat</i> more welcomed. 
+439		The goblins are scary. They scare you. 
+440		You scare the goblins. 
+441		It's <i>goblins</i>. They're gonna do what goblins do. 
+442		What did Urth expect when he led them into his city? 
+443		That they would magically turn into model citizens? Grow twenty inches and turn pale? 
+444		Idiotic. One does not mangle folk together like bricks. 
+445		The blue one is correct. That is heartwarming to- 
+446		Urth should obviously have magically re-educated each of the goblins into mindless servants instead. That would have been future proof - and efficient. 
+447		Oh no... 
+448		That is not very heartwarming. 
+449		"Yes. What else?" 
+450		"Imposing." 
+451		"<i>Ethereal</i>." 
+452		Her telepathic voice gets dropped down several octaves. 
+453		All the way down your back... your SPINE. 
+454		It shivers your <shake>sack</shake>. 
+455		This is your chance. Prove yourself. 
+456		Show the world: the mountain CAN BE CLIMBED. 
+457	ROLL28 cha-	Say the right thing. 
+458		"<shake>Nevermind that, actually</shake>." (Physically recoil.) 
+459		Her many eyes stare at you for approximately three and a half seconds. 
+460		Then she says, "Okay." 
+461		This woman... 
+462		She's not the type to appreciate being <i>talked at</i>. 
+463		Nor is she one for flattery. Obviously. 
+464		She's alien. To you and this place. 
+465		This is going to be a bit of a challenge. 
+466		But I can figure out what to say, right? I need a follow-up! 
+467		You did give her some compliments. Although they might not be appreciated as such. 
+468		So now, regrettably there's only one thing left to do. 
+469		It's time to bust out the <i>secret move</i>. 
+470		Oh no. 
+471		Oh yes. 
+472		It's time to be <i>genuine</i>. 
+473		(Look up at the angel.) 
+474		Her eyes stare at you, waiting for whatever words you let out next. 
+475		(Clear your throat.) 
+476		You hear the telepathic voice in your head. 
+477		"<i>Cleric</i>." 
+478		R-"I think you are very <i>beautiful</i>, and I would like to talk with you more." 
+479		(Scream internally.) 
+480		Yes, yes. It's painful. Get over it. 
+481		She's clearly not the kind to take advantage of your vulnerability. 
+482		So just... go for it! 
+483		The voice repeats the word halfway before coming to a stop in your mind. 
+484		One by one, the rotating eyes begin to look away from you, focusing on the walls, ceiling, and cluttered mess around the guard tower. 
+485		Anything but you. 
+486		You got her flustered again. 
+487		She is genuinely flustered. 
+488		Good or bad, you sure have an effect on her. 
+489		Now ask what she thinks about you! 
+490		Now, whatever you do, do NOT lose your confidence. 
+491		"You heard me." (Stand tall.) 
+492		"So... what do you think about me?" 
+493		"You can think about it." 
+494		NO! Don't, she'll- 
+495		The angel responds with short cold words. 
+496		"I do not." 
+497		They are icy knives in your abdomen. 
+498		"I have understood you, Cleric." 
+499		Her cold expression does not change, but the rotating halo of eyes begins to spin faster and faster. 

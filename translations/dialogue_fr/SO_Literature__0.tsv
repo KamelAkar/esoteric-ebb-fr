@@ -1,0 +1,155 @@
+idx	prefix	english
+0		You see a collection of books from the philosophy canon none of which you are really able to understand. 
+1		Next to them, a line of famous political books. Azgalist theory, Hedonists, the Dark Book of Shadow, Léxandro. Many more.  
+2		Hm. No Freestrider work. Disappointing. 
+3		This scholar has good taste. 
+4		You approach the complicated books once more. 
+5		(Open, 'The Folk' by Léxandro.) 
+6		(Open, 'A Blind Manifesto' by the Hedonists.) 
+7		(Open, 'Memoirs of a Statesman' by Nicholas Darrow.) 
+8		E-I'm done here. 
+9		Léxandro. 
+10		This was the first book placed in your hands as an Urthfolk recruit. 
+11		Open it. 
+12		(Look inside.) 
+13		(Put it back.) 
+14		It's an old, worn copy of that same text. 
+15		Musings about the Divine Era. Of great walking gods and their theocratic states. 
+16		A history lesson, morphing into a series of guidelines: how modern leaders, as a response to the drawn-out Coast War, should return to the <i>old</i>. 
+17		The proven. The organized. 
+18		The divine. 
+19		Although written from the perspective of not faith nor service to the holy, but rather that of service to the state. 
+20		A modern theocratic vision. The nation as an entity not bound by the protection and lifetime of its god. 
+21		Instead, the nation state will survive on unifying cultural traits, passed down from that god to his people. 
+22		This, Léxandro writes, will fasten them into the earth, creating firm groundings for the states to exist beyond any others. 
+23		The later chapters go on to describe his dream of a Millennium Empire. His grand plan. A nation to survive the passing of eras. 
+24		A collection of ideas he gathers in this dream. An ideology, structured around order, without the weakness of monarchy, the chaos of democracy, or the esoteric dependence of magocracy. 
+25		The Millennium Empire. The FASCIST ideal. 
+26		A good book. Léxandro knew what he was talking about. 
+27		It's almost like he wrote directly about the struggles of today's Norvik. 
+28		Dangerous ideas. Fascism has led many cities astray in Reeds. 
+29		I don't care about this. 
+30		Whatever your thoughts are, this book is used to reshape the city. 
+31		You live in fear of where its path will lead. 
+32		You know well how effective it is. 
+33		Just remember: it was written by a <i>gnome</i>. 
+34		Léxandro was a gnome. He tried using the so-called <i>Fasci di Condottieri</i>, the great mercenary warlords of Old Diminor, to bring order to the neglected parts of the Band. 
+35		He was, however, ultimately destroyed by the same warlords he created, when his followers failed in their coup of Savalni. 
+36		Ironically, the responsible squad reportedly did not realize who they had killed at first - they had simply been hunting down any non-humans in the city. 
+37		This... this was not openly spoken about during your training. 
+38		But yes. It is true. 
+39		Something to ponder. 
+40	DC16 int-	His followers misunderstood his message, then. 
+41	DC16 int-	That is indeed, very ironic. 
+42		(Put the book away.) 
+43		If a message is misconstrued - is that the fault of the reader or the writer? 
+44		The reader. 
+45		The writer. 
+46		I don't know. 
+47		Both. 
+48		Yes. 
+49		It is <b>both</b>. 
+50		Indeed it is. 
+51		You close it, and place it back in its spot. 
+52		Perhaps later, then. 
+53		The book. 
+54		THE book. 
+55		<i>Always listen to your hungry stomach,</i> it says with big, ugly letters on the first page. 
+56		You should listen to the book. And the stomach. 
+57		This crazy old text... 
+58		This wonderful manual... 
+59		This foul debauchery... 
+60		Same as always, the book begins with a tirade about property ownership. 
+61		Then, on the fifth page, you find a diagram showing how to ritualistically summon a demon. 
+62		It's incorrect however. On purpose, supposedly. 
+63		The purpose is metaphoric criticism of authoritarian governments. 
+64		The rest is a series of extreme essays on the topics of Hedonism: rejection of statehood, free association, maximizing sensation, direct democracy, and reciprocal exchange. 
+65		It paints up an image of an ideal world, where all can live without strife simply through the cooperation and love of all things. 
+66		A loving image. Communally loving. 
+67		Made illegal in many cities after its release in 466 AE, this rambling text has survived for one reason or another. 
+68		It is... the <shake>thing</shake> that makes you feel good. 
+69		The text of TRUTH. 
+70		(Look at the chapter on 'free love'.) 
+71		You flip to pages fifty-two. You remember it well. 
+72		It. Has. <shake>Pictures</shake>. 
+73		Tiny scribbling. Something akin to stick figures, positioned in various enwrapped unities. 
+74		You remember the words well. The guide on how to 'make ultimate sensations of flesh'. 
+75		Kinda hot. In a sad way. 
+76		Remember it well. 
+77		You will need it one day. 
+78		Close the book. 
+79		Reading filth like this will only darken your mind. 
+80		The Hedonists are back on the shelf. 
+81		The Coinlord's own book. 
+82		The first few pages are devoted to a rambling text about the history of governing. From ancient texts from various Beasts of Jor, to gods of the Divine Era, to several Arcanist figures- Darrow then smoothly moves on to conflate their accomplishments with his own. 
+83		Especially since he also includes an explanation of his lineage- that he is a direct first-born grandson of Borgo Darrow, the first paladin of Urth. 
+84		It is not-so subtle. 
+85		The many, many pages go on to describe both practical but mostly theoretical methods a 'statesman' should use when dealing with the populace, the bureaucracy, and the ideologies of modern life. 
+86		You haven't read this before. 
+87		Luckily, you don't have time to do so now either. 
+88		Generally, the book has a rather rough tone about democracy. A quote you've heard before from this book pops up towards the end: <i>Those who believe in democracy have a wonderful view of folk - to think them capable of making rational and informed decisions devoid of personal bias and emotional conduct.</i> 
+89		From what you remember, it caused quite the stir when it came out two years ago. 
+90		Quite anti-democratic. 
+91		No wonder people were upset. To have a Magistrate use such terrible language... 
+92		You recall a rumor about Shieldlord Jarn having hated this book so much during its printing that he personally bought two hundred copies only to burn them in his garden. 
+93		It's probably not true. Probably. 
+94		You do so. 
+95		You pick up the black-covered tome. A faint tingle goes through your gloved hand. 
+96		"That's the most evil book I've ever seen." 
+97		"How'd they even get the cover to be THAT black?" 
+98		"It's like a void." 
+99		Thicken graphene. 
+100		That is how they create the darkness on the cover. 
+101		A memory lingers in this tome. 
+102		If you open it, you shall recall. 
+103		R-(Open it, despite its evil nature.) 
+104		The text is not dangerous. The pages show but a holy scripture of the Shadow Lord's lost religion. One of eternal servitude and the search for life in death. 
+105		However. 
+106		You remember it well. 
+107		This was the first book you were ordered to study, as punishment for your idiotic behavior at the Towers. 
+108		You remember. 
+109		Your first journey towards the esoteric. 
+110	ROLL7 int-	Recall it. 
+111		No, I shouldn't. 
+112		How liberating it was. 
+113		To know, beyond any doubt, how much greatness hid within your mind. 
+114		How painful it was. 
+115		To know, beyond any doubt, how alone you truly are. 
+116		Fine. 
+117		Stay ignorant. 
+118		Hm. Fine. 
+119		Blurred faces. Hushed whispers. 
+120		A crowd of thoughtful peers, each snickering about your hand. 
+121		A raised hand. Among a crowd of sheep. 
+122		<i>Patriarch. It's not just a religious text.</i> 
+123		They stare at you. 
+124		<i>It's a <b>spellbook</b>.</i> 
+125		Those were the words. 
+126		Oh, how they laughed. 
+127		He asked you to prove yourself. 
+128		So you did. 
+129		I went up to the Patriarch. I took the Book of Shadow... 
+130		Then I... 
+131		<b>Yes</b>. 
+132		(Memorize Detect Alignment.) 
+133		You memorized it on the spot. Then you cast that ancient spell, once used by the <i>Death Knights</i> of the Shadow Lord to subjugate and control the minds of his people. A spell that is, despite its first level, not learned by most clerics until they grasp the intricacies of higher tier casting. 
+134		Everyone was left stunned by your excellence. 
+135		They should have clapped. 
+136		To not only master such a spell, but to do it in <i>seconds</i> instead of <i>days</i>... 
+137		That moment- it was yours. 
+138		From that moment you marked your place at the Towers as the greatest spellcaster, the greatest talent, among them all. 
+139		However, as always, the weak fear the strong. 
+140		That moment also began your ostracization. 
+141		You would never be among them. Never have peers. None would see you in any way as a brother or a comrade. 
+142		I would be a leader. 
+143		I would be an enemy. 
+144		I would be an obstacle. 
+145		I would be their end. 
+146		You <b><i>are</i></b>. 
+147		And you shall continue to be. 
+148		(Gasp for air.) 
+149		Your vision is blurry. 
+150		It is filled by the pages of that book. 
+151		It is a good one, despite its religious fervor. 
+152		As many say- the Shadow Lord was as much an early Arcanist as he was the greatest of the walking gods. 
+153		(Close the book.) 

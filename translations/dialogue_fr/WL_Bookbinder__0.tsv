@@ -1,0 +1,308 @@
+idx	prefix	english
+0		You approach the door. 
+1		"Bookbinder? You got business here?" 
+2		(Knock on the door.) 
+3		E-(Leave.) 
+4		"That's fun. Didn't expect that, considering... everything. I'm not a big reader myself, but I indulge occasionally." 
+5		He sounds surprised. 
+6		That's rude. <shake>Very rude</shake>... 
+7		But it's just <i>banter</i>. You can handle it. 
+8		"What, did you think I don't like books? I'm a <i>professional and highly esoterically minded</i> cleric. Of course I love books!" (Be offended.) 
+9		"What kind of wizard would dislike books?" (Be a wizard.) 
+10		"<i>You</i> can read?" 
+11		"Rogue." 
+12		"Are you upset?" 
+13		He cracks a smile. 
+14		"Like, genuinely?" 
+15		Pff. No. 
+16		Slightly. Yes. 
+17		You feel a bubbling brewing. 
+18		It is... rage. 
+19		"<i>NO.</i>" 
+20		"Yeah, a bit." 
+21		(Make grumpy cleric noises.) 
+22		The goblin stifles a laugh. 
+23		He shrugs. 
+24		"I mean, it's a stereotype. Figured you'd be more original than that." 
+25		"So what, I'm an <i>illiterate ape-wizard</i>? Those haven't existed since the Fade Era!" 
+26		"What can I say? I'm boring." 
+27		"I don't know about that, but..." 
+28		"I learn something new about you every minute it seems." 
+29		"Fuck off." 
+30		"Do you mean a note-sheet? Or... what?" 
+31		"I'm a dancing kind of bard, so... no." 
+32		"But you just said...?" 
+33		"Nevermind that. I change my mind." 
+34		He groans. 
+35		"I don't know, Cleric." 
+36		His sound makes it clear that he is tired of you talking about druidic things, despite the fact that he should celebrate your passionate love for nature. 
+37		"...What?" 
+38		"I'm sorry?" 
+39		"Rogue. I'm a rogue." 
+40		"I didn't ask!" 
+41		"Well. Maybe we shouldn't just stand here talking in front of a shop." 
+42		"You knocking, or we leaving?" 
+43		Within seconds of the knock, the slit on the door slides open. 
+44		Beyond you see a pair of large yellow eyes glaring at you. 
+45		"Hey-o." 
+46		Bird. 
+47		"Is this pest control?" 
+48		The eyes quickly tilt to the left. 
+49		Tilt? 
+50		"No." 
+51		"Yes." 
+52		"In a sense?" 
+53		"No..." 
+54		The eyes push closer to the slit in the door. As they do, a bush of gray feathers pokes out. 
+55		A birdfolk. 
+56		Ah! An owl! 
+57		"Hm? A <i>cleric</i>?" 
+58		"No, I'm a wizard." 
+59		"No, I'm a rogue." 
+60		"Yeah. Duh." 
+61		"Hm." 
+62		The bird-man behind the door ruffles his feathers. 
+63		"<i>Shěn Yêlan</i> is my name." 
+64		"If you are not pest control, I need nothing from you. Please leave." 
+65		The hatch on the door swings open. 
+66		A pair of yellow piercing eyes gaze at you from beyond a veil of bushy feathers. 
+67		(Stick an AEFA into the deposit slot.) "From the Freestriders next-door." 
+68		"You wanna go drink at the tavern later?" 
+69		"Are you a scholar?" 
+70		E-"Thank you for your time." 
+71		So stern. 
+72		Good. He should keep working. 
+73		That is honorable. 
+74		"A chat?" 
+75		"I did not think you were an animal speaking kind." 
+76		"Oh well. You have my gratitude." 
+77		"Half-off on future work!" 
+78		"Prayer book, yes? I have seen quite a few." 
+79		"Drop inside, I will take check-a-look." 
+80		(Drop it in.) 
+81		"Maybe later. I still need this broken mess." 
+82		"Fine. What else?" 
+83		"Yes, yes. Horrible. Salt water. Left swollen." 
+84		"You could have avoided the worst of this if the drying process had been handled better." 
+85		"I will rebind this foul mess for you." 
+86		"Great, thanks." (Turn to leave.) 
+87		"How much will it cost?" 
+88		"Are you sure you can do it? It's pretty ruined." 
+89		"One more thing. Before you run off." 
+90		"We will see. It depends on the process." 
+91		"Of course! What do you take me for?" 
+92		"I will need guidance on the direction of the rebinding." 
+93		"The spells inside are lost, however the style and formatting can be saved." 
+94		"Using my skills I can aim at something from the Towers. Which would be most similar to the original work." 
+95		"I could also focus on rebinding it in the style of a <i>druidic ledger</i>. Or perhaps as a <i>grimoire</i> of the dark and forbidden arts." 
+96		"Forbidden magic? Isn't that illegal? Hence the name." 
+97		"You know druidic stuff?" 
+98		"Have you worked on many clerical tools?" 
+99		"Just remake it as well you can with the original intention in mind." (Choose an INTELLIGENCE upgrade.) 
+100		"Make it a primal Druidic Ledger." (Choose a WISDOM upgrade.) 
+101		"I want it to be full of forbidden magic." (Choose a CHARISMA upgrade.) 
+102		"I am a registered spellcaster in your city." 
+103		He lets out an annoyed bird-sound. 
+104		"That gives me the rights to handle any magical components and tools. No matter the outcome. As long as I do not cast it myself." 
+105		"Thus is your law written." 
+106		"That sounds like it could be abused." 
+107		"Sounds profitable." 
+108		"Uh..." 
+109		"It does, does it not?" 
+110		"It is indeed." 
+111		"Make your decision." 
+112		"I have many customers. Including the various druids of this city." 
+113		"They have an aversion to modern practices themselves. Hence, my services are well-appreciated." 
+114		"I am not an official merchant of the Towers, but many come to me for better prices and better service." 
+115		"Despite how little most clerics enjoy working with my kin." 
+116		"Yes. Most clerics are quite hateful against non-humans after all." 
+117		"That's terrible. I'm not like those other clerics, I promise." 
+118		"That is the way of the world." (Shrug.) 
+119		"Indeed." 
+120		"I do not care. I am not your friend." 
+121		"Now, make a choice!" 
+122		"That I will do." 
+123		"Return tomorrow. Not while the sun rises. I am either resting or working intently during those hours." 
+124		"Anything else you want, or will you leave me to work?" 
+125		"And if you want it done faster, stop bothering me." 
+126		The owl beyond the door goes silent for a few seconds. His yellow eyes gazing at you. 
+127		Judgmental. That is what he looks like. 
+128		"You... <i>bêndân</i>..." 
+129		"Do you suffer from memory loss?" 
+130		"Maybe in an esoteric sense. But no." 
+131		"Oh right. I just turned the book in. Sorry." 
+132		The owl sighs. 
+133		"Come back tomorrow. And consider seeing a professional for your erratic behavior." 
+134		All geniuses are called erratic at some point. 
+135		Perhaps you should. 
+136		"Okay. Sorry to disturb you in your work." 
+137		"What if I throw more money at you? Can you get it done quicker?" 
+138		"Yes, yes." 
+139		The owl grumbles beyond the door. 
+140		"If you bake a bun in ten minutes on double the heat- you don't get it done faster. You get a burnt bun." 
+141		"Don't burn my book!" 
+142		"I get it. I'll come back tomorrow." 
+143		"If you leave now, I will consider it." 
+144		The owl-man goes quiet. 
+145		"Ten... thousand?" 
+146		"Yeah." 
+147		"You have <i>ten thousand crowns</i>?" 
+148		"...Well. If you do..." 
+149		"It would still take another hour. But..." 
+150		(Toss in 10,000 crowns into the hole in the door.) "I'll wait an hour. Go fix it." 
+151		"No. I was joking." (Keep your money.) 
+152		Sixty minutes pass. 
+153		"Of course you were." 
+154		"How wise of you." 
+155		"Yes, yes. It is done now." 
+156		"Now you pay." 
+157		"Nice! How much do I owe you?" 
+158		"Payment? How much." 
+159		"Right. Money. I have that." 
+160		"The process was quite complicated, but I handled it like the pro I am." 
+161		"The final cost is two hundred and fifty Norvikian crowns." 
+162		Oh boy. That's a fair amount for you. 
+163		"Pay now." 
+164		You could purchase a basic spell book for fifty. 
+165		However, if this bird is as proficient as he believes himself to be, then it could be worth the cost. 
+166		"Good. Now pay! Two-fifty." 
+167		"Good. Now pay! One-hundred." 
+168		"TWO HUNDRED AND FIFTY?!" 
+169	ROLL10 cha-	Make him lower the price. Through pure <i>charm</i>. 
+170		"...I'll come back later. Maybe." 
+171		"<i>CROWNS</i>?!" 
+172		"That's reasonable." 
+173		"That's a crazy high amount!" 
+174		"Good. Now pay." 
+175		"No. You are wrong. It is very reasonable for this kind of job." 
+176		Damn. Should've said that other thing. 
+177		"That is a bold assumption." 
+178		"However, it is true my issues with those constant pests have gone away..." 
+179		"Even the little noises. Thus I have been able to rest properly for once..." 
+180		"Come on. I'm such a nice cleric." 
+181		"I worked hard for it." 
+182		"Please. I'm begging you." 
+183		"Fine." 
+184		"You get it for free. But only due to me not having to pay Pest Control now." 
+185		Helping people helps you! Nice! 
+186		You did not do it for gain. But it is nice nonetheless to be rewarded with knowledge. 
+187		No, you cannot. 
+188		Time to start hustling, if you wanna get that book back. 
+189		You pour in all 250 crowns from your Pouch of Holding. And... 
+190		You toss in all 100 crowns from your Pouch of Holding. And... 
+191		You gotta comb his feathers, you know? 
+192		Just say- 
+193		"Make it a hundred and I'll owe you big time. Wouldn't it be nice to have a cleric in your debt?" 
+194		"True." 
+195		"Okay, pay hundred. Then you get your book." 
+196		Nice! That's a BIG discount! 
+197		Alas, since you're so FUCKING POOR - you still can't afford it. 
+198		Easy. Just say- 
+199		"Can you lower the price?" 
+200		Shit. Worth a try. 
+201		"You better. Book stays with me until you do." 
+202		Out of the slot in the door you see the end of a paper-wrapped book. 
+203		"Take it." 
+204		(Take it.) 
+205		You open the wrap- discovering one of the most beautiful and intricately crafted tomes you have ever seen. 
+206		The inside is filled with arcane runes, the like of which you can use in your work. 
+207		A masterpiece of a spell book. Never let this one fall into the river. 
+208		You open the wrap- discovering a wildly bound book, its paper smelling like a fresh damp forest. 
+209		Yet it is easy to use, opening it reveals a series of Primal patterns. 
+210		It is quite frankly a masterpiece of esoteric delight. 
+211		You open the wrap- discovering a book that feels eerie to the touch. 
+212		The inside is marked by some fiendish geometric shapes, along with various <i>arcane shortcuts</i>... 
+213		A masterpiece! You'll love using this as your spell book, won't you? 
+214		It feels tingly to your touch. 
+215		Extremely esoteric. 
+216		"You are happy. I can see it." 
+217		The yellow eyes tilt to the side as they peer at you from the slot. 
+218		"Now be on your way. And mention my services to your clerical friends. I am the BEST, you see. That needs to be known." 
+219		"Will do, general..." (Stare at your new book.) 
+220		(Just nod.) 
+221		"Anything else before you leave? No?" 
+222		"I see. I have heard of this." 
+223		"It will be considered. Anything else?" 
+224		Another one delivered. Hells yes. 
+225		"You are interested in the arts." 
+226		"It's kind of my job, yeah." 
+227		"I'd love to hear more about you. An owlkin in Norvik is not so common." 
+228		"If you have anything to share, let's hear it." 
+229		"I was trained in the Knowledge, back in Three Wings. I know many things." 
+230		"But no time to talk or share. Busy. If you want scholarly teachings, go speak with my upstairs neighbor." 
+231		"That gnome never stops talking." 
+232		"Just go upstairs. His door is always open." 
+233		"You know him. Good." 
+234		"And I will not learn the differences between gnomes and halflings for the same reason you people will call my kind <i>birdfolk</i>, clumping us together with the foul feathers of the darker bands." 
+235		Racism. 
+236		Logic. 
+237		Fear, mostly. 
+238		Self-preservation. 
+239		Spite. 
+240		"What reason is that?" 
+241		"Sounds kind of petty." 
+242		"Understandable." 
+243		"<i>Spite</i>." 
+244		Told you. 
+245		"Yes. It is." 
+246		"Yes. Yes it is." 
+247		"Rats!" 
+248		"Oh." 
+249		"They are awful. Keep spawning out of the sewer pipes." 
+250		"Yeah, the PCG should really take care of that." 
+251		"Yes!" 
+252		He lets out an angry bird-noise. 
+253		"But that bastard guild leader, Tor-Lim Slip keeps telling me they don't have time." 
+254		"No TIME?" 
+255		"They have a dozen teams running around the city. No TIME..." 
+256		"I've heard the big problem is that they cannot get anyone to do Pest Control missions at one star levels." 
+257		The PCG has a ranking system based on the danger of any particular pest they handle. 
+258	FC10 int-	"One-star?" 
+259	DC10 int-	"Of course. Rats would be a one-star problem." 
+260		"Yeah, they've got a whole ranking system." 
+261		"The Halfways- we haven't relied on the PCG for years. They just don't have time for anything under a two-star danger ranking." 
+262		"It is VERY annoying." 
+263		"I have looked into it, and the problem is: the Pest Control teams that join the guild only take on one-star missions for a couple of weeks." 
+264		"Then they quickly start focusing ONLY on the higher-paying tasks. And all the actual normal pests keep on spreading throughout the city..." 
+265		"It is a ridiculously IDIOTIC system." 
+266		"So while all the mimics and monsters keep getting slayed, nothing is done about these darn RATS!" 
+267		Your scarf nudges up against your left ear and whispers, "Meek think people in not-dungeon dislike mimic." 
+268		"Meek kind of gets it. But still is not fun to hear." 
+269		The Pest Control Guild uses a legendarily poor design. 
+270		Like, actually really inefficient. 
+271		Entirely due to it being a public thing of course. Had it been privatized from the start... 
+272		The problem is it's too privatized. If the city held full control of all PEST CONTROL, then even the less valuable missions would be handled. 
+273		Obviously. 
+274		So Urth would personally go into the sewer to stomp on rats, you say? 
+275		YES. 
+276		If so necessary, YES. 
+277		The bird takes a few breaths after his rant. 
+278		"Worst part: my nephew has a team himself. The <i>White Doves</i> they're called." 
+279		"And I've tried sending messages to him also. But he just says the same thing!" 
+280		"<i>Too busy... too busy...</i>" 
+281		"I could join the Pest Control Guild." 
+282		"Tell me more about your nephew." 
+283		"I could take a look at it. It does kind of sound like a quest." 
+284		"Well. Good luck with that." (Think about it.) 
+285		The owl-man scoffs. 
+286		"Sure, and then you'd go and take on all the big and scary monsters that crawl up into the city." 
+287		"Ignoring all the actual pests. Just to get a payday." 
+288		"Yes, that does sound like exactly what I'd do." 
+289		"No way. I'd work my ass off trudging through the sewers, catching rats, for a barely-nothing payout. All for the satisfaction of a hard day's work." 
+290		"Of course." 
+291		"Really?" 
+292		"...Probably not actually." 
+293		"Yes. I'm that good of a guy." 
+294		"Well, if everyone was like you, this city would be a better place." 
+295		"He calls himself <i>Valerian Windrider</i>. That is... the <i>Norvikian</i> way of saying his name." 
+296		"He's also active within that Freestrider party, if you're interested in throwing a vote for one of my fellow owl-kin." 
+297		"He works with one of those filthy Yobus, which I am not happy about. Oh, and a halfling. A cleric, in fact. Of the Lady Fair church." 
+298		"That's interesting. Thank you for telling me about them." 
+299		"They sound sketchy." 
+300		"Ah. I've heard of that church. Over in Housing, right?" 
+301		"You are welcome." 
+302		"I will not disagree." 
+303		"That's the one. I think they're connected with an orphanage." 
+304		"Hm. If you do, I would be very happy." 
+305		"The rats seem to come from the sewers, connected with the City Below." 
+306		"Thank you." 

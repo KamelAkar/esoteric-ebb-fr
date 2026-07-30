@@ -1,0 +1,501 @@
+idx	prefix	english
+0		Stepping into the hidden tomb, you see a colorful display of twinkling light through the gloomy and dusty air. 
+1		An eerie altar. Placed on top: a skull and several colorful gems. 
+2		Valuable too. 
+3		Like, extremely valuable. But probably horrendously cursed sadly. 
+4		And shiny! Take one. You could get it appraised by someone downtown... 
+5		The skull is a sign of death. 
+6		Mm. Don't touch anything. 
+7		Whatever esoteric effect is in place here - do not disturb it. 
+8		(Grab a gemstone.) 
+9		(Grab the skull.) 
+10		(Just look around.) 
+11		One of which you are holding in your hand. 
+12		Sweet! This must be invaluable. 
+13		Uh oh. That was probably a really, really stupid idea. 
+14		Your companion stares at the gem in your hand, stuttering out a few words. 
+15		"Y-you just...!" 
+16		"You walk into a creepy tomb and just...?" 
+17		Oh. What is that... feeling? 
+18		Darkness is coursing down your arm. 
+19		A searing pain takes hold. 
+20		Causing you to drop the gem. 
+21		But the gem does not hit the floor. 
+22		"Gods be damned..." 
+23		The goblin takes a step back. 
+24		You watch it levitate in front of you, as the pain subsides in your arm. 
+25		That is a curse of needles. 
+26		That is a curse. Of some kind. 
+27		The treasure on the shrine must be heavily enchanted. 
+28		(Try to grab the floating gem. Again.) 
+29		"Ouch." 
+30		(Take a step back.) "Floating cursed gem. I hate these." 
+31		As your fingers touch the surface, they immediately repel back. 
+32		"Stop touching it!" 
+33		"You fool!" He slaps your hand away. 
+34		"Just be happy you didn't lose a hand." 
+35		Slowly you watch as the gem moves through the dusty air towards the shrine. 
+36		Until it lands in the exact same place you picked it up from. 
+37		"It's for the best, Cleric." 
+38		"Don't forget, anything you grab down here is taxed by both the Halfways and your precious city." 
+39		WHAT? 
+40		Terrifying. 
+41		(Just stare at the returned gem.) 
+42		"Taxes, Cleric." 
+43		"You know. The Tithehouse." 
+44		Not something you've had to deal with before, but yes. 
+45		The Tithehouse demands a 40% cut on all collected goods in the City Below the City. 
+46		Sure. But not even official delvers report <i>everything</i>. 
+47		It's not like they can keep track of each ancient coin and relic. 
+48		Those taxes go to a good cause. The city offers many free services to its people, that would not be possible if a heavy cut was not imposed on all types of income. 
+49		It also pays for your salary. 
+50	FC13 int-	"There's a TAX on TREASURE?!" 
+51	DC13 int-	"Right. There's a tax on loot." 
+52		"Good. The city needs those taxes." 
+53		He holds up a claw. "Then Lady Sageleaf imposes another fifty percent cut on any reclaimed goods in the Tolstad Tunnels." 
+54		But... but... 
+55		You'll be left with NOTHING! 
+56		"Except if you're an official delver, of course. Then you'll get away with 10%." 
+57		FASCISTS! 
+58		A wise scheme. Incentivizes adventurers to not go behind the backs of the goblins. 
+59		Either risk getting caught by Sageleaf, or accept a tiny cut? 
+60		The goblins do not have official jurisdiction on any piece of the City Below. 
+61		Such actions are way beyond their powers. 
+62		Why would <i>anyone do anything</i> if the spoils are split by some overbearing specter of filthy socialism? 
+63		"That doesn't seem fair." 
+64		"Good. I love paying more than half of my income to people who didn't do any work." 
+65		The goblin shrugs. "You live in Norvik, Cleric. I didn't choose it. I'm guessing you didn't really either." 
+66		"But still we live here. So taxes are paid." 
+67		"I'm talking about the goblin cut." 
+68		"Fair point." 
+69		"You're going to pull the genocide card? Really?" 
+70		"Maybe we should abolish taxes..." 
+71		"Ah. Well, you can see that as a payback for the whole genocide, then." 
+72		He quips, but there's a tone of seriousness behind his voice. 
+73		"Sure is." 
+74		"If it works, it works." 
+75		"Hey, anything's possible. Who knows what the next election cycle will bring." 
+76		"Abolish taxes. Legalize murder. Sanctify cunnilingus." 
+77		"Sounds good. I'd vote for you." 
+78		"The second one seems a bit harsh." 
+79		"What's that third one?" 
+80		"Ah yes. A real goblin party. The slogan would be <i>We Love Anarchy</i>, and we'll win by a landslide." 
+81		"Obviously." 
+82		"Anyway. The shrine..." 
+83		"Hey, would be a blast from the past. We used to be fair game, didn't we?" 
+84		He's talking about the Goblin Genocide. A terrible period of Urthfolk history. 
+85		"I'm sorry for that." 
+86		"Right." (Turn away and look at the shrine.) 
+87		He holds up his palm. "Don't. Just- just look at the shrine, okay?" 
+88		The goblin clears his throat. 
+89		"It's a- it's a sex thing, Cleric." 
+90		"About this shrine..." (Quickly change the subject.) 
+91		He points at you. "Sarcasm?" 
+92		"Yes." 
+93		"No." 
+94		"Actually no." 
+95		He takes a breath, then asks again. "<i>Sarcasm</i>?" 
+96		"Got it. I'm trying to learn your, you know, mannerisms." 
+97		"Carry on." 
+98		The shrine is quiet. The colorful gems cover its altar, as well as the eye sockets of the central skull. 
+99		To think this sacrilegious and quite frankly <b>ominous</b> corner would be stashed away in such a holy place. 
+100		This is Urth's original crypt, for gods' sake! Is there no depth of depravity these cultists and undeath-enthusiasts can stoop to? 
+101		Your legs wobble as you look upon it. 
+102		You should pray to this thing. It is stronger than you. 
+103		E-I should just leave this alone. For now. 
+104		The goblin squints. 
+105		"A bit? Depends on what type of skull it is, I suppose." 
+106		"Look at the jaw. It's all wonky. And the eyes?" 
+107		"I suppose we should not judge the look of a bejeweled skull, for entirely egalitarian reasons." 
+108		"Nah. It's probably just a human with unfortunate aesthetics." 
+109		He sighs. 
+110		"Look at you, being all saint-like all of a sudden." 
+111		"But to be fair..." 
+112		He nods. 
+113		"I don't like ripping on a dead guy, but... yeah." 
+114		"That's one wacky skull." 
+115		"A <shake>WACKY</shake> skull?!" 
+116		"You <b>GOD DAMNED</b> phrenologists!" 
+117		"You obviously should not do that." 
+118		Yeah. At least while this goblin is watching. 
+119		Don't want to deal with those taxes. 
+120		"You're right. I shouldn't." 
+121		"What if I crush the skull first? I could probably smash it." 
+122		"You say that you shouldn't. But I have a sneaking suspicion that's not what you're thinking up there in that helm of yours." 
+123		"So your plan is to just smash the clearly super cursed skull on the obviously evil altar." 
+124		"I knew you'd be like this." 
+125		The goblin takes a step back and gives you a polite bow. 
+126		"Be my guest." 
+127		"Thank you, Snell. I'll crush the skull now." (Give him a thumbs up.) 
+128		"The <shake>FUCK</shake> you will!" 
+129		They do... 
+130		But even such a valuable doesn't override your self-preservation, in this case. 
+131		Maybe if you're quick enough...? 
+132		DO NOT. 
+133		Mm. Do not consider such a foolish action. 
+134		"The <shake>FUCK</shake> are you SHOUTING for?!" 
+135		Wait, wait...! 
+136		The second you place your hand on the top of the skull, the gems begin to glow. 
+137		A blast of necrotic energy fills your veins from your palm, going up to your heart. 
+138		Despite this, you CANNOT remove the palm. 
+139		It is GLUED to the skull. 
+140		"Stop, Cleric! Stop!" 
+141		(Scream and shake the skull.) 
+142		As you do, a shriek fills the air. 
+143		Followed by a shrill voice. 
+144		"PUT. ME. <shake>DOWN</shake>!" 
+145		(Keep shaking.) 
+146		After two more shakes, the skull pops out of your palm, the necrotic damage on your flesh fading. 
+147		The skull bounces against the wall, before stopping suddenly mid-air. 
+148		As if lifted by some invisible force, the bejeweled skull rises from the altar. 
+149		Its gleaming eyes twinkling in the light, its jaw chattering. The noise causes you to recoil. 
+150		DEATH. 
+151		"No way." 
+152		An unending wave of dread falls upon your essence. 
+153		An esoteric force. It... 
+154		It is <i>entering your mind</i>. 
+155		"U-undead abomination!" 
+156		(Try to run.) 
+157		"<i>Urth protect me</i>." 
+158		"Protect <i>you</i>?!" 
+159		The goblin tries to grab you, but he freezes and groans. 
+160		"What the hell...?!" 
+161		He falls to his knees. 
+162		You barely stand. 
+163		I... can't move... 
+164		The DREAD is overbearing. 
+165		The DREAD- you resist it. 
+166		The skull's jaw stops chattering. 
+167		As the noise disappears, you feel in-control once more. 
+168		Slightly. 
+169		"You wake me up for some trifling bullshit? You a Trifler, huh?" 
+170		It clicks its teeth together. 
+171		"No, sir. Please stop making that sound." 
+172		"W-what's Trifling?" 
+173		"I'm <b>The Cleric</b>." (Try not to puke.) 
+174		"I'm a... rogue." 
+175		"I'm a great wizard, nothing else!" (Wobble a bit.) 
+176		"I make any damn sound I like, you hear?" 
+177		"It's what you're doing, <shake>mortal</shake>!" 
+178		"You're trifling like a Trifler!" 
+179		"CLERIC, EH?" 
+180		"That does sound like triflings to me!" 
+181		"No! It's different!" 
+182		"Yeah, that's fair. Please don't kill me." 
+183		"I'll bet your soul it's not!" 
+184		"That's what I like- GR-rrrr-OVEL FOR ME!" 
+185		The skull floats closer to you, causing you to convulse on the spot. 
+186		"A WIZARD?!" 
+187		It looks you up and down. 
+188		"Hah! You're but a <i>pup tangled in Strings</i>." 
+189		"A CLERIC lost in Jor's tangles...!" 
+190		"A Cleric...! Of a DEAD god...!" 
+191		Holy hells, this thing is terrible. 
+192		Just being close to it ruins your posture. 
+193		The body cannot sustain this... undeath. 
+194		The skull lets out howling laughter as it shudders about in the air. 
+195		"I am NECROLORD BONDAVOL!" 
+196		"Wah-ha-ha!" 
+197		<b>Punch. The. Skull.</b> 
+198		Necrolord? That is a title of Old Diminor. 
+199		You've been unfortunate enough to encounter here a remnant of the Arcanists - left to decay into this mad form. 
+200		A <b>Demi-Lich</b>. 
+201		A horrifying creature. A Lich, fallen into a state of insanity and decay, rotting into nothing but a skull. 
+202		It is in many ways the dangerous variant, for its madness is as unpredictable as it is dangerous. 
+203		PUNCH. THE. SKULL. 
+204		"You're a...!" 
+205		"This is a...!" 
+206	ROLL20 str-	Punch the skull. 
+207		"A great and <i>horrifying</i> lich! Yes!" 
+208		He does not consider himself decayed. A sign of madness. 
+209		"Yes, it is my DOOM!" 
+210		Probably yours too. 
+211		"I heard him!" 
+212		"Yeah! It's pretty clear!" 
+213		The goblin looks horrified and ready to spring into action, despite the shaking legs. 
+214		"A scared little <shake>mortal</shake>? Yessss...!" 
+215		He's enjoying this way too much. 
+216		"No trouble?" 
+217		"Boring." 
+218		BORING?! 
+219		Hey, screw this guy! 
+220		"<i>Boring</i>? What do you want me to do, look for trouble? Be an asshole?" 
+221		"Sorry?" 
+222		"Hey, fuck you buddy!" 
+223		"At least that'd be interesting." 
+224		"Wimp." 
+225		"I said, you're BOOOORING!" 
+226		"That's the spirit!" 
+227		"Be abrasive! Don't let anyone tug you along!" 
+228		"That's what it's all about!" 
+229		A blinding light emits from your gloved hand as you twist the Strings around the air of the horrifying skull. 
+230		(Turn all undead in the chamber.) 
+231		It lets out a high-pitched scream and slams against the wall. 
+232		Before falling down to the altar, still. 
+233		"Holy shit," the goblin mutters and lifts his gaze. 
+234		"Did you... get it?" 
+235		"Of course not!" 
+236		Then you see it rattle upon the table. It rises once again, its jaw slightly unhinged. 
+237		The skull rises once again, its jaw slightly unhinged. 
+238		"Did you think that would destroy ME?!" 
+239		You channel the dark energy through your palm, reaching towards the floating skull. 
+240		Necrotic power surges from your fingertips. But... 
+241		"Ohoho...!" 
+242		The skull's jaw drops open wide as the negative energy courses into it. 
+243		Rather than recoiling, it seems to... drink it in. 
+244		"Mmm! <shake>DELICIOUS!</shake>" 
+245		The gems in its eye sockets flare with renewed intensity. 
+246		"You think such PUNY MAGIC would even scratch someone like me?!" 
+247		The skull lets out a shrieking cackle, spinning wildly in the air. 
+248		But your hand trembles. The spell fizzles at your fingertips. 
+249		Come on... 
+250		"Huh?" 
+251		"You... you attempt to INFLICT WOUNDS on ME?!" 
+252		The skull rattles with mocking laughter as the wisps of failed necrotic energy dissipate. 
+253		You wind up your fist. 
+254		Lock eyes with the cursed gemstones in the skull's sockets. 
+255		And pray. 
+256		"Urth be <shake>BLESSED</shake>." 
+257		You make contact with the bony surface, sending the abomination spinning in the air. 
+258		"<shake>Gah...!</shake>" 
+259		As it stops spinning, it looks at you, askew, and clacks its teeth together. 
+260		"You strike... at ME?!" 
+261		The skull lets out a crazed laugh. 
+262		Then you attempt to lock eyes with the... gems. 
+263		And try to send your shaking arms forward. 
+264		Come on, come on... 
+265		"You... you attempt to strike at ME?!" 
+266		The skull lets out a mocking laughter as you recover from your missed attack. 
+267		"I LIKE YOU!" 
+268		"What?" 
+269		"Such gusto! You remind me of my old lieutenant." 
+270		"That boy always swung at his superiors. I raised him a dozen times over the course of the war!" 
+271		"Stop laughing, I'm trying to kill you, you- undead monster!" 
+272		"Does that mean you won't kill me?" 
+273		He laughs some more. 
+274		"Kill? Bit too late for that, you whelp!" 
+275		"Eh." 
+276		"I do not make promises." 
+277		"I think so too. Play along now." 
+278		"If you keep this up, you might be worthy enough to be raised as a servant one day." 
+279		The skull stops. 
+280		"<i>Visken</i>?" 
+281		"What are you, an <i>apprentice</i>?" 
+282		"No?" 
+283		"Yes?" 
+284		"A slave then?" 
+285		"No way. I don't approve of slavery." 
+286		"More or less, I suppose." 
+287		"I prefer the term 'servant'." 
+288		"I sense <shake>sarcasm</shake> here." 
+289		"Uh-huh. What kind of apprentice?" 
+290		Tell him you're a... you're a dentist-in-training. That should work. 
+291		Officially Visken is a mortician. So... 
+292		"The esoteric kind?" 
+293		"He's teaching me mortuary stuff." 
+294		"Dentistry?" 
+295		"I'm not really an apprentice." 
+296		"Visken doesn't take on Arcane students." 
+297		"So you're the first embalming student he's taken on, ever? No way, <i>hombre</i>." 
+298		"He hasn't dealt in that horrid practice for years!" 
+299		"He... started it up again?" 
+300		"I don't believe you." 
+301		"Hold on. Are you that Cleric looking to speak with the dead elf?" 
+302		"Yes. Obviously?" 
+303		"How did you know that?" 
+304		"No." (Look shifty.) 
+305		Obviously. 
+306		"Yes you are!" 
+307		He rattles a laugh, slowly spinning in the air. 
+308		"Visken let me know all about your little situation." 
+309		"Of course!" 
+310		The demi-lich clicks once. 
+311		"You're not very necromantically entangled, are you?" 
+312		"Is that a bad thing?" 
+313		"Not really, no." 
+314		"I never managed to master that school at Towers." 
+315		"And thank the gods for that. Foul, filthy magic that is." 
+316		"Of course it is! Every spellcaster should aim towards the necromantic. It's just natural!" 
+317		"I can see that." 
+318		"Master it?" 
+319		"No one masters it, not even after centuries of scholarship." 
+320		"Necromancy is a beautiful art, you knave!" 
+321		"You see, I'm not just some horny wizard...!" 
+322		The skull drops down and flips around on the table. 
+323		"I'm a god damned <wiggle>MAAAGE</wiggle>!" 
+324		You hear the goblin groaning. 
+325		This lich is, surprisingly, not a threat. 
+326		For whatever reason, his intentions are far more sinister: he intends to teach you something. 
+327		"Trained in the <i>Arts</i> by Haagin-Dim legends, sent to fight on behalf of the <shake>grrrrr</shake>eatest empire in the history of Jor's arseprint!" 
+328		"Necrolord is not just some title- it's a calling! A dream!" 
+329		"A dream of undead supremacy...! One day it will be reached." 
+330		"You're the lucky one here. For I will help guide you to a STRING ATTUNEMENT!" 
+331		"A NECROMANTIC attunement!" 
+332		"You'll do that for me?" 
+333		"...Why should I want to learn necromancy?" 
+334		"You and your cursed, esoteric existence is an abomination. You must be destroyed." 
+335		"Right. Sure, I just have some questions first." 
+336		"Of course! I owe it to Visken for one." 
+337		"And for second... I just love spreading the joy of death-magic." 
+338		"As any sane man would!" 
+339		This skull is not sane, nor a man. 
+340		Agreed. 
+341		"For one, you'll be able to cast Speak with Dead without trouble." 
+342		"You'll also gain an appreciation of the subtle art of death-magic. Doesn't that sound lovely?" 
+343		"Sure." 
+344		"Yes. It does." 
+345		"No. It really doesn't." 
+346		"Good!" 
+347		"Yes indeed..." 
+348		"You're wrong. But if you change your mind..." 
+349		The skull laughs. 
+350		"Yeah, yeah. Go on about it till you croak." 
+351		"I've got a Finger of Death here that says your ass is mine, if I want it." 
+352		He laughs. 
+353		"Then talk." 
+354		The skull is not going to kill you. 
+355		But you do not have the strength to vanquish a demi-lich like this. So... 
+356		Later. Do it later. 
+357		The skull floats in front of you with a permanent smirk and wide jeweled eyes. 
+358		"<shake>CLERIC</shake>!" 
+359		So l- 
+360		"<i>So loud</i>." 
+361		Yeah, that. 
+362		So loud. 
+363	ROLL24 int-	"I will attune with Necromancy." 
+364		"How did you end up like that?" 
+365		"Tell me about Visken." 
+366		E-"I'm going now. Goodbye, Bondavol." 
+367		"Ah, you never asked did you?" 
+368		"I'm a terrifying lich, of course!" 
+369		"Got it." 
+370		"You'd have to be pretty STUPID not to!" 
+371		"Nah." 
+372		"Inter planar travel is overrated." 
+373		"Go ask Visken. That bastard keeps poking at Jor's relics." 
+374		"He's <i>into that shit</i>." 
+375		"For WHAT?" 
+376		"I'm going to ask the local sphinx to turn it into a key for me to enter the Beyond. Through the Pillar of Jor." 
+377		"I can't tell you... it's a secret..." (Be mysterious.) 
+378		"Then no." 
+379		"Oh. Well in that case, I'm going to ask the local sphinx to turn it into a key for me to enter the Beyond. Through the Pillar of Jor." 
+380		"Come on... please..." (Beg in an annoying tone of voice.) 
+381		"Okay, fine." 
+382		"That sounds absolutely crazy!" 
+383		"You will die by following such a road." 
+384		"Great!" 
+385		He grabs the emerald with his <i>teeth</i> - making a clicky noise - then tosses it into your chest. 
+386		"Go wild!" 
+387		You genuinely feel an appreciation towards this insanely stupid skull. 
+388		You are unsure if this guy ever was smart, or if this is just his mind slipping in his undeath fugue state. 
+389		Either way, a win for you. 
+390		Now: to return to the sphinx. 
+391		The skull does a little dance. 
+392		"The Strings are always different for each school. Aesthetically speaking." 
+393		"Everyone views them differently. Abjuration to me is steel. Evocation is lightning." 
+394		"Necromancy is flesh. Perhaps that can help." 
+395		This mad demi-lich offers you knowledge. You do not need it. 
+396		Show him. Of course you can attune to necromancy, easily. You're a genius. You can attune to any magic known to man or beyond. 
+397		Do you remember? 
+398		Yes... I remember that course in school. 
+399		Yes. All clerics underwent the Undeath Control class. 
+400		They focused mostly on hostile destruction of undeath. Not so much on the management of it. 
+401		But the teacher cast an animation spell to create a zombie for you all to train on. 
+402		The Strings... they were pale. Like death. (Hold out a hand towards the skull.) 
+403		"Yes... try it." 
+404		He giggles. In that sort of insane, creepy way. 
+405		There are many Strings. 
+406		Twist <i>this</i> one. 
+407		(Twist the String.) 
+408		You do so. 
+409		And... 
+410		The String... grows dark. Black as night. 
+411		It flies into your chest. 
+412		(Scream and convulse.) 
+413		"Oh gods..." 
+414		You fall to your knees. They are weak. 
+415		"They cannot help him now, goblin." 
+416		"You did something alright!" 
+417		(Get up and groan.) 
+418		"You tossed a ton of negative energy right into your damn heart." 
+419		"First time I've seen someone do that and live. Impressive!" 
+420		"You are alive, are you? Not a zombie or something behind that thing on your head?" 
+421		"I'm alive. I think." 
+422		"Fuck you." 
+423		(Mumble something incoherent.) 
+424		"That's the spirit." 
+425		"Try again later, you'll get it eventually!" 
+426		"Maybe you should rest first. Or something." 
+427		He sounds worried. He should be. 
+428		Don't throw yourself into doom like this. Can't you figure out something to make it easier? 
+429		You understand it better now- now that you've seen the <i>pale String</i>. 
+430		Think. 
+431		This demi-lich believes himself to be your teacher here. 
+432		He might be insane, but there is still knowledge to be had. If you can decipher it. 
+433		(Hold out a hand.) "Tell me as best as you can- the School of Necromancy, how do I master it?" 
+434		"Strings are Strings." 
+435		"They are equal, but different. You must have seen them a lot. Since you have them running through your flesh in the masses." 
+436		"I do?" 
+437		"I do." 
+438		He continues, "A String of Necromancy becomes that when it intersects with negative energy. Thus it begins to 'look' like flesh to me, for example." 
+439		"I have surely as many Strings going through my existence as you do. Except mine are Necromantic." 
+440		"Yours are..." 
+441		The skull shakes a bit. "Many others. How do you deal with Strings, usually?" 
+442		"When I attune with Strings, I twist them." 
+443		"Ah. So that is how you cast your organized spells, then." 
+444		"Necromancy is special because of that negative energy. Twisting a necromantic String would hurt, naturally, if you are anything but <i>not-alive</i>." 
+445		"A living necromancer learns to either manage the pain, through mutilation, religious fervor, physical numbness, or..." 
+446		"They learn to cut the String." 
+447		"...Cut?" 
+448		"Everyone uses different terminology. You might have heard it called 'willing' the String. Or 'Mastering' it." 
+449		"It's the step every spellcaster must go through to reach the higher tier magic. They must learn to manipulate the String's <i>shape</i>." 
+450		"The shape of the String?" 
+451		"But it doesn't have a shape? It's just a... dot?" 
+452		The skull laughs mockingly. "Why do you think they call it a String then, dumb-ass?" 
+453		"It measures <i>change</i>. Over <i>time</i>." 
+454		"You might have grabbed and twisted your Strings in the moment, but cutting a String means: <i>grabbing it independently</i>! From <shake>ALL</shake> its other parts. In the past. And in the future." 
+455		"Don't just twist it. <i>Separate it from itself</i>." 
+456		Oh. 
+457		So that's what that means. 
+458		<shake>Of course!</shake> 
+459		The talk about mastering Strings... it all makes sense now. 
+460		The String goes <i>through</i> time. 
+461		Manipulating it more closely requires it to be twisted <i>only in the now</i>. Without the other baggage. 
+462		(Stick out your hand.) 
+463		"Yes..." 
+464		(Locate a String near Bondavol. A pale String.) 
+465		Yes...! 
+466		(Twist it.) 
+467		"Ah shit." 
+468		(Open your eyes.) 
+469		"That hurts." 
+470		"You twisted the String into a Cure Wounds, you idiot. Hurt like a... what do you say- <i>motherfucker</i>!" 
+471		"I failed?" 
+472		The skull laughs, intensely. 
+473		"You did great, Cleric. Or should I say, <i>Necromancer</i>?" 
+474		"That was a Cure Wounds, for sure. But a <i>necromantic</i> Cure Wounds." 
+475		"Instead of a Cure Wounds cast through sissy Abjuration or hardcore flesh-melding Transmutation, you now managed to simply remove the negative energy to reach the same conclusion: healing." 
+476		"Although yes, it did hurt like all hells. Since negative energy obviously is kind of my thing here, as a glorious lich." 
+477		"Oh. So I mastered necromancy?" 
+478		"An overstatement perhaps, but you should be able to cast the one spell you're looking for at least." 
+479		"<shake>Speak with Dead!</shake>" 
+480		"Finally." 
+481		"That's what I'm talking about!" 
+482		"That's... great. It would be extremely useful for the case. <i>Obviously</i>." 
+483		The skull nods. 
+484		"You want a spell scroll?" 
+485		"What's the catch?" 
+486		"That'd be useful, yes." 
+487		(Hold out your hand.) 
+488		The skull widens its jaw. Then it coughs up a tiny spell scroll into the altar. 
+489		"That's disgusting." 
+490		(Grab it.) 
+491		(Grab it, reluctantly.) 
+492		"What is?" 
+493		"You had the scroll <i>inside</i> of yourself." 
+494		"No I didn't." 
+495		"It was in my pocket. Clearly." 
+496		"What are you, stupid? Take the damn scroll!" 
+497		He is not aware of his demi-lich form. 
+498		How sad. 
+499		Fascinating more like. 

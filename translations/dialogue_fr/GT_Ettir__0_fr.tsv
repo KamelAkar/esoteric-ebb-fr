@@ -1,0 +1,501 @@
+idx	french
+0	Le spectre de porcelaine ne se tourne pas vers toi à ton approche.
+1	Elle semble concentrer sur son travail - une série de feuillets flottants - ses nombreux yeux.
+2	Bonjour, vous. Je suis le Clerc. Qui êtes-vous ?
+3	Vous avez l'air effrayante.
+4	(La titiller du doigt.)
+5	Elle t'écarte la main d'une claque vive.
+6	Le silence dans ton esprit change de nature. Il semble... agacé.
+7	Je suis <b>Ettir</b>, t'énonce-t-elle. Pourtant sa bouche ne remue pas.
+8	Communication télépathique.
+9	Elle est dans ta tête ? Une parasite...
+10	Pas vraiment une présentation, plutôt une formalité d'usage cochée sur une liste.
+11	Parler avec cette créature éthérée met mal à l'aise.
+12	Je vous ai vue la nuit dernière, c'est ça ?
+13	(Fixer les nombreux yeux qui tournoient autour de sa tête.)
+14	Oui.
+15	Ouah, prudence avec celle-là ! C'est une <i>charmeuse</i>.
+16	Elle ne prête aucune attention à ton regard insistant. Tous ses yeux sont fixés ailleurs.
+17	Elle évite le contact visuel pour éviter la conversation.
+18	<i>Aucun</i> d'eux ne te regarde ? Quelle probabilité ?
+19	La Céleste semble concentrer sur son travail - une pile de très, très nombreux documents - ses nombreux yeux.
+20	Nulle reconnaissance de ta présence dans ses très, très nombreux yeux.
+21	Je suis occupée.
+22	Occupée à quoi ?
+23	(Se contenter de regarder ses documents.)
+24	Des notes.
+25	C'est une collection de notes en tout genre. Un journal intime ?
+26	Elle <i>a</i> tout l'air du genre à être profondément en phase avec ses émotions.
+27	Ce sont des notes détaillées sur le salon de thé.
+28	Vous avez besoin d'aide pour ça ?
+29	Quel dévouement de votre part.
+30	Quel dévouement ! Dévouement rime avec ravissement. C'est une <i>Promesse d'Ettir</i>.
+31	Ça ne vous dérange pas si je pose quelques questions, si ?
+32	Je ne requiers nulle assistance, Clerc.
+33	L'un de ses nombreux yeux te fusille une seconde, avant de poursuivre sa rotation.
+34	Allez... vraiment ?
+35	Hm. Elle n'a peut-être pas saisi.
+36	Bonne journée, Clerc.
+37	Sa voix est froide et sans émotion.
+38	Tu ferais peut-être mieux de simplement... <i>dire</i> ce que tu veux.
+39	Avec toutes les choses profitables que tu pourrais faire de par le monde, tu as choisi d'importuner une Céleste.
+40	Ce qui, si l'on suit l'exemple de l'Errant, finira par être une affaire longue et interminable, ne menant à rien qu'à une poignée de migraines et deux ou trois génocides.
+41	Bref, pas très optimisé côté ambition, de ta part.
+42	Ne t'embarrasse pas de frivolités. Les Célestes sont des êtres supérieurs, et tu dois les aborder comme tels.
+43	C'est... exact, en fait.
+44	Elle n'est pas du genre au bavardage. Ce serait grossier plutôt que poli.
+45	Elle est glorieuse.
+46	Si tu souhaites qu'elle parle... tu dois <shake>aborder</shake> l'<shake>éléphant</shake> dans la <shake>chambre</shake>.
+47	Ça fait quoi, d'être un ange ?
+48	Vous pouvez voler ? Ou juste... flotter ? (Jeter un œil à son aile brisée.)
+49	(Regarder autour de toi ses quartiers en désordre.) « Vous, euh... vivez comme ça ? »
+50	Vous savez lancer des sorts ?
+51	Vous voyez vraiment par tous ces yeux sur l'auréole ?
+52	Rassembler le courage de l'interroger sur... URTH.
+53	Je peux pas juste l'interroger sur Urth. Si ?
+54	E-« D'accord. Euh. Salut. »
+55	Aucune réponse.
+56	L'aile tressaille sur le côté.
+57	Ça fend le cœur. Ce serait comme si tu te brisais tous les doigts d'une main. Ou perdais ta Bourse.
+58	Tu as l'impulsion de toucher l'aile. Peut-être peux-tu la réparer, la remettre en état.
+59	Tu ressens une fascination malsaine pour cette aile estropiée. L'effroi jusqu'au bout des membres, mais tu veux la toucher.
+60	N'en fais rien.
+61	Elle peut parler à ton esprit mais elle peut aussi écouter ton esprit quand c'est ton esprit qui parle même si tu ne savais pas que tu parlais avec lui ? Voilà qui est fort intéressant.
+62	Elle ne lit pas ton esprit. Elle lit tes intentions clairement télégraphiées.
+63	Vraiment. N'en fais rien.
+64	Je ne vais pas la toucher. (Ne pas la toucher.)
+65	Quoi ? Je ne fais rien.
+66	Elle a juste l'air si classe.
+67	(Siffler.)
+68	Tu entends le gobelin grommeler dans le coin.
+69	La Céleste ne te regarde même pas. Malgré tous ces yeux.
+70	Certains de ses yeux se tournent bel et bien pour te fixer.
+71	Ta chambre chez toi est bien, bien pire.
+72	Ouais, mais c'est un <i>ange</i>. Il y a sans doute un standard plus élevé en jeu.
+73	Ce désordre est le signe qu'elle travaille dur. Manifestement.
+74	Rien de mal à un peu de désordre. Ça veut juste dire qu'elle se concentre sur l'essentiel. Si tu ne peux pas circuler, c'est ta faute.
+75	Oui, Clerc. Ceci est ma base.
+76	Sympa. C'est douillet.
+77	C'est un peu en désordre, non ?
+78	Je vous imaginais un peu plus ordonnée, ange et tout.
+79	Pourquoi ?
+80	Ses yeux se braquent sur toi.
+81	Les Célestes sont censés pencher vers la loyauté.
+82	Son comportement semblait ordonné.
+83	Ouais. Elle avait l'air du genre à tout garder propre.
+84	Euh. Parce que la loyauté est l'alignement des anges ?
+85	Juste l'impression que j'ai eue. (Hausser les épaules.)
+86	Je suis désolé. Je ne voulais pas vous offenser.
+87	Peut-être que toute cette divinité m'a induit en erreur.
+88	Elle ne répond pas.
+89	Tu l'as offensée.
+90	Elle ne semble pas se soucier de ta remarque.
+91	Elle continue simplement de travailler.
+92	La plupart des Célestes ont des dons magiques innés.
+93	Elle peut te CALCINER.
+94	Chair brûlée. ÂME brûlée.
+95	Tous ses yeux se fixent sur toi une seconde.
+96	Tes os frémissent.
+97	Tu le sens. Profond. Dans tes os.
+98	Tu te crispes.
+99	Tu suspends les fonctions corporelles superflues.
+100	Et certaines nécessaires, comme respirer.
+101	Puis tu te concentres sur l'objectif.
+102	<shake>Parole</shake>.
+103	R-Parlez-moi d'Urth.
+104	La présence de l'ange te fait trembler.
+105	Le corps ne tient pas.
+106	Il ne peut supporter son aura <shake>écrasante</shake> de divinité.
+107	C'est peut-être qu'elle est une femme canon.
+108	Ou l'aura divine. L'un ou l'autre, en somme.
+109	(Trembler. Et, aussi, frissonner.)
+110	Clerc.
+111	<b>Passe à autre chose</b>.
+112	Tu devras réessayer plus tard.
+113	C'est important.
+114	Ça dépend. Crois-tu qu'elle te respecterait d'oser poser pareille question ?
+115	Un homme oserait.
+116	Un <b>vrai</b> homme.
+117	D'ailleurs, parler d'Urth ne devrait jamais être tabou. Avec <b>quiconque</b>.
+118	Non. Ça a l'air... horrifiant.
+119	La mort d'Urth pèse lourd sur ses plus proches serviteurs. C'est le genre de question qui pourrait être terriblement offensante pour un ange.
+120	Mais, là encore, beaucoup d'entre eux voudraient peut-être en parler, le silence attendu leur pesant lourdement. Difficile à dire.
+121	Pourtant c'est clair dans son langage corporel : elle ne souhaite pas répondre à une telle question.
+122	Pourtant... l'audace pourrait aussi l'impressionner. Elle a tout l'air de ce genre de personne.
+123	Elle cesse d'écrire.
+124	Sors d'ici - tout de suite. <i>Cours</i> !
+125	On dirait une pause anodine. Sois juste prudent.
+126	Oh oh.
+127	Elle mime un soupir.
+128	<i>L'homme-dieu effacé</i>.
+129	Urth de Norvik.
+130	C'est bien lui.
+131	Alors c'est votre dieu ? Vous le servez, comme moi ?
+132	Non.
+133	Elle lève la main, la pointant vers ta poitrine.
+134	Je sers ses vestiges.
+135	<i>Dzieci Smoków</i>.
+136	Céleste. Signifiant quelque chose comme : <i>les Enfants des Dragons</i>.
+137	Le terme renvoie à la façon dont la plupart des humains furent esclaves des dragons durant des siècles, avant que les Arcanistes ne brisent ces chaînes.
+138	Les dragons ne gouvernent plus nos destins.
+139	Smocko-quoi ?
+140	La cité est bien plus qu'un simple vestige.
+141	Intéressant.
+142	Hm.
+143	Elle est impressionnée.
+144	Ses nombreux yeux te regardent.
+145	Elle ne réagit pas.
+146	Elle n'est pas d'accord.
+147	Pas très honorable comme propos. L'as-tu mal jugée ?
+148	Elle ne laisse aucun mot dans ton esprit.
+149	La Céleste tourne la tête dans ta direction, juste un peu.
+150	Elle est extrêmement curieuse à ton sujet.
+151	Je maintiens mon honneur par le service rendu au Coinlord.
+152	Elle devrait vous servir, vous, plutôt.
+153	Vous devriez me servir <b>moi</b>, plutôt.
+154	On dirait un boulot de merde.
+155	Bien. Restez honorable. Servez bien la cité.
+156	Vous devriez démissionner. Darrow est vraiment nul.
+157	Hah.
+158	Le rire bref résonne dans ton esprit.
+159	Un son étrangement humain, de la part de cette créature étrangère.
+160	Ça lui a plu.
+161	Bien joué, tu l'as fait rire.
+162	Ah. Génial. Elle se moque de toi.
+163	Elle tourne pleinement la tête vers toi. Tu vois à travers la fente de son crâne.
+164	Chaque œil rivé sur ton âme.
+165	Vous parlez comme un homme de pouvoir.
+166	Pourtant je ne vois qu'un enfant.
+167	Ses mots brisent ton <u>ego</u>.
+168	Ton <u>ego</u> est légèrement meurtri.
+169	Peut-être un jour.
+170	Peut-être.
+171	Hm.
+172	Un <i>boulot</i>.
+173	Ce n'est pas un emploi, idiot. En tant qu'ange, elle se doit de rendre un service quelconque. C'est genre, leur truc.
+174	Elle estime n'avoir aucune autre option.
+175	<i>Honorable</i>.
+176	Les nombreux yeux de l'ange se posent sur toi.
+177	Ils s'attardent un moment, avant qu'elle ne revienne à ses documents.
+178	Elle est... amusée ?
+179	OH ouais ! Ça marche. Continue de descendre son patron !
+180	(Se tenir bien droit.)
+181	Il est nul à chier ! Vraiment nul à chier !
+182	Ses nombreux yeux se détournent à présent.
+183	Bon, c'était peut-être un peu trop.
+184	Elle se retourne vers ses documents.
+185	Je suis incertaine sur bien des choses.
+186	Pourtant, pour l'heure, je sers.
+187	Pour le meilleur ou pour le pire.
+188	Sa posture. Elle se détend.
+189	D'un rien, elle s'apaise en ta présence.
+190	Tu as une <i>ouverture</i>.
+191	C'est une créature fascinante. Interroge-la davantage.
+192	Par les dieux, elle est terrifiante.
+193	Oui. C'est une force horrifique et puissante...
+194	Nous y voilà.
+195	Maintenant elle te parlera. Pour de vrai.
+196	Elle travaille encore à ses notes détaillées, son auréole tournant lentement autour de sa tête.
+197	Que savez-vous de l'homme pâle de la morgue ?
+198	Que pensez-vous des gobelins ?
+199	Vous avez une armure très classe.
+200	Vous restez ici toute la journée, ou quoi ?
+201	R-(Apprendre à la connaître.)
+202	E-« Bonne journée, Ettir. »
+203	Non. Je suis occupée, Clerc.
+204	Le gobelin expire.
+205	Soulagement.
+206	Plus tard.
+207	Elle finira par embarquer. Ils finissent toujours par venir.
+208	Si tu joues bien tes cartes, tout est possible.
+209	Déçu. Hautement déçu.
+210	Bien. Tu es assez fort pour porter cette équipe.
+211	Snell en fait <i>beaucoup</i>, en vérité. Tu devrais l'apprécier davantage.
+212	Le gobelin ? Il est bien intentionné, mais ce n'est qu'un peu d'assistance. À peine notable.
+213	Les hommes n'étaient pas faits pour porter le monde sur leurs épaules. Pas seuls.
+214	Merci.
+215	Elle vous en prie.
+216	Elle apprécie ton appréciation.
+217	Elle a répété la façon formelle de répondre à un compliment, car dans sa culture on ne fait pas de telles choses.
+218	Je sais. Je suis très généreux.
+219	Non, merci à <i>vous</i>.
+220	(La fixer.)
+221	Non, Clerc.
+222	Que faites-vous, alors ?
+223	C'est juste. Tu n'es pas vraiment assise, tu flottes plutôt.
+224	C'est exact.
+225	Dans le mille !
+226	Quand le Coinlord ne requiert pas mes services, je m'occupe des archives. De l'aube au crépuscule, en temps normal.
+227	Puis j'effectue une patrouille. Comme le décrit mon contrat de service.
+228	Un bon service rendu à la cité.
+229	Alors... vous restez ici toute la journée. Puis vous sortez toute la nuit.
+230	Ça a l'air ennuyeux.
+231	Ça a l'air amusant.
+232	Ça a l'air... satisfaisable ?
+233	Oui. Je travaille, Clerc.
+234	Ceux de son espèce n'ont pas besoin de sommeil.
+235	Vous êtes incapable de voler, et je suis incapable de vous porter.
+236	Elle ? Te porter <b>toi</b> ?
+237	La pensée te fait aussitôt TRESSAILLIR.
+238	Ok, mon pote, DÉTENDS-toi.
+239	Non, non. Reste concentré sur le fric. Tu gères.
+240	Tu as lancé Vol une fois. Ça n'en valait pas l'investissement.
+241	Et tu as été <shake>malade</shake> en le faisant...
+242	C'est un passe-temps.
+243	C'est une façon de le dire.
+244	<i>Satisfaisable</i> ? C'est le mieux que tu aies trouvé ?
+245	C'est un usage correct du mot.
+246	<b>Oui.</b>
+247	Ces sentiments sont très humains.
+248	Mon service est dévolu au Coinlord.
+249	Elle est liée par le devoir. Mais où repose son cœur ?
+250	Une femme véritablement grande. Louable au plus haut point.
+251	L'heure est venue.
+252	Deviens l'homme que tu étais destiné à être.
+253	PARLE avec l'ANGE.
+254	À propos de...
+255	Tu vas flancher.
+256	Devant les degrés de la divinité, ta virilité s'effrite.
+257	Alors que tu l'interroges sur... euh...
+258	LA RELIGION.
+259	Apprendre à la connaître - en discutant de <i>religion</i>.
+260	LÂCHE.
+261	Ouais. Ouais...
+262	Célestes. Un terme générique pour les créatures nées des et issues des Plans du Bien. Nombre de ces créatures sont éparpillées sur toute la Côte.
+263	La seule civilisation majeure de Célestes se situe à Divinii Torum : la Horde d'Or.
+264	Des créatures bonnes, généralement liées à la lumière radieuse et aux vertus curatives.
+265	Cet ange en est assurément une.
+266	Devrais-je seulement lui parler ?
+267	Je devrais continuer de lui parler.
+268	Je ne devrais pas continuer de lui parler.
+269	Ça dépend. Vas-tu dire ce qu'elle veut entendre ?
+270	Elle <i>est</i> seule. Mais son attitude ne crie pas « Je vous en prie, sociabilisez avec moi. »
+271	Son attitude crie bel et bien : <i>Je vous en prie, sociabilisez avec moi.</i>
+272	Elle repose la plume.
+273	Expliquez-vous.
+274	Un assassin tente de me tuer.
+275	Le type a un masque de fer. Comme un heaume, mais en pire.
+276	Je n'ai vraiment pas grand-chose à vous dire. C'était un type avec une dague.
+277	Son auréole tourne un peu plus vite. « Développez. »
+278	Il apparaît que son niveau de frustration est corrélé à la vitesse de rotation de l'auréole.
+279	Tu ne l'avais pas remarqué jusque-là.
+280	Peut-être que nul doté de l'acuité mentale nécessaire à pareille observation n'est aussi assez stupide pour contrarier un ange.
+281	Oh. Ouais, ça tourne quand elle est furax. Ou excitée.
+282	Son auréole s'immobilise. « Décrivez-le. »
+283	Elle semble intéressée.
+284	Elle hoche la tête et se tourne vers le bureau.
+285	Le masque avait pourtant l'air <i>vraiment</i> ésotérique.
+286	L'ange sort une coupure de journal.
+287	Ceci ?
+288	L'article s'intitule « LE ROUBLARD MASQUÉ, LANCEUR DE SORTS, FRAPPE ENCORE ».
+289	La police de caractères est terriblement ancienne - de l'Ère Arcanique.
+290	Ouah. Regarde !
+291	À côté de l'article se trouve une illustration. Elle ressemble exactement au masque de fer que tu as croisé.
+292	(Hocher la tête et regarder de plus près encore.)
+293	Vous gardez juste ça sous la main ?
+294	C'est daté de 499 È.A. Il y eut de multiples signalements, à des mois d'intervalle.
+295	Chacun un crime ésotérique. Poignardages par téléportation. Contrôle mental.
+296	Intéressant, glisse Snell depuis l'arrière.
+297	Mais aucun signalement rapporté depuis. Et nous n'avons jamais attrapé de coupable.
+298	Et Boule de Feu ? Des incidents impliquant ça ?
+299	Nous ?
+300	Mais ça fait... (Commencer à compter sur tes doigts.)
+301	Alors ce type est revenu pour me hanter ? Génial.
+302	Que devrais-je faire ?
+303	L'assassin avait l'air plutôt incompétent, non ?
+304	M-« Merci pour l'information. J'y penserai. »
+305	Non. Sans quoi je l'aurais évoqué plus tôt.
+306	Bien sûr qu'elle l'aurait fait. Elle est aussi au fait des circonstances entourant le salon de thé.
+307	Pourquoi ? Elle est médium ?
+308	Premièrement, en un sens, oui. Elle parle bien à l'intérieur de ton esprit.
+309	Deuxièmement, non, cela ne signifie pas qu'elle lit ton esprit.
+310	Troisièmement, elle est au fait du salon de thé parce qu'il a explosé. Il serait étrange qu'une professionnelle de la sécurité sur Tolstad l'ignore.
+311	Oh. C'est logique. Merci.
+312	Fais mieux, je te prie. Espèce de <i>sot verdâtre</i>.
+313	Ouin ouin. Ouin <i>ouin</i>.
+314	Je dirigeais l'unité d'investigation sur Tolstad. À l'époque.
+315	Les anges doivent vivre plus longtemps que les humains. Cela aussi mériterait enquête.
+316	Ça fait un sacré bail qu'elle bosse pour ces gens.
+317	Une vétérane.
+318	Il y a trente-neuf ans.
+319	Ouf. Heureusement qu'elle te l'a dit. Tu n'as pas autant de doigts.
+320	Peut-être un jour...
+321	Il te faudrait renoncer au vol à la tire, mais tu pourrais faire payer un bon prix pour exhiber tes mains à quarante doigts.
+322	Tout compte fait, sans doute une bonne chose.
+323	On y reviendra à l'avenir. <b>Absolument</b>.
+324	Ou c'est une copie. Ou le masque est magique. Une forme de possession.
+325	Ou, oui. Le Masqué pourrait être de retour.
+326	Appelle ça le Masqué <i>Deux</i> ! Héh.
+327	Une sorte de suite au premier type.
+328	Ne dis pas ça tout haut, mais tu peux en jouir en privé.
+329	Protégez-vous.
+330	Ouah, merci. Content que tu sois allé voir l'ange pour ce conseil.
+331	Bon conseil.
+332	Ça ne va pas bien finir.
+333	Intéressant. Il pourrait donc s'agir d'une imitation. Ce sera noté.
+334	Si vous pouvez traquer ou éventuellement appréhender le Masqué, ce serait apprécié.
+335	Excellent ! Tu peux gagner sa faveur en capturant l'assassin.
+336	Elle te demande quelque chose ? Tu as vraiment fait impression.
+337	Elle veut cet assassin assez fort pour te demander de le faire. Héh. Au boulot !
+338	<i>Garde l'œil ouvert</i>.
+339	Elle referme le livre flottant devant elle.
+340	<b>Évitez cette créature</b>. Il y a là une ténèbre.
+341	Son auréole tournoie de façon erratique un instant.
+342	On m'a ordonné de ne pas interférer.
+343	Il est trop puissant. Vous devriez le servir, lui, plutôt.
+344	Tant avec le croque-mort qu'avec ses acolytes.
+345	La réputation de l'homme pâle est démente ! Qu'est-ce qu'il est, bon sang ?
+346	C'est sûrement un puissant magicien qui se cache.
+347	Il y a assurément quelque chose d'étrange chez lui.
+348	Oh. Mais il a l'air d'un type si normal !
+349	Des acolytes ?
+350	A-t-il quelque chose à voir avec le salon de thé ?
+351	Ne devrais-je pas le surveiller, alors ?
+352	Est-ce un magicien ?
+353	Qu'est-il ?
+354	D'accord. Bonne info, merci.
+355	<b>Évitez. Visken</b>.
+356	Des mercenaires. Des créatures qui rôdent en contrebas. De sombres esprits.
+357	Ils sont officieusement tolérés. Nul ne s'oppose à leur présence, car Visken les tient en laisse.
+358	Huh. Une raison de plus de ne pas se mettre en travers de Visken.
+359	Ne les affrontez pas, sauf contrainte.
+360	Peu probable.
+361	Visken est une présence ici depuis près de quatre décennies, à ma connaissance. Durant tout ce temps, il n'a jamais causé le moindre trouble.
+362	Au-delà de cela, Visken est aussi en étroite coopération avec la Tribu du Pont à Mi-Chemin. Puisqu'ils sont les principaux moteurs de cette investigation, il serait étrange que Visken en soit l'instigateur.
+363	Cependant, si vous trouvez la moindre preuve de son implication, faites-le-moi savoir.
+364	Si vous le souhaitez.
+365	Je conseille de ne pas s'y frotter.
+366	Ne fais pas ça. Tu vas juste t'attirer des ennuis.
+367	Ne fais pas ça. Tu n'as pas les compétences nécessaires pour vraiment contrer ce type. Il est d'un tout autre acabit.
+368	Peut-être que si tu joues bien tes cartes, tu peux en tirer quelque chose ?
+369	Bien sûr.
+370	Au mieux, c'est un Arcaniste faible.
+371	Au pire, c'est un Arcaniste puissant.
+372	Un qui a survécu à la Guerre de la Côte ? Voilà qui serait... intéressant.
+373	Un véritable Arcaniste serait fascinant. Ce n'est pas impossible à imaginer.
+374	Elle rouvre son livre.
+375	Ne vous y frottez pas. Tel est mon conseil.
+376	De quelle information avez-vous besoin ?
+377	...Faites comme si je n'étais pas là.
+378	Il s'enfonce encore davantage dans le coin de la Tour de Garde.
+379	Comment sont-ils, vous savez, en tant que peuple ? Ici sur Tolstad ?
+380	Puis-je faire confiance à leur chef ?
+381	Que <i>font</i> les gobelins... ici ? En général ?
+382	M-« J'ai aussi d'autres questions, sans rapport avec les gobelins. »
+383	Faibles de volonté et sans pouvoir en tant qu'individus.
+384	Une créature qui survit par la dépendance au groupe, et aux créatures plus grandes.
+385	<i>Aïe</i>.
+386	Je suis d'accord. Une juste description des gobelins.
+387	Merci du partage.
+388	Il t'adresse un hochement de tête accompagné d'une expression qui dit : « Lèche encore un peu plus de bottes, tant que tu y es. »
+389	Ses yeux te lorgnent.
+390	Je décrirais les humains de la même façon.
+391	Tu entends un gloussement à l'arrière.
+392	Elle te traite de faible ? Pas acceptable.
+393	Elle dit vrai.
+394	Ouais, c'est ça. Comme si tu valais tellement mieux.
+395	Juste. Nous sommes faibles seuls. Forts ensemble.
+396	Intéressant. (Croiser les bras.)
+397	Je ne suis pas faible. Je suis fort.
+398	Non. Je ne le suis pas.
+399	Elle hoche lentement la tête.
+400	Un homme fort n'a pas besoin de le dire.
+401	Cela se prouvera avec le temps.
+402	Mais je ne le vois pas comme un défaut.
+403	Chaleur. Son âme s'ouvre.
+404	La voix s'adoucit.
+405	L'humilité et la confiance sont des traits importants, en chacun. Pour chacun.
+406	Tout à fait d'accord.
+407	Oui. Ses mots sonnent juste.
+408	J'imagine que c'est une tendre, finalement.
+409	Huh. L'ange a de drôles de vues.
+410	Ainsi parle une véritable Céleste, liée par des idéaux désintéressés.
+411	Voilà ce que je pense. Quoi d'autre ?
+412	Dame Sageleaf est une puissante créature.
+413	Ne badinez pas avec elle - ni avec ses pions.
+414	Ses nombreux yeux lorgnent le gobelin dans le coin.
+415	Son comportement est irréprochable et hautement acceptable. Cependant, elle se mêle bien de sombres agissements quand il le faut.
+416	Hé. Je ne dis pas le contraire. Ne cherche pas la Vieille Dame.
+417	Elle te regarde quelques secondes.
+418	Accomplissez vos devoirs et partez. Tel est mon conseil.
+419	Elle est maligne.
+420	Éviter les gangs de ce genre est la seule façon décente de se préserver.
+421	Ils te mâcheront et te recracheront.
+422	Si la préservation est ton seul but, tu dois viser plus haut.
+423	Tu peux accomplir de grandes choses du côté obscur de la loi. Si tu es prudent, bien sûr.
+424	Les gobelins accomplissent des travaux manuels tels que le service de milice, la construction, divers services publics, la distribution du courrier, et tiennent nombre de périmètres défensifs dans la Cité d'En Bas.
+425	Au cours de la dernière décennie, ils ont pris presque tous ces postes sur Tolstad.
+426	Il pointe l'ange. « En plein dans le mille. » Puis il baisse vivement la main en se rappelant qu'il pointe un ange, littéralement.
+427	Ils sont aussi surreprésentés dans les statistiques criminelles, et plusieurs fois plus enclins à rejoindre et former des syndicats du crime que la population humaine ou naine en général à travers la cité.
+428	Il claque la langue. Dans le coin lointain.
+429	Cela semble dû principalement à des zones d'habitation ségréguées, à un manque d'accès aux emplois mieux rémunérés, et à des éléments culturels généraux. Les gobelins sont une partie troublée mais qui s'intègre lentement à Norvik, d'après ce que j'ai observé.
+430	J'ajouterais aussi que ces éléments culturels généraux nous ont été inculqués directement par le Plan d'Éducation Norvikien.
+431	C'est exact. L'effacement culturel des gobelins fut la tentative d'Urth d'éviter cette situation. Je dirais qu'elle a échoué.
+432	Et comment.
+433	(Te sentir gêné.)
+434	Il apparaît que c'est un sujet hautement politisé. Je m'excuse si je vous ai mis mal à l'aise.
+435	Elle a raison.
+436	Les gobelins sont assurément source d'ennuis. Dame Sageleaf a manifestement assaini Tolstad, mais la plupart de tes autres rencontres avec des gobelins ont été plutôt déplaisantes.
+437	Ou, peut-être, l'<i>assainissement</i> a été le résultat d'un meilleur accueil des gobelins sur Tolstad ces dix dernières années.
+438	Un accueil <i>quelque peu</i> meilleur.
+439	Les gobelins sont effrayants. Ils t'effraient.
+440	Tu effraies les gobelins.
+441	Ce sont des <i>gobelins</i>. Ils vont faire ce que font les gobelins.
+442	À quoi s'attendait Urth en les menant dans sa cité ?
+443	Qu'ils se transformeraient par magie en citoyens modèles ? Qu'ils grandiraient de cinquante centimètres et pâliraient ?
+444	Idiot. On ne façonne pas les gens à la truelle comme des briques.
+445	Le bleu a raison. C'est réconfortant de-
+446	Urth aurait évidemment dû rééduquer par magie chacun des gobelins en serviteurs sans esprit. Ç'aurait été pérenne - et efficace.
+447	Oh non...
+448	Ce n'est pas très réconfortant.
+449	Oui. Quoi d'autre ?
+450	Imposante.
+451	<i>Éthérée</i>.
+452	Sa voix télépathique descend de plusieurs octaves.
+453	Tout le long de ton dos... ta COLONNE.
+454	Ça te fait frissonner les <shake>bourses</shake>.
+455	C'est ta chance. Fais tes preuves.
+456	Montre au monde : la montagne PEUT ÊTRE GRAVIE.
+457	Dire ce qu'il faut.
+458	<shake>Laisse tomber, en fait</shake>. (Reculer physiquement.)
+459	Ses nombreux yeux te fixent durant environ trois secondes et demie.
+460	Puis elle dit : « D'accord. »
+461	Cette femme...
+462	Elle n'est pas du genre à apprécier qu'on lui <i>parle sans écouter</i>.
+463	Ni du genre à goûter la flatterie. Évidemment.
+464	Elle est étrangère. À toi et à cet endroit.
+465	Ça va être un petit défi.
+466	Mais je peux trouver quoi dire, pas vrai ? Il me faut une relance !
+467	Tu lui as bien fait quelques compliments. Même s'ils ne sont peut-être pas appréciés comme tels.
+468	Alors maintenant, à regret, il ne reste plus qu'une chose à faire.
+469	Il est temps de dégainer le <i>coup secret</i>.
+470	Oh non.
+471	Oh que oui.
+472	Il est temps d'être <i>sincère</i>.
+473	(Lever les yeux vers l'ange.)
+474	Ses yeux te fixent, dans l'attente des mots que tu lâcheras ensuite.
+475	(Te racler la gorge.)
+476	Tu entends la voix télépathique dans ta tête.
+477	<i>Clerc</i>.
+478	R-« Je vous trouve très <i>belle</i>, et j'aimerais parler davantage avec vous. »
+479	(Hurler intérieurement.)
+480	Oui, oui. C'est douloureux. Passe outre.
+481	Elle n'est manifestement pas du genre à profiter de ta vulnérabilité.
+482	Alors vas-y... lance-toi !
+483	La voix répète le mot à moitié avant de s'arrêter dans ton esprit.
+484	Un à un, les yeux rotatifs commencent à se détourner de toi, se fixant sur les murs, le plafond, et le fatras encombrant la tour de garde.
+485	Tout sauf toi.
+486	Tu l'as de nouveau troublée.
+487	Elle est sincèrement troublée.
+488	En bien ou en mal, tu as assurément un effet sur elle.
+489	Maintenant demande-lui ce qu'elle pense de toi !
+490	Maintenant, quoi que tu fasses, ne perds SURTOUT pas ton assurance.
+491	Tu m'as entendu. (Se tenir bien droit.)
+492	Alors... que pensez-vous de moi ?
+493	Vous pouvez y réfléchir.
+494	NON ! Ne fais pas ça, elle va-
+495	L'ange répond par de courts mots glacials.
+496	Je n'en pense rien.
+497	Ce sont des couteaux de glace dans ton abdomen.
+498	Je vous ai cerné, Clerc.
+499	Son expression froide ne change pas, mais l'auréole rotative d'yeux se met à tourner de plus en plus vite.

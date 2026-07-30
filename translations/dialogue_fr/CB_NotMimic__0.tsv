@@ -1,0 +1,501 @@
+idx	prefix	english
+0		The mimic unveils its appearance from the sign. 
+1		"Big steely man!" 
+2		"And smaller, pretty man!" 
+3		The goblin clearly, and outwardly, cringes. 
+4		You stare at the sign. 
+5		Your companion joins in on the staring as well. 
+6		It does indeed say, <i>Not A Mimic</i>. 
+7		It speaks to you. 
+8	DC18 con-	What speaks to me? 
+9		Who put this sign here? 
+10		So I'm assuming the chest is a mimic, then? 
+11	ROLL13 int-	Figure out what's off about this whole setup. 
+12		(Touch the sign.) 
+13		(Look at the sign.) 
+14		E-Hm. 
+15		The <i>maw</i>. 
+16		It is waiting. 
+17		But do not fear. 
+18		It is a friend. 
+19		Look, the stomach says what it wants to say. 
+20		Sometimes the bones speak truth. 
+21		But this time, you are not so sure what that truth even means. 
+22		<i>Friend</i>. 
+23		An interesting question. 
+24		Could be a team of sign-makers who go around the City Below planting helpful signs. 
+25		That would be lovely. 
+26		However, there is most likely a more esoteric explanation. 
+27		There are many mysteries in the City Below. Including the shifting tunnels, and strangely intense esoteric pockets. 
+28		Normally magic like this would be quite rare this close to the Coast, but the City Below is special. 
+29		So this sign could very well be a manifestation of an esoteric event. 
+30		In other words, the sign could very well be a natural phenomenon of Jor. 
+31		The sign clearly says the opposite. 
+32		The sign appears to point towards that, yes. 
+33		However, this whole area is clearly esoteric in nature. So beware. 
+34		"My 'goblin buddies'?" 
+35		He does not enjoy the tone of that phrase. 
+36		"Yeah, you know. The <i>gobros</i>." 
+37		"Do you not have any friends, Snell?" 
+38		"Just answer the question." 
+39		"The what now?" 
+40		Does he not know the lingo? 
+41		"The <i>grubgobs</i>." 
+42		He glares at you. 
+43		Try some others. 
+44		"The <i>gobbuds</i>?" 
+45		"Your <i>snagglepals</i>?" 
+46		"Uh... like, <i>gremleenies</i>?" 
+47		"What about <i>ghoulies</i>?" 
+48		The goblin holds up a finger. 
+49		"Don't use that word anymore." 
+50		"Oh. Is that a goblin-only word?" 
+51		"No, not at all." 
+52		"But it doesn't mean what you think it does." 
+53		"Beyond that..." 
+54		He's just like you. 
+55		For real. 
+56		"That's not-" 
+57		He stops himself. 
+58		"No, Cleric." 
+59		"I can guarantee: <i>no one</i> from the Halfways put this sign up." 
+60		(Grab the sign.) 
+61		(Don't grab the sign.) 
+62		Hold on. 
+63		Hold ON. 
+64		What? 
+65		Look at the sign. 
+66		I've been doing that for a while now. What about it? 
+67		Ask yourself one basic question. 
+68		<b>How is the sign attached to the wall?</b> 
+69		Well, obviously it's... the nail. Up there. 
+70		Yes. But look at it. 
+71		(Inspect it closer.) Oh. It's not...? 
+72		That nail is not attached to the wood. Nor does it hang upon anything else apparent. 
+73		Could be attached at the back? 
+74		That would be a strange way to hang a basic sign like this. 
+75		That's true. 
+76		A man would just hammer right through it. 
+77		More importantly, why would the rope still be erect in this fashion? 
+78		It is as if someone attempted to create a facsimile of a hanging sign, and did not think through all the logical steps involved with why each piece is assembled. 
+79		So... what about it? 
+80		It's suspicious. 
+81		Yeah, that much was obvious from the start. What do I do about it? 
+82		See those pebbles on the ground? 
+83		Toss one of them at the sign. 
+84		A basic test of corporeality. 
+85		Corpo-what? 
+86		(Toss a pebble at the sign.) 
+87		(Just grab the sign instead.) 
+88		Just do it. 
+89		No! 
+90		Nope. 
+91		You have no idea. 
+92		But you should probably be careful. 
+93		You should see if there is something behind the sign, perhaps? 
+94		You do notice a slight gap at the side of the sign. 
+95		A gap in the wall. There's something behind it, perhaps. 
+96		Mm. 
+97		Hm? 
+98		Why do I feel like I could... touch the sign? 
+99		It is but one possibility out of many. 
+100		Perhaps you should think about it first. 
+101		Think about it a lot. 
+102		That is the only way to truly investigate something. 
+103		Not true. 
+104		You can use your eyes as well. 
+105		It is a sign. 
+106		It says, 'Not A Mimic.' 
+107		The second your gloved hand touches the surface of the sign, you realize something is off. 
+108		Mainly because it's soft. 
+109		And then... 
+110		The many, many long teeth dig into your hand. 
+111		Breaking the skin, crushing the bone. 
+112		"I <b>knew it</b>!" 
+113		No he didn't. 
+114		A dozen eyes spawn from nowhere across the wooden surface, which is quickly turning rubbery and wriggling. 
+115		(Scream and flail.) 
+116		Your hand is stuck, nailed within the maw of the Beast. 
+117		"I'm on it!" 
+118		It lets out a gurgling chortling noise as it vibrates upon the wall. 
+119		Friend. 
+120		You need to prove yourself here. Take the pain! 
+121		Go deeper! 
+122		As the creature chews upon your flesh, you seem to recall an interesting factoid. 
+123		NOT THE TIME! 
+124		It's always time for knowledge. You see, you once read that if you are bitten, lock-jawed by a Beast like this, there's only one thing you should do. 
+125		Shove the hand deeper. 
+126		Yes. YES. 
+127		It's risky. But going deeper might just work. 
+128		Whatever you do: do NOT touch it with the other hand. 
+129	ROLL12 dex-	Wriggle your hand free. 
+130	ROLL10 con-	Shove your hand in deeper. 
+131		The fist hits a soft surface, and immediately gets stuck. 
+132		The mimic makes a gurgling satisfied noise. 
+133		"Damn it! Don't make it worse!" 
+134		Wait! 
+135		WHAT IS IT? 
+136		Push and pull! In and out! Quick! 
+137		(Push in your hand a little, and then pull back.) 
+138		As you jolt your arm forward, the many sharp little teeth are actually tugged out of your flesh. 
+139		Then... you pull back! 
+140		Your hand escapes the maw of the Beast. 
+141		The slightest touch leaves you unable to control your arm. 
+142		As you attempt to wriggle, it causes incredible pain to shoot down your arm. 
+143		Shit. You need another method. And quick! 
+144		The pain is intense. 
+145		It gnaws at you. 
+146		Embrace it. 
+147		(Ram your entire arm into the maw.) 
+148		As you push your arm forward, the many sharp little teeth are actually tugged out of your flesh. 
+149		(Go deeper.) 
+150		The creature's many eyes go wider and wider. 
+151		As the teeth begin to scrape against your elbow, it begins making a squealing, wet noise.  
+152		Like a squirrel choking on nuts. 
+153		Heh. Nuts. 
+154		Then... its maw widens as well. 
+155		It's letting you go! 
+156		See? Friend. 
+157		(Pull out your arm.) 
+158		With the teeth just barely not slicing your entire arm into strands of flesh, you quickly rip it out of the mimic's maw. 
+159		It is left wheezing and gargling upon the wall. 
+160		An incredible pain. What feels like a thousand little knives wriggling around inside your arm. 
+161		You cannot handle much more of this. 
+162		Your arm is going numb. That will help. 
+163		He's already grabbing a nearby rock, and slamming it against the Beast's open eyes. 
+164		"Just... try to get out of its grip!" 
+165		"But without losing your damn arm!" 
+166		So demanding. This goblin. 
+167		Your arm is a heroically charged muscle-vessel. No aberration will consume it without a <b>fight</b>. 
+168		No one will consume it at all, preferably. 
+169		It is a friend. Be close. 
+170		Shut the fuck up! 
+171		Stumbling back, you hold your bleeding hand. 
+172		The goblin steps in between you and the monster. "Get back!" 
+173		Its many eyes focus on you two, and then... 
+174		You grab a pebble off the floor and lightly toss it towards the sign. 
+175		Expecting it to bounce right off - it instead... just stops. 
+176		It gets stuck on the surface of the sign. 
+177		Whoa. 
+178		"Whoa." 
+179		That's a... it's soft? 
+180		The pebble stopped as if it hit a wall of soft, sticky honey. 
+181		"Huh?" 
+182		As you watch the pebble just sit there on the sign- you also see something emerging. 
+183		An eye staring at you. 
+184		"I knew it!" 
+185		(Point at it and shout.) "A mimic! A real-life MIMIC!" 
+186		"Right-o! Hold ON...!" 
+187		It speaks in a harsh, sharp tone. 
+188		It speaks? 
+189		"You CAN NOT sneak UP on <i>one</i>!" 
+190		"Some-times my mouth cannot contain. It is <wiggle>HUNGER</wiggle>!" 
+191		"Appears there are eyes upon me." 
+192		"Me who hide in <wiggle>PLAIN-SIGHT</wiggle>." 
+193		Interesting. There have been documentation of mimics bred for greater intelligence. 
+194		But they are commonly seen as extinct in the current Postwar Era. 
+195		"It- I- you can talk?!" 
+196		(Raise your fists, get ready for a fight.) 
+197		"Talk and think and breathe and bite- I do I do." 
+198		"All time!" 
+199		"Apology, apology! It is what... what it is!" 
+200		"Oh. I am Mimic? That is why?" 
+201		The goblin holds up a hand. "I mean, yeah. That makes sense." 
+202		"No! No!" 
+203		"Peace then! Peace upon thee!" 
+204		Be friend. 
+205		Alright, then. It's time. 
+206		Talk this bad boy over to your side. You can do it. 
+207		"I honestly did not expect you to talk. This is kind of throwing me off a little." 
+208		"You are a monster. You must be destroyed, clearly." 
+209		"Do not talk often, no! But you understand?" 
+210		"Yes, I understand you." 
+211		"Well. You speak strangely." 
+212		"Understand! That is good." 
+213		"Ah! Mimic-dialectical it is." 
+214		"In colony, we speak good. Nice, forward." 
+215		"Using mouth is... not as speak good." 
+216		"Peace upon big man with steel hide!" 
+217		"Peace upon big steely man and smaller, pretty man!" 
+218		"That's... hm." 
+219		"Didn't expect to be called 'pretty' by a mimic today." 
+220		"You don't want to be destroyed?" 
+221		"I've not heard of monsters calling for peace before." 
+222		"Uh- yes! It is... as they say, sub-jective!" 
+223		"Don't seek approval from this thing, Cleric." 
+224		"No! Negative! Do not want!" 
+225		"Okay. Now you do: Peace!" 
+226		Peace out, brother. 
+227		The thing might be hideous, but it's not outwardly aggressive right now. 
+228		If you want to reach out to it properly, try to mimic its speech pattern. Pun intended. 
+229		Hm. Yes, this monster is not mindless. And while its intentions seem to stem from survival, that is not the most evil of leanings. 
+230		Perhaps you can, indeed, hear it out. 
+231		Can you trust a monster built to trick people to death? 
+232		"I want some information out of you, monster." 
+233	DC10 con-	"Are... you... <i>friend</i>?" 
+234	FC10 con-	"So... you are... friendly?" 
+235		R-(Punch it in the central eye.) 
+236		"Yes! You will!" 
+237		"I want offer deal!" 
+238		Its eyes stare at you, unblinking, as its maw slowly opens. 
+239		"I... am... <wiggle>FRIEND</wiggle>." 
+240		FRIEND. 
+241		The creature makes a nodding-like motion. 
+242		"I... am!" 
+243		Central eye! 
+244		Well then. Time to talk. 
+245		"Look," the goblin says, turning away from the monster. "I wouldn't trust this thing at the end of a ten-foot pole, however..." 
+246		"If you can get some nice info out of it..." 
+247		He shrugs. "Trust but verify, right?" 
+248		"So..." 
+249		The mimic looks around. 
+250		"I- we- I-" 
+251		"Mission! Wizard told to guard. Stash!" 
+252		A... stash, eh? 
+253		"But room change place. Chamber shift. Time <wiggle>PASS</wiggle>." 
+254		"So... Guard Meek moves. Feeding. Guarding. From people coming from not-dungeon." 
+255		The poor little guy has been stuck down here for a very long time. 
+256		This monster is... following orders? 
+257		That actually sounds quite honorable. 
+258		"But Meek can talk! Talk a lot! Ask Meek!" 
+259		"Your name is Meek?" 
+260		"Must be lonely down here." 
+261		"What do you know of this place?" 
+262		"How can you talk?" 
+263		"So you're guarding something?" 
+264		"Where do you come from?" 
+265		What am I supposed to do with this thing? 
+266	ROLL10 cha-	Convince the mimic to join your party. 
+267		I can... ask it to join the party? Really? 
+268		(Look firm and stoic.) "<b>Give me the stash</b>." 
+269		R-"I'm tired of this." (Just punch it.) 
+270		"I'll be back later. Don't leave the city." 
+271		"Meek! Yes!" 
+272		"That's a great name." 
+273		"That's a terrible name." 
+274		"Eh." 
+275		"Yes-yes!" 
+276		"Yes!" 
+277		"No no." 
+278		The mimic's gaze dances across the room for a bit. 
+279		"I mean, yes! Or no. You are not-nice." 
+280		"He's about as indecisive as you." 
+281		Don't be mean. 
+282		You hurt the little guy's feelings. I'm not sure that's in your best interest here. 
+283		"Eh?" 
+284		"<i>Eh</i>?" 
+285		"Eh..." 
+286		"Ah! Not alone always." 
+287		"Colony is somewhere in past and west. Long time spent in colony." 
+288		"Most are very dumb in colony. They do not enjoy smart." 
+289		"They kick out. Not <wiggle>allowed</wiggle> to smart." 
+290		"You were kicked out because you were too smart?" 
+291		"Anti-intellectualism truly is a cancer upon our realm." 
+292		"Yeah, you do sound pretty annoying." 
+293		The mimic clasps its many teeth together. 
+294		"It is <wiggle>CURSE</wiggle>. Smart-curse." 
+295		How strangely relatable. 
+296		"Anti... inte? Intellec- intellectually?" 
+297		"Not good, no!" 
+298		"Anno- annoy-ing?" 
+299		The mimic lets out a sharp growl. 
+300		"No. You." 
+301		He got you there. 
+302		"I know much! Or..." 
+303		It shifts around a bit, swaying its gaze. 
+304		"I know danger and secret." 
+305		"Place is full of danger and secret. Master told much, and shared little." 
+306		"But Meek knows! Meek knows!" 
+307		The mimic could be useful if it shared its secrets. 
+308		At least if this master is, as you suspect, a wizard. 
+309		"Talk? Master made Meek talk!" 
+310		"Master?" 
+311		"Master Haggi- Haggi- <wiggle>HAGGINSHAGS</wiggle>!" 
+312		"Hagginshags? That's one of those Arcanist families, right? Must be an old mimic." 
+313		Indeed. 
+314		That is one of the great Arcanist families. This mimic must be old. Very old. 
+315		They are supposed to be gone by now. 
+316		The Hagginshags fell with their empire. The one this mimic speaks of would have to be either an imposter, or... a survivor. 
+317		"Yes yes!" 
+318		"Most stash is gone. Lost. Or Master took." 
+319		"But some is here here!" 
+320		"Can I have it?" 
+321		"Where is your master?" 
+322		M-Seems like the mimic is a pretty decent guardian. 
+323		"No no! Only Master take stash!" 
+324		"Not here!" 
+325		"Not, not here." 
+326		"Master gone. Meek alone!" 
+327		You relate more to this monster right now than you do with most humans on the streets of Norvik. 
+328		Indeed. A good wizard's pet. 
+329		Every wizard requires a familiar. 
+330		Guardian? Yes. Like a familiar of sorts. 
+331		A bit too good. 
+332		"Master! Lair!" 
+333		"It is not close. Place change. Shift." 
+334		"Here is not where once was and will be." 
+335		Suddenly a very complicated sentence. 
+336		The mimic is a spontaneous poet. 
+337		Take the stash, of course. 
+338		It might be unorthodox, but... 
+339		There's surely a way to convince this creature to help out. 
+340		All monsters need to be defeated. However... 
+341		This one does not seem so bad. 
+342		This one appears too strange and dangerous for your abilities. 
+343		An idea! Okay, an idea. 
+344		Yeah?! 
+345		To understand this mimic, you have to... try to <i>become</i> the mimic. 
+346		Oh no. 
+347		I understand. (Attempt to blend into the environment.) 
+348		"...Cleric?" 
+349		Your instinct is to curl up on the floor. Naturally. 
+350		Being completely still. 
+351		(Spend 10 minutes like this.) 
+352		As the time passes, you slowly rise again from new ball-shape. 
+353		"Hm? Oh, you're done?" 
+354		You stretch your limbs, feeling the power of actually moving - and not being still. 
+355		This is idiotic. 
+356		"Steely man move? Alive? Yes! Good!" 
+357		You now know a little more of what a mimic life is about. 
+358		Mostly, it is feeling pain in your limbs upon a hard stone floor. 
+359		Right. So... will this help? 
+360		We'll see. 
+361		It might, actually. Spending some time on the floor did allow you to think about the life of this mimic. 
+362		But of course, you still need to- 
+363		You gotta try again. Find one of those shards or something. They usually help. 
+364		Those 'shards' are esoterically aligned String-warping artifacts. 
+365		Yeah, yeah, whatever. Just use one! 
+366		You can do anything. You're <b>The Cleric</b>. 
+367		It would help to have more allies. If you can call a mimic, <i>ally</i>. 
+368		It would be a lot to handle. But... 
+369		If you can get the creature to just hang about and share its 'info', then... why not? 
+370		A mimic would be a decent familiar. 
+371		The goblin, however, has not proven to be a sufficient servant. 
+372		Snell glances at you as you stand there, in silence. 
+373		Within the goblin's spirit: a subtle feeling that you're 'shit-talking' him. 
+374		"No no!" 
+375		Damn. Your stoic stance must have been too meek. 
+376		Damn. If only asking for loot worked more often. 
+377		Actually, no, that would remove half the fun. 
+378		"Explain why you can't just give it to me. Be rational." 
+379		"That's fair. Sorry for asking." 
+380		(Make a long, drawn-out groaning sound.) 
+381		The mimic's many eyes just stare blankly forward for a while. 
+382		Then it says, "I, I, I..." 
+383		"Yes?" 
+384		"Stash is Master's!" 
+385		"You are not Master." 
+386		That is, in fact, a good argument. 
+387		"I could be your new Master." 
+388		"What if I attack you? Could I get it then?" 
+389		"That that-" 
+390		The monster's mouth hangs open as it freezes mid-speech. 
+391		"Confusing. Are you good Master? Potenti- potenti-ally?" 
+392		"Very good. In fact, the best. The best Wizard-master ever." 
+393		"Arguably okay." 
+394		"Not really, if I'm being honest." 
+395		"The best? That is big!" 
+396		"Big big!" 
+397		"Okay? Okay can work." 
+398		"Honest? Good!" 
+399		"Master who lie is bad!" 
+400		The guy sure likes to view things from a good perspective. 
+401		Master of a friend. Yes. 
+402		"Possible!" 
+403		"Many have fought. I eat some. I run some." 
+404		"Would you run or flee from me?" 
+405		"Question is good." 
+406		"In this, in this case, I would run." 
+407		"Run fast." 
+408		"Good good!" 
+409		The mimic stares at you. 
+410		(Make another long, drawn-out groaning sound.) 
+411		The mimic repeats your sound. 
+412		"Aaaouuughh..." 
+413		A poor imitation. You hope. 
+414		"Okay!" 
+415		(Leave it.) 
+416		Right. 
+417		Well, this might seem pretty simple at this point. 
+418		But you gotta convince this thing that you'll be its new master. 
+419		Oh! 
+420		And you do that by... well... 
+421		"Hey, mimic! Uh... Meek!" 
+422		"When was the last time you saw your Master?" 
+423		"Master? Yes yes! Master was-" 
+424		It fidgets on the wall. 
+425		"Master had a- Master say, Meek should- then..." 
+426		"Hm. Meek not see Master for long." 
+427		"Long long." 
+428		There we go. You made those gears start turning. 
+429		Now hit him with the big one. 
+430		"Your old master is gone, Meek." 
+431		"Oh. But but...!" 
+432		"No buts. He's gone. But it's okay. I will be your new master." 
+433		"Oh...!" 
+434		The mimic's eye goes wide, revealing a horrifying mess of shiny pupils. 
+435		Then it begins to shake. 
+436		"No, that does not, does not not." 
+437		"What?" 
+438		"Only Master can order. Old order, still fresh order." 
+439		Hm. Maybe ask... 
+440		"What exactly was the order?" 
+441		"Order? Master talk: 'Guard Meek guard stash. Guard Meek only order by Master.'" 
+442		Hm. Well, there's a loophole there. 
+443		"You're 'Guard' Meek?" 
+444		"Guard is... title." 
+445		"<wiggle>Title is Guard</wiggle>." 
+446		"So if you stop having that title, then you're no longer Guard Meek. And thus you don't need to follow the orders." 
+447		Meek stares at you for a moment. 
+448		It turns to your companion as well. 
+449		"Uh. Sounds logical to me?" 
+450		"Yes. Yes! That work!" 
+451		"But but... Meek is Guard Meek." 
+452		"Not anymore! By the power granted to me by the City of Norvik, I now officially deputize you, Mr. Meek." 
+453		"Whaaat?!" 
+454		The mimic jolts around on the wall. 
+455		"Your new title is now <i>Deputy Meek</i>. Congratulations. Wanna join the party?" 
+456		A horrid screeching sound is emitted from the monster as it leaps towards you. 
+457		"Shit-shit!" the goblin yells and steps back. 
+458		(Embrace it.) 
+459		Within a moment, you realize that the mimic has left its pose. 
+460		And turned into a cloak. 
+461		"Cloak cloak! I am!" 
+462		"If danger, I tell!" 
+463		A familiar has joined your party. 
+464		Keep familiars equipped to gain bonuses in dice checks. 
+465		"Depu- Depu-ty Meek at service!" 
+466		"...Are you sure that's safe?" 
+467		E-"Let's go!" 
+468		"Yes yes! Little-little guy!" 
+469		"Mm-hmm. Ah, fuck it. I'm sure it'll be fine." 
+470		"Let's <i>keep the mimic around</i>. Why not?" 
+471		He mutters to himself, "<i>I can write a book on famous last words after this whole thing...</i>" 
+472		Your gloved fist makes contact with the monster before it's able to react. 
+473		It lets out a piercing howl. 
+474		And then bites you. 
+475		In the same motion, the creature slips right off the wall, using its sticky back to grab as much as it can in the process. 
+476	ROLL6 dex-	The loot! Try to grab the loot! 
+477		(Let it go.) 
+478		You quickly swipe at the aberration as it scurries across the floor. 
+479		"Away away! <wiggle>FUCK YOU!</wiggle>" 
+480		A bag. 
+481		It's a bag! 
+482		(Grab it.) 
+483		Before the mimic escapes through the tunnels behind you, you see the old leather bag it's dragging around, and... 
+484		You get a hold of it. 
+485		Then the mimic quickly disappears, its scream echoing down the hall. 
+486		(Loot the bag.) 
+487		Some crowns! 
+488		Nice. 
+489		And there's something left in the hole in the wall. Take a look. 
+490		E-"Loot... acquired." 
+491		You quickly attempt to swipe at the aberration as it scurries across the floor. 
+492		"Away away! <wiggle>DRAT YOU!</wiggle>" 
+493		(Stumble.) 
+494		As the mimic escapes through the tunnels behind you, you see an old leather bag being dragged around behind it. 
+495		Damn it! It's gone! 
+496		You watch as the mimic rushes away, its scream echoing down the hall. 
+497		(Get up and dust yourself off.) 
+498		"Okay, sorry for not helping there. I really didn't expect that." 
+499		"But hey. It didn't bite your face off, right?" 

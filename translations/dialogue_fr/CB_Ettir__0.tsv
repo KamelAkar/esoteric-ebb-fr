@@ -1,0 +1,103 @@
+idx	prefix	english
+0		The porcelain specter hangs delicately in the air before the pillar. 
+1		Her face is lit up by the dungeon glow. 
+2		"Cleric." 
+3		"Snell." 
+4		"Yo." 
+5		The goblin shoots her a finger gun, before quickly retracting it and taking a step back. 
+6		He finds her horrifying. 
+7		"Hello, Ettir." 
+8		"What are you doing down here?" 
+9		(Wave.) 
+10		"Yeah," he mutters from the back. 
+11		"I'm just that kind of goblin. Shy as can be." 
+12		He takes another step away from you. 
+13		Her halo spins slightly off her head, its eyes gazing up and below. 
+14		"It changes." 
+15		"<i>Miasto Głêbin</i>. It is in constant flux." 
+16		<i>The City Below</i>. Celestial tongue. 
+17		"I'm not too much of a dungeoneer." 
+18		"Yeah, I've heard." 
+19		(Look around.) "Like, right now?" 
+20		"Day by day, little by little." 
+21		"What remains constant is the tamed quarters. The halls people wander." 
+22		"The Coinlord wishes this to be apartments one day." 
+23		"He wishes to tame it all. This City Below." 
+24		"He won't be able to. Too many monsters." 
+25		"Smart. It's prime real-estate." 
+26		"Would be a lot of trouble. This place is way too esoteric." 
+27		"Yes." 
+28		"The Pest Control Guild is busy as is." 
+29		"<i>Fortune favors the bold</i>. Magistrate Darrow speaks as such." 
+30		A cliche saying. Suits him. 
+31		"I patrol the halls at intervals. The Tolstad tunnels are well-kept due to Lady Sageleaf." 
+32		"Damn straight." 
+33		He looks proud. 
+34		"However, Tolstad is a strange case. The Pillar acts as a beacon. A center for esoteric activity." 
+35		She places a cold, porcelain hand on the stone. 
+36		"Cleric. Do you know how far it goes?" 
+37		Dangerous question. She's challenging your intellect. 
+38		It will <b>hurt</b> if you admit it. 
+39		You've read about the City Below. Recall it. 
+40		You know more than this divine harlot will ever learn. Just recall it! 
+41		<i>Harlot</i>? That was not very nice. 
+42		Is that not what they are called these days? 
+43		Oh, how the times have changed. 
+44	ROLL8 int-	Understand the dungeon. 
+45		"I have no idea." (Don't try to understand it.) 
+46		She nods. "It goes even deeper. But that is where it meets solid earth." 
+47		The City Below is a vast, untamed series of tunnels underneath the City of Norvik. 
+48		That you know. This is what you do not know: 
+49		It is an esoterically charged leyline conversion point. 
+50		Some speculate it is due to the Pillar, some due to the ancient Snail-folk who lived here. 
+51		But in the regions where people do not wander en masse- they quickly attract and form esoteric pockets. 
+52		It is, for all intents and inclinations, as prone to esotericism as the lands close to the Endless Wastes, far inland. 
+53		Yet, for whatever reason, this effect stabilizes once people come around. 
+54		It is not understood why. 
+55		"Hold on, I'm thinking." 
+56		The angel glares at you. With a few dozen eyes. 
+57		What was the question again? 
+58		Right. The depth of the Pillar. 
+59		The Pillar of Jor is an esoteric relic, its secrets still not unraveled. 
+60		The eight, or four, Pillars present around the Coast each go far down through the Gravity Flip, piercing the Undersea Coast. 
+61		Simply tell her it goes down, through the earth, and exists on the other side of the Coast. In Kargamesh. 
+62		"It goes to... Kargamesh." 
+63		She is silent for a beat. 
+64		"Yes. That is correct." 
+65		See? 
+66		The Pillar is an endless relic that goes up and down. 
+67		It doesn't stop, obviously. 
+68		Tell her it is never-ending. 
+69		"It is never-ending. Obviously." 
+70		"It goes up. And it goes down." (Point and smirk.) 
+71		"But that is not what I meant." 
+72		Well, she clearly wasn't specific enough. 
+73		"I see." 
+74		Damn it! 
+75		<b>Ouch</b>. 
+76		Dungeons are a man's business. You're the man here. You're supposed to know about this stuff. 
+77		"The Pillar of Jor goes into the earth, by the Undercoast Path." 
+78		"That is the deepest you may travel, before entering the Gravity Flip. I have explored it in pieces. But it is a dangerous place." 
+79		Her eyes spin faster. 
+80		"I will do so." 
+81		She nods. 
+82		"I believe that to be the case as well." 
+83		"There are reports of a man in yellow delving past this point." 
+84		"The same man in yellow who was reported at the tea shop incident." 
+85		"Ah. Yeah, I really need to get down there and check it out." 
+86		"I knew that." 
+87		"Thank you for the information, angel." 
+88		She nods again. 
+89		Her red cape flutters as the angel begins to float out over the abyss. 
+90		"We will meet below." 
+91		The angel begins to descend. 
+92		Into the far, <b>far</b> below. 
+93		Ettir will join your party below, but only if you do not go down there <i>solo</i>. 
+94		Ettir will join your party in the Undercoast Path, but only if you do not go down there <i>solo</i>. 
+95		"I think I've told you this before- but she freaks me out." 
+96		"...Sure." 
+97		"Let's hope so." 
+98		"Yeah. That's fair enough." 
+99		The goblin gives a skeptical glance down below. 
+100		You will find her. <shake>Below the Below</shake>. 
+101		E-(Look down into the darkness and see <i>nothing</i>.) 

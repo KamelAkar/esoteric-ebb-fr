@@ -1,0 +1,80 @@
+idx	prefix	english
+0		You kneel down to look at the cat-like skull on the ground. 
+1		"Hello." 
+2		E-"Okay. I'll leave you to it." (Pat the top of the skull.) 
+3		No response. 
+4		"My head's as empty as that skull, Cleric." 
+5		"Can we go?" 
+6		Correct. 
+7		"Yeah?" 
+8		"Can you talk to this skull for me? If I cast a spell for it?" 
+9		"...You can't use magic for that?" 
+10		"Nope." 
+11		"Okay. Well... if you think it's helpful." 
+12		"Go ahead." 
+13		"Hm. Maybe later." 
+14		"Aight." 
+15		You will need someone who speaks the tongue of this creature. 
+16		Cat speech most likely. 
+17		You finish casting the spell, and the skull begins to make a clacking sound. 
+18		The jaw opening and closing, with a jitter. 
+19		It is ready. 
+20		"Okay. So, you tell me what you want me to ask." 
+21		You hear him whisper to himself, "<i>You can do this</i>." 
+22		"Ask about his job." 
+23		"Ask about his name." 
+24		"Ask what it's like being dead." 
+25		"Ask what it is voting in the election." 
+26		"Ask him who killed him." 
+27		"What is your favorite color?" 
+28		"Ask him about the meaning of life." 
+29		"Okay..." 
+30		"Te gusta... <i>trabajar</i>?" 
+31		The skull almost shrieks, "<i>Mi devoción a mi dios y a mi deber es mi único interés; los gustos terrenales son pasajeros.</i>" 
+32		"He likes his job. It's a great devotion. To his god. Earthly enjoyments are... fleeting." 
+33		"Tu... nombre?" 
+34		"Mi nombre es el Vengador Rojo. Pero antes de ser eso, yo era Liethion Baluba." 
+35		"His name is 'the avenging red'. And also... 'Lietsi Balba'?" 
+36		"Very strange. This is a weird guy." 
+37		"Right. So like..."  
+38		"Okay." He clears his throat. 
+39		"Qué... hora es?" 
+40		The skull speaks, "<i>Mi tiempo fue entregado por el ojo rojo.</i>" 
+41		"He says, his... his time is given to the 'red eye'. Whatever that means." 
+42		"No." 
+43		"Do it." 
+44		"Come on..." 
+45		"It's a waste. But fine." 
+46		"Uh. Cuál... es tu comida... favorita?" 
+47		"<i>Mi sustento es el honor de servir y proteger.</i>" 
+48		"He's voting for service. And protection." 
+49		"Ah! So he's a Nationalist." 
+50		"Cool. He's a Freestrider, obviously." 
+51		"A real, good-hearted Azgalist." 
+52	DC11 int-	"Well then. He'll clearly be voting for me, as future god-king-wizard, in that case." 
+53	DC17 con-	"Another vote, <i>not</i> cast for the Agrarians..." (Feel sick.) 
+54		"A vague answer. He's clearly an apolitical cat." 
+55		"Sure." 
+56		He quickly looks to the side. Nervously. 
+57		"Dónde está... la muerto?" 
+58		"<i>Ellos están en todas partes. Nuestros hijos. Nuestros seguidores. Debemos luchar para vengarlos, en nombre del ojo rojo.</i>" 
+59		"Oh gods, that's a lot... he..." 
+60		"He says his people need to be avenged. For the red eye. How cryptic." 
+61		"Cuál es tu color... favorito?" 
+62		"<b>Rojo</b>." 
+63		"Red." 
+64		He grimaces as he attempts to speak. 
+65		"Qué significa... la existencia? Perpetua?" 
+66		"<i>Cada cosa tiene un significado profundo, revelado solo a través de la devoción y el sacrificio.</i>" 
+67		"Meaning is sacrifice. Devotion. Feels like this guy's a zealot." 
+68		Five questions remaining. 
+69		Four questions remaining. 
+70		That's two. Three more questions. 
+71		Three asked. Two more. 
+72		One question left. Make it count. 
+73		The corpse's mouth stiffens once more, and the mimicking of life ends. 
+74		That's five. 
+75		"Alright. Cool." 
+76		"We didn't learn much." 
+77		"But it was fun!" 
+78		E-Get going. 

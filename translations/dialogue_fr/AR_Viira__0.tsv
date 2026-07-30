@@ -1,0 +1,501 @@
+idx	prefix	english
+0		"How <i>lovely</i> of you to join us, Cleric." 
+1		The orc nods towards the shining beacon of a guest floating in front of the fireplace. 
+2		You should speak with him. 
+3		E-...Okay. 
+4		You approach the orc as she's working through some papers on the sofa. 
+5		She barely looks up at you. 
+6		"I turned in some more AEFAs." 
+7		"Hey." 
+8		(Just stare at her and breathe heavily.) 
+9		Viira jolts as she notices you. 
+10		"Oh! Hello, Cleric. I didn't even notice you come in..." 
+11		She gets up and places the documents in a drawer. 
+12		(Walk over to her.) 
+13		Among fancy furniture, and before the crackling fireplace, you see an orc. She raises her head towards you when you approach. 
+14		"Ah. You must be the Urthguard gentleman I've heard so much about." 
+15		She hides it well, but the orc is stressed. Perhaps it has to do with the dwarves. 
+16		Exuding an air of authority around her, the large woman gives you a wry smile. Her tusks are gleaming. 
+17		"Welcome to the Askanii-Reeds Trading Company." 
+18		Not just physically imposing, this orc knows how to exert power in other ways as well. 
+19		You spot the merchant's mark on her jacket sleeve - a heart with the initials of the Norvikian Freestrider regiment. 
+20		You sure walk around like a damn advertisement with this drab uniform. 
+21		As he SHOULD. 
+22		She presents her palm to you. "Viira is my name. I am Second-in-Command Guild Agent of Tolstad." 
+23		"Nice to meet you..." 
+24		Yes, the handsome orc lady wants you to say a name. 
+25		Be nice to her! She's a Freestrider. 
+26		Make sure she knows you are a CLERIC. 
+27		The showing of the palm is a casual cultural greeting in Reeds. 
+28		Do not grab her hand. That's not what that is. 
+29		Take her hand. She would love that. 
+30		(Grab her hand.) 
+31		"I'm Ragn." 
+32	DC10 dex-	"I'm a Rogue." 
+33		"I'm <b>The Cleric</b>, actually." 
+34		"Names and labels aren't important." 
+35		You reach forward and take her hand in yours. She's clearly a bit confused. 
+36		She did not expect this. 
+37		It becomes a sort of awkward handshake. 
+38		You realize her hand is a fair bit larger than yours. She could easily match your tremendous force. 
+39		You realize her hand is a fair bit larger than yours, and something stings in your soul. Fragile as it is, a part of you has been bruised by the simple thought of her overwhelming power. 
+40		Yes... now kiss it. 
+41		(Let go of her hand.) 
+42		(Kiss her hand.) 
+43		She gives you a polite smile. 
+44		You lean in and attempt to bonk the front of your helmet against the top of her hand. 
+45		She quickly pulls it back. With a laugh she says, "Perhaps a name is in order first, human." 
+46		She appears mildly entertained by your strange behavior. Maybe she would enjoy more of it? 
+47		"Hello, Ragn." 
+48		"Rogue? Like a... swashbuckler? Intriguing." 
+49		She should be. It's really cool. 
+50		"The Cleric? Ah." 
+51		She loves it. Your stoic presence is enough to induce intrigue and awe. 
+52		"Apologies. Not Urthguard. Cleric. I assumed the terms were interchangeable." 
+53		"But I suppose you're not all..." she says, waving towards your outfit. "Esoterically attuned." 
+54		Not all Urthguard are spellcasters. Not all clerics are Urthguard. But all clerics are spellcasters. 
+55		She accepts your annoying correction with a smile. 
+56		Probably means she sees you as no threat at all. A mere puppy. 
+57		"Debatable. But I do like a secretive man." 
+58		She shoots you another smile, waiting patiently for you to say anything. 
+59		The orc stands among fancy furniture. A crackling fireplace lights up her face as you approach. 
+60		Hot. 
+61		"Welcome to the Askanii-Reeds Trading Company, Cleric." 
+62		It is the orc lady again. Beware her manipulation. 
+63		Yes, and also... tell her she looks lovely. 
+64		Big... orc. 
+65		No...! Nooo! 
+66		"Hello, Agent. How's the Freestriding going?" 
+67		"Right. You're the orc who was fighting with the dwarves." 
+68	FC5 int-	"You... big... orc." 
+69	DC5 int-	"You look lovely to meet you again, Agent Viira." 
+70		"That's... not a verb I usually hear." 
+71		"But it's going well!" 
+72		"We're currently deep in paperwork with a new partner." 
+73		"A lot of work." 
+74		She lets out a hearty laugh. "<i>Fighting</i>, you say?" 
+75		"In all honesty, I wouldn't mind a real scrap at this point." 
+76		Her eyebrows shoot into the fucking ceiling. 
+77		"Oh. Are you okay, Cleric?" 
+78		(Admire her.) 
+79		She stares at you for a few seconds as you stare back. 
+80		"Anyway." 
+81		"Hm? Oh." 
+82		She blinks thrice and then just nods, ignoring your flub. 
+83		"Yes. Of course. Same to you." 
+84		Damn it...! 
+85		Not very smooth, dick-ass. 
+86		She walks over to the desk, grabbing a piece of paper. 
+87		It could be a good idea to search the Guild Warehouse, below. 
+88		Not only to find some goodies... but also to check what's going in and out the city. 
+89		The Warehouse, below here... 
+90		It probably holds a lot of useful stuff. 
+91		This wonderful Freestrider lady is the one who decides who comes and goes. So... talk her into letting you enter her warehouse. 
+92		If you ask that, she will think you mean something very different. 
+93		"I admit, it's not often I'm led by the nose like that." 
+94		"But I suppose clerics are in their right to cast Charm Person on anyone they please in this city." 
+95		"Although I heard the dwarves did not hold their rally after all. So I suppose they retain some sense in those thick skulls of theirs." 
+96		"I apologize about that. It seemed like a good idea at the time." 
+97		"You were out of control. I had to do it." 
+98		"What's done is done. Now can we get to business?" 
+99		"Hm. Well. Apology accepted." 
+100		Her eyes say otherwise. 
+101		Huh. That was easy! 
+102		"Pff...!" 
+103		She stops herself from laughing. 
+104		It would have been a mocking laugh. 
+105		"Fair enough." 
+106		She is holding back rage. Deep rage. 
+107		"You act in interesting ways, Cleric." 
+108		"Now, I'm very busy. We're currently deep in paperwork with a new partner." 
+109		"It seems you were correct in the end. Your diplomatic efforts ended with the dwarves not holding their little rally." 
+110		"So, well done." 
+111		"Not the win you were hoping for, I suppose. But I did solve the problem." 
+112		"You should have listened to me earlier." 
+113		"Oh, don't worry. I'm not petty." 
+114		Huh. Could've sworn she was. 
+115		"Hm." 
+116		"Confident, are we?" 
+117		She's annoyed at your arrogance. But also kind of likes it. 
+118		"Of course, I'm very busy. We're currently deep in paperwork with a new partner." 
+119		"I'll never forget that punch, Cleric." 
+120		"Probably not the most difficult challenge to goad a dwarf like Alfoz, but taking it like that?" 
+121		"Highly impressive." 
+122		"Thanks. It hurt." 
+123		"I didn't do it for you." 
+124		"I... did it for you." 
+125		"Understandable!" 
+126		"I sure hope not!" 
+127		"That's... nice of you." 
+128		She cringes. Oh, so badly. 
+129		"Now, things are a bit busy here." 
+130		"But I can always make time for a friend of the Freestrider cause." 
+131		"Well done, handling the dwarves." 
+132		"Made my life a lot easier, at the very least." 
+133		"Anytime." 
+134		"Good! There might certainly be more things we could use a cleric's help with..." 
+135		"But I can always make time to a friend of the Freestrider cause." 
+136		"I can gladly report to you that the business with the dwarves was eventually solved after you left." 
+137		"Through entirely peaceful methods, thankfully." 
+138		"Oh really?" 
+139		"How?" 
+140		"Good job." 
+141		"I don't care." 
+142		"Thank you, Cleric." 
+143		She lets out some air from her nose. 
+144		She is a bit annoyed at your brash nature, but also finds it refreshing. 
+145		"Good. Then let us move on." 
+146		"A contact at the palace helped me recruit two Vourgeni gentlemen." 
+147		"The <i>giant</i> kind of gentlemen. When Alfoz saw them coming, he very quickly packed everything up and left." 
+148		"To tell the truth, I hoped for them to put up some resistance." 
+149		"Sorry for not staying and helping clean things up." 
+150		"You used the threat of violence to push past their legal arguments, then?" 
+151		"You had no reason to interfere. No worries." 
+152		She gives you a smug smirk. 
+153		"Yes." 
+154		A powerful statement. 
+155		She knows when to bend and when to break, clearly. 
+156		"Nice." 
+157		"Sounds fascist." 
+158		"That is your choice. I have no opinion on your choice. Mainly because I am apolitical." 
+159		She chuckles. 
+160		"That's a big word!" 
+161		"Proud of you," she says and winks. 
+162		"Oh. Right." 
+163		"Sounds like you would be a very useful collaborator in that case." 
+164		"Thank you... Cleric." 
+165		"Yes. Thanks." 
+166		(Start slow clapping.) 
+167		"...Thank you." 
+168		"Thank you." 
+169		"Now, is there anything the Askanii-Reeds Trade Co. can help you with today, Cleric?" 
+170		"Cleric. What can the <i>AR</i> do for you?" 
+171		"Cleric. I'm working late today, as you can see." 
+172		She is very much trying to not look directly at your head. Due to the bucket. 
+173		She is very much trying to not look directly at your head. Due to the pot. 
+174		The orc glares at you. 
+175		"Can I-" 
+176		"Maybe it's-" 
+177		"I should go." 
+178		"Nothing I see. Well, good day." 
+179		You're not getting back from this. 
+180		She will not speak to you, because of what you did. 
+181		You idiot. Oh well. 
+182		(Leave.) 
+183		She gives you a short smile. 
+184		Treachery. 
+185		She gives you her trademark smile. 
+186		"Though I do that almost every day, if you can believe it." 
+187		She is clearly, <i>clearly</i>, terribly angry at you, still. 
+188		"Don't make this any worse, will you?" Snell whispers to you. 
+189		She's not still mad at you... is she? 
+190		"I have some questions..." 
+191		"I want to search the warehouse." 
+192	ROLL16 cha-	Persuade her to work with you, despite your previous behavior. 
+193		E-"That's all for now. Thank you, citizen." 
+194		"Oh, I'm afraid I don't have time right now, Cleric." 
+195		"Perhaps you could book a meeting? I'd love to help, of course." 
+196		"When are you available?" 
+197		"Some other time, then." 
+198		"Ah, em..." 
+199		"How about March 29th?" 
+200		"That's too late." 
+201		"But... that's all the way after the election!" 
+202		"I'll take it." 
+203		"I am sorry, but I'm really just swamped here!" 
+204		"I am sorry, but I'm really just swamped here." 
+205		"Great! See you then!" 
+206		"Mm." 
+207		She has no intention of having a meeting with you. 
+208		You're gonna have to turn on the charm, if you ever want to get anything out of her now. 
+209		You sense a threatening aura. 
+210		This is what happens when you make an enemy of a Freestrider. 
+211		Guess you'll just have to wait until... after the election. 
+212		But that's like, very far in the future! 
+213		Several days! 
+214		"Oh, do you?" 
+215		"We can arrange that. After the election, of course. Like I said, things are just very busy right now." 
+216		Another excuse. She's good at this! 
+217		"You're not actually busy, are you? You're just mad at me." 
+218		"Okay." 
+219		She drops her smile. 
+220		"Mad? I suppose I disagree with your methods, Cleric. But I promise you." 
+221		"I am a professional. I do not let petty things like that get in the way." 
+222		"Good. Let's talk later." 
+223		Okay. It's time to solve this. 
+224		Smooth-talking-style. 
+225		So like, manipulation? 
+226		Something like that. 
+227		Just give her a little something. Then she'll give in. 
+228		"Viira." 
+229		"Mm? Yes?" 
+230		And make it clear that it's a good deal. For both parties. 
+231		"The Askanii-Reeds Trading Company can stand to gain a lot from my help." 
+232		"Can it?" 
+233		"Yes. As can I from yours." (Lean in.) 
+234		"Well from what I saw up there, I-" 
+235		"The deal with the dwarves worked out in my favor, for a number of reasons. But that was a different deal. Right now, we can both stand to gain." 
+236		She glares at you. Looking you up and down. 
+237		Then her gaze softens. She sighs. 
+238		"Perhaps there <i>is</i> time." 
+239		"I assist you, you assist me. Isn't that right?" 
+240		"Deal." 
+241		"So what do you want, Cleric?" 
+242		Her voice is rather cold still, but she clearly enjoys your business-first attitude. 
+243		Threat avoided. 
+244		You stare at her, as she keeps avoiding your gaze. 
+245		There is... no way you're doing this right now. 
+246		Just stay quiet. She's so much more powerful than you ever will be. 
+247		Although maybe... if you beg, it might actually help your chances. 
+248		"V-Viira. Please talk to me." 
+249		(Stay quiet.) 
+250		She glances at you with a frown. 
+251		"I am, Cleric. But I am, like I've mentioned, quite busy." 
+252		"Please..." (Grovel.) 
+253		"Cleric. Cleric. No." 
+254		"<b>PLEASE</b>." 
+255		"Cleric! I..." 
+256		She sighs. 
+257		"Maybe later. I'm busy now. Okay?" 
+258		"Okay. Good." 
+259		She finds you disgusting. 
+260		As she should... 
+261		How dishonorable. 
+262		She smooths out her jacket. 
+263		"You done?" 
+264		"Tell me more about the Freestriders." 
+265		"What's with the thing in the fireplace?" 
+266		"I want to know more about you." 
+267		"I'm not a THING!" 
+268		"Don't mind him. He's harmless." 
+269		"I don't know exactly how we came over the contract, but I believe it was a Kargameshian fellow who handed it over." 
+270		"A smoke mephit. It keeps track of unwanted visitors." 
+271		"So don't touch anything, Cleric. Unless you like getting seared." 
+272		She smiles. Her tusks gleam. 
+273		"My favorite topic!" 
+274		"That's good. Good. Neat." 
+275		"You're your... your own favorite..." 
+276		"Neat?" 
+277		"Neat." 
+278		"<i>Neat</i>." 
+279		"Hm?" 
+280		"You're your own... you are your own favorite topic?" 
+281		"Yes!" 
+282		She might, possibly, be acting cheeky. 
+283		She's one confusing orc. 
+284		About her past. So you can manipulate her. 
+285		Don't do that. 
+286		"Yeah. Go ahead." 
+287		"Sorry?" 
+288		"Master talk about Meek? Ahoy-hoy!" 
+289		Her jaw drops. 
+290		Then her fists go up. 
+291		"No, no. He's not strangling me or anything. He's just helping me." 
+292		(Raise your fists too.) "I would die to protect this smile." 
+293		"Meek serve master!" 
+294		"Master is great!" 
+295		She shakes her head as if dazed by the visuals. 
+296		"I see." 
+297		"I have not heard of a tame mimic before." 
+298		She lowers her fists. Slowly. 
+299		"He's not <i>tame</i>, per se..." 
+300		"He's very tame. Docile, even." 
+301		(Shrug.) "I found him below. It is what it is." 
+302		"Then you are even braver than I thought." 
+303		"Meek is nice!" 
+304		"Tell that to the Pest Control Guild." 
+305		"Well, Cleric. You're full of surprises." 
+306		"But please keep that thing... uhm... <i>hidden</i> around here." 
+307		"Just in case we get any guests." 
+308		"Griffon on the Roof!" 
+309		The orc laughs at your words. 
+310		"That <i>really</i> sounds like a magazine tale. I swear I've read it at some point." 
+311		"...What?" 
+312		"I am serious. There is a griffon upstairs." 
+313		"It really does!" 
+314		"Oh, nevermind." 
+315		"Yes, yes- I thought it sounded funny is all." 
+316		"Right?" 
+317		"Technically, the griffon is not allowed to use our building as a nest. However, by sheer happenstance, it has become one of the many unwritten and <i>unofficial exceptions</i> around here." 
+318		"I have simply learned to <i>make do</i>. As one does." 
+319		"Who owns it?" 
+320		"And it just sleeps here all day?" 
+321		"Is it annoying to deal with?" 
+322		"Can I fly on it?" 
+323		M-"That's all about the griffon." 
+324		"One of our temporary guests." 
+325		"A high-ranking member of the Freestriders, come to visit for the election. One of <i>those</i> types." 
+326		"...Our dear Prince Moonwatch, in fact." 
+327		"For now. I've heard he'll be heading out after the election. Can't wait." 
+328		"Though the real answer to that involved describing griffon-droppings, and I'd prefer to keep away from that." 
+329		"I'd recommend not, entirely for the sake of your own health." 
+330		"Unless you've got somewhere to fly off to?" 
+331		"I do not, no." 
+332		"Damn it. I don't. If I did, I'd totally try it." 
+333		"Your health is happy to hear it." 
+334		"Somehow, I could imagine." 
+335		"Yes. Let's leave it at that." 
+336		Viira is not happy about the situation. 
+337		Viira is avoiding answering many things about this creature. 
+338		For one: because she does not wish to think about it. For second: because she is not allowed to say anything about its owner. 
+339		Bureaucratic reason, sure. 
+340		Meriadoc flies on that beast, then. 
+341		You would LOVE to have a griffon one day. 
+342		You could be like the heroes of your childhood tales. 
+343		Soaring through the air... 
+344		RIDER OF THE SKY. 
+345		Dream on, baby. Dream on. 
+346		"And where was he?" 
+347		"You're not shocked?" 
+348		"Down below." 
+349		"No." 
+350		"Where?" 
+351		"Below?" 
+352		"All the way down on Underhollow Ridge. He was captured by a troll." 
+353		She groans, walking over to the desk. 
+354		"Of course he was." 
+355		"He's in one piece I take it?" 
+356		"More or less." 
+357		"He was smiling when I got him out of that cage." 
+358	DC21 cha-	"No. For he is not a fictional character." 
+359		"Great." 
+360		"...Of course he was." 
+361		"Not the time for obscure references, Cleric." 
+362		"You see, our dear Moonwatch Prince came to visit us a few days ago. He journeyed for the election yes, but from what I understand it was also to seek out the ruins below the city. For his... <i>research</i>." 
+363		"No wonder he ended up in trouble." 
+364		Viira sighs before tossing you a pouch. "Here. For your service to <i>the revolution</i>!" 
+365		"Oh!" (Grab the pouch.) 
+366		"Let's keep this on the down-low, shall we?" 
+367		She opens her mouth and thinks for a moment before clarifying, "That means: do not talk about how one of our most prestigious celebrities almost got eaten by a troll- okay?" 
+368		"Got it." 
+369		"I can't promise anything." 
+370		"Do I have a choice?" 
+371		"Good." 
+372		"Those coins in your hand seem to prove otherwise." 
+373		A grin and a waltz towards you later, and the orc leans in near your helmed face. "Now tell me..." 
+374		"Did you actually fight the troll?" 
+375		Then to Snell: "Did <i>you</i>?" 
+376		The goblin lets out a sigh. 
+377		"Oh yeah. I <i>killed</i> the troll." 
+378		"We fought. It was a hard-earned victory." 
+379		"It was almost a slaughter- but I got lucky in the end." 
+380		"My goodness. A real trollkiller in our midst..." 
+381		"He does deserve that credit." 
+382		"I was backup." 
+383		"That's very impressive nonetheless!" 
+384		"Oh my. The Coinlord's bodyguard?" 
+385		"You managed to bring her all the way down there?" 
+386		"Yes. I was simply too charming for her to resist." 
+387		"She was nice enough to join us." 
+388		"She was eager to fight." 
+389		"Say it ain't so- I'm getting jealous here, Cleric!" 
+390		"That's not the Ettir I've met- I'm sure you had some effect on her, Cleric..." 
+391		"Oh, I bet. It must have been spectacular!" 
+392		"Oh, so humble..." 
+393		A quick laugh, and then she returns to her desk to look over a document. 
+394		"I'll have to speak with Moonwatch about it later. Whenever he chooses to grace us with his presence once again." 
+395		"Once more I must say: I am very grateful to have you here, Cleric. Thank you." 
+396		"Now, is there anything else the AR can do for you on this fine day- just let me know." 
+397		"Oh, that?" 
+398		"Just a little something left behind by my <i>superior</i> during his latest visit." 
+399		"Don't touch it, please." 
+400		"You can have it, if you want." 
+401		"Really?" 
+402		"Thank you, my lady." 
+403		"So your boss won't miss it?" 
+404		"Sure. Why not?" 
+405		She gives you a smile. 
+406		A false smile. 
+407		"My boss isn't here. I'm in charge." 
+408		"Go ahead, Cleric." 
+409		She's happy to take control. 
+410		Hm. Yeah, something about her 'superior' is clearly a weak spot. 
+411		She happily gives you the scroll. 
+412		Primarily as revenge against this <i>superior</i>, yes. 
+413		"Oh!" 
+414		"Well..." 
+415		"I..." she mutters, looking completely stumped. 
+416		She carefully glances towards the hidden safe's location. 
+417		"I am quite honestly stumped, Cleric." 
+418		"I was not even aware we'd been robbed." 
+419		"But quite sincerely, thank you!" 
+420		"This is... more than I can even repay you." 
+421		"Just help me out in the future, and we'll be square." 
+422		"I just wanted to help my Freestrider friends." 
+423		"Don't mention it." 
+424		She spreads her arms and in an act of relief, and still a bit of shock, she gives you a big hug. 
+425		OH...! 
+426		Heh. 
+427		Ladies' man here. 
+428		Alas, are the days of LOL... over? 
+429		"I promise you, Cleric." 
+430		"You will be paid back for this. I swear. Come back here after the election, and I'll have something GREAT for you. I guarantee it!" 
+431		It's a promise! 
+432		"A cleric searching for a hag..." 
+433		"That <i>really</i> sounds like a magazine tale. Romantic, almost." 
+434		"No. It sounds like an <b>epic quest</b>." 
+435		"Yes. Very romantic." 
+436		"Have you seen a hag around here?" 
+437		She laughs. 
+438		"Oh, I'm inclined to agree." 
+439		"Highly so." 
+440		"Look. It's no secret the Askanii-Reeds Trade Co. employs a number of hags. Since the early revolution, we've prided ourselves in working with those who turned from the magocrats. Including the many young women left scarred after the MHR." 
+441		"MHR?" 
+442		"...So you're employing hags on Tolstad?" 
+443		"Mass Hag Recruitment." 
+444		"A terrible initiative in Old Diminor." 
+445		"A freelancer. Yes." 
+446		"Her name is Lisa. She provides security, arcane knowledge, eldritch invocations, and divination." 
+447		"She's quite good." 
+448		"But unfortunately she is off on a private matter, from what I understand. So she is unavailable at the moment." 
+449		"When did she leave?" 
+450		"Is she involved with the tea shop?" 
+451		"Where does she live?" 
+452		"Can she cast fireballs?" 
+453		"So she's a witch?" 
+454		"Where can I find her?" 
+455		"Okay. Let me know if she shows up." 
+456		"I'm not entirely sure." 
+457		"Last week? Something like that?" 
+458		"Did she leave right around the time of the tea shop explosion?" 
+459		"Be specific." 
+460		"You don't keep track of your workers?" 
+461		"It's possible." 
+462		She shrugs. "I apologize. I can't say for sure." 
+463		"Our freelancers are kept on a very light and long leash." 
+464		"Not from what I know." 
+465		"Although I do understand if it's something you'd keep an eye on." 
+466		"I imagine any esoterically minded individual or creature in the city would be under suspicion." 
+467		"Even our hard-working hag." 
+468		"In a hut. It's usually parked on top of our headquarters here." 
+469		"Parked?" 
+470		"It moves. You know how hags are." 
+471		"Oh, I don't think so." 
+472		"I remember those funny magma hags on the Burned Coast, but beyond that I don't think I've ever heard of a hag casting spells like that." 
+473		"Lisa only deals with typical hag magic." 
+474		She thinks about your questions for a while. 
+475		"I think there's a distinct difference between hags and witches, but I'm not entirely sure what they are." 
+476		"This orc is the wrong person to ask about esoteric things, I'm afraid!" 
+477		"No clue! Freelancers go where they please." 
+478		"She might have left the city as far as I know. She'll turn up eventually though, I'm sure." 
+479		"Will do, Cleric." 
+480		She drops her empty expression, giving you a relieved sigh. 
+481		"She's a good one." 
+482		"Where was she hiding?" 
+483		"The City Below." 
+484		"It's a secret." 
+485		"Really? Well, if anyone can make it down there, it's our Lisa." 
+486		She nods. "Yes, better if it stays between you two." 
+487		"Good job on locating her. It must have been hard." 
+488		"I hope you found what you were looking for?" 
+489		"I did. And I've got questions for you." 
+490		"I know about the meeting in the tea shop." 
+491		"You're in big trouble, Agent Viira." 
+492		"Don't worry. I'll answer." 
+493		"I figured." 
+494		She smiles. "No. I don't think so." 
+495		"We sent Lisa to deal with a potential customer of the AR." 
+496		"But luckily she was not caught in the blast. She wasn't even there." 
+497		"Did you know about this meeting?" 
+498		"They were meeting to trade an artifact. Do you know what kind?" 
+499		"That's all about Lisa. For now." 

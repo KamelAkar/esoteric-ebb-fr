@@ -1,0 +1,178 @@
+idx	prefix	english
+0		Before you stands an iron door. 
+1		At its center, a five-pointed star has been etched deep into the metal. 
+2		Esoteric energy emanates from the surface. 
+3		This door is sealed with powerful magic. 
+4		A faint hum vibrates through the iron. 
+5		"That's some fancy door." 
+6		The star symbol... it's connected to something. 
+7		This is wizard work. Arcane and deliberate. 
+8		(Touch the door.) 
+9		(Examine the star symbol.) 
+10		Right, so... 
+11		Your gloved hand meets cold iron. 
+12		A ripple of translucent energy pulses across the surface. 
+13		It's locked. Magically. 
+14		<i>Arcane Lock</i>, just like at the tea shop. 
+15		But this one feels... stronger. 
+16		More personal. 
+17		You lean closer to inspect the etched star. 
+18		Five points. Perfectly symmetrical. 
+19		Five? 
+20		Obviously. 
+21		Four points. Perfectly symmetrical. 
+22		The work of a master craftsman. Or a wizard. 
+23		Probably both. 
+24		Each point of the star glows faintly with residual magic. 
+25		"About your fancy <i>mystery-dungeon-door</i>?" 
+26		He crosses his arms and stares at it. 
+27		"Not really my area of expertise, Cleric." 
+28		"But I'd bet you need some kind of password. Or a spell." 
+29		"Or, you know..." 
+30		He mimes breaking something with his fists. 
+31		Subtle. Very subtle. 
+32		But what he means here is violence. 
+33		But yeah. Could work. 
+34		Smash it. 
+35		Or perhaps, think for a bit. 
+36		Obviously, there should be a way to get inside. 
+37		You approach the iron door with the star symbol once more. 
+38		"Still locked, I presume?" 
+39		(Try the door handle.) 
+40		(Look for a keyhole.) 
+41		What kind of magic is sealing this? 
+42	ROLL22 int-	Analyze the magical mechanics of the door. 
+43	ROLL22 str-	Smash open the iron door. 
+44		(Press your ear against the door.) 
+45	FC9 int-	I should ask the door to let me in. 
+46		E-Hm. Oh well. Maybe later. 
+47		You reach for the handle and pull. 
+48		Nothing. It doesn't budge. 
+49		Not even slightly. 
+50		You would require incredible power to break this seal. 
+51		GET. IT. DONE. 
+52		No. The door is completely sealed. 
+53		"Hm. Too bad." 
+54		You search the door's surface carefully. 
+55		No keyhole. No lock mechanism visible at all. 
+56		This door doesn't open with a key. 
+57		It's purely magical. 
+58		Arcane Lock, without a doubt. 
+59		Powerful stuff. Higher level than most seals you've encountered. 
+60		Whoever placed this spell knew what they were doing. 
+61		The star is likely a focus point for the enchantment. 
+62		Can I dispel it? 
+63		Is there a password? 
+64		Could I break it down? 
+65		(Step back from the door.) 
+66		Dispel Magic could work, theoretically. 
+67		Obviously. If you had the spell for it. 
+68		But this seal feels particularly robust. 
+69		You'd need to be very skilled to break through. 
+70		Or very lucky. 
+71		Most Arcane Locks have passphrases. 
+72		A word or phrase that unseals the door instantly. 
+73		But you'd have to know what it is. 
+74		Guessing would be... difficult. 
+75		Especially with a wizard's seal. They tend to be creative. 
+76		No. 
+77		There might be passphrase however. 
+78		The door is iron. Thick iron. 
+79		Breaking through metal and magic... 
+80		That would require immense strength. 
+81		And the seal might fight back. 
+82		Magical wards often do. 
+83		You trace the etched lines of the star with your eyes. 
+84		The esoteric energy is strong, but the geometry is... imperfect. 
+85		The lower-left point of the star doesn't properly connect to the ward's anchoring matrix. 
+86		"See something, Cleric?" 
+87		If you apply blunt force at exactly a forty-five-degree angle to that specific point... 
+88		The kinetic energy will bypass the Arcane Lock's absorption field and shatter the iron underneath. 
+89		You know exactly where to strike. 
+90		You stare at the glowing star, trying to dissect the spellcraft. 
+91		The exact nature of the seal eludes you. 
+92		Get ready. 
+93		(Grab the door.) 
+94		You throw yourself against the iron. 
+95		Your muscles strain. Your body protests. 
+96		The door doesn't move. Not even a millimeter. 
+97		Instead, the star symbol flares bright blue. 
+98		A surge of electricity shoots through the iron. 
+99		(Take the blow.) 
+100		The shock travels up your arms and through your chest. 
+101		You stumble backward, smoke rising from your gloves. 
+102		That... was a mistake. 
+103		The door has defensive enchantments. Of course it does. 
+104		"Shit. That even hit me a bit." 
+105		"But good try, I guess." 
+106		Your hands are numb. 
+107		The tingling sensation spreads to your shoulders. 
+108		Note to self: don't try that again. 
+109		"You think it was a wizard?" 
+110		"The star symbol. The seal. It's all wizard work." 
+111		"Who else would seal a door this thoroughly?" 
+112		"Of course. Being a wizard myself, it's only natural I know what a wizard would wizard-think." 
+113		The goblin squints at you. 
+114		"...Fair point." 
+115		Something valuable indeed. 
+116		Or something dangerous. 
+117		You lean close, listening. 
+118		Nothing. Complete silence. 
+119		The door is too thick. Or there's nothing beyond. 
+120		Or something is waiting very, very quietly. 
+121		Stop scaring yourself. 
+122		Yes. Obviously. 
+123		That's not- I mean it's... 
+124		It is an esoteric door, only esoteric methods will win out in the end. 
+125		(Clear your throat.) 
+126		"Hm?" 
+127		Prepare yourself. 
+128		Then speak. 
+129		"TELL ME, <shake>OH DOOR</shake>, WHAT IS THY PASSPHRASE?!" 
+130		Your companion is taken aback by the intense ejaculation. 
+131		Silence. 
+132		At first. 
+133		Then... 
+134		"Are you trying a persuasion here, or...?" 
+135		(Remain silent.) 
+136		He throws his hands up. 
+137		"<i>Master Hagginshags?</i>" 
+138		A tiny voice, faintly behind the iron door. 
+139		"<i>Not remember? Passphrase is: Learn! I will learn...!</i>" 
+140		"Sorry, who is this?" 
+141		"THANK YOU, DOOR!" 
+142		"What? That actually worked?" 
+143		"<i>Hm?</i>" 
+144		"<i>Oh no... not master at all!</i>" 
+145		The voice goes away. 
+146		Snell looks at you, then the door. Then you again. 
+147		"Try it?" 
+148		You quickly cast Grease on the mystery door. 
+149		Which does seem to work- although you're not sure by how much. 
+150		You channel every ounce of strength into your assault. 
+151		The iron door groans under the pressure. 
+152		Your muscles scream in protest. 
+153		The star symbol flickers and dims. 
+154		(One more push!) 
+155		With a deafening <i>crack</i>, the magical seal shatters. 
+156		Blue fragments of energy scatter like glass. 
+157		The door swings inward, defeated. 
+158		You did it. Through sheer brute force. 
+159		"Holy shit." 
+160		"You actually broke a wizard's seal with your bare hands." 
+161		He looks genuinely impressed. 
+162		Your arms feel like jelly. 
+163		Worth it. 
+164		The door swings open with a powerful <i>boom</i>. 
+165		The sound echoes through the dungeon hallways. 
+166		Everyone heard that. 
+167		Inside, you see a faint light emanating from within. 
+168		Soft. Almost inviting. 
+169		Or perhaps a trap. Probably a trap. 
+170		One locked door usually isn't enough for these fucking wizard types. 
+171		"Well. After you, Cleric." 
+172		The goblin gestures toward the open doorway. 
+173		He's not going first, that's for sure. 
+174		Beyond lies the unknown. 
+175		What secrets did this wizard hide? 
+176		E-Time to <i>find out</i>. 

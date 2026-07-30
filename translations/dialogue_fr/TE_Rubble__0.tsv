@@ -1,0 +1,172 @@
+idx	prefix	english
+0		Whatever content once filled this chamber has been pushed up against the cracked walls. 
+1		The dwarven masonry is damaged in various locations and everything, every single thing in the chamber is burnt. 
+2		Incredible power. 
+3		There's been an incident here! 
+4		This is the center. But where exactly did the explosion originate from? 
+5		The stony tiles, scorch marks, and general aesthetic makes this look like a dragon's lair. 
+6		Beware, beware... 
+7		Death. 
+8		Will you stop saying that? 
+9		(Check the debris.) 
+10		(Check the iron beams along the walls.) 
+11		(Check the ceiling.) 
+12	ROLL15 int-	First, localize the origin point. 
+13		Could this be caused by a spell? 
+14		E-I should leave the rubble alone. 
+15		Just a quick search reveals nothing but charred rock and iron scraps. 
+16		Remnants of furniture. Shelves, maybe. Chairs. 
+17		Pushed up into the corners of the room. A violent and sudden force of heat compressed it all. 
+18		It was an instant. Then everything became nothing. 
+19		Once they stood straight, holding the ancient tunnel upright. 
+20		Askew and weak. Yet they still stand. 
+21		Yeah... it's a miracle this place hasn't collapsed entirely - you should... probably leave. 
+22		Relax. It is fine. 
+23		Your heart beats quicker. 
+24		You glance upwards, finding the somewhat high ceiling in the chamber to be scorched, but intact. 
+25		This place will stand. For now. 
+26		You look around and find the damage confusing. 
+27		While centered in the chamber, the damage appears uneven, as if the force of the explosion was struggling with itself. 
+28		With that thought, you receive a vision. 
+29		Replaying the event in your mind - an explosion. 
+30		In the chamber. 
+31		Conflagration spreading. 
+32		It just doesn't work. 
+33		However, you experiment in your head with the idea... of multiple explosions. 
+34		Suddenly it clicks. 
+35		The floor... it has several marks. 
+36		You start counting. One, two, three... 
+37		It's not enough. Looking around the chamber you see several points from which the fire clearly spread. 
+38		The explosion is... No. 
+39		"Explosions." 
+40		Explosions. <i>Multiple</i>. 
+41		Your companion lifts his head from whatever scraps he was looking over. 
+42		"What did you say?" 
+43		You keep counting. Four, five, six... 
+44		Even that is not enough. Fires. The immense force. 
+45		Seven. 
+46		Eight. 
+47		You point at the last spot on the floor you can see, near the west wall where you're standing. 
+48		"Nine." 
+49		"Nine?" 
+50		Nine of them. 
+51		You try recalling the textbook take on fireball spells, and unless there were nine individual spellcasters -- all within range mind you -- then there's only one possible explanation... 
+52		Or well. There's two. There could also be nine delayed fireball spells. Which seems equally ridiculous. But more likely... 
+53		A Necklace of Fireballs. 
+54		Nine explosions - one for each bead on a fully stocked necklace. 
+55		Exactly. 
+56		You remember it clearly, due to its historical significance. 
+57		The Assassination of Priestess Ilona, arguably the inciting spark for the Great Coast War. 
+58		Now, over a century later, you're standing here among the rubble of the very same device. 
+59		But why use such a tool of destruction here, in a tea shop on Tolstad? 
+60		Not to mention a fully potent Necklace is exceedingly rare to find these days. 
+61		The ones mass produced during the Coast War lost most of their power after the fall of their creators. 
+62		Why would someone spend a nine-beaded Necklace of Fireballs on a damn tea shop? 
+63		E-Consider what you've learned. 
+64		The goblin's gaze dances across the chamber. 
+65		You see his face contort as it dawns on him. 
+66		"More than one?" he mutters. 
+67		You're about to blow his little mind, aren't you? 
+68		(Hold up seven fingers.) "Nine separate explosions. Simultaneously." 
+69		"It's very obvious when you think about it." 
+70		He stares at your fingers. 
+71		He won't mention it. He's too kind. 
+72		"Great to hear you've got some thoughts in that helmet of yours then." 
+73		He looks around the chamber, concerned. "Walk me through it." 
+74		"How do nine explosions go off at the same time?" 
+75		"We got a cabal of sorcerers? A coven? What?" 
+76		Careful now. Do you really want to share this info with him? 
+77		The goblin is not your boss. You don't need to tell him anything. 
+78		Could be useful to keep this to yourself. For now. 
+79		Tell him, "Necklace of Fireballs." 
+80		R-"I'll... explain once we report to your lady." 
+81		"Necklace of-" he says and pauses. 
+82		You can see his mind working behind his sharp eyes. 
+83		"Huh." 
+84		"Do you think it's possible?" 
+85		"It's the only logical answer." 
+86		Mimic an explosion with your hands and say, "Boom." 
+87		"...Like the assassination of Priestess Ilona?" 
+88		"Something like that." 
+89		"Didn't know you were a history buff." 
+90		He nods and looks around at the destruction. "The mass produced shit they used in the Coast War... it wouldn't get close to this level of force." 
+91		He ignores your comment and looks around at the destruction. "The mass produced shit they used in the Coast War... it wouldn't get close to this level of force." 
+92		"You're telling me someone tossed nine beads of fireball - essentially a fully charged and practically invaluable magic item - into a damn <i>tea shop</i>?" 
+93		"Yep." 
+94		"It's that, or a group of very quick hags." 
+95		"Could be an <i>esoteric mystery</i> as well." 
+96		The goblin smirks. 
+97		You've put the image of nine old ladies scurrying out of a burning tea shop into his mind. 
+98		Speedy hags. How horrific. 
+99		He chuckles. "If Norvik's gonna be filled with esoteric pockets of fireballs, well..." 
+100		He clicks his tongue. "Then whoever wins the election's in for a fun time." 
+101		He rubs his eyes. "Well, shit." 
+102		"Another thing to report. Old Lady's not gonna believe it." 
+103		He looks you up and down. "Sure. Gotcha." 
+104		His tone implies a threat. Something like, 'If you lie to her, she'll eat you alive.' 
+105		(Leave the rubble alone.) 
+106		You are, surprisingly, confused. 
+107		You spend ten minutes simply looking around. 
+108		There's clearly damage in the center of the chamber, and the force obviously pushed everything out towards the walls. 
+109		But no matter where you look, there's no clear epicenter. 
+110		You need more time on this. 
+111		The goblin groans. "Nothing? Alright. We can take a break, or something." 
+112		He is frustrated. 
+113		There is more. Far more. The fire spreading wildly - all directions... 
+114		The center... is many. 
+115		Spells can cause most things. 
+116		Some kind of fire spell is very likely. Just look at all the burn marks! 
+117		Very obviously this chamber has been hit by a fireball spell. 
+118		Or any other type of equivalent explosive force. 
+119		He removes his sleeve from his nose and mouth. "It's a damn blast zone." 
+120		"Clearly." 
+121		"Any theories?" 
+122		"I disagree." 
+123		"Do you?" 
+124		He gestures around him, looking perplexed. "I... how do you... what?" 
+125		"This was clearly a simple fireplace failure." 
+126		"...Maybe I don't." 
+127		He stares at you, his arms still stretched out. "A fireplace filled with what?" 
+128		"Fucking gunpowder?" 
+129		Give him a slow nod and say, "Kids these days." 
+130		"...I might need to rethink my theory." 
+131		"You're right, that's ridiculous." 
+132		The goblin gives you the exact same expression you once saw on a superior officer's face, moments after you told him you wanted to open up an Urth-themed bakery. 
+133		"You <i>might</i>." 
+134		He nods. "Yes. I am." 
+135		The goblin shakes his head. 
+136		"I'll tell you what I think, Cleric." 
+137		"I think - and am fairly certain of this - that a very powerful fireball spell was cast right on this spot." 
+138		Clearly. 
+139		"But look, I'm no expert." 
+140		But he has good intuition. 
+141		"Exactly how that would happen is confounding to me." 
+142		"So let's both just look over the debris and bring as much information as we can to the Old Lady." 
+143		"Great plan." 
+144		"Why do you think it's a fireball?" 
+145		"Thanks." 
+146		He shrugs. "Pretty common spell. Powerful." 
+147		"Wouldn't be the first time either. Norvik's seen its fair share of renegade wizards over the years." 
+148		"Not too many capable of this kind of destruction. Not these days." 
+149		There used to be much more powerful wizards, before the start of the new era. 
+150		Back then Urth would wrestle with any rogue sorcerers. 
+151		Now that is your job. 
+152		The goblin lifts an eyebrow, and you feel a stirring in your lower stomach. 
+153		"What about you? Can you cast fireball?" 
+154		He asks with a little hesitation. 
+155		"Are you accusing me of something, Snell?" 
+156		"They don't teach Fireball at the Towers." 
+157		"Most clerics and paladins can't tap into arcane magics. I could. Technically." 
+158		"I don't know, am I?" he says, and makes a scary face. 
+159		He's attempting to make a joke. Laugh. 
+160		(Laugh heartily and pat your belly.) 
+161		"I certainly hope not." 
+162		(Shake your head.) "I didn't do it." 
+163		"Not. Suspicious at all." 
+164		"Woah. Don't get all tough guy on me." 
+165		The goblin sighs. "Don't worry." 
+166		He points at the rubble. "Azgalist establishment run by a bird-folk. On goblin-territory?" 
+167		"I don't see why a city cleric would be responsible for this." 
+168		"Fair enough. But my point is: someone cast this spell. And they could be lurking around Tolstad as we speak." 
+169		"Good." 
+170		The goblin smirks. "Then you can tell me if there's something off about it." 

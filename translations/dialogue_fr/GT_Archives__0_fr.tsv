@@ -1,0 +1,102 @@
+idx	french
+0	Tu vas passer un peu de temps à feuilleter les archives ?
+1	Là, <i>tout de suite</i> ?
+2	Il ne veut pas que tu passes du temps là-dessus maintenant.
+3	Il veut que tu lui dises si tu vas te coucher ou non.
+4	E-Je reviendrai peut-être plus tard...
+5	Tu parcourras du regard une épaisse pile de documents, chacun orné du symbole d'un poisson.
+6	Documents officiels de la cité. Pourraient contenir des informations utiles.
+7	Tu vois la taille de cette pile ? Il faudrait des heures pour tout parcourir.
+8	Documents ultra secrets, archivés par les clercs de la cité au fil de nombreuses années. Tu as le droit de les consulter.
+9	(Feuilleter et parcourir en diagonale.)
+10	E-(Laisser les registres.)
+11	Les documents ne sont pas très organisés.
+12	Cependant, tandis que ton regard glisse sur des titres, rapports et déclarations rédigés au fil des décennies, tu en trouves quelques-uns qui retiennent ton attention.
+13	En balayant la pile du regard, tu t'arrêtes aussitôt sur un acte de vente. Une vente par la cité... à la « Compagnie de Commerce d'Askanii-Reeds ».
+14	En balayant la pile du regard, tu réalises pleinement à quel point il te faudrait être rapide pour venir à bout de ceci en un temps décent.
+15	Cherchant un sceau officiel du Palais, tu trouves une note contenant la phrase : « Sageleaf doit être contenue ».
+16	Rien que soulever les registres un à un te donne le sentiment aigu de ne pas vouloir faire ça maintenant. Va plutôt en quête.
+17	Les dossiers les plus anciens. Concentre-toi sur les plus vieux. C'est là que tu trouveras des perspectives intéressantes.
+18	Tant de témoignages. Tant de perspectives... trop à supporter.
+19	Cherche évidemment juste la moindre mention du salon de thé.
+20	Il y a juste tant à assimiler. Tu dois bien commencer quelque part.
+21	Cependant, sois prudent. Chaque tentative d'analyser un document te prendra du temps sur ta journée.
+22	Tu t'approches de nouveau de l'archive.
+23	Tu pourrais passer un temps démesuré à trier et fouiller ces documents.
+24	Ça pourrait valoir la peine d'y passer du temps. Ou... pas.
+25	Un dilemme.
+26	Je devrais regarder les documents du dessus. Ceux simplement intitulés « AZGALS ». (Passer 90 minutes.)
+27	Je vais examiner l'acte de vente monstrueusement compliqué. (Passer 3 heures.)
+28	Peut-être ce document mentionnant Sageleaf. Ça pourrait être intéressant. (Passer 1 heure.)
+29	Et ce vieux registre ? « Efforts d'Expansion de la Côte Souterraine ». (Passer 2 heures.)
+30	Oh. Voyons ce court rapport intitulé « Incendie du Salon de Thé de Tolstad ». (Passer 30 minutes.)
+31	E-J'ai terminé ici.
+32	C'est un grand nombre de documents détaillant les membres du Mouvement Azgal local.
+33	Tu passes une heure et demie à parcourir les détails plutôt glaçants de la vie d'une poignée de membres azgals. Tu en lis quelques-uns qui semblent pertinents :
+34	<i>Alfoz. Exilé. Né à Vyz-Kha le 12 Chronus 489 È.A. 49 ans. Quatrième fils de la seconde branche de la maison Bhan-Emvers. Contremaître du Parti des Ouvriers. Inscrit pour la citoyenneté en 489 È.A.</i>
+35	<i>Simii. Exilé. Né à Norvik le 27 Soumil 497 È.A. 41 ans. Membre de la Guilde des Maçons depuis 2 PE.</i>
+36	<i>Xerba. Exilée. Née à Vyz-Kha le 2 Gorgoni 510 È.A. 28 ans. Septième fille de la troisième branche de la maison Bhan-Emvers. Inscrite pour la citoyenneté en 10 PE.</i>
+37	<i>Modissa. Humaine. Née à Norvik en 9 PE. 18 ans. Aucune affiliation de guilde connue. Il y a une liste de plus d'une douzaine de délits à son casier, et elle a été arrêtée plusieurs fois entre 12 et 18 ans.</i>
+38	Huh.
+39	C'est terrible que les archives contiennent de telles informations sur ces gens.
+40	Mais après l'avoir lu, tu as désormais une meilleure compréhension d'eux tous. Peut-être peux-tu t'en servir pour le bien.
+41	Absolument. Pour ton propre bien.
+42	Tu te demandes : qui tient ces registres ?
+43	Ça doit être des enquêteurs indépendants, engagés par la cité.
+44	Les clercs n'accomplissent pas de sale besogne de ce genre. Ça doit être quelque ignoble ROUBLARD.
+45	Ne te traite pas d'ignoble. Ce genre de truc, c'est juste grossier.
+46	Un peu intrusif. Mais ça pourrait être utile. (Rendre les documents.)
+47	Tout à fait. Si jamais tu as le funeste destin de retraiter avec des azgals.
+48	Ça doit être faux. Aucun azgal ne serait assez sot pour se laisser ficher ainsi.
+49	Il y a des milliers de reçus et de chiffres.
+50	Tu ne viendras pas à bout de ça en un temps décent. Ça te prendra des heures.
+51	Tu passes <i>trois putains d'heures</i> à vérifier les chiffres, à la fois pour les comprendre, et pour voir s'il y a quoi que ce soit d'utile.
+52	Tu finis par en arriver à une compréhension.
+53	Ils font partie d'une vieille enquête sur la Compagnie de Commerce d'Askanii-Reeds. Quand elle s'est établie pour la première fois, il y a des décennies.
+54	Ils enquêtent sur des escrocs. Bien.
+55	Et sur la manière dont la Garde-d'Urth était chargée de les tenir en respect. Jusqu'à ce que...
+56	Héh. Ouais.
+57	Beaucoup de ces reçus sont falsifiés. Ça se voit au terrible copier-coller qu'ils ont fait sur certaines dates et spécifications.
+58	Ils ne tentent même pas de le cacher. Je sens des pots-de-vin.
+59	Probablement pour dissimuler des marchandises douteuses. Ou pour convertir des pièces sales en capital imposable.
+60	Ce qui est intéressant, c'est que la Garde-d'Urth n'avait clairement pas les ressources pour suivre.
+61	La Garde-d'Urth sur Tolstad... oh.
+62	Ça ne serait pas étonnant que le désengagement financier de la Garde-d'Urth sur Tolstad soit directement lié à cette seule enquête.
+63	Pourrait être une info utile. Peut-être t'insinuer dans les poches des Errants par la parole.
+64	Ne t'en sers juste pas trop ouvertement. Tu ne veux pas ces charmants capitalistes contre toi.
+65	C'est une très bonne information. Même si c'est un peu tiré par les cheveux. (Reposer les documents.)
+66	Si les Errants sont aussi corrompus qu'ils en ont l'air, ceci pourrait être exactement ce qu'il te faut pour prendre l'avantage.
+67	Les Errants ne seraient jamais aussi corrompus. Ce ne sont que des marchands. De vrais capitalistes.
+68	Exactement ! C'est ce que tu dis depuis le début.
+69	C'est une lettre. Elle n'a aucun sens, hormis mentionner quelque chose au sujet de Dame Miska Sageleaf.
+70	Tu passes une heure à examiner la note énigmatique pour la déchiffrer.
+71	Elle est rédigée dans le jargon juridique officiel du Palais. Tu ne comprends pas grand-chose.
+72	Sauf le fait que la lettre semble contenir une sorte d'instructions pour que la Garde-d'Urth locale permette à Sageleaf de prendre le contrôle de nombre des installations de Tolstad.
+73	Elle est datée d'il y a... environ vingt ans.
+74	Mais elle avertit aussi clairement la Garde-d'Urth de ne pas laisser Sageleaf sortir de cette zone de confinement. Ses gens ne sont pas autorisés à travailler dans d'autres parties de la cité.
+75	C'est comme s'ils lui avaient donné une partie de Tolstad en guise de prison.
+76	Tu n'es pas sûr de la façon dont ça t'aidera. Mais ça semble bel et bien pouvoir être utile pour traiter avec les gobelins à l'avenir.
+77	Pas sûr que j'étais censé connaître cette information. Mais maintenant je la connais. (Rendre la lettre.)
+78	La cité cache quelque chose au sujet de cette « chef gobeline ». Ça, c'est certain.
+79	C'est l'un des nombreux êtres ésotériques cachés dans la cité, très probablement.
+80	Garde l'œil sur elle.
+81	C'est l'équivalent d'un épais volume de récits d'explorateurs de la Côte Souterraine.
+82	Tu passes deux heures à parcourir les journaux décousus.
+83	Un voyage à travers les tunnels à bascule gravitationnelle. Une traversée au-delà des tristement célèbres Gnomes-Liches de la Perpétuité.
+84	Survivre aux profondeurs des Fosses Hurlantes du Vacarme. Et à la Vallée Fongique juste au-dessus.
+85	Ce sont tous des lieux réels.
+86	Puis ça se poursuit sur plusieurs chapitres sur le thème de la traversée de la Côte Souterraine elle-même, avec des visites aux diverses enclaves et îles reculées, et les Événements Ésotériques qui modifient souvent le paysage aussi loin au large.
+87	Le savoir contenu là-dedans pourrait ne pas t'aider directement. Surtout en le survolant juste rapidement.
+88	Mais si tu tombes sur des ennuis en bas... certains de ces conseils pourraient te sauver la vie.
+89	(Jeter un œil à la note qui dépasse à la fin.)
+90	La Côte Souterraine est sacrément effrayante. (Rendre le volume.)
+91	Une courte liste est collée à la dernière page. Elle contient un tas de noms que tu ne reconnais pas.
+92	On y lit : « RÉUNIONS DE DRUIDISME. ILS SE RETROUVENT DANS DIVERS PARCS ET MANGENT UNE SORTE D'EN-CAS. NI INTÉRESSANT, NI DANGEREUX. »
+93	C'est une page unique passant en revue la déclaration officielle concernant l'incident du salon de thé le 21 mars.
+94	Tu passes trente minutes à parcourir le rapport.
+95	Il y a des détails intéressants ici. Surtout des choses que tu as déjà entendues.
+96	Cependant, un détail qui ressort est que plusieurs personnes mentionnent bel et bien un « homme en jaune » quittant les lieux.
+97	Ce n'est très probablement pas ton coupable- cependant, si cette personne évite les autorités, alors elle pourrait savoir quelque chose de pertinent.
+98	Il apparaît que tout le monde a vu ton témoin vedette, M. Moonwatch, tandis qu'il échappait à l'explosion.
+99	Ça doit être ton coupable.
+100	Intéressant. (Rendre le papier.)

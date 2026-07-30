@@ -1,0 +1,163 @@
+idx	prefix	english
+0		A wooden door blocks your path. 
+1		(Feel the handle.) 
+2		It refuses to budge. 
+3		Oh yeah. Locked tight. 
+4		Like, HEAVILY locked. This mechanism is pretty solid. 
+5		Whoever put this up really did not want anyone getting inside... 
+6		Oh, it's locked. 
+7		That means you should avoid it. It's probably trapped. 
+8		He shut it. 
+9		HE SHUT it- all to keep his PEOPLE at bay. 
+10		An OWNER in fear of his LABOR... 
+11		You're getting all that from looking at a locked door? 
+12		Your scarf wiggles slightly. "Not trapped! Meek knows!" 
+13		"That must lead to the back-office. Haven't been in here before, but I think they closed down a while ago." 
+14		"Heard rumors from some goblins that worked here- I think the owner fired them all out of nowhere." 
+15		Huh... 
+16		You approach the locked door once more. 
+17		Still locked. Obviously. 
+18		What did you expect? For it to magically open itself? 
+19	ROLL15 dex-	Pick the lock. 
+20	ROLL23 str-	Force the door open. 
+21		E-Maybe later. 
+22		"...Yeah, that's actually concerning now that I think about it." 
+23		"I'll ask around later. Nothing to worry about now, though." 
+24		Your fingers work the mechanism with precision. 
+25		<i>Click. Click. Click.</i> 
+26		The lock gives way. 
+27		You fumble with the lock, your tools slipping. 
+28		Almost... almost... 
+29		No. It won't budge. 
+30		Your hands are too clumsy for this delicate work. 
+31		Try again. Or find another way. 
+32		You slam your shoulder against the wood. 
+33		Once. Twice. 
+34		The door frame splinters and gives way! 
+35		You throw yourself against the door. 
+36		Again. And again. 
+37		But it holds firm. 
+38		Your shoulder aches. 
+39		That was stupid. 
+40		But you had to try. 
+41		You speak the words of power. 
+42		A deep booming sound echoes through the rollermill. 
+43		The lock clicks open with a satisfying pop. 
+44		The door swings open. 
+45		You see nothing but black beyond. 
+46		Complete, UTTER darkness. 
+47		"Can't see a damn thing in there." 
+48		"Is this dungeon?" 
+49		The scarf's eye slops around your head. 
+50		"No. Not dungeon. No traps here!" 
+51		You stumble inside, carefully allowing your vision to get used to the complete darkness of this underground... 
+52		Storage chamber? Office-space? 
+53		"Why don't I take the lead." 
+54		"Meek will help! Meek sees!" 
+55		Your light cuts through the gloom. 
+56		The storage chamber reveals itself. 
+57		Broken crates. Scattered papers. A mess of abandoned equipment. 
+58		"Someone left in a hurry." 
+59		You notice the ceiling. Several glow-stones lie shattered on the floor. 
+60		The explosion. It must have shaken them loose. 
+61		That tea shop blast reached even here. 
+62	ROLL11 wis-	Feel your way through. 
+63		You move slowly, hands outstretched. 
+64		Your fingers brush against walls. Around obstacles. 
+65		Eventually your eyes adjust to the faint light from the doorway. 
+66		You can make out shapes now. 
+67		"Careful, Cleric." 
+68		Broken crates. Scattered papers. A complete mess. 
+69		And on the floor... shattered glow-stones. 
+70		They must have fallen from the ceiling when the tea shop exploded. 
+71		You stumble forward into the darkness. 
+72		Suddenly, the left-most side of your left-most foot connects with something hard. 
+73		Pain shoots through your leg. 
+74		(Groan and wince.) 
+75		"You alright? That looked painful." 
+76		Massive, massive damage. 
+77		<shake>You barely felt it.</shake> 
+78		"I'm fine. Totally fine." (Seethe.) 
+79		"FUCK! That hurt!" 
+80		(Bite back the pain.) 
+81		You are not fine. 
+82		But you'll survive. 
+83		SPLITTING. PAIN. 
+84		What did you expect? 
+85		Teeth clenched. Eyes watering. 
+86		But you keep moving. 
+87		Eventually your eyes adjust somewhat. 
+88		You can see shapes now. Vaguely. 
+89		The storage chamber is a disaster. 
+90		Broken equipment. Scattered papers. Shattered glow-stones on the floor. 
+91		The tea shop explosion must have knocked them from the ceiling. 
+92		That blast... it shook everything. 
+93		(Push forward.) 
+94		You wade through the debris. 
+95		This place has been abandoned for some time. 
+96		Dust covers everything. 
+97		"What a dump." 
+98		"Meek smells old human-scent. Very old!" 
+99		(Search for anything useful.) 
+100		You sift through papers and crates. 
+101		Most of it is worthless. Old receipts. Inventory lists. 
+102		But then you find something. 
+103		(Pick up the document.) 
+104		A notice. Official letterhead. 
+105		"<i>Notice of Termination - Collective Action Violation</i>" 
+106		You scan the text. 
+107		The rollermill owner fired everyone. 
+108		They tried to form an Azgal union. 
+109		All workers dismissed. Effective immediately. 
+110		"Brutal." 
+111		"Human boss-Big was mean!" 
+112		That explains why this place is empty. 
+113		The owner shut down rather than deal with organized labor. 
+114		"Typical." 
+115		"The workers deserved better." 
+116		"Good. Unions are troublemakers." 
+117		(Say nothing.) 
+118		Classic move. 
+119		Fire everyone and close up shop. 
+120		They did. 
+121		But the world rarely gives people what they deserve. 
+122		Keep the workers in line. 
+123		That's how you run a business. 
+124		Silence in the chamber. 
+125		"Tale as old as time." 
+126		"Or at least, as old as factory work. It's <i>bourgeoisie bullshit</i>, all the way to the top." 
+127		Bourgeoisie? 
+128		He's showing his bleeding heart. 
+129		Snell is correct. Sadly. 
+130		The document does not respond. 
+131		He shakes his head. "Ignore me, I'm getting tired here." 
+132		You continue deeper into the chamber. 
+133		At the back, you find an office. 
+134		The owner's private space... 
+135		"Check the desk." 
+136		(Approach the desk.) 
+137		Old papers. Ledgers. More termination notices. 
+138		And then... a drawer. 
+139		Locked, but poorly. 
+140		(Force it open.) 
+141		The drawer slides open with a snap. 
+142		Inside lies a smooth stone. One with several faces adorned on its sides. 
+143		It pulses faintly with esoteric energy. 
+144		A magic item. 
+145		ESOTERIC. 
+146		(Examine the stone.) 
+147		You pick it up carefully. 
+148		<i>Tingles</i>. 
+149		A Sending Pebble. 
+150		Oh shit. These are expensive! 
+151		Useful tool. Very useful. 
+152		(Pocket the stone.) 
+153		You slip the Pebble into your pouch. 
+154		Time to leave. 
+155		This place has given you all it can. 
+156		"I'm not finding anything else here." 
+157		"Let's go." 
+158		"Meek will help find exit! Come, come!" 
+159		(Exit the storage chamber.) 
+160		You make your way back through the darkness. 
+161		E-What a lovely delve. 

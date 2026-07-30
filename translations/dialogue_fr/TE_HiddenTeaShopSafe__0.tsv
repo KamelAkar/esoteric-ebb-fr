@@ -1,0 +1,94 @@
+idx	prefix	english
+0		You spot an indent in the wall. 
+1		Something is there. 
+2		The goblin squints, his eyes going from the hole to you. 
+3		He nods. 
+4		With a faint tug the wall tile breaks apart, revealing a soot-covered, but otherwise intact, <i>safe</i>. 
+5		Right where he said it was. 
+6		"That's one expensive box. Not the type you'd find in the back of a tea shop." 
+7		Let's see what the birdman's got for you... 
+8		It could contain important evidence. Force it open! 
+9		You're gonna bend solid steel? Just input the combination, come on. The birdman told you! 
+10		The safe is covered in iron studs, having been reinforced by a highly skilled blacksmith. 
+11		There's a rotating handle at the center - its position used to input the entry code. 
+12		Fine craftsmanship. 
+13		(Enter the safe's entry code.) 
+14		Of course there's a safe in the owner's office. Just makes sense. 
+15		Jackpot! Let's get this bad boy open... 
+16		You're gonna bend solid steel? Don't think so, big guy. 
+17		If you listen to the clicking noise within, you should be able to get it open... 
+18		The goblin is correct. This does not make sense. 
+19		Unless this birdman deals with something more valuable than tea leaves. 
+20		You approach the open safe. 
+21		You approach the safe. 
+22	ROLL14 dex-	Attempt to get it open. 
+23		E-I should ignore the safe, for now. 
+24		You whisper the magic word. An old Diminorian term that would be translated into something like, 'Full Access'. 
+25		You rotate the handle around while pressing your ear against the cold iron. 
+26		You listen to the tiny clicks within, stopping the rotation when you do. 
+27		Your companion quietly watches with an intrigued expression on his face. 
+28		The goblin is surprised and impressed. 
+29		After several careful turns of the handle, you hear a satisfying thump from inside the safe. 
+30		You rotate the handle around in the correct positions. 
+31		Your fingers fumble about the handle. 
+32		After several rotations you hear a tiny click from inside. 
+33		Oh. You did it! That's the correct rotation! 
+34		(Pull the handle.) 
+35		A sharp pain spreads through your hand. 
+36		Instinctively you pull back. 
+37		Out of the handle you see a tiny blade. It would have pierced through your hand if you hadn't moved away in time. 
+38		You see a tiny blade sticking out of the handle. 
+39		No wait, not just the handle. 
+40		The blade is currently sticking through your hand. 
+41		You carefully remove your now bleeding hand from the blade. 
+42		Leaking. Beware. 
+43		Do not allow piercing of this kind. 
+44		Oh, shut up. 
+45		It's a clean cut. You're barely bleeding. 
+46		"What's going on? You okay, Cle-" 
+47		Snell stops and stares at your hand. 
+48		"It's a clean cut. Not that bad." (Keep bleeding on the floor.) 
+49		"Uh... oh boy." 
+50		You'll live. The pain is temporary. 
+51		"The bird trapped his damn safe? That's diabolical." 
+52		It means he has things he truly wants to keep secret. 
+53		Well now you know the safe is trapped. So, you know, it'll be easier next time. 
+54		<b>Next... time?</b> 
+55		E-Leave the safe. For now. 
+56		And... 
+57		The safe opens with a metallic scraping noise. 
+58		A layer of soot falls off as the contents are revealed to you. 
+59		Yes! Well done! 
+60		"Well done, Cleric. Now let's see what we got..." 
+61		You glance inside. The fire certainly did not reach anything here. 
+62		(Grab the coins.) 
+63		(Grab the strange rocks.) 
+64		(Grab the exotic container.) 
+65		(Grab the spell scroll.) 
+66		You grab the pouch and add the 101 crowns to your collection. 
+67		You pocket them all. 
+68		You grab it. It contains some type of mushroom dust. 
+69		A form of light mago-drugs. Not even illegal. But expensive. 
+70		Nice. Snort it! 
+71		It is not drugs. 
+72		It is magical enhancements. 
+73		Drugs would not be allowed at the Towers. No Cleric can take such substances. 
+74		But this? It's not good for you, no, but it could be useful - and more importantly, you are allowed it. 
+75		The birdman was into some dank stuff. This'll keep you alert a bit longer. 
+76		"Nasty sludge. Enjoy it, Cleric." 
+77		You grab the scroll. 
+78		It contains the spell 'Detect Poison and Disease' which has very specific use-cases. You will most likely not need it. 
+79		The birdman must've had it around to check bad tea, I guess? 
+80		The owner must have been very paranoid to keep this around. 
+81		Unless you've got nefarious enemies, there's no point in keeping a spell like this around. 
+82		"Interesting. This guy seriously thinks someone's going after him." 
+83		"And technically we are, but this was before the explosion." 
+84		You look at the paper. 
+85		A single, very long sentence is written on it. 
+86		<i>REMINDER: THE THIRD TILE TO THE LEFT BEHIND PAINTING IF IT DOESN'T WORK FIRST TIME TRY THREE MORE TIMES AND THE SECRET HIDDEN PASSAGE WILL OPEN -Myself</i> 
+87		<i>Wow.</i> 
+88		(Glance towards the burnt picture frame on your right.) 
+89		Yep. You can open that secret passage now. 
+90		The goblin stares at the paper. 
+91		"Right. Secret door. Got it." 
+92		"And just gotta say: this <i>nefarious shit</i> Drummer was doing here? It's a miracle we didn't catch it sooner." 

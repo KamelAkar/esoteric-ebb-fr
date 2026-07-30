@@ -1,0 +1,182 @@
+idx	prefix	english
+0		A horrid noise in the dark. 
+1		Moving. A mess of rusty iron and clattering bones. 
+2		Moving towards you. 
+3		"No, no, no..." 
+4		"I hate the crypts...!" 
+5		IT CALLS TO YOU. 
+6	IROLL-	Roll initiative. 
+7		Is that... a skeleton? 
+8		Incoming undead. It is set on killing you. 
+9		NO. SHIT. 
+10		"Destroy it!" 
+11		"Don't you have some holy magic against this thing?" 
+12		The goblin brings out his sling. In one swift move he launches a projectile towards the abomination. 
+13		It flies right through its open rib cage. 
+14		Taking stilted steps towards you, the skeleton raises its sword-hand. 
+15		The blade comes down, striking you in the shoulder. 
+16		A bone-chilling shriek emanates from the skull. 
+17		As the blade comes down, you sidestep it. 
+18		"Good, don't let 'em hit you." 
+19		The skeleton flails around on the spot, clearly losing its focus after the miss. 
+20		You must defend yourself! And smite this foul abomination! 
+21		Be afraid. This is a warrior of old... 
+22		Too late to run away! But you gotta stay loose, or this thing'll cut you into pieces. 
+23		JOIN YOUR BROTHER. 
+24		The bones are outside of the body. 
+25		They must return. 
+26		Clearly, any type of piercing or slashing damage would be near useless against this creature. 
+27		Blunt force is what you need. 
+28		Blunt force? Your fists will lead the way. 
+29		Can't I just... tell it to stop? 
+30	ROLL18 str-	Punch the skeleton. 
+31	ROLL15 dex-	Try to dodge. 
+32	ROLL23 con-	Give him a hug. 
+33		Would hugging it help in any way? 
+34		Fucking <i>how</i>? 
+35		<shake>Skelepathically</shake>?! 
+36		Yeah. No. Talking ain't going to help you here. 
+37		Being friendly never hurts. 
+38		Your swing misses the skeleton completely, as it jitters back in an unnatural fashion. 
+39		As if it is animated by some foul punch-dodging force. 
+40		More or less. 
+41		Your feet. They dance. 
+42		Side to side - your eyes focused on the skeleton's blade. 
+43		You're ready for anything. 
+44		You attempt to move with the attacks, but you just end up stepping on your feet. 
+45		Nearly falling over. But not quite. 
+46		With rattling bones, you step forward. Your arms outstretched. 
+47		"What are you doing? Get back!" 
+48		It is TOO LATE. 
+49		As you grow closer to the skeleton, you find yourself unable to hold its increasingly jittering body language. 
+50		You cannot hold it still. 
+51		Wait... 
+52		You spot something strange. Maybe. 
+53		You cannot calm your brother. 
+54		With a quick lash, the skeleton manages to get loose from your grip, and in the process hits you in the helmet. 
+55		Sending your mind spinning. 
+56		YES. 
+57		NO. 
+58		This might be your last chance. The skeleton is growing more and more frantic. 
+59		What's happening? Are you losing? 
+60		"Focus!" 
+61		Letting go of his sling, the goblin instead goes in for a kick to the skele-shins. 
+62		While the creature is jittering about, Snell still manages to hit it - sending it scrambling to regain balance. 
+63		"Now! Get him!" 
+64		The skeleton gives off a deep hiss, as it again strikes at you. 
+65		This time, stabbing you right in the chest. 
+66		The mail stops it from reaching your <b>heart</b>. 
+67		The skeleton is off-balanced, and missing its next strike. 
+68		It flies past, inches from your face. 
+69		You'll have to push it further. 
+70		Fight! 
+71		It's useless. The bones are too strong... 
+72	ROLL10 dex-	Try to dodge. 
+73	ROLL20 wis-	Look for a weakness. 
+74		"I'm trying!" 
+75		"And- <i>you're the fucking cleric</i>! Use your magic or something!" 
+76		Uh-oh. 
+77		You look around the skeleton's scrap-covered bones as it wriggles around. 
+78		But alas. You cannot find some mystical weakness. 
+79		Not in this chaos. 
+80		Bones and iron stabilize in front of you. Focusing on its only task. 
+81		It hasn't been long, but now you realize the skeleton is getting its bearings. 
+82		By the gods, it's going to kill you. 
+83		This will be the end. 
+84		"That's right... come here you piece of shit..." 
+85		The goblin lines up a shot with his sling and mutters, "I've got you now." 
+86		Your last chance. 
+87		Take it or die. By <b>Urth's valor</b>. 
+88		Oh. By Urth. 
+89		You're dead. 
+90		"Shut up. I've got this." 
+91		Bone. Against. BONE. 
+92		You quickly constrict your brother with your flesh-wrapped bones. 
+93		It squirms. 
+94		But it cannot leave your grip. 
+95		"Holy shit, Cleric...!" 
+96		"Keep him like that!" 
+97		"Can you feel the brotherly love?!" 
+98		"Stop squirming!" 
+99		(Hold him closer.) 
+100		The skeleton shrieks. 
+101		As it does, Snell starts kicking it. Over and over. 
+102		As bones break, the dust flying out across the chamber, the shriek fades. 
+103		Whatever evil animated this corpse seems to fade away, leaving only a husk in your bosom. 
+104		DE-ANIMATED. 
+105		"There we go, finally..." he mumbles, taking heavy breaths. 
+106		(Let go.) 
+107		The foe has been vanquished. 
+108		Death through love. 
+109		"Ballsy move. But quick thinking." 
+110		There! 
+111		As you move around it, you spot an arrowhead jammed into its spinal cord. 
+112		You glance to the goblin, who gives you an erratic nod. 
+113		"Go!" 
+114		(Pull it out.) 
+115		With a single tug... 
+116		You watch as the structure of this bony apparition completely collapses. 
+117		As the thing's shriek fades, rib cage and skull fall into itself. 
+118		You focus intense necrotic energy into your fist. 
+119		The necrotic damage won't actually do much to the undead. 
+120		But the punch will. 
+121		With a single swing you line up a perfect strike. 
+122		Your fist connects with the thing's skull, cutting off its horrid shriek. 
+123		The impact sends its skull flying off- as the rest of it collapses upon the crypt floor. 
+124		"Great hit!" 
+125		You speak the words of your god. The sacred power flows through them, through you. 
+126		And the horrid shriek of the skeleton intensifies - until it turns and <b>runs</b>. 
+127		"<b>Begone, abomination</b>!" 
+128		As if looking for a way out in a state of panic, the thing scrambles in multiple directions. 
+129		Unfortunately, those directions conflict with one another, which causes the bones to break apart on the spot. 
+130		"That's what I'm talking about!" 
+131		He gives you a tap on the back. "Cleric magic!" 
+132		The skeleton is just about to strike when Snell rushes its legs - a full body slam. 
+133		He causes the thing to completely fall over, crashing onto the hard ground. 
+134		"Hah! That's what you <i>get</i>!" 
+135		The skeleton lines up a strike. You see it coming. 
+136		As if time itself slows down, just for your final moment, you watch as the rusted blade perfectly strikes at... 
+137		The bones spill to the ground in a pile of dust and scrap metal. 
+138		No other threats? 
+139		No. None. 
+140		No other threats. This skeleton must have been the only guardian. 
+141		"You're welcome." 
+142		"You did... good too." 
+143		You've performed your duty. This crypt has been cleansed. 
+144		That's an overstatement. 
+145		Why do you put yourself in these situations...? 
+146		The goblin leans on his knees, panting. 
+147		"Gods. I hate crypts." 
+148		He raises a finger and wags it. "Nothing good ever came from constructing a crypt." 
+149		"You either get a cursed place filled with death, or a meat grinder filled with undeath." 
+150		His veins are nothing but adrenaline. 
+151		"Are you insane? Look at this place, it's like-" 
+152		"Really, a genuinely smart tradition." 
+153		"Best thing humans ever invented." 
+154		"Actually, I think it was a dwarven thing originally." 
+155		"Oh yes. For sure." 
+156		"Oh." 
+157		"Well, it was smart to adopt it. Or at the very least, it-" 
+158		A bang from somewhere far away echoes down the hallway. 
+159		The goblin jumps. 
+160		A shiver down your spine. 
+161		Then the chamber grows silent once more. A scent of death still lingers. 
+162		He clears his throat. "Fuck this place. Let's go." 
+163		Let's see what kind of loot we get... 
+164		This was a great warrior in his time. 
+165		You have honored him with one final fight. 
+166		(Say a prayer to Urth.) 
+167		(Just focus on looting the corpse.) 
+168		(Do something in-between grave-robbing and religion.) 
+169		(Be apolitical.) 
+170		You do so. 
+171		Hells yeah. 
+172		You will have to consider where on the spectrum your actions will land. 
+173		Good choice. Proud of you. 
+174		E-...Right. 
+175		"Which is?" 
+176		"Some respect." (Whisper a prayer to Urth.) 
+177		"A good old-fashioned <i>looting</i>." 
+178		"I'm not sure. But he looks like he used to be a real warrior of Urth. So..." 
+179		"Right. I get it." 
+180		E-I'll do what I must. 

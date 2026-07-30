@@ -1,0 +1,59 @@
+idx	prefix	english
+0		A stack of books sits crooked on the floor, half-buried under layers of dust. 
+1		The blue light from windows appears to land upon the surface and <i>stick</i>. 
+2		As if it is not real. 
+3		You recognize the binding style. 
+4		These are late Arcane Era. 
+5		One tome is clearly arcane - the cover bears ward-marks that make your eyes itch. 
+6		"Doesn't seem like there's any danger here, right now at least." 
+7		"If you wanna check out some books, go for it. I'll chill for a while." 
+8		"Meek says, old master books are free for checking!" 
+9		"But if read wrong passage, big hurt! Remember!" 
+10		The books wait where you left them. 
+11	ROLL12 int-	Decipher the warded tome. 
+12		E-These books are not worth the headache. 
+13		"Old master has ward on all!" 
+14		"Spell cast delayed spell! Hurt big if not careful!" 
+15		Then just leave them alone? 
+16		The knowledge will be worth it. Surely. 
+17		The spell brightens your ability to read these chaotic books. 
+18		Well done. This will surely make understanding the journal easier as well. 
+19		The wards recognize your competence. They part like curtains. 
+20		Inside, you find a treatise on sensory magic. Illusions. 
+21		This Hagginshags was studying the relationship between perception and reality. 
+22		Rigorously. Mathematically. 
+23		Hundreds of pages of experiments, of the mixing of illusion and divination. 
+24		(Look over his results.) 
+25		He posits the mind does not <i>receive</i> reality - it <i>constructs</i> it. 
+26		Each moment, your senses gather fragments. <i>Color. Sound. Pressure. Heat.</i> 
+27		Then something deeper - something he calls the 'interpretive layer' - assembles those fragments into a coherent world. 
+28		The question he asks, not quite so directly: what happens when you tamper with that layer? 
+29		Not showing someone a fake image. Not casting darkness over their eyes. 
+30		Rather, reaching into the mechanism itself through esoteric means, thus <i>adjusting the assembly</i>. 
+31		This does not appear too far-fetched. 
+32		It does not. This seems to align well with the scholarly basis of your education. 
+33		However, the next part does not. 
+34		The last half of this tome: Throughout many trials, mostly performed on himself, you gather... 
+35		This man who calls himself a Hagginshags - he shows results pointing towards a measurable conduit within every String. One visible only through this altered layer. 
+36		'THE BLOOM OF JOR LIES UPON EACH CASTER,' he writes. 'ALL CHANNELED THROUGH THE GATES. INVISIBLE. HIDDEN. EVEN THE OUTER GODS ARE BLIND.' 
+37		'HOW ELSE WOULD THE LICH SUSTAIN HIMSELF? HOW ELSE DO THE POCKETS BOTH INCREASE BELOW AND DECREASE ABOVE?' 
+38		'ONLY I CAN SEE THE TRUTH - ONLY I CAN MASTER THE RELIC LEFT BY UMBRAMEEXUS. ALL I NEED IS TO LOCATE IT. THAT ONE WORD. ONE KEY TO UNLOCK A WORLD OF TOTAL DOMINANCE IN THE NEW ERA.' 
+39		'ALL I NEED IS POWER WORD: EBB.' 
+40		(Stare at the last page.) 
+41		Madness. 
+42		The type of madness only born from revealed truth. 
+43		"New master has read old master's book?" 
+44		"Meek is very impressed!" 
+45		(Close the tome, carefully.) 
+46		The wards seal themselves behind you. Satisfied, perhaps, that you treated their contents with respect. 
+47		The wards do not recognize you. 
+48		You push anyway. A scholar's arrogance. 
+49		(Try to close it.) 
+50		The book <i>bites</i>. 
+51		Pain - of the immaterial kind - lances through your skull. 
+52		For a split second you perceive the color of your own name. The sound of the number seven. The weight of yesterday. 
+53		Then it passes, leaving you nauseous and hollow. 
+54		The tome's covers snap shut. The wards glow smugly. 
+55		"New master must be careful!" 
+56		"Old master left many nasty tricks...!" 
+57		(Stagger back from the desk.) 

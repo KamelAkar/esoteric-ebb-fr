@@ -1,0 +1,460 @@
+idx	prefix	english
+0		Among all the ancient tomes and scriptures - each holding a world of knowledge inside - the one you seek is here right on the ground. 
+1		Tingling teal cover. Golden pages. An esoteric gem upon the latch. It almost blinds you with its radiance. 
+2		Book_of_the_Mind,_Sixth_Edition 
+3		It's large, in both width and thickness. 
+4		As well as in its content. 
+5		Tome of <i>hunger</i>. 
+6		Your FEAR it. You CRAVE it. 
+7		(Open the latch.) 
+8		Right away it says on the first page, in big bold lettering: <i>BLOOD PROPERTY OF HOUSE HAGGINSHAGS</i>. 
+9		<i>BOOK OF THE MIND, by CIVIDIX. 6th edition</i>. 
+10		Hm. How intriguing. This begs a most indomitable question: 
+11		Is it haggin-<i>shags</i>, or <i>haggins</i>-hag? 
+12		Ah. 
+13		Hagginshags. Of course. It must be a century old. 
+14		Huh. Look at the ink. 
+15		Looks pretty modern, doesn't it? 
+16		Hm. 
+17		An interesting observation. 
+18		"Won't you look at that..." 
+19		The book Appledent wanted. <b>Quest complete</b>. 
+20		Or rather, he wants to see the sizable foreword, taking up the first dozen pages of the book. 
+21		The scholar will be glad once you deliver it. 
+22		"If the upper class could be encapsulated into a single tome, I think it'd look like that." 
+23		"I feel unworthy." 
+24		This was easy. Too easy. (Look around.) 
+25		(Just leave.) 
+26		"Eh. Maybe. Or covered in the blood of the working class." 
+27		"IT IS THE WAY IT IS MEANT TO BE." 
+28		"YOU ARE." 
+29		Hold on. There's something... 
+30		"What's up?" 
+31		"YOU WILL CEASE." 
+32		"STAY. WHERE. YOU. ARE." 
+33		A blinding light, from below- shooting into the endless above. 
+34		BEHIND YOU. 
+35		(Turn around.) 
+36		At the center of the strange spiral abyss, floating, your eyes adjust to catch a glimpse of one surreal shape. 
+37		A glorious, spectral delight. 
+38		That light... this is an Arcane Apparition. 
+39		None but the greatest Arcanists held the knowledge to craft one of these... 
+40		"Who are you?! Identify yourself!" 
+41	DC15 int-	"An Apparition. Watch out, Snell." 
+42		"WE ARE MANY PAGES. ALL WORDS." 
+43		"NO." 
+44		"YOUR ARCA-NISTS DID NOT PRODUCE ME." 
+45		The goblin is glaring at the horrific <i>thing</i>, yelling, "I am! I am!" 
+46		"NO. YOU ARE NOT." 
+47		"WE. SEE. YOU." 
+48		"I'm not allowed to take the book, I presume." 
+49		"The book is mine." 
+50		"I've been tasked with retrieving this book. You cannot stop me." 
+51		"Sorry, I'll put it back." 
+52		"A TRUE STATEMENT." 
+53		"A FALSE STATEMENT." 
+54		"WE CAN AND WILL." 
+55		"IT IS OFF THE SHELF." 
+56		"Actually, it was on the floor, I just-" 
+57		"THE STRING IS IN MOTION." 
+58		While the library shakes lightly at the tone of this esoteric entity's voice, you do feel there is no immediate threat here. 
+59		That, however, could change quickly. 
+60		Your companion nervously glances to you, and whispers, "You do your thing, okay?" 
+61		"Interesting, tell me more about yourself." 
+62		"Can you see the Strings of Jor?" 
+63		"What's the rarest books you've got here?" 
+64		"Do you stay in the same place, or do you move about?" 
+65		"Who created you?" 
+66		"Was that your book on the outside?" 
+67		"I really did not mean to steal from you." 
+68		M-"...What do you want from me?" 
+69		"WE ARE THE LIVING LIBRARY. THAT WHICH ROAMS THE WALLS, THE FIELDS, THE FRAYS OF IOMESTRA." 
+70		"BUILT UPON WORDS OF ALL. THE WORDS OF THOSE WHO SPIN THE YARN, YET DO NOT THREAD THE STRING." 
+71		Hm. It speaks through a filter. As if it is translating its words directly from an ancient tongue. 
+72		"What the fuck are you talking about?" 
+73		"That's very interesting. What else can you tell me?" 
+74		"<i>Iomestra?</i>" 
+75		"TRUTH." 
+76		"EVERYTHING. AND NOTHING." 
+77		"THE LOCAL APPRENTICE. THE ONE WHO MELDED WITH THE STONE." 
+78		One of the eight... how fascinating. Does that mean the Askan-apprentice is stuck in the foundation of Norvik? 
+79		Such clear and effective communication. 
+80		This esoteric being is instructed to speak only what it knows to be true. 
+81		Perhaps it knows only what the books around it knows? 
+82		Something akin to that would be logical. 
+83		"WE ARE ONE. WITH THE STRING." 
+84		"RARITY IS A TRAIT DETERMINED BY THE BEHOLDER." 
+85		"I mean, yeah, but like in <i>your</i> opinion." 
+86		"But like, which book can't be found anywhere else?" 
+87		"I see." 
+88		"But if you had to pick one, which one is objectively the most sought after and, in  terms of contained information, most difficult to find elsewhere?" 
+89		"WE DO NOT CONVEY THROUGH OPINION. WE LIVE THROUGH WRITTEN FACT." 
+90		"WE HOLD THOUSANDS OF WRITTEN WORKS, WHICH CANNOT BE FOUND ANYWHERE ELSE." 
+91		"YOU DO NOT. YOU EXPECT AN ANSWER." 
+92		"That's true." 
+93		"You're a bit difficult to hold a conversation with, ghostly library." 
+94		"WE HOLD THREE TOMES, EACH OF WHICH HOLDS A LEVEL OF UNIQUENESS AND UNIVERSAL DESIRE AMONG THE POPULACE OF THIS PLANE THAT THEY CAN BE CONSIDERED THE MOST 'RARE' COPIES IN THE COLLECTION." 
+95		"SIXTEEN LESSONS OF CHRONOMANCY, BY CHRONOMANCER." 
+96		"THE CODEX OF ULTIMATE WISDOM, BY ASSORTED AUTHORS." 
+97		"AND A COPY OF THE VULGATA, BY SAINT JEROME." 
+98		Chronomancy? <i>Chronomancer</i>. 
+99		Ask more. Now. 
+100		The Codex. 
+101		That is the foundational text of the Aevan theocracy. 
+102		A Vulgata? Isn't that a book on knighthood? 
+103		A Vulgata! 
+104		A copy survived? 
+105		"Tell me more about the text on Chronomancy." 
+106		"The <i>Codex</i> of <i>Ultimate Wisdom</i>?" 
+107		"Where did you get a Vulgata?" 
+108		"Those seem like some rare texts." 
+109		"NO. ITS CONTENT IS KNOWN ONLY TO THOSE WHO CAN OFFER AN EQUAL EXCHANGE." 
+110		"IT WAS THE GREATEST TREASURE LEFT BY HIMVRÂK HAGGINSHAGS." 
+111		You must seek out this wizard Himvrâk after the election. 
+112		There is simply too much knowledge to pass up here. 
+113		"THE ORIGINAL, TAKEN VIA RAIDS A THOUSAND YEARS AGO. LEFT BY RODOAR DE LA GARRA VERDE." 
+114		The Whitemanes. The lionfolk must have taken it. It lines up. 
+115		What a fascinating piece of lore to uncover. Unfortunate you cannot restore it to its rightful people. Not today, at least. 
+116		"ULRIC DREIZEHN. THAT IS THE NAME THAT WAS GIVEN." 
+117		That does sound like the name of a First Knight. Like from the magazine tales. 
+118		"YES." 
+119		"THEY ARE HIDDEN FROM YOU, FOR YOU DO NOT HOLD ANYTHING OF EQUAL VALUE." 
+120		"That makes sense." 
+121		"I take offense to that. Do I look that poor?" 
+122		"What if I could go get something of more value and come back?" 
+123		"YOU DO NOT HOLD ANYTHING OF EQUAL VALUE." 
+124		"ONE VISIT. ONE TRADE." 
+125		"THE LOCATION CHANGES. THE WORTHY ARE DRAWN NEAR." 
+126		"I see. So it's a temporary popup sort of situation you've got going here." 
+127		"So it changes on a seasonal basis, or...?" 
+128		"I understand. It's esoteric bullshit." 
+129		"WE ARE WHERE THE EXCHANGES CAN BE MADE. NO WHERE ELSE." 
+130		"THE MINDS OF TOULIN'CATL. THE CORD PULLERS. SERVANTS OF JOR." 
+131		"Jor is dead." 
+132		"Those who made you are dead." 
+133	FC18 int-	"Did your creators live here? In Askan?" 
+134	DC18 int-	"The snailfolk of Askanii. I see." 
+135		"JOR IS." 
+136		"JOR SEES." 
+137		"THE MINDS OF TOULIN'CATL ARE EVERLASTING." 
+138		"THE CORD PULLERS BUILT THEIR EMPIRE AROUND THE GATE. THAT IS WHERE. THEY. ARE." 
+139		"THAT IS WHAT MANY OF YOUR KIND SAY, YES." 
+140		"WE ARE. ALL TEXTS." 
+141		"THE WRITTEN, THE PAGE, THE TOME, THE BOOK." 
+142		"WE ARE." 
+143		An esoteric knowledge bank. Collecting the written word from everything within... perhaps a few miles? 
+144		An intense magic. Perhaps beyond even that of the Arcanists. 
+145		"YOU HAVE TAKEN. IT HAS BEGUN." 
+146		"A PIECE GIVEN. A PIECE RETURNED." 
+147		"AN EGALITARIAN EXCHANGE." 
+148		"So, what, I need to give you a book of equal value?" 
+149		"Hold on, isn't this a library? Can't I just return it later?" 
+150		"Can you tell me who left this book here?" 
+151		R-"I don't have anything for you." 
+152		"Can I just return the book?" 
+153		"A PIECE. THAT IS EQUIVALENT." 
+154		"And how is that valued? Do you value it, or...?" 
+155		"A PIECE. THAT IS. EQUIVALENT." 
+156		Helpful. 
+157		"THE COLLECTION MUST BE COMPLETE." 
+158		"THE BOOK OF THE MIND WAS LEFT BY HIMVRÂK HAGGINSHAGS. IN EXCHANGE, A PIECE OF EQUAL VALUE WAS GIVEN." 
+159		Hagginshags? That bloodline is supposed to be gone. 
+160		"Hagginshags? Who was that guy?" 
+161		"...What did that guy give in exchange?" 
+162		"HIMVRÂK HAGGINSHAGS. THAT WAS THE NAME GIVEN." 
+163		"THE PIECE GIVEN WAS THE BLOOD ORDER OF DOUG." 
+164		"Of Doug?" 
+165		"OF DOUG." 
+166		"Of... Doug?" 
+167		"DOUG." 
+168		"Which Doug?" 
+169		"<shake>DOUG DOULIN DIM</shake>." 
+170		"Ah. That Doug. Legendary figure." 
+171		"Can I see the Blood Order?" 
+172		"Right. That's the Drake Slayer guy." 
+173		"YES. ONE OF YOURS." 
+174		"IT IS NOT WHAT YOU ASKED FOR." 
+175		"Yeah, I know, but can't I browse the collection?" 
+176		Fair enough. Rules are rules. 
+177		If there wasn't a strange apparition ruling over this place, you could totally sneak over and take a look. 
+178		No. Nothing. 
+179		This book must be worth a fortune. A hundred thousand crowns to the right collector? Maybe? 
+180		A monetary value, no. But in more subjective terms? 
+181		Well, darn. 
+182		Indeed. 
+183	ROLL4 int-	Try to figure out an equal exchange. 
+184		"THERE MUST BE AN EQUAL EXCHANGE." 
+185		"I don't think this thing's going to back down." 
+186		"THE PIECE IS SELECTED." 
+187		"What happens if I leave with the book without leaving something in exchange?" 
+188		"What happens if I leave without taking the book, and I don't leave anything in exchange either?" 
+189		"So, basically, I can't back out of this little deal we've got going here?" 
+190		"THAT IS NOT PERMITTED." 
+191		"THAT. IS." 
+192		For a beat, there is complete silence in the chamber. 
+193		Then the voice says, "NO." 
+194		"I think you confused it there for a second." 
+195		"But yeah, this is fucked. You either give it something of equal value, which I don't think you can, or we... I don't know, die?" 
+196		"I'd prefer not to die," he states plainly, "So maybe we can just run?" 
+197		No, there is nothing you have that monetarily exchanges equality to this tome. 
+198		However... 
+199		It's not connected to a monetary value. At all. 
+200		It is not. 
+201		While powerful, it would be unlikely that this thing would apply its own Material Break to the value on texts. 
+202		Simply because it would not keep the value of the collection intact. 
+203		If you take out this book, and then spread the secret 'foreword' hidden within, that Appledent spoke so longingly about... 
+204		Then the value would crash. 
+205		And the monetary value of the collection would collapse. 
+206		It has to be an object of... what, sentimental value? 
+207		More or less, yes. 
+208		Something that symbolizes a similar value, on whatever ineffable level this apparition appraises its 'collection'. 
+209		Which means there is only one object in your possession that would reach, in any way, a high enough level of value. 
+210		And you know what it is. 
+211		(Grab your Pouch of Holding.) "No..." 
+212		"What? You've got something?" 
+213		"AN EQUAL EXCHANGE," says the apparition. The light at the center of the spiral growing more apparent. 
+214		"My..." 
+215		"My <i>Voting Card</i>." 
+216		Yes. 
+217		"Your what?" 
+218		"THAT. WOULD. BE..." 
+219		An equal exchange. 
+220		"AN EQUAL EXCHANGE." 
+221		You know it. 
+222		You've sworn to guard it with your life. 
+223		It is a symbol of your political internal struggle. 
+224		What kind of man would just throw it away? 
+225		You're not <i>just</i> throwing it away. 
+226		A vote is just one vote. If you get that book, you could, you know... 
+227		Buy as many votes as you want. 
+228		You're just upgrading it. Democracy isn't <i>that</i> important. 
+229		Yes. The vote is useless. Just get the book. 
+230		You've struggled for ages over how to make your voice heard. 
+231		Is this the time to falter? Truly? 
+232		What a terrible conundrum! (Just do it.) 
+233		You should think about this, hard. (Come on. Just do it.) 
+234		You're holding the Voting Card in your hand. On its surface you see the marks of an indecisive man, lit up on the glow of the Living Library. 
+235		"Cleric?" 
+236		"AN EQUAL EXCHANGE. STATE YOUR FULL NAME AND THE NAME OF YOUR PIECE." 
+237		(Give away your Voting Card.) 
+238		(Run.) 
+239		You nod towards the light. It then repeats the command. 
+240		"STATE YOUR FULL NAME AND THE NAME OF YOUR PIECE." 
+241		"Ragn Hemlin." (Hold it up.) "Ragn Hemlin's Voting Card." 
+242		(No. Just run.) 
+243		The Card is grabbed from your hand, as if swept up by a non-existent wind. 
+244		No. 
+245		You have nothing equal. 
+246		Not even close. 
+247		Not even the- 
+248		You have no choice here. 
+249		Logically the only way to survive here is to- 
+250		(Nod.) "Right. I've decided." 
+251		(Hold up some pocket dust.) "This is my offer." 
+252		"Uh. <i>Shit</i>." 
+253		He glares at you. He glares at the apparition. 
+254		Then he glares back at you, nodding. 
+255		"<shake>RUN</shake>!" 
+256		"THAT. IS. NOT. EQUAL EXCHANGE." 
+257		"Too bad." 
+258		"I don't care. I'm leaving." 
+259		(Toss the dust towards the apparition.) 
+260		The dust flies through the air for a bit, before disappearing into the darkness of the depth. 
+261		"THAT IS NOT ACCEPTED." 
+262		You sense a hint of sadness in the voice. 
+263		The voice lets out a deep, harrowing statement. 
+264		"THE EXCHANGE IS ACCEPTED." 
+265		This is a tragedy. Your one and only voice... is lost. 
+266		This is for the best. Your voice... it's not worth much. 
+267		"THE TRADE IS IN PLACE." 
+268		Then the light slowly begins to fade, as darkness once again envelops the spiral chamber. 
+269		"Oh, man. Good job. But, I gotta ask..." 
+270		"Why... was your <i>Voting Card</i> worth the same as the super-expensive book?" 
+271		"Cleric." 
+272		He looks at you with the apprehensive gaze of a concerned parent. 
+273		"You know you can just get a new one, right?" 
+274		"...What?" 
+275		"A Voting Card. It's a bit annoying, but anyone can just get a new one from the District Office if they lose it." 
+276		"...<b>WHAT</b>?!" 
+277		Well. 
+278		That doesn't really make any sense, does it? 
+279		"What?" 
+280		If you lose the Voting Card, you can obviously just get a new one. 
+281		It's probably not a smooth process, considering the bureaucracy of Norvik... 
+282		But it is not that big of a deal. 
+283		Suddenly, the <b>light returns</b>. 
+284		"VALUE. IS. <shake>DEPRECIATED</shake>." 
+285		"No! The deal was done! No <i>take backs...</i>!" 
+286		"DEAL. WAS." 
+287		"IS." 
+288		"ARE." 
+289		It's confused. Now's your time. 
+290		Shit, shit! RUN! 
+291		You quickly slip the fancy book into your Pouch of Holding, and in the same movement begin to sprint up the spiral walkway. 
+292		As you do, the voice lets out a deep, harrowing statement... 
+293		"<shake>NO EXCHANGE OFFERED. YOUR SOUL WILL TAKE ITS PLACE</shake>." 
+294		The illusionary books upon the shelves begin to crumble and shake. 
+295		Turning to dust, one by one, in a series of violent esoteric poofs. 
+296		<i>Poof</i> is the scientific term, of course. 
+297		The ground shakes and the world collapses, as you move... 
+298		Up the stairs. 
+299		"YOU WILL JOIN THE <shake>COLLECTION</shake>." 
+300		The goblin is by your side as the two of you run as if a fire burned at your backs. 
+301		As if a fire burned your behind, you run towards the exit. 
+302		"STOP." 
+303		The apparition clearly wasn't ready for your sprint. 
+304		The apparition doesn't seem to react? 
+305		It must be because you tricked it with the Voting Card! That was a great move! 
+306		Yeah. Sure. 
+307		<i>Tricked</i>. 
+308		"Let's go, go, GO!" 
+309		(Rush ahead.) 
+310		The shelves turn into a sea of dust further below, quickly catching up... 
+311		As the chamber shakes, you begin to see books behind you turn to dust. 
+312		As the voice's commands echo all around. 
+313		<i>You don't want to leave.</i> 
+314		Everything becomes... slow. 
+315		What? But I'm... 
+316		<i>You want to stay.</i> 
+317		<i>Stay and read... the letter.</i> 
+318		To your left, sticking out of a shaking shelf is... an envelope. 
+319		<i>You know what it is.</i> 
+320		"Cleric! What are you-" 
+321		(Just take a quick glance.) 
+322		<i>It is a letter penned by Urth himself.</i> 
+323		What? How is this possible? 
+324		You did not see this before. 
+325		But... 
+326		NO. IT IS AN ILLUSION. 
+327		<i>Perhaps you should stop. And read it.</i> 
+328	DC13 wis-	What's going on here? 
+329	FC13 wis-	What's going on here? 
+330		R-(Stop running. Read the letter.) 
+331	ROLL8 wis-	Resist. 
+332		You are being deceived. 
+333		The library does not want you to leave. 
+334		<i>You must stop. Stop, and read the letter.</i> 
+335		It is a letter from your god. Of course you have to. Just... a quick peek. 
+336		Please don't. 
+337		You shake your head. 
+338		The vision of that sacred letter turns to ash in front of your eyes. 
+339		The goblin gives you a shove. 
+340		"Don't look! It's doing something weird- DO NOT LOOK!" 
+341		(Keep running.) 
+342		You quickly push yourself around the spiral, as books begin to fly out of the shelf. 
+343		Many turn to dark ash, covering the path in front of you. 
+344		The goblin hops over the 'puddles' of book-dust. 
+345		"Something's wrong with this shit - don't touch it!" 
+346		Behind, further below, you see a wave of this ash forming. It grows. Filling the library. 
+347		The voice, now faded and far away, appears to chant, "THE COLLECTION. THE COLLECTION." 
+348		As you hear this, a tome lands before you. It does not turn into ash. 
+349		<i>Look at it.</i> 
+350		(Look at it.) 
+351		It says, <i>The Personal Spellbook of Grand Arcanist Fillius Prax</i>. 
+352		<i>This is... a masterpiece. You must have it.</i> 
+353		<i>Grab it...</i> 
+354		<i>...now!</i> 
+355		It is an illusion! The apparition is controlling your psyche! 
+356	ROLL7 int-	Resist grabbing the spellbook. 
+357		It does not make sense. 
+358		Fillius Prax did not have a personal spellbook. Such a powerful Arcanist would simply bind his memorization mentally, spiritually, and physically. 
+359		Obviously. 
+360		Obviously. (Jump over the spellbook.) 
+361		Rushing past, it turns to ash behind you. 
+362		GO! 
+363		You follow the goblin up, up, closer towards the exit. 
+364		You continue up, up, closer towards the exit. 
+365		You are so close now. As the all the strange ashen books now pour into the walkway in a cascade of dark pages. 
+366		"The Collection. The Collection," is echoing ominously behind you, barely noticeable over the rumbling of the structure. 
+367		"Almost there!" 
+368		That is when you notice it. 
+369		The <i>magazine</i>. It sits on the railings. 
+370		A magazine? In a library? 
+371		Yes. You can see it clearly. It is <i>the Red Light</i>. The best nudie magazine in Norvik. 
+372		It is banned in <i>every official district</i>. 
+373		A ONE-OF-A-KIND type of DEBAUCHERY. 
+374		Oh. That's fine, I really don't care to stop for a random pin-up magazine. 
+375		Oh. Truly? 
+376		Of course! The Towers had a ton of hidden stacks of smut. It's not exactly difficult to- 
+377		Hold on... look at the cover. 
+378		It's a special edition. 
+379		Oh. What kind of edition? (Take a look, it can't hurt.) 
+380		You glance at it. Just a quick peek. 
+381		Oh...! Oh yes! 
+382		No... no...! 
+383		Not this. You must not... 
+384		On the cover is a particularly sturdy-looking and well-built woman. The title says, <i>Orcs & Amazons Edition</i>. 
+385		<i>...Urth be good.</i> 
+386	ROLL12 str-	Don't. Open. The <shake>MAGAZINE</shake>. 
+387		<i>Just grab it.</i> 
+388		<i>It will be worth it.</i> 
+389		You hear the voice of your companion saying, or yelling something. It's not important. 
+390		(Grab the letter from your god.) 
+391		As your fingers touch the paper, it turns to ash in your hand. 
+392		A heavy dull ache appears in your mind. 
+393		Your companion grabs your uniform and screams, "Get moving! And DON'T TOUCH THE STUFF!" 
+394		What happened? 
+395		"Y-Yes..." (Start running again.) 
+396		<i>Yes.</i> 
+397		<i>Such knowledge cannot be lost.</i> 
+398		<i>Take the spellbook.</i> 
+399		(Reach down and grab it off the floor.) 
+400		Everything fades away, as your hand seems to go through the book. 
+401		Through the book and the floor, into an ashen waste... 
+402		(Reach back, and scream in pain.) 
+403		The second you raise your arm, the darkness disappears. 
+404		"What did I JUST tell you?! Run, Cleric!" 
+405		Behind you the ash is quickly gaining on you. 
+406		It cannot hurt. 
+407		To just reach out... 
+408		(Grab the magazine.) 
+409		"Cleric! No!" 
+410		You hear the voice of your companion fade away as you touch the ashen paper. 
+411		It turns to dust, wrapping around your hand. 
+412		The great booming voice reappears behind you, sending a throbbing pulse into your skull. 
+413		"<shake>YOU WILL TAKE ITS PLACE.</shake>" 
+414		The sea of ash rises over your boots. Your legs. 
+415		Your chest. It is hard to breathe now. 
+416		<i>It is nice here. In the nothing.</i> 
+417		<i>This is what you deserve.</i> 
+418		<i>There is no one here to ruin it all.</i> 
+419		<i>And nothing to escape from.</i> 
+420		<i>No one to leave you.</i> 
+421		<i>Nothing at all.</i> 
+422		Suddenly a sharp pain grabs hold of your neck. 
+423		Tight and rough, it pulls you... away. 
+424		<i>Away from the good.</i> 
+425		No... 
+426		Away from the <b>nothing</b>. 
+427		(Try to open your eyes.) 
+428		"You're not getting away that easily!" 
+429		You see a glimpse of your goblin companion, desperately pulling you out of the ashen flow from below. 
+430		A leather strap is wrapped around your throat. It is choking you. But just before you lose consciousness again, the goblin lets go. 
+431		You're out of the poisonous ash. But your mind is groggy. 
+432		"Now, get up!" 
+433		He dragged you? What surprising strength from such a tiny creature. 
+434		(Get up and run!) 
+435		The flow of ash catches up to you quickly now. Like waves of glittering dark sand, each splash hitting your back causes you to lose strength. 
+436		The two of you run towards the exit. 
+437		"Don't stop!" 
+438		The chanting from below grows louder now. 
+439		"<shake>ONE. ONE. A PIECE FOR A PIECE.</shake>" 
+440		(Throw yourself out of the doorway.) 
+441		You and Snell both jump out into the City Below hallway. 
+442		You jump out into the City Below hallway. 
+443		The flood of esoteric ash coming after you, up until the exact crossing of the doorway. 
+444		At which point it is stopped, hitting an invisible barrier. 
+445		Which promptly fades into a solid wall once more. 
+446		"Holy, SHIT!" 
+447		The goblin falls down to the ground, letting out the occasional insane chuckle. 
+448		"Another stupid death averted. You got the damn book at least?" 
+449		Now for the important question: Do you have the book on you? 
+450		(Check if you've still got it.) 
+451		Taking it out of your pouch of holding, you do still have the quite real and physical copy of the Book of the Mind, Sixth Edition. 
+452		A successful library heist. 
+453		With some minor hiccups. 
+454		Never. Do that. Again. 
+455		Time to deliver the book to the halfling. 
+456		The goblin gives you a thumbs up and slowly starts to get up on his feet. 
+457		"Next time," he says, pointing upwards. "We'll go to the <i>Darrowian</i> Library. Okay?" 
+458		E-"That was some... <i>esoteric bullshit</i>." 

@@ -1,0 +1,501 @@
+idx	prefix	english
+0		The boys greet you with a hesitant collective grunt and mumble. 
+1		"Hey! Whoa. A cleric, eh?" 
+2		"Are you militia?" 
+3		"Nice thing you've got going here." 
+4		"Why are you loitering here, boys?" 
+5		"Identify yourselves." 
+6		The blond kid shakes his head. 
+7		He smiles. "Thank you, Cleric!" 
+8		"Loitering? Uh. It's a meeting. An important meeting!" 
+9		"Sure!" 
+10		"I'm Rollo," the blonde kid says and takes a bow. "Rollo Malach! At your service. With me here are Nisse, Stenbusken, and Toli. We're members of the Norvikian Resistance, a movement to-" 
+11		"Urth-Nisse. That's my full name." 
+12		"Yeah, sure. Anyway, we're happy to make your acquaintance, Cleric!" 
+13		"<i>Bunch of larpers</i>," the goblin whispers to you. 
+14		"Cleric!" 
+15		"Awesome to see you again!" 
+16		He does a poorly executed fist-on-chest salute. 
+17		(Return the salute.) 
+18		"Have you joined the Urthguard?" 
+19		"What are you boys doing here?" 
+20		He gives you a goofy smile. 
+21		"Uh. No!" 
+22		"We're fighting the good fight for the city, though. Our city." 
+23		He gestures towards you and him. 
+24		"A meeting! We usually meet up here to plan, and share information." 
+25		"You joined us just in time, we were just about to do a role-call." 
+26		"You're free to join us! What you did down on Waterlane was <i>very</i> helpful." 
+27		"And while it's a temporary victory, getting that filth off the streets of Tolstad is one hell of an accomplishment." 
+28		"You're truly an inspiration." 
+29		"Cleric." 
+30		He gives you a slow nod. 
+31		"You boys having fun here?" 
+32		"You ready to join the Urthguard?" 
+33		"You're not causing any trouble here, are you?" 
+34		"Yeah! I mean, no. We're holding a meeting. An important meeting!" 
+35		"No! Uh. We're holding a meeting. An important meeting!" 
+36		"In fact, you just joined us in time for a role-call." 
+37		"Now, I have to say, I'm not exactly a hundred percent onboard with how you solved everything down on Waterlane, but..." 
+38		"I respect your work immensely. Working for the city must be incredibly demanding." 
+39		"What a celebrity," the goblin whispers to you with a chuckle. 
+40		"Stop kissing ass. Just hold the meeting." 
+41		"Yeah, I am amazing. Now do your role-call." 
+42		(Just nod and wait for them to begin.) 
+43		"Uh. Fine." 
+44		"Yes! Okay." 
+45		"Oh," the kid mouths and glares at you. 
+46		He's terrified. 
+47		It is time to assert your dominance. 
+48		"What are you doing here?" 
+49		"I'm here to fuck you guys up." 
+50		"That's my question. You boys loitering here, or what?" 
+51		(Look around.) "This some kind of cult?" 
+52		"W-what?" 
+53		He looks to his buddies with wide eyes. 
+54		"A joke." 
+55		"Not now. Later." 
+56		(Just stare at them.) 
+57		"Uh. Okay? We're actually just about to... hold a meeting." 
+58		"Cult?!" 
+59		"No! It's a... meeting. An important meeting!" 
+60		He looks to Stenbusken, who gives him a shrug. 
+61		"Oh gods, it sounds like a cult. It's not, I promise!" 
+62		"Could you... leave?" 
+63		"<b>No</b>." 
+64		(Glare at him and breathe heavily.) 
+65		"What, are you mad at me?" 
+66		You see him nervously glance to his friends who sit quietly, attempting to not meet your gaze. 
+67		"It's just... look, you really screwed us over on Waterlane." 
+68		"We'd worked hard to put a stop to that illegal newspaper." 
+69		"For the city!" 
+70		"Your organization is equally illegal. Or at least equally in the gray-zone." 
+71		"You stole from them and tried to burn their hard work." 
+72		"It was a hard call." 
+73		"I should have ruled in your favor. It was an honest mistake." 
+74		"Well, I... disagree." 
+75		"We're just a political club. They're a... newspaper without a license." 
+76		"A club? Called 'the resistance'?" 
+77		"That is an argument you can make." 
+78		"I don't care. I really, really don't care." 
+79		"Norvikian Resistance. And yes." 
+80		"It is. And I will." 
+81		"It's... exactly that kind of attitude that brings this city down!" 
+82		"We seized contraband, more like." 
+83		"Well. It was the wrong call, if you ask me." 
+84		"Oh. Yeah, you should've. But... okay. Good." 
+85		"Now, look, we're going to start the meeting." 
+86		"Don't interrupt." 
+87		"Oh. It's... you again." 
+88		"Don't hurt anyone." 
+89		"I hurt whoever I damn well please." 
+90		"I think we got off to the wrong peach last time." 
+91		"Why would I do that?" 
+92		He raises his arms. "Whoa. Calm down there, Cowboy." 
+93		"Wrong peach?" the lanky kid says in the corner. 
+94		"Wrong... foot?" the silent kid mutters and looks to Rollo. 
+95		"Peach?" the big kid says and looks around. "Where?" 
+96		"What?" 
+97		"You heard me. Peach." 
+98		"Let's start over. Hello, I'm <b>The Cleric</b>. I'm here to save the world." 
+99		The blonde kid looks at you blankly. 
+100		He gives you the kind of look you'd give a dangerous and possibly insane person that just asked you for a loan off the streets. 
+101		"Look. We're just about to hold a meeting here." 
+102		"And I don't know exactly what you want, but..." 
+103		"I'll listen in." 
+104		"Okay. Go ahead." 
+105		(Just stare at him.) 
+106		"It's an official meeting for the Norvikian Resistance. But... as a cleric you're... invited to attend. Sure." 
+107		He glares at Snell for a second. 
+108		"Alright. Norvikian Resistance members, thank you for attending today's meeting." 
+109		"Mm. <i>Important meeting</i>." 
+110		"Shut up, goblin," says the lanky kid and sparks a tiny fire from his hands. 
+111		He laughs. "You think you look cool doing that? Damn child." 
+112		The magic-boy clears his throat. 
+113		"Esoteric Initiate Urth-Nisse. Here." 
+114		The large one stands up and raises his fists into the air. "Sten<i>busken</i>! Yes!" 
+115		"Don't shout," the quiet kid mutters. "I'm here." 
+116		"Role." 
+117		He gives a nervous look to you. Then he mutters, "Master of Whisperers." 
+118		Your companion stifles a laugh. 
+119		"I told you it was a bad title. It should be 'First Spy'." 
+120		"No. That sounds like a magazine protagonist." 
+121		"And 'Master of Whisperers' doesn't?" 
+122		"It was the official title of Urth's Spymaster." 
+123		"Do I look like a 'master'?" he hisses. Then goes quiet once more. 
+124		Rollo awkwardly clears his throat. "Also present is the visiting Lord Cleric." 
+125		"...And his helper." 
+126		"Oh, I'm the help, am I?" 
+127		Look at the bottles in the corner. 
+128		They've been DRINKING. 
+129		Oh please. Don't react to that- don't be such a nerd. 
+130		Just because you're unable to even touch the stuff doesn't mean others can't be <i>cool</i>. 
+131	DC11 str-	(Glance at the empty bottles.) "You boys haven't been drinking, have you?" 
+132		"You guys seem organized enough." 
+133		"This is a joke. Right?" 
+134		"Start the damn meeting." 
+135		(Just let them continue.) 
+136		"Thank you, Cleric," he says with a tired expression. 
+137		Rollo laughs, then shrugs with a wry smirk. 
+138		"I mean..." 
+139		"If you have- I'll <b>kill you</b>." 
+140		"Drinking is extremely unlawful behavior." 
+141		"I am not a fan of alcohol consumption." 
+142		"That is okay. You are free to do as you wish. I am not so stiff that I am unable to allow you to act outside of societal standards of decency." 
+143		His smile drops. 
+144		"...With stern warnings." 
+145		"You heard me." (Act tough in front of the youth.) 
+146		"Oh." 
+147		"What? No it's not." 
+148		But his eyes say, <i>Isn't it?</i> 
+149		"No. It's not." 
+150		"Okay?" 
+151		"O-okay?" 
+152		Snell whispers to you, "Scared <i>straight</i>- not dead." 
+153		Honorably dead. And honorably straight. 
+154		Sten starts looking around, looking fôrtvivlad. 
+155		Nisse gives him a mean look. 
+156		SCARE THEM (HONORABLY) STRAIGHT! 
+157		"It's strictly prohibited for Urthguard to drink." 
+158		"We're not Urthguard." 
+159		(Turn to face the gothic boy.) "Not yet." 
+160		"So you guys are actually drinking?" 
+161		Rollo holds up his hands and mumbles, "Look, I..." 
+162		"We're not drinking. We're here on serious business." 
+163		"Yeah...!" Sten exclaims. "We couldn't afford to anyhow!" 
+164		"Shut up, Sten." 
+165		Your companion rubs his temples. 
+166		"Thank you! We've worked really hard to help out before the election." 
+167		"We're just one small off-shoot here in Tolstad. But there are tons of members of the Norvikian Resistance around the city." 
+168		"It's a big political movement!" 
+169		He gives the three other kids a nervous look. "I mean... we're getting there." 
+170		"No!" 
+171		"Cleric, we might not be many right here, but there are tons of members of the Norvikian Resistance around the city." 
+172		"This is a serious political movement." 
+173		He claps his fist to his chest. "Meeting begins!" 
+174		The large boy cheers. 
+175		"Sweet! When do we go home?" 
+176		"Home? No, we-" 
+177		"There's not that much to talk about. Right?" 
+178		"Yeah, my dad doesn't like it when I stay out like this." 
+179		"Come on, you guys! The election is just around the freaking corner!" 
+180		He says 'freaking' instead of 'fuck' as a habit, to not upset his sensitive parents. 
+181		"And I've got a mission. Big mission." 
+182		"Like, actually." 
+183		"Mission? Do you mean... a quest?" 
+184		"Spit it out." 
+185		(Let him babble.) 
+186		"Y-Yes! Exactly. A quest!" 
+187		"Yeah. Sure." 
+188		"I've received word from our contact. You, know, the short guy with the weird beard." 
+189		They have a fixer? 
+190		Weird beards are not indicative of strong city-loyalty. 
+191		"Word?" 
+192		"A halfling or dwarf?" 
+193		"A Resistance Movement member?" 
+194		M-"What are your orders?" 
+195		"A letter. He dropped off a letter with the Resistance seal." 
+196		He smirks. "Half of Urth's red eye, and half a shield." 
+197		"It's really cool." 
+198		It's really not. 
+199		"No, just a short human." 
+200		"Yeah!" 
+201		"We don't have too much info on the other groups. But there's this guy we call 'Shieldguard'. He's in the Palace." 
+202		"Probably a cleric. He knew magic and stuff." 
+203		They sure tell you a lot for a secretive organization. 
+204		Amateurs. 
+205		"Just like he told us about the Chant being printed here on Tolstad, this time he let us know about another problem..." 
+206		"An even bigger threat." 
+207		"Lover's pox?" 
+208		"Capitalism?" 
+209		"Racism?" 
+210		"The disillusionment of the youth?" 
+211		"Gender inequity?" 
+212		"The lack of religious fervor in the populace?" 
+213		"Azgalists?" 
+214		"Freestriders?" 
+215		"What? No." 
+216		"No, I-" 
+217		"Well, kind of?" 
+218		"No." 
+219		"Although hatred against humans <i>is</i> a big issue." 
+220		"Uh. No." 
+221		"No. But also, yeah. But no." 
+222		"No. Not this time." 
+223		"No. It's-" 
+224		"No, wait. Yes!" 
+225		"Yes, it's the Freestriders!" 
+226		"I knew it!" 
+227		"Go on." 
+228		"He told me that the Askanii-Reeds Trade Company, that's a Freestrider company, they apparently have some very important documents hidden in their offices on Waterlane." 
+229		"Specifically, a contract for a deal called 'The Harbor Accords'." 
+230		"He wants us to..." 
+231		"Actually, he didn't specify what we should do, he never really does. But he <i>strongly implied</i> that we should seize it! For the state!" 
+232		"But, you know. Without being detected." 
+233		"Stealthily." 
+234		"He wants you to steal from a Freestrider company." 
+235		"Tell me more about this contract." 
+236		"What do you know about this company?" 
+237		"What do you know about the building?" 
+238		M-"So what are you going to do?" 
+239		"...He wants us to seize it. Stealthily," he repeats. 
+240		He shrugs. "It's apparently very secretive. But the contract is kept inside of the office." 
+241		"It's an evil Freestrider parasite, sucking the city from its resources." 
+242		"It's all made clear in our manifesto." 
+243		"Can I read it?" 
+244		"I have no interest in reading it." 
+245		"No, it's members-only." 
+246		"You only get to read the manifesto of the organization after you've already joined?" 
+247		"...Yes." 
+248		Since you're already invested at that point, you can't leave even if it's the wackiest manifesto since the Hedonists. 
+249		Hilarious! 
+250		Don't join. 
+251		"Okay. Good." 
+252		"It's exclusive anyway." 
+253		"I heard it's guarded pretty heavily." 
+254		"They've got a hippogryph on the roof." 
+255		"Griffin. It's a griffin." 
+256		<i>Griffon</i>, actually. 
+257		<i>Griffon</i> is the common spelling in Norvik. Although Griffin, Gryphon, and Griphon can appear in various places across Diminorian lands. 
+258		"Whatever." 
+259		"Don't think there's magical locks, though. That's usually hard for places with a lot of movement going on." 
+260		The goblin squints. "You sure know a lot about security, kid." 
+261		In response, the kid looks around. 
+262		"My brother works at a locksmith. He does Arcane Locks sometimes." 
+263		He thinks for a second. 
+264		"We just need to sneak in, when it's dark." 
+265		"Locate the safe. And crack it." 
+266		"It's apparently hidden behind a mirror. The info wasn't very specific, but hey, how many mirrors can they have, right?" 
+267		The boys silently and tensely glance around the rollermill. 
+268		"I, uh..." 
+269		"Like I said. Dad doesn't want me out on the streets at night. So I'mma skip." 
+270		"Isn't stealing illegal?" 
+271		"Yes, Sten. It is." 
+272		"Don't be pussies!" 
+273		Their leader gives a frustrated groan. 
+274		"This is the real deal! We can make a difference!" 
+275		"Rollo. I don't think it's a good idea." 
+276		"You know what the Freestriders do." 
+277		"Oh yeah. Litigation, litigation, litigation." 
+278		"I agree, it's a bad idea." 
+279		"Damn it." 
+280		He then turns to you and opens his mouth. Then he closes it, and shakes his head. 
+281		He has a mission, yet is unable to complete it. 
+282		Perhaps it's a quest truly meant for you, instead. 
+283		Sneaking in and stealing? Sounds honorable. 
+284		But should you really do it, if it's a Freestrider joint? 
+285		They are infiltrators. Take from them - it was not theirs to begin with. 
+286		"Well, screw it. We'll make up some excuse." 
+287		"But that <i>sucks</i>." 
+288		"Unless..." he says and gestures towards you. "Unless the cleric here wants to do it. Then yeah, sure, we'll skip." 
+289		"Lord Cleric." He nods his head. 
+290		<i>Larper</i>. 
+291		They all need to go through Urthguard training. Each and every one of them. 
+292		"Where did you say that Freestrider contract was?" 
+293		R-"This is an illegal organization conspiring against the city." 
+294		"Don't you guys have jobs to do?" 
+295		"I have some questions about you." 
+296		E-"That's all for now. Thank you, citizen." 
+297		"Me? Okay." 
+298		Nah. 
+299		It's not a great time. You can... probably slip that one in later on. Some other time. 
+300		Okay. Fine. I kinda want to tell him right now, but if I insist... 
+301		Yeah. It is what it is. 
+302		"What? Awesome!" 
+303		He stares at you. 
+304		"I am awesome." 
+305		"Ah! Yeah, sure!" 
+306		"Good to hear!" 
+307		He gives you a bad salute. 
+308		"Sure, I mean..." 
+309		"If you can, that'd be awesome!" 
+310		"Don't get caught, or anything." 
+311		"If you do, you don't know us." 
+312		"I <i>don't</i> know you." 
+313		"Cool. I'll return." 
+314		"Sure." 
+315		"That's the spirit!" 
+316		"Okay!" 
+317		He nods. 
+318		"Good luck! Urth Be Blessed!" 
+319		"What? You have?" 
+320		"But... how?" 
+321		"I might have snooped my way into their headquarters all by myself." 
+322		"None of your business." 
+323		"That's great!" 
+324		"No, sir!" 
+325		"It's, uh..." 
+326		"Askanii-Reeds Trade Co. It's on Waterlane View." 
+327		"Next to the Warehouse. And the book binder." 
+328		"Yeah, that. Seems like they've got it in a safe, or something. Probably hidden." 
+329		"But I believe in you!" 
+330		Your companion rubs his eyes. 
+331		He's trying not to comment. With all his strength. 
+332		"What? I mean, awesome?!" 
+333		"How did you..." 
+334		"I asked for it nicely." 
+335		"I stole it." 
+336		"I will not disclose that information." 
+337		"Really?" 
+338		"Yes, really." 
+339		"No, I stole it." 
+340		"I guess you've got them wrapped around your finger, Lord Cleric!" 
+341		"Oh. Well, that's good too!" 
+342		"Oh, damn."  
+343		"Did you have to crack the safe?" 
+344		"Yep. Was easy." 
+345		"It was dangerous. But I lived." 
+346		"Oh?" 
+347		"I will not disclose how I did it." 
+348		"I did not crack it. Not even a bit." 
+349		(Wave your hands.) "<i>Magic</i>." 
+350		"Oh..." 
+351		"Cool." 
+352		"That's fine by me!" 
+353		"Do you have it? Like, right now?" 
+354		"No. I gave it away." 
+355		"What!" 
+356		"But... you betrayed us?!" 
+357		"Yeah. Sorry." 
+358		"She's going to use the information well. Don't worry." 
+359		"I'm a betrayer. A sneaky little rogue." 
+360		"Why? Did she-" 
+361		He gives you a deep frown. "Did she make you?" 
+362		"No. I volunteered it." 
+363		"I'm a Freestrider. You really shouldn't trust me." 
+364		"Sorry, kid. Nothing personal." 
+365		"Well. Okay." 
+366		"Screw you, then." 
+367		"Yeah. Seriously." 
+368		"You're an asshole." 
+369		"Uh... what they said." 
+370		"That's unfair." 
+371		"Yeah, I deserve that." 
+372		"Screw you too, kids." 
+373		He gives you a disappointed groan. 
+374		"What else do you want? Apart from fucking us?" 
+375		The blonde kid slowly opens the ledger with shaking hands. 
+376		Then you watch as he squints, staring at the handful of papers. 
+377		"This is..." 
+378		"The Magistrates are selling out the city." 
+379		"It's a mess." 
+380		"...They are. They actually are." 
+381		"Damn right it is." 
+382		"What? Let me see..." 
+383		The quiet kid leans over. His face grows pale. 
+384		"Rollo?" 
+385		"Holy shit." 
+386		"This... this is big." 
+387		He's shaking. 
+388		"Real big." 
+389		"This will change the election." 
+390		"Be careful with that." 
+391		"Oh. Oh yes. Of course." 
+392		He carefully places the contract within the ledger again. 
+393		"Our contact will... want this." 
+394		His eyes dart around the room. 
+395		Here it comes. He's got big plans. 
+396		"Maybe..." 
+397		He glances between you and the paper. 
+398		"This might sound dumb. But..." 
+399		"Maybe we should share this with... Modissa." 
+400		"What? But she's-" 
+401		"She's got a printer. This needs to spread fast to make a difference." 
+402		"Because like, what the hell could we actually do with it ourselves?" 
+403		"The shield-guy will know what to do with it. Right?" 
+404		"Uh. Sure. But..." 
+405		He does not trust their contact. Not in this way. 
+406		He is nervous about this. He seeks approval. 
+407		"Not sure I trust the contact with this." 
+408		"What should we do?" 
+409		"Oh gods... this is a damn mess." 
+410		The blonde kid takes a deep breath. "Modissa could go crazy. But at the same time, if we hand it over to the contact... we don't know what the hell it would do." 
+411		"Sharing it with Modissa is wise. She could help spread the word." (Tell them to talk to the Azgal Youth.) 
+412		"I'm not the one in charge here. You are." 
+413		"You should not give an inch to the Azgals. Your contact is the safest bet." (Reject talking to the Azgal Youth.) 
+414		"I don't think your 'contact' would be too happy about you taking charge." 
+415		He nods along, facing his friends with a stern face. 
+416		He gulps. 
+417		"What do you want to do, Rollo?" 
+418		"Don't be a pussy. Make a decision." 
+419		"Go crazy. You know you want to." 
+420		Your usage of this term is powerful to him. 
+421		He gulps again. 
+422		He gives you a stern expression. 
+423		"No, I- I guess you're right." 
+424		"They wouldn't want to cooperate anyhow. And... they do have a destructive ideology." 
+425		"That's... true." 
+426		"But you know what? I don't give a shit what they think." 
+427		"They're so secretive and... won't tell us anything." 
+428		"We can just say the contract leaked to the Azgals. Maybe they got to it first." 
+429		"That's diabolical. I like it." 
+430		"Lying to the resistance? Really?" 
+431		"You do what you want with it. You're in charge here." 
+432		"Yeah? But, uh..." 
+433		"Not a bad idea. But are you sure?" 
+434		"Not like they're telling us anything." 
+435		"True. But are you sure, Rollo?" 
+436		"...No." 
+437		He looks to you again. 
+438		"The election is, like, right now. If we want to get the word out..." 
+439		"The Chant. Oh no..." 
+440		"I don't think she's going to like this, Rollo." 
+441		"That's probably true. But if she hears what we've got..." 
+442		"We can turn this election. Together." 
+443		"This is exciting." 
+444		"It's time to save the world, boys!" 
+445		"Awesome! So... could you help, Cleric?" 
+446		"Of course!" 
+447		"Maybe." 
+448		"What? Really?" 
+449		"I'm busy." 
+450		"...Maybe." 
+451		"Well, if you find the time..." 
+452		"Please go ask Modissa to meet up with us." 
+453		"If you can find her. We still haven't been able to locate their printing press. It should be in some kind of old factory or complex here on Tolstad, but... we don't know where." 
+454		"The Azgalists have a lot of resources. You know." 
+455		"I've heard they're supported by dwarven coins." 
+456		"Uh... me too!" 
+457		You think back to the dwarves in that cramped apartment. A chuckle gets caught in your throat. 
+458		"I'll find her." 
+459		(Just nod.) 
+460		"Oh! Yeah, she's the annoying girl we've been feuding with." 
+461		"The one working on The Chant? That Azgal paper?" 
+462		"Look, if you can find her, let her know we want to talk okay?" 
+463		"Oh good!" 
+464		"...Wait, you have? You KNOW where their printing press is?" 
+465		He squints at you. 
+466		"Are you an Azgal?" 
+467		"Yeah." 
+468		"Nah." 
+469		"I'm an Azgal Nationalist." 
+470		"...Alright." 
+471		"I don't know why I asked, I don't really care." 
+472		"Just... help us, and we'll be happy. This is more important." 
+473		The kid nods. 
+474		He is nervous. 
+475		As he should. 
+476		The blonde boy nods and looks to his friends. "The Norvikian Resistance is against Azgal and Freestrider influence in the city." 
+477		"Both." 
+478		He straightens out his posture. "I'll deliver these documents to our contact." 
+479		"Thank you again, Cleric. Your service to the city, to the Resistance, has been invaluable." 
+480		The large kid perks up. 
+481		The quiet kid glances between you and Rollo. 
+482		The lanky kid spawns a weak spark in his hand, looking nervous. 
+483		"Apologies. I said that accidentally." 
+484		R-"Yes it is." 
+485		"Oh. Okay." 
+486		"But either way you... you can't..." 
+487		R-"You're leaving. One way or another." (Fight them.) 
+488		"Yeah. But I'm watching you." 
+489		"...Okay." 
+490		The blonde kid gives you a blank expression. He glances to his friends who all seem to avoid his gaze, before lowering his eyes. 
+491		As he stares at the floor of the rollermill, he replies, "We're doing important work here." 
+492		Should I make fun of them for being unemployed? 
+493		"Do you get paid for holding these meetings?" 
+494		"Hanging around this rollermill is 'important work'?" 
+495		"You're <i>all</i> unemployed?" 
+496		Yeah! Stick 'em where it hurts. 
+497		No. That would be horrendous. 
+498		These boys are simply products of a faulty system. 
+499		Making light of that would be as mean-spirited as making fun of a short person for being born without a certain height. 

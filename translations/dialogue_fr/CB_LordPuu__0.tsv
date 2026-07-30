@@ -1,0 +1,210 @@
+idx	prefix	english
+0		Among the tangled mess of vines and mossy rocks, you see the thick roots of a Brachen tree. They crack open the walls and ceiling of this half-dwarven, half-antesepalian chamber. 
+1		It spreads like a thousand-footed spider. 
+2		The natural retaking the artificial. 
+3		It is beautiful. 
+4		(Touch the roots.) 
+5		"Hello?" 
+6		(Look beyond the roots.) 
+7		M-So this is the bottom of the big tree. 
+8		They are soft on the surface. A layer of moss. 
+9		The tree does not respond. 
+10		"Alas, I don't think it's got a mouth. Or a brain." 
+11		"I guess you could talk to it with some magic. Then again, I'm no expert." 
+12		They are thick, and create a vast, tight forest. 
+13		However... there is something there. 
+14		A space. Beyond the roots. 
+15		There might be something there. Hidden beyond the wall of roots. 
+16		But you are not sure. 
+17		More or less. 
+18		The roots go deeper. Much, much deeper. 
+19		The many, many roots of the Brachen tree fill the chamber. 
+20		It does not move. 
+21		(Nod your head and stop speaking to the tree.) 
+22		Yes. 
+23		It would be a good display of your might. 
+24		It would be difficult. The tree is ancient and powerful. 
+25		There is clearly something hidden inside here. 
+26		While brute force is a bit passé... it might be suitable here. 
+27	ROLL18 str-	Break down the roots. 
+28		Not now. 
+29		You walk over to them- each root dangling before you like a tendril of foul ideologies. 
+30		Pluck them. 
+31		PLUCK THEM FROM EXISTENCE. 
+32		(Scream, a Primal yell, and grab the roots.) 
+33		Before you can put any type of power into it, the tree reacts. 
+34		It FEARS you. 
+35		You walk over to grab the roots - and start pulling. 
+36		(Wrench these roots apart!) 
+37		With a forceful yank, the roots... don't seem to move an inch. 
+38		However, the muscles in your back seem to do so. 
+39		A snap. 
+40		"God damn, that hurts!" (Keel over.) 
+41		"Oh gods, that looked bad." 
+42		"You need help, Cleric? Want me to call someone?" 
+43		Your muscles are pulsating in pain. 
+44		The entire back is messed up now. 
+45		(Scream in pain.) 
+46		You hear a roar coming from further down the chamber. 
+47		"Quiet! No yelling by the Roots!" 
+48		She's right. Don't make so much noise. It's beneath a man of your stature. 
+49		But it hurts...! 
+50		(Calm down and take a breath.) 
+51		This was a bad idea. 
+52		The roots are very firm and rigid. 
+53		You cannot break them like this. Or at least it is very unlikely. 
+54		"Maybe you can try something else, Cleric. Have you asked the tree nicely?" 
+55		He chuckles. 
+56		Not a bad idea. 
+57		Later then. 
+58		Good. Let sleeping trees lie. 
+59		The roots slowly, but ever so slightly widen, revealing the goods within. 
+60		The cache has been revealed. 
+61		Lord Puu appears to allow you to loot its cache now. 
+62		How polite. 
+63		It clearly could not stand your might. 
+64		You touch the surface of the tree. The soft moss dampens your glove. Then you trace a spiral with your index finger. 
+65		The primal magic causes the roots to stir. A deep rumble shoots through the chamber. 
+66		(Bow your head.) 
+67		"Greetings, oh great Brachen tree." 
+68		"<i>Heeee...</i>" 
+69		One of the roots reaches out. Towards you. 
+70		Watch out! 
+71		Is it hostile? I mean... doesn't feel like it. 
+72		It's moving very, very slowly. 
+73		(Dodge.) 
+74		"Hah! Missed me." 
+75		"Are you friendly?" 
+76		(Grab the root and shake it.) 
+77		(Let it touch you.) 
+78		You step out of the way. 
+79		The tendril misses you, instead slowly waving in the air where your head was a second ago. 
+80		Slowly and carefully. 
+81		"...Mii-iiissed?" 
+82		"...Friiiii-iiiieeend?" 
+83		As you do, the entire root system begins to shake. 
+84		"Oooh..." 
+85		The root is pulled back, out of your hand. 
+86		The root slowly reaches for the top of your helm. 
+87		It pats you. Three times. 
+88		The goblin takes a step back and clears his throat. 
+89		"I'll let you handle this. Making friends with trees isn't really my thing." 
+90		(Allow the tree to speak.) 
+91		"What is your name, tree?" 
+92		"Can you speak properly?" 
+93		"...Naaaa-aaame..." 
+94		"...Prooo-ooooper...?" 
+95		The voice is wind. Faintly rushing through moss and stone. 
+96		A smell of wet stagnant ponds and moldy basements fills your nose. 
+97		(Keep waiting.) 
+98		"Yes?" 
+99		The tree appears to... growl. Then it goes silent. 
+100		"Are we just... standing here?" 
+101		He nods and takes another small step back. "Okay. Right." 
+102		Then, after several more seconds of nothing but faint wind emanating from the roots - it SPEAKS. 
+103		"<b>LORD. PUU.</b>" 
+104		"<b>THAT IS I.</b>" 
+105		It growls. 
+106		"It iiiiiiiiisss..." 
+107		"<b>AN HONOR...</b>" 
+108		"Yes, it-" 
+109		"It's entirely mine to-" 
+110		"What do you-" 
+111		"<b>...FOR YOU. TO SPEAK. WITH THE LORD... OF THE EARTH.</b>" 
+112		"Sure. I have some questions for you, Lord <i>Puu</i>." 
+113		"A great honor indeed." (Bow your head.) 
+114		"Right. Anyway, answer my question, tree." 
+115		The tree lets out a moldy wind. It envelops you. 
+116		"Why do you speak so slowly? Is that a tree-thing?" 
+117		"What are you voting in the election, Lord Puu?" 
+118		"What do you do here all day?" 
+119		"Do you have a permit to root here, tree?" 
+120		(Break the spell.) 
+121		It does not respond at first. 
+122		"Or is it an age-thing? I'm assuming you get slow with time. At least us humans do." 
+123		(Be patient.) 
+124		"LORD..." 
+125		"PUU..." 
+126		"IS..." 
+127		(Be very patient.) 
+128		"Geez, just spit it out!" 
+129		"NOT... OFTEN IN... <b>CONVER-SATIONS</b>." 
+130		"Okay, that's fair. Sorry for asking so many questions." 
+131		"Get used to it, buddy boy." 
+132		"Right. Uh... I have some other questions." 
+133		The tree stirs. 
+134		"<b>E-LECTION</b>." 
+135		The wind turns yet again into a growl. 
+136		"<b>CHO-OSE.</b>" 
+137		"NONE. LORD PUU CHOOSE: NONE." 
+138		An option many select. 
+139		The tree knows the smartest way, clearly. 
+140		"Do you want to know what I'm voting for?" 
+141		"<b>NO</b>." 
+142		"Oh." 
+143		The tree is silent, but for the faint wind. 
+144		"Just like that? You're not gonna offer your opinion anyway?" 
+145		The roots creak. 
+146		"...Right. But everyone else is just dying to hear your thoughts." 
+147		"<b>DRINK WATER.</b>" 
+148		"<b>DIG DEEP.</b>" 
+149		"<b>EAT EARTH.</b>" 
+150		The voice goes silent. 
+151		Fascinating routine. 
+152		Ask him if he hustles. 
+153		Don't ask that. 
+154	DC10 dex-	"Right, but do you hustle?" 
+155		"Right. Informative, thanks." 
+156		The tree growls. 
+157		Uh oh. 
+158		Then the wind slowly turns into a voice again, letting out a single word. 
+159		"<b>YES.</b>" 
+160		Well then! 
+161		Nice! 
+162		However the tree interpreted the word <i>hustle</i>, it must not have been too worrisome. 
+163		The roots move a bit. 
+164		"<b>YES,</b>" it answers surprisingly quickly. 
+165		"By the city?" 
+166		"Who exactly offered you a permit?" 
+167		"<b>BY...</b>" 
+168		"<b>THE PLAN-TER.</b>" 
+169		"And who is that?" 
+170		The roots just nod towards you. Then the voice repeats. 
+171		"<b>PLAN-TER.</b>" 
+172		His logic is that he owns the land he was planted on. 
+173		Self-sustaining and natural. Of course he owns his land. 
+174		"Oh. Good." 
+175		One of the roots nods. 
+176		"I'm cool." 
+177		That's not good. He might catch a cold. 
+178		He's saying he would rather not. 
+179	FC10 wis-	"Oh. It <i>is</i> a bit cold down here, but I'm not asking about that." 
+180	DC10 wis-	"Oh. You sure-sure?" 
+181		"What?" 
+182		"I'm <b>good</b>." 
+183		He takes another little step back. 
+184		"<b>NES'WIKKALLA.</b>" 
+185		"<b>MY LOVE.</b>" 
+186		"Ah. That kind of relationship." 
+187		The goblin gives you a casual shrug. 
+188		"<b>SHE WILL COME TO ME SOON.</b>" 
+189		"<b>THE GREEN WITCH OF THE WATER BELOW. SHE IS TRUE BEAUTY.</b>" 
+190		"<b>AS DEW UPON THE LEAVES OF A SUNSET'S HOTNESS.</b>" 
+191		"<b>HER DEPTHS RADIATE ME.</b>" 
+192		"Oh gods." 
+193		"Okay, I think I've heard enough." 
+194		"You seem to like her." 
+195		The tree's voice turns into whistling winds. 
+196		"<b>LORD PUU HOLDS THE CACHE.</b>" 
+197		"<b>OF NESSAN. THE GREEN WITCH.</b>" 
+198		"<b><shake>YES</shake>.</b>" 
+199		The tree appears to agree with you wholeheartedly. 
+200		"<b>THE GARDEN. UP. UP.</b>" 
+201		"Great, thanks." 
+202		"<b>YES...</b>" 
+203		You whisper to yourself the words to pull the Strings around the mossy bark. 
+204		"Go now. <i>You should not be waking...</i>" 
+205		With that, the voice turns to wind, and then the wind turns to silence in the chamber. 
+206		"Interesting chat. I like that spell though. The fact that I can hear your little conversation makes me feel so included. It's great." 
+207		The goblin is slightly sarcastic. 
+208		About twenty percent. 

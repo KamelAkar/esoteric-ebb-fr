@@ -1,0 +1,501 @@
+idx	prefix	english
+0		"Halt, human." 
+1		A hairy beast, towering over you. Its face contorted into a stern (and probably permanent) frown. 
+2		"Do not pass further." 
+3		This is a bugbear. 
+4		They are most common in the west, living in the rough lands between Fordnip and the VK. 
+5		This <i>woman</i> does not hold power over you. 
+6		Do not let her stand in your way. 
+7		Yes. This is clearly a female. A <i>real</i> one, capable of terror beyond your sight and sound. 
+8	DC12 str-	"Hello, <i>woman</i>." 
+9		"I don't like your tone." 
+10		"How do you do?" 
+11		"Why are you standing down here?" 
+12		"Are you some type of dungeon monster?" 
+13		She snorts at you. 
+14		"I don't like your tone, <i>man-thing</i>." 
+15		"Huh. I was just about to say the same thing. Without the 'man-thing' comment. That's kind of interesting." 
+16		(Clear your throat.) "You doing good down here?" 
+17		"What?" 
+18		"What are you babbling about?" 
+19		"...I'm not sure." 
+20		She glares at you. 
+21		"What were we talking about?" 
+22		"You are not allowed to pass! Back away." 
+23		"Doing good?" 
+24		"I don't like you." 
+25		"Now, back off!" 
+26		She gives you a perplexed look, and gestures in several directions. 
+27		"I'm working! Go away." 
+28		She scoffs. "Yes. Now <b>back off</b> before I smash your face in." 
+29		"I, <b>Moongore of the Rigid and the HWBT</b>, demands it." 
+30		The bugbear places a hand on its weapon. 
+31		A morning star. Beware. 
+32		A morning star. Is it for you? 
+33		Morning star? No, that is clearly just a spiked mace. 
+34		I believe the term is '<i>flanged</i> mace'. 
+35		Wait, which one has the ball-on-a-chain, and which one has the ball-on-a-stick? 
+36		A CLUB. 
+37		Keep it simple. 
+38		She will not use it. 
+39		She sure keeps her hand on it. 
+40		"<i>Human</i>." 
+41		"Watch yourself. This is Halfways territory." 
+42		She notices Snell with you, and gives him a nod. 
+43		"Runner." 
+44		"Hey, Moongore. Things going well?" 
+45		"They are going." 
+46		She nods in your direction. "This is your cleric?" 
+47		"Seems so, yeah." 
+48		"I thought he'd be taller," she says with a scoff. 
+49		"Where is your Runner?" 
+50		"You should not delve into the City Below alone. You will be destroyed." 
+51		(Bow.) "I am The Cleric. Nice to meet you." 
+52		Snell looks at you like you're crazy. 
+53		"Huh. I was just about to say the same thing. Except the 'man-thing' comment. That's kind of interesting." 
+54		"And I don't like you." 
+55		"I do not believe you, nor your weak frame." 
+56		"You should get your goblin." 
+57		"Moongore keeps the Roots safe." 
+58		"She's our <i>champion of the depths</i>." 
+59		She grunts. "No monster will ascend. Not while I <b>draw breath</b>." 
+60		"...Serious as always. Good to see." 
+61		She snorts. "I am Moongore of the Rigid. Servant of Lady Sageleaf." 
+62		The bugbear places a hand on her weapon. 
+63		"Do not cause trouble." 
+64		Wait, which one is the ball-on-a-chain, and which one is the ball-on-a-stick? 
+65		Keeping it simple. Great. 
+66		"<i>You</i>. Helmed man-kind." 
+67		"You're not getting past, helmed man-thing." 
+68		"No need for that. Since I have no need to pass." 
+69		"...Are you sure you can't let me pass?" 
+70		"Whom do you serve?" 
+71		"Can I ask you some quick questions?" 
+72		"Can I ask some more... <i>personal</i> questions?" (Attempt to flirt.) 
+73		E-"Okay. Bye." 
+74		"Good." 
+75		"Yes." 
+76		She grunts. "I do not recommend it." 
+77		"There are devilish traps set up along these halls." 
+78		"And do not enter the crypts. There is an undead guardian." 
+79		"An undead? But that's the kind of stuff I take care of!" 
+80		"You? No. I do not believe you can take on an undead warrior by yourself." 
+81		"...You did?" 
+82		"Well." She looks you up and down. 
+83		"I am impressed. Less for us to worry about." 
+84		YES...! 
+85		"Impressed enough to let me pass?" 
+86		"No." 
+87		"Darn." 
+88		She snorts. "I work for the Halfways. I serve Lady Sageleaf." 
+89		"So I need to ask her for permission if I want to pass?" 
+90		"I work for the Halfways as well." 
+91		She squints, and thinks for a few seconds. 
+92		"Yes. If she gives you permission, I will let you pass. But I do not think-" 
+93		She stops mid-sentence. 
+94		"No you do not. I-" 
+95		She stops mid-sentence, and squints at you. 
+96		"Are you a cleric?" 
+97		"I am <b>The</b> Cleric, yes." 
+98		"More of a wizard, really. But sure." 
+99		"I like to see myself as a dashing rogue, personally." 
+100		"Why?" 
+101		"I don't know the difference. I don't care, frankly." 
+102		A simpleton. How sad. 
+103		"A dashing...? No. You are clearly a cleric." 
+104		So dismissive. 
+105		"Hm. A magic music thing?" 
+106		"I'm working on both of those." 
+107		"Huh." 
+108		She scoffs. 
+109		"Hm." 
+110		"I heard a cleric was sent. Because of the explosion." 
+111		"Why are you down here? The Dragon is waiting!" 
+112		A <b>WHAT</b>?! 
+113	FC12 wis-	(Look around, wildly.) "<b>Where</b>?!" 
+114		"I'm sorry, I just sort of ended up here." 
+115		"I don't follow orders. Even if it's from a dragon." 
+116		"I'm not sure where to go. I'm quite lost." 
+117		She groans, loudly. 
+118		"You <b>fool</b>!" 
+119		Harsh but true. 
+120		I like this bugbear. She understands you well. 
+121		"I'm talking about Lady Sageleaf! Of the Halfway Bridge Tribe!" 
+122		"What? How?!" 
+123		"You don't simply wander into the City Below!" 
+124		"That is how fools get killed." 
+125		"Not <i>a</i> dragon. <i>The</i> Dragon." 
+126		"She will eat you whole if you don't hurry there. Right now." 
+127		She shakes her head and sighs. 
+128		"Head up the stairs. The apple tunnel is usually locked, so you will have to leave the lichhouse by going all the way up." 
+129		"...Apple tunnel?" 
+130		(Let her speak.) 
+131		"Silence!" 
+132		"You head up the stairs, okay?" 
+133		"After that, you head south. Go across the grass. There should be a goblin standing guard." 
+134		Listen to her. 
+135		"Right at the Garden entrance. Talk to him. Are you able to follow these instructions?" 
+136		Treat her with respect. She's clearly a powerful woman. 
+137		Mum. 
+138		"Yes, ma'am." 
+139	FC7 int-	"Yes, mum." 
+140		"Possibly." 
+141		"...Can I hear it again?" 
+142		The bugbear stops and looks at you with wild rage in her eyes. 
+143		"Then <b>go</b>!" 
+144		Her roar causes you to stir. 
+145		She reaches forward, grabbing your uniform. 
+146		She pulls you in close, yelling in your face, "<b>Up the stairs, across the park, to the Garden</b>!" 
+147		She is in control. 
+148		Wonderful. 
+149		Ew. You have bugbear spit all over your face. 
+150		<b>Amazing</b>. 
+151		Then she lets you go, before taking a step back. 
+152		"Go. Now." 
+153		"No!" 
+154		She is, indeed, disgusted with you. 
+155		Not necessarily a problem. 
+156		"I will not entertain you with an answer." 
+157		"Now <b>leave</b>." 
+158		"I have some questions about the day of the tea shop explosion." 
+159		"What's it like working for the HWBT?" 
+160		"You look like a great warrior... and <i>woman</i>." (Attempt to flirt.) 
+161		E-(Nod your head and leave.) 
+162		"I have realized that." 
+163		She looks mad. 
+164		Understandable. 
+165		"You're not gonna punch me or something? Maybe bite?" 
+166		"It's a nice shield." 
+167		"I will get it back." 
+168		"For now, my allegiance to Lady Sageleaf forbids me from <shake>crushing your bones</shake>." 
+169		"I recommend not trying your luck any further." 
+170		Oh, lord Urth. This is life. 
+171		This is what it's all about. 
+172		You got lucky! Neat. 
+173		"...A TROLL?" 
+174		The hairy woman gives you a wicked smile. 
+175		"I'd say you were lying, but I don't think you're up for that." 
+176		This will surely help. 
+177		"He did actually kill a troll. Technically speaking. It was just-" 
+178		"<i>Silence</i>," she interrupts him. 
+179		She nods in your direction. 
+180		"Well done, human. I find your <i>skills</i> highly arousing." 
+181		"...<i>Oh</i>." 
+182		"Thank you, I made them myself." 
+183		(Stay quiet and just smirk like a madman within your helm.) 
+184		(Stay quiet and just smirk like a madman within your bucket.) 
+185		(Stay quiet and just smirk like a madman within your pot.) 
+186		The bugbear scoffs and clenches her morning star. 
+187		"Now what else do you with to speak of? I will not indulge your ego any more than this, I assure you." 
+188		She will not meet your gaze. How strange. 
+189		OH man. Yep. Halfway there, boy. 
+190		<i>Glory be, as glory found- the greatest man will not be bound- to foreign lands and foreign shores, the loving heart will open doors.</i> 
+191		Oh... oh... 
+192		Ohhh... ohhhh... 
+193		This is a shame. 
+194		This is all such a shame. 
+195		"A roper?" 
+196		"That is a ferocious beast. They do not come this far up very often." 
+197		"Well done, human." 
+198		Keep killing things, and being MANLY. She likes it. 
+199		Moongore doesn't turn around, and just grunts at you. 
+200		"That's Nessan. She's our druid." 
+201		"She's not very responsive." 
+202		"Do not disturb her. Not that you would be able to." 
+203		"She is deep in meditation. Far from here." 
+204		"Leave her alone." 
+205		"But I need to talk to her!" 
+206		"Fine. I'll do that." 
+207		"Then find her in the Garden later." 
+208		"She spends her mornings down here, and returns to her office after lunch." 
+209		"I have cooked her a lovely mushroom stew today." 
+210		"I have cooked her a lovely roasted cave crab today." 
+211		"I have cooked her a lovely herb-crusted fish today." 
+212		"I have cooked her a lovely root vegetable medley today." 
+213		"I have cooked her a lovely spiced meat pie today." 
+214		"I have cooked her a lovely underground greens salad today." 
+215		"I have cooked her a lovely braised tunnel rabbit today." 
+216		"<i>You</i> cook?" 
+217		"You eat lunch together?" 
+218		"Yes. It is a part of my duties." 
+219		"Can I join?" 
+220		"Sounds lovely." 
+221		"You may NOT." 
+222		A terrible tragedy. 
+223		To be forced to <i>avoid</i> suffering food poisoning. 
+224		"I'm great at cooking. So yes, it is." 
+225		"I felt a slight rumble in the earth." 
+226		"I was down here, guarding the Roots." 
+227		"So nothing too out of the ordinary?" 
+228		"Just a little rumble?" 
+229		"Alright. I've got some other questions." 
+230		"Nothing I have to tell you, human." 
+231		"I'm assuming it was a most ferocious force of magic or nature, if it created a quake all the way down here." 
+232		"Fine." 
+233		She grunts. 
+234		Funny noise. 
+235		This beast can't even speak properly. 
+236		"Is that a yes?" 
+237	FC18 int-	(Grunt back.) 
+238	DC18 int-	"Speak clearly, bugbear." 
+239		She bares her fangs. 
+240		"I did." 
+241		"Are you looking for this man?" 
+242		"Yeah well, clearly." 
+243	FC14 int-	(Grunt, conspicuously.) 
+244		The bugbear shows you a deep frown and says, "If you see him, stick a knife through his heart for me." 
+245		Speak her tongue. 
+246		"Wait, why?" 
+247	FC10 int-	(Grunt, questioningly.) 
+248		"I saw him approaching from the Pillar chamber. Told him to stop, to step away from Halfway turf." 
+249		"But that bastard..." 
+250		"He cast a spell on me." 
+251		"That handsome, huh?" 
+252		"That's awful." 
+253		"If you failed to resist it, that's on you." 
+254	FC8 int-	(Grunt, empathetically.) 
+255		"What? No." 
+256		"He was as ugly as the rest of you." 
+257		"Ouch." 
+258		"You think I'm ugly?" 
+259		"Yes. Humans really suck, don't they?" 
+260		"I cannot see your face, human." 
+261		"But I would assume so, yes." 
+262		"I did not say that." 
+263		"You harmless flaccid cock." 
+264		"No. I was weak." 
+265		She scoffs. "Yes, I agree." 
+266		"Are you mocking me, human?" 
+267		"No. The exact opposite." 
+268		"Yes. But not in a bad way." 
+269		"Possibly. I'm not sure." 
+270		"Yeah." 
+271		"Do not mock me in a good way, either." 
+272		She shakes her head. 
+273		"I saw him approaching. He wore an ugly yellow robe." 
+274		"Then he said a few words, and I suddenly happily allowed him to pass." 
+275		"A charm of some kind. I was helpless, like a kitten." 
+276		"Gods, <i>I hate kittens</i>." 
+277		You can fix her. 
+278		Run away from her. Before it's too late. 
+279		"You... hate kittens?" 
+280		"What else can you tell me about him?" 
+281		M-"In which direction did he go?" 
+282		"Yes. Any child-beast, really." 
+283		"They are too weak to survive on their own. That is a disgusting feature of adolescence." 
+284		This chick is crazy-crazy. 
+285		<b>You can fix her.</b> 
+286		"Okay?" 
+287		You must find this man and punish him. 
+288		That way you can earn her respect. 
+289		"Do what you want. I do not care." 
+290		She actually kind of does. 
+291		You catch her glancing at your figure. 
+292		"He had slightly darker skin. Unlike most pale humans in Norvik." 
+293		"He carried a backpack. And several... things. Tools." 
+294		"That's not very specific." 
+295		"How much darker, exactly?" 
+296		"You want wordy? Go ask a poet." 
+297		"Somewhere between a tan hill goblin and pale fell orcs." 
+298		"That's very good information, thank you." 
+299		"I have no idea what that means." 
+300		She shrugs. 
+301		"Through the South Caves." 
+302		She points towards the damp tunnel down the slope. 
+303		"I warned him about the monsters as he walked away. <i>Because of that darned spell</i>." 
+304		"I would have hoped for him to be dinner for some Hook Horror or Darkmantle... but the bastard turned invisible as he entered the tunnel." 
+305		"I hate wizards." 
+306		"I'm a wizard, by the way." 
+307		"Same. Can't stand those nerds." 
+308		"I'm neutral on them personally." 
+309	FC6 int-	(Grunt, angrily.) 
+310		"Then I hate you." 
+311		The bugbear lets out a grunt. 
+312		Clearly signaling she's done with this part of the conversation. 
+313		"You did?" 
+314		The bugbear lifts her chin and looks down on you. 
+315		"Is he in the City Below still?!" 
+316		"No. He is far below." 
+317		"No. I found him captured by a troll." 
+318		"Oh. That is good! He deserves pain." 
+319		"Well. Speaking of which..." 
+320		"Mm?" 
+321		"I punched him in the face." 
+322		"You <i>did</i>?!" 
+323		She clears her throat, but it sounds more like a surprised growl. 
+324		"...<i>You</i> did?" 
+325		"I did. I avenged your honor." 
+326		"Hm..." 
+327		This imposing fluffy monster looks you up and down with a smirk. 
+328		"I must have misjudged you, human." 
+329		"Maybe you are a real man after all." 
+330		<b>YEEEEEEEEEEEEEEEEEEEEEEEEEEEEEES</b>. 
+331		Careful now. Real smooth... 
+332		Invite her to fight thugs in Housing. That should work. 
+333		"<i>Meek is happy for master! Meek did not know human need prove humanness. Very good hairy woman trust master now!</i>" 
+334		"As a real man, perhaps you'd like to go on a <b>date</b> sometime, then?" 
+335		"Perhaps you'd like to... go out sometime. Dinner?" 
+336		"Come with me. We can go fight thugs in Housing, or something." 
+337		"Thanks. Anyway..." (Don't ask her out.) 
+338		"<i>Oh! Meek sorry!</i>" 
+339		"<i>Hope master score! Very hard!</i>" 
+340		She gives you a nod. 
+341		<b>NOOOOOOOOOOOOO</b>! 
+342		"But..." 
+343		She gives you a nod and a grin. 
+344		"A sparring match. In the Garden." 
+345		"<i>After</i> the election, of course. I'm on duty until then." 
+346		A physical meeting with this handsome woman? 
+347		This is a massive win for you and your manhood. 
+348		"I'll take it!" 
+349		R-"No. I've earned something <b>more</b>." 
+350		"Good. We will set a time later." 
+351		She scoffs. "Something more?!" 
+352		A deep frown appears on her face. 
+353		"You dare throw my offer away, <i>human</i>?" 
+354	ROLL16 str-	Demand more. 
+355		"Nevermind, I'll take it...!" 
+356		You feel your muscles quake. 
+357		The earth itself is MOVED by your LOINS. 
+358		Oh gods. 
+359		Simply speak your mind. You know she will hear you. 
+360		"I battled a <b>TROLL</b> for you. Show me some <b>appreciation</b>." 
+361		Her frown fades, replaced by a wicked smile. 
+362		Then she grabs your uniform, pulling you closer. 
+363		Much, much closer. 
+364		She opens her maw. Right over the little piece of space left between your neck and your chainmail. 
+365		And then she... 
+366		Bites down. 
+367		ATTACHED. 
+368		Hard. Hard enough to leave a solid mark. 
+369		A violent union. 
+370		Then she lets go, both with her maw and her claws. 
+371		"<i>Appreciation</i>. Hope you enjoy." 
+372		This is what you get when you chase crazy. 
+373		This  is  a  real  woman. 
+374		"<wiggle>Yesthankyouthatwasverynicethanks</wiggle>." 
+375		(Mutter incoherently.) 
+376		"You can let me know when you have time later. For our sparring match." 
+377		Your body gives out. 
+378		It does not listen to you. 
+379		But... I HAVE to...! 
+380		It would come at a great toll. 
+381		If you are certain you wish to pay it. Then... do so. 
+382		I PAY THE BUGBEAR TOLL. (Inflict great pain on yourself.) 
+383		"Uh. Nevermind, I'll just take the original offer." 
+384		Everything hurts as you push yourself forward. 
+385		Then... 
+386		She laughs. "That's better." 
+387		"I will set a time for us later." 
+388		"Now... is there anything else you need, you <i>puny</i> human male?" 
+389		"No, of course not." 
+390		"I got this as a gift. I can't just give it away." 
+391		"Oh." 
+392		"Okay, then." 
+393		There is great respect for the elven druid. 
+394		Just take it, then. Leave the convo, sneak up on her, and snatch it. 
+395		Only suckers ask for things. 
+396		That would be stealing. 
+397		Yes. It would. 
+398		It would be wrong. 
+399		Oh yes. So wrong. SO <i>bad</i>. 
+400		Let's do it. 
+401		"Okay." 
+402		<i>Okay</i>. 
+403		"The dark dwarf. Yes. He asked for access to the south tunnels." 
+404		"He is not permitted." 
+405		"Why not?" 
+406		"Because he's a dwarf? A dark dwarf?" 
+407		"The Lady does not permit it." 
+408		"No. He is not permitted because he is a dungeoneer." 
+409		"Lady Sageleaf does not allow looters on her grounds." 
+410		"Only official expeditions." 
+411		"Am I an official expedition?" 
+412		"Good. He seems like a profiteer. I hate those." 
+413		"Seems a bit discriminatory." 
+414		She glances at Snell, who shrugs. 
+415		"More or less." 
+416		"I have no strong feeling on that." 
+417		"But Lady Sageleaf does not will it." 
+418		"It is not." 
+419		She frowns. 
+420		"If you go into the south tunnels, beware of monsters. They crawl in from below, infesting the caverns." 
+421		"We clean them out every other week, but they return often." 
+422		"Isn't the Pest Control Guild supposed to take care of that stuff?" 
+423		"What kind of monsters?" 
+424		She lets out a deep laugh. 
+425		"Pest Control?!" 
+426		"Those <b>pussies</b> won't step below the Lower. Especially on Tolstad." 
+427		"Bunch of weaklings looking for easy payouts. If we can't deal with it ourselves, we hire outside muscle. But not the PCG." 
+428		Historically, the PCG have trouble dealing with the massive amount of requests of monsters and esoterical <i>things</i> crawling through Norvik. 
+429		You've heard many tales of the Pest Controllers in your days. 
+430		The Pest Control Guild works closely with clerics. Whenever they need heavy muscle. 
+431		Back in the day, retired Clerics would often gravitate towards the PCG. But these days, most clerics don't want to get their hands dirty in that sort of way. 
+432		Dangerous work. Stay away from it. 
+433		Dangerous work. For real men. 
+434		"All kinds. Anything that crawls through the cracks of the City Below." 
+435		"All kinds? Tell me more." 
+436		"Don't tell me. I want it to be a surprise." 
+437		She gives you a stern, but slightly concerned look. 
+438		"You are insane, man-thing." 
+439		"I like that." 
+440		"Last month we killed a Hook Horror. It was a great hunt." 
+441		"Before that a bunch of Giant Spiders. A Gray Ooze. Last year we had to get a specialist to deal with a hive of Cranium Ants." 
+442		"They negotiated for days." 
+443		"The worst was probably the Gricks. I hate those things. But I'm sad to say we have not yet had to deal with a Bulette." 
+444		"I do not think those land sharks enjoy tunneling here. But there have been reports of a few of them moving closer to settlements in the last year, over in Verdune." 
+445		"I want to skin one of those things, one day. That would be pleasurable." 
+446		(Stare at her.) 
+447		"...Cool." 
+448		She grins. 
+449		"I can deal with that. I'm very strong." 
+450		She looks you up and down. 
+451		"Mm." 
+452		"They are good." 
+453		"Lady Sageleaf is a great leader." 
+454		"Her power is overwhelming." 
+455		"You look a lot stronger than her, though." 
+456		"I agree. That little goblin woman is enough to break a dozen men." 
+457		"She's not that scary." 
+458		R-"Lady Sageleaf is a weak, inefficient leader who will fall soon enough." 
+459		"I am not." 
+460		"Do not even imply that, human." 
+461		"Or more." 
+462		"I suggest you lose that foolish thought, human. If you wish to keep your head." 
+463		The goblin contains a laugh, before giving you a shocked glance. 
+464		"It's your funeral," he mutters and takes a step back. 
+465		"Take that back," she says with a stern face. 
+466		"Right away. Take those filthy words back." 
+467		"I... I take it back?" 
+468		"You might be a fool, but you can at least learn. Like a dog." 
+469		"Take. It. Back." 
+470		"...Okay. Sorry." 
+471		"NO! I don't want to!" 
+472		"That's better." 
+473		She gets closer. "I will have your <b>tongue</b> if you do not." 
+474		"Fine. I take it back." 
+475		She holds up a fist. "This close." 
+476		The bugbear slaps you across your helm, sending it spinning, along with your mind. 
+477		"Take it back!" 
+478		"Take it <i>back</i>! Now!" 
+479		She takes a step back with a foul grin. "Good." 
+480		"<i>Holy hells</i>..." 
+481		The bugbear holds up her hand to slap you again, her chest heaving from heavy breaths. 
+482		While clearly having a great endurance, this woman is exhausted from slapping you so many times. 
+483		You. Stand. Tall. 
+484		"W-what?" 
+485		"Hit me again, <i>woman</i>." 
+486		She glares at you, with wide eyes. 
+487		Fear. 
+488		Envy. 
+489		Respect. 
+490		She lowers her hand. "I will let it slide. This time." 
+491		She gives you a slow nod. 
+492		You feel POWERFUL. 
+493		(Clear your throat.) "Anyway, back to my question. What's it like working for the HWBT?" 
+494		She looks away for a moment. 
+495		"I've been given a life here. A purpose." 
+496		"While I do not enjoy living among your kind, the goblins are a fine people." 
+497		"Thanks." 
+498		"Not you in particular. <i>Weasel</i>." 
+499		"Weasel?! I don't think I deserve to be called that." 

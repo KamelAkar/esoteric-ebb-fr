@@ -1,0 +1,237 @@
+idx	prefix	english
+0		You approach a ball of feathers and wings and really, really sharp claws. 
+1		A magnificent creature. 
+2		Too bad he's clearly overfed. 
+3		That is rude. The poor bird-cat has a unique body shape, and we should celebrate that. 
+4		If it could understand you, sure. 
+5		Magical beasts can sometimes understand basic common. You could try speaking with it. 
+6		It's a griffon, right? 
+7		This is a griffon. It is a somewhat intelligent magical beast. 
+8		You will require Speak with Animals to communicate properly, of course. 
+9		Simply cast Speak with Animals. That should lessen the pain of negotiation. 
+10		You see a pool of drool forming underneath the open beak of the beast. 
+11		It is asleep. 
+12		Wait, look behind it. 
+13		Oh. Wait. Isn't that... 
+14		There's an entrance to the Warehouse on the other roof. If you want to get inside, you're going to have to get past this bad boy. 
+15		The mythical beast snores gently before you. 
+16		"I don't even want to ask what the plan is here." 
+17		The mythical beast looks at you - with intelligent eyes. 
+18		Hungry eyes. 
+19		(Pet the bird.) 
+20		E-"Thank you for your time, griffon." 
+21		Not a bird. 
+22		A large bird. 
+23	DC10 int-	(Pet the dangerous monster.) 
+24	FC10 int-	(Pet the large bird.) 
+25		Better. 
+26		You reach forth, and the griffon snaps at you with its beak. 
+27		Almost got you. Careful. 
+28		Its eyes say, 'Cut that shit out, biped.' 
+29		Not a fan, huh. 
+30		R-(Attempt to pet the beast.) 
+31	ROLL18 wis-	Wake the animal gently, through understanding and empathy. 
+32		R-(Attempt to sneak past it.) 
+33		E-"Okay. I've come to a conclusion. I should not engage this beast right now." 
+34		"No. No, thank you." 
+35		"And seriously, be careful. I'm not cleaning up your guts if that thing skewers you." 
+36		You go in, and... 
+37		(Pet.) 
+38		How does one do this? 
+39		You try to see from the beast's perspective. 
+40		How would you like to be awoken, if you had to be awoken from your lovely slumber, if you had to be awoken from your lovely slumber by a helmed handsome stranger? 
+41		If you had to be awoken from your lovely slumber by a helmed handsome stranger on a day such as this? 
+42		I lost my train of thought. What am I doing? 
+43		The question is: by which method would you like to be awoken? 
+44		I don't know. A hug? 
+45		Okay. Try that then. 
+46		"Come here, birdy..." (Give the sleeping griffon a hug.) 
+47		Alright, let's do this... 
+48		Sorry? What are you doing? 
+49	ROLL14 dex-	Sneak past it. 
+50		No, no. I regret this. Let's not. 
+51		You take a deep breath. 
+52		Then you take the first step. 
+53		The goblin follows right behind you as you carefully navigate the ledge of the roof. 
+54		You carefully navigate the ledge of the roof. 
+55		One wrong step and you fall. One wrong step in the other direction, and the bird will slap you off. 
+56		But... 
+57		You take a deep breath as you make it to the other side. 
+58		"Let's not do that again." 
+59		(Start walking away.) 
+60		Oh. 
+61		The griffon appears to have awoken. 
+62		You got here just in time! 
+63		"Perfect. Now we can make it back too." 
+64		"Sometimes you're a really lucky bastard, you know that?" 
+65		E-At least it didn't try to eat me. 
+66		Right on the beast's wing. 
+67		<i>Tsk</i>. Fine. Whatever. 
+68		Regret what? What's happening? 
+69		<i>A light tap</i>. 
+70		"...<shake>Goddamn it</shake>!" you hear your companion yell, and rushing down to the street. 
+71		(Land.) 
+72		The bones in your body cracking. 
+73		Hard ground merging with your flesh. 
+74		But you <b>live</b>. 
+75		(Groan.) 
+76		Almost got it. 
+77		That did not go so well. 
+78		Perhaps another method shall work better? 
+79		"Gods-be-damned. What were you <i>thinking</i>?!" you hear Snell yell at you as he comes running down the street. 
+80		The goblin eventually makes it down to you, gasping for air. "It's good you're alive, but seriously-  isn't there a saying about NOT waking a sleeping griffon?" 
+81		"Don't do that again." 
+82		E-<i>Ouch</i>. 
+83		How does one wake a sleeping grumpy creature? 
+84		Poke it? 
+85		Scream at it? 
+86		Hug it? 
+87		No. 
+88		Almost. But not. 
+89		Not immediately, no. 
+90		The answer is simple. 
+91		You <i>sing</i>. 
+92		(Clear your throat, excitedly.) 
+93		"<i>Cleric.</i>" 
+94		The goblin hisses at you and points at the claws. "<i>Sharp</i>." 
+95		A little lullaby will do. 
+96		"<i>Oh, little birdy. Spread your wings. Don't be afraid of the deep dark things. Crawling and creeping and being so bad, everybody wants you to not be sad.</i>" 
+97		Oh. So... you can get past now. 
+98		Did you... make that up on the spot? 
+99		The beast didn't slash your throat. Yet. 
+100		Wonderful. 
+101		"Thank you, griffon." 
+102		It yawns in a way you didn't think creatures with beaks could do, and gives you a tired look. 
+103		"I can't believe that worked. I can't believe you're alive," the goblin mutters under his breath as he too slowly shimmies past the beast. 
+104		E-Sometimes it pays off to be handsome and talented. 
+105		Your spell causes you to feel lighter for a moment, as if connected with the soaring dreams of the griffon. 
+106		Then it fades as a deep growling voice enters your ears. 
+107		<wiggle>...</wiggle> 
+108		<wiggle>...You...</wiggle> 
+109		<wiggle>...Foolish...</wiggle> 
+110		"...<i>Biped</i>." 
+111		The griffon gets up from its slumber with a dark groan. 
+112		"Ugh..." 
+113		"How many times must I make it clear..." 
+114		"I require <b>rest</b>. Or do you wish to taste my steel?" 
+115		"Holy shit, you can talk!" 
+116		"Good morning, sleepyhead." 
+117		"I apologize, oh great griffon." 
+118		"Of course. You foolish biped." 
+119		"Steel it is, then?" 
+120		He scoffs. "You think me weak to flattery, eh?" 
+121		The beast spreads its wings. "You may address me as Giorgio Valzantigo." 
+122		"<i>Master</i> Giorgio Valzantigo." 
+123		If griffons could smirk, he would. 
+124		Who does this chicken think he is?! 
+125		The bird... will <i>shred</i> you... 
+126		Wow. This beast <i>lives</i> on a pedestal. 
+127		Whatever it says: just play along. 
+128		"Greetings, Master. Thank you for getting out of the way." 
+129		"You're not my master!" 
+130		(Bow.) "Hello, griffon." 
+131		"Pff." 
+132		"You're welcome, <i>biped</i>." 
+133		"I suppose that's true." 
+134		He grunts. "If I was in a worse mood, I'd slash your throat, biped." 
+135		"But a featherless freak could only act so gently. Clearly." 
+136		"<i>Tsk</i>." 
+137		"Your manners are in the gutters, along with your bloodline." 
+138		Harsh. 
+139		Even by bird standards. 
+140		"Now, I am in a good mood after my nap. Go ahead." 
+141		"Ask me whatever inane questions you might have." 
+142		"How'd you get that name, Giorgio?" 
+143		"Why do you call me 'biped'?" 
+144		"What do you do around here?" 
+145		"Sleep well?" 
+146		"You're kind of chunky." 
+147		"That's it for now. Thanks." (Break the spell.) 
+148		"My father was Tizz'lamiergi Valzantigo of House Valzantigo." 
+149		"We are bred to be perfect," the griffon growls, leaning his beak in towards your face. 
+150		Interesting. This griffon must be one of Vetta Dei Re. Typical racing breed. 
+151		Those names sound very gnomish. You seem to remember there is some kind of secret connection between them and griffons. 
+152	DC11 int-	"I see. So you originate from Vetta Dei Re." 
+153	FC11 int-	"Your name sounds kind of gnomish? Why?" 
+154		"That is correct. Of course you've heard of my home-kingdom." 
+155		"Of course. The biped is knowledgeable in basic history." 
+156		The bird lets out a squawk. 
+157		"I originate from Vetta Dei Re." 
+158		"VDR is the greatest city on the Coast." 
+159		"The gnomes who live there have served my lineage for over a century-and-a-half." 
+160		"Once I finish this <i>obligation in the west</i>, I will return to rule my house once more." 
+161		"Soon enough. Soon enough." 
+162		"Why? For that is what you are." 
+163		"A two-legged featherless biped." 
+164		"Do you disagree?" 
+165		"I do!" (Get ready to argue about your identity as a person.) 
+166		"No, that's factually correct." 
+167		"Of course. And what incorrectness will you spew in my direction, then?" 
+168		"I am actually a really cool rogue." 
+169		"You may call me 'wizard'." 
+170		"<b>THE CLERIC.</b> That is what I am." 
+171		"Don't be rude. I'm trying to tell you about my identity here." 
+172		"Rogue? Like... a rapscallion?" 
+173		"Yeah, the sneaky kind." 
+174		"Yeah, the fun kind." 
+175		"No. I'm really unfun and serious, all the time." 
+176		"I don't know why I asked." 
+177		"Wizard..." 
+178		"Ah. That is why you suddenly learned to communicate. You are cheating!" 
+179		"Yes. With magic. I am very smart." 
+180		"I wouldn't call it that." 
+181		"You're the one who learned to talk!" 
+182		"For a biped, mayhaps." 
+183		"I don't care what you would call it." 
+184		"No." 
+185		He chuckles. 
+186		"No, you." 
+187		"But you are magical. Just like my wonderful gnomish servants, then." 
+188		"A knack of magic is a good trait in a servant, you see. You should consider bending the knee." 
+189		"It would be good for you." 
+190		"I don't know what that is, and I don't care." 
+191		"Anything else?" 
+192		"That is not something I have ever heard of - so perhaps yes. Either way, it's dumb." 
+193		"A bird?" 
+194		"No. A Barb." 
+195		"Ah. I don't care." 
+196		"Perhaps. I do not care." 
+197		"Rude? I am just realistic, biped." 
+198		"But fine. Tell me. What are you?" 
+199		"It is. Biped." 
+200		"I handle scouting for the boat-bipeds. Though they do not hold any interest for my valuable information." 
+201		"Some of the less rugged ones I even move around from time to time. I traveled with one a few days ago, all the way to this strange, cold land." 
+202		"In return, I get fed a glorious amount of sustenance." 
+203		"More than <i>you</i> could ever wish for, biped." 
+204		Noticeable. 
+205		"Who's your owner?" 
+206		"Who did you fly with here?" 
+207		"...Got it." 
+208		"<i>Tsk</i>. I have no owners, you foolish thing." 
+209		"You need to wrap your mind around a superior being not needing to slave away all day. Learn from me." 
+210		"That would do you good." 
+211		All that <u>ego</u> - with no intellect. 
+212		How sad. 
+213		"A biped of your size, approximately." 
+214		"One with a gaudy sense of style. Some type of ground-delver of a human, I believe. The type to head deep below, and not come back for many, many days." 
+215		"It's sad, really. To be a biped. Like you." 
+216		We could find its owner below, then. 
+217		Ah. It is speaking of Meriadoc. This is the Trade Prince's griffon, surely. 
+218		What a lovely creature. 
+219		"Until you showed up, yes." 
+220		"I had a dream where I kept smacking bipeds like you around." 
+221		"It was wonderful." 
+222		"Fed well. Yes, thank you." 
+223		"I am very rich, indeed." 
+224		He doesn't see that as an insult? 
+225		Weird bird. 
+226		The voice disappears from the griffon immediately. 
+227		"Had a good chat? Didn't sound like you were best friends exactly." 
+228		E-Time to go. 
+229		"You've essentially been squawking for a while now." 
+230		"I would've laughed- if the noises coming from that griffon didn't scare the shit out of me." 
+231		"Sounded like you'd be gutted any second." 
+232		"That sounds scary. Oh well." 
+233		"The griffon and I came to an understanding. I think." 
+234		"Let us not talk about it anymore." 
+235		"Sure. Let's go before the bird changes its mind." 

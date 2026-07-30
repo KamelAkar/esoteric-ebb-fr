@@ -1,0 +1,390 @@
+idx	prefix	english
+500		Just let him live his life. 
+501		More like, un-live it. 
+502		Did you just instantly memorize the scroll after it flew out of the skull's mouth? 
+503		<i>Degenerate</i>. 
+504		Terrible. But a spell is a spell. 
+505		"You've earned it, my <i>evil</i> apprentice." 
+506		As long as you use it for selfless goals, there is no evil in such magic. 
+507		Probably. 
+508		Glorious. Another tier of magic unlocked. 
+509		Even if it's just a third level spell, this will surely lead to greater things in the future. 
+510		Speak with Dead? But you've been speaking with this skull all this time...? 
+511		"If you have any other questions, go ahead." 
+512	DC8 int-	"Speak with Dead. That's five questions, right?" 
+513	FC8 int-	"Haven't I been speaking with you this whole time? Is this like Speak with Dead?" 
+514		"Yes indeed!" 
+515		"Nah. I'm just a talkative lich. Normally you only get five questions." 
+516		"Plus, the spell does not allow the spirit to learn anything new- it just literally animates a simile of the creature." 
+517		"It's an extraction tool, not a way to learn information." 
+518		"So if a person is being targeted by Speak with Dead - and then resurrects - that person will not remember the questions? Or answers it gives?" 
+519		"Not one bit." 
+520		"Except, of course..." 
+521		"There have been recorded instances of it happening. Rare. Very rare." 
+522		"But only for creatures entangled so heavily in the Strings of Jor... that their spirit itself grows <i>tendrils</i> so to speak." 
+523		"If the spirit lives entirely within the Strings then it theoretically could listen in on the Speak with Dead-conversation." 
+524		"But that's entirely based on conjecture, along with some instances I've encountered during my necromantic studies." 
+525		"Nothing to base a world-view on, wouldn't you say?" 
+526		"Interesting." 
+527		"Indeed." 
+528		"Good job on this. I can see you have an extreme talent for handling Strings, beyond what I've seen in many youngsters." 
+529		"I would love to watch you burn out on a battlefield among hags and legionaries...!" 
+530		The skull lets out crazed laughter while spinning around in the air. 
+531		"Anything else you want?" 
+532		"Like what?" 
+533		"A skull?" 
+534		"A lich?" 
+535		"Dead?" 
+536		"So... handsome?" 
+537		He goes silent for a few seconds. 
+538		Clearly a rarity once you get him talking. 
+539		"I don't know what you are talking about." 
+540		The demi-lich is probably in denial about the whole being-a-skull-thing. 
+541		Is he being purposefully obtuse? 
+542		"Don't kiss ass, Cleric! Nobody likes that." 
+543		"He's right about that. Usually." 
+544		"Ah, that." 
+545		"Long story!" 
+546		"I've been around since the three-hundreds." 
+547		"Arcane Era?" 
+548		"Divine Era?" 
+549		"...Fade Era?" 
+550		"...Not Gate Era, is it?" 
+551		"Of course! What else?" 
+552		The skull pauses its rotating and focuses on you. 
+553		"I'll talk your skin off, Cleric." 
+554		Please. No. 
+555		He clearly loves to talk. Any question you ask, he will answer. 
+556		"No. I'm not that old. Come on." 
+557		"By the Strings, no! Are you insane?" 
+558		"I wouldn't be talking with you if I was a lich of the fucking Fade Era, come on! I'd be over a millennium. And a half!" 
+559		"You think I'm a damn Antesepalian?" 
+560		"The Gate Era began over four <i>thousand</i> years ago. Do you realize how few relics, let alone creatures, still exist from that time?" 
+561		"I should finger you just for saying such a stupid thing!" 
+562		Terrible phrasing. 
+563		Just absolutely awful. 
+564		The demi-lich is referring to Finger of Death. Nothing else. 
+565		What is this lich suggesting?! 
+566		"Where did you grow up?" 
+567		"Who taught you necromancy?" 
+568		"What is your greatest accomplishment?" 
+569		"You have any kids?" 
+570		"Cool. That gives me a better picture of your life." 
+571		"In a small village, called Cree-Iv." 
+572		"We had barbarian invasions from the Vourgeni border every year. To protect them, I raised our dead from the village crypts." 
+573		"Those were some bloody battles, I'll tell you! Took a dozen heads before the message got into their thick giant-skulls." 
+574		"A ghost, actually. Haunted a ruin outside my father's farmstead." 
+575		"Led me to my first spellbook. Told me how to pull Strings and fast tracked my spell slot accumulation." 
+576		"Her name was Uilieena Prax. A wonderful, crazy harlot." 
+577		"No need for such foul language." 
+578		"Where is she now?" 
+579		"Eh, those are her words!" 
+580		"<i>Uili the Crazy Harlot</i>! Don't be so sensitive." 
+581		The skull does a spin. 
+582		"She was captured by a high ranking exorcist after I built my first squadron." 
+583		"Last I heard, she was part of some Freestrider Trade Prince's personal collection. Kept her in a bottle." 
+584		"Like she's a genie or something. I would have gone with a fancy box myself. Or an urn!" 
+585		Your innards churn by having to listen to his strange tales. 
+586		"Oh!" 
+587		"It's a bit embarrassing, but it has nothing to do with necromancy." 
+588		"Back in the war, I was to receive a commendation in Thazen. Big event. Big deal." 
+589		"Well, that evening during the reception, I managed to SEDUCE and CHARM a beautiful young lady." 
+590		"Turns out she was the daughter of a Haagin-Dim Arcanist! Can you imagine?!" 
+591		"So obviously I married her straight away. My father-in-law made sure I got promoted to hell and back over the next decade." 
+592		"Got me deep into the Arcanist Circle. Until the accident, of course." 
+593		"You married up, and that's your greatest accomplishment?" 
+594		"So... what did you do to earn that commendation?" 
+595		"What's your greatest necromancy-accomplishment then?" 
+596		M-"Tell me about that accident of yours." 
+597		"Arcanist politics is won in the bedroom, not on the battlefield." 
+598		"Don't worry, there was true love between Accalia and I. She was a great scribe of the Era, that glorious woman." 
+599		"We didn't divorce until after a CENTURY of lichdom. Do you understand how rare that is?!" 
+600		"That was LOVE it was!" 
+601		How morbidly romantic. 
+602		That is... strangely impressive, yes. 
+603		Could you imagine a hundred years of marriage? Horrific. 
+604		"Last I heard, she was heading a mercantile faction in Fell Tire." 
+605		He clicks his non-existent tongue. 
+606		"Gods be damned, I miss that lady. Her body, yes, but her <shake>MIND</shake>..." 
+607		Strangely idealistic for an Arcanist lich. 
+608		He was touched by feminine corruption. No wonder he fell to demi-lichdom. 
+609		"Ah. Murder, mostly." 
+610		"Once I'd mastered ninth level spell slots, I managed to create my own custom Raise Dead spell." 
+611		"It allowed me to direct a hundred Zombies at once. And most importantly- they all had basic motor functions left." 
+612		"They could use <i>tools</i>. Rifles. Wands. Basic magic items." 
+613		"It took a toll, but I alone held the line on Gôrmisol for three days straight." 
+614		"Corpses as far as the eyes could see. Those were the days." 
+615		He sounds wistful. He is obviously evil or insane. 
+616		"Oh, easy." 
+617		"I led the animation of a dracolich." 
+618		"A draco-lich?" 
+619		"I don't like the sound of that." 
+620		"That's radical." 
+621		"A dracolich. Yes!" 
+622		"Then you are smarter than you appear." 
+623		"It sure is. Even back in the day!" 
+624		"Ychimillion-Ravad. A child of Esuth. Not one you'd read about in history books, but she had spirit that dragon." 
+625		"I wasn't a regular in the dragon cultist community, but my expertise as a lich led them to hiring me." 
+626		"I would have done it for free, honestly." 
+627		He lets out a sinister chuckle. 
+628		"In the end, we succeeded. That was my greatest accomplishment, Cleric." 
+629		"Creating one of the most fearsome creatures to ever walk the Coast." 
+630		"What happened to the dragon?" 
+631		"That sounds irresponsible." 
+632		"Oh, duly noted. I got severe burns during the experience." 
+633		"Completely worth it, still." 
+634		"I obviously won't divulge the secret of draco-lichdom, but rest assured that Ychimillion went through hell to achieve her new form." 
+635		"It was a tragedy what those Genie-Templars did to her, and her army. Otherwise she could have easily ruled a city or two by now." 
+636		"Genie-Templars?" 
+637		"Got it." (Get it.) 
+638		"Eh. Some crazy warriors out of Kargamesh. Was a big thing a hundred years ago." 
+639		"I am fond of dragons, you know. Mortals look up to us. Gods look down on us. Dragons treat us as equals." 
+640		"At least the wise ones, hehehe." 
+641		"This lich is talking all night long, it seems!" 
+642		"It's really not worth talking too much about." 
+643		"After myself, and my dear wife, had both achieved lichdom, I made some misplays in the politicking." 
+644		"Stepped on the wrong foot, so to speak. Got my entire splinter house exiled from the Haagin-Dim Coalition." 
+645		"One thing led to another, yadda yadda, I ended up in Askanii. The Lord of the Fortress invited me to stay for a while. Did some freelancing. You know, newly divorced dad shit." 
+646		"Once Urth arrived, I ended up working with some of his paladins. Never met the fellow, but I liked the cut of his jib." 
+647		"The Fortress of Verdune." 
+648		"You know, the esoterical shadowy miles-wide castle?" 
+649	DC13 int-	"Oh yes. That one. Never been." 
+650	FC13 int-	"That sounds like a crazy dungeon." 
+651		"Can't recommend it." 
+652		"The Lord reached out, was looking for necromancers to add some new tricks." 
+653		"Who is this 'Lord'?" 
+654		"No clue. But he paid well, and let me research the crazy stuff going on there." 
+655		"Still have no idea what the Fortress actually is. My professional guess would be that it's an Esoteric Pocket gone wild. Like a slice of pure negative energy that's landed right in Askanii, and can't escape its bubble." 
+656		"Just one of many weird wonders of the Coast." 
+657		The Fortress of Verdune is a popular dungeoneering location. 
+658		Lots of treasure to be found. Whenever a hole opens up. 
+659		When the Fortress opens up, there's always a trove of merchants setting up camp outside the entrance. 
+660		Many great beasts to encounter and vanquish in that legendary, evil dungeon. 
+661		You should go there some day. 
+662		"A dozen or so." 
+663		"What? Really?" 
+664		"Productive." 
+665		"Thank you." 
+666		"My wife Accalia - ex-wife - was a prominent member of the MRS, Magocrat Reproduction Society." 
+667		"They were at the forefront of Women-First Magics. You know, the kind of stuff that makes the whole child birthing and/or rearing business into a cake walk." 
+668		"I never got along with those hags, but they did let me have two sons, so that's something." 
+669		"Are you implying that sons are better than daughters?" 
+670		"That sounds like <i>feminism</i>. I thought the Arcanists were old school patriarchs?" 
+671		"Good job, brother." 
+672		M-"What happened to your kids?" 
+673		"Not really, there's an argument to be made that they're much less of a hassle." 
+674		"But the MRS hags definitely had an agenda, you know. More girls, more members." 
+675		"I'm not crazy." 
+676		"Oh, absolutely!" 
+677		"As long as the MRS were focused on providing population among the houses, they were fine. As soon as they began spreading birth control and ideas of female liberation?" 
+678		He cackles. "Those hags were cracked down hard towards the end. Their turn to the Revolution was one of the main contributors to the fall of the empire. At least it seems that way to me." 
+679		"A <i>woman scorned</i>, etcetera, etcetera, etcetera." 
+680		He turns and stares at you. "Are you a feminist, Cleric?" 
+681		Your goblin companion turns to look at you as well. 
+682		There are no women around, so the answer doesn't really matter. 
+683		Of course you are. You were raised to be good to women. 
+684		No. You do not align with these notions of feminine dominance. 
+685		The female is scary. 
+686		The female is powerful. 
+687		Women's suffrage is important, duh. Just say yes. 
+688		In all honesty, you never would have imagined, not for one second, that you'd ever be asked that question by a demi-lich. 
+689		"Yes. I am a <i>male</i> feminist. Is that a problem?" 
+690		"No. I am not a feminist." 
+691		"I'm on the fence. Women should have some rights, but not all of them." 
+692		(Shrug.) "I'm not even sure what feminism means." 
+693		"Ah! You're also one?" 
+694		"Good Cleric! You see I am, too, a feminist myself." 
+695		"I've always viewed women as a class of people perfectly capable of magocratic logic and reason." 
+696		"And I know it's controversial to say, but it <b>should</b> be illegal to keep them in chains. Never liked that, honestly." 
+697		"Chains?!" 
+698		"...Good?" 
+699		"You're a feminist? Then I'm <i>not</i>. I change my mind." 
+700		"I know. Barbaric." 
+701		"Quite so." 
+702		The skull cackles. 
+703		"What is this inane reverse-peer-pressure?!" 
+704		"I've never seen such a thing. Incredible!" 
+705		"Ah! Then are you anti-woman?" 
+706		"That's not what that means." 
+707		"More or less, yes." 
+708		"Not all of them?" 
+709		"No. That would be unfair." 
+710		"Which ones?" 
+711		"Yes, Cleric. Which ones should they have?" 
+712		"The same ones men have." 
+713		"Voting. And stuff like that." 
+714		"I don't know, the good ones?" 
+715		"About half of the ones men have." 
+716		"A tenth of the ones men have. That sounds good." 
+717		"I feel like I have talked myself into a corner here." 
+718		"Eh. Sounds like a bit much." 
+719		"Oh! Right, I remember. You people have some kind of demo-cracy going on." 
+720		"Insane stuff. Good luck with it!" 
+721		"Bit vague, but fine." 
+722		"Half? I guess that should be enough." 
+723		"A bit low, seems to me." 
+724		"You sure have." 
+725		"Ah! Meaning's changed a lot over the years!" 
+726		"Personally, I see it as a legal thing: women should not be property." 
+727		"That sounds good to me. Maybe I am a feminist." 
+728		"Oh. Yeah, that's not really what feminist means today." 
+729		"I am definitely a feminist in that case." 
+730		"Hm. I'm not a feminist in that case." 
+731		"Mm, I can see that. I can see that. Things change after all!" 
+732		"A hardliner, eh? Never liked you bunch. And the women don't either!" 
+733		"Slavery should be kept to the lower classes, in an egalitarian way. Men, women, children, should not matter. Every worthless peasant should be kept in chains on a perfectly equal basis." 
+734		"I've read real feminist literature, as you can notice." 
+735		"That's not... actually, nevermind." 
+736		"Slavery is illegal overall, you know." 
+737		The skull cackles. "I'm well-read overall, to be fair." 
+738		He laughs. "And your unseen servants are off starting businesses, are they?" 
+739		"Good one. You're a real joker." 
+740		"Anyhow. You were asking about my <i>kids</i>." 
+741		"Accalia did most of the work, of course. But my cont<shake>rrrrr</shake>ibution should not be forgotten!" 
+742		Big loads, certainly. 
+743		This is an inane topic. 
+744		"I think some of them survived the fall." 
+745		"My blood wasn't prominent enough to be lineage-persecuted among the Freestriders. At the same time, it's not like they received any inheritance..." 
+746		"Logically, I should have some great-grandchildren scattered about Diminorii." 
+747		"Or sorry, what's it called now? Reeds?" 
+748		"Stupid name, if you ask me. They should have called it 'Striderii' or something. That would have been on brand." 
+749		"Enjoy the view!" 
+750		"Lovely bastard!" 
+751		"I gave him a serious case of testicular torsion once! Can't <i>believe</i> he ever forgave me." 
+752		PURE. EVIL. 
+753		VANQUISH THIS FOE. NOW! 
+754		The skull lets out a maniacal laugh. 
+755		"What the fuck?! Why would you ever do that?" 
+756		"Just out of nowhere? As a joke?" (Try to imagine sneaking up behind someone and doing the twirly twist.) 
+757		(Cringe.) 
+758		"Not like he didn't deserve it." 
+759		"No, no!" 
+760		"We had a little war going on, okay?" 
+761		"I had just left my position at the Fortress of Verdune. It was thirty-ish years I believe, right when your Urthfolk had begun growing quite bold up River Torna. So I decided to sneak into your city here! That's when I saw him." 
+762		"An old opponent: Visken! I immediately remembered his ugly mug, and his rotten soul-engineering." 
+763		"You came to Norvik thirty years ago?" 
+764		"Just how old is Visken then?" 
+765		"Something like that." 
+766		"No clue. Maybe a hundred? Or two?" 
+767		"Either way, I decided to kill him and take his place among the mortals of Norvik." 
+768		"A couple of magic duels and assassination attempts later, and we were at a stalemate. Although I'd consider it more as me just getting tired of hunting him down all the time. Him and his <i>goons</i>. Our battles came to an end though, when a local vampire started messing with us both. Threatened to expose us. So we joined up!" 
+769		"Team-up of the century! Or that decade, at least." 
+770		"You two fought a... <i>vampire</i> together?" 
+771		"Vampires are real?" 
+772		"You're weaker than a vampire?" 
+773		"Was an epic duel of the shadowy fates." 
+774		"Of course they are! They're just way more careful these days." 
+775		"Hey! Vampires are really powerful, you know?!" 
+776		"And I wasn't exactly in top <shake>prrrima</shake>-formia after all those battles with Visken." 
+777		The skull bounces around. "Together, however, the vampire was easily eliminated." 
+778		"In the aftermath, we decided to work together. Visken even helped me get this sweet alcove for myself." 
+779		"We share research from time to time, and work together to figure out the mystery of..." 
+780		He stops. 
+781		"I'm getting ahead of myself. Let's talk about something else." 
+782		"Did you turn into a skull in that battle with the vampire?" 
+783		"Who was the vampire?" 
+784		"What's that about research?" 
+785		M-"Alright. I have some other questions." 
+786		"Hm?" 
+787		He makes a motion that could be interpreted as a shrug. 
+788		"I'm a bit bony, but a skull? Don't be preposterous." 
+789		The demi-lich is clearly unaware of his own situation. 
+790		He's either deluded, or there is some esoterical effect placed upon his memories. 
+791		Hm. A memory altering spell by Visken perhaps? 
+792		Is this lich an idiot? A fool? 
+793		"Thomas Darrow, was his name. A nobleman, which made it much more dangerous." 
+794		He's saying a Darrow was a vampire? Slander, surely. 
+795		Hopefully. 
+796		"We cut him down without anyone suspecting a thing! Maybe I shouldn't say this out loud. But eh, who cares?!" 
+797		The mysterious death of Thomas Darrow was written about quite extensively in the magazines about fifteen years ago, back when you were a kid. 
+798		Ah. Thomas Darrow. So that's what happened to the lost uncle of the Darrow House. 
+799		"Nothing. That's nothing." 
+800		He says nothing more. 
+801		"Mm. Ask freely, Cleric." 
+802		"Nothing? Literally nothing? About any tea shop?" 
+803		"You just seem to be pretty well-informed about goings on around the city." 
+804		"I get updates sometimes, but I don't know." 
+805		"Fun that it exploded though!" 
+806		"I wouldn't say it was fun." 
+807		"Yes. Very fun. I love it when tea shops explode." 
+808		"I don't have an opinion on the explosion itself. I'm more looking into <i>why</i> the explosion. Happened. And so on." 
+809		"Right? Fun!" 
+810		"It was probably a rogue wizard. Or some kind of magic item mishap." 
+811		"Whenever a Necklace of Fireballs was smuggled from the floating cities down to the peasants, they'd always find a way to blow themselves up in the most spectacular ways." 
+812		"Hilarious!" 
+813		"That used to be common?" 
+814		"Why didn't the floating cities blow up?" 
+815		"Anti-magic defenses. And g<shake>rrrrrr</shake>eat architecture." 
+816		"Sometimes misses occurred, of course. But it was surprisingly rare. And..." 
+817		"Eh. Not every day a village exploded in a fireball. Those necklaces were valuable. But sometimes someone smuggled one away from the front lines- or off a factory floor." 
+818		"I was never too into Evocation magic for that reason. Too easy." 
+819		He chuckles, in a sinister way. 
+820		"Eh. It goes against my ideological beliefs to vote." 
+821		"Democracy doesn't work. Never has, never will." 
+822		"Why do you say that?" 
+823		"I completely agree." 
+824		"You're wrong." 
+825		"You've seen signs too, then." 
+826		"Why? What's your argument?" 
+827		"The people will come to an average and perfectly acceptable opinion in the end." 
+828		"Liberated people will choose right for themselves, and their kin." 
+829		"The correct, divinely chosen government will be put in charge, as Urth will his people to vote." 
+830		"People are just too stupid." 
+831		"On average. <i>Statistically</i>." 
+832		"Magocracy, or technocracy might work. Hells, even oligarchy has its uses- just look at the Freestriders." 
+833		"But real democracy is foolish. It might help launch these other, more powerful forms of governance into speed." 
+834		"But real, permanent democracy? A shitshow!" 
+835		"Just you wait." 
+836		"Have you seen 'real' democracy in action?" 
+837		"What form of governance do you prefer then?" 
+838		"Somewhat. Some Pre-Arcanist states had pretty formal democratic conventions established." 
+839		"They were eaten, consumed by the power of the magocracy. They could not handle the rapid changes and extreme strength of the more directly controlled governments." 
+840		"The only reason a magocratic power did not stand on top at the end of the Coast War is because of Jor's inebriating Ebbing." 
+841		"Magocracy of course! Dominance by those with godly arcane powers brings intense fortune to the world." 
+842		"What about the Coast War?" 
+843		"Agreed. I like Magocracy too, since I'm a Wizard." 
+844		"Survival of the fittest." 
+845		Insanity. 
+846		"Only reason it didn't have a magocratic winner on top afterwards, was because of Jor's inebriating Ebbing." 
+847		"One day, perhaps you too shall sling tenth level spells, and run the world." 
+848		"If Jor stops this inebriating Ebbing." 
+849		"Terribly annoying." 
+850		"Ebbing? What?" 
+851		"Of course." 
+852		"You haven't heard of it?" 
+853		"The..." 
+854		"The Esoteric Ebb." 
+855		An esoteric term for the draining of high tier magic from Jor's Realm. The lack of high tier magic is often taken for granted today, due to the general hatred of Arcanists, post-Coast War. 
+856		He is speaking of the lack of powerful magic in our world. 
+857	DC17 int-	"The draining." 
+858	FC17 int-	"The lack of magic." 
+859		"We can talk about political theory all day- but if the Ebbing had not occurred, the Arcanists would still rule the Coast. There is no argument to be had about that." 
+860		"Thank the gods for that. You people were terrible for our realm." 
+861		"It was a tragedy. I hope magic returns to what it was." 
+862		"I still think the Freestriders would have won, eventually. I'll be voting for them, by the way." 
+863		"The gods would have stricken you down from your thrones in the end. You know it." 
+864		"You were not there, so I will not blame you for your ignorance." 
+865		"Trust me. We did wonders for the Coast. Brought esoterical industrialization to a land of barbaric feudalism." 
+866		"Then we hold the same dream. One day. One day." 
+867		"Oligarchs are powerful, but only when we mages can be subjugated through coin." 
+868		The skull lets out a surprisingly hearty laugh. 
+869		"I'll be voting for the Nationalists by the way. Urth be Blessed." (Pose in a prayer.) 
+870		"We will see. Once the tide turns." 
+871		"You Clerics and your divine interventions." He shakes his... skull. 
+872		"Sure, sure." 
+873		There is a deep question here. 
+874		This demi-lich holds much knowledge, despite his mad nature. 
+875		Ask him. What is Ebb? Truly? 
+876		Some ask if this magical fading could have caused Urth's end. 
+877		It is not considered very acceptable to inquire such things. But it is a fair question. 
+878		"I have to ask- what do you think the Ebb really is?" 
+879		The demi-lich swirls around in the air, before landing down on the altar. 
+880		"I say the same thing most rational Arcanists said, back when it was first discovered." 
+881		"<i>Jor is alive</i>." 
+882		"He is haunting us. Taking away what he gave with his Strings." 
+883		"As a joke, or a punishment, or a gift? Who knows." 
+884		"Personally, I'm furious at him. If he is indeed still here, watching us." 
+885		"That's... something." 
+886		"I'm not sure what to think." 
+887		"Interesting." (Think it's interesting. Internally.) 
+888		The skull slowly floats up into the air again, waiting for another question. 

@@ -1,0 +1,317 @@
+idx	prefix	english
+0		"<i>Hoo-damn</i>." 
+1		"Not every day you get to see something like this..." 
+2		Tucked away in the remnants of an over-grown and most likely esoterically shifted apartment... 
+3		You stand before the skull of a dragon. 
+4		Not just any dragon. 
+5		The size of it indicates a formidable age. 
+6		What the fuck. 
+7		This is an ancient dragon of the Fade Era. 
+8		A horrid beast, slain by some great hero of old. 
+9		The dragon is dead. 
+10		Very, very dead. 
+11		(Look around.) 
+12		You can feel it. 
+13		This is not some regular CHAMBER. 
+14		This is a place OUTSIDE the material. 
+15		The strange sensation... 
+16		Is this...? 
+17		An esoteric pocket, yes. This entire ruined apartment exists within one. 
+18		A rather stable one at that. 
+19	ROLL8 int-	Examine the skull. 
+20		E-I should <i>not</i> stay in this place. 
+21		As you realized. It is a Time Pocket. 
+22		Time inside moves slow. Ten to one, if you trust the dragon- which in this case you should. 
+23		It aligns with your unfailing internal clock. 
+24		And the old goblin has most likely been inside here for over ten years in his perspective. 
+25		But that is not your problem. 
+26		I have an unfailing internal clock. 
+27		Yes. 
+28		Somewhat. 
+29		Not. Your. Problem. 
+30		Logically, should be some type of dimension pocket. 
+31		It appears rather stable. 
+32		It is a jungle pocket of some kind. 
+33		It appears stable, for now. 
+34		Very esoteric. 
+35	DC14 int-	Dimension pocket? 
+36	FC14 int-	Jungle pocket? 
+37		A sliver of a pocket dimension, cast into the material realm. 
+38		It will likely move in time, taking a new chunk of something with it. 
+39		Stealing items, trapping victims, and hoarding ancient objects. 
+40		Like this dragon skull. 
+41		Although it is most likely more than just the skull trapped within these walls. 
+42		Yes. The overgrown walls and strangely ambient light makes it obvious. 
+43		This is a sliver of land from some ancient time. 
+44		Probably Fade Era. Maybe Gate. 
+45		Do not linger too long here. 
+46		The massive cranium sits there, empty and ancient. 
+47		No sign of Domnall. 
+48		He's probably deeper inside. Hiding. 
+49		Guarding his precious key. 
+50		The cranial structure is remarkably intact, as is expected of this pocket. 
+51		Highly dense as well. Cross-sectional analysis of the exposed fractures shows minimal trabecular tissue. 
+52		From what you've read on dragon bones, which is a fascination among certain scholars, these are authentic for one. 
+53		The sutures are completely fused - full skeletal maturity. 
+54		And the size appears to point towards a mature age. 
+55		Somewhere between adult and ancient. 
+56		A <i>Red Dragon.</i> 
+57		More importantly, you notice something lodged in the posterior maxilla... 
+58		Something in the sinus cavity. 
+59		(Reach into the... <i>sinus cavity</i>.) 
+60		Careful. 
+61		Don't stick your hand in too deep. 
+62		Who knows what's lurking in there. 
+63		Your fingers brush against something cold. Metal. 
+64		You pull it out. 
+65		A key. 
+66		Covered in moss and rust. Ancient. <i>Esoteric</i>. 
+67		It tingles in your hand. 
+68		"What'd you find?" 
+69		He cranes his neck to get a better look. 
+70		(Show him the key.) 
+71		"A key to what?" 
+72		"I don't know yet." 
+73		"Something important, I'd wager." 
+74		"The greatest treasure in the world, probably." 
+75		"Useful." 
+76		He rolls his eyes. 
+77		"You'd wager a lot of things." 
+78		"Right. Sure." 
+79		"Huh. Rusty." 
+80		The occipital condyle shows this was a creature capable of supporting immense neck weight. 
+81		Temporal fenestrae are enormous - room for massive adductor muscles. 
+82		Based on the skull length and cranial capacity... 
+83		Mmm. Yes. I occur. (Think hard.) 
+84		This dragon was at least several centuries old when it died. 
+85		You notice something interesting about the eye sockets. 
+86		A strange depth to them. 
+87		But nothing else of note. 
+88		Snell yawns. 
+89		"You done poking around in there?" 
+90		(Step back from the skull.) 
+91		"Take your time. Not like we're in a creepy esoteric pocket or anything." 
+92		You do so. Thinking deeply about it as you do. 
+93		Then you hear it. A sound. 
+94		Scraping. Shuffling. 
+95		Coming from INSIDE the skull. 
+96		Incoming! 
+97		(Get ready.) 
+98		Snell already has his sling out, ready for- 
+99		A goblin shoots out of the eye-hole of the dragon. 
+100		"...The <i>fuck</i>?" 
+101		"<b>Hey!</b>" 
+102		A goblin. His eyes covered by a pair of faintly glowing spectacle goggles. Around his head, a helm of sorts. Rusty scrap. What you see of his face reveals deep wrinkles, and covered in dust and bone fragments. 
+103		An OLD goblin? 
+104		"What're you doing in my place?!" 
+105		Snell takes a step forward. "Hey. This is Halfway territory. Identify yourself." 
+106		The old goblin drops to the ground with a thud, joints cracking. 
+107		He's wearing what might have once been clothes. Now it's mostly rags. 
+108		His eyes are wild. Feral. 
+109		This goblin has been alone for a very, very long time. 
+110		"I'm Domnall. And you're in MY territory. I got here first." 
+111		You see the old goblin holds up a strange key. 
+112		"I've worked my ass off to get to this point. And you will not disturb any of my progress, ya hear?" 
+113		"So go. Now!" 
+114		"I have some questions first." 
+115		"I'd prefer it if you left." 
+116		"We don't all know each other, Cleric." 
+117		(Turn to the guy.) "Hey, guy. You know my buddy Snell here?" 
+118		"No. We don't all know each other." 
+119		"Now, please leave." 
+120		His eyes lock onto your hand. 
+121		The key. 
+122		"<b>My key!</b>" 
+123		He points a gnarled finger at you. 
+124		"You didn't just steal that, did you?" 
+125		"No. I just found it. In the skull." 
+126		"Finders keepers." 
+127		"Skull's mine, so. You can give that back." 
+128		"<b>THIEVES WEEPERS!</b>" 
+129		He stamps his foot. 
+130		"Now give it back." 
+131		"Give it back. Give it back now. Give." 
+132		Literally not happening. 
+133		Hm. Is this truly his key? Is he the owner? 
+134		"Explain again, who are you?" 
+135		"How long have you been down here?" 
+136		"What does the key open?" 
+137		"I'm DOMNALL! This is MY apartment. These are my dragon bones." 
+138		"Those asshole cultists already came through here once, poking around, and now you?" 
+139		"Cultists?" 
+140		"Yeah! One of them at least. Came through here... I dunno, a few weeks back?" 
+141		"Wore these culty robes. Culty chanting. Bad types." 
+142		He scratches his head, dislodging a small cloud of dust. 
+143		"Bout... a year? Maybe?" 
+144		Snell's eyes go wide. 
+145		"A <i>year</i>?" 
+146		"Give or take." 
+147		His eyes narrow. 
+148		"Wouldn't YOU like to know?" 
+149		"It's the key to the GREATEST TREASURE of ESUTH'S HOARD." 
+150		A <shake>HOARD</shake>?! 
+151		A myth. 
+152		The old goblin hisses. 
+153		(Lean closer to Snell.) "He's hissing. The old man is hissing." 
+154		"I can hear that." 
+155		"I don't NEED help! I need my KEY!" 
+156		Snell sighs. "Look, old timer. You've been stuck in an esoteric pocket for gods know how long." 
+157		"Come with us. The Halfway Bridge Tribe can-" 
+158		"I'm not going ANYWHERE without that key!" 
+159		His spirit has been here for far longer than he believes. 
+160		"We'll send someone down for him. Eventually." 
+161		"For now, let's just... not lose more time in here." 
+162		You hold out the key. 
+163		The old goblin's eyes light up. 
+164		He reaches for it- 
+165		Then stops. 
+166		"No. NO. This is a trick!" 
+167		"You're gonna grab me! Take me away from my HOME!" 
+168		"No. Why would I ever do that? You're being paranoid." (Sound sincere.) 
+169		"Drat. You foiled my plan. Darn it. Now I'll have to keep this key for myself." (Try to sound sincere.) 
+170		Poor man. 
+171		Years of isolation have broken his mind. 
+172		"I'm not trying to trick you." 
+173		"THAT'S WHAT A TRICKSTER WOULD SAY!" 
+174		"Look, old man. We just want to-" 
+175		"ANOTHER TRICKSTER!" 
+176		"Then you leave me NO CHOICE!" 
+177		The old goblin reaches into his rags and pulls out... 
+178		A scroll. 
+179		Yellowed. Ancient. 
+180		"I've been SAVING this!" 
+181		He unfurls the scroll with shaking hands. 
+182		"<i>Manus... arcana... DOMINATUS!</i>" 
+183		These are not the correct words. But it appears to activate nonetheless. 
+184		The key RIPS from your grasp. 
+185		Oh no, you don't...! 
+186	ROLL12 dex-	Re-grab it. 
+187		(Let it go back to him.) 
+188		With intense speed, you snap your arms forward. 
+189		The key is... <shake>GRASPED</shake>. 
+190		Shit. 
+191		Too fast...! 
+192		It flies through the air, straight into Domnall's waiting palm. 
+193		A scroll of telekinesis. 
+194		"Hah!" 
+195		He clutches the key to his chest. 
+196		"Mine!" 
+197		And then he LEAPS. 
+198		Back into the eye socket. 
+199		Scrambling. Scraping. 
+200		Gone. 
+201		"That was <i>my</i> key..." 
+202		(Stare at the skull in silence.) 
+203		"Into the skull? Eh." 
+204		"Look. I'll report to the Old Lady. We'll send a team down here later. You know, eventually." 
+205		"Poor bastard's been alone too long. He needs... I dunno. <i>Professional help</i>." 
+206		"No, it wasn't." 
+207		"Not sure it was <i>his</i> either, though." 
+208		The eye socket stares back. 
+209		Empty. 
+210		But not really. 
+211		"Let's just leave." 
+212		"Nothing good can come out of staying here." 
+213		"Damn it!" 
+214		"Fine, have the key! But you'll never take my bones!" 
+215		"LEAVE?! HA!" 
+216		"You're just saying that so I'll let my guard down!" 
+217		He unfurls the scroll. 
+218		"<i>Manus arcana DOMINATUS!</i>" 
+219		An invisible force SHOVES you backwards. 
+220		"OW!" 
+221		"Stay AWAY from my KEY!" 
+222		Into the eye socket of the skull. 
+223		Scrambling into the darkness beyond. 
+224		Snell watches the old man fly through the air, letting out an impressed whistle. 
+225		"That's one spry motherfucker." 
+226		He rubs his shoulder where the spell hit him. 
+227		<i>Animare</i>. 
+228		(Lean in and whisper to the skull.) "<i>Animare</i>." 
+229		A deep rumble, all throughout the walls of the apartment. 
+230		"Whoa...!" 
+231		"I bet the old man felt that." 
+232		"Great! Very useful," he yells while attempting to keep his footing. 
+233		A wind courses through the chamber, through every orifice of the dragon skull, and through <i>you</i>. 
+234		Then it stops. 
+235		He is ready. 
+236		"Who are you?" 
+237		"What are you doing here?" 
+238		"Are you an ancient dragon?" 
+239		"What is your name?" 
+240		"Do you know anything about the tea shop?" 
+241		"What's the meaning of life?" 
+242		"I've always wondered, what does it feel like to breathe fire?" 
+243		"What color are you? I don't mean that in a weird way, it's just- you know- dragons tend to be pretty different depending on the chromatics. Not saying you're an asshole just because you're not a golden dragon or anything, but I mean, it would probably make things easier." 
+244		"How do I get my own pet dragon?" 
+245		"Wait. I think it counts as a question if you say it like that. So he's just gonna-" 
+246		Another rumble. 
+247		"<i><u>EGO</u> SUM TERROR. ŌRĀS VĀSTŌ. SUM PRĪMOGENITUS</i>." 
+248		The voice causes you to recoil, violently. 
+249		<i>I am the terror. I raze Coasts. I am the first-born.</i> 
+250		Four more questions. 
+251	DC15 int-	"Yeah, yeah. Tell me something I <i>don't</i> know." (Try to not fall over.) 
+252	DC15 int-	"I don't think you're answering my question." (Try to not fall over.) 
+253	FC15 int-	"Sorry, I didn't get any of that." (Try to not fall over.) 
+254	FC15 int-	"Speak <i>Diminiorian</i>, buddy!" (Try to not fall over.) 
+255		It calms down. But the wind continues. 
+256		"I AM THE MASTER OF XERKAMOOT. THE FIRST-FLAME." 
+257		"<b>I AM PRIMORDAEX</b>." 
+258		Three more questions. 
+259		"What does that mean?" 
+260		"Tell me a secret." 
+261		"Are you a son of Esuth?" 
+262		"Where is your father's hoard? The really famous one?" 
+263		"MY WRATH KNOWS NO BOUNDS," it continues, ignoring your question. "BETRAYED BY FLESH AND STONE." 
+264		"WE COULD NOT FORESEE THE CURSED NATURE OF THIS CITY." 
+265		"ITS HAUNTED SPIRIT, A RELIC OF JOR. IT TRAPPED ME HERE." 
+266		"OH, FATHER. NEAR-GREATWYRM OF ASH AND SNOW. HOW I WAS TO RISE FROM YOUR SHADOW." 
+267		"WHAT STRINGS WERE MENDED TO SEAL THIS FATE. WHAT TERROR FALTERED IN MY ABSENCE." 
+268		"HOW I WAS TO TAKE THE THRONE. HOW I WAS TO LAY SIEGE TO ALL BANDS." 
+269		"<i>FRUSTRA</i>." 
+270		<i>Frustrated.</i> 
+271		<i>All in vain.</i> 
+272		Two more questions. 
+273		"How old are you?" 
+274		"What's your favorite color?" 
+275		"Hello? Are you listening to me?" 
+276		"Seriously, tell me: where is Esuth's Hoard?" 
+277		"You're not answering my questions, are you?" 
+278		Again, everything in the pocket shakes. 
+279		"HAD IT NOT BEEN FOR THIS POCKET OF FOUL MAGIC..." 
+280		"THE REMNANTS OF JOR DID IT ALL. A HOLE IN TIME AND SPACE. MY EYES FORCED TO WATCH FOR CENTURIES AS MILLENNIA PASS." 
+281		"ONE MOMENT INSIDE, EQUAL TEN OUTSIDE." 
+282		That is... the nature of this pocket. 
+283		You see now. 
+284		This pocket, that engulfs this apartment, these bones, and whatever tunnels through these walls. 
+285		It is a Time Pocket. 
+286		One second inside equals ten outside. 
+287		Oh. 
+288		"Oh." 
+289		The goblin has figured it out as well. 
+290		"Oh shit. Is that bad?" 
+291		"It's fine, Snell. We've only been in here for a few minutes." 
+292		"Yeah, but... let's not stay. Ask your last question." 
+293		The skull is quiet. 
+294		One more question. 
+295		Only one, one single question, comes to mind... 
+296		"Tell me, dragon. Where is <i>the Hoard of Esuth</i>?" 
+297		"WHY, UPON THIS SCORCHED EARTH, WOULD I EVER TELL YOU SUCH A THING, <i>TINY HUMAN</i>?" 
+298		"WHEN WE BROUGHT THE WEALTH INTO THIS CENTER OF THE WORLD - SOLIUM IGNIS - TO BUILD THE GREATEST EMPIRE OF ANY WORLD, BEYOND AND WITHIN..." 
+299		"THERE WAS NOTHING STOPPING US FROM PREPARING THE PERFECT HOARD FOR MY FATHER. THE PERFECT THRONE FOR HIS DOMAIN OF FIRE. IT IS THE GREATEST TREASURE EVER ACCUMULATED." 
+300		Oh gods...! 
+301		"BUT YOU WILL NEVER FIND IT. FOR IT WAS SWALLOWED. IT WAS BURIED. IT WAS LOCKED." 
+302		The skull chatters, the apartment shakes, as the remains of Primordaex let out a maddening laughter. 
+303		As the sound fades, so does the mimicry of life. 
+304		"Oh boy." 
+305		"I mean... look- we're not looking for any dragon treasure. We've got stuff to do." 
+306		"But I'll admit. That does sound quite juicy." 
+307		"Yeah. I'd love to go on a treasure hunt." 
+308		"He was lying. He simply wants us to run around looking for a hoard that doesn't exist." 
+309		"Dragons. They sure love mocking us." 
+310		"If it involves the greatest treasure in all of existence, then..." 
+311		"Eh. I have a feeling there might be some truth in those words." 
+312		"Sure do." 
+313		"Eh. Either way, it'd be a hassle to have that much money." 
+314		"Now let's get out of this pocket, before we waste any more time. It's already been... what, thirty minutes outside?" 
+315		E-"Yeah. Let's get out of here." 

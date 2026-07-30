@@ -1,0 +1,124 @@
+idx	french
+0	Il y a trois livres d'intérêt dans cette pile. Ils paraissent usés et abîmés.
+1	Tu reposes le livre dans la pile.
+2	(Ouvrir « Au-delà de Reeds » de Meriadoc Moonwatch.)
+3	(Ouvrir « Les Humains : une brève histoire ».)
+4	(Ouvrir « Urth et Tol, Fondateurs ».)
+5	E-J'en ai fini ici, je crois.
+6	Tu l'ouvres, espérant un point de vue intéressant sur le voyage côtier.
+7	Au lieu de ça, tu tombes aussitôt sur un guide de voyage grand public.
+8	Oh non.
+9	Il est écrit par le fameux Errant <i>Meriadoc Moonwatch</i> (que tu as rencontré, si tu t'en souviens), un prince marchand des Cités Libres.
+10	Il est écrit par le fameux Errant <i>Meriadoc Moonwatch</i>, un prince marchand des Cités Libres.
+11	L'introduction est stylisée comme une note personnelle au lecteur. Moonwatch emploie un langage très familier pour te convaincre de son expertise.
+12	C'est aussi truffé de propagande errantiste.
+13	Ce n'est de la propagande que si tu n'es pas d'accord avec.
+14	C'est en fait vrai.
+15	Au moins, ça aide à répandre l'Errantisme à travers la Côte.
+16	Je ne peux pas lire cette merde.
+17	Ouais.
+18	C'est déjà ça.
+19	Non, tu ne peux pas.
+20	C'est banal.
+21	Ce n'est pas si terrible.
+22	Au moins il n'a aucune fautes d'orthographe.
+23	Qu'est-ce que t'as dit ?
+24	Ferme-le.
+25	Ouais. C'est peut-être mieux ainsi.
+26	Quoi ? Tu regardes des bouquins ?
+27	Tu vas te coucher, ou pas ? Je peux partir ?
+28	Tu comptes traîner ici toute la journée ? Ou on peut y aller ?
+29	(Refermer le volume.)
+30	Un livre d'histoire de Sch. Tîm Alemikan.
+31	Il est estampillé propriété officielle de l'Université de la Bannière de Bronze. Il a été imprimé ici à Norvik, la dernière année de l'Ère Arcanique, 511.
+32	C'est-à-dire il y a vingt-huit ans.
+33	Est-ce que je ne connais pas déjà cette histoire ?
+34	J'adore l'histoire. La non-fiction, c'est le meilleur.
+35	Tellement ennuyeux.
+36	Le livre n'a pas d'opinion.
+37	(Le parcourir en diagonale.)
+38	(Le refermer.)
+39	Les premiers chapitres content l'histoire des humains pénétrant Jor, ainsi que diverses origines qui ont été découvertes.
+40	La plupart des humains qui arrivèrent au Vieux Diminor vinrent comme serviteurs-de-dragons, durant les dernières phases de l'Ère du Déclin.
+41	Bien que le livre aborde aussi le recentrage moderne visant à éviter les nets biais anti-dragons qui infusaient tous les documents historiques sur le sujet. Les humains furent amenés à Jor depuis divers mondes extérieurs comme ouvriers, chair à canon, soldats et fidèles. Certains furent contraints de vivre dans des camps d'internement glorifiés. Certains vécurent en sujets loyaux dans des salles royales.
+42	<i>Les récits de l'existence humaine primitive sur Jor sont aussi variés que ceux d'aujourd'hui. Nous fûmes esclaves, oui. Mais chaque dragon était un maître différent.</i>
+43	Puis il consacre un chapitre entier à la Guerre Civile Draconique durant l'Ère Divine, et à l'ascension qui en résulta de Doug Doulin Dim.
+44	(Sauter en avant.)
+45	Tu arrives à la Guerre de la Côte. <i>Sa qualité destructife</i> [sic] <i>impacta les civilisations humaines autant que la Côte elle-même</i>.
+46	<i>Destructif</i> ?
+47	Quel radotage. Employer de l'argot moderne dans un cadre si historique.
+48	En bref : tandis que les Arcanistes s'élevaient vers un pouvoir toujours plus grand, les humains voyagèrent jusqu'au Vieux Diminor, durant la <i>Grande Consolidation</i>. Une offre de pouvoir et de richesse à tous les hommes, quelle que soit leur origine, était pour le moins attrayante.
+49	À sa fin, approximativement quatre-vingt-dix pour cent de tous les humains furent anéantis. Seuls quelques îlots de communautés dissidentes survécurent à l'assaut. Le livre contient une liste solennelle de ces cultures humaines qui furent entièrement détruites dans diverses Malédictions, bombes du néant et génocides inter-humains.
+50	La plus grande tragédie de toute l'histoire.
+51	(Fixer la liste. Puis passer à autre chose.)
+52	Dans ses derniers chapitres, le livre change de sujet pour se concentrer sur les divers humains encore identifiés comme phénotypes uniques au sein du type humain. Quelques groupes plus restreints à travers la Côte n'ont aucune lignée claire remontant à l'esclavage draconique, mais on ignore si cela est dû à quelque autre origine.
+53	Ceux qui survécurent à la Guerre de la Côte.
+54	(Consulter le chapitre sur les « Landbûar ».)
+55	(Consulter le chapitre sur les « Yân-zû ».)
+56	(Consulter le chapitre sur les « gens d'Urth ».)
+57	(Consulter le chapitre sur les « Abalindi ».)
+58	(Consulter le chapitre sur les « Diminoriens ».)
+59	(Consulter le chapitre sur les « Tawelôna ».)
+60	(Consulter le chapitre sur le « Peuple de la Montagne ».)
+61	(Consulter le chapitre sur les « Certs ».)
+62	(Consulter le chapitre sur les « Japonais ».)
+63	Humains agrariens de Vourgeni. Beaucoup formèrent des cités entières sur les collines flottantes, et sont connus pour leurs pratiques culturelles chamaniques, et leurs grands lanceurs de sorts primordiaux.
+64	Ils sont décrits dans le livre comme grands - s'étant mêlés aux géants locaux - avec des cheveux blancs ou noirs, des traits nasaux prononcés, et une peau tannée et distinctement constellée de taches de rousseur.
+65	Le stéréotype, c'est : un fermier vourgeni sera soit la plus belle personne que tu aies vue de ta vie, soit le plus horrible faciès de troll.
+66	Pas d'entre-deux.
+67	Une bonne partie des Landbûar fut enrôlée de force durant la phase tardive de la Guerre de la Côte, et ça détruisit leur démographie, bien que la guerre elle-même n'ait jamais atteint leur pays reculé de l'intérieur des terres.
+68	Aujourd'hui, ils se rétablissent lentement, et hésitent entre l'industrialisation ou le maintien de leurs racines agrariennes.
+69	Connus comme les plus grands guerriers humains de l'Ère du Déclin, ces humains étaient réputés habiter à la fois Divinii Torum et des parties du nord d'Askan durant leur service auprès du dragon rouge Esuth. Aussi appelés <i>les Hommes de Feu et de Rivière</i>, bien que le livre déplore l'orthographe perdue de leur nom d'origine, qui semble provenir de la même langue que le peuple-hibou de Divinii Torum.
+70	Durant la Grande Consolidation, tous ces humains soit quittèrent leurs demeures d'origine, soit en furent chassés par des célestes, des nains, des elfes, des trolls, et bien d'autres.
+71	Ils sont décrits dans le livre comme petits et bruns, avec diverses teintes de peau. Les documents historiques semblent indiquer que ceux du « Feu » et ceux de la « Rivière » étaient deux peuples entièrement distincts amalgamés au fil du temps, à cause de leurs traits faciaux similaires. Bien que les archives indiquent que les deux pourraient venir de mondes d'origine entièrement différents.
+72	On les appelle parfois, de façon péjorative, « les nains de Reeds », car leur maîtrise artisanale est sans rivale parmi les cendres de la Guerre de la Côte. Et ils sont plutôt petits.
+73	Des humains pâles, généralement bruns, et grands, dont le livre précise qu'ils formaient une infime minorité parmi les nombreux peuples du Vieux Diminor. Ils semblaient à l'origine avoir servi un dragon nommé « Bellam », mais aucune source historique de ce nom n'existe, au-delà des traditions orales de la tribu elle-même.
+74	La seule chose qui rend les « gens d'Urth » uniques, c'est leur expertise en construction navale, et leur choix de fuir leur patrie avant qu'une Bombe-Malédiction ne la ruine à jamais.
+75	Ces gens partirent alors vers l'ouest, et conquirent Askan grâce à leur dieu Urth - ce que le livre n'explore pas en détail, renvoyant plutôt vers de nombreuses autres sources.
+76	<i>Aujourd'hui, les gens d'Urth représentent environ un quart de toute la population humaine de Jor.</i>
+77	Sans Urth, nous aurions été un nom de plus sur cette liste de cultures humaines perdues.
+78	Le plus intéressant, c'est qu'aucun de ces documents ne mentionne jamais le nom d'origine de ces humains.
+79	Mais ce n'est pas un secret. Bien des vieillards - au moins centenaires - se réfèrent encore au terme oral classique, en usage avant qu'Urth ne devienne leur sauveur :
+80	<i>Les Vikings</i>.
+81	Parfois appelés « les Lames de la Baie de la Cité de Sang », ces humains vivent à travers les plaines blanches et les sables profonds de l'intérieur, à Fell Tire.
+82	Ils sont rares à trouver le long de la Côte, et sont décrits comme ressemblant au Peuple de la Montagne : à la peau sombre et trapus, avec des yeux clairement rouges et de larges nez.
+83	Fait notoire, ils tiennent plusieurs des plus grandes forges de la Côte, ce qui leur a valu un nom à travers nombre des plus terribles conflits de Fell Tire, purement comme marchands d'armes.
+84	Le chapitre explique comment leur expertise avec les armes à feu en particulier leur valut une notoriété durant la Guerre de la Côte- jusqu'à la Malédiction de la Poudre, du moins.
+85	Les humains pâles, bruns, et stéréotypiquement décharnés, qui servirent le grand Drake Fou Alganoth au sein des plaines du Diminor intérieur.
+86	Ils engendrèrent nombre des Arcanistes d'origine, et constituent une grande partie de la population humaine reedsienne survivante.
+87	Si quelqu'un dit « cet humain a l'air reedsien », il fait généralement référence à une peau pâle et des cheveux noirs.
+88	Imagine Visken. Voilà ton Diminorien typique.
+89	Un petit peuple humain religieux qui prospère au cœur des terres de Hae'Xi. On les appelle parfois « les Grands Chasseurs d'Humains ».
+90	Bien que peu nombreux du fait de leur lutte constante contre les forces démoniaques, comme tous les peuples de Hae'Xi ont tendance à le faire, les Tawelôna vivent au sein d'une flèche sacrée sur la grande mesa orientale.
+91	Ils sont décrits comme tannés, grands, et fameusement en harmonie naturelle avec les forces primordiales. Certains les comparent aux Landbûar agrariens, mais les sources indiquent qu'ils sont très différents tant par l'origine que par les pratiques culturelles.
+92	Ils ne luttent pas contre les démons. Ce sont les démons qui luttent contre EUX.
+93	Ce sont les adeptes de la Horde d'Or- un vaste groupe d'humains qui vivent sur la Montagne Sacrée.
+94	Bien que secrets, ils sont devenus <i>moins isolés durant les dernières décennies d'expansion céleste, et l'on peut aujourd'hui les trouver en de rares occasions dans diverses cités à travers la Côte.</i>
+95	Ils sont décrits comme à la peau sombre, aux cheveux noirs ou blancs, et aux yeux qui indiquent leur position hiérarchique parmi les leurs. Aucune pupille signifie qu'ils sont un « serviteur », des yeux luisants un « seigneur-des-portes », et des yeux sombres indiquent qu'ils occupent un rang inférieur sur le versant.
+96	Quoi que ça veuille dire.
+97	Tout comme cette dame Chamar que tu as rencontrée !
+98	Des humains typiquement trapus et roux, qui servirent le grand Tisereldanour dans le Diminor occidental.
+99	Fait le plus notoire, tant Caelum Diminorii que Doug Doulin Dim sont issus de cette culture. Le livre mentionne aussi que ce phénotype se retrouvait dans la plupart des populations humaines survivantes le long de la Côte aujourd'hui, du fait de leur prééminence au début de l'Ère Arcanique.
+100	Tu as probablement du sang cert en toi.
+101	Tu es approximativement un dixième cert.
+102	Tu vois ?
+103	Un peuple humain presque mythique du royaume secret d'Ym - les soi-disant « Japonais » ont été un sujet de fiction populaire depuis leur découverte au début du milieu de l'Ère Arcanique.
+104	Toi aussi, tu as été emporté par une phase Samouraï durant tes jeunes années.
+105	Le livre explique combien il est rare de voir l'un de leurs légendaires ambassadeurs voyager à travers la Côte. Mais jusqu'à présent, du fait de la nature magiquement isolée de leur royaume, on ne sait pas grand-chose de leur nature.
+106	Tu constates que le livre a malheureusement été ruiné par l'humidité à un moment donné.
+107	Mais une partie est encore lisible.
+108	Comme si tu ne connaissais pas déjà l'histoire par cœur.
+109	(Parcourir les pages abîmées en diagonale.)
+110	L'idée générale que tu en retires, c'est...
+111	Urth naît au Vieux Diminor.
+112	Il sauve son peuple d'une Bombe-Malédiction.
+113	Ils fuient leur terre ruinée vers Askan.
+114	Urth, avec son frère Tol et une longue liste d'aides, dont des nains et bien d'autres, détruisent le maléfique empire troll et conquièrent leur cité.
+115	Il y a une mention de Borgo Darrow, le premier paladin d'Urth, avec un bref résumé de sa vie. Il fonda la Garde-d'Urth, il initia l'<i>illustre</i> lignée de la maison Darrow. Il était connu pour son vœu de ne jamais succomber à la moindre blessure au combat- et ironiquement il mourut d'une crise cardiaque à quarante ans.
+116	Tu repères aussi le nom « Crann » sur une page, parlant du service de ce guerrier gobelin auprès d'Urth. Comment il s'engagea durant les Guerres Gobelines.
+117	Vu qu'il ne mentionne aucun <i>génocide</i> gobelin, c'est très probablement un livre fort ancien.
+118	C'est la première moitié. La seconde moitié parle entièrement de la façon dont ils bâtirent Norvik.
+119	Bien que tu ne puisses voir quand le livre fut publié, à cause des immenses dégâts subis par le papier, tu remarques bien comment il se termine : non par la mort d'Urth, mais par le départ de Tol.
+120	À bien des égards, ce fut la mort spirituelle de la cité.
+121	Nul ne sait avec certitude pourquoi, mais Tol finit par partir pour une expédition vers les Landes Sans Fin, loin dans les terres.
+122	Et il ne revint jamais.

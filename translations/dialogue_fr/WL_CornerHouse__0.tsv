@@ -1,0 +1,133 @@
+idx	prefix	english
+0		You stand before a damp door, on a cramped corner house. 
+1		The wood is dark, swollen with the perpetual moist of Waterlane. 
+2		A layer of river mud and ALGAE. 
+3		"Hm? You know someone here?" 
+4		(Knock on the door.) 
+5		E-(Just leave.) 
+6		"...Then why are you standing here?" 
+7		"...Why does that sound like a question?" 
+8		You return to the damp door. 
+9		(Knock again.) 
+10		You rap your knuckles against the wood. 
+11		A solid, rhythmic knock. 
+12		(Wait.) 
+13		"Hello?!" 
+14		A moment passes. 
+15		Then, the sound of a heavy latch sliding. 
+16		The door creaks open. 
+17		A pair of bulbous eyes stare up at you. 
+18		It is an anuran. 
+19		Dressed in a tiny, velvet smoking jacket. 
+20		Quite distinguished, despite the lack of pants. 
+21		"<i>Qu'est-ce que c'est?</i> What is it?" 
+22		He blinks slowly. A translucent membrane flicks across his eyes. 
+23		"I am busy. <i>Très occupé.</i>" 
+24		He looks... squishy. 
+25		"Just passing by." 
+26		"I wanted to introduce myself." 
+27		"I have some questions." 
+28		"Then pass by. <i>Allez.</i>" 
+29		He starts to close the door. 
+30		"<i>Mon dieu.</i> Why?" 
+31		"Oh?" 
+32		"Wait." 
+33		He squints at your uniform. 
+34		"Are you a... how do you say... <i>le clergé?</i>" 
+35		"That doesn't sound like <i>Urth's tongue</i>." 
+36		"I am <i>The</i> Cleric, yes." 
+37		"More of a wizard, really. But sure." 
+38		"I like to see myself as a dashing rogue, personally." 
+39		"<i>Oui</i>." 
+40		"<i>Ah. Bon.</i>" 
+41		He nods respectfully. 
+42		"At least you are not from the tithe house." 
+43		"<i>Un magicien?</i>" 
+44		He wrinkles his face. 
+45		"I don't know the difference. I don't care, frankly." 
+46		A simpleton. How sad. 
+47		"A dashing...? <i>Non.</i> You are clearly a cleric." 
+48		So dismissive. 
+49		He sees right through you. 
+50		"Hm. A magic music thing?" 
+51		"<i>Musique?</i> I do fancy your human tunes at times..." 
+52		"No. I only dance." 
+53		"Huh. <i>Bizarre.</i>" 
+54		He scoffs. A wet, croaking sound. 
+55		"<i>Oui</i>. I believe you." 
+56		"Hm. Do not touch my potted plants." 
+57		The anuran peeks his head out behind the door. 
+58		"<i>Tu veux quoi?</i>" 
+59	ROLL9 cha-	Ask for a contribution to your cause. 
+60		"Why do you ask if I'm a cleric?" 
+61		"What is your name?" 
+62		"What do you do here?" 
+63		"Nice house." 
+64		"I'm gonna go now." 
+65		You clear your throat. 
+66		"Look, buddy. Hand over some goods." 
+67		Direct. Perhaps too direct. 
+68		The anuran's eyes narrow. 
+69		"<i>Pardon?</i> You beg? At my door?" 
+70		"<i>Espèce de cochon!</i>" 
+71		"Sorry?" 
+72		"So that's a no?" 
+73		(Shrug.) 
+74		"Is that all you wanted? To bother, and beg?" 
+75		"Because you smell of incense and self-righteousness." 
+76		"<i>C'est évident.</i>" 
+77		"<i>Imbécile.</i>" 
+78		Rude. 
+79		But accurate. 
+80		"I am <i>Guillaume de Crête</i>." 
+81		"Great name." 
+82		"What does it mean?" 
+83		"Oh, so that's where they get it from." 
+84		"<i>Merci</i>." 
+85		"Nothing you need to concern yourself with." 
+86		"What?" 
+87		"Gills. It's from your name, I assume." 
+88		"That is idiotic. No. Don't ever say that again." 
+89		"I live here. <i>Je vis ici.</i>" 
+90		"Is that a crime now? In this <i>maudit</i> city?" 
+91		He seems defensive. 
+92		"No. It is, as you say, <i>shit</i>." 
+93		"Temporary. Until I take the next ship home." 
+94		He gestures vaguely to the port. 
+95		"Good." 
+96		"<i>Au revoir.</i>" 
+97		The door clicks shut. 
+98		Just smile. The kind of smile that opens wallets. 
+99		Oh, and kiss his ass. Hard. 
+100		"My good sir. Surely a gentleman of your stature supports the arts? Or the holy cause?" 
+101		"<i>Ah. Flatterie.</i>" 
+102		He sighs, his throat pouch inflating slightly. 
+103		Told you. 
+104		"You are charming. <i>C'est ennuyeux.</i>" 
+105		He reaches for something on the other side of the door. 
+106		"Take this. Now, <i>au revoir.</i>" 
+107		He shoves a fancy bottle towards you. 
+108		The door slams shut before you can say thank you, or anything else. 
+109		(Look at it.) 
+110		The pink-ish liquid inside swirls around. 
+111		This is no small potion. The anuran must be well-connected. 
+112		Concentrated. Potent. 
+113		Lovely. This'll make things much smoother... 
+114		"So you really just went and knocked on some stranger's door?" 
+115		"Look, I'm not gonna knock on your methods too much, but if you keep this up we'll be done by <i>six months</i> after the election." 
+116		"And you didn't even ask about the tea shop. Not once." 
+117		"I didn't?" 
+118		"Don't be so negative." 
+119		"You're right. Let's just... focus." 
+120		"I just had a feeling this door was important, was all." 
+121		E-Right. Cool. 
+122		"You didn't." 
+123		"I'm fairly certain I slipped one in there." 
+124		"Oh." 
+125		"I'm fairly certain you did not slip anything, metaphorically or otherwise, into anyone." 
+126		Never had. Never will... 
+127		He's onto you. 
+128		"Yeah." 
+129		The goblin closes his eyes in a short, silent contemplation. 
+130		Then he says, "Maybe stick to, uh, <i>le points d'interest</i>. Okay?" 
+131		E-"That's funny. I like that." 

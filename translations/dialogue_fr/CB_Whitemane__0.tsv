@@ -1,0 +1,188 @@
+idx	prefix	english
+0		Among the fallen and the broken of an ancient world, lies among them a single structure. 
+1		A monument to a forgotten power. 
+2		At the top, a cracked lion's head glares at you. A one-eyed lion, with a single dark and empty socket. 
+3		It's a shrine, isn't it? 
+4		A shrine, like any other. You feel at home on your knees here. 
+5		Of course you do. 
+6		Silence, <i>degenerate</i>. 
+7		A shrine to what god? 
+8		Does it... work? 
+9		M-(Take a step closer.) 
+10		Whitemane. 
+11		They lived here. Not first. Not last. 
+12		One lost to time. 
+13		You may prepare spells here, yes. 
+14		There is a connection. To divinity. 
+15		Somehow. 
+16		Shrines like this often hold a latent connection to Jor's Strings. 
+17		If you can do it at the shrine of one dead god, why not another? 
+18		Do not compare Urth to this cat-god. 
+19		If you think your god is somehow unique, then you are sorely mistaken. 
+20		"Sure." 
+21		"Looks like a normal cat-thing. There's a ton of them all over the city, if you know where to look." 
+22		"Are you some type of cat expert?" 
+23		"Do I know where to look?" 
+24		"Go on." 
+25		"No." 
+26		He speaks truth. 
+27		"Clearly. You found this one." 
+28		"I... don't have anything else to say, really." 
+29		"Hard to tell exactly what's going on here, due to the rubble and the dust." 
+30		"You could try investigating it more closely. But remember..." 
+31		"The Whitemanes are famous for their traps." 
+32		"You know, like that fiery hallway you barely survived." 
+33		"So be careful." 
+34		Your scarf rustles. 
+35		"Meek thinks spooky ghost," his first comment is, before he even opens his eye. "Many spooky ghost in place like this." 
+36		The mimic's gaze darts around the chamber. 
+37		"Yes-yes. <i>One hundred percent</i> - is trap here. Master beware!" 
+38		"Not surprising. If you gotta investigate, just... be careful." 
+39		"I don't know why I even say that, I know you're not going to listen." 
+40		You can listen. Just not right now. 
+41		You look over the front of the shrine, seeing traces of markings on the surface. 
+42		You approach the ancient shrine. 
+43		What's that light from the ceiling? 
+44	ROLL8 int-	Investigate the shrine. 
+45		(Prepare spells.) 
+46		E-(Nod your head.) 
+47		It is an illusion. Do not mind it. 
+48		It is absolutely not the sun. 
+49		Glancing upwards reveals the rays to be nothing but a magical tingle on your eyes. 
+50		This is no esoteric pocket- but it most likely once was. 
+51		A fake sun on ancient stone. 
+52		Like ALL of JOR. 
+53		Your gloved hand glides over the markings on the front of the shrine. 
+54		There's something there. 
+55		Inside the stone. 
+56		And it's... 
+57		Text. 
+58		Tracing your fingers, you realize something is written, faintly, scrubbed down over centuries, into the surface of the shrine. 
+59		It says, 'EL OJO ROJO VIGILA TUS LOGROS.' 
+60		It means, 'the red eye watches over you'. 
+61		You take a step back, and mumble it to yourself. 
+62		It means, 'the red eye-' 
+63		"The red eye... watches over you." 
+64		"Does that mean anything?" 
+65		He shrugs. "They honestly might have. But... who knows?" 
+66		You glance upwards, at the lion's head. 
+67		The eye socket. 
+68		Perfectly sized for a gemstone. This is obviously a secret you would be able to trigger, in case you insert the correct gemstone. 
+69		(Look at the eye socket.) 
+70		Not now. 
+71		Fine. Later, then. 
+72		You trace your fingers over the markings at the front. 
+73		There's something here. Inside the shrine. 
+74		But you can't figure out how to possibly get it open. 
+75		This thick of a stone block would not be easy to destroy, even if you have a perfect tool for the job. 
+76		No, there is some other way... 
+77		But what? 
+78		You dust off the front of the shrine. 
+79		Then the sides of the shrine. 
+80		It's faint, but there is some type of symbol on it. 
+81		It's difficult to tell what's a weathered scratch, and what's a creative choice. 
+82		(Look closer.) 
+83		Yes. 
+84		A symbol. 
+85		A symbol of a sun. Definitely. 
+86		If this is what Akzel wanted you to find, you've found it. 
+87		Huh. So what do I do now? 
+88		Get back to your dwarf buddy, of course! 
+89		Hm. Yes. 
+90		Tell Akzel about this symbol. He would be grateful for the information. 
+91		Very grateful. 
+92		Like, get-a-nice-little-payday grateful. 
+93		"You find what you're looking for?" 
+94		I like the sound of that. I want a payday too. 
+95		Or maybe I'll just be happy that he's happy. We'll all be happy together. 
+96		I should get back to Akzel then, to those other ruins. Man, there's a lot of ruins down here. 
+97		"Great. Happy for you." 
+98		His tone of voice indicates: 'please, please, can we leave this scary ruin now?' 
+99		Who doesn't?! 
+100		That sounds lovely. 
+101		Yes you should. Right away! 
+102		The stony lion's head glares at you with that one sunken, dark eye. 
+103		Do it! Put in that gem you found between the cow's legs! 
+104		Might want to be a bit careful about it, but you could probably put in that jacinth here... 
+105		(Poke your finger in the hole.) 
+106		I'm done checking out the eye socket. 
+107		Yes. Either a ruby, or a jacinth would be a rather practical guess. 
+108		These barbaric civilizations - if you can even call them that - were all the same. Shiny rocks in mysterious temples, used as esoteric triggers. 
+109		Indeed. 
+110		You do so, sticking it in. 
+111		First an inch. Then two. 
+112		Then your whole index finger. 
+113		This is a great way to lose a body part. 
+114		There are many tales of dark voids that consume any inserted limbs. 
+115		(Wiggle it around.) 
+116		(Take out your finger, and hope it remains attached to your hand.) 
+117		You do so. 
+118		For some reason. 
+119		Nothing happens...? 
+120		You feel the inside of the lion's head. It appears hollow. 
+121		The goblin stares at you - a questioning expression. 
+122		Slowly pulling out, your index luckily remains. 
+123		Phew...! 
+124		But something is missing... 
+125		Perhaps. 
+126		Perchance. 
+127		Carefully you guide the jacinth into the perfectly sized eye-hole. 
+128		Once close enough, like a magnet it gets sucked in. 
+129		Then you hear a strange noise in the walls. 
+130		OH GODS! 
+131		Mm? 
+132		Did something happen? 
+133		The goblin gasps for air, unable to speak. 
+134		(Look to your left.) 
+135		Oh. 
+136		You just almost - <i>ALMOST</i> - just DIED. 
+137		"That was fast." 
+138		(Begin to shake, due to a slightly delayed adrenaline kick.) 
+139		You would have died, had the final blade not been blocked by those vines. 
+140		And Snell would have died if he had stood just a bit further back - or to the left. 
+141		"...F-fuck..." 
+142		The goblin is actually shaking. 
+143		"We were..." 
+144		"We were so... close. To just, like... dying. Look at these things...! We'd be- you'd be- cut in half!" 
+145		"Are you aware of that, Cleric?" 
+146		Hm? What's going on? 
+147		"No. Real men don't process emotions like that." 
+148		"Yes. Maybe. We'll see in a bit." (Shiver.) 
+149		"There's magic for that. Like... Regenerate." 
+150	FC9 dex-	(Look around.) "What? Something happen?" 
+151		"I see. You're a stoic, then." 
+152		All real men are. 
+153		"Of course. Feelings don't faze me." (Feel a bit faint.) 
+154		"You sure? You look a little-" 
+155		"I've heard a delayed response is normal in these situations." 
+156		"Heard about a guy that got an arrow through his skull once. Like, straight through." 
+157		The goblin tends to talk a lot when he is in emotional panic. 
+158		"This fucking guy, he just kept walking about like nothing had happened. Like he was just-" 
+159		"Regenerate? Like... the one used for lost limbs?" 
+160		"Don't you mean Revivify?" 
+161		"I almost just died, please don't argue semantics, Snell." 
+162		"Look, I'm not the magic guy here, but-" 
+163		"You serious? Are you <b>serious</b>?! You don't see the- you didn't-" 
+164		With a brash crack, the front of the shrine pops out of place. 
+165		The goblin jumps. 
+166		A deep rumbling voice echoes through the chamber, as a lion's skull begins floating out of the shrine, along with a ghostly halberd. 
+167		"<shake>EL VIGILANTE ROJO DE CRINBLANCA, CASTIGARÁ TU-</shake>" 
+168		Then the skull falls to the ground. 
+169		(Stare at it as it rolls to the side.) 
+170		"Is that... it?" 
+171		"Huh." 
+172		"I'm not sure?" 
+173		He glances around, scanning for threats. 
+174		That was a ghostly apparition, left to guard this shrine. 
+175		Some kind of ghost? 
+176		Ghost-failure? 
+177		"I don't think they planned it to go that way." 
+178		"There we go. The undead spirit of this heretical temple has been vanquished." (Feel proud.) 
+179		"For once I agree with you." 
+180		Huzzah. 
+181		"Yeah. Great job." 
+182		"I want to believe you." 
+183		The skull is on ground before you. And that halberd is just... floating there. All ghost-like. 
+184		Be careful. 
+185		Loot them. Come on. 
+186		E-Guess I'll... check them out. 

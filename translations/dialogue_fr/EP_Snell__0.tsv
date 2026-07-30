@@ -1,0 +1,501 @@
+idx	prefix	english
+0		Snell looks ahead the queue. 
+1		"This'll take a while." 
+2		"You sure you're done looking around?" 
+3		"I'd recommend we report to Lady Sageleaf before getting in line, but..." 
+4		There's a <i>heavy</i> sound in his voice as he speaks to you. 
+5		His voice is strange. <i>Deep</i>. 
+6		"If you feel like you're done." 
+7		He's going to miss this. 
+8		The goblin is very much okay going through a few more conversations with random people. 
+9		Before you <i>do the deed</i>. 
+10		It's been one hell of a quest. 
+11		A challenge for any mortal. But not for you. 
+12		Another job in the bag! 
+13		Hells yeah. 
+14		The time has come. 
+15		The END is NEAR. 
+16		"Yeah. I don't feel like talking to more people. Let's wait in line." 
+17		(Wait until 12:00.) 
+18		E-No. I've still got stuff to do. (Leave and check around a bit more.) 
+19		"Right. I'll probably go run some errands in the meanwhile. But go for it." 
+20		"That stereotype about humans loving to queue... it's actually true, eh?" 
+21		Time passes... 
+22		So slowly. 
+23		E-So slowly indeed. 
+24		A few people remain in the queue. 
+25		Though most are finished- done with this charade. 
+26		"It's getting late." 
+27		"We really should report to Lady Sageleaf right away. But beyond that..." 
+28		Your companion looks around the chamber, the faint yellow light filling every corner. 
+29		Light into darkness. On the Day of Suffrage. 
+30		"Might be time to cast your vote, eh?" 
+31		The goblin gives you a tired smile. 
+32		"Yeah. I've talked to enough people. Let's wait in line." (Finally vote in the election and finish up your quest.) 
+33		E-"Not yet." (Leave and check around a bit more.) 
+34		Only one dwarf left. 
+35		An indecisive fellow. 
+36		"I wonder how long he's been standing here." 
+37		"Hours?" 
+38		"Maybe he likes it. The <i>anticipation</i>." 
+39		"I sure hope not, but... probably feels like it, yeah." 
+40		"I guess if you're really <i>that</i> into voting..." 
+41		"Hey, wait- I think I saw him a while back. Has he been going in and out of the queue?" 
+42		"Crazy." 
+43		He clears his throat. "Anyhow." 
+44		(Yell at the dwarf in front.) "Hey, you having trouble making a decision? Wanna talk about it?!" 
+45		"Oh yes. I've spent enough time here now. Let's vote before they close up." (Finally vote in the election and finish up your quest.) 
+46		E-"Not... yet." (Leave and check around a bit more.) 
+47		The dwarf turns around. 
+48		"<shake>It's not easy, okay</shake>?!" 
+49		"<b>Give me a minute</b>!" 
+50		He turns back to the ballot box, his shaking hand holding a crumpled voting card. 
+51		Relatable. 
+52		Give him time. And space. 
+53		What a farce. 
+54		In the far back you hear a goblin shush you loudly. 
+55		Snell is desperately stifling a fit of laughter. 
+56		"You know what- why have a filter? Why not just say whatever comes to mind?" 
+57		"Who cares what the world thinks?" 
+58		"I might be a bit out of touch in everything social-cue related." 
+59		"Wise words, Snell. Wise words." 
+60		"Did I do something wrong?" 
+61		The goblin lets out a long, drawn-out breath. 
+62		"I must be getting acclimatized." 
+63		"Well." 
+64		"That's it then." 
+65		"A bit of a wait, and then it's... done." 
+66		Exhaustion. 
+67		His words DRIP in it. 
+68		"Nothing's ever truly done." 
+69		"This vote is just the beginning, you know." 
+70		"<b>Quest complete</b>." 
+71		"Finally. I need a <i>long</i>-long rest." 
+72		"That's true. There's still the..." 
+73		He lets out a deep, disgusted groan. 
+74		"<i>So</i> much paperwork." 
+75		"Yeah. That's the scary part." 
+76		"Bet you're real happy about that, you adventure-junkie." 
+77		"Same." 
+78		Snell grabs one of the fence-poles nearby, leaning his body weight upon it. 
+79		"How you holding up, by the way? We've been moving constantly, <i>every waking hour</i>, for... a long time now." 
+80		"To just stand still like this... geezus, I feel like I'm getting <i>feebleminded</i>." 
+81		Gotta keep moving, man. 
+82		Without that <i>chase</i>, you might as well be dead. 
+83		There is still strength in these here bones. 
+84		A little... bit... LONGER. 
+85		"Mm. Not sure how to even comprehend this damn day." 
+86		"I'm still a bit in shock, I think." 
+87		"It's work. <i>Work work</i>." 
+88		"I'm a man. Men don't compress. They only expand." 
+89		"Work work?" 
+90		"Work work." 
+91		"The only true constant force of the universe." 
+92		He holds out two claws to signify the size. 
+93		"An expanding manhood." 
+94		(Gesture alongside him.) "<i>Massive</i>." 
+95		Snell rubs his bloodshot eyes. 
+96		"You could always talk to the press." 
+97		"The press?" 
+98		"Yeah. Like, get this all down on print." 
+99		Great idea. 
+100		People will LOVE you. 
+101		That could be a wonderful opportunity to share some Azgalist love. 
+102		A man does not need his story to be told. 
+103		The larger the tale is when you fall into your grave, the bigger your manhood. 
+104		"I got a friend at the Post who'd love to write about all of this. <i>Lumiere Kolachov</i>. She's this crazy lizard-woman. I think you'd like her." 
+105		Hey, you've read her work! 
+106		You have indeed. 
+107		She is a hack fraud. 
+108		"Not sure how much you're able to say without getting in trouble with your bosses, of course." 
+109	DC13 dex-	"Love her work." 
+110	DC15 int-	"Kolachov? She's a hack fraud." 
+111		"You've got friends everywhere it seems." 
+112		"I don't think I should talk to the press." 
+113		"Could be fun. Maybe." 
+114		"I don't care what Patriarchs think. They'll be out of a job after the election anyhow." 
+115		"She's a - what do you say - <i>special gal</i>." 
+116		The type of 'acting' journalist, who writes inane, un-sellable, dialog-focused genre fiction on the side. 
+117		"Absolutely. Just your type." 
+118		"It's this line of work. I never seem to make acquaintances. Only enemies or friends." 
+119		He shakes his head. 
+120		"Yeah. No, you're right. Too messy. It'd either be a scandal or a joke." 
+121		"Something to think about." 
+122		"I don't think even the Freestriders have the power to flip that entire hierarchy on its head. Not in years, at least." 
+123		"I do like your thinking, though." 
+124		"But that's for tomorrow. Or next week. Or next month." 
+125		"Who knows how the city will look by then." 
+126		It will be a great SEISMIC shift. 
+127		Finally! 
+128		We'll get some golden glory going around here. 
+129		How hollow it all will feel afterwards. 
+130		But more importantly, will Snell be okay? Will his people make it through this change? 
+131		You will be lost in the aftermath. 
+132		Your SOUL lingering the ruins... 
+133		"Will Lady Sageleaf be okay?" 
+134		"Will you be alright?" 
+135		"What do you think will happen to me after all of this?" 
+136		"Heh. Yeah." 
+137		"Don't worry about her." 
+138		"I'll be fine." 
+139		A nonchalant shrug. 
+140		With a hint of uncertainty. 
+141		"I've helped build one hell of an institution here." 
+142		"It'll make it through. No matter who's running the show." 
+143		"The HWBT will survive. I'm sure of that." 
+144		Like hardy insects! 
+145		Whatever you do- do NOT equate them to cockroaches. 
+146		Unless you hit the timing just right, in which case... go for it. 
+147		(Nod.) "Like <i>cockroaches</i>." 
+148		"I think you're right. You've got some spunk in you." 
+149		"Time will tell." 
+150		"No." 
+151		"Hah!" 
+152		"Yeah. Like a bunch of fucking cockroaches." 
+153		"We get stomped on, chewed on, spit out again..." 
+154		"Murdered en masse by some human god." 
+155		The goblin pauses for a moment in his rant, as if tasting the words. 
+156		"Thriving in chaos." 
+157		"Built some good shit, despite the odds." 
+158		"Also forcibly assimilated." 
+159		"Something like that, yeah." 
+160		"Yeah. Fuck the odds." 
+161		"Odds be fucked." 
+162		"Fuck em!" 
+163		"They- it do- it do be like that." 
+164		"That too, yeah." 
+165		"...Sure." 
+166		"We've got <i>spunk</i>." 
+167		"It sure will." 
+168		"No?" 
+169		"If the city falls, your kind will fall as well." 
+170		"Norvik will outlive the Halfways. It's so much better." 
+171		"Eh." 
+172		"Maybe in this form. This Urthfolk-ish shape we're in now." 
+173		"But if humans being adaptable is one of those traits of yours, then goblins are damn near polymorphic." 
+174		"Keep that in mind, Cleric." 
+175		"Yeah, yeah. And my dad could beat up your dad." 
+176		"My father is dead." 
+177		"Your father must be very powerful then." 
+178		"He- oh." 
+179		"Right. You told Ever-Glad about that." 
+180		"It's okay. I got over it." 
+181		"I don't think I'll ever get over it." 
+182		"I never really got to know him." 
+183		"Good job. Difficult thing to do." 
+184		"Same, honestly." 
+185		"Huh." 
+186		"No clue, really." 
+187		"My dad died a couple of years ago." 
+188		"Oh." 
+189		"Didn't know him too well. He was a syndicate-gob." 
+190		"Like most in his generation, he wasn't too keen on anything human. Including this city." 
+191		"So yeah. A bit complicated." 
+192		"He was like most goblins then." 
+193		"Yeah. Complicated." 
+194		"Still. Sucks." 
+195		"Of the last generation, sure." 
+196		"Things are different now. We have actual opportunities. So I try not to judge." 
+197		"Yeah." 
+198		"Always does." 
+199		"But you know what they say. The son doesn't have to... keep digging the trench, or whatever." 
+200		"Just do your own thing. " 
+201		"Damn right." 
+202		"We don't have to keep digging, but it's good to keep track of the trench. So we don't fall back in." 
+203		The goblin grins. 
+204		"Now, <i>you</i>, on the other hand..." 
+205		"What about me?" 
+206		"Well..." 
+207		"What's your plan?" 
+208		You will be the hero this city needs. No matter the cost. 
+209		You will serve. Bend over. Pray for mercy... 
+210		You'll make a fortune. Just gotta keep working. 
+211		If you're lucky you might have enough to eat next week. 
+212		You. Will. LIVE. 
+213		You. Will. DIE. 
+214		You will be the most powerful spellcaster on the Coast. In time, of course. 
+215		If they kick you out of the Towers, then you will surely start a coup. 
+216		You will help make this city a utopia for all. 
+217		Everything will be fine. The world is calm and lovely. 
+218		You'll be everyone's favorite person. 
+219		Eh. 
+220		You'll figure it out as you go along. That'll work great. 
+221		"Uh..." 
+222		Snell gives you a moment to think. 
+223		He's actually interested. 
+224		"I'll be the best cleric I can." 
+225		"I'll survive, somehow." 
+226		"I'll hone my magic. Become even more powerful." 
+227		"I'll find another job, if this whole cleric thing doesn't work out." 
+228		"Yeah. I'm still thinking about it." 
+229		(Stay silent.) 
+230		"Heh." 
+231		He shoots you a wicked grin. 
+232		"I'm sure you already are." 
+233		"Oh, that I'm sure of." 
+234		"Honestly, not a bad idea. You're clearly a bit of an eso-maniac." 
+235		"Well. I'm sure you've got connections." 
+236		He shrugs. 
+237		Your goblin companion stands there, waiting for an answer that doesn't come. 
+238		"I get it. It's complicated. Still thinking about it, huh?" 
+239		"Thanks again for telling Darrow to shove it." 
+240		"That was great to see." 
+241		"I did? When?" 
+242		"You know. When he told you to 'dismiss' me." 
+243		"That was cool. Really, didn't expect it." 
+244		"I should also thank you for the, uh... resurrection." 
+245		"I've never died before. Wasn't a great experience." 
+246		"But I gotta say, if I'm ever gonna have to kick the bucket again- I'd prefer to do it next to you." 
+247		"I would not choose you." 
+248		"Same to you, Snell." 
+249		"Figuratively." 
+250		"Fair. Don't think I would be able to rezz you." 
+251		"Apart from some basic heart massage, I guess." 
+252		"Of course not. I'm The Cleric here after all." 
+253		"Heart massage sounds nice though." 
+254		"We'll have to change that. Get you some divine magic." 
+255		"You sure are." 
+256		"Nah. It's pretty violent, actually." 
+257		"Bad choice. I don't have any god-channeled powers." 
+258		"That's true. I retract my statement." 
+259		"More exciting that way." 
+260		"Maybe one day." 
+261		"Smart move." 
+262		"True. You're such a thrill seeker." 
+263		"Oh yes. Snell the Cleric. Of which god?" 
+264		"Urth, of course." 
+265		"Tokig the Gambler." 
+266		"Illym could be fun." 
+267		"I don't think they've got those helms in my size, sadly." 
+268		"That would be insane. I like it." 
+269		"We have different views on fun, I think." 
+270		"Oh, and by the way..." 
+271		"Your voice is still really high." 
+272		"What?" 
+273		"Since you downed that mirror potion. It's still high-pitched." 
+274		"Shit. How long do you think it'll last?" 
+275		"High in a manly way, or...?" 
+276		"It sounds deep and stoic in my helm." 
+277		"Give it a few more days." 
+278		"Beyond that, I'm sure a faulty potion like that won't be hard to dispel." 
+279		"Oh yes." 
+280		"The manliest mouse in the kingdom." 
+281		"Hm." 
+282		"Reverb. Maybe." 
+283		The most evil grin you've ever seen. In your entire life. 
+284		Damn. What a heel turn. 
+285		It is, to be fair, absolutely hilarious. 
+286		"...And I just realized we never actually went <i>inside</i> the tea shop." 
+287		"...Huh." 
+288		"We should have done that." 
+289		"We really should have done that. I can't believe I forgot." 
+290		"We did a bunch of other stuff?" 
+291		"We did." 
+292		"But not the tea shop." 
+293		"We did not, no." 
+294		"Never made it inside. Huh." 
+295		"I'm not sure how I'll explain that to Lady Sageleaf, but..." 
+296		"Eh, whatever. Mystery's solved either way." 
+297		As you keep talking, the chamber appears to grow ever-thinner in folk. 
+298		You only have a few more minutes left before it is time. 
+299		Now - before you head up - ask him! 
+300		Ask him what he's voting for! That'll help you figure him out for real! 
+301		The goblin sighs. 
+302		(Clear your throat.) 
+303		"Yeah?" 
+304		"Hit me." 
+305		(Say it with a rough voice.) "<b>What are you voting in the election, citizen</b>?" 
+306		"Eh, that's private." 
+307		Ugh. 
+308		He wants to have a piece of it to himself. 
+309		He fears. 
+310		"Understandable. You know I had to ask." 
+311		"Not even a hint?" 
+312		"You have to tell me. It's the law." 
+313		"Come on... after everything we've been through?" 
+314		"I did expect, yeah." 
+315		"Not yet it isn't." 
+316		"Still private." 
+317		But he lets out a hearty scoff. 
+318		"I'll tell you this much though- it won't be for the Freestriders." 
+319		"That's rude." 
+320		"Good choice." 
+321		"The Freestriders don't need your vote." 
+322		He laughs. 
+323		"I'm not sure how healthy an anti-stance really is, but..." 
+324		"Oh, I know." 
+325		"I'm sure they'll win in the end anyhow. They always seem to do just that." 
+326		"Yeah. That's where I ended up." 
+327		"And you're red, I assume?" 
+328		"You're green, I assume?" 
+329		"And you're voting for... <i>yourself</i>, I assume?" 
+330		"But you're not voting at all, I assume? Or...?" 
+331		"And you're a damn Freestrider still?" 
+332		"And you're voting for...? What, the Party of Norvik or something?" 
+333		"Precisely." 
+334		"Probably." 
+335		"No. Or, uh..." 
+336		(Look at the ballot box.) "I'll decide when I get there." 
+337		"Cool. I read your <i>many comments</i> correctly then." 
+338		"Right. Well, you're pretty hard to read, when it comes to that stuff." 
+339		"I share your hesitation." 
+340		"Fair." 
+341		"I don't think... that's how it works, Cleric." 
+342		"But... you do you." 
+343		"Hah. There you go again. Always avoiding politics in the most awkward way possible." 
+344		He brings out a yellow notepad. 
+345		"I'm not the type to write stuff down, I swear." 
+346		"But at some point I realized I should note down how often you make all of these political comments. It got pretty ridiculous at some point." 
+347		Snell suddenly begins rooting around in his pockets. 
+348		"Shit, right." 
+349		"But at some point I figured I should note down how often you made those ridiculous political statements." 
+350		"But my notepad..." 
+351		He stops searching his jacket. "<i>Damn</i>. Must've dropped it in the City Below or something." 
+352		"Oh, right. I have it here." (Hand him back his notepad.) 
+353		"That sucks. Maybe you'll find it some day, in the far future." (Keep his notepad.) 
+354		"...What?" 
+355		Snell accepts it with a suspicious squint. 
+356		"You dropped it at some point. I kept it safe." 
+357		"I stole it from you." 
+358		"...Alright. Uh. Thanks." 
+359		"Wait, when exactly?" 
+360		"I thought I lost it before I even ran into you." 
+361		"I took it from your pocket outside the Goblin Garden. Before you took me to Sageleaf." 
+362		"No shit? Huh." 
+363		Pure disbelief. 
+364		With a hint of pride, of course. 
+365		"I'm officially awarding you the title of the second most kleptomaniac bastard on Tolstad." 
+366		"I accept the title with pride." 
+367		"I reject that title." 
+368		"This guy named Smarter. Let's hope you never meet him." 
+369		"Yeah. <i>Smarter</i>." 
+370		"Let's hope you never have the unfortunate luck to run into him again." 
+371		"I had a feeling you would, you devil-handed bastard." 
+372		"Too bad." 
+373		He brings up the notepad with a grin. 
+374		"Eh. I'll buy a new one." 
+375		Then he flips through it. 
+376		"Here." 
+377		Snell shows you a page with some scribbled lines. 
+378		"Not as bad as I thought. It's less than a dozen times." 
+379		"Maybe I need to get more... politically engaged, or whatever." 
+380		"It's not worth it. Keep at your own pace, Snell." 
+381		"You should. Each citizen needs to pick up their own weight." 
+382		"Follow your heart, and whatever political policy burns a hole in the back of your skull." 
+383		Snell shows you a page of scribbled lines. 
+384		"Oh yes. It's like, twenty times. That's bordering on obsession, you know?" 
+385		"Politics is <i>everything</i>." 
+386		"We can always go harder. More political." 
+387		"It's all about getting the foot in the door for the next Era." 
+388		Snell shows you a page FULL of scribbled lines. 
+389		"It's like, <i>thirty</i> times, Cleric." 
+390		"I'm not saying you shouldn't be politically engaged, but you're clearly a bit too fixated." 
+391		"Politics is important. It's more important than all of us combined." 
+392		"I <i>breathe</i> politics. It's in my <i>veins</i>." 
+393		"Only thirty? I gotta pump those numbers up." 
+394		"Politics is EVERYTHING and EVERYONE." 
+395		"Never stop. Can't stop." (Start shaking.) 
+396		Snell shows you a page of many a question mark. 
+397		"You're a bit of an enigma, Cleric." 
+398		"An <i>apolitical</i> enigma." 
+399		"Gotta stay mysterious. Keep 'em on their toes." 
+400		"I suppose so." 
+401		The goblin shakes his head, placing the yellow notepad back into his jacket. 
+402		As he looks away, silence takes over between the two of you. 
+403		Ultimately, Snell breaks the silence with an almost stuttered sentence. 
+404		"What did you, uh, if you don't mind me asking..." 
+405		"What did you talk about, with that guy? <i>Urth</i>, I mean." 
+406		"Many things. He spoke about goblins. His role as a god." 
+407		"Nothing I can tell you." (Leave him in the dark.) 
+408		"He talked about goblins?" 
+409		"Yes." 
+410		"About the..." 
+411		"What did he say?" 
+412		"He appeared as an old man with a lot of regret. Unsure about the many choices he made while alive." 
+413		"He was a god. Stubborn and above it all." 
+414		"He did his best in life. But he was unsure if that was anywhere close to enough." 
+415		"It was an interesting experience." 
+416		"I can only imagine." 
+417		"Really?" 
+418		"Well. Never meet your heroes, and so on." 
+419		"...Right." 
+420		"I bet being a god is a pretty stressful position." 
+421		"He did look pretty worn." 
+422		"I bet being dead also does that to a guy. Anyway." 
+423		"Thanks for telling me." 
+424		"I'm sure... Lady Sageleaf will enjoy that in the report as well." 
+425		He did not ask for her. 
+426		Snell wanted to know- just for himself. 
+427		And he is happy to not have left those words unspoken. 
+428		"How ominous." 
+429		"But fine, I get it. We'll see if Lady Sageleaf demands more info later on." 
+430		There is something. 
+431		Hm? 
+432		Something is left unspoken. 
+433		It is weighing on Snell's mind. 
+434		Something... you can't quite put a finger on. 
+435		He takes a deep breath. 
+436		"Just a bit longer. Then it's all done." 
+437		He does not want to address it. Unless you do it first. 
+438		But what is it? 
+439	ROLL23 wis-	Understand Snell. 
+440		(Ignore it.) 
+441		Snell is a good person. 
+442		He is a goblin. 
+443		Yet you have seen some great integrity within him. 
+444		That is not something you ever suspected in such a crossing. 
+445		You can trust him. And you understand him. 
+446		What's he thinking about then? 
+447		He is thinking of... 
+448		<i>Urth</i>. 
+449		Ah. 
+450		There is a lot unspoken about your encounter in the void. 
+451		Let him ask it. 
+452		"You are thinking about something." 
+453		"I am?" 
+454		"Yes, I can tell. Let's talk about Urth." 
+455		The goblin slowly closes his eyes, relaxing his posture. 
+456		He is carrying it no longer. 
+457		"Yeah. I have to ask." 
+458		"I just had a brisk conversation with the man who personally slaughtered my entire race." 
+459		"Let me ask: what the <i>fuck</i> am I supposed to feel about that?" 
+460		"Rage and confusion." 
+461		"I think you made your opinions very clear to his face. Which is impressive, by the way." 
+462		"That is something you will only learn in time." 
+463		"You may feel appreciation. He let you live." 
+464		"I don't know, Snell. I am not a goblin." 
+465		"Since you put it so concisely." 
+466		Snell lets his face fall into two palms. 
+467		"Heh. I figured I'm the only goblin alive who's actually gonna get a chance to rage on the guy. Be a shame to let that chance slip away." 
+468		"But..." 
+469		He rubs his eyes. 
+470		"<i>Tsk</i>." 
+471		"<i>In time</i>. Like he's spouting some type of prophecy." 
+472		"<i>In the end, we'll all learn how correct he was</i>," Snell says in a mocking tone. "Something like that." 
+473		"He let my <i>grandma</i> live." 
+474		"Everything else has just been..." 
+475		"And I am the only goblin alive, in the entire gods-be-damned world, that actually spoke with the bastard." 
+476		His brow furrows into scrunched mess as he adjusts his jacket. 
+477		A tic. 
+478		"I don't know. Part of me hates that he got to me at all." 
+479		"How do you mean?" 
+480		"He was pretty persuasive." 
+481		"He just seems like a regretful old man." 
+482		"I should've shot him with the sling for what he's done. But..." 
+483		The goblin scoffs. 
+484		"Exactly." 
+485		"Something about that look in his eyes. I wouldn't expect <i>that look</i> in the eyes of someone with that kind of power. Who <i>had</i> that kind of power." 
+486		"That he knew from the start... that it was all just a <i>gamble</i>. I don't know how to even process that. And that's how all those gods went about it? Following divine visions of whichever die roll had the greatest chance of success?" 
+487		"It's insane." 
+488		"Yeah. Real world choices cannot be broken down like that. It's far too complex." 
+489		"Sometimes I wonder if we all have our choices laid out like that. One after another. Just odds and Strings, in a tangled mess." 
+490		(Just let him speak.) 
+491		"Agreed." 
+492		"Yeah, no, that's... not something I've ever thought about. But I'm not exactly in-tune with the esoteric, so..." 
+493		Snell places a claw up against his temple. 
+494		"It's just- this old man stands there, defending every choice he's made. As if he were infallible- while <i>also</i> showing so much <i>regret</i>. Like he knows how much he's fucked up along the way." 
+495		"But he'd still do it again!" 
+496		"Am I supposed to feel bad for him? Or should I be some all-forgiving monk, just because he did <i>his best</i>? On top of that- he has the gall to tell <i>me</i> what <i>I</i> should do? Like his words are anything other than the ramblings of a dead god?" 
+497		"<i>Fuck</i>. I don't know." 
+498		He looks down at the beautifully carved dwarven tiles. 
+499		"...How do <i>you</i> feel about it?" 

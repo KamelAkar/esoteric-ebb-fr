@@ -1,0 +1,279 @@
+idx	prefix	english
+0		You approach the mirror, realizing that Viira is watching you quite closely. 
+1		But taking a quick glance, you do see: there is surely a hidden safe behind this mirror. 
+2		E-Interesting. I'll have to come back when Viira isn't around. 
+3		You check behind the mirror. There's a safe in the wall. 
+4		"Careful, Cleric," the goblin whispers to you. 
+5		"The Freestriders are many things, but careless is not one of them." 
+6		"Meek has tip!" 
+7		(Inspect the safe.) 
+8	ROLL25 dex-	Crack the safe. 
+9		E-Time to go. 
+10		"Yes! Tip!" 
+11		Your scarf drags you to the left, forcing you to look at the fireplace. 
+12		"Ugly smoke is watching. Beware..." 
+13		"I am aware, Meek, but thank you." 
+14		"Thank you for pointing that out Meek. That's very helpful." 
+15		"Good! Of course master is aware. Master is always aware..." 
+16		"Meek is happy to help!" 
+17		Old design. Arcane Era. 
+18		Simple mechanism, built upon entering an esoterically attuned iron piece. 
+19		Looks like you need a key. 
+20		Thick walls. A handle. The words, 'Orion & Glott' are hammered into the front plate. 
+21		This would be difficult to get into without the proper tools. 
+22		Try sticking your fingers into that key hole. 
+23		You want to crack the safe, right? 
+24		You see a pair of glittering eyes watching you. 
+25		You glance towards the flames. The mephit is clearly avoiding looking in your direction. 
+26		Tracing the rim of the key hole with your gloved fingers, you sense the esoterically aligned arcane power within. 
+27		It sends tingles up your entire arm. 
+28		You bring out the lockpick. Using it to explore the mechanism inside. 
+29		Being careful not to trigger the magical barrier inside, you realize by exploring that the rim inside has a dead zone. 
+30		A tiny gap where the spell (enchantment of some kind?) does not reach. 
+31		(Press against that gap while fiddling with the mechanism.) 
+32		You do so, and within seconds you hear a click. 
+33		Whatever you did, it just worked! 
+34		I am the greatest! A true rogue for the era. 
+35		That was lucky. 
+36		(Just look inside.) 
+37		You sure are. 
+38		Luck is just another word for intent-less skill. 
+39		You lean in. 
+40		"Damn. Great job. Seriously." 
+41		And since the mephit is dead, it won't stop you this time... 
+42		An esoteric force causes you to shiver, as you realize there's a shrill voice hissing at you from behind. 
+43		You hear a mephit whistling in his fire. 
+44		"I ain't seeing nothing here, no sir." 
+45		You fumble around the handle and the hole. 
+46		Come on. 
+47		A gloved finger can just barely fit inside. 
+48		Come ON. 
+49		(Try the handle.) 
+50		"Please open up?" 
+51		(Stick a finger in the hole.) 
+52		It's firm and stiff. 
+53		Oh, you know it baby. 
+54		It won't budge without the hole being filled. 
+55		No response. 
+56		You know what to do. 
+57		As you do, instantly your entire arm jolts back. 
+58		A great overwhelming sensation of dread comes over you. 
+59		You are SEEN. 
+60		Luckily, there is no mephit to SEE you this time. 
+61		Guess you gotta try again, later. 
+62		You hear a mephit cackling in his fire. 
+63		You say the words and wave your hand in front of the safe. 
+64		As you do, a loud crackling bang fills your ears. 
+65		Loud enough to echo out into the cave ceiling outside. 
+66		It might be loud, but no one probably cares. 
+67		The goblin is holding his ears down. 
+68		"You want to wake all of Waterlane? Geez." 
+69		Good thing the mephit's gone. 
+70		Shit. You should get out of here. But first... 
+71		You hear the mephit swearing to itself. 
+72		"Way too loud. You idiot." 
+73		"But <i>crit</i> it. I didn't hear shit. Guess I'm deaf." 
+74		As the door glides open soundlessly, you see inside a stack of papers bound by a leather strap. 
+75		(Grab the orange ledger.) 
+76		As you do, you realize how light it is. 
+77		Is this... just one paper? Two? 
+78		What the hell? Why would they keep a single contract alone in a safe? 
+79		It must be juicy. 
+80		You look over the text real quick. 
+81		It's easy enough to understand what it means. 
+82		The contract is between the Askanii-Reeds Trade Company, and the City of Norvik. 
+83		"What's taking so long?" 
+84		What's it about? 
+85		Can't this wait? 
+86		"Fine. Be quick." 
+87		<b>No</b>. 
+88		The contract states that 'From the 1st of Beltan, on the morrow of the Bloodnight,' (that is four days after the election), 'the land rights of 15 collective ports across Norvik will be transferred to...' 
+89		The contract states that 'From the 1st of Beltan, on the morrow of the Bloodnight,' (that is a month after the election), 'the land rights of 15 collective ports across Norvik will be transferred to...' 
+90		A bunch of company names you've never heard of - then there's... 
+91		Huh. The signatures of those businesses. They're all... 
+92		<i>Magistrates</i>. 
+93		One of them says '<i>Nicholas Darrow</i>'. 
+94		"They're doing <i>what</i>?" 
+95		He scans the pages. 
+96		"That's... insane." 
+97		If the people knew... there would be panic. 
+98		<b>The election is a SHAM</b>. 
+99		Genius move, honestly. This means the Freestriders will get control of the city, no matter what happens on election day. 
+100		And the Magistrates will all get rich! 
+101		Oh, they're good. 
+102		Now that you've got this info, you better get out of here. But, uh... 
+103		"These fucking Freestriders..." 
+104		Should I release this somehow? 
+105		E-Right. Time to get out of here. 
+106		"I honestly have no idea. All I know is that... you and me? We are NOT supposed to see this shit." 
+107		"So don't do anything hasty." 
+108		Perhaps. 
+109		Yes. 
+110		The folk needs to know the truth. 
+111		This is harmful for the city. 
+112		Pure corruption. 
+113		Eh. 
+114		You're not gonna stop it either way. 
+115		You should turn it in, back to Viira, later on. Tell her you got it from some thief on Waterlane. 
+116		You could make some friends with it. 
+117		And enemies. So... be careful who you show it to. 
+118		The city is corrupt. What a surprise. 
+119		Keep it, or share it. Make sure it does not trace back to you in either case. 
+120		Democracy in your grasp. 
+121		It festers. 
+122		It dies. 
+123		"Hey, <shake>buddy</shake>!" 
+124		Gods be <i>fucking damned</i>. 
+125		"Time for you to get <b>smoked</b>!" 
+126		Great line. 
+127		"<i>Balls</i>." 
+128	IROLL-	Roll initiative. 
+129		This little shit...! 
+130		"You're not getting away, you hear me?" 
+131		"Not for any moral reason - it's just my job to mess up <i>critters</i> with <b>sticky fingers</b>!" 
+132		"Shit." 
+133		Your companion looks around for something, and grabs a fire poker. 
+134		In the same motion he swings it at the small elemental, as if swatting a fly. 
+135		It dances around his first attack. 
+136		"Whoa! Goblin's got teeth!" 
+137		"Get him!" he barks order to you. 
+138		That's the plan, green guy. 
+139		Letting out a maniacal laugh, the mephit swoops in towards your face. 
+140		The poof of hot smoke burns your skin. And the inside of your nostrils. 
+141		Just barely dodging out of the way, the poof of hot smoke hits the wall. 
+142		The heat still stings. 
+143		"Stand still! I'm not allowed to burn the wallpaper. I'm <b>not allowed</b>!" 
+144		Intense pain follows. 
+145		Damn this beast. Vanquish it! 
+146		Beware! The beast is deadly and it frightens you. 
+147		But a decisive punch would be difficult to land, with the way it's flying about. 
+148		Grab it. 
+149		It will burn. But it will put a stop to it. 
+150		Do not grab it. 
+151		It will cause intense pain. 
+152		You could ask him nicely to stop? Maybe? 
+153		He's just following whatever contract he's signed. 
+154		There could be a loop-hole. 
+155		"Come on, I wasn't doing anything that bad!" 
+156		"You can't just resort to violence like this!" 
+157	ROLL12 con-	Grab the mephit. 
+158	ROLL22 str-	Punch the mephit. 
+159		"Sure." 
+160		"But you're still getting your skin seared off!" 
+161		"Are you kidding? This is the best part of the gig!" 
+162		This freak. It's a monster that must be destroyed. 
+163		A monster. You shake. 
+164		You attempt to move forward, positioning your hands around the smokey beast. 
+165		Yet the pain - the heat - is too much. 
+166		It laughs at you. 
+167		"Idiot!" 
+168		With a decisive step, you move forward. 
+169		Your hip rotating. 
+170		Your entire body putting its weight into a single strike. 
+171		And it <b>hits</b>. 
+172		You attempt to step forward with a swing. 
+173		But the creature just dances around your arm, cackling. 
+174		"Ga-haha! You really suck!" 
+175		With a decisive step, you move forward, your hand channeling dark energies. 
+176		And it connects with the baffled elemental. 
+177		Its small smokey body, now filled with coursing necrotic power. 
+178		The necrotic energy flowing towards the creature - but it dances out of the way. 
+179		"You're casting spells at me? Idiot!" 
+180		It lets out another annoying cackle. 
+181		"You ready for some fourth degree burns?!" 
+182		"Oh no, you don't..." 
+183		He makes another swing with the poker. 
+184		"Gah...!" the smoke monster grunts as your companion smacks him across his entire body. 
+185		He got the fucker! 
+186		Great job, Snell! 
+187		Now, he should be an easy target! 
+188		"Guh... take a deep breath, asshole!" 
+189		A stream of smoke whirls your way. 
+190		Too slow. It hits you. 
+191		The heat is terrible. 
+192		A bit more ready for it - you dodge! 
+193		You feel a half second of relief. 
+194		Again. You must succeed. 
+195		You cannot allow this beast to remain material. 
+196		Break it! 
+197		Do you have a chance? 
+198		Take it. Take it! 
+199	ROLL6 con-	Grab the mephit. 
+200	ROLL18 str-	Punch the mephit. 
+201		"This is embarrassing~!" 
+202		"Now die, will you?" 
+203		Your companion takes a quick breath before diving in. 
+204		With a quick stab, the fire poker pierces through the elemental's body. 
+205		"Gotcha!" 
+206		"Wha- no...!" 
+207		With a shriek the elemental beast dissipates around the iron rod. Turning into... just smoke. 
+208		The elemental rushes towards you, and slips into the cracks in your helmet, and chain mail. 
+209		The heat it brings is unbearable. 
+210		This is your death. 
+211	ROLL4 con-	Grab the mephit. 
+212	ROLL15 str-	Punch the mephit. 
+213		As you pull back your fist, what remains in the smoke is... 
+214		Nothing. 
+215		"You did it." 
+216		He sounds astonished. 
+217		"I... did it." 
+218		With decisive movement you position yourself before the creature. 
+219		And clamp down on it. 
+220		"What the <i>crit</i>?" 
+221		Your hands burn. 
+222		"Let me go...!" 
+223		(Crush him harder.) 
+224		"Guh...!" 
+225		Through the gloves - your skin: seared. 
+226		"Great, keep him like that!" 
+227		(Crush him. One final time.) 
+228		"No, no, noo...!" 
+229		The elemental lets out a final cry as you put an incredible amount of pressure all around him. 
+230		And with a final squeeze... 
+231		It is gone. 
+232		"Phew. Close one." 
+233		He drops the poker and leans up against the wall, coughing. 
+234		"You okay?" 
+235		"Never been better." 
+236		"Nice strike." 
+237		"I didn't need your help." 
+238		"Good. Then let's get outta here." 
+239		"Sure was. First time I despawn an elemental. Crazy." 
+240		"I beg to differ." 
+241		"Die!" 
+242		"<b>Cleric</b>!" 
+243		Your body falters. 
+244		You are... alone. 
+245	ROLL16 con-	Live through the fire. 
+246		You hold it. 
+247		The PAIN. 
+248		The SUFFERING of this PURE FLAME ravaging your entire surface of SKIN. 
+249		This is... 
+250		It's NOTHING. 
+251		NOTHING. 
+252		NOTHING COMPARED TO THE PAIN YOU'VE FELT. 
+253		(Hug yourself.) 
+254		"<i>What - the - fuck</i>?!" 
+255		(Press harder.) 
+256		"AAA - AHHH...!" 
+257		The searing. The PAIN. 
+258		Within seconds, the entire surface of your SKIN is burnt to a crisp. 
+259		Where the creature was floating just a moment ago, you see a faint, tiny, ball of energy. 
+260		Not a soul. A <i>mote</i>. 
+261		And it disappears into nothingness. 
+262		But it's quickly gone from view. 
+263		"I don't think elementals work like that." 
+264		Correct. 
+265	DC10 int-	"Right. It'll just respawn in the elemental plane. And such a minor elemental is unlikely to be returned here with its memory intact." 
+266	FC10 int-	"Let's hope." (Shrug.) 
+267		"Oh. That's good." 
+268		"Hm. Yeah." 
+269		"Either way, we've got more important things to focus on." 
+270		Who knows? 
+271		No. Elementals that are destroyed will only phase into the elemental planes. 
+272		So it could return. But it is unlikely to do so. The chance of it witnessing against you is extremely minimal due to its minor nature. 
+273		There's a whole art of elemental magic you do not have much knowledge in. Perhaps in the future you will. 
+274		(Turn back to the safe.) 
+275		It's still there. As unlocked as it was a moment ago. 
+276		It stands there, ready for you. 
+277		It's still there- just as magically knocked-open as before. 

@@ -1,0 +1,427 @@
+idx	prefix	english
+0		A dark iron can of a man sits alone on the temple steps. 
+1		His face obscured, an axe strapped to his back. 
+2		Thick axe. Heavy. 
+3		This is a real man. A hero. 
+4		His armor is empty. 
+5		As is his heart. 
+6		"Citizen." 
+7		"I have some questions, good knight." 
+8		"Are you alive?" 
+9		His helmed head is slumped downwards, slightly. 
+10		Is he... asleep? 
+11		He is not really here. 
+12		Just stare at him. 
+13		"Hello?" 
+14		"Are you okay, citizen?" 
+15		No response. 
+16		Wait. 
+17		"Hello-oo?" 
+18		"My good knight, say something!" 
+19		A metallic scraping noise fills your ears. 
+20		The knight is moving, ever so slightly. His head turns. 
+21		Oh fuck. 
+22		Within the slits of his helmet, you see the faint shimmer of a bony face. 
+23		"Your... name." 
+24		"Soldier." 
+25		His voice echoes out into the open chamber. 
+26		Pure dread. 
+27		This is a great warrior. Treat him with respect. 
+28		"What is wrong with you?" 
+29		"I am Ragn." 
+30		"Arcane Cleric. At your service, my lord." 
+31		"I'm not a soldier." 
+32		He does not respond to your inquiry. 
+33		You hear the knight clenching his iron gauntlet. 
+34		"No. You are." 
+35		What, does he want to fight? 
+36		The knight's head slumps once again. 
+37		"Speak your mind, soldier." 
+38		The iron tin can knight man dude does not acknowledge your presence. 
+39		He's ready for more of your questions. 
+40		"Who are you?" 
+41		"Why are you loitering here, knight?" 
+42		"Whom do you serve?" 
+43		"What do you know about the tea shop?" 
+44		"What's up with the mess?" (Point at the ballot boxes.) 
+45		E-"Citizen." 
+46		He is silent for a while. 
+47		You feel a light breeze pass through your armor. 
+48		A draft? Perhaps there's a secret door here somewhere. 
+49		No wait, it's probably from the tea door hatch. 
+50		"The Duck." 
+51		"Excuse me?" 
+52		"I am The Duck." 
+53		That's wild. 
+54		A man's name is not up to debate. 
+55		Quack. 
+56		Horrifying. 
+57		(Nod.) "You should be proud of your name." 
+58		"That doesn't suit you at all." 
+59		"Quack!" (Laugh.) 
+60		The knight does not respond. 
+61		This name of his is a codename, surely. 
+62		He does not wish to share more. 
+63		"No." 
+64		"I see. I'm looking for Lord Gorm. Have you seen him?" 
+65		"Are you lying to me?" 
+66		"Damn. Was hoping you would be." 
+67		A truth. 
+68		The knight doesn't move. 
+69		"<b>No.</b>" 
+70		"That's what a liar would say." 
+71		"Okay. Good. I believe you." 
+72		"Cease this inquiry." 
+73		You're annoying him. 
+74		Yeah. Keep at it, maybe he'll kick your ass. 
+75		You're walking into a dangerous situation. 
+76		Actually, you're already in it. So... stop. 
+77		"Sorry." 
+78		"This is my job. I'm just doing my job." 
+79		"Let me ask something else." 
+80		IT IS WHAT MY CHARACTER WOULD DO. 
+81		His helmed head turns, facing yours. 
+82		"Sorry." (Speak in a high-pitched tone.) 
+83		"I have some other questions." (Speak in a slightly less high-pitched tone.) 
+84		For whatever reason, he does not appear hostile to you. Even when there's clearly deadly intent in his soul. 
+85		Has this guy been, like, told not to hurt you? Why else would he not give you a love tap at this point? 
+86		Love tap? Disgusting language. 
+87		It's called a manly wrestle! Or a fisting! 
+88		Don't call it that. Please. 
+89		"Crypts." 
+90		He doesn't seem too mad about you taking the key. Strange. 
+91		"I have the key." 
+92		"You are too weak for that." 
+93		Who's he to judge you? 
+94		The man is correct. You need to get back to your strength first. 
+95		The City Below is dangerous. You should make sure to prepare properly before heading down there. 
+96		Perhaps bring more spells. Perhaps make sure to recuperate enough for you to once again be able to cast higher tier spells. 
+97		It is embarrassing you have not already returned to your former state of esoteric mastery. 
+98		He does not respond for a while. 
+99		Then he simply throws you the key. 
+100		He recognizes your strength. 
+101		Why? He's clearly stronger than you. He could have just said no. 
+102		"The City Below... it is darkness incarnate." 
+103		"Do not tread without care." 
+104		You never do. 
+105		A warning from someone with ages upon him. 
+106		Heed the call, from BEYOND the grave. 
+107		The knight sits completely still and does not answer your question. 
+108		"Come on. I won't tell anyone." 
+109		"I think you're amazing, my good knight." 
+110		"Got it." (Get it.) 
+111		This creature holds no grudges, yet his hollow disposition taunts your senses. 
+112		You feel invalid next to this man. You must learn from his ways. 
+113	ROLL10 str-	Attempt to have a firm discussion about masculinity. 
+114		BorgoAnnoyed-You've_annoyed_him. 
+115		(Drop it.) 
+116		The knight sits still. 
+117		Is he even breathing? 
+118		No breath. Only death. 
+119		He just sits there, ready for a good talk. 
+120		You catch something. A glimpse of light within the darkness of his helmet. 
+121		Divinity. There's light within this man. 
+122		(Stare at him.) 
+123		The knight shifts slightly, his armor scraping against the rock. 
+124		(Breathe heavily.) 
+125		The knight turns to look at you through his helmet. 
+126		A little more. 
+127		(Wait a bit longer.) 
+128		"Soldier. Your presence is unwanted." 
+129		"Present your query, then leave these hallowed grounds." 
+130		He'll answer your questions now. Somehow. 
+131		"Are you a cleric?" 
+132		"Do you know magic?" 
+133		"Can you teach me magic?" 
+134		M-"How does one become a true warrior?" 
+135		"No," he says. "I am a warrior." 
+136		"Yes." 
+137		"No, I-" 
+138		He mutters to himself. 
+139		Oh? 
+140		"I do not have time for that." 
+141		The knight slowly grabs a scroll out of his pack. 
+142		He tosses it to you after a moment of deliberation. 
+143		"A spell with power." 
+144		"Memorize it, soldier." 
+145		"Already did." (Close the spell scroll.) 
+146		He lifts his head. The darkness through his helmet focuses on you. 
+147		"No, soldier. <b>Memorize</b> it." 
+148		"I told you, I already did." (Point at your temple.) "I'm quick." 
+149		"You..." 
+150		"The Cleric here is a bit of a monster when it comes to magic, from what I understand." 
+151		The dark knight nods, and then lowers his head. 
+152		You've earned his respect. Good. 
+153		Your ability to memorize spells instantly is an incredible talent. He should be impressed. 
+154		"A warrior." 
+155		The knight places an iron gauntlet upon his knee and leans forward. 
+156		A whispering wheeze escapes the slits in his helmet. 
+157		"<b>SERVE</b>." 
+158		"<b>Until the Coast falls in on itself. Until JOR breaks the veil and every god rips and tears our reality into shreds.</b>" 
+159		"Serve well. Serve loyally." 
+160		"That is what a true warrior does. No matter what." 
+161		The wheezing stops. 
+162		Your companion gives you a horrified glance. 
+163		"What if you serve someone evil?" 
+164		"Yes. I will serve. No matter what." 
+165		"Right. Thanks." 
+166		He shakes his head, slowly. 
+167		"Place not the choice of morality into the hand of the one who swings the axe." 
+168		"Truth of alignment lies entirely with your god, soldier." 
+169		"Do not forget that." 
+170		"Good." 
+171		He nods, slowly. "Good." 
+172		He nods, slowly. 
+173		He lifts his hand and clenches it. 
+174		Now, quick! Ask him while he's got his guard down! 
+175		Oh. An opening! Go for it. 
+176		"Wait, who do you serve again?" 
+177		"Visken." 
+178		He moves his head towards you. 
+179		"No. That is not." 
+180		"Visken? The mortician?" 
+181		With a sudden force, the dark knight slams his axe into the ground. 
+182		Darkness creeps through the hall. 
+183		Within <shake>you</shake>. 
+184		"Do not speak of that, soldier." 
+185		"I won't tell anyone." 
+186		"Why? Is it a secret?" 
+187		(Just nod.) 
+188		He returns to his still position. 
+189		"<b>Do not.</b>" 
+190		The knight is now waiting for another question. Lucky you, he didn't kill you! 
+191		You feel anger rising. 
+192		Aggression. 
+193		Yes, that is the only way to ever live up to this ideal of a man in front of you. 
+194		Your goblin companion takes a step back as he notices your shaking fists. 
+195		"Man, the architecture in this temple is amazing." 
+196		"I'll... be over here if you need me." 
+197		(Step towards the dark knight.) "D-DO YOU KNOW WHO I AM?" 
+198		"I... I..." (Try to contain yourself, as well as your bulging masculine power.) 
+199		He does not answer you. 
+200		He does not even look at you. 
+201		"My... MY NAME... WILL GO DOWN... THROUGH THE ANALS OF HISTORY...!" (Stand straight.) 
+202		The w-what?! 
+203		That's right! 
+204		The goblin, who now stands a number of steps behind you, lets out a shocked laugh. 
+205		"The WHAT?" he exclaims, almost keeling over. 
+206		The knight lifts his head, facing you. 
+207		Chills. 
+208		"Uh..." 
+209		"Annals." 
+210		"It is <i>annals</i>, soldier." 
+211		"Ah. Right, thanks. What did I say?" 
+212		"No it's not." 
+213		You hear a deep, groaning appear from the dark armor, like a wind blowing over an ancient haunted house. 
+214		"Right. Uh..." 
+215		There is no choice now. It is time. 
+216		Or... 
+217		You could talk with him and <i>learn</i> without the use of mindless violence. 
+218		You must <b>show</b> what you're made of - through overwhelming masculine force. 
+219		As your eyes land upon the dark knight, you feel an overwhelming need to surrender. 
+220		I must fight him. (Begin encounter.) 
+221		I must destroy him. (Begin encounter.) 
+222		I must kill him. (Begin encounter.) 
+223	FC8 str-	Fuck this. (Surrender.) 
+224	DC18 wis-	I must... talk things out. (Be boring.) 
+225		You go down on one knee. 
+226		This is where you belong. Below stronger men. 
+227		"I formally surrender my body and soul to you, oh great masculine man." 
+228		The knight does not respond at first. 
+229		But as you remain on your knee in silence for a while, eventually he says a word to you. 
+230		"<b>Cease</b>." 
+231		"As you command, my lord." 
+232		He does not respond. Instead, he simply goes quiet once more. 
+233		This is... for the best. 
+234		This is... embarrassing. 
+235		"I am not." 
+236		The cold voice echoes throughout the chamber. 
+237		"I disagree." 
+238		"What are you doing then?" 
+239		"I am on my <b>off-hours</b>." 
+240		He speaks as though he's reading from a script. 
+241		"Just sitting here? In the temple?" 
+242		"You... like it here?" 
+243		(Squint and glare at him.) "You Urthfolk?" 
+244		"I don't like you hanging around here." 
+245		"This is a holy place. Leave." 
+246		"Just don't cause any trouble." 
+247		"I, too, would like to hang on the steps of the temple." 
+248		His helmet turns slightly. 
+249		Scary. 
+250		"But I don't have time. I'm busy." 
+251		"But I won't force you to hang out with me." 
+252		"Can I hang out with you? Please?" 
+253		His helmet turns away. 
+254		Some metallic creaking is all you hear from the knight. 
+255		Your manhood is infinitely tiny in comparison. 
+256		Serve this man. 
+257		"I serve..." he says, trailing off. 
+258		For a split second you could swear... <i>a spark</i> appearing within the armor. 
+259		Radiant. 
+260		"Yes?" 
+261		Once again he turns to look at you, the darkness within his helmet seeming to reach out towards you. 
+262		As if grabbing hold of the very air, you feel everything growing cold. 
+263		As if grabbing hold of the very air, you feel everything growing cold. His dark soul is reaching out. 
+264		This creature before you is neither human nor alive. 
+265		"I serve nothing." 
+266		A lie and a truth, at once. 
+267		"Not much." 
+268		He'll talk? Why? Not like you can threaten him exactly. 
+269		"Where were you at noon on the 21st?" 
+270		"Did you see anything suspicious before the explosion?" 
+271		"Now... some other... questions." 
+272		"Below." 
+273		"Okay. Below. Can you elaborate?" 
+274		"I need more than that, my good knight." 
+275		"The walls shook in the crypts. I was on patrol." 
+276		"I was not in position to perceive any misdoings." 
+277		There are thousands of tombs and crypts scattered below this ancient metropolis. 
+278		The City Below is endless and most of it stands unexplored to this day. 
+279		"Okay. Sure. Why were you in the crypts?" 
+280		"Wait. What are you patrolling for?" 
+281		He is silent and still for a moment. 
+282		"I have my purpose." 
+283		"As do you, soldier. Do not pry too deep." 
+284		"Are you threatening me?" 
+285		"Noted." 
+286		He places an iron hand on his knee, waiting for the next question. 
+287		That is a firm, yet gentle reminder that he could crush you in an instant. 
+288		Well then. 
+289		"You sure?" 
+290		"Got it." 
+291		The knight nods, slowly. 
+292		He goes silent for a while. 
+293		"A man passed through the halls below." 
+294		"Civilians do not pass there." 
+295		"Past the crypt entrance. Through the Goblin's domain. Into the Southern Caverns." 
+296		That's the flip caverns, where gravity is reversed. Below the city ruins. 
+297		"A man?" 
+298		"What's past the crypts?" 
+299		"How do I get to the City Below?" 
+300		"So basically, dive deep like some spelunker?" 
+301		"This is great. Thank you, my good knight." 
+302		"Dark hair. Silk clothes. Headwear." 
+303		"Dressed in yellow." 
+304		Sounds like a Reedsian nobility-merchant type. 
+305		"The Roots of the Goblin's Tree." 
+306		"Then more tunnels. The southern tunnels." 
+307		"Then the sewers." 
+308		"How do I get there?" 
+309		"There are paths. Most are trapped." 
+310		"Once you get there, the Alligator might know more. His grounds are near." 
+311		You've heard rumors of monsters in the sewers under Waterlane... 
+312		Yeah. Don't look for an alligator under the city. Sounds stupid. 
+313		"His rage is endless. His appetite growing." 
+314		"You have delved deep." 
+315		"Do not anger him." 
+316		He won't speak more about this horrific creature. 
+317		The knight looks down, waiting for your next question. 
+318		He pauses, as if thinking about your question. "The goblins." 
+319		"Use their passage. Below Visken's Lair." 
+320		Right. The staircase by the apples. Where you woke up. 
+321		There are many ways down. But the passage in the chamber where you woke up... that would be a good place. 
+322		"That is the safest path." 
+323		Might be some neat treasure down there... 
+324		He is quiet. 
+325		Has he been ordered to answer your questions? This feels forced. 
+326		He likes you. 
+327		The dark knight sits still on the steps. 
+328		Without lifting his head, the knight answers in a cold tone. 
+329		"Election." 
+330		"Ah. So this is where it's being held." 
+331		"What are you voting for, my good knight?" 
+332		"Other... questions?" 
+333		No reply. 
+334		"I'll be voting Nationalist." 
+335		"I'm voting for the Freestriders." 
+336		"I'm going to vote for Azgalism." 
+337	DC11 int-	"Everyone should vote for me, ideally." 
+338	DC17 con-	(Just be Agrarian. Don't even say anything. It's not like they have any chance of winning anyway.) 
+339		"I'm actually apolitical. Isn't that interesting?" 
+340		"I hate elections." 
+341		The knight doesn't even move. 
+342		He does not care for your political opinions. How manly. 
+343		It stirs. His silence tells you nothing of life. 
+344		Nor the human-ish experience. 
+345		In a swift move, the dark knight wraps your wrist in a cold embrace. 
+346		You hear a cracking sound as he squeezes hard around it. 
+347		"Ah! Ah! I'm sorry!" 
+348		"Release me, good knight!" 
+349		Say nothing. Just take it. 
+350		He lets go of your wrist. 
+351		Saying nothing, he just turns back to looking into nothing. 
+352		E-Ouch. 
+353		You take a step towards your target. 
+354		The knight does not appear to react. 
+355		"What are you doing?" 
+356		"I hope you're well aware that I am not going to-" 
+357		IGNORE THE GOBLIN. 
+358		THIS IS WAR. 
+359	IROLL-	Roll initiative. 
+360		The knight moves slightly, sending an echo of metal through the chamber. 
+361		This is an amazingly terrible idea. 
+362		Silence, coward! 
+363		Well, you've managed to be quicker than this tin can. Not sure how it'll help, though. 
+364		Holy shit, this guy is fast. You're fucking dead! 
+365		He does not raise a hand towards you. 
+366		Yet you see the scurrying of shadows in the corner of your vision. 
+367		Your soul. It's laid bare. 
+368		Feeling an immense and unbearable pain start to take hold, your knees grow weak. 
+369		He's casting a spell! 
+370		(Grunt.) 
+371		(Grit your teeth.) 
+372		(Scream.) 
+373		Your body convulses as the shadows wrap themselves around your being. 
+374		A chunk of your being is ripped from the stem. 
+375		You don't see anything. 
+376		You only see the outline of a knight in front of you. 
+377		As the connection snaps. 
+378		The dark knight is sitting on the stairs in front of you, as if nothing happened. 
+379		Your breathing is unsteady. 
+380		Legs trembling. 
+381		How the hell are you still standing? 
+382		"I'm not... done yet." (Cough up blood.) 
+383		Can I give up now? (Also cough up blood.) 
+384		What the hell are you going to do? 
+385		The only thing you can. 
+386		<b>Fight</b>. 
+387	ROLL21 str-	Punch him in the face. 
+388	ROLL24 wis-	"Will you be my father? I mean, my master?" 
+389		You swing your fist and connect. 
+390		A hard surface greets your knuckles, a breaking seems to occur yet you feel no pain. 
+391		Yet. 
+392		The metallic crash of iron against hard stone echoes as the massive knight is pushed back, back and down. 
+393		Down onto the steps. 
+394		You take a breath, realizing you've held it for a number of seconds now. 
+395		The echo fades. 
+396		The knight slowly and deliberately rises back into seated position on the stairs. 
+397		Oh gods. 
+398		You swing your fist and hit hard plate armor. 
+399		A hard surface greets your knuckles, cracking them. 
+400		Immediately, the dark knight grabs your entire head and helm with a single fist. 
+401		"<b><shake>CEASE</shake></b>." 
+402		He tosses you aside. 
+403		(Scramble to get up.) 
+404		He sits down once again, as if nothing happened. 
+405		As the words leave your mouth, you feel the tingling sensation of the universe pulling your lips apart. 
+406		The air blown through your throat is hot, yet empty. 
+407		It sparkles. 
+408		What? Where am I? 
+409		You're standing in front of a dark knight, asking him to be your father. 
+410		Since you've lost so many. 
+411		Why would I do that? That's weird. 
+412		Do not worry. He will come back to you. 
+413		One of these days. 
+414		The knight has seated himself back upon the steps. 
+415		"Your god has your service." 
+416		"Keep that close. Do not falter." 
+417		"And do not say such foolish, <i>disgusting</i> things." 
+418		"...Okay." 
+419		The knight stops, and actually turns his helmed head to look at you. 
+420		"You heard me." (Bow down your head.) 
+421		"What is wrong with you, soldier?" 
+422		He sits down again, seemingly losing all aggression. 
+423		He turns to you. 
+424		The knight seems to accept this as the end of the encounter. 
+425		He sees you pose no threat at this state. 

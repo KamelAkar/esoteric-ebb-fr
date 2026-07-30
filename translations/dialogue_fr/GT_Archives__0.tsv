@@ -1,0 +1,102 @@
+idx	prefix	english
+0		"You gonna spend some time flipping through the archives?" 
+1		"Right <i>now</i>?" 
+2		He wants you to not spend time doing this right now. 
+3		He wants you to tell him if you're going to bed or not. 
+4		E-Maybe I'll come back later... 
+5		You look over a thick pile of documents, each adorned with the symbol of a fish. 
+6		Official city documents. Could contain useful information. 
+7		Do you see the size of this pile? It'd take hours to go through it all. 
+8		Top secret documents, archived by city clerics over many years. You have the right to look over it. 
+9		(Flip through and skim.) 
+10		E-(Leave the ledgers.) 
+11		The documents are not very organized. 
+12		However, as your eyes glance over titles, reports, and statements made over decades, you do find a few that catch your attention. 
+13		Sweeping your gaze over the pile, you immediately stop at a bill of sales. A sale by the city... to the 'Askanii-Reeds Trading Company.' 
+14		Sweeping your gaze over the pile, you very much realize how fast you'd have to be to get this done in a decent amount of time. 
+15		Looking for an official Palace seal, you find a note with the sentence, 'Sageleaf must be contained,' within. 
+16		Just lifting the ledgers one by one gives you a strong feeling of not wanting to do this right now. Go quest instead. 
+17		The older files. Focus on the oldest. That's where you'll find interesting perspectives. 
+18		So many accounts. So many perspectives... too much to bear. 
+19		Obviously just look for any mention of the tea shop. 
+20		There's just so much to take in. You have to start somewhere. 
+21		However, be careful. Each attempt to analyze a document will take time out of your day. 
+22		You approach the archive once again. 
+23		You could spend an inordinate amount of time sorting and investigating these documents. 
+24		It could be of value to spend time here. Or... it could not. 
+25		A conundrum. 
+26		I should look at the top documents. The ones simply called, 'AZGALS.' (Spend 90 minutes.) 
+27	DC10 dex-	I'll check the massively complicated bill of sales. (Spend 3 hours.) 
+28	DC10 str-	Maybe that document mentioning Sageleaf. That could be interesting. (Spend 1 hour.) 
+29	DC10 wis-	What about the old ledger? 'Undercoast Expansion Efforts'. (Spend 2 hours.) 
+30	DC10 int-	Oh. Let's check out that short report entitled, 'Tolstad Tea Shop Fire.' (Spend 30 minutes.) 
+31		E-I'm done here. 
+32		It's a large number of documents detailing members of the local Azgal Movement. 
+33		You spend an hour and a half looking through the quite creepy details into the lives of a handful of Azgal members. You read a few that appear relevant: 
+34		<i>Alfoz. Exile. Born in Vyz-Kha on the 12th of Chronus, 489 A.E. 49 years old. Fourth son in the second branch of house Bhan-Emvers. Foreman of the Workers' Party. Registered for citizenship in 489 AE.</i> 
+35		<i>Simii. Exile. Born in Norvik on the 27th of Soumil, 497 A.E. 41 years old. Member of the Masonry Guild since 2 PE.</i> 
+36		<i>Xerba. Exile. Born in Vyz-Kha on the 2nd of Gorgoni, 510 A.E. 28 years old. Seventh daughter in the third branch of house Bhan-Emvers. Registered for citizenship in 10 PE.</i> 
+37		<i>Modissa. Human. Born in Norvik in 9 PE. 18 years old. No known guild affiliations. There is a list of over a dozen offenses on her record, and she has been arrested several times between the ages of 12 and 18.</i> 
+38		Huh. 
+39		It's terrible that the archives contain such information on these people. 
+40		But having now read it, you do have more of an understanding of them all. Perhaps you can use it for good. 
+41		Absolutely. For your own good. 
+42		You wonder: who keeps these records? 
+43		Must be some freelance investigators, hired by the city. 
+44		Clerics do not perform dirty work like this. It has to be some filthy ROGUE. 
+45		Don't call yourself filthy. That shit's just rude. 
+46		A bit invasive. But this could be useful. (Return the documents.) 
+47		Quite. If you ever have the unfortunate fate to deal with Azgals again. 
+48		It must be fake. No Azgal would be so foolish as to be surveyed like this. 
+49		There's thousands of receipts and numbers. 
+50		You're not going to get through this in a decent amount of time. It'll take you hours. 
+51		You spend <i>three fucking hours</i> checking the numbers, both to understand them, and to see if there's anything useful. 
+52		Eventually you come to an understanding. 
+53		These are part of an old investigation into the Askanii-Reeds Trading Company. When they first established themselves, decades ago. 
+54		They're looking into crooks. Good. 
+55		And how the Urthguard were tasked in keeping them in check. Until... 
+56		Heh. Yeah. 
+57		A lot of these receipts are faked. You can tell by the terrible copy paste job they've done on some of the dates and specifications. 
+58		They're not even attempting to hide it. I smell bribes. 
+59		Probably to hide some dirty goods. Or to move dirty coins into taxable capital. 
+60		What's interesting is that the Urthguard clearly didn't have the resources to keep up. 
+61		The Urthguard on Tolstad... oh. 
+62		Wouldn't be surprising if the defunding of the Urthguard on Tolstad was directly connected to this one investigation. 
+63		Could be useful info. Maybe talk your way into the pockets of the Freestriders. 
+64		Just don't use it too overtly. Don't want those lovely capitalists on your bad side. 
+65		That's very good information. Even if it's a bit of a stretch. (Put the documents back.) 
+66		If the Freestriders are as corrupt as they seem, this could be exactly what you need to gain an advantage. 
+67		The Freestriders would never be this corrupt. They are but merchants. True capitalists. 
+68		Exactly! That's what you've been saying all along. 
+69		It's a letter. It doesn't make any sense, apart from mentioning something about Lady Miska Sageleaf. 
+70		You spend an hour looking over the cryptic note to figure it out. 
+71		It's written in official Palace-legalese. You don't understand much. 
+72		Except the fact that the letter appears to contain some kind of instructions for the local Urthguard to allow Sageleaf to take over control of many of the facilities on Tolstad. 
+73		It's dated for... about twenty years ago. 
+74		But it also clearly warns the Urthguard of not letting Sageleaf out of this area of confinement. Her people are not allowed to work in other parts of the city. 
+75		It's as if they gave her a part of Tolstad as a prison. 
+76		You're not sure how this will help. But it does feel like it could be helpful when dealing with the goblins in the future. 
+77		Not sure if I was supposed to know this information. But now I do. (Return the letter.) 
+78		The city is hiding something about this 'goblin chieftain'. That is for sure. 
+79		She is one of many esoteric beings hiding inside the city, most likely. 
+80		Keep an eye on her. 
+81		It's a thick tome-worth of accounts from explorers of the Undercoast. 
+82		You spend two hours looking through the rambling journals. 
+83		A journey through the gravity shift tunnels. A trek past the infamous Gnome-Liches-of-Perpetuity. 
+84		Surviving the depths of the Yelling Pits of Loudness. And the Fungal Valley right above it. 
+85		These are all real places. 
+86		Then it goes on for several chapters on the topic of traversing the Undercoast itself, along with visits to the various enclaves and remote isles and the Esoteric Events that often change the landscape that far seawards. 
+87		The knowledge held within might not help you directly. Especially by just taking a quick look through it. 
+88		But if you run into trouble below... some of these tips could save your life. 
+89		(Glance at the note sticking out at the end.) 
+90		The Undercoast sure is scary. (Return the tome.) 
+91		A short list is stuck to the last page. It contains a bunch of names you don't recognize. 
+92		It says, 'DRUIDISM MEETUPS. THEY MEET IN VARIOUS PARKS AND EAT SOME SORT OF SNACK. NOT INTERESTING, NOR DANGEROUS.' 
+93		It's a single page going over the official statement regarding the tea shop incident on the 21st of March. 
+94		You spend thirty minutes looking through the report. 
+95		There's some interesting details here. Mostly things you've heard before. 
+96		However, one detail that sticks out is that several people do mention a 'man in yellow' leaving the scene. 
+97		That most likely is not your culprit- however, if this person is avoiding authorities, then he could know something relevant. 
+98		It appears everyone saw your star witness, Mr. Moonwatch, as he escaped the explosion. 
+99		That has to be your culprit. 
+100		Interesting. (Return the paper.) 

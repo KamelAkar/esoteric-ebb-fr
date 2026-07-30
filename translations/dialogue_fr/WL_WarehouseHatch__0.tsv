@@ -1,0 +1,33 @@
+idx	prefix	english
+0		You approach the goods-hatch. 
+1		This is a very small goods-hatch. 
+2		This whole building appears to have been repurposed into a warehouse. Otherwise, making it this tiny would have been very silly. 
+3		So this is where they lower the goods. 
+4		"Don't think the Freestriders will be too happy with someone sneaking in through the roof." 
+5		The goblin squats down and grabs the rusty hang-lock. 
+6		"But damn. Look at this rusty thing. They really don't value security around here." 
+7		You approach the locked goods-hatch again. 
+8	ROLL12 str-	Smash the lock. 
+9	ROLL11 dex-	Pick the lock. 
+10		E-(Just leave.) 
+11		With just a bit of force, the lock shatters. 
+12		You try to grab the lock. You try to pull it off. You try to jerk it. 
+13		You try to wrangle it on the spot. Really getting a death grip around it. 
+14		But no matter what you do, it just won't come off. 
+15		It's quite frustrating. 
+16		With just a bit of finesse, the lock cracks open. 
+17		Quite literally. This rusty piece of shit won't ever close again. 
+18		You try your best, but it just doesn't quite pop open. 
+19		Which is super annoying. Like, you SHOULD be able to do this. 
+20		Which is mostly due to your fingers just not doing what they're supposed to. 
+21		Oh well. Try again later, or something. 
+22		You speak the words and make the hand-movements. Then... that loud sound echoes throughout the entirety of Waterlane. 
+23		And the rusty lock shatters. 
+24		"There we go." 
+25		"Great job." 
+26		(Open the hatch.) 
+27		As you peek inside, you see a rope attached to the wood, tumbling down - into the open space below. 
+28		"Sweet. Then we can actually climb back up. Didn't think of that." 
+29		"Let's see how well this rope holds up..." 
+30		"Meek will help master climb! Meek can hold rope with teeth. Very strong." 
+31		Cool. 

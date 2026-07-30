@@ -1,0 +1,427 @@
+idx	french
+0	Une conserve de fer sombre à forme d'homme est assise, seule, sur les marches du temple.
+1	Son visage dérobé au regard, une hache sanglée dans le dos.
+2	Hache épaisse. Lourde.
+3	Voilà un homme, un vrai. Un héros.
+4	Son armure est vide.
+5	Tout comme son coeur.
+6	« Citoyen. »
+7	« J'ai quelques questions, bon chevalier. »
+8	« Êtes-vous vivant ? »
+9	Sa tête casquée penche vers le sol, légèrement.
+10	Est-il... endormi ?
+11	Il n'est pas vraiment ici.
+12	Contente-toi de le fixer.
+13	« Ohé ? »
+14	« Tout va bien, citoyen ? »
+15	Aucune réponse.
+16	Attends.
+17	« Ohé-é ? »
+18	« Mon bon chevalier, dites quelque chose ! »
+19	Un raclement métallique t'emplit les oreilles.
+20	Le chevalier bouge, à peine. Sa tête se tourne.
+21	Oh, putain.
+22	Dans les fentes de son heaume, tu aperçois le faible miroitement d'un visage osseux.
+23	« Votre... nom. »
+24	« Soldat. »
+25	Sa voix résonne dans la chambre béante.
+26	L'effroi pur.
+27	C'est un grand guerrier. Traite-le avec respect.
+28	« Qu'est-ce qui ne va pas chez vous ? »
+29	« Je suis Ragn. »
+30	« Clerc arcanique. À votre service, mon seigneur. »
+31	« Je ne suis pas un soldat. »
+32	Il ne répond pas à ta requête.
+33	Tu entends le chevalier serrer son gantelet de fer.
+34	« Non. Vous l'êtes. »
+35	Quoi, il veut se battre ?
+36	La tête du chevalier retombe une fois de plus.
+37	« Dites ce que vous avez à dire, soldat. »
+38	Le type-conserve-de-fer-en-armure ne prend pas acte de ta présence.
+39	Il est prêt à en entendre davantage, tes questions.
+40	« Qui êtes-vous ? »
+41	« Pourquoi traînez-vous ici, chevalier ? »
+42	« Qui servez-vous ? »
+43	« Que savez-vous du salon de thé ? »
+44	« C'est quoi, ce bazar ? » (Désigner les urnes.)
+45	E-« Citoyen. »
+46	Il reste silencieux un moment.
+47	Tu sens une brise légère traverser ton armure.
+48	Un courant d'air ? Il y a peut-être une porte secrète quelque part par ici.
+49	Non, attends, ça vient sûrement de la trappe à thé.
+50	« Le Canard. »
+51	« Pardon ? »
+52	« Je suis Le Canard. »
+53	C'est dingue.
+54	Le nom d'un homme ne se discute pas.
+55	Coin.
+56	Épouvantable.
+57	(Hocher la tête.) « Vous devriez être fier de votre nom. »
+58	« Cela ne vous va pas du tout. »
+59	« Coin ! » (Rire.)
+60	Le chevalier ne répond pas.
+61	Ce nom qu'il porte est un nom de code, à coup sûr.
+62	Il ne souhaite pas en dire davantage.
+63	« Non. »
+64	« Je vois. Je cherche le seigneur Gorm. L'avez-vous vu ? »
+65	« Me mentez-vous ? »
+66	« Zut. J'espérais que vous le seriez. »
+67	Une vérité.
+68	Le chevalier ne bouge pas.
+69	« <b>Non.</b> »
+70	« C'est ce que dirait un menteur. »
+71	« Bien. Parfait. Je vous crois. »
+72	« Cessez cet interrogatoire. »
+73	Tu l'agaces.
+74	Ouais. Continue, peut-être qu'il te bottera le train.
+75	Tu t'avances dans une situation dangereuse.
+76	En fait, tu y es déjà. Alors... arrête.
+77	« Désolé. »
+78	« C'est mon travail. Je ne fais que mon travail. »
+79	« Laissez-moi vous demander autre chose. »
+80	C'EST CE QUE MON PERSONNAGE FERAIT.
+81	Sa tête casquée se tourne, face à la tienne.
+82	« Désolé. » (Parler d'une voix haut perchée.)
+83	« J'ai quelques autres questions. » (Parler d'une voix un peu moins haut perchée.)
+84	Pour quelque raison que ce soit, il ne semble pas t'être hostile. Même lorsqu'il y a clairement une intention meurtrière dans son âme.
+85	Est-ce qu'on lui aurait, genre, ordonné de ne pas te faire de mal ? Sinon, pourquoi ne t'aurait-il pas donné une petite tape affectueuse à ce stade ?
+86	Une petite tape affectueuse ? Quel langage dégoûtant.
+87	Ça s'appelle un corps-à-corps viril ! Ou un fisting !
+88	N'appelle pas ça comme ça. Je t'en prie.
+89	« Les cryptes. »
+90	Il n'a pas l'air trop fâché que tu prennes la clé. Étrange.
+91	« J'ai la clé. »
+92	« Vous êtes trop faible pour cela. »
+93	De quel droit te jugerait-il ?
+94	L'homme a raison. Tu dois d'abord retrouver ta pleine force.
+95	La Cité d'En Bas est dangereuse. Tu devrais veiller à te préparer convenablement avant d'y descendre.
+96	Peut-être emporter davantage de sorts. Peut-être t'assurer de récupérer assez pour être de nouveau capable de lancer des sorts de rang supérieur.
+97	Il est gênant que tu n'aies pas déjà retrouvé ton ancien état de maîtrise ésotérique.
+98	Il ne répond pas pendant un moment.
+99	Puis il te lance simplement la clé.
+100	Il reconnaît ta force.
+101	Pourquoi ? Il est clairement plus fort que toi. Il aurait pu se contenter de refuser.
+102	« La Cité d'En Bas... elle est les ténèbres incarnées. »
+103	« N'y avancez pas sans prudence. »
+104	Toi, jamais.
+105	Un avertissement de la part de quelqu'un que les âges accablent.
+106	Écoute l'appel, d'AU-DELÀ de la tombe.
+107	Le chevalier reste parfaitement immobile et ne répond pas à ta question.
+108	« Allez. Je ne le dirai à personne. »
+109	« Je vous trouve extraordinaire, mon bon chevalier. »
+110	« Compris. » (La prendre.)
+111	Cette créature ne nourrit aucune rancune, et pourtant son maintien creux nargue tes sens.
+112	Tu te sens illégitime auprès de cet homme. Tu dois apprendre de sa voie.
+113	Tenter d'avoir une franche discussion sur la masculinité.
+114	BorgoAnnoyed-Vous l'avez agacé.
+115	(Laisser tomber.)
+116	Le chevalier reste immobile.
+117	Respire-t-il seulement ?
+118	Pas de souffle. Rien que la mort.
+119	Il reste là, assis, prêt pour une bonne conversation.
+120	Tu perçois quelque chose. Une lueur fugace dans l'obscurité de son heaume.
+121	La divinité. Il y a de la lumière en cet homme.
+122	(Le fixer.)
+123	Le chevalier se déplace légèrement, son armure raclant contre la roche.
+124	(Respirer lourdement.)
+125	Le chevalier se tourne pour te regarder à travers son heaume.
+126	Encore un peu.
+127	(Attendre encore un moment.)
+128	« Soldat. Votre présence n'est pas désirée. »
+129	« Présentez votre requête, puis quittez ces lieux sacrés. »
+130	Il répondra à tes questions à présent. D'une manière ou d'une autre.
+131	« Êtes-vous un clerc ? »
+132	« Connaissez-vous la magie ? »
+133	« Pouvez-vous m'enseigner la magie ? »
+134	M-« Comment devient-on un véritable guerrier ? »
+135	« Non », dit-il. « Je suis un guerrier. »
+136	« Oui. »
+137	« Non, je... »
+138	Il marmonne pour lui-même.
+139	Oh ?
+140	« Je n'ai pas de temps pour cela. »
+141	Le chevalier tire lentement un parchemin de son sac.
+142	Il te le lance après un moment de délibération.
+143	« Un sort doté de puissance. »
+144	« Mémorisez-le, soldat. »
+145	« C'est déjà fait. » (Refermer le parchemin de sort.)
+146	Il relève la tête. L'obscurité dans son heaume se fixe sur toi.
+147	« Non, soldat. <b>Mémorisez</b>-le. »
+148	« Je vous l'ai dit, c'est déjà fait. » (Se pointer la tempe.) « Je suis rapide. »
+149	« Vous... »
+150	« D'après ce que je comprends, le Clerc que voici est une sorte de monstre lorsqu'il est question de magie. »
+151	Le chevalier noir hoche la tête, puis baisse le front.
+152	Tu as gagné son respect. Bien.
+153	Ta faculté de mémoriser des sorts instantanément est un talent prodigieux. Il devrait être impressionné.
+154	« Un guerrier. »
+155	Le chevalier pose un gantelet de fer sur son genou et se penche en avant.
+156	Un râle chuchoté s'échappe des fentes de son heaume.
+157	« <b>SERVIR</b>. »
+158	« <b>Jusqu'à ce que la Côte s'effondre sur elle-même. Jusqu'à ce que JOR déchire le voile et que chaque dieu lacère et déchiquette notre réalité en lambeaux.</b> »
+159	« Servez bien. Servez loyalement. »
+160	« Voilà ce que fait un véritable guerrier. Quoi qu'il advienne. »
+161	Le râle cesse.
+162	Ton compagnon te jette un regard horrifié.
+163	« Et si vous serviez quelqu'un de mauvais ? »
+164	« Oui. Je servirai. Quoi qu'il advienne. »
+165	« Bien. Merci. »
+166	Il secoue la tête, lentement.
+167	« Ne placez point le choix de la morale dans la main de celui qui manie la hache. »
+168	« La vérité de l'alignement repose entièrement sur votre dieu, soldat. »
+169	« Ne l'oubliez pas. »
+170	« Bien. »
+171	Il hoche la tête, lentement. « Bien. »
+172	Il hoche la tête, lentement.
+173	Il lève la main et la serre en poing.
+174	Maintenant, vite ! Demande-lui pendant qu'il baisse sa garde !
+175	Oh. Une ouverture ! Fonce.
+176	« Attendez, qui servez-vous, déjà ? »
+177	« Visken. »
+178	Il tourne la tête vers toi.
+179	« Non. Ce n'est pas cela. »
+180	« Visken ? Le croque-mort ? »
+181	D'un élan soudain, le chevalier noir abat sa hache dans le sol.
+182	Les ténèbres rampent à travers la salle.
+183	En <shake>toi</shake>.
+184	« Ne parlez pas de cela, soldat. »
+185	« Je ne le dirai à personne. »
+186	« Pourquoi ? Est-ce un secret ? »
+187	(Se contenter de hocher la tête.)
+188	Il retrouve sa position immobile.
+189	« <b>N'insistez pas.</b> »
+190	Le chevalier attend maintenant une autre question. Tu as de la chance, il ne t'a pas tué !
+191	Tu sens la colère monter.
+192	L'agression.
+193	Oui, c'est le seul moyen d'être un jour à la hauteur de cet idéal d'homme devant toi.
+194	Ton compagnon gobelin recule d'un pas en remarquant tes poings tremblants.
+195	« Dis donc, l'architecture de ce temple est magnifique. »
+196	« Je... serai par là si tu as besoin de moi. »
+197	(S'avancer vers le chevalier noir.) « S-SAVEZ-VOUS QUI JE SUIS ? »
+198	« Je... Je... » (Tenter de te contenir, ainsi que ta puissance virile débordante.)
+199	Il ne te répond pas.
+200	Il ne te regarde même pas.
+201	« Mon... MON NOM... PASSERA... À TRAVERS LES ANALES DE L'HISTOIRE... ! » (Se redresser.)
+202	Le q-quoi ?!
+203	C'est ça !
+204	Le gobelin, qui se tient désormais à plusieurs pas derrière toi, laisse échapper un rire stupéfait.
+205	« Les QUOI ? » s'exclame-t-il, manquant de s'écrouler.
+206	Le chevalier relève la tête, face à toi.
+207	Des frissons.
+208	« Euh... »
+209	« Annales. »
+210	« C'est <i>annales</i>, soldat. »
+211	« Ah. Oui, merci. Qu'ai-je dit ? »
+212	« Non, ce n'est pas ça. »
+213	Tu entends un grondement profond monter de l'armure sombre, tel un vent soufflant sur une antique demeure hantée.
+214	« Oui. Euh... »
+215	Il n'y a plus de choix désormais. L'heure est venue.
+216	Ou bien...
+217	Tu pourrais discuter avec lui et <i>apprendre</i> sans recourir à la violence gratuite.
+218	Tu dois <b>montrer</b> de quoi tu es fait - par une force virile écrasante.
+219	Alors que ton regard se pose sur le chevalier noir, tu ressens un besoin irrépressible de te rendre.
+220	Je dois le combattre. (Engager l'affrontement.)
+221	Je dois le détruire. (Engager l'affrontement.)
+222	Je dois le tuer. (Engager l'affrontement.)
+223	Rien à foutre de tout ça. (Se rendre.)
+224	Je dois... régler ça par la parole. (Être barbant.)
+225	Tu poses un genou à terre.
+226	Voilà ta place. Sous les hommes plus forts que toi.
+227	« Je vous livre formellement mon corps et mon âme, ô grand homme viril. »
+228	Le chevalier ne répond pas d'abord.
+229	Mais tandis que tu demeures agenouillé en silence un moment, il finit par te dire un mot.
+230	« <b>Cessez</b>. »
+231	« Comme vous l'ordonnez, mon seigneur. »
+232	Il ne répond pas. Au lieu de cela, il retombe simplement dans le silence.
+233	C'est... pour le mieux.
+234	C'est... gênant.
+235	« Je ne le suis pas. »
+236	La voix glaciale résonne dans toute la chambre.
+237	« Je ne suis pas d'accord. »
+238	« Que faites-vous, alors ? »
+239	« Je suis en <b>temps libre</b>. »
+240	Il parle comme s'il lisait un texte appris.
+241	« Assis là, comme ça ? Dans le temple ? »
+242	« Vous... vous plaisez ici ? »
+243	(Plisser les yeux et le foudroyer du regard.) « Vous êtes du peuple d'Urth ? »
+244	« Je n'aime pas vous voir traîner ici. »
+245	« C'est un lieu saint. Partez. »
+246	« Ne causez simplement pas d'ennuis. »
+247	« Moi aussi, j'aimerais traîner sur les marches du temple. »
+248	Son heaume se tourne légèrement.
+249	Effrayant.
+250	« Mais je n'ai pas le temps. Je suis occupé. »
+251	« Mais je ne vous forcerai pas à traîner avec moi. »
+252	« Puis-je traîner avec vous ? S'il vous plaît ? »
+253	Son heaume se détourne.
+254	Un grincement métallique, c'est tout ce que tu entends du chevalier.
+255	Ta virilité est infiniment minuscule en comparaison.
+256	Sers cet homme.
+257	« Je sers... », dit-il, laissant sa phrase en suspens.
+258	L'espace d'une fraction de seconde, tu jurerais... <i>une étincelle</i> apparaissant dans l'armure.
+259	Radieux.
+260	« Oui ? »
+261	Une fois encore, il se tourne pour te regarder, l'obscurité dans son heaume semblant tendre vers toi.
+262	Comme s'il saisissait l'air lui-même, tu sens tout se refroidir.
+263	Comme s'il saisissait l'air lui-même, tu sens tout se refroidir. Son âme sombre se tend vers toi.
+264	La créature devant toi n'est ni humaine ni vivante.
+265	« Je ne sers rien. »
+266	Un mensonge et une vérité, à la fois.
+267	« Pas grand-chose. »
+268	Il va parler ? Pourquoi ? Ce n'est pas comme si tu pouvais vraiment le menacer.
+269	« Où étiez-vous à midi le 21 ? »
+270	« Avez-vous vu quoi que ce soit de suspect avant l'explosion ? »
+271	« Maintenant... quelques autres... questions. »
+272	« En bas. »
+273	« Bien. En bas. Pouvez-vous préciser ? »
+274	« Il me faut davantage que cela, mon bon chevalier. »
+275	« Les murs ont tremblé dans les cryptes. J'étais en patrouille. »
+276	« Je n'étais pas en position de percevoir quelque méfait. »
+277	Il y a des milliers de tombeaux et de cryptes dispersés sous cette antique métropole.
+278	La Cité d'En Bas est sans fin et la plus grande partie demeure inexplorée à ce jour.
+279	« Bon. D'accord. Pourquoi étiez-vous dans les cryptes ? »
+280	« Attendez. Que patrouillez-vous, au juste ? »
+281	Il reste silencieux et immobile un instant.
+282	« J'ai mon dessein. »
+283	« Tout comme vous, soldat. Ne fouillez pas trop profond. »
+284	« Est-ce une menace ? »
+285	« Noté. »
+286	Il pose une main de fer sur son genou, attendant la prochaine question.
+287	C'est un rappel ferme, quoique doux, qu'il pourrait t'écraser en un instant.
+288	Fort bien.
+289	« Vous êtes sûr ? »
+290	« Compris. »
+291	Le chevalier hoche la tête, lentement.
+292	Il se tait un moment.
+293	« Un homme est passé par les salles d'en bas. »
+294	« Les civils n'y passent pas. »
+295	« Au-delà de l'entrée de la crypte. À travers le domaine du Gobelin. Jusqu'aux Cavernes du Sud. »
+296	Ce sont les cavernes inversées, où la gravité est renversée. Sous les ruines de la cité.
+297	« Un homme ? »
+298	« Qu'y a-t-il au-delà des cryptes ? »
+299	« Comment puis-je atteindre la Cité d'En Bas ? »
+300	« Donc en gros, je plonge en profondeur comme un spéléologue ? »
+301	« C'est parfait. Merci, mon bon chevalier. »
+302	« Cheveux sombres. Vêtements de soie. Couvre-chef. »
+303	« Vêtu de jaune. »
+304	Ça sonne comme un noble-marchand du genre reedsien.
+305	« Les Racines de l'Arbre du Gobelin. »
+306	« Puis d'autres tunnels. Les tunnels du sud. »
+307	« Puis les égouts. »
+308	« Comment m'y rendre ? »
+309	« Il existe des chemins. La plupart sont piégés. »
+310	« Une fois là-bas, l'Alligator en saura peut-être davantage. Son territoire est proche. »
+311	Tu as entendu des rumeurs de monstres dans les égouts sous Waterlane...
+312	Ouais. Ne va pas chercher un alligator sous la cité. Ça a l'air débile.
+313	« Sa rage est sans fin. Son appétit ne cesse de croître. »
+314	« Vous êtes descendu profond. »
+315	« Ne le mettez pas en colère. »
+316	Il n'en dira pas davantage sur cette horrible créature.
+317	Le chevalier baisse les yeux, attendant ta prochaine question.
+318	Il marque une pause, comme s'il réfléchissait à ta question. « Les gobelins. »
+319	« Empruntez leur passage. Sous l'Antre de Visken. »
+320	C'est ça. L'escalier près des pommes. Là où tu t'es réveillé.
+321	Il y a bien des voies pour descendre. Mais le passage dans la chambre où tu t'es réveillé... voilà qui ferait un bon point de départ.
+322	« C'est le chemin le plus sûr. »
+323	Il y a peut-être un joli trésor là-dessous...
+324	Il se tait.
+325	Lui a-t-on ordonné de répondre à tes questions ? Ça sonne forcé.
+326	Il t'apprécie.
+327	Le chevalier noir se tient immobile sur les marches.
+328	Sans lever la tête, le chevalier répond d'un ton glacial.
+329	« L'élection. »
+330	« Ah. C'est donc ici qu'elle se tient. »
+331	« Pour quoi votez-vous, mon bon chevalier ? »
+332	« D'autres... questions ? »
+333	Aucune réponse.
+334	« Je voterai Nationaliste. »
+335	« Je vote pour les Freestriders. »
+336	« Je vais voter pour l'Azgalisme. »
+337	« Idéalement, tout le monde devrait voter pour moi. »
+338	(Se contenter d'être Agrarien. Ne rien dire du tout. Ce n'est pas comme s'ils avaient la moindre chance de gagner de toute façon.)
+339	« Je suis en fait apolitique. N'est-ce pas intéressant ? »
+340	« Je déteste les élections. »
+341	Le chevalier ne bouge même pas.
+342	Il se moque de tes opinions politiques. Quelle virilité.
+343	Cela s'anime. Son silence ne te dit rien de la vie.
+344	Ni de l'expérience quasi-humaine.
+345	D'un geste vif, le chevalier noir enserre ton poignet d'une étreinte glaciale.
+346	Tu entends un craquement tandis qu'il le serre violemment.
+347	« Ah ! Ah ! Je suis désolé ! »
+348	« Lâchez-moi, bon chevalier ! »
+349	Ne dis rien. Encaisse, c'est tout.
+350	Il lâche ton poignet.
+351	Sans un mot, il se retourne simplement pour contempler le néant.
+352	E-Aïe.
+353	Tu fais un pas vers ta cible.
+354	Le chevalier ne semble pas réagir.
+355	« Qu'est-ce que tu fais ? »
+356	« J'espère que tu es bien conscient que je ne vais pas... »
+357	IGNORE LE GOBELIN.
+358	C'EST LA GUERRE.
+359	Lancer l'initiative.
+360	Le chevalier bouge légèrement, envoyant un écho de métal à travers la chambre.
+361	C'est une idée prodigieusement épouvantable.
+362	Silence, lâche !
+363	Eh bien, tu es parvenu à être plus rapide que cette conserve. Reste à savoir en quoi ça t'aidera.
+364	Bon sang, ce type est rapide. Tu es foutu, putain !
+365	Il ne lève pas la main vers toi.
+366	Pourtant tu perçois le fourmillement d'ombres au coin de ta vision.
+367	Ton âme. Elle est mise à nu.
+368	Sentant une douleur immense et insoutenable s'installer, tes genoux se dérobent.
+369	Il lance un sort !
+370	(Grogner.)
+371	(Serrer les dents.)
+372	(Hurler.)
+373	Ton corps se convulse tandis que les ombres s'enroulent autour de ton être.
+374	Un morceau de ton être est arraché à la tige.
+375	Tu ne vois rien.
+376	Tu ne vois que la silhouette d'un chevalier devant toi.
+377	Tandis que la connexion se rompt.
+378	Le chevalier noir est assis sur les marches devant toi, comme si de rien n'était.
+379	Ta respiration est instable.
+380	Les jambes tremblantes.
+381	Comment diable tiens-tu encore debout ?
+382	« Je n'ai pas... encore fini. » (Cracher du sang.)
+383	Puis-je abandonner maintenant ? (Et aussi cracher du sang.)
+384	Que diable vas-tu faire ?
+385	La seule chose que tu puisses faire.
+386	<b>Te battre</b>.
+387	Le frapper au visage.
+388	« Voulez-vous être mon père ? Enfin, mon maître ? »
+389	Tu balances ton poing et l'atteins.
+390	Une surface dure accueille tes phalanges, un craquement semble se produire mais tu ne ressens aucune douleur.
+391	Pas encore.
+392	Le fracas métallique du fer contre la pierre dure résonne tandis que le chevalier massif est repoussé, repoussé et renversé.
+393	Renversé sur les marches.
+394	Tu prends une inspiration, réalisant que tu la retenais depuis plusieurs secondes déjà.
+395	L'écho s'estompe.
+396	Le chevalier se relève lentement et délibérément pour reprendre sa position assise sur les marches.
+397	Oh, par les dieux.
+398	Tu balances ton poing et frappes une lourde armure de plates.
+399	Une surface dure accueille tes phalanges, les brisant.
+400	Aussitôt, le chevalier noir empoigne ta tête et ton heaume tout entiers d'un seul poing.
+401	« <b><shake>CESSEZ</shake></b>. »
+402	Il te rejette de côté.
+403	(Se démener pour se relever.)
+404	Il se rassied, comme si de rien n'était.
+405	Tandis que les mots quittent ta bouche, tu sens le picotement de l'univers écartant tes lèvres.
+406	L'air soufflé par ta gorge est brûlant, et pourtant vide.
+407	Il scintille.
+408	Quoi ? Où suis-je ?
+409	Tu te tiens devant un chevalier noir, lui demandant d'être ton père.
+410	Puisque tu en as perdu tant.
+411	Pourquoi ferais-je ça ? C'est bizarre.
+412	Ne t'inquiète pas. Il te reviendra.
+413	Un de ces jours.
+414	Le chevalier s'est rassis sur les marches.
+415	« Votre dieu a votre service. »
+416	« Gardez cela près de vous. Ne faiblissez pas. »
+417	« Et ne dites pas de telles choses insensées et <i>répugnantes</i>. »
+418	« ...D'accord. »
+419	Le chevalier s'arrête, et tourne vraiment sa tête casquée pour te regarder.
+420	« Vous m'avez entendu. » (Baisser la tête.)
+421	« Qu'est-ce qui ne va pas chez vous, soldat ? »
+422	Il se rassied, semblant perdre toute agressivité.
+423	Il se tourne vers toi.
+424	Le chevalier semble accepter ceci comme la fin de l'affrontement.
+425	Il voit que tu ne représentes aucune menace dans cet état.

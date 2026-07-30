@@ -1,0 +1,501 @@
+idx	prefix	english
+0		There are two faint paw-prints here- one on each side of the hallway. 
+1		"I think traps like these are my least favorite part of the job." 
+2		"So... we trying this again?" 
+3		(Nod and touch the paw print. Again.) 
+4		E-"No. No. No." 
+5		He follows your lead. 
+6		As you touch the paw prints, the same text appears on the wall. 
+7		<i>ENTRAD EN PAR Y PROBAOS.</i> 
+8		"Enter in pair, blah, blah blah," he mutters. 
+9		"We actually doing this?" 
+10		(Get in position.) "Let's go." 
+11		Should I touch one of them? 
+12		(Press the right paw print.) 
+13		(Press the left paw print.) 
+14		E-Guess I'll check back on this later. 
+15		He gives you a look. 
+16		The type of look a father gives his son when he learns about the destruction of the family heirloom - a sword passed on for generations. 
+17		"It's a trap, Cleric." 
+18		It could end poorly, but... 
+19		Yes. The only way to find out if they are esoterically aligned or not. 
+20		It cannot hurt. It is but the mark that a cat has left upon this wall. 
+21		It <i>cannot</i> hurt you. 
+22		Just be ready for the worst. 
+23		Esoteric bullshit like this has a tendency to <i>do stuff</i>. 
+24		You physically cannot reach them both at the same time, no. 
+25		You would require twice the arm-length for that. 
+26		Maybe if you dislocate your shoulders. 
+27		What? 
+28		You can't just pop those suckers out of their sockets on demand?! 
+29	FC7 int-	Should I... actually dislocate my shoulders? 
+30		Okay. Sad. 
+31		<shake><b>NO</b></shake>. 
+32		Yeah. For once, actually listen to your little tummy-ache, okay? 
+33		The two walls seem so, so far apart. 
+34		Grabbing it, you feel an esoteric tingle down your arm. 
+35		But nothing happens. 
+36		Not even your full weight - pressing against the stone - could make anything happen. 
+37		"I feel like it would be very silly behavior to go around touching <i>paw prints</i> in the City Below." 
+38		"But honestly? Considering the strange traps I've heard of, it wouldn't surprise me if this was some bullshit puzzle." 
+39		"Bullshit puzzle?" 
+40		"A puzzle? I love those." 
+41		"...Interesting." 
+42		"Could be something like..." 
+43		"We have to press <i>both of them at the same time</i>. And that somehow deactivates the trap for a while." 
+44		R-"It's worth a try." 
+45		E-"Let's not." 
+46		"Yeah?" 
+47		"This obviously connects to... somewhat close to the sewers." 
+48		"But who knows? Could be something real neat on the other side." 
+49		He shrugs. "This is outside HWBT jurisdiction." 
+50		"Considering the esoteric bullshit going on down here, it's impossible to tell exactly what's behind here." 
+51		"But if you're looking to search deeper? This could be the way. Unfortunately." 
+52		"I suppose." 
+53		"What's the worst that could happen? Apart from being polymorphed into a Rust Monster, or something." 
+54		"...That won't happen, will it?" (Get into position.) 
+55		"Being a man means taking risks. Let's do it." (Get into position.) 
+56		"That would never happen to me. I'm too lucky." (Get into position.) 
+57		"Oh, no. Of course not, Cleric." 
+58		Intense sarcasm. 
+59		A defense mechanism. 
+60		"I heard men live shorter lives than women, on average. Might be why." 
+61		This is factual, according to the City Statistics Bureau. 
+62		Courage in the face of danger is the sign of true masculinity. 
+63		You really shouldn't be down here to begin with... 
+64		Or at least fast on your feet. 
+65		"Wish I had your confidence." 
+66		You get into position, and look over to your companion at the left paw. 
+67		He reaches up to it after a moment of hesitation. 
+68		"Ew. Yeah, this is magical." 
+69		You see him shiver at the realization. 
+70		"But nothing more than that," he says and puts his whole weight on it. "Try pressing yours." 
+71		Just two fellas, pressing the wall. 
+72		Press it with intense <b>masculine power</b>! 
+73		(Press the other one.) 
+74		<i>Clunk</i>. 
+75		The goblin jumps back. 
+76		A deep groan from the walls. 
+77		"That- did it do something? The fuck is that <i>ticking</i> noise?" 
+78		(Look around.) 
+79		An ominous sensation. 
+80		Esoterical vibes. 
+81		Your body tingles. 
+82		A pressure change? Something's happening. 
+83		As you peer into the hallway, you see something appear on the wall. 
+84		"Is that... writing?" 
+85		At the entrance, a whirling mess of faint light forms a stable shape. 
+86		That is cat-speech. You cannot read it. 
+87		Ah. This construction must be a remnant of the Whitemane tribe. 
+88		This will be dangerous. 
+89		What a sexy tongue. 
+90	FC12 int-	"It is some kind of eldritch language. How horrifying." 
+91	DC12 int-	"Why is there cat-speech on the wall?" 
+92		"What? No, that's just- cat-speech?" 
+93		"Uh. Yeah, good question. But..." 
+94		"I can... read this. Kind of." 
+95		"You can?" 
+96		"Impressive." 
+97		(Let him focus.) 
+98		"Yeah, yeah. Hold on." 
+99		"Sure, sure." 
+100		He stares at the text and mumbles to himself. 
+101		"It says, 'Enter'. Uh. 'As a pair'?" 
+102		"And... <i>be probed</i>?" 
+103		Not probed. <i>Proved</i>. 
+104		Like the Dwarvish: 'prôv'. It's a trial. 
+105	FC12 int-	"I don't want to be probed..." 
+106	DC12 int-	"Not probed. Proved." 
+107		"No, wait!" 
+108		He snaps his fingers. 
+109		He snaps his fingers. "Yes! That's it!" 
+110		"It's a test! Enter the hallway in pair, and be tested." 
+111		"A test? Sounds dangerous." 
+112		(Get into position.) "I'm ready." 
+113		"It does." 
+114		"We're still going to do it, right?" 
+115		"Maybe we... shouldn't." 
+116		He clears his throat. "I mean..." 
+117		The goblin shrugs. "Might be stupid." 
+118		(Get into position.) "Nah. Fuck it, I'm ready." 
+119		(Take a step back.) "Yeah. Let's not." 
+120		As you do, the paw prints reappear. 
+121		The text from the wall disappears. 
+122		"Mm." 
+123		E-Give him a nod. 
+124		"What? Are you..." The goblin takes a deep breath through clenched fangs. 
+125		"Yeah, okay. On three." 
+126		"Two." 
+127		"One." 
+128		"Wait- on three or zero?" 
+129		(Start walking.) 
+130		The goblin stops himself from stepping into the hallway in the last second. 
+131		"I- <b>now</b>!" 
+132		The two of you step forward. 
+133		In hesitant unison. 
+134		Trembling. 
+135		Stern. Heart beating fast. 
+136		The text is changing! 
+137	DC14 dex-	"...Stop!" 
+138	FC14 dex-	"How far are we going to-" 
+139		"Shit, stop!" 
+140		"The text!" 
+141		You both stop halfway, looking at the magical lettering on the wall. 
+142		<i>AL SON DIVINO, LA PUERTA SE ABRIRÁ.</i> 
+143		"Oh gods," your companion mutters. 
+144		Something divine, something... port? Open a gate? 
+145		You are too far away to make use of Comprehend Languages. The goblin is your only shot. 
+146		"You can read it, right?" 
+147		"It's not like I took formal lessons, I've just picked up a few words here and there..." 
+148		He's sweating. A feeling of dread growing in his heart. 
+149		A clicking sound starts to echo out into the hallway. 
+150		<i>Tick, tick, tick-tick</i>. 
+151		"<i>Gods be damned</i>. Okay. Hold on, I got this." 
+152		<i>Tick</i>. 
+153		"All sun dei-vino, that's, a divine song?" 
+154		"Puerta is... door!" 
+155		"<i>Listen to the divine song, and the door will open</i>!" 
+156		<b>Your doom is near</b>. 
+157		(Take a deep breath.) "Okay. Cool." 
+158		"What the <b>fuck</b> does that mean?!" (Shake the goblin.) 
+159		"Yeah. Very cool." 
+160		Please don't shake the goblin. 
+161		"Calm down!" he yells, pushing you off. "Just listen." 
+162		He glances around the hallway erratically. 
+163		"The ticking is... kind of a song." 
+164		"A rhythm? At least?" 
+165		He's shaking. 
+166		That ticking... 
+167		<i>Tick-tick.</i> 
+168		A nervous tic. Tic. <i>Tic</i>. 
+169		Oh. It's kind of catchy. 
+170		Are you supposed to... dance to it? 
+171		Dance, eh? 
+172		You're clearly supposed to move forward in rhythm with the song. 
+173		But without knowing it innately, it would be incredibly difficult to follow it. 
+174		Would it, eh? 
+175	ROLL15 int-	Figure out what the 'divine song' means. 
+176	ROLL17 cha-	Follow your instinct. 
+177	ROLL13 dex-	Ignore the ticking and try to outrun the trap. 
+178	ROLL10 str-	Pray to Urth. 
+179		Have you read about this? 
+180		No. You know little of these cat-folk. Let alone some obscure song in their culture. 
+181		"Damn it." 
+182		The goblin punches you on the arm, hard. 
+183		"A PLAN. <b>NOW</b>!" 
+184		Your thoughts scramble as you attempt to recite those words. 
+185		Etched into your muscle memory. Yet now, when you need them the most... 
+186		"I don't have time for this." 
+187		"Cleric!" 
+188		"Do we- do we run?" 
+189		Your thoughts focus on divinity. 
+190		That unreachable goal, one you will never attain. Since you'll die here. 
+191		By fire, in this ancient trap. 
+192		(Press a fist against your chest.) "<i>My people, my sons.</i>" 
+193		"...Cleric? Are you <i>praying</i>?!" 
+194		His tone of voice makes it sound like he's thinking, 'Great. So this is how I die.' 
+195		"<i>You who trusted in me. I am your keeper, as you are mine. In times of fear we-</i>" 
+196		You realize, as the ticking enters your body... 
+197		It is the same rhythm as the prayer. 
+198		What? How? Why? 
+199		Who knows?! But never mind reason. It is time to act. 
+200		The ticking is the <b>River Chant</b>! 
+201		You cannot know this 'song'. It's simply not possible. 
+202		Even if it did survive through some obscure document, the chance of you knowing this cat-tune is approximately zero. 
+203		But it's not zero? 
+204		Unless an esoteric phenomenon happens to strike you - then it is. 
+205		Unless... 
+206		Yes? 
+207		Listen to the ticking. It's simple, but it's also familiar. Somehow. 
+208		But that cannot be possible. Unless... 
+209		I'm in a bit of a hurry here. 
+210		It's been <i>repurposed</i>. 
+211		This is a chant. You know it well. 
+212		It's the... 
+213		"It's the River Chant...!" 
+214		"I'm sorry?" 
+215		"The ticking. It's the River Chant. You know it?" 
+216		"The... prayer?! I've heard it, but-" 
+217		"Oh." 
+218		He nods. "Okay?! I get it?!" 
+219		The goblin has no idea why you're saying what you're saying, but... 
+220		He trusts you. Somehow. 
+221		He follows either way. 
+222		"What are we doing?" 
+223		"Follow my lead." (Count down from three, and step forward on zero.) 
+224		Tap. Tap. Tick. Tick. 
+225		The rhythm lives in your soul. 
+226		It must have been passed down. 
+227		It lives inside your joints. 
+228		The power it wields over you is indescribable. 
+229		You've repeated this prayer, this chant, for unity and enlightenment. 
+230		For reasoning and meaning. 
+231		(Take a step forward alongside Snell.) 
+232		One. Two. 
+233		Three, four, five. 
+234		One, two. 
+235		The goblin keeps up. Each step forward made with trembling adrenaline-fueled fear. 
+236		Breathing. Fluids coming up. Kept down. 
+237		Oh gods, oh gods, oh gods. 
+238		(Take those final steps.) 
+239		"<i>Three</i>. <i>Four</i>...!" he mouths as he joins you in those final, final steps. 
+240		Three, four, <b>FIVE</b>. 
+241		It's just rhythm. Clearly. 
+242		Heartbeat. Heartbeat. 
+243		Listen to it. You... have to... 
+244		"...Cleric!" 
+245		"I can do this." (Take a step forward.) 
+246		As you do, the ticking stops. 
+247		That wasn't on beat. 
+248		That wasn't on beat at all. 
+249		(Look at your feet. Then to Snell.) 
+250		Your companion holds his breath and stares at you. 
+251		"What..." 
+252		"<shake>What did you just do?!</shake>" 
+253		Don't think. Just GO! 
+254		Wait, what's going on here? 
+255	ROLL15 dex-	RUN. 
+256		You give the goblin a quick glance and a nod. 
+257		He returns it, with a stern expression. 
+258		(Run.) 
+259		You bolt off, the goblin beside you. 
+260		Fire erupting behind you. 
+261		It feels like an instant and forever at once. 
+262		A pressure wave of heat hits you in the side as you pass one of the volcanic holes. 
+263		But you escape the worst of the blast, as does Snell. 
+264		He even overtakes you, reaching the end of the hallway first. The goblin tumbles onto the floor, tapping his jacket to put out the scorched ends. 
+265		As you reach the end alongside him, a final wave of fire hits you. 
+266		You burst out of the inferno, out into safety. However... 
+267		YOU ARE BURNING. 
+268		Your flesh is on fire. Put it out. 
+269		(Fall to the floor and roll around.) 
+270		Both of you violently smack and roll around the ground, until the fires are no more. 
+271		Snell quickly gets up, looking around for more threats. 
+272		You give the goblin a quick glance and a panicked stare. 
+273		He returns it, yelling, "<b>Go!</b>" 
+274		And you completely lose your footing. 
+275		You see the goblin overtake you, as you tumble. 
+276		Then the fire envelops you. 
+277		(Scream.) 
+278		(Attempt to curl into a ball.) 
+279	ROLL13 con-	Push through the flames. 
+280		Your voice is drowned by the roaring inferno. 
+281		Your muscles do not listen. 
+282		THE PAIN. 
+283		As your iron shell burns upon your skin, and the textiles around you catch fire... 
+284		(Keep running.) 
+285		Step by step, you move through the heat. 
+286		Seeing nothing. Blinded by PAIN. 
+287		But you make it. 
+288		As you get out of the fiery hallway, you see Snell rolling around on the ground, tapping his jacket to put out the scorched ends. 
+289		However, he quickly looks up to you, yelling, "Cleric! You're BURNING!" 
+290		The goblin helps you put out the flames as you violently roll around the ground. 
+291		As soon as you're no longer lit up, the goblin jumps up, looking for other threats. 
+292		NO. 
+293		THE PAIN IS TOO GREAT. 
+294		THIS... 
+295		THIS WILL BE YOUR GRAVE. 
+296		YOUR ASHEN TOMB. 
+297		"Oh. Oh shit." 
+298		He takes a deep breath. "We're out?" 
+299		"Oh, gods be good- <shake>we're out</shake>!" 
+300		"The gods favor us, Snell." (Enjoy being out of the fire trap.) 
+301		(Pant and groan on the ground to keep yourself from crying.) 
+302		"We could have died there." 
+303		"Yeah. I think we should've, honestly, and-" 
+304		"Cleric, look," he mutters and points to the wall once more. 
+305		Another line of shifting magical text appears. 
+306		<i>PASAD LIBRES, POR MANDATO CELESTIAL.</i> 
+307		"It says we can pass... liberally? By celestial mandate!" 
+308		"<i>Hells yeah</i> we can!" 
+309		"Liberally? That sounds like... Freestrider bullshit." (Feel terrible.) 
+310		"Liberally? That sounds like... Azgalist bullshit." (Feel awful.) 
+311		"Liberally? That sounds like something... I'd support." (Feel like shit.) 
+312		"Liberally? This isn't the time nor place for politics, Snell." (Feel, apolitically.) 
+313		"...First of all, every liberty doesn't automatically conflate with Freestriders." 
+314		"...First of all, no it does not." 
+315		"...First of all, that's not what this is." 
+316		"...First of all, I didn't write the text. Just making that clear." 
+317		"Secondly, I got it wrong. It's 'pass freely', I think." 
+318		"So I guess we can come and go as we please now." 
+319		"Hey, are you okay?" 
+320		"Yes." (Lie and get up.) 
+321		"No. I'm not okay." 
+322		Your companion lets out a small laugh. The type of laugh you only get after winning against impossible odds. 
+323		"Oh. Like, emergency-not-okay, or, short-rest-and-you'll-be-fine-not-okay?" 
+324		"The first. Maybe." 
+325		"The second. Definitely." 
+326		"I don't know, Snell. I just ran through fire and/or flames." 
+327		(Just get up.) 
+328		"Only maybe?" 
+329		"Then we're on the same page, I think." 
+330		"I'd say it was both." 
+331		"At least it felt like it." 
+332		"I'll be honest," he mutters, slumping down to the ground a bit further down the hallway. 
+333		"That was worse than a <i>mass torsion</i>." 
+334		(Take a few more steps away from the hallway of doom.) 
+335		The goblin's gaze flits around, dancing from tile to tile. 
+336		He is looking for more traps. 
+337		Oh yeah. He wants to sit down. 
+338		Finally, Snell seems to find himself more at ease. He lets out an exasperated sigh. 
+339		"<i>I need a god damned breather</i>." 
+340		"Same." (Join him for a short rest.) 
+341		"Is it safe to stay here?" 
+342		"Get your act together. We don't have time for that." 
+343		He looks around. "It's cool." 
+344		"Considering the fire, I don't think any roaming monsters will lurk this way. So sitting down for ten minutes? Won't be a problem." 
+345		He's not trying to convince only you. 
+346		He gives you an astonished look. 
+347		Your companion is asking for a minute to breathe, after a near death experience. 
+348		That is the least you can give him. 
+349		"Sit. Down." 
+350		"You <i>cunt</i>." 
+351		Oh my. This language... 
+352		Your mother would not approve. 
+353		You <i>are</i> being pretty cunty right now. 
+354		Is he upset? 
+355		"...Okay." (Join him.) 
+356		"No. Let's go." 
+357		He takes a deep breath, and gets up on his feet. 
+358		"Okay. Okay. Sure." 
+359		"Let's run around for hours without a break. Let's risk our lives in the City Below." 
+360		"You know, I figured it'd be easy to walk around with a cleric? You could just use your powerful magic to solve any issue." 
+361		"Guess I was wrong. Let's go." 
+362		E-Nod. 
+363		With a groan, the goblin notices some soot on his jacket. He brushes it off. 
+364		"This isn't exactly my first trap." 
+365		"But we usually hire third parties to disable them." 
+366		"You ever hire any clerics?" 
+367		"So you're saying you're a bit of an expert on this stuff." 
+368		"You can't even take care of your own territory? You're <i>outsourcing</i>?" 
+369		"Nah. Not during my time." 
+370		He chuckles. "You guys aren't exactly available for underground chicanery these days." 
+371		"Depends on who you compare me to." 
+372		"Hey, hey." 
+373		"I'm betting you haven't exactly dealt first-hand with the type of <i>Undercoast horrors</i> that crawl up into a place like this." 
+374		"Remember that Roper? <i>Undercoast horrors</i> like that crawl up here, <i>all the time</i>." 
+375		"And you saw yourself, these traps? They're not the type you can just tunnel around, or 'break'." 
+376		"They're esoteric as fuck." 
+377		"So yeah. We outsource. It'd be dumb not to." 
+378		Rooting around in his pouch, Snell finds a tiny green sphere. 
+379		He smacks it against the ground, and it begins to flutter up into the air. 
+380		A Sprite-spirit. 
+381		Some type of Primal essence. 
+382		(Point at the light.) "What kind of glow-globe is that?" 
+383	DC12 wis-	"Cool Sprite." 
+384		"The Nessan-kind. Sadly it's my last one." 
+385		"Thanks. Sadly it's my last one." 
+386		Then the goblin leans back against the dungeon wall - making sure to check for any trap-mechanism beforehand. 
+387		"Look, I work mainly in Upper and Lower Tolstad. The City Below is not my responsibility. Usually." 
+388		"So <i>apologies</i> if I don't have these magically shifting tunnels memorized like some veteran adventurer." 
+389		"Apology accepted." 
+390		"No need to apologize. From what I've read, the City Below is incredibly dangerous." 
+391		"And I apologize for not manifesting a divine intervention." 
+392		He lets out another sigh. This time in pure exhaustion. 
+393		"Damn right." 
+394		"Yeah. You should work on that." 
+395		You've heard that the City Below changes from time to time. But most people believe it to be a myth. 
+396		The old guard used to deal with the tunnels all the time. But since Urth's death, that work has been entirely relegated to the three goblin tribes. 
+397		"It's sad we clerics don't get to delve these days. Don't want to leave all the fun to you goblins." 
+398		"I've never seen a tunnel shift. And I've gone through a fair amount of them." 
+399		"I thought the 'shifting tunnels-thing' was a myth." 
+400		"Not sure I'd describe this hellhole as <i>fun</i>." 
+401		"But just for future reference..." 
+402		"What, like around sewer-level?" 
+403		"Yeah. Something like that." 
+404		"Mostly above the sewers. The Palace has a ton of them." 
+405		"That's barely the City Below, Cleric." 
+406		"I'm not a dungeoneer, but I can promise you: everything at this level and below changes over time." 
+407		"It's like the city's entire base is an Esoteric Pocket, going all the way down to the Gravity Flip." 
+408		"It's not." 
+409		He states it plainly and quickly, as if he's had to prove it often. 
+410		"This place... it's real close to the Garden, right?" 
+411		"Sure." 
+412		"Wasn't here a couple of months ago." 
+413		"Between the garden and the Waterlane sewers, I'm a hundred percent sure there was a slanted hallway full of frozen spikes. We boarded them up as well as we could at the time." 
+414		"<i>Tsk</i>. Boarding up. That only lasted a couple hours." 
+415		"It moved around?" 
+416		"Yeah. It moved around. All of this shit does." 
+417		The esoteric madness down here was mostly managed after the conquest. 
+418		But it still rises at times. In spurts of violence and esoteric randomness. 
+419		The goblin has no proof of his inane theories. 
+420		Hallways don't simply move around. Not without powerful Arcanists around. 
+421		The esoteric nature of the City Below is well documented. 
+422		It has mainly to do with sentience, if you believe the few scholars who have been allowed to investigate it. 
+423		The more living minds present, the less chaotic a section will be. 
+424		But this, what the goblin describes, that is enough activity to warrant a proper look. 
+425		"That's insane. I figured all the shifting calmed down after the conquest." 
+426		"Hm. Can you prove it?" 
+427		"It didn't. Or, I mean..." 
+428		"From what I understand, your dead god and his paladins used to keep things clean." 
+429		"But nowadays it's getting weirder by the day." 
+430		"But hey, now you're here, so you can take on this esoteric bullshit, right?" 
+431		"Do well, and I'll buy you a beer. Deal?" 
+432		"Uh. Sure." (Look shifty.) 
+433		"I don't drink, Snell." 
+434		"Wait. Right, you... you're not allowed?" 
+435		"I am not, no." 
+436		"Maybe a little one. A tiny glass? Tiny glass of beer?" 
+437		He shrugs. "It's not like they have a way to check, right?" 
+438		"No, they do." 
+439		"They do?" 
+440		"They scan us." 
+441		"They <i>scan</i> you?" 
+442		"Detect Poison and Disease. They check us sometimes." 
+443		"Detect Poison and Disease?!" 
+444		"Sure! You just sit tight here and chill for a couple of weeks. I'll come back and visit you." 
+445		"If the tunnels are the same, I'll owe you a beer." 
+446		"We can get back to the 'quest' afterwards." 
+447		He is making fun of your dumb request. 
+448		"I don't want to wait here for weeks. Are you stupid?" 
+449		"I'm not sure how that will prove anything." 
+450		"Funny." 
+451		"Oh, shit. I keep forgetting you're like, an <i>actual</i> cleric." 
+452		"No alcohol at all, eh?" 
+453		Remember the words. Intoxicants are the work of evil and chaos. As clerics, we must- 
+454		"Of course not! Intoxicants are the work of evil and chaos. As clerics, we must abstain to maintain our fight against discord. Plus, we cannot cloud our minds. We must remain vigilant, so we can fulfill our sacred quests, and make sound judgments upon our people." 
+455		"I don't like the taste." 
+456		"Yeah, yeah." He waves a claw, clearly not listening. 
+457		"Oh? So you've tried it at least." 
+458		You were fourteen years old. They had lax security at the dance clubs in those days. 
+459		A shameful past. 
+460		Those were the days. 
+461		"I was a wild kid." 
+462		"Of course. I'm not a square, Snell." 
+463		"Wasn't my thing." 
+464		"I'm sure you were." 
+465		"Oh, no, of course." 
+466		"You're practically a circle." 
+467		"Hm. Yeah, it's not for everyone." 
+468		He sighs. "Guess I am." 
+469		"No, but it'll get me away from dumb questions at least." 
+470		"Very." 
+471		"But trust me, the City Below is very esoteric." 
+472		Snell is more than correct. The grand power present in these ancient walls has compounded over eras. 
+473		All while the mystery of the Pillars - these relics of the Gate War, of Jor - is left as a hole in our collective understanding. 
+474		We do not know why the City Below is so esoteric. We cannot know. Not in any sensible manner. 
+475		But if you <i>listen</i> - if you <i>feel</i> the vastness by just sitting here, deep inside the Belly of the Whale... then you know all too well the mind-consuming truth. 
+476		The City Below City is alive. 
+477		ALIVE. 
+478		(Nod, somewhat.) 
+479		"It's also really fucked up. Which explains why your beloved city would give up the property rights to a bunch of goblins, huh?" 
+480		He laughs. 
+481		A sad laugh. 
+482		"And these last couple of years there's been more and more Reedsian scholars going delving, to study it." 
+483		"The Old Lady doesn't let them in on her turf, of course. Chasing them away is one of my many jobs - politely, of course. I'm not some <i>syndicate gangster</i>." 
+484		He instinctively throws out that gangster comment. Bit of a sensitive topic... 
+485		"...But the other tribes are more accepting. For a ton of coin, of course." 
+486		"What <i>is</i> your job, exactly?" 
+487		"Nice work, by the way. With the trap." 
+488		"So remind me: what's our goal down here?" 
+489		"I've been meaning to ask, but what can you tell me about Lady Sageleaf?" 
+490		M-"You know..." (Gesture towards him.) "It's good to see this." 
+491		"I'm a runner. And handler. Of the HWBT." 
+492		(Look at him until he actually tells you what he does.) 
+493		"So you're a sexy rogue, like me!" 
+494		He lets out a painful groan. 
+495		"First of all, no. I am not." 
+496		"Secondly, no <i>you</i> are not." 
+497		He crosses his arms. 
+498		"I do a ton of stuff, okay?" 
+499		"I run errands for the Old Lady, anything she needs. I also make sure our operations run smoothly. Everything from the apartment rentals, to the CBS-" 

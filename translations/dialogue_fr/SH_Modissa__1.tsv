@@ -1,0 +1,384 @@
+idx	prefix	english
+500		"It's not truth or falsehood that matters- it's the content! The message! It's-" 
+501		"Va i alla hêlveten..." the dwarf mutters to himself, noticing you approach. 
+502		"Mr. Cityman." 
+503		"Am I interrupting something?" 
+504		"I've got your special ink here." 
+505		"Newspapers bring nothing but friction." 
+506		"Great. Thanks." 
+507		The girl rolls her eyes. 
+508		She takes a step towards you and quickly grabs the set of ink cartridges. 
+509		"Look, Alfoz. The Cleric just allowed us to reach the entire city." 
+510		She holds up the paper to his rocky face. "They need to hear this." 
+511		"I got access to the Warehouse. It was pretty hard, I had to-" 
+512		"Do you know how much the Palace would love to see an article like that?" 
+513		"Do not put me in a position where I have to tell the Foremen to denounce the Chant!" 
+514		"Fore-<i>folk</i>." 
+515		"<b>Bah</b>!" 
+516		Step in. Solving this conflict will be a good finish to this fetch quest. 
+517		"I feel like I need to step in here." 
+518		"You guys seem to have a good handle on this." 
+519		"Maybe I should go." (Fail to do so.) 
+520		"Do you now?!" the dwarf growls. 
+521		He then takes a deep breath, rubbing his eyes. 
+522		"I apologize. We're having an issue." 
+523		"I'm used to it." 
+524		"I'm just trying to-" he mutters. 
+525		"Mr. Cityman. Please, enlighten us. What does the law say on criminal incitement? Specifically in print media?" 
+526		It's a maze of rules. Few of them well-written. 
+527		Practically it's always an 'it depends'. 
+528		Just thinking about it makes your head hurt. 
+529		"Give me a practical example." 
+530	FC14 int-	"You think <i>I</i> know the law?" 
+531	DC14 int-	"Depends on who enforces it. And who gets enforced." 
+532		"Generally I don't think the city would be very happy about it." 
+533		"I'm sure they'd be fine with it." 
+534		"As in, what if someone printed a newspaper calling for a violent uprising?" 
+535		He groans. "One would hope!" 
+536		"Ah. Then I suppose that gray zone would be a wonderful place to die." 
+537		"See?" 
+538		He scoffs. "You're sure about that?" 
+539		"Look, Alfoz. Look at where we are!" 
+540		"I'm in a <i>closet</i>, with this god damn esoteric mess of a machine blowing hot air up my ass!" 
+541		"The city already guts us at every turn. The protests at the Towers. Your PPG problem." 
+542		"That bullshit with the Silker's Guild!" 
+543		"<i>They will never work with us.</i> Now's our only chance. We have the people's attention." 
+544		"It's time to drill it into their heads that <i>they</i> have the power here." 
+545		"You're missing the entire picture, girl!" 
+546		It's belittling to call her a girl like that. 
+547		She's clearly being unreasonable. 
+548		"Bah!" 
+549		He crosses his arms. "You're correct. The people have power here." 
+550		"And we will use that power <b>responsibly</b>. By creating lasting, lawful change." 
+551		"If you keep writing about violent revolution, the average person will think you're crazy." 
+552		"And even worse if you push for all this other socio-relation crap!" 
+553		"<i>Crap</i>?" 
+554		"What, is feminism also just an <i>ignorant reworking</i> of Azgal's ideals?" 
+555		"No, it's-" 
+556		The dwarf takes a deep breath. "You know I am very much in favor for pressing down hierarchies. But to put such a threatening stance on the way people have lived for centuries..." 
+557		"It's not <i>wise</i>." 
+558		"It's not wise to tell women and oppressed minorities that they should have rights?" 
+559		"They <i>have</i> rights. We have universal suffrage! Norvik is the most egalitarian city on the Coast. We've spent decades working for that." 
+560		"Universal suffrage. Sure. But nine out of ten guild leaders and business owners are human men." She taps her fingers to list off her talking points. "Women earn lower salaries across all work sectors. Citizenship is withheld from Othered folktypes, on the basis of so-called 'monstrous' traits. Halflings are constantly extradited to the Horde, while every major faction ignores their pleas. Mind-control being used - somehow - as a legal tool of the state!" 
+561		"And <i>despite</i> the outcalls, over and over again, NONE of the fore-folk have even BEGUN to address any of our core demands. And don't even get me started on rights among MGIs, or the femme-beard debacle, or your refusal to stand by all of our:" 
+562		She taps her index finger against his chest with every word. 
+563		"<b>Cross.</b>" 
+564		"<b>Folk.</b>" 
+565		"<b>Attraction.</b>" 
+566		"<b><shake>COUPLES!</shake></b>" 
+567		(Stare at them both.) 
+568		"We have toiled, Modissa," he mutters, his voice weak and dry. "Decades of work. All to reach this point." 
+569		"You'll throw it all away, if you try to play their game!" 
+570		"You know the party is not behind even half of these ideas." 
+571		"The party doesn't have vision! That's why we're not winning!" 
+572		"We have as many voters as the Freestriders. Potential for more." 
+573		"You think the numbers matter? After all you've seen?! They don't care!" 
+574		"We will make them care!" 
+575		The dwarf takes a step back to catch his breath. 
+576		All the other workers in the apartment just seem to go along as per usual. 
+577		This must be a common occurrence. 
+578		Do they not hear the commotion? 
+579		"All this over a single article?" 
+580		(Take a step away with Alfoz.) "Explain." 
+581		(Go to Modissa.) "Tell me what's going on." 
+582	ROLL8 wis-	Figure out why Modissa <i>really</i> won't tone it down. 
+583		M-I'll have to make a choice here, won't I? 
+584		"<b>Yes</b>!" they say in unison. 
+585		"It's..." 
+586		He appears to calm down and shakes his head. "She's bright, but she's in over her head here." 
+587		"If she prints that article in the election issue, I'm certain there will be fallout." 
+588		"And... it's not just that I have to deal with personally. I'm fine with that. It's my job." 
+589		"But if she pushes the Chant too far from the party line..." 
+590		"We'll have to distance ourselves. Officially." 
+591		"That's not good." 
+592		"Would this article really do that much harm?" 
+593		"Interesting." 
+594		"No. It would not be." 
+595		"I'm sure of it. We already get criticized for various incidents and Azgal Youth protests." 
+596		"We're toeing a line here. Carefully." 
+597		"I won't allow that to be printed. I can't." 
+598		"An article. That's it." 
+599		She holds it up. 
+600		It's a test page. To see the article in action before putting in the issue. 
+601		(Skim the article.) 
+602		"You can't print something like this." 
+603		"This is a good message. It's what the city needs." 
+604		"Can't you just be a little more subtle? Or something?" 
+605		'WE BUILT THIS CITY' is the name. 
+606		It's an emotional and moving Page Op about recent events, and the future of the Workers' Party. 
+607		The author weaves in arguments about city corruption with a call to action. 
+608		A direct call for the workers of the city to not let the Freestriders corrupt Norvik into becoming another oppressive 'Free City'. 
+609		Where wealth is consolidated into the hands of the few, while the many struggle to survive. 
+610		Then it gives a list of, what almost looks like demands, on several wide-ranging important topics, from the Golden Line and guild union membership fees, to social acceptance of cross-folk relations and more. 
+611		It also contains a striking subtext about wealth being extracted from the city, and sent east. 
+612		Yep. This would work on many in the city. 
+613		This does sound quite bad for the city. 
+614		Her arguments are flawed, but rooted in truth. 
+615		"Clearly." She gives a mocking laugh and glares at Alfoz. 
+616		"I agree." 
+617		"Too bad my 'captain' over there doesn't agree." She gives a mocking laugh and glares at Alfoz. 
+618		"We're past subtlety." 
+619		"The people need to know that Norvik is theirs for the taking." 
+620		"Come on. Help me out here, will you?" 
+621		"What, you want me to cast a spell on him?" 
+622		"No! Gods, no." 
+623		"I mean... it wouldn't work, would it?" 
+624		"For a few minutes, maybe? But... no." 
+625		"Not really, no." 
+626		She mutters a swear under her breath. 
+627		The dwarven word for <i>hells</i>. 
+628		She hates them. 
+629		She hates how she's been pushed down by them all her life. 
+630		She hates how powerless she feels, all the time. Every day. 
+631		Every time she walks down the street and someone looks at her funny. Every time someone asks when she's going to grow up and start a family, instead of playing around in some Azgalist larp outfit. 
+632		You see it in her eyes. 
+633		Hate and anger. Anger from endless systematic injustice. 
+634		"What are you looking at?" she says with a scoff. 
+635		It's your choice. 
+636		"You don't need this article, Modissa. The system is unfair, yes. But don't trust Alfoz to change it. Change it yourself." 
+637		"You're on the right track. Keep it up." (Give her a thumbs up.) 
+638		She stares at you. 
+639		"If you publish this, they'll push you out. And everyone like you. Your voices will be silenced in the years to come. Instead, speak out slowly, bit by bit, until your ideas are accepted as the truth." 
+640		She clicks her tongue and looks over to Alfoz with frown. 
+641		Then she glares at you. 
+642		"Not today. But tomorrow. And tomorrow. And tomorrow." 
+643		"I know. But tell that to him." 
+644		Maybe you shouldn't. Alfoz is a very scary man. 
+645		No. 
+646		Her eyes are so filled with rage and hate. 
+647		You dare not dive deeper. 
+648		"What? What are you looking at?" 
+649		"Stop staring. Just leave if you're not going to help." 
+650		Gods, she's a pain in the ass. 
+651		Clearly it's because of the stick up hers. 
+652		Yes you will. 
+653		Alfoz crosses his arms, looking to you both with intense stubbornness in his eyes. 
+654		Modissa grunts something to herself and adjusts her uniform. 
+655		You know Modissa is correct. You need to fight against oppression. 
+656		Perhaps she does not know what she has to, in order to convince people. 
+657		Alfoz has a more balanced view. Urthfolk will not follow some radical feminine, hyper-egalitarian dream. It's just not feasible. 
+658		Both of them are dumb. Just let them squabble. 
+659		If you side with Alfoz, he obviously has more power here - so that could help you in the future. 
+660		THE GIRL SPEAKS OF FUTURE STRINGS. 
+661		It's a fairly well-written article, but none of that matters. 
+662		This is an emotional argument, mostly. All propaganda is. 
+663		Thus, it's very, very silly. 
+664		"I agree with Modissa." 
+665		"I agree with Alfoz. You should not print that." 
+666		"I'll leave this up to you." 
+667		"You do?" 
+668		"He does?" 
+669		"Hm. Don't blame you." 
+670		"Well then, Mr. Cityman." 
+671		Alfoz puffs up his chest and stares up at you. 
+672		"It appears I'll have to convince you as well of how much of a mistake you're making." 
+673		"You've got this, Cleric," Snell whispers to you. 
+674	ROLL15 con-	Be more stubborn than the dwarf. 
+675		(Raise your arms.) "Actually- I'll just leave it up to you guys." 
+676		He steps in front of you. His face rocky stone. 
+677		You... are... 
+678		ROCK HARD. 
+679		Please, don't. 
+680		(Look down on him.) 
+681		He looks at you. 
+682		You look at him. 
+683		You make him know. 
+684		You are the KING. 
+685		"Alfoz." 
+686		You... cannot... 
+687		(Try to look down on him.) 
+688		He is physically smaller. 
+689		Yet... 
+690		In soul, he is KING. 
+691		(Nod.) "...Okay. I won't intervene." 
+692		Modissa glares at you. 
+693		"You're playing with fire here, Cleric." 
+694		"You'll get in legal trouble for sure." 
+695		"The city will turn on you, even more." 
+696		"Listen to Alfoz. He knows." 
+697		The foreman gives the younger Azgal a sad expression as she lowers her head. 
+698		"You know what?" 
+699		"Then I'm saying: it's final." 
+700		"Modissa, you have to change the article. I won't tell you to gut it- I simply need you to compromise here." 
+701		"I'll change it. I'll rewrite the article." 
+702		"Thank you," the dwarf says and closes his eyes. 
+703		He looks extremely relieved. 
+704		"But I'm not happy about it." 
+705		"I am sorry. But really- thank you, Modissa." 
+706		"...Mr. Cityman." 
+707		"You know you must let her do her thing." 
+708		"Guh..." 
+709		He is sweating. 
+710		"What are you two doing?" 
+711		"He... ugh..." 
+712		He is grunting. 
+713		"The Azgal Youth must be made free." 
+714		"Ugh..." 
+715		He groans and kneels before you. 
+716		"Damn it." 
+717		Modissa is looking at you both like you're alien aberrations. 
+718		"I know. It will be a massive pain in my ass, but <b>I know</b>." 
+719		He stands up, then throws a stern gaze at Modissa. 
+720		"Print your article, girl!" 
+721		"Speak from your heart. And make the whole city hear you!" 
+722		She smiles. 
+723		Perhaps the first time ever, in history. 
+724		A union of thoughts. 
+725		You HELD. 
+726		"Garz Rubren would be proud, Alfoz." 
+727		"Thank you, Alfoz." 
+728		"Bah. Time will tell." 
+729		"Yeah. Thanks." 
+730		"I'll change the damn article." 
+731		"I know this is painful, but it's simply reality. I swear." 
+732		"Garz Rubren would be proud. Thank you, Modissa," he says and turns away from you. 
+733		(Whisper to her.) "Print it anyway." 
+734		"Good. Good." 
+735		"Huh?" 
+736		"Don't change it, and just print it anyway. He probably won't notice until it's too late." 
+737		Her eyes gleam. 
+738		With pure mischievous energy. 
+739		"Maybe I'll do that, Mr. Cleric," she whispers back. 
+740		"Maybe." 
+741		Alfoz goes over to his comrades to begin the final process on the machines. 
+742		She grunts out, "You had the ink, right?" 
+743		"Mr. Cleric?" 
+744		(Hand her the ink.) 
+745		She quickly looks it over with a stern face. 
+746		"Red? Really?" 
+747		"Green? Really?" 
+748		"Yellow? Really?" 
+749		"They didn't have any black." 
+750		"Well, shit." 
+751		"I'll mix it out with what we have- should make it readable still." 
+752		"Green is at least... <i>thematically relevant</i>." 
+753		She shrugs. 
+754		"Even if it'll look like we're trying to lean into some <i>fascist branding</i>..." 
+755		She shudders. 
+756		"Even if it'll be hard-to-read and... a bit too <i>Freestridery</i> for my taste." 
+757		"Maybe they'll just think it's ironic." 
+758		Then Modissa pours it into the machine. 
+759		"Thanks for this. We'll actually be able to reach that last portion of voters before the election now." 
+760		She sighs. "And sorry for the mess. I shouldn't apologize, really. But..." 
+761		Her voice trails off as she stares at the components on the printer. 
+762		"It's an ideological battlefield. Keep fighting." 
+763		"You should chill. Nobody likes a complainer." 
+764		"This is your struggle. I have no part." 
+765		She closes her eyes slowly, as if a painful headache just crept up on her. 
+766		"When a woman wants to see change, she's a complainer." 
+767		"When a man wants to see change, he's a hero." 
+768		"That's not true." 
+769		"There's some truth in that, yeah." 
+770		"You're right. I should rethink my perspective." 
+771		"No. You'd be just as annoying if you were a man." 
+772		She doesn't respond. 
+773		E-I should go. 
+774		"That uniform seems to beg to differ." 
+775		She keeps working on the machine. 
+776		"Loved that place." 
+777		"Not because it was good. But lots of memories there." 
+778		"So you spent a lot of time there?" 
+779		"You were friends with the owner?" 
+780		"Go on." 
+781		"Oh yes. We held Youth Azgal meetings there once a week." 
+782		"Oh gods, no. Mr. Drummer just served tea. We didn't talk to him much." 
+783		"Really sad to see it gone." 
+784		"I don't know what kind of trouble he ended up in, but I never expected Mr. Drummer to get into <i>explosive</i> trouble." 
+785		She is not hiding anything from you. 
+786	DC17 wis-	"Tell me about this non-explosive trouble Drummer got into." 
+787		"Anything else?" 
+788		Her body twitches. She looks to Alfoz. 
+789		"It's a point of contention. Rumors, really." 
+790		"I like rumors." 
+791		"<b>Go on</b>." 
+792		"Mr. Drummer might have had some type of deal with... someone. He had people come and go at strange times." 
+793		"So we could only book the shop for our meetings at specific times." 
+794		"...Look. I didn't notice anything that weird. It was just..." 
+795		"The HWBT?" she says and glances at your companion. 
+796		"The HWBT?" 
+797		"Or the Freestriders? Maybe he had a deal or something." 
+798		"...But that's rumors. Nothing else." 
+799		"Nothing else?" 
+800		"Not really." 
+801		"He just served tea, and made that clacking sound." 
+802		"Alfoz might know more." 
+803		The dwarf glances over to you with a frown. 
+804		"Alright." 
+805		Her eyes go wide. 
+806		"She..." 
+807		"We talked to her once or twice. Nice gal." 
+808		"We..." 
+809		She shuts her mouth and points to Alfoz. 
+810		"Talk to him." 
+811		"No, you tell me more. Right now." 
+812		(Nod.) 
+813		"Nuh-uh." 
+814		Did she just nuh-uh you? 
+815		Holy shit. 
+816		She points to Alfoz again. "I'm not a snitch. He'll tell you what you're allowed to know." 
+817		"Good. Anything else?" 
+818		Then she looks to the large Azgal banner hanging on the wall. 
+819		"Are you kidding?" 
+820		"Never." 
+821		"I'm just asking." 
+822		"I'm voting green." 
+823		"Mm. Interesting. Do you want to know what I'm voting?" 
+824		(Let your lower lip quiver.) 
+825		"<i>Yeah</i>. You want anything else?" 
+826		Damn it! 
+827		She's smarter than she looks. 
+828		"But can't you ask me what I'm voting for? Just for fun?" 
+829		"I asked you. You ask me? Please?" 
+830		"Yeah. Sure. Whatever." (Sulk.) 
+831		"No. <b>Anything else?</b>" 
+832		"Why don't you name yourself in the paper?" 
+833		"What made you join the Azgal Youth?" 
+834		"Where are you from?" 
+835		"How did you get this massive printer?" 
+836		"Alright. No more, uh, personal questions?" 
+837		"It's an illegal paper, Cleric." 
+838		"Ah. I see." 
+839		"Been there, done there. And so on." 
+840		"Been- I- it's... I... you know. It's..." (Stop talking.) 
+841		She looks at you for a second, then shrugs. 
+842		"Lots of things. I read Azgal for one." 
+843		The original sin. 
+844		Some great works of political literature. 
+845		"I also saw the socio-economic imbalance in Norvikian society growing up, and felt like I had to do something about it. You know?" 
+846		"Oh, and I found a great mentor in Myran." 
+847		"...Myran?" 
+848		"Yeah. She was the founder of the Youth Azgals. She taught me a ton." 
+849		"I've heard about her. Real troublemaker." 
+850		"Trouble is just another word for change." 
+851		"Suppose that's true." 
+852		Myran. 
+853		That was a long time ago. 
+854		"Grew up in Housing, like everyone else it seems." 
+855		"Though my parents fled Reeds before I was born. The so-called Revolution was a hard time for them." 
+856		She looks a bit sad, and wanting to change the subject. 
+857		"What about you?" 
+858		"I grew up in the Hills." 
+859		"None of your business, <i>girl</i>." 
+860		"The Hills. Then on North Wall." 
+861		"You ask <i>me</i>, but I can't ask <i>you</i>?" 
+862		"That's how it works." 
+863		"I ask the questions here." 
+864		"Are you calling me a hypocrite?" 
+865		"Well, that's unfair." 
+866		"Get better questions then." 
+867		"...I don't want to argue with you." 
+868		"I have some other questions." 
+869		She glares at you. 
+870		"You're a farmboy?" 
+871		"Guess I could see that. As long as you vote green." 
+872		"Hand-me-down." 
+873		She gives you a grin. 
+874		"I won't tell you more than that, <i>copper</i>." 
+875		"Even ignoring the ethical concerns with the production farms - which I won't - then it's still no." 
+876		Yeah. Don't even try sell the milk to <i>her</i>. 
+877		Keep the milk. The milk is YOURS. 
+878		"I see. You have a weak constitution." 
+879		"Nevermind then." 
+880		'Scorned' would be a good description of the expression she's giving you. 
+881		"Sure?" 
+882		She gives you a confounded - frankly disgusted - look. 

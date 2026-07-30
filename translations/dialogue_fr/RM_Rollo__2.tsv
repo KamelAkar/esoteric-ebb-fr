@@ -1,0 +1,215 @@
+idx	prefix	english
+1000		Modissa scoffs. 
+1001		"I'll have to go set this whole thing in motion. Gods know we have enough to do." 
+1002		Jehanne taps her on the back. "Don't worry! I'll run back and prep the machine!" 
+1003		"Yeah, and I can help you on the copy surface, Modissa." 
+1004		"Good. Hey, Rollo," she says and walks up to him. "Jehanne will come back in an hour to return the documents. You'll trust us that long, right?" 
+1005		Standing before each other, Rollo looks down at the girl with a question on his face. 
+1006		"Hm? Why are you looking at me like that?" 
+1007		He clenches his jaw and looks away. 
+1008		"I trust you, Modissa." 
+1009		"And, uh..." 
+1010		"Thanks for this." 
+1011		He holds out a hand. 
+1012		She looks at it, and adjusts her glasses. 
+1013		She grabs his hand, shaking it. 
+1014		"Now let's go! <i>Skynda, skynda</i>!" 
+1015		The girls leave in a hurry, leaving you with the four shell-shocked boys. 
+1016		"Well." 
+1017		"That's it." 
+1018		"Thank you as well, Cleric." 
+1019		"You've... really changed this city for the better, I'm sure of it." 
+1020		The large kid pumps his fists into the air. "...Yeah!" 
+1021		"Oh yes," Urth-Nisse mumbles, and sparks a flame with a finger snap. 
+1022		"Cool," the short kid in the back says. "We're gonna be stuck here for an hour, aren't we?" 
+1023		"Probably, yeah." 
+1024		"And, uh... we'll be sure to consider that Urthguard recommendation. For sure." 
+1025		"Let's hope you guys don't mess it up." 
+1026		"Be careful out here, boys." 
+1027		The lanky kid scowls at you. "...<i>Arsonist</i>? What the hell, man..." 
+1028		"Oh, we would never!" 
+1029		They laugh. 
+1030		Rollo gives you a thumbs up. 
+1031		"Well, we're gonna be here a bit longer, so... anything else you need?" 
+1032		"Make us." 
+1033		Your companion takes a step back. "Get 'em, champ." 
+1034	IROLL-	Roll initiative. 
+1035		"Uh- uh- uh," the big kid mutters as he gets up from his seat. 
+1036		"We're doing this?" 
+1037		A flame lights up in his hand. 
+1038		Weak magic. But still dangerous. 
+1039		"You can't... tell us what to do!" 
+1040		The big one takes a step forward, and gives you a shove. 
+1041		His light shove is enough to push the air out of your lungs. 
+1042		GODS BEWARE. 
+1043		THE BOY IS MADE OF IRON. 
+1044		The quiet kid looks around, and sees a stick. 
+1045		"I knew this would happen..." he mutters, and swings it behind you. 
+1046		He cracks it over your head. 
+1047		"Oh. Shit." 
+1048		The lanky kid finishes his attempt at a cantrip. 
+1049		A Fire Bolt. 
+1050		PAIN. 
+1051		He tosses the spark across the room, hitting you in the arm. 
+1052		"<b>Yes</b>!" 
+1053		Your chain mail... is <b>scorched</b>. 
+1054		"You don't get to just come here... and tell us what to do." 
+1055		"You're an agent of corruption. The city doesn't need you!" 
+1056		He steps forward with a roar, and takes a swing at you. 
+1057		Your head held high. 
+1058		Looking down at these brash younglings. 
+1059		They will hear you. 
+1060		You tremble. 
+1061		These violent youths surround you. 
+1062		You must be careful. 
+1063	ROLL8 str-	Threaten them. 
+1064	ROLL10 wis-	Empathize with them. 
+1065		"No?" 
+1066		"Yeah. You do that." 
+1067		He looks nervously to his friends. 
+1068		They all appear frightened. 
+1069		They will listen if you speak. 
+1070		They fear your might. 
+1071		But they will still fight against your tyranny, despite how foolish that would be. 
+1072		The spell fizzles before the blinking boy, as he lets out a surprised scoff. 
+1073		"Was that... magic?" 
+1074		He resisted. How annoying. 
+1075		Only one thing to do now. 
+1076		A step towards the blonde kid. 
+1077		(Grab his neck.) 
+1078		"Guh...! What are you...?" 
+1079		"<b>Dumbass</b>!" 
+1080		He stares at you wide-eyed. 
+1081		"You'll all end up in the dungeon if you keep this bullshit up!" 
+1082		"O-Okay." 
+1083		(Let him go.) "Good. Now..." 
+1084		You have their attention. 
+1085		The four boys all look at you, fear (and a bit of respect) in their bulging eyes. 
+1086		Do it. 
+1087		Guide them to the future. 
+1088		"It's time for you to make a decision." 
+1089		"Now go. Leave!" (Make them leave.) 
+1090		You feel the pressure. 
+1091		Building up. 
+1092		"Oh gods..." 
+1093		You can't. 
+1094		Can you? 
+1095		(Yell at them.) "Stop it! Go home!" 
+1096		(Begin crying.) 
+1097		"Damn." 
+1098		"What the fuck?" 
+1099		"Oh. Is he sad?" 
+1100		"I'm sad... about the state of the youth..." (Try to contain yourself.) 
+1101		The blonde kid fidgets, searching for words. 
+1102		He finds this so awkward that he forgets about the entire fight. 
+1103		"Let's just... go, guys. This isn't worth it." 
+1104		"Uh-huh." 
+1105		"Sorry, Cleric." 
+1106		The quiet kid just shakes his head. 
+1107		"No, please stay. Just ignore this ever happened." 
+1108		"Okay, goodbye forever..." (Let them leave.) 
+1109		Look at them. 
+1110		Look at these poor boys, lost in a whirlwind of pain. 
+1111		Of abandonment. 
+1112		They're not that different from me. 
+1113		What does that matter? 
+1114		You would have been here, if your path was but a little less silver-spoony. 
+1115		It matters, if you care. 
+1116		Which you do. On some level. 
+1117		Show them you care. And it will be good. 
+1118		"Pause. A second." 
+1119		"Oh? You're... you're done?" 
+1120		"Do you... give in?" 
+1121		"Kid. I know you want to do what's best for this city. I do too." 
+1122		He lets you speak. 
+1123		"And you clearly believe in yourselves here. But... you need to make a decision." 
+1124		Are you speaking to him, or yourself? 
+1125		"What decision?" 
+1126		The adrenaline is wearing off. 
+1127		Each of them- their hearts beating. Legs weak. 
+1128		They are frightened. 
+1129		You can let them continue on their search for meaning. 
+1130		Or grant them a way out. 
+1131		Or just let them go. 
+1132		That would probably be best. 
+1133		Show them the way. 
+1134		"I apologize for the scuffle. You must follow your own paths. So.... continue on your quest." (Drop it.) 
+1135		"Huh?" 
+1136		"I will not interfere. But I have some more questions for you." 
+1137		"I've lost all interest in this. Just do whatever." 
+1138		"What the hell...?" 
+1139		"You're just going to..." 
+1140		"Yes. Ignore the fight. Happens all the time." 
+1141		"That's not good. You shouldn't fight..." 
+1142		"It's a cleric thing. You wouldn't understand, big guy." 
+1143		"Uh... we're happy if you're happy?" 
+1144		"Yeah." (Look down.) 
+1145		Rollo looks to his buddies, who all shrug. 
+1146		"Okay. Sure. Uh. What do you want then?" 
+1147		Nice save. 
+1148		Slightly humiliating, but still. 
+1149		You have proven nothing but the shrinkage of your manhood. 
+1150		Be ashamed. Be very ashamed. 
+1151		The lanky kid gasps for air. "Yeah, <i>what</i>?!" 
+1152		"Go serve your city, Rollo. From within. That's the best way to create change. With my recommendation, you've got a foot in the door." 
+1153		Your heart is beating. 
+1154		But you cannot understand these youths. 
+1155		Unless... 
+1156		It's the parents' fault. 
+1157		Always is. 
+1158		"Don't you understand... how disappointed your parents would be, Rollo? All of you!" 
+1159		They stare at you blankly. 
+1160		"If your parents knew how twisted you all were... here in this anti-government <b>radical</b> terrorist group!" 
+1161		He lets out a mocking laugh. 
+1162		But you notice a hint of... what is that- <i>pain</i> in the laugh? 
+1163		"Are you kidding?" he says, and looks over to Nisse who just frowns. "You think they give a shit? They're just as angry about the state of the city." 
+1164		"They just can't do anything about it because... they've got so much shit to do." 
+1165		"We're free, so we have time to actually <b>do something</b>." 
+1166		"Well, be free somewhere else. This is private property. I think." (Make them leave.) 
+1167		"Sure. I get it." (Let them stay.) 
+1168		"I don't think you do." 
+1169		"But whatever." 
+1170		"Are you going to let us be now?" 
+1171		"...Yeah. Sure." 
+1172		"Good. Anything else?" 
+1173		The spell causes his eyes to glaze over for a second. 
+1174		Then he smiles. 
+1175		"Hey, hey now. Let's not fight. We're all on the same side here." 
+1176		"The cleric is our friend. I don't see why we should do anything negative and/or possibly annoying towards him." 
+1177		The short kid looks between you and Rollo. 
+1178		"Did you <i>charm</i> him? Seriously?" 
+1179		Rollo makes an incredulous expression. 
+1180		"What are you talking about, Toli? Don't be ridiculous." 
+1181		"Sten! Tap him on the back. Hard." 
+1182		The large boy shrugs. 
+1183		Then he slams his palm into Rollo. Hard. 
+1184		The esoteric veil over his eyes instantly evaporates. 
+1185		"Guh...! What the shit...?" 
+1186		"Hey! I spent a whole spell slot on that." 
+1187		"Nice counterspell." 
+1188		"Are you calmer now?" 
+1189		"Thanks?" 
+1190		"You CHARMED me?!" 
+1191		Your goblin companion leans over and whispers, "For once, I don't mind the mind control." 
+1192		"You were out of control. Basic procedure." 
+1193		"Sorry." 
+1194		"I'm not sorry. You had it coming." 
+1195		The blonde kid scoffs a few times, clearly attempting to comprehend his situation. 
+1196		"Well, we're not fucking leaving!" 
+1197		"If you're not leaving, then you have to make a decision about your future..." 
+1198		"That's fair." (Let them stay.) 
+1199		"You think some more painful magic could persuade you otherwise?" (Make them go.) 
+1200		"Alright. Then... we'll stay." 
+1201		"No more magic either." 
+1202		"Even if it's pretty cool." 
+1203		"But please, Lord Cleric- is there anything else you want to talk about?" 
+1204		He waves his hand. "You know what. Let's just go, guys." 
+1205		"This Cleric is a lost cause." 
+1206		The lanky kid closes his fist, turning off his readied fire bolt. 
+1207		The big kid just nods and doesn't look at you. 
+1208		You watch as the boys exit the rollermill, one by one. 
+1209		Until they no longer linger among the turning cogs. 
+1210		"Well. You got them to leave. That's something." 
+1211		E-Right. 
+1212		"I think... you did what you had to." 
+1213		He's too kind. 

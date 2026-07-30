@@ -1,0 +1,404 @@
+idx	prefix	english
+0		"Mr. Cityman!" 
+1		You see a throng of dwarves shuffling around inside the tiny apartment. 
+2		The smell of confined sweat reminds you of that summer you spent as a farmhand on the plantation. 
+3		Good times. 
+4		Terrible memories. 
+5		"Welcome to the Azgalian Sanctuary on Tolstad. For short, <i>AST</i>!" 
+6		Hells bells... It's like they're stacked on top of one another. 
+7		An apartment full of nothing but dwarven willpower. 
+8		How can they even breathe in here? 
+9		"This just looks like an apartment." 
+10		"What a wonderful sanctuary you've built here." 
+11		"...Sure. I've got some questions I need to ask you." 
+12		He draws in air through his teeth and looks around. "We might not be well-funded like you city-folk." 
+13		"But we use what little we have to full efficiency!" 
+14		"It's central. And it's small." 
+15		He draws in air through his teeth and looks around. "But we use what we've got to full efficiency!" 
+16		"Questions can be answered." 
+17		"Now, we're very busy here, but I'll grant you some of our time." 
+18		"But now the question is, what can <i>you</i> do for the Azgalian Workers' Party?" 
+19		"Oh. Right. I didn't think of that." 
+20		"Do you have anything particular in mind?" 
+21		"Yes. Give me a quest. Right now." 
+22		"Well, then. Let's see..." 
+23		The dwarf sucks in a deep breath through his teeth. 
+24		Then he glances to his men, before nodding slowly. 
+25		"We don't really need anything right now." 
+26		"What? No..." (Despair.) 
+27		"Nothing at all?" 
+28		"Good. Then I have some questions." 
+29		"I've got five men out on Waterlane Docks. I'm preparing speeches and overseeing poster distribution. All in preparation for the Great March, day before election day." 
+30		He looks like he's thinking of several other things he needs to be doing right now. 
+31		He's trying to make you think he's busy. He might also <i>be</i> busy. But still. 
+32		"So no real need for a spell-slinging cleric here, I'm afraid." 
+33		"Fair enough." 
+34		"It is what it is. Elections are won through organization and press." 
+35		"Not magic. Those days are long gone." 
+36		A fool speaks of things he does not understand. 
+37		IT EBBS. THEN FLOWS. 
+38		If you wish to help them, do not offer a cleric. Instead... offer assistance in their printing. 
+39		Speak with Modissa. 
+40		"Mr. Cityman. Back again." 
+41		"Whose apartment is this?" 
+42		"I want to know more about you, Alfoz." 
+43		"What if I'm here to shut down this entire operation?" 
+44		E-"That's all for now. Thank you, citizen." 
+45		"Simii was kind enough to lend us the use of his home until the election. We thank you, Simii!" 
+46		You hear a voice in the back. "No problem, Foreman!" 
+47		"You do, do you?" 
+48		His face stiffens. 
+49		He is shocked. 
+50		He realizes something. 
+51		"An... elf, you say." 
+52		"Dead one." 
+53		(Stare at him.) 
+54		"Mm-hmm," he mouths in your direction while glancing around the room. 
+55		He does not meet your gaze. 
+56		The dwarf is faltering. 
+57		He knows something. You can read him like an open... 
+58		Not right now. We're in the middle of something. 
+59		"Tell me what you know, Alfoz." 
+60		(Stay silent until he breaks.) 
+61		"The elf... was she..." 
+62		"In the fire. Yeah." 
+63		"But why didn't they..." 
+64		"They didn't look properly. You know how it is." 
+65		"Mm." 
+66		"That is unfortunate." 
+67		You see Modissa glance over to you, listening in on the convo with a deep frown. 
+68		"Pinja'Athena was a friend of the movement. I suspected she would be involved in this, somehow." 
+69		"But..." 
+70		The dwarf closes his eyes. 
+71		Years of toil take a toll. 
+72		Suddenly, he looks very much his age. 
+73		"I hoped she had simply left the city." 
+74		"Who was she?" 
+75		"Who did she work for?" 
+76		M-"So what, she was secretly an Azgalist?" 
+77		"Illym elf. Strange mixup, I agree." 
+78		"But she was kind." He looks away as he says it. 
+79		"Herself, from what I understand. <i>Understood</i>." 
+80		"Officially she was connected with the Illym Embassy, or whatever they call it." 
+81		"<i>The Outreach</i>." 
+82		"That's the one." 
+83		"I wouldn't go so far." 
+84		"But she... <i>helped</i>." 
+85		"Whatever she was, she shared information that was always helpful." 
+86		"Information?" 
+87		"So it was a transactional relationship?" 
+88		"Yeah. She most likely played you." 
+89		He smirks, a shit-eating grin. "No, Mr. Cityman." 
+90		"Or if it was, it was a very unbalanced one, since we never did anything for her." 
+91		"Played? Ah, you mean a game of intrigue." 
+92		"Perhaps, Mr. Cityman! But if she did, she was quite awful at it, since we never did anything for her." 
+93		"She would tell me things, whenever I saw her. Intercepted messages sometimes. Leverage to use in labor disputes." 
+94		"Business in the Palace. Polling numbers, before they're published. Opposition that had yet to strike." 
+95		"I'm sure we would have gotten ahead on that PPG issue, had she still been around." 
+96		His eyes grow dark. 
+97		"Thinking about it, she helped immensely over these last few years. Countless times. So I don't care what she identified as." 
+98		"In my eyes, she was an Azgal, through and through." 
+99		"So she was a really bad information broker?" 
+100		"Was she connected with the Freestriders?" 
+101		"What about the city, did she know people in the Palace?" 
+102		"Did she have any enemies?" 
+103		"So she sounds like she was just the best kind of person, huh?" 
+104		"What about the Illym? What did she think about them?" 
+105		M-"I think that's all I need to know." 
+106		He chuckles heartily. 
+107		With a hint of immense sadness. 
+108		"Good name for it." 
+109		"I'm sure she was. Somehow. Otherwise she wouldn't know half the stuff she sent over." 
+110		He nods. 
+111		"I don't have details. But yes, I'm sure." 
+112		"Lots, I imagine!" 
+113		"I warned her many times that granting us so much information could land her in danger." 
+114		"She did not care." 
+115		"She was alright," he mutters as his expression falls. 
+116		"You know, I asked her once." 
+117		"Now, she didn't exactly give me a straight answer. But something in my gut told me..." 
+118		"She was trapped. That's what she looked like. Like a trapped animal." 
+119		"I suppose that's why I hoped she had just upped and left when we didn't hear from her." 
+120		"She deserved... to be free. The gal." 
+121		"To be struck down in a damn tea shop..." 
+122		"It's foul, really." 
+123		"I don't see why she would." 
+124		"Of course, I admit, I don't know what kind of sorcery elves are capable of- but I can't imagine a dainty elf would create a fireball of that magnitude." 
+125		"At least I hope not. Otherwise the Illym will come for us all very soon." 
+126		"A... what?" 
+127		A dwarf would not know much about this, you imagine. 
+128		"You mean the... magic item?" 
+129		He knows nothing. That reaction is genuine. 
+130		This dwarf really can't lie, huh? 
+131		"Yes. Did Pinja ever mention it?" 
+132		"That's the one. Ring any bells?" 
+133		He shakes his head, slowly. "Don't think so?" 
+134		"Those are dangerous, aren't they? It's the one that started the... Coast War." 
+135		He stares at you for a moment. 
+136		His granite block of a brain is working it out. Slowly. 
+137		Just give him a second. 
+138		"...Hold on. Did the tea shop blow up because of one of those damn things?" 
+139		"Possibly. I'm looking into it." 
+140		"No." (Whistle.) 
+141		"Doesn't matter. But thank you for answering the questions." 
+142		"Well, do! I don't want that kind of filth in Norvik." 
+143		"Hm. Alright." 
+144		"...Sure. Any time." 
+145		"If there are those kinds of weapons lying about here, I'd want it taken care of." 
+146		"We don't want another Coast War started over another damn evil fool with a bomb!" 
+147		"Fair enough, Mr. Cityman. Fair enough." 
+148		"Hm. Yes, I do believe it was for the best." 
+149		"Humans do have a very different perspective from dwarves. And that's important to remember." 
+150		"But the party's current manifesto focuses on collaboration and Guild organization. Calling for some kind of uprising - even an economic one - would be very disruptive towards that goal." 
+151		"But at the same time, without projected power and united strength of the workers - all the workers - can we truly win the hearts of the Norvikians?" 
+152		"I'm not sure." 
+153		"Perhaps the gal is right. Humans might respond better to quick waves, rather than inevitable motions of the ocean." 
+154		"But I wonder of the broader political situation. The party's current manifesto focuses on collaboration and Guild organization. How will that work out if we call for an uprising- even an economic one?" 
+155		The dwarf shrugs. 
+156		"...We will see once the votes are cast." 
+157		He sounds like a man who knows very little, but feels very much. 
+158		His spirit is strong. His conflict eternal. 
+159		This is a <b>man</b>. 
+160		"But we will not forget the help you gave us, with this ink. Without you, large parts of the city would be without the Azgalian Chant." 
+161		He hands you a large belt, encrusted with dwarven iconography. 
+162		"For me?" 
+163		"Uh. Thanks. But I don't think I can wear this." 
+164		(Weigh the very heavy belt.) 
+165		"Bah!" 
+166		"Just throw it over your shoulder, Cleric." 
+167		"It is proof of your dwarveness." 
+168		"Be proud!" 
+169		(Tear up.) "Thanks." 
+170		(Hold it up.) "I'm a DWARF!" 
+171		All the dwarves in the apartment give a little applause. 
+172		"The cause is proud to have you on its side, comrade." 
+173		"We will not forget it." 
+174		He squints at you. "Hm." 
+175		"No, really. I'm very dwarfish." 
+176		"No, no. I believe you." 
+177		"Just wondering how much?" 
+178		"A quarter? Half?" 
+179		"I think I had a great grandpa-dwarf or something." 
+180		"A sixteenth?" 
+181		He grumbles. 
+182		"Well. You're a dwarf in my eyes." 
+183		"I'm sure you've got a lovely beard under that... <i>helm</i> of yours." 
+184		"Yes. Though don't remind me, I'll get itchy." 
+185		"Possibly." (Don't think about it.) 
+186		"Shaving is difficult." 
+187		He scowls. 
+188		"I can... imagine." 
+189		He clicks his tongue. 
+190		"Grooming is key." 
+191		He looks you up and down. 
+192		"You're kind of... <i>short</i> too." 
+193		Short and proud. 
+194		He means it as a compliment. <i>Dwarves</i>, man. 
+195		"Hah." 
+196		"A proud heritage." 
+197		"I'm <i>average</i>." 
+198		"<i>You're</i> short." 
+199		"Oh yes!" 
+200		"Well..." 
+201		"Short and proud." 
+202		The dwarf flashes you a smirk. 
+203		"Where are you from, dwarf?" 
+204		"What's this Bhan-Emvers thing?" 
+205		"How did you end up becoming an Azgal?" 
+206		"Do you think dwarves belong here on the surface?" 
+207		"What do you think about humans?" 
+208		"Which party do you think will win the election?" 
+209		"That's all I wanted to know." 
+210		"My life story, eh?" 
+211		"I was born in the <i>Billing</i>. A city within the twin mountains of eastern Vyz-Kha." 
+212		"It used to be a foul place, cleaned up in later years." 
+213		"It's the only VK settlement that's connected with River Torna, so growing up I often spoke with Norvikian sailors." 
+214		"I was always fascinated by the world outside. Especially since, as Exiles, my people were in many ways viewed as outsiders among the Underfolk." 
+215		"To not even be allowed to dig in your own mountains... what kind of life is that?" 
+216		"My family." 
+217		"I am a distant cousin with the ruler of Vyz-Kha Rikêdom. Something I am not proud of." 
+218		"A name is just a name. But annoyingly it has helped me over the years. I wish to distance myself as much as possible these days." 
+219		"Chance, mostly." 
+220		"I emigrated with some family members. I was still young, in my eyes." 
+221		"But coming to Norvik... suddenly being in your thirties meant that you were old!" 
+222		"I liked it. I used my education as a Bhan-Emvers to join dwarf-human activist groups around the city." 
+223		"Helping any way I could in various guilds. Sometimes as a laborer. Sometimes as a consultant." 
+224		"That is how I got in contact with the Azgalist Party, in its early days." 
+225		"I was not a founding member, but I was an assistant." 
+226		"Holding the title of <i>Third Secretary of The Azgalist Party</i> was my crowning achievement- for a long time." 
+227		"Now, some twenty years later, I'm a Foreman. That means I report directly to the party council, while still keeping my boots on the ground." 
+228		"That's the way I like it." 
+229		"Hm. An incendiary question." 
+230		"Dwarves belong where there is good, honest labor." 
+231		"That is, in my view, all along the Coast. As well as below it." 
+232		"There are dwarves building oppressive empires under several bands." 
+233		"There are dwarves who build ships, and journey dangerously close to Jor's Point." 
+234		"There are dwarves who live in settlements not unlike those of the Fordnip halflings." 
+235		"Just like you humans - just like any folk along the coast - we are as adaptable as they come." 
+236		"A pillar of Azgal belief is to not view people as cogs in a machine, but rather like slabs of sandstone, each shaped uniquely by lifetimes of toil." 
+237		"Like tall, skinny dwarves." 
+238		"Oh." (Look down at yourself.) 
+239		He stares at you for a moment, sternly, before bursting into laughter. 
+240		"We're all different, Mr. Cityman! But trust me when I say that all creatures you meet around this strange Coast of ours will always be more <i>similar</i> than we are different. Dwarf and human. Man and woman. Devil or angel." 
+241		"All bound by laws of nature- these rigid norms... and also, of course, a bunch of strange esoteric mechanisms. Yet a few words exchanged, and you'll find us with the same terrible flaws, and wonderful minds." 
+242		"So I like humans the same I like dwarves. Don't you worry." 
+243		"Party of Norvik. The Nationalists are in the clear lead, and will be until election day." 
+244		"The City will reclaim its supremacy, then." 
+245		"Oh really? So you don't believe in an Azgal victory?" 
+246		"I'm sure the Freestriders will win in the end." 
+247		"No. That's long gone." 
+248		He laughs. "An Azgal victory we've already had, Mr. Cityman." 
+249		He grunts. "I suppose they'll win as long as there is an election held, in some sense." 
+250		"The Workers' Party will get upwards of a fifth of the popular vote. Twenty percent." 
+251		"Freestriders a bit over twenty, and the Nationalists about a quarter. Maybe thirty percent, if they're lucky. Our current goal is to use these last few days to surpass the Freestriders, to limit their oppression of the working class." 
+252		"But the Nationalists will win the majority. <i>This</i> time." 
+253		"Good. I'm voting for the Party of Norvik, you see." 
+254		"You won't beat the Freestriders, not as long as I'm voting for them." 
+255		"We can beat them together, my dwarven brother. For Azgal!" 
+256	DC11 int-	"Sadly, that is true. But next time I might win, and rise to my position as god-king." 
+257	DC17 con-	"How about... Agrarians?" (Hesitantly mention that you're Agrarian, like it's some kind of social faux pas.) 
+258		"Well, I'm not voting for any of them." 
+259		He blows air out his nose. 
+260		It's like steam. 
+261		"Figured." 
+262		"I'd laugh, but I have a feeling you're right." 
+263		"Which is exactly why we're fighting them to the bitter end. One rally at a time." 
+264		"And perhaps reconsider casting your vote for an oppressive class of rich Reedsian merchants." 
+265		He grabs you by the uniform and gives you a full body slam. 
+266		OUF. 
+267		Your body is in shock from the force. But you can take it. 
+268		"For AZGAL." 
+269		"That sounds like Arcanist bullshit." 
+270		"You best be careful, spouting that around us greens. In jest or no. We don't take kindly to dictators." 
+271		"Too bad." 
+272		"It was just a joke. I think." 
+273		"I see. Thank you for being transparent." 
+274		The dwarf grunts, but does not push it further. 
+275		"Good folk." 
+276		"They are running big chunks of our countryside messaging. Some real good folk." 
+277		"When they flipped to our side, it was a bit of a messy situation at first- but it got handled and turned out very, very fine." 
+278		He grins. "We're lucky to have them." 
+279		"What? Oh, I suppose you're trying to stay neutral, as a Cleric." 
+280		"No, I'm just naturally apolitical. It's a talent of mine." 
+281		"No, I'm just lazy." 
+282		"Yes. Neutral. Exactly." 
+283		He frowns. 
+284		He is disgusted by you. 
+285		"Oh. Well. Shame, really." 
+286		He nods. "I can understand. Many workers in this city feel bound to something greater. It takes a lot to break free, and I would not demand that of any exploited lad." 
+287		"Okay, Mr. Cityman." 
+288		He glares at you for a moment. 
+289		Then he bursts into laughter. "Mr. Cityman!" 
+290		"I can say many things about you, but unfunny is not one of them!" 
+291		"I'm not joking." 
+292		"Yeah. A joke. Hah." 
+293		I can't stop these Azgals, can I? 
+294		His face grows stern. 
+295		"Good one." He taps you on the shoulder. 
+296		No, you cannot. 
+297		Wrestling a dozen dwarves? I mean... 
+298		Of course you could. But you do not need to. The law will catch up with them eventually. 
+299		Oh, you could never... 
+300		If you really want to shut them down, just go report their location to the Freestriders. 
+301		<i>Duh</i>. 
+302		"If you try anything. Any magic. We will break you." 
+303		"So stay on our good side, Mr. Cityman!" 
+304		He's joking. A bit. 
+305		He is not joking. 
+306		"What I know?" 
+307		"I know damn well how happy I am that none of my boys were inside at the time." 
+308		"Especially happy that none of the Youths got hurt either. They spent a lot of time there, from what I understand." 
+309		"The Youths?" 
+310		"Did you know the owners?" 
+311		"Where were you and your men on the day of the explosion?" 
+312		"What are your thoughts on the explosion?" 
+313		"That's all about the tea shop, for now." 
+314		"The Azgal Youth. It's the youngling corp. They mostly deal with teenagers, and get them into the Azgal 'groove' as they say." 
+315		He looks proud. 
+316		This dwarf does not keep up with modern vernacular. 
+317		"The bird-man? No, I never spoke much with him." 
+318		"Something about him never struck quite right with me. And- and not because of the voice thing. Just..." 
+319		"It seems like he was happy about hosting the Youth's meetings, and letting us have official drinking nights with local workers." 
+320		"But he seemed to me an opportunist, if anything." 
+321		"Something about the way he acted. Hm. Not sure what. Just a gut feeling, you know?" 
+322		The dwarf KNOWS. But not why. 
+323		A man of intuition and little else. 
+324		"Busy. As always." 
+325		"Now I can't keep track of every lad in here, but me myself? I was in the Palace at the time. Applying for five or so PPGs alongside another Foreman." 
+326		"I heard the boom, though. Most of the city probably did. Right at noon." 
+327		"No one really seemed to care that much. Even with the ball of smoke rising from Tolstad. I rushed over, of course." 
+328		"Fact that no one died was a miracle. And I'm not one to assign to divine intervention for nothing." 
+329		"Freestriders. For sure one of their ploys, or plans, or schemes that blew up in their faces." 
+330		"Maybe one of their hired hags. Or an elemental mercenary gone rogue?" 
+331		"I just know it. They're involved in this. And probably the owner, that Drummer fellow as well." 
+332		"Good, good." 
+333		"Freestrider." 
+334		"Of course, you- excuse me?" 
+335		He gives you a clap on the arm and laughs. 
+336		"No! Azgalist, of course!" 
+337		"What a stupid thing to ask. I like that about you." 
+338		He cannot call you that. That's an insult. 
+339		Yes, you are pretty stupid. 
+340	DC8 str-	"Are you calling me stupid?!" (Get offended.) 
+341	FC8 str-	"You're right. I am stupid. I apologize." (Lower yourself before this, much stronger, man.) 
+342		"You do?" 
+343		"It's not... stupid." 
+344		He scoffs. 
+345		"Don't act like my Curse-Mother. It's only a jest, Cleric." 
+346		"Don't be so sensitive." 
+347		He grimaces. 
+348		"Damn it, it was a jest. Stand up for yourself." 
+349		"Okay." 
+350		"...No? I won't?" 
+351		"That's good. I mean, no, you should-" 
+352		"Just... nevermind." 
+353		"That's good!" 
+354		"Be a man! Stand up straight! And so on." 
+355		"Look..." 
+356		"It is. A bit, yeah. But..." 
+357		"A man can only learn by asking." 
+358		"Keeping it inside will only leave way for ignorance." 
+359		"So keep asking your awful and <b>dumb</b> questions, Mr. Cityman!" 
+360		He is, as they say, <i>busting your balls</i>. 
+361		Like any true man, you enjoy it. 
+362		Such an insult. 
+363		This cannot stand... 
+364	DC13 str-	I enjoy getting my balls... <i>busted</i>? 
+365	FC13 str-	"Don't call me dumb, you... <shake>you</shake>..." 
+366		Yes. Of course. 
+367		Only a <i>pussy</i> would falter at some regular old banter. 
+368		Again, do not use that term. 
+369		Why don't you try to instead say, 'You'd have to <i>have</i> a pussy to handle <i>this</i> banter.' 
+370		This does not make any sense. 
+371		"Suitable questions for you then, Alfoz." (Tap him on the back.) 
+372		It's like slapping a cliff. 
+373		He laughs. 
+374		"Indeed, Mr. Cityman." 
+375		The dwarf lifts his chin to you. 
+376		"You fat - <i>fucking</i> - <shake>GNOME</shake>!" 
+377		(Take a breath.) 
+378		The dwarf stares at you, slackjawed. 
+379		Modissa stops working in the corner, glaring at you. 
+380		Holy shit. 
+381		"...You're a... sensitive fellow, aren't you?" 
+382		"...I don't wanna talk about it." (Seethe.) 
+383		"Don't call me dumb." (Seethe harder.) 
+384		"Hm?" 
+385		"Please don't call me dumb. I don't like it." 
+386		"I'm cool. I'm cool." 
+387		"Can't handle the banter, eh?" 
+388		"Too bad." The dwarf walks up and taps you on the back, hard. 
+389		"This is a place for men. Not <i>boys</i>." 
+390		You catch a glimpse of Modissa rolling her eyes in the corner. 
+391		"OI!" 
+392		"What are you doing?" 
+393		(Stop leaning out over the edge.) "Nothing." 
+394		(Switch into a stretching motion.) "Oh, nothing. Just some isometric exercise." 
+395		(Just walk away.) 
+396		"Well, stop it. You'll get hurt like that." 
+397		"And we keep a bunch of valuables back there. Like our prized Belt of Dwarvenkind." 
+398		"Oh, I see. Tell me more about it." 
+399		E-"Won't happen again." 
+400		"It's a symbol of dwarven friendship! A belt given to friends of Azgalian dwarves, forged by the artificers of the old empire." 
+401		"Expensive as all hells! So don't go touching it." 
+402		E-"Right." (Wipe the sweat off your brow. But instead just end up wiping the front of your helm. Then leave.) 

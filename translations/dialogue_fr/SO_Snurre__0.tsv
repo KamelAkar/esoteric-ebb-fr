@@ -1,0 +1,501 @@
+idx	prefix	english
+0		You take a step into the cramped office, standing in front of a sleeping halfling. 
+1		This is a scholar? 
+2		<i>Curse the gods</i> - go investigate his book collection before waking the lazy halfling. 
+3		Isn't that a gnome? 
+4	FC8 int-	What's the difference? 
+5		(Kick the lounge chair.) 
+6		"<b>Good forenoon, citizen</b>!" 
+7		"Hello?" 
+8		E-I'll leave him alone for now. 
+9		Aesthetics, <b>only</b>. 
+10		They assure you that there is a distinct biological and esoteric difference, but you know it's all hogwash. 
+11		They're short. They're stout. They're the same. 
+12		That is reductive and false. 
+13		Don't even think things like that. 
+14		"Guh!" he exclaims and throws open his bushy eyes. 
+15		"Oh...!" he mutters and widens his bushy eyes. 
+16		"Oh..." he moans and slowly opens his bushy eyes. 
+17		His confused gaze focuses on you. 
+18		"<i>Life is pain</i>." 
+19		"What?" 
+20		(Glare at him.) 
+21		(Kick the chair.) 
+22		"<b>Guh...!</b>" 
+23		"Calm down," he says, trying to conceal a smirk. 
+24		"Stop! Are you a madman?!" 
+25		"No. I am <b>The Cleric</b>." 
+26		"Wake up." 
+27		"Sorry. I had to." 
+28		"Clearly," he says, groaning. 
+29		"I am doing it!" he shouts, then groans. 
+30		"I disagree," he tells you, groaning. 
+31		"Terrible, terrible pain. <i>Oh...</i>" he mutters and rubs his face. 
+32		The wrinkles fold over one another like waves on a storied sea. 
+33		He's pretty old. And tired. 
+34		"Are you..." 
+35		He looks at you with his weary expression. Then he rubs his nose and sniffs twice. 
+36		"Are you here for the invoice?" 
+37		A quick glance to Snell. 
+38		His words come out in a typical Fordnip accent. 
+39		His words come out in a stilted halfling accent. 
+40		"...What?" 
+41		"No?" 
+42		"The <shake>invoice</shake>!" 
+43		"I don't have any invoice. Not for you at least." 
+44		"You don't?" 
+45		"No." 
+46		"Oh." 
+47		"Oh?" 
+48		"<b>Gah!</b>" 
+49		He grips the armrests of the chair. 
+50		"That was slightly unnecessary," Snell tells you. 
+51		"Stop this <i>kicking</i>!" 
+52		"All done." (Smile, despite the fact that no one can see it.) 
+53		"...I'm not dead yet, damn you." 
+54		"Oh. Hold on." 
+55		"I've already paid that invoice! You're here for something different." 
+56		He leans in, facing Snell. "I hope queen goblin has no quarrel with this old scholar?" 
+57		He holds up a palm. "Nah. We're here on city business." 
+58		"Yes, I've got some questions about the tea shop, mostly." 
+59		"I'm exploring random buildings, and yours was unlocked." 
+60		"Tea shop? Then you are dealing with interesting events." 
+61		"The city has seen its fair share of great calamities over the years, and the tea shop explosion appears tiny in comparison." 
+62		"Tiny? No. It's a huge conspiracy." 
+63		"Probably. But I have some questions regardless." 
+64		"A huge one? Better take care of it, then." 
+65		"Of course!" 
+66		"That's not..." 
+67		"So you are a trespasser of benevolent intent?" 
+68		"...I guess that's not too far off." 
+69		"Curiosity is absolutely vital for keeping the old brain in motion. So I commend you, Cleric!" 
+70		"And you as well, my goblin friend." He looks around, grunting. "Can I get either of you some <i>fucking</i> water, or...?" 
+71		He wields swear words like Coastal winds. 
+72		You like this guy. He's like a rabid dog, without the biting. So far. 
+73		This halfling is wild. In a fun way. 
+74		"No, thank you," your companion replies very quickly. "You're Scholar Appledent, right?" 
+75		"Me? Yes!" 
+76		"I am <b>Snurre Appledent</b>," he says and bows his head in the chair. "Scholar of Fordnip University, in dedicated service to the progress of AIS." 
+77		"But what exactly do you do?" 
+78	FC15 int-	"AIS?" 
+79	FC15 int-	"You study alignment?" 
+80		"Many things!" 
+81		"Alignment Intent Studies." 
+82		"Among other things." 
+83		"Primarily, my expertise lands on the topic of alignment, and its many historical and contemporary applications. Some <i>bullshit</i>, I will tell you." 
+84		"These days I mostly deal with other forms of study. Specifically, I run this office here on the experimental technique of psychoanalysis." 
+85		Ah, yes. He's a scholar of Cividix. Modern psychoanalysis is an offshoot of his methods. 
+86		"What kind of magic is that?" 
+87	DC18 int-	"The Cividix method?" 
+88		"No magic at all. Although there has been some <i>Detect Thoughts</i> involved at some points in the development." 
+89		"You read! A wonder of the clerical trade!" 
+90		"It is a form of mind healing, as they call it. I'll be one to call it 'support' instead." 
+91		"It is essentially the idea that the mental present is shaped by the mental past. And that through dialog, our unreleased unconscious <b>ghosts</b> can be vanquished." 
+92		"...An exorcism?" 
+93		"So it's... talking... about <i>feelings</i>?" 
+94		"Can't you just cast a healing spell?" 
+95		"...Almost!" 
+96		"While the ghosts are metaphorical, it is really not that different from the expulsion of a necrotic possession." 
+97		"I know. Truly horrifying." 
+98		"If only! The mind is sadly a bit more complicated than that- to the point where even the great Arcanists could not make a proper mind healing spell. So this technique makes up for it." 
+99		"A Reedsian friend of mine once told me this joke, and I apologize if it is too vulgar for your taste, but," he sputters out the words through little chortles. 
+100		(Listen to the vulgar joke.) 
+101		"How vulgar?" 
+102		"I don't have time for a joke." 
+103		"Very vulgar!" 
+104		"It's about a woman's private parts." 
+105		(Lean in.) "Go on." 
+106		"Then I'll skip. I'm sensitive about stuff like that." 
+107		"Right." 
+108		"A Cleric, an Arcanist, and a Rogue delve into the lair of a succubus!" 
+109		"The fiend defeats all three men, throwing them in her dungeon." 
+110		"But she grows to fancy them, so she offers them a choice: for each man who can successfully satisfy her, she will let that man go. Otherwise," he speaks with little fits of laughter in-between, "she ends them, so to say." 
+111		This is going to be a long tale. 
+112		You actually haven't heard this one. 
+113		If it is sacrilegious, you'll have to beat the gnome. 
+114		"Ho, ho, ho..." 
+115		"A succubus? Such a fiend would never offer such terms to mortal men." 
+116		"What a rambunctious tale. Do go on." 
+117		(Nod along.) 
+118		"Okay, I regret this. I'll skip the joke please." 
+119		"Yes, yes. Let me tell the joke." 
+120		"So the three adventurers debate in which order to go. Eventually the Rogue and Arcanist decide the Cleric should go first, as he is a virgin and will be least likely to increase her standards." 
+121		Your goblin companion rubs his eyes as he listens to the joke. 
+122		"The Cleric, being divine and so on, prays to his god and goes to the fiend's bedchambers. He comes out ten minutes later, completely unharmed, and gives a thumbs up to his two friends, who of course both feel a great sense of relief." 
+123		"The Arcanist goes in next, confident and arrogant. If the Cleric could do it, the fiend must be easy! Within minutes, his bones roll out of the bedchamber entrance, the man having been incinerated by hellish flames." 
+124		"The Rogue is horrified, but realizes: obviously, the Arcanist overestimated his abilities. So he carefully enters the bedchamber, ready to put every ounce of effort into it." 
+125		"Less than a minute later, screams erupt from the bedchamber, and the Rogue's lifeless corpse falls out of the entrance." 
+126		"The Cleric prays for the souls of his comrades and gathers their remains for burial. The succubus steps out, smoking a cigarette. She tells the Cleric, <i>My, your friends were truly terrible. They were just fumbling about down there. At least you managed to touch it a little</i>." 
+127		"To which the Cleric responds, <i>You are truly an awful creature and I will pray for your presence to be exorcised from this plane of existence every day until the day I die.</i>" 
+128		"Then, before he walks away, the Cleric also adds, <i>Oh, but I did heal that horrible wound you had between your legs. Hopefully that makes you less evil in the future</i>." 
+129		The goblin lets out a slight gust of wind through his nose. 
+130		(Laugh hard.) "I get it!" 
+131		"I don't get it." 
+132		"Funny." 
+133		"Not funny." 
+134		"Didn't laugh." 
+135		The halfling chortles loudly. 
+136		"My kind of humor, you might say." 
+137		"In short, you can view the succubus as an evil in the world which religious fervor would pray to repair- however, such reparation could often lead to a not-so optimal path." 
+138		He keeps on laughing. 
+139		"Or, most simply, you could say it's a basic allegory for alignment itself. The Cleric meant well for all intents, but his actions cost the lives of both his comrades. Is that evil? Or is it good? And so on." 
+140		The halfling nods. "I understand, I understand. No jokes. Clerics are very serious, I understand." 
+141		"Either way, uh... <i>psychoanalysis</i>. Yes, that's what we were talking about." 
+142		"It's about your feelings, thoughts... memories. Choices you've made. Things that have happened to you." 
+143		"They can <i>bog you down</i>, so to say. And the goal in my clinical practice is to root that out in my patients' minds, and help make them aware of repressed negative <i>baggage</i>, if you will." 
+144		"So one can move forward more speedily." 
+145		"I don't have any repressed negative feelings." 
+146		"Sounds like removing a curse of the mind." 
+147		"I don't really care." 
+148		"A bold claim!" 
+149		"In a metaphorical sense, yes." 
+150		"That's fair. Many are opposed to this type of practice." 
+151		"But it's not the only thing I work on here. I am currently exploring the <b>dream of Anima, Animus</b>." 
+152		That's something to do with masculinity and femininity. Based on Cividix's ideas. 
+153		A dream of man and woman. 
+154		What a pervert. You like this guy. 
+155	DC13 int-	"You explore men and women?" 
+156	DC9 wis-	"You dream about men and women?" 
+157		"Sounds interesting." 
+158		"Sounds boring." 
+159		"Poor phrasing, but yes." 
+160		"Sometimes!" 
+161		"But the 'dream' is just a concept of understanding gender ideologues." 
+162		"It is!" 
+163		"I disagree!" 
+164		"Beyond that, I also focus a lot on my own unverified theories..." 
+165		He slaps his knees and grins. 
+166		"<b>The Folk Spirit</b>. Have you heard of it?" 
+167		It's something he made up. Doesn't mean it's not correct though. 
+168		Sounds like a collective folk view on morality. 
+169		"No. I have not." 
+170	DC13 wis-	"Is that some kind of unified moral or ethical code of a people or culture?" 
+171		"Yes." 
+172		"Understandable. It's not yet published." 
+173		"No, it's-" 
+174		He leans back and squints. 
+175		"That's not actually that far off. You've got a head on you, Cleric." 
+176		"Oh!" 
+177		"Then tell me, what is it?" 
+178		"I lied. I have no idea what you're talking about." 
+179	ROLL18 int-	Figure it out. 
+180		Ah... 
+181		Just look at this halfling. 
+182		He's clearly walking in the footsteps of the study of unconscious mind melding. 
+183		Your best guess would then be... 
+184		"The Folk Spirit... is that based on the idea of universal folk myths?" 
+185		His bushy eyebrows reach for the ceiling. 
+186		"Why, yes! Very good guess, Cleric." 
+187		You stare at the halfling for about thirty seconds. 
+188		"You're a quiet one, Cleric." 
+189		An idea pops into your empty, empty skull. 
+190		"The Folk Spirit is a communal ghost that haunts us every autumn." 
+191		"The Folk Spirit is a great Fordnippian wine." 
+192		"The Folk Spirit? That's a music genre." 
+193		"...Not a terrible guess, but no." 
+194		"Yeah, I have no idea." 
+195		"The Folk Spirit is the working title for my new thesis." 
+196		"Most of it is, if you excuse my anuran, <i>fucking bullshit</i>." 
+197		"But in short, it is about how each folk share a number of core communal archetypes, or myths. I have traveled around the Coast to collect as many tales, writing down thousands of stories previously only passed down orally." 
+198		"All to see how well my theory holds up, in the minds of so, so many folk." 
+199		He clears his throat and leans back into his chair. 
+200		"Apologies. I am ranting here, let us put a stop to it. What do <i>you</i> want, Cleric?" 
+201		He waves a hand in front of him. 
+202		"<i>Life is pain</i>. Now what do you want?" 
+203		"I want to inquire about this, 'Folk Spirit'." 
+204		"You're an expert in alignment, huh?" 
+205		"How does death and resurrection work with all this stuff?" 
+206		"Why don't you use magic in your 'mind healing'?" 
+207		"What is love?" 
+208		"You're a halfling, right? Give me your thoughts on the Clanland ordeal." 
+209		"I have some personal questions for you." 
+210		E-"That's all for now. Thank you, citizen." 
+211		"Eh. Nothing too interesting there," he says and sniffs. 
+212		"I see no reason why you would investigate an old halfling with nothing good to grant into the world." 
+213		"You seem interesting enough." 
+214		"Okay. I won't dive deeper, then." 
+215		"Please?" 
+216		"Kind of you. But you are wrong." 
+217		"My work is the only thing that is interesting, I assure you." 
+218		He nods and scratches his head. 
+219		He waves his hand dismissively. 
+220		Fine. Keep your secrets, old man. 
+221		"Yeah." 
+222		"Had this iron mask on. Real creepy." 
+223		"Ah." 
+224		"Cults are not as common these days, but a few still spring up from time to time, of course." 
+225		"What did the mask look like?" 
+226		"Green. Oxidized copper, maybe." 
+227		"Had lines across it. Seemed esoteric." 
+228		"Definitely esoteric." 
+229		(Just listen.) 
+230		"And a dagger. A wavy yellow thing." 
+231		"Basically, he ran at us and tried to stab us. And... well, something magical was going on too." 
+232		"Then he got away before we could get answers. After he... failed to kill us. Or at least the Cleric." 
+233		"Hm." 
+234		"Well?" 
+235		"Not a cultist." 
+236		"Doesn't sound like it. Not any organized thing, at least. Sounds more like some lone actor." 
+237		He sniffs. 
+238		"Cultists move in groups. They kidnap rather than kill. They wear matching uniforms, like some fucking theater performance." 
+239		"From all the cults I know of- Esuth's Dragon Cult, the Cult of Elemental Evil, the various titan cults... and all the borderline-cults for the evil walking gods." 
+240		"This could be a new one. Or some minor cult history has overlooked?" 
+241		"Hm. More likely this is a <i>radicalized spellcaster</i>. Or a follower of some magical creature? If he's draped up in magic gear, it's more likely a professional hit." 
+242		"Does anyone want you dead?" 
+243		"Clearly. No clue why though." 
+244		"Might have to do with the tea shop." 
+245		"Oh yes. Probably because I'm important." 
+246		The halfling barely listens to your comment, and touches his mustache. 
+247		"Perhaps... a <i>warlock</i>." 
+248		The goblin winces at hearing the word. 
+249		"But for what patron? A fey-creature? Or some aberration? Who knows!" 
+250		"You should be careful though. That kind of magic is deadly at best." 
+251		"Right. Good info. Slightly horrifying but good info. We'll keep that in mind if we run into him again." 
+252		"You do that. And my tip? Strike before he gets off any dark magic on you." 
+253		"As the old legionnaires say: <i>rather a blade in the belly than a curse on the balls!</i>" 
+254		He laughs. 
+255		He's laughing. Someone's out there trying to kill you, and he's laughing. 
+256		You can handle it. You can handle anything. 
+257		Anything but Mass Torsion, and you should be fine. 
+258		"Of course! I am however a bit swamped in work right now. I will get you a booked slot." 
+259		"I have time after the election. You should come visit then!" 
+260		"Can't you make time now?" 
+261		"Okay. I'll do that." 
+262		"I will probably forget, if I'm being honest." 
+263		"No. I'm afraid I cannot." 
+264		"Great! I have not had a chance to hold a dialog with a cleric before. It will be interesting." 
+265		He laughs. "That is fair. I am forgettable." 
+266		"Truth be told, I am very overworked. I'm struggling with a certain topic..." 
+267		He makes a noise that might once have been a cough. 
+268		The old man is frustrated. He's trying to avoid even thinking about it. 
+269		"I am focusing on a specific idea of Cividix." 
+270		"The idea of two opposite faces of your <u>ego</u>. Masculine and feminine." 
+271		"But I just can't seem to get past a certain hurdle. Obstacle." 
+272		"Explain." 
+273		(Just stare at him.) 
+274		Is he going to keep talking no matter what I do? 
+275		Oh yes. 
+276		You have no control here. 
+277		Not like you have anything better to say yourself. 
+278		"You see, there is a work called, 'Book of the Mind.' It is, in my opinion, Cividix's 'masterpiece' in the figurative sense." 
+279		"Oh. Is it like a secret book? Hidden deep in some dungeon?" 
+280		"Sounds nerdy." 
+281		"Figurative?" 
+282		"Oh, no. I own several copies." 
+283		"Indubitably," he says with a grin. 
+284		"Indeed." 
+285		"No, I'm asking. What does that mean? A 'figurative masterpiece'?" 
+286		(Just nod.) 
+287		"It... I am saying it is a masterpiece in the sense of the common tongue. As opposed to a masterpiece in the literal sense, being a work to finish a master's scholarship." 
+288		"Anyway." 
+289		"There is a rare edition of this book, which contains a rumored so-called 'final foreword' from Cividix himself." 
+290		"In this foreword, he apparently reveals a revelation about his categorization of the psyche." 
+291		"Specifically on the topic of <i>gender</i>." 
+292		Truly eldritch knowledge. 
+293		"Might be nothing, but it would be highly interesting to get my grubby hands on it." 
+294		He leans in and whispers, "And more importantly, it would bring me great pleasure to know how much Cividix would be spinning in whatever Thazenian mass grave he's buried in if he knew a <i>halfling</i> like myself was pioneering in his footsteps, ho ho!" 
+295		"He wasn't a fan?" 
+296		"Understandable. You guys are pretty weird." 
+297		"You want to develop his ideas further?" 
+298		"Like most humans of his era, he was very- let's say, <i>humanity-first</i>." 
+299		"<i>I</i> might be, but most halflings are quite boringly normal." 
+300		"Yes. That is the idea." 
+301		Snurre leans back in his chair. 
+302		"This final sixth edition of the book... it was only printed in ten copies. The publisher then hiked up the price in order to sell it to collectors." 
+303		"Those collectors have then spent the last three decades using these copies as a form of investment. Making sure to keep the content of that foreword a tightly guarded secret." 
+304		Reading such trite? Terrible. 
+305		Reading... is boring... 
+306	FC7 int-	"Good. Reading such trite is for suckers." 
+307		"How terrible. A scholar's words should be freely available." 
+308		"Smart way of making money." 
+309		"If it's about <i>gender</i>, then it's better to keep it a secret." 
+310		He scoffs, loudly. Some spit flies from his lips to your boots. 
+311		"I mean, you are correct. But still, anti-intellectualism is a foul way of going through the world." 
+312		"Nothing is ever free. Even if it is free." 
+313		"No doubt. Like any good capitalistic method, it sucks value from a work, like Mosquito Sand." 
+314		"Ho, ho, ho." 
+315		"You fear the unveiling of weird gender bullshit? That is good. Fear means there's something interesting to find." 
+316		"So what, you want me to find this rare book?" 
+317		"I don't think I could afford that." 
+318		"You should save up money and buy one, if you want it that bad." 
+319		He nods. 
+320		"I don't doubt it." 
+321		"Sure. I'll just go grab that dragon hoard I've got hiding behind my toilet." 
+322		"Where did you find a hoard?" 
+323		"You have a license for that?" 
+324		"That expensive?" 
+325		"I'm joking." 
+326		"I'm joking. And... didn't know dragon hoard license was a thing. Interesting." 
+327		"I drank a bit too much the other night. And in my desperation, I paid a diviner to cast Locate Object for me." 
+328		"I didn't expect anything, and it was very expensive." 
+329		"However, she actually found it! A copy of the Sixth Edition Book of the Mind is here. Very close to Waterlane View." 
+330		"And she even told me the exact direction." He points to the floor. "About forty meters. Straight. <b>Down</b>." 
+331		"Meters?" 
+332		"It's in the City Below?" 
+333		"And you trust this diviner?" 
+334		"What was the name of this diviner?" 
+335		M-"This sounds like a quest." 
+336		"...Right." 
+337		"That is something like a hundred feet. Hundred fifty, maybe." 
+338		"Sorry, the diviner was a Freestrider. You know how they're like in Reeds. Silly decimal people." 
+339		"Yes! Exactly!" 
+340		"Well." 
+341		"Trust might be a bit strong of a word." 
+342		"But she was connected to the Freestriders. And while they are ruthless capitalists, they would not keep a scam artist around." 
+343		"Or if they did, it would be very funny of course." 
+344		"Lisa, I believe." 
+345		"She used to have a hut on top of the Freestrider building." 
+346		"It wandered away, I think." 
+347		"Wandered?" 
+348		"Oh. Okay." 
+349		He makes little walking motions with his fingers. 
+350		"Scadoodled, as they say." 
+351		That's very strange. 
+352		An esoteric house? 
+353		"She seemed kind. I hope she stops working for those fucking parasites." 
+354		"Sure, why not?" 
+355		"So many side quests..." Snell mutters to himself. 
+356		"Delve into the dangerous tunnels below and get me that book. Don't get yourself killed. And in exchange I will, er..." 
+357		"Well? What the <i>fuck</i> kind of reward do you want?" 
+358		"You swear a lot." 
+359		"I want you to teach me how to be <b>a man</b>." 
+360		"I want you to heal my broken mind." 
+361		"I don't know. Do you have a magic item or something?" 
+362		"Yes. Fuck you." 
+363		"Life is pain, get over it." 
+364		"No, impossible." 
+365		"I have no idea myself. Pick something different." 
+366		"Impossible. No one can fix another's mind." 
+367		"I can promise support, but no guarantee. Choose something else." 
+368		He shrugs. "I have books in droves?" 
+369		"You know what," he says and snaps his fingers. 
+370		"The book itself. It's expensive and probably magical in some sense." 
+371		"Get me the book, let me take a look at that foreword, and you keep the book afterwards. That's still a quest, right?" 
+372		"But I don't have to even return to you in that case. I can just take the book and go." 
+373		"So you can't offer me something else too?" 
+374		"That sounds wonderful. I love quests." 
+375		"True." 
+376		"What, you want a hug?" 
+377		He sighs. 
+378		"I suppose I can offer some guidance in understanding the book as well. If you let me make a copy of that foreword real quick." 
+379		(Cheer.) 
+380		"This quest will be completed." 
+381		"We'll see if I find it." 
+382		"Huzzah." 
+383		Please don't huzzah. 
+384		(Yell.) "Huzzah!" 
+385		"That we will." 
+386		"I am not an expert in what kind of weird shit is down there. But the City Below is dangerous. So don't wander blindly." 
+387		"Meek know underground good! Meek will warn master in time for traps." 
+388		"Good luck, Cleric." 
+389		"Imagine, if you will, the origin of our stories." 
+390		"All stories?" 
+391		"Sure." 
+392		(Just keep quiet and let him rant.) 
+393		"Yes. All of them." 
+394		"Good." 
+395		"As sentient folk we clearly have the base ability to come up with random ideas and turn them into emotionally resonant tales." 
+396		"Tales that explore the condition of life itself, and make us <i>feel</i> many things." 
+397		"But an interesting thing happens if one were to study the core parts of these stories." 
+398		"That even if we look at stories crafted in entirely different bands, separate isolated tribes, or even in worlds outside Jor itself..." 
+399		"There's overlap." 
+400		Should I just let him speak? 
+401		(Stay quiet.) 
+402		Eh. Just repeat the last thing he said. That'll make you sound smart. 
+403		Eh. Reinforce his world view. That'll make him happy. 
+404	DC10 cha-	"Overlap?" 
+405	FC10 cha-	"Awesome. You're very smart." 
+406		"...Thank you, Cleric." 
+407		He clears his throat. 
+408		"Humans who live in the remote mountains of Ym have the same repeated tropes in their foundational myths as humans in Reeds." 
+409		"Same for halflings. The Stormbloods of Kargamesh have the same variations as my people in Fordnip. Despite being separated in esoteric evolution by at least ten millennia." 
+410		"It's as if every folk is haunted by a <i>spirit</i>. Like an unconscious collective dream of concepts and ideas that follow us." 
+411		"Even when those separate folk originate from entirely different <i>worlds</i>. Could you imagine?" 
+412		"Two folk arrive through two separate Gates of Jor." 
+413		"They are alien to one another. Culturally. Spiritually. <b>Biologically</b>." 
+414		"Yet they <i>share those core myths</i>." 
+415		"That is what I am studying." 
+416		Don't let him rant anymore. Please. 
+417		"That is very interesting." 
+418		"I'm not sure I understand." 
+419		"That's stupid." 
+420		"I have no idea what you're talking about." 
+421		"Isn't it?" 
+422		"Then I apologize for not explaining it better." 
+423		"And it is a very strange idea after all." 
+424		"Agreed!" 
+425		"Stupid and silly. But that is another reason I enjoy it as a concept." 
+426		He lets out a hearty laugh. 
+427		"Understandable! But..." 
+428		"Most importantly, it's <i>provable</i>." 
+429		It's like a type of collective unconscious, spread across each folk type. 
+430		A unified soul of a people. What happens upon merger? 
+431		"How is it provable?" 
+432		"Is there a Folk Spirit that's better than the others?" 
+433	DC17 int-	"So it's a type of collective unconscious?" 
+434		"What happens when two folk types merge?" 
+435		M-"I think I understand now." 
+436		"Reproducibility. Analysis." 
+437		"Cultures and folk who had no contact with one another, even originating from different worlds both have the same core myths." 
+438		"Narrative traits. Archetypes. Repeated tropes." 
+439		"It's the same method used when uncovering ancient dead languages." 
+440		"Using common denominators to narrow down similarities and differences." 
+441		He adjusts his mustache. "Now, er... there hasn't been <i>that</i> much reproducibility yet from my peers." 
+442		"I'm still working on getting other scholars in on this topic." 
+443		"Better means nothing. There's so much weight put onto making one greater in some perspective than others, and it's just a ridiculous game of dick swinging." 
+444		"Of course, I also hate this horrid idea that every culture is amazing, and wonderful, and-" 
+445		"You know, everyone is holding hands and dancing together- <b>no</b>!" 
+446		"Every culture is equally <b>terrible</b>." 
+447		"But they are all specialized. These symbols we produce are clothed in meaning based on lived experience." 
+448		"A human living in the frozen tundra will derive and require much different practical uses of those core myths, than a man living in the harsh deserts. Yet each folk type has its own fundamental traits that these symbols represent." 
+449		"You talk a lot." 
+450		"That's very interesting." 
+451		"I know. Just tell me to shut up when you get tired." 
+452		"It is a lot of junk, with some nuggets of gold. That much I will say." 
+453		"A very fancy way to phrase it. I would say if all sentient folk shared those same core traits, it would be exactly that." 
+454		"I do look for that." 
+455		"The possibility of distilling not the core myths of each folk, but of all sentience." 
+456		"It would not surprise me if there was another layer to this puzzle." 
+457		"Ah! Yes." 
+458		He lifts a finger. "No clue." 
+459		He's honest. 
+460		"It is even harder to pinpoint, due to the nature of merging cultures." 
+461		"In cases like humans and dwarves here in Norvik, there's more data, but not enough to say anything of note." 
+462		"But it seems to me like the Folk Spirit remains 'pure' in a sense. In one direction or the other." 
+463		"For example: humans can obviously reproduce with dwarves. But the offspring is always, aesthetically and biologically speaking, very human. Which does not make sense, biologically. We are, scientifically speaking, different species. Dogs do not breed with cats, do they?" 
+464		"The same effect can be seen in most functional folk-mix breeding. Logically, it should not be. Evolutionary adaptation dictates the creation of a mixture, not a one-sided creature. So it is theorized to be some type of powerful esoteric effect that allows this reproduction to take place. In the scholarly community, we call it the OSO effect. <i>One-sided Offspring</i>." 
+465		"You know a lot about this topic, huh?" 
+466		"So one side is always dominant, huh?" 
+467		"But doesn't that mean the dwarves would eventually stop existing in Norvik? And just... become human?" 
+468		M-"And you think the Folk Spirit follows the... one-sided offspring?" 
+469		"Once again, I'm afraid this is all coming from experiments performed by Arcanists. Horrifically so." 
+470		"Not biologically speaking. But esoterically? Yes. Objectively so." 
+471		"There's a list of this hierarchy in some text books. But it's a pretty taboo topic, as you might imagine." 
+472		"I would believe you. Many humans in Norvik do." 
+473		"Of course, since it's not noticeable aesthetically, most simply ignore it. From what I understand." 
+474		"Dwarves tend to be more rowdy about it, from what I understand. Some of the anti-Azgal dwarves in the city are clearly not too happy about their grandchildren turning out 'human'." 
+475		"One of many things that keep the humans and dwarves from merging completely, if you will." 
+476		"That is a good question." 
+477		"If two people live alongside one another for a long enough time, and they reproduce with one another equally, but the offspring are all aesthetically 'human', then... yes." 
+478		"Eventually there would only be one people, and it would be a people who look human." 
+479		"However, there is a big factor in charge here. That is the elusive and enticing topic of mating preference." 
+480		"There is not much proven data I can point to, but if you allow me to speculate, then I would say <i>only a minority</i> of the population of any tribe will ever have a strict preference for mating <i>outside</i> of that tribe." 
+481		"Without a basic assumption like that, I do not believe the tribe itself would remain intact enough for civilization to emerge." 
+482		"So in the case of dwarves in Norvik... I do not believe the two 'tribes' can ever truly merge. Cooperate? Yes. Cohabitate? Of course. Even mingle and date and crossbreed? Absolutely. Why not!" 
+483		"But merge? No. Impossible." 
+484		"Of course, this assumption ignores the OSO effect. So it feels a bit crackpotty. Take it as you wish." 
+485		"Maybe. I have not done enough work to say anything for sure." 
+486		"Nor have I been peer-reviewed." 
+487		"Nor am I a very sane or stable individual." 
+488		He grins. 
+489		"My hypothesis is that the Folk Spirit is able to remain 'intact' due to this effect." 
+490		The goblin crosses his arms, ready to hear your comment. 
+491		The halfling scholar leans back in his armchair. 
+492		"I think you're crazy." 
+493		"I think you've got something cool cooking here." 
+494		"I think your theory needs a lot of work." 
+495		"I don't have any strong opinions." 
+496		He glares at you. 
+497		The folds around his eyes grow tighter and tighter. 
+498		Then he lets out a roaring laugh. 
+499		"<b>Good</b>!" 

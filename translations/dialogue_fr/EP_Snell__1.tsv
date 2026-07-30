@@ -1,0 +1,440 @@
+idx	prefix	english
+500		He's looking for some genuine shit here. 
+501		Don't be too human-negative. He won't like that. 
+502		Follow what your heart is whispering. 
+503		Exasperation. 
+504		Breathless thinking. 
+505		There is a good answer. 
+506		Be straight with him. 
+507		This is the kind of moment where you make sure to remember: Urth was just a guy. 
+508		And now, you're the ones left to pick up the pieces. 
+509		"He was just a man. A man endowed by divine spark. Treat him like any other human, and you will see the truth." 
+510		"Remember what he told you. His Era is over. <i>You and I</i> are the ones here. This is our city now." 
+511		"He shouldn't have gone to Askan to begin with." 
+512		"I don't know, Snell. I'm only human." 
+513		The goblin looks up. 
+514		"Alright. I can do that." 
+515		"You would make an <i>excellent</i> leader of the Halfways." 
+516		"You said it yourself, everything changes after the election. It's a new world now." 
+517		"Urth is dead. We are alive. That is all that matters." 
+518		Your comment forces him to a short laugh. 
+519		"I don't think anyone could live up to Sageleaf, if she ever croaks." 
+520		"But thanks." 
+521		"Guess I did." 
+522		"Guess it is." 
+523		"Maybe it is. Maybe you're right." 
+524		"He should have let us all drown." 
+525		"He should have gambled on some other plan. No matter the odds." 
+526		"We all should have died in the old country, by man-made cursebombs and magically infused legionnaire blades." 
+527		"Maybe he should've." 
+528		"But if I were in his shoes, I'd probably have done the same thing." 
+529		"If I had to choose between the Halfways making it, or the rest of you humans, that is." 
+530		"You'd defend a handful of goblins over, the lives of way more humans?" 
+531		"I would also choose that. I hate humans now." 
+532		"As would I. For humans." 
+533		He shrugs. "Depends on the exact amount, I guess. But..." 
+534		"Maybe. Yeah." 
+535		Your comment forces a laugh out of him. 
+536		"Sure you do." 
+537		"I'm sure you would." 
+538		The goblin's eyes are full of contemplation. 
+539		He will think about this conversation as much as he will about the one with your god. 
+540		Couldn't have gone better. 
+541		A String is woven. The path is set. 
+542		Feel the warmth and strands and calming frays. 
+543		He's not so bad, after everything. 
+544		A goblin with good spirit might be exactly what this city needs. 
+545		His tiny mind catches up quicker than you anticipated. 
+546		In time he will understand it. He might seek more knowledge from you then. 
+547		That quick smile on his face. Yeah. 
+548		You did good. No fumbles here. 
+549		A goblin. Not a human. 
+550		You cannot get too close. 
+551		You cannot understand him. 
+552		It is too far removed, his position, his life, his skin, his claws and fangs. 
+553		Despite this time you have spent together, there is little else to be done. 
+554		Was he... not your brother-in-arms? 
+555		Did he not watch your back on this dire journey? 
+556		That's fair. I never liked him that much anyhow. (Let the moment pass.) 
+557	FC16 str-	What? That's it? 
+558	DC16 str-	He was. He was, and has been, my <b>brother-in-arms</b>. 
+559		A sad thought. But true. 
+560		Then SPEAK. 
+561		Seek into his mind. 
+562		A man can only bring himself to true power via the bulging arms of his peers. 
+563		Let them LIFT you UP. 
+564		Become a man, who is NOT an island. 
+565		UNDERSTAND HIM. 
+566	ROLL30 str-	Understand your brother, despite the world. 
+567		Yes? 
+568		I really enjoyed hanging out with this little bastard. 
+569		I thought he was cool enough. 
+570		I didn't have anything against him. Not really. 
+571		I wish I got to know him more. 
+572		Oh? You did? 
+573		Yeah. 
+574		"I did it!" 
+575		The dwarf at the front of the queue yells, his voice echoing out into the now almost empty temple chamber. 
+576		"I finally voted. I actually did it! Hah!" He steps back from the ballot box, wiping sweat from his brow. 
+577		The dwarf turns to look out over the chamber, tears streaming from his bloodshot eyes. 
+578		"I didn't think it would be so <shake>difficult</shake>...!" 
+579		"At least you've got one guy who cares as much about politics as you." 
+580		"Wow. What a, uh... true <i>democracy enjoyer</i> right there." 
+581		With this gentleman done, you see nothing now- nothing standing between you and your <i>voice</i>. 
+582		Here we go! Time to modernize this fucking place. 
+583		Save your city. NOW. 
+584		Such a waste of time. 
+585		<shake>Rumblings...</shake> 
+586		<i>A vote. A trove. A war.</i> 
+587		This is the first, in the <i>Rule-of-Three</i>. 
+588		E-It's time. 
+589		You approach the ballot box. 
+590		Its slit: a canyon of possibilities. 
+591		You should really try to find a girlfriend. 
+592		"Time to cast this damn vote." 
+593		The guy next to you drops in his own voting card. 
+594		As he too leaves the chamber- only you and Snell remain. 
+595		"Speaking of which. Here." 
+596		From his breast pocket, the goblin shows you a freshly printed voting card. 
+597		Without any of the boxes filled in. 
+598		That is how you vote in the election. 
+599		"You need one of these if you're planning on voting, you know." 
+600		"I was supposed to have one?" 
+601		"Oh shit. I'd completely forgotten about that." 
+602		"Obviously. I know that." 
+603		"Yeah. Especially if you're a human." 
+604		"Especially-especially if you're a cleric." 
+605		"Maybe they forgot to give me one." 
+606		"Maybe they didn't want me to vote." 
+607		"Maybe I don't deserve to vote." 
+608		"You're overthinking it." 
+609		"...<i>Probably</i>." 
+610		"Not surprising. Considering the fifty thousand esoteric-bullshit-events we've been through." 
+611		"A little piece of paper would slip your mind, eh?" 
+612		"Yeah, yeah." 
+613		"Just take it." 
+614		(Look at the voting card.) 
+615		"Snagged one of these on the way in. You'll need it, after that ballsy move downstairs." 
+616		"Oh, right. The Living Library..." 
+617		"Yeah. Sorry again about that." 
+618		"That was almost entirely on me." 
+619		"I'd completely forgotten about that." 
+620		"It kind of was, wasn't it?" (Smirk.) 
+621		"Don't worry about it. Shit happens." 
+622		(Hold up the voting card.) "We're even now." 
+623		"Not surprising. Considering the fifty thousand other entirely different esoteric-bullshit-events we've been through." 
+624		"Don't push it." 
+625		"A lot of shit happens in dungeons, yeah." 
+626		"Sounds good to me." 
+627		"Snagged one of these on the way in. You lost yours, right?" 
+628		"Oh, yeah. I gave it up in the living library." 
+629		"The what?" 
+630		"...I'll explain later. It was a whole thing." (Look at the new card.) 
+631		You rummage in your pouch for a moment, until you find it: your old voting card. 
+632		It's so damn crinkled. And all the boxes are filled in for some reason. 
+633		"I already have one." 
+634		"Yeah, but they won't accept that." 
+635		"The rules clearly state, only one box can be filled in." 
+636		"What does 'filled in' mean in this case?" 
+637		"So I'm only allowed to fill in... <i>one</i> choice." 
+638		"I'll use yours, then." 
+639		(Look at the new card.) 
+640		"...I'm not entirely sure." 
+641		"But my guess is it means some type of ink, graphite, or really any type of clear pencil marking." 
+642		"That's how it works, yeah." 
+643		"I heard some cities do it with some type of weird ranking system." 
+644		"But I'm assuming it never caught on, simply because it's way too complicated for the average voter." 
+645		"...Even more so for the below average voter." 
+646		"I'm a below average voter, aren't I?" 
+647		"I'm an average voter. Perfectly normal." 
+648		"I'm above average, obviously." 
+649		"I don't think I would describe you as that, no." 
+650		"For multiple complicated reasons." 
+651		"Something about that description doesn't quite fit you." 
+652		"Obviously." 
+653		Obviously. 
+654		"<i>Obviously</i>." 
+655		"Do that." 
+656		"Noticed that you lost your voting card at some point. Snagged this on the way in." 
+657		"Oh right. I gave it to the Living Library." 
+658		"The what now?" 
+659		"You know Snurre Appledent? I found the famous book he was looking for in a Living Library below. I traded it for my voting card." 
+660		"How did you trade a <i>voting card</i> for a famous book?" 
+661		"Honestly, I thought I couldn't get another voting card." 
+662		"I guess belief is everything." 
+663		(Look at the card.) 
+664		You see the Norvikian stamp in the corner. 
+665		The <i>Perch</i>. It is official. 
+666		The printing is a bit different from the card you received in the mail last week. 
+667		Seems like the goblins must have ordered a new batch. 
+668		Must be some goblin special version of the voting cards. How lovely. 
+669		"Thanks." 
+670		"You always think of everything, don't you?" 
+671		"You've done well, my goblin sidekick." 
+672		"I never asked for you to get me a card." 
+673		"Don't mention it." 
+674		"Oh yeah. I got an <i>eye for detail</i>." 
+675		"Fuck you." 
+676		"Yet you still need it. How peculiar." 
+677		He holds up another card, looking just as fresh. 
+678		"I just snagged an extra when I took one for myself." 
+679		Unceremoniously, Snell then drops his own voting card into the box. 
+680		"Huh?" 
+681		"Done." 
+682		Oh shit! 
+683		This goblin- quick <i>and</i> democratic. What a combo! 
+684		He... did it? Just like that? 
+685		A <b>power-move</b>. 
+686		THE VOTE HAS BEEN CAST. 
+687		"What? Just like that?!" 
+688		(Stare at his calm demeanor and gasp.) 
+689		"What do you want? A fucking ritual? Song and dance?" 
+690		"It's in the box. That's what matters." 
+691		He has known for a long time what to put in this box. 
+692		"I guess I just expected you to care a bit more." 
+693		"I guess it's not that hard to vote after all." 
+694		(Nod.) "Good on you for voting, Snell." 
+695		"I think I'm just nervous since... this means..." (Realize what's happening.) 
+696		"I've done enough for this election. Half of the Halfways wouldn't even be able to vote if I hadn't gotten those extra papers printed up." 
+697		"Trust me, <i>I care</i>. But I'm also very happy that it's over." 
+698		"Eh. Depends on the person, I assume." 
+699		"Anyhow..." 
+700		"I wasn't gonna <i>not</i>, after all of this." 
+701		Snell steps aside. 
+702		"<i>Your turn</i>, Cleric." 
+703		The ballot box looms. 
+704		Its shadow: ominous. Emanating an uncertain future. 
+705		A fray of NO RETURN. 
+706		"Good luck with this, Cleric." 
+707		He looks around. 
+708		"There's a few errands I'll need to run before the sun goes down." 
+709		"So I'll leave you to it." 
+710		Turning to leave, he instead looks back with a scrunched expression. 
+711		"...Just gotta ask one more thing." 
+712		"The <i>prayer</i>." 
+713		"The prayer. The old man mentioned you would pray every night for <i>one thing</i>." 
+714		"It's been killing me, so I gotta ask." 
+715		"What was it?" 
+716		Your heart falls onto the floor. 
+717		It <shake>meshes</shake> with the dwarven tiles. 
+718		"Uh." 
+719		The goblin gives you an almost desperate look. He <i>needs</i> to hear this. 
+720		Eh. Can't hurt to share. 
+721		Not like anyone will ever ask you again. 
+722		Your most closely guarded secret. Only shared with your god. 
+723		Does he deserve to hear it? 
+724		It is an idiotic thing. 
+725		He will surely enjoy hearing it. 
+726		"It's a bit private." 
+727		"I'd prefer to keep that between me and my god." 
+728		"No, Snell." 
+729		"It's, uh..." (Say it.) 
+730		"Oh, come on." 
+731		"You've asked so many questions. Give <i>me</i> an answer for once." 
+732		(Laugh nervously.) "Maybe some other day, buddy." 
+733		"Alright, alright. I get it." 
+734		Snell crosses his arms. 
+735		"I would look out the window each night. I'd look at the, uh, moon and the dark sky. Then I would ask Urth to give me <i>one</i> thing." 
+736		He leans in. 
+737		(Hold up a finger.) 
+738		One. Only one is enough. 
+739		"I prayed for <b>one friend</b>." 
+740		The goblin listens. 
+741		"One friend. That would be enough." 
+742		"I was a lonely kid." 
+743		"Bit sad, isn't it?" 
+744		"That's..." 
+745		He gives you a shrug. 
+746		"That's not unreasonable." 
+747		"It's really not." (Laugh.) 
+748		"Do I have low standards?" 
+749		(Just laugh.) 
+750		Your goblin companion laughs alongside you. 
+751		"Potentially," the goblin says, attempting to contain a laugh, "but that's not a bad trait." 
+752		He scoffs and gives you a confounding glance. 
+753		He holds out a sharp claw. 
+754		A handshake. 
+755		A show of... <i>friendship</i>. 
+756		A brotherhood. 
+757		A friendly gesture. Take it. 
+758		A hand to shake. 
+759		Be careful. Don't touch him too much. 
+760		Be cool! Give him a tap or something. 
+761		Tickle it. 
+762		(Stare at it.) 
+763		(Shake it. Firmly.) 
+764		(Shake it. Loosely.) 
+765		(Tap it.) 
+766	FC5 cha-	(Tickle his palm.) 
+767		He gestures to his claw. 
+768		"Fuck off." 
+769		"Come on." 
+770		"I've been patient enough, haven't I?" 
+771		You give him a firm handshake. 
+772		He grins. 
+773		You give him a loose handshake. 
+774		He gives you a confused laugh. 
+775		"That's the worst handshake I've ever-" 
+776		He laughs. "Exactly what I expected." 
+777		The goblin meets it with a satisfying slap. 
+778		"Hells yeah." 
+779		He quickly pulls back. 
+780		"You <i>awkward motherfucker</i>." 
+781		Then he laughs. 
+782		Your BROTHER-IN-ARMS. 
+783		He is going to miss this. 
+784		For whatever reason. 
+785		"See you around, Cleric." 
+786		Your goblin companion then walks down the stairs, heading straight for the exit. 
+787		You will see him AGAIN. 
+788		For your Strings are... INTERLINKED. 
+789		As he goes, you hear him yell out, "<shake>And don't vote for anything stupid</shake>!" 
+790		(Watch him leave the Temple of Urth.) 
+791		Then you're alone. 
+792		(Turn back to the ballot box.) 
+793		You see it staring at you. 
+794		Next to it: a simple pencil. 
+795		ALONE. 
+796		Just you, and this amazing little box. 
+797		Could you imagine? A dozen revolutions. Decades of violence and upheaval- all to get you the chance to write whatever you want on that little piece of paper and drop it in this silly box. 
+798		Years of strife, for what? 
+799		For your ancestral home to be broken into squabbling pieces. 
+800		All for this <i>dream of democracy</i>. A foreign dream. 
+801		You are now about to contribute as one-in-approximately-three-hundred-thousand. 
+802		For comparison: the textbook on esoteric history you read for your Towers initialization was three-hundred-and-twenty-thousand words long. Imagine yourself as one of those words. 
+803		Then realize how vastly little this action matters, in the grand scheme of Norvik. 
+804		Yet one singular word in that tome can change its entire meaning. 
+805		Vote. Vote for every person, each creature, all <i>things</i> in this world of yours. 
+806		You do not know much. But you know... <i>this</i> matters. 
+807		Vote. 
+808		(Pick up the pencil. Look at the card.) 
+809		Everything upon your shoulders. 
+810		As you bring forth the voting card - the pencil in your hand - a <i>world</i> watching. 
+811		I'm still not sure what to vote. 
+812		I know exactly what to vote. 
+813		I hope I'm making the right decision. 
+814		The ballot box offers no advice. 
+815		Yet you must do it. 
+816		The ballot box believes you. 
+817		So do it. 
+818		The ballot box offers no support. 
+819		Choose now. <i>One final time</i>. 
+820		"Is this the VOTING?" 
+821		"Sounds important. Meek thinks master will choose good!" 
+822		"Thanks, Meek." 
+823		"You wanna help me choose?" 
+824		"<wiggle>Yes</wiggle>! Big thanks to me!" 
+825		"Oh!" 
+826		"Is there mimic to vote for?" 
+827		"There should be. But no." 
+828		"Then Meek will skip." 
+829		A vote is cast for <b>the self</b>. 
+830		That is the natural state of things. 
+831		Your talking scarf morphs back into a not-talking scarf. 
+832		The ballot box calls to you. 
+833		You can delay it no longer. 
+834		It's just one vote. It doesn't really matter. Right? 
+835		What if I choose wrong? 
+836		I wonder what will happen to Norvik. 
+837		R-<b>I'm going to vote for...</b> 
+838		It's more about the symbolism. You know, supporting the democratic revolution, and so on. 
+839		That's... actually true. Yeah. 
+840		One man fighting against impossible odds. 
+841		There is nothing more significant. 
+842		Nothing you do really matters. So... 
+843		Tense, yet... still. 
+844		You are in <i>control</i> here. Make a decision. 
+845		Stress. STRESS. 
+846		You must <shake>perform</shake>. 
+847		There is a reason goodness is aligned with intent, rather than outcome. 
+848		If you truly value the world, then there is no wrong choice. 
+849		Only an attempt to fight for the right. 
+850		No one's ever going to find out what you write on that card of yours. Not really. 
+851		If someone asks later, you can just lie. 
+852		So don't think too much into it. 
+853		There is no correct vote, no wrong one either. 
+854		Simply make do with this one singular voice of yours. An insignificant duty in a sea of mediocrity. 
+855		Gods be damned, you cannot wait for this election to be over. 
+856		<i>Impossible</i>. 
+857		That means: <i>not possible</i>. 
+858		Difficult to say. Chaos. Order breaking down. Complete collapse. 
+859		Or, more logically, nothing at all. Since nothing ever really changes from banalities like democracy. 
+860		The city will live on. 
+861		It has dealt with bigger issues in the past, and it will survive worse disasters in the future. 
+862		<i>You</i> will make sure of it. 
+863		Who knows? Maybe it will fall to ruin. Like every other civilization which has inhabited this place previously... 
+864		There will be good days ahead. 
+865		For you, and <i>all folk</i> of this wonderful city. 
+866		Now vote already! 
+867		It is still in your Pouch of Holding. A heavy weight to carry. 
+868		You should use it to your advantage! If you worm your way up to the Freestriders using the info as leverage, you could easily land a solid gig... 
+869		Recall the instruments of this world: <i>greed and power</i>. Play them to your advantage as you wish. This ledger - it is nothing but another note. 
+870		Journalists. An anonymous letter. Giving it to the workers - those most affected by this corruption. That is what you must do. 
+871		Hm. Blackmail comes to mind. But really, you should probably keep it around for a while. Just in case you get fucked over during the coming power shift. 
+872		Lady Sageleaf is not the city, nor of Reedsian coin. 
+873		Out of everyone and everything, maybe she will be the one to truly make a difference with the contents of that strange, horrifying, orange ledger. 
+874		Remember, you gave it back to Viira! Good insurance for the future. 
+875		And really, what other outcome would have been preferable? Now you'll EASILY be able to worm your way into the revolutionary ranks. 
+876		You're one hell of a sneaky worm, after all... 
+877		It's in the hands of those dumb kids now. And their mysterious <i>handler</i>. 
+878		So who knows what kind of nefarious outcome that'll lead to? 
+879		That information is for the people now. Everyone will be hearing about it in the coming days. 
+880		But remember: you did not conjure this storm. All you did was unveil it. 
+881		Fear. That is ALL it brings. 
+882		Fear - of a CITY lost to GREED. 
+883		No matter what - YOU know the truth, from Urth himself. 
+884		The city was betrayed. You were betrayed. 
+885		Your body quakes at the slight chance - the <i>smallest possibility</i> of <b>retribution</b> against those responsible. 
+886		Time will tell. 
+887		Now get this over with, before you collect as much moss as this foul temple. 
+888		You grasp the thin card. 
+889		(Vote for The Party of Norvik.) 
+890		(Vote for The Revolutionary Freestriders.) 
+891		(Vote for The Azgalist Workers' Party.) 
+892		(Vote for The Agrarian Rural Party.) 
+893		(Vote for The Arcanist, Party of Magic.) 
+894		(Vote for <i>The Cleric</i>.) 
+895		(Leave it empty.) 
+896		(Fill in every box.) 
+897		You fill out the box with pride. 
+898		The last defender of humanity. 
+899		A true man. 
+900		You fill out the box for a bright future. 
+901		Free Trade. Prosperity. Democracy. 
+902		You're a <i>revolutionary</i>, gods be damned. 
+903		You fill out the box with a heavy heart. 
+904		For the ones who fall behind. For the ones who want to build an egalitarian dream. 
+905		You are a good person. 
+906		The box filled out. You- treading the path least traveled. 
+907		One coarse and frayed. 
+908		At last... it could lead to more APPLES. 
+909		You fill out the box with a sense of utilitarian dread. 
+910		Prax and his cabal of wizards are fools, yes. But they do represent a grand ideal. 
+911		You will easily supplant them. In time. In time. 
+912		The greatest man in the city. 
+913		The one and only hero they will ever need. 
+914		You are that hero. You are <b>THE CLERIC</b>. 
+915		You write in your own name at the bottom of the list. 
+916		And it is not even your full name. 
+917		But it is YOU. 
+918		You managed to spell it perfectly correct. Obviously. 
+919		The <i>hero</i> they need. 
+920		Wow. What an absolute <u>ego</u>. 
+921		You write in your full name at the bottom of the list. 
+922		As the ruler they need. 
+923		Your goblin companion. 
+924		Your BROTHER. 
+925		A true leader in the making. 
+926		A truly, unambiguously, <i>wise</i> choice. 
+927		If you vote for none of them, no one can get mad at you. 
+928		Perfect. If you vote for them all, no one can get mad at you. 
+929		You'll surely find a place in the Norvik of tomorrow. 
+930		No matter what it looks like. 
+931		(Hold up the voting card.) 
+932		<wiggle>...</wiggle> 
+933		You hold the card in your hand. The ballot box below. 
+934		A symbol for everything you are. Everything you can be. Once you put this voting card inside that box. 
+935		You have already made your choice. 
+936		<b>Now follow the String.</b> 
+937		XROLL-<b>Drop the Voting Card.</b> 
+938		The End! 

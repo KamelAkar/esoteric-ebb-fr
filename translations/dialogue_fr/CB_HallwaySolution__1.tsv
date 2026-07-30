@@ -1,0 +1,486 @@
+idx	prefix	english
+500		That's a shorthand for- 
+501		"The <i>City Below Security</i>." 
+502		"Anything the Old Lady needs, I do." 
+503		"So you're a gangster?" 
+504		"So you're a custodian?" 
+505		"So you don't fight monsters?" 
+506		"I wish." 
+507		"No. That's-" 
+508		You see his face contort into a painful expression. 
+509		"Gods be damned. Custodian might actually not be that far off." 
+510		"That's what Moongore's for. And the Old Lady's other enforcers." 
+511		"My job mostly just consists of talking to people, Cleric. Like we're doing right now." 
+512		"A lot of talking, and a lot of running around." 
+513		He takes a deep breath. "Exactly what we're doing right now. Just without the light dungeoneering." 
+514		"Don't mention it." 
+515		"My cat-speech isn't the greatest, so I'm not sure what I expected." 
+516		"But we're alive. That's all that counts." 
+517		He's a bit shaken up over it. 
+518		As are you. 
+519		"You okay by the way? No serious burns?" 
+520		"No need to visit a healer or anything?" 
+521		No. There is no need for such weakling behavior. 
+522	DC15 str-	"Healers are for pussies. I'll die at the age of forty, like a man." 
+523		"No, I'm okay." (Be angsty.) 
+524		"I'm very good at Abjuration magic, it's fine." 
+525		Pussies-that-<i>up</i>. 
+526		"<i>Great</i>. Real stoic. Very samurai-esque." 
+527		"...I'm also very good at Abjuration magic. So it's fine." 
+528		"Yeah. Real bone-into-pavement-grinders don't need Abjuration magic." 
+529		Why do I feel the need to mention Abjuration magic? 
+530		An <u>ego</u> thing. 
+531		You wish to wield your knowledge over the goblin, to prove your superiority. 
+532		Or, you simply wish to share something with him- something you care about. 
+533		"Okay, fine. Forget I brought it up." 
+534		"Abjuration?" 
+535		He scratches his chin. 
+536		"...That's the 'protect tomato'-one, right?" 
+537		Ah, yes. The old tomato reference guide. 
+538		They use it in schools to teach the differences between the esoteric categories. 
+539		Tomato, tomato? 
+540		You are hungry. 
+541		Understandable. You have not had a vegetable for a very long time. 
+542	DC8 int-	"You know about the tomato cheat sheet?" 
+543		"That's the one." 
+544	FC8 int-	"Tomat-o?" 
+545		He smirks. "Everyone knows about the tomato cheat sheet." 
+546		He looks proud. 
+547		He <i>is</i> proud. 
+548		"Right." 
+549		"To-may-to." 
+550		"But wait, is all healing magic Abjuration?" 
+551		"Because that's the one that <i>protects</i>, right? A shield is protection, but healing sounds more of a post-protection thing to me." 
+552		"You're questioning my esoteric knowledge?" 
+553		"It's a bit more complicated than that. The esoteric can be malleable, after all." (Don't lecture.) 
+554		"Well..." (Prepare to lecture.) 
+555		"Let's not get into that right now." 
+556		"Oh, not at all. I just realized I've never had a chance to ask an expert before." 
+557		"Hm. Interesting." 
+558		"Well, I learned something new today. How lovely." 
+559		He watches as you clear your throat and hold up eight fingers. 
+560		"The esoteric nature of magic on our Coast depends entirely on the original parameters set in place by Jor. While we know little about him, due to his death in the Gate War." 
+561		"Right. The Gate War." 
+562		"But those parameters are, like most magic on the Coast, based on a fundamentally fluid definition. Jor created a leyline network known as the Strings, which are unstable in certain regions, and especially the further away from the Coast you get - thus this leads to esoteric events." 
+563		The goblin's expression drops as he realizes what he's gotten himself into. 
+564		"And how is this connected with healing magic?" 
+565		"I'm getting to that." 
+566		"Don't interrupt me." 
+567		"Mm-hmm." 
+568		"Whoa. Where did that <u>ego</u> swell up from?" 
+569		"Sorry. I just get really into magical history." 
+570		"Can I continue?" 
+571		"Hey, I'm the one who asked. Go ahead." 
+572		He gestures for you to do so. 
+573		"So depending on where you are in the world, magic changes. And with the moldable and volatile nature of the Strings, many wizards and clerics and druids have created entirely new ways of handling esoteric powers over the years. Especially during the Arcane Era. But..." 
+574		"But?" 
+575		"The eight schools of magic have stayed the same. Just like the eight apprentices of Jor, each focuses on a hard-set theme. Four examples. Abjuration is protection, negation, and cleansing. Necromancy is soul-manipulation, undeath, and life. Evocation is energy-manipulation, whether kinetic or spiritual. And finally, transmutation is the changing of any state, as long as it is physical." 
+576		He stares at you. 
+577		"Each of these four schools have been known to feature healing magic. Even the same ones, with the same components and rituals." 
+578		"Oh. So it's not that hard-set, then?" 
+579		"The schools are set. But the spells are modifiable. Just like you can create new spells. Arguably, a Cure Wounds cast by an evoker will be technically an entirely different spell than when cast by a necromancer. But in practice, they are the same." 
+580		"That's... actually quite interesting. What the hell." 
+581		"Thus my Cure Wounds functions by essentially warding off all negative energy, negating it, allowing the positive energy remaining to focus upon the wound. Which is obviously the best way to heal, since the pure positive energy cannot be as easily complicated by dark forces, rot, or even pain. Necromancy in comparison is not nearly as nice to be healed by." 
+582		"Oh. What about Transmutation and Evocation?" 
+583		"Evocation isn't so bad. It's just another, less efficient, way of channeling positive energy. Transmutation though... that's just like mangling the body back together. Painful as all hell, and a horror to witness." 
+584		"Oh gods." 
+585		"Like the flesh just... gets back together?" 
+586		"And bones just 'unsnap'. It's awful. Very efficient, but extremely painful." 
+587		"Yeah. Nice. That's very interesting Cleric, thanks for explaining it." 
+588		(Give him a thumbs up.) 
+589		"You don't want to hear more? I can explain the various theories on why Jor's Strings still function, even after his death..." 
+590		"I'm cool. But thanks." 
+591		The goblin gives you a thumbs up. 
+592		"Ah. Deep subject, I presume?" 
+593		"Highly. Highly deep." 
+594		"Hm. Sounds abyssal." 
+595		"Not demonic." 
+596		"No, I meant, like literal. A literal pit." 
+597		"Like, it's deep." 
+598		"A far-ending void-hole." 
+599		"Let's stop this metaphor." 
+600		"Okay." 
+601		"Good. Anyway." 
+602		"Our missing witness." 
+603		Frank son of Frank. 
+604		"We know he went down here." 
+605		"Since we found him." 
+606		"So... I guess we have a better way down now?" 
+607		"If there's something else you want to investigate." 
+608		"We're lucky Moongore saw him. Even if she did let him pass with that magic." 
+609		"So he could have left to the South Caverns, but... those are some deep holes." 
+610		"My guess he entered this area. Right here. Probably through the sewers." 
+611		"It's a bit of a long shot, but..." 
+612		"Something smells fishy. That man in yellow, the explosion..." 
+613		"We'll find something down here. Hopefully nothing that kills us too fast." 
+614		He clears his throat. 
+615		"Or you find that missing paladin I've been reading about. <i>Lord Gorm</i>." 
+616		"You think he went down here?" 
+617		"You seen him?" 
+618		"There were some scandalous comments about him in the papers last week." 
+619		M-"You think he's alive?" 
+620		"Honestly? I'd say so." 
+621		"A paladin looking to relive the glory days." 
+622		"I could see that. Dungeoneering for dangerous monsters, getting loot." 
+623		"Dying in some <i>inglorious</i> trap?" He gestures towards the fire hallway. 
+624		Inglorious? That's a big word. 
+625		<i>Inglorious</i>. That's a term used in dungeoneering magazines. 
+626		"You think Mr. Gorm would survive that on his own?" 
+627		"Mm. A few times over the last year. Coming and going. Never talked to him." 
+628		"He didn't seem like the type to talk with goblins, you know?" 
+629		"Ah, yeah. About him being outed from the party, right?" 
+630		"Look, I think they just couldn't have a missing paladin on the ticket, you know?" 
+631		"Don't read too much into it." 
+632		"No way." 
+633		"Doesn't matter how big of a paladin he is. You go down solo into the City Below? And then you go missing for months?" 
+634		"Guy's gone. No doubt." 
+635		"Maybe we'll find his body." 
+636		"No. He's alive. I know it." 
+637		"I don't really care. He left the Party behind." 
+638		"That might be for the best. Or we'll find a very fancy paladin zombie." 
+639		"Right. In your <i>bones</i>." 
+640		"He sure did." 
+641		"But what do I know?" He shrugs. "You're the cleric." 
+642		"You're starting to get it. I am The Cleric." 
+643		"Day by day I'm starting to be more rogue-like. It's the dungeon that does it, I think." 
+644		"No. I am a wizard. You know, the spells? Remember that." 
+645		"You seem quite knowledgeable to me, Snell. Thank you for guiding me." 
+646		"You sure are." 
+647		"Sneaky. Might help with the traps." 
+648		"Right. The <i>spells</i>." 
+649		"Sure, sure. Magic dancing, or whatever." 
+650		"Right. Gotcha." 
+651		"Oh yeah. A Druid." 
+652		"Cool, cool. Hey, I'm learning." 
+653		He glares at you. "What do you want, a fucking sloppy toppy?" 
+654		"Thanks, <i>I know</i>. I'm good at my job." 
+655		He's offering a sloppy? 
+656		No. He is being defensive because you went too heartfelt. 
+657		This goblin is physically incapable of taking a damn compliment. 
+658		He's immune to your social lubing. 
+659		If you call it that, then yes. He is going to be immune. 
+660		"What's there to say?" 
+661		"She did the impossible: actually uniting the rowdy Halfways Tribe." 
+662		"Before her, we were close to being kicked out of the city." 
+663		"Really?" 
+664		"That was before my time, of course. But we had problems with our old council structure." 
+665		He leans in and whispers to you, "The council didn't get along." 
+666		(Nod along.) 
+667		"That's honestly more what I expected from a goblin tribe." 
+668		He shoots you a quick frown. 
+669		"Stereotypes don't spawn out of the void." 
+670		"But Lady Sageleaf... she fixed things. By taking supreme power of the tribe." 
+671		"So... she's a dictator?" 
+672		"Does she have a consort of some kind?" 
+673		"I'm guessing you enjoy working for her then?" 
+674		"How long have you been working for her?" 
+675		M-"Very interesting. Anyway..." 
+676		"...Yeah. In a sense." 
+677		"In a sense?" 
+678		"Look. I'm all for democracy and modern liberal thought." 
+679		He points two thumbs at himself. "Hell, I even used to be a registered Freestrider." 
+680		Of course! You could tell from the start: the goblin is a money-maker. 
+681		"But I don't believe in direct democracy. Bureaucracy is a curse spawned from Arcanist bungholes." 
+682		False and preposterous. Bureaucracy is good and just and is spawned from great minds. 
+683		Not behinds. 
+684		The goblin is rarely correct, but this time he's touching upon truth. 
+685		The Arcanists did fall apart once they stopped relying on ruthless magocracy and meritocracy. 
+686		Their infamous bureaucracy was a symptom of that disease. 
+687		He gives you a tired look and clicks his tongue. 
+688		"Sometimes you do need a strong, <i>wise</i> leader to unite people." 
+689		"I agree. Urth did the same for my folk." 
+690		"I disagree. Ultimate power corrupts ultimately. You cannot trust a dictator." 
+691		"Allowing one person to wield power to that degree is efficient, but can easily end in trouble for everyone." 
+692		(Look interested and nod.) 
+693		He pauses, looks away for a bit, and then groans. 
+694		"Yeah. I suppose." 
+695		"But I don't think you want to make that comparison in front of her. Or me, for that." 
+696		"Absolute." 
+697		"Oh, you agree?" 
+698		"No. <i>Absolute power corrupts absolutely</i>. That's the quote." 
+699		"I wasn't quoting anyone." 
+700		"I actually don't know if that is a quote. I've just heard it before. Sorry." 
+701		"Mm. You are correct." 
+702		"The important part is just that the leader, A: remains wise, and B: does not leave power to corrupted idiots." 
+703		"Which, in the Old Lady's case... she's remained wise. And I see no signs of that changing any time soon." 
+704		"Right. Like Urth. He managed to not be corrupted." 
+705		"That's why we need Freestriderism across the Coast. To avoid this conflict." 
+706		"The only way forward is to trust in the wisdom of Azgal. Ban hierarchies altogether." 
+707	DC11 int-	"Hm. That sounds like me. I'd be a great dictator. A magocratic one." 
+708	DC17 con-	"As long as she cares about the land... and crops..." 
+709		"Mm. Yes. Quite." (Just nod, apolitically.) 
+710		The goblin shrugs. 
+711		"I can't give you an objective truth, sadly." 
+712		"But I know Miska Sageleaf. She is a great leader. And I am proud to serve her." 
+713		He truly, truly loves her. 
+714		TRULY. 
+715		No leader rules forever. 
+716		Even those who theoretically can rule forever cannot. 
+717		A lich can hold power for a millennium or more, but over time it becomes statistically more and more likely for a mistake to be made. 
+718		Sometimes all it takes is a little push. 
+719		"What about her succession?" 
+720		He looks at his claws. 
+721		"It's complicated." 
+722		"In the case of her passing, she will leave power to the old, but slightly reformed, council structure." 
+723		"I'd be on that council, for example. I'm one of the designated elders." 
+724		Sounds like she's of the same mindset as most dictators. 
+725		<i>I'll be in charge forever.</i> 
+726		"So if she died, you'd get more power, eh?" 
+727		"Interesting. So she's not leaving an heir?" 
+728		"Doesn't sound like she's really planned anything." 
+729		"More power?" 
+730		"More responsibility. I'd hate that." 
+731		"None." 
+732		"That's one way of looking at it." 
+733		"Lady Sageleaf has been around for over thirty years." 
+734		"She's going to be around for a hell of a lot longer too." 
+735		"Right now, we have more pressing things to worry about." 
+736		"Why? You interested?" 
+737		A defensive laugh. 
+738		"No!" (Look worried.) 
+739		"Are you?" 
+740		The goblin keeps laughing. 
+741		He stops laughing. 
+742		"No!" 
+743		He looks worried. 
+744		He does not look worried. 
+745		"Cleric, I'm devoted in my service. Lady Sageleaf is one of the greatest goblins who's ever lived." 
+746		"She has no need for consorts." 
+747		Neither do you. 
+748		He is idolizing her. 
+749		He clearly sees her more as a god than a master. 
+750		And also, he's clearly got the hots for her. Hehe. 
+751		"I do, Cleric." 
+752		"It's good." 
+753		"Hm." 
+754		The goblin mutters to himself and looks off in the distance. 
+755		"Damn. I guess it's been almost ten years." 
+756		"Damn. I've only been a cleric for-" 
+757		As you pause, he raises his eyebrows. 
+758		His expression says, <i>Do go on</i>. 
+759		"I meant to say: I've been <b>The</b> Cleric for about five years now." 
+760		"My Urthguard training was three years, and I've been at the Towers for five." 
+761		He chuckles and stretches a bit. 
+762		"<i>Time takes us all</i>." 
+763		"What about you, Cleric?" 
+764		"Mm?" 
+765		"What do you think about the Old Lady?" 
+766		Let's see... to be <b>honest</b>, or to be <b>flattering</b>? 
+767		The goblin probably does not care too much of your opinion either way. But it can be used against you. 
+768		Heh. He definitely loves a good ass-kissing. Just look at him! 
+769		The chieftain is a pain, but she does serve her people well. That is admirable. 
+770		"She appears to be a great leader for your people." 
+771		"She seems like a bit of a... somewhat of a... you know, pain in the buttocks." 
+772		"I don't like her." (Frown. Invisibly.) 
+773		"I have no strong opinions on your Old Lady, Snell. Nor do I have any strong opinions about anything." 
+774		He scoffs. "And what do you really think?" 
+775		"No, really. I admire her strength. Truly." 
+776		"Well..." 
+777		"Huh." 
+778		"Alright. Didn't expect that." 
+779		"Not many tall-folk tend to view her in that light." 
+780		"As I'm sure you can imagine." 
+781		"...Sure." 
+782		He lets out a hearty laugh. 
+783		"She can have that effect on people." 
+784		"For some strange reason tall-folk don't tend to enjoy being talked down to by goblins. Nor women." 
+785		Especially go- 
+786		"Especially goblin women." 
+787		Yes, that. 
+788		He shrugs. "Fair." 
+789		"Is it?" 
+790		"It is." 
+791		"Huh?" 
+792		"Sageleaf is a force to be reckoned with. The city mostly deals with her because she's convenient, and because she had a deal with Urth." 
+793		"I see." 
+794		He pauses and stares at you. 
+795		He's waiting for your next line. 
+796		Don't do it. Be original for once. 
+797		Ah. He's waiting for it. Go ahead. 
+798		Say it. 
+799	DC10 cha-	"I'm not going to say it, Snell." 
+800	FC10 cha-	"...Because I'm <wiggle>APOLITICAL</wiggle>!" 
+801		He shrugs. "I won't judge you." 
+802		"You say whatever you feel like saying, Cleric." 
+803		"...Fine. I'm <wiggle>APOLITICAL</wiggle>." 
+804		"No. I'm okay." 
+805		"Great. Hope you got it out of your system." 
+806		"You sure?" 
+807		"...Yeah." 
+808		"Cool." 
+809		He nods. "There it is." 
+810		"Look, it doesn't really matter. But as an elder in the tribe, I can tell you, as a representative of the city..." 
+811		"Lady Sageleaf is a force of good in Norvik. I can promise you that." 
+812		The non-human folk of Norvik are in many ways oppressed by the state and dominant culture, but the goblins have always been most affected. 
+813		Ever since the horrible genocide. 
+814		It was a war. A reconquest of fallen land. 
+815		A war against a divine god is not a war. It is a one-sided extermination. 
+816		The goblins did not have to fight. They could have surrendered. Like the three tribes did. 
+817		The three tribes who were stripped of their culture, their land, and their languages? 
+818		They were given a new home. 
+819		They were forced. 
+820		It was them or us. It was... them or us. 
+821		That is what you tell yourself at night. 
+822		The goblin rubs his eyes. 
+823		"See what?" 
+824		Positive interaction imminent. 
+825		Comment on the niceness of this unity. 
+826		"It's good to see a goblin adjusting to Norvikian life." 
+827		"It's good to see someone honoring his duty. It's refreshing." 
+828		"It's good to see... <i>this</i>. The City and the Goblins working together at last." 
+829		Your companion instinctively scoffs as your words echo down the hallway. Followed by a judgmental frown. 
+830		"Didn't have much of a choice, did I?" 
+831		Soft spot. 
+832		The goblins were forcefully integrated into Norvik. 
+833		Your companion lets out a grunt after the echo of your words dies down further down the hallway. 
+834		"What, you don't see honor and devotion among the Palace these days?" 
+835		"No, Snell. No I do not." 
+836		"I don't blame them. It's hard to serve a god you've never met." 
+837		"Of course there's honor." (Shove a thumb towards your helmet.) "I'm there. Usually." 
+838		"Too bad." 
+839		"But that stuff ain't cheap." 
+840		The goblin lowers his gaze. 
+841		"Ah. Of course." 
+842		Your companion allows the echo of your words to die further down the hallway. Then- a faint smile on his face. 
+843		A conflicted smile. 
+844		Nailed it. 
+845		"You ever meet him?" 
+846		Him? 
+847		(Think for a second, then speak.) "Who?" 
+848		"<i>Urth</i>." 
+849		The <i>goblin</i>, asking about your god? He must be growing interested in religion, having witnessed your example. 
+850		Oh, how interesting - to see him broach such a topic. 
+851		He will surely focus in on the genocide. 
+852		Just casually asking if you've met a god. 
+853		"No, Snell. Urth faded before I was born." 
+854		"I never got the chance." 
+855		"No." 
+856		"Of course not. I'm not that old." 
+857		Snell nods. 
+858		"First generation post-Urth, eh?" 
+859		The first human tested by faith, and faith alone. 
+860		"It's for the best. Never meet your heroes, right?" 
+861		"We guard the idea of Urth. We will continue this duty." 
+862		"It really sucks." 
+863		"I imagine those hedonists chanting Tokig's name wouldn't be too cheerful if he returned either." 
+864		"Nor every other zealot raging across the Coast for dead gods," the goblin spits out, and leans back against the wall.  
+865		"Duty." 
+866		He tastes the word as he leans back against the wall. 
+867		The goblin leans back against the wall, glancing up at the ceiling. 
+868		"I always hated Urth." 
+869		WHAT? 
+870		"Excuse me?" 
+871		He scratches his nose. "I grew up being told to be grateful." 
+872		"But let me ask you this, Cleric." 
+873		"If you were the last of your kind. One of maybe eight or nine thousand humans left in the world." 
+874		"And you were then told to be <i>grateful</i> to be alive, just because the same monster that destroyed your entire culture also decided to let you live. For some reason." 
+875		"Would you be grateful?" 
+876		He speaks of the Goblin Genocide. 
+877		Is this about the conquest? Urth did kill many goblins then. 
+878	DC12 wis-	"The Goblin Genocide was Urth's greatest mistake." 
+879	FC12 wis-	"You're talking about the Conquest?" 
+880		"There aren't many humans left in the world either, Snell." 
+881		M-"...<i>Grateful</i>." 
+882		He lets out a mocking laugh. 
+883		"It's good to know our current predicament was due to a mistake. Thanks for clearing that up." 
+884		"Yeah. I am." 
+885		"You know. The Goblin Genocide. Like those scholars tend to call it." 
+886		"Sure." The goblin looks at you for a moment, then nods. 
+887		"What is it, like eighty percent wiped out during the Coast War? Ninety?" 
+888		"I've read about it. Sounds terrible." 
+889		"It was. I wasn't there, of course. Nor were my ancestors. <i>My</i> people all left before the worst of it." 
+890		"We brought it on ourselves." 
+891		"We are the last bastion of humanity." 
+892		"Are you being facetious, goblin?" 
+893		"Yeah. Still." 
+894		"Eh. I don't know." 
+895		"No? I'm being serious." 
+896		He takes a deep breath. 
+897		"I suppose you could view the Arcanists as a sort of outside force that caused the whole thing." 
+898		"But you know damn well that they were human too. Men caused their own oblivion." 
+899		"That's a shallow way to look at it." 
+900		"There's some agency in that, yes. Some blame." 
+901		"Human. Goblin. It doesn't matter. We're all people." 
+902		"I do not consider myself in any way responsible for any of those tragedies. I don't believe it's healthy to hold that over your own head." 
+903		"I think it all comes down to what we've got today, then." 
+904		"You have a city at least. We didn't even get to keep our language." 
+905		"But, eh, whatever. Guess I should just be grateful." 
+906		The goblin stares at you. 
+907		He's expecting nothing good to come out of your mouth. 
+908		Should you be grateful? 
+909		It is a hard question. A man should not simply lie down and take whatever subjugation arrives at the hand of a tyrant. 
+910		But sometimes a man also has to make difficult decisions, to protect those he loves. 
+911		You can be grateful. If you were allowed to live, it was probably because you did something the dead ones didn't. 
+912		The goblin wants you to tell him you'd share his anger. Obviously. 
+913		If your people fell, then they did not have the power to live. It is as simple as that. 
+914		But that should not lead to gratefulness. It should lead to apprehension. 
+915		"I would be grateful." 
+916		"I would hate the monster who destroyed my people." 
+917		"I would be confused." 
+918		"I would be careful." 
+919		"I don't know what I would feel. It would be a death of the soul." 
+920		"I don't care. This is something for goblins to think about. Not men." 
+921		He squints. "Why?" 
+922		"Because sometimes a man has to make hard decisions, for the sake of the future." 
+923		"Because I was allowed to live. That must mean something." 
+924		"Why not?" 
+925		His stern expression drops. 
+926		"Who wouldn't." 
+927		He nods, slowly. 
+928		"You wouldn't be alone." 
+929		"Careful?" 
+930		"If it could be done once. It can be done again." 
+931		"Very careful to trust the monster." 
+932		"Careful. Just in general." 
+933		"A collective soul, of sorts." 
+934		"Sounds like a great way to live life. Just letting others do the thinking, while you keep spreading violence and destruction." 
+935		"I guess that's what led to Urth's rampage over Askan in the first place." 
+936		"Sheer human ignorance." 
+937		Snell clicks his tongue and gets up. 
+938		"Every goblin asks themselves that question. To be a <i>Crann</i>, or not to be a <i>Crann</i>." 
+939		"We all got different answers. What to do when the past is erased." 
+940		He groans, and shakes his legs a bit. 
+941		They must have fallen asleep from sitting on the dungeon floor. 
+942		"Some focus on building something. Culturally, or politically." 
+943		"Some try to get rich in this new <i>Freestrider world</i>." 
+944		"Some of us, we..." 
+945		His voice trails off as he stares back into the fiery hallway. 
+946		"You hate Urth." 
+947		(Stare at him.) 
+948		The goblin nods. 
+949		"A little bit of hate, yeah." 
+950		"But afterwards, I only do one thing, Cleric." 
+951		The goblin grunts to himself. "It doesn't matter." 
+952		"I serve Lady Sageleaf." 
+953		Snell turns back to you, his expression calm. Collected. 
+954		"That's enough for me." 
+955		His hatred stems from the <i>blooded hills of Verdune</i>. A generational wound. 
+956		A wound festering, due to the lack of understanding of the historical reality of our two peoples. Humans and goblins could not coexist. Urth made that possible. 
+957		That does not mean Snell is wrong to feel this way. But you must show him the truth: that Urth's teachings are not for the brute of the chopping block, but for the man who knows when to keep his blade sheathed. 
+958		Look, this guy's got enough trouble to deal with, don't make this all existential. 
+959		Like he's telling you: this isn't personal. This is business, and he's got a job to do, just like you. And don't worry about this goblin-on-human hate you're reading between the lines here. All of that will be gone once Norvik evolves into a modern city-state. 
+960		Then Snell, and every other sentient worker and entrepreneur can come flooding into this stagnant city. Then no one will give a shit if he's a <i>Crann</i> or not- he'll just be another actor in the system. Just like it's meant to be, baby! 
+961		A piece of FEAR. A piece of ENVY. Some bred - some crafted. 
+962		The goblin is CONSCIOUS of ALL. His mind racing across interconnected layers of society. His stomach sends a message to you. 
+963		<i><shake>WHO AM I?</shake></i> 
+964		This goblin is one of the good ones, true. 
+965		Orderly, strictly trained, conscientious. His queen, his <i>dragon</i> whipped the Halfways into shape over such a short span of time. 
+966		He does not need to think so much of his position. His <i>culture</i> was eradicated because of a utilitarian choice by an oppressive numenist, yes. That was then. Now is now. As long as he keeps this up, he will - along with his peers - have created a new type of goblin a thousand times more useful. 
+967		Once <i>you</i> take power: these goblins will be fine servants. 
+968		Your heart is beating fast. You can hear it. 
+969		Every word out of Snell's mouth is tinged with generations of pain. His father. His father's father, who was slain by the god you uphold as the one <i>highest good</i>. How does that work? 
+970		The answer is it doesn't. <i>Urth destroyed folk</i>. He personally performed multiple <i>folkmord</i> on this band. That is not something you, or any human of his creed will ever be able to ignore. Not without bleeding your souls dry in the process. 
+971		Snell shows great restraint, every day. And you test him, each moment. 
+972		That could have gone worse. 
+973		But yeah, probably smart to not talk genocide with the guy whose entire culture was erased like, what, fifty years ago? 
+974		Wait, oh shit. It's literally the fifty year anniversary this year. That's crazy! Anyway, DON'T mention that, or any of this again. He'll probably be happiest if you just listen and take it like a good little Azgalist or something. 
+975		(Nod.) 
+976		(Don't nod.) 
+977		Your companion looks at you for a while. His yellow eyes seem to behold you, seeking another answer. 
+978		"This one's on me." 
+979		"What?" 
+980		"This, uh... <i>short rest</i>. It's on me." 
+981		LOVELY. 
+982		The Sprite-light fizzles out, just in time. 
+983		"I'm good to go now." 
+984		E-(Get up and get going.) 

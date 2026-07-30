@@ -1,0 +1,51 @@
+idx	prefix	english
+0		A button on the wall of this dark chamber. 
+1		Press it. It must be useful. 
+2		Sure. Pressing random buttons has never ended poorly. 
+3		It is probably connected with these strange stairs leading to nothing. 
+4		"Eh." 
+5		The goblin lets out a single sound, then he just takes a step back. 
+6		"Oh! Meek knows this. Meek knows this!" 
+7		"Push button - will open secret door!" 
+8		"That how old master always put it. Button equal secret door." 
+9		E-Okay then. 
+10		"They can?" 
+11		"Yeah, like..." 
+12		"Yes?" 
+13		"Like, uh..." 
+14		Your goblin companion also gets sucked into the thought, clearly struggling to come up with a single thing that would need the use of an ominous button of this kind. 
+15		"Like what, master?" 
+16		An elevator. 
+17		You have nothing. 
+18		The mimic has won. 
+19	DC12 int-	"An elevator!" 
+20	FC12 int-	"I'm drawing a blank here." 
+21		"Oh yeah. One of those." 
+22		"Ele-vator?" 
+23		"Yeah. It's like a... goes up and down. You press a button to make it move." 
+24		"Oh..." 
+25		"Master is so smart!" 
+26		"Thank you. I am." 
+27		"I'm only as smart as the people in my party." 
+28		"Careful with that <u>ego</u>. You might not fit in that 'helm' of yours otherwise." 
+29		"Humble master! Very humble!" 
+30		"Meek learn much." 
+31		"Very good. Very good. <i>Ele-vator...</i>" 
+32		"Same." 
+33		"Oh." 
+34		"Maybe master will come up with answer later." 
+35		"Meek look forward to it!" 
+36		You won't. 
+37		"No thank you." 
+38		"I'm going to assume it won't spring a trap, or flood this strange, strange chamber." 
+39		You do so, putting a fair bit of force on it. 
+40		As you do, a groaning sound fills the chamber. 
+41		A passage opens, at the end of the stairs. 
+42		Logically, this would lead to... the Temple of Urth. 
+43		E-Great? 
+44		A faint click reaches your ears. 
+45		The goblin gives you an uninterested look. 
+46		(Press it again.) 
+47		E-Eh. 
+48		Nothing happens. 
+49		E-Sad. 

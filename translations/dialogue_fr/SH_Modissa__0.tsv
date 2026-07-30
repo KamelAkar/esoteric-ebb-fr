@@ -1,0 +1,501 @@
+idx	prefix	english
+0		The human woman frantically checks the pipes and rolling cogs on the thick copper press. 
+1		She just gives you a quick glance. 
+2		Her focus is on the MACHINE. 
+3		"Mr. Cleric, is it?" 
+4		"Everyone keeps talking about you. For some reason." 
+5		"I don't get the hype." 
+6		"I'm pretty special, like that." 
+7		"...What are they saying?" 
+8		"Cool machine." 
+9		"Sure you are." 
+10		"Nothing but weird things." 
+11		"Thanks." 
+12		She sighs and looks up at you. 
+13		"Did you have anything interesting to say, or are you just wasting my time?" 
+14		R-"Moody, are we?" 
+15		"I just have some questions." (Avoid eye-contact.) 
+16		"Moody?" 
+17		"<b>MOODY</b>?!" 
+18		Bad move, hombre. 
+19		That was mean. 
+20		You look around, meeting the gaze of one of the dwarves. He's slowly shaking his head to you. 
+21		"I'm <i>incredibly</i> busy! I've got a ton of-" 
+22		She takes a breath, then crosses her arms. 
+23		"You think you'd say that if I were a man?" 
+24		(Raise your arms.) "Please don't hurt me." 
+25		"If you were a man, I'd never disrespect you like that, for fear of getting my ass kicked." 
+26		"I take it back. You don't sound moody at all." 
+27		"Look, I'm sorry. I didn't mean it like that." 
+28		"So you mean- you're saying that the fear of <i>violent reprisal</i> is the only thing keeping you from acting like an asshole?" 
+29		"Pretty much." 
+30		"Maybe?" 
+31		"So what if I had a- a missile wand? Or a crossbow?" 
+32		"Would you act like a dick then?" 
+33		"No. Then I would respect you." 
+34		"...I'm sorry, I didn't mean to provoke you like that." 
+35		"I'd probably try to steal it from you. Since I'm a sneaky rogue." (Smirk.) 
+36		"Okay. Sure. I'll make sure to get a weapon in the future." 
+37		She scoffs and frowns. 
+38		"See, I think you're just another asshole who thinks the world owes him a smile and a handjob." 
+39		That's funny. 
+40		Not from her. 
+41		UTOPIA. 
+42		No. You are owed nothing from her or anyone else. 
+43		You do act that way. 
+44		CRUDE PENIS COMMENTS. 
+45		BEWARE. BEWARE... 
+46	DC19 con-	"<b>Penis</b>." (Look horrified.) 
+47		"I... no, thank you." (Look awkward.) 
+48		"The world does not owe me anything." 
+49		"I know what that is." 
+50		"You're right. I'm sorry." 
+51		"What?" 
+52		"The fuck?" 
+53		She squints at you. 
+54		"...Whatever." 
+55		She rolls her eyes. "Fine. Be quick." 
+56		"Well, apology accepted. I guess." 
+57		She just gives you a quick glance. But she seems to recognize you... 
+58		"Mr. Cleric. You keep popping up." 
+59		"How'd the delivery go?" 
+60		"I go where I please." 
+61		"I'm here to help the cause!" 
+62		"Fine enough. The delay was a pain in the ass." 
+63		"But it was kind of worth it to see the look on those assholes' faces when you told them off." 
+64		"Clearly. But still, thanks for the help with that stand-off." 
+65		"It was still a delay, but it was kind of worth it to see those assholes' faces when you told them off." 
+66		"You are?" 
+67		"Hm. Okay." 
+68		"I guess you've already proved yourself. Thanks to you we got the papers delivered. With a slight delay." 
+69		"Totally worth it though, just to see those assholes' faces when you told them off." 
+70		"Rollo and his idiot friends keep interrupting at the worst possible opportunities." 
+71		"Maybe now they'll finally stop." 
+72		"Mr. Cleric. You again." 
+73		"Miss Modissa. You again." 
+74		"You're not getting into more trouble, are you?" 
+75		"Don't try to mimic me. You're bad at it." 
+76		"You care?" 
+77		"Yes. I'm here to help the movement." 
+78		"Not really. Just being polite." 
+79		"A bit." 
+80		She scoffs. "It went fine. A bit delayed." 
+81		"Oh no. Never." 
+82		Her voice indicates sarcasm. How nice of her to think that you're smart enough to notice it. 
+83		Good to hear. Wait... 
+84		"I guess I should be thankful that you kept Rollo and his idiots from burning our papers." 
+85		"Mr. Cleric. Or should I say, Mr. Piece of Shit." 
+86		"That's uncalled for." 
+87		"I deserve that." 
+88		"Hello to you, too." 
+89		"It's not." 
+90		"Yes, you do." 
+91		"Say it again." 
+92		"...Anyway." 
+93		"...No." 
+94		"Say. It. Again. I deserve it." 
+95		"...You're a piece of shit?" 
+96		"Thank you." 
+97		"I can't believe Alfoz let you in here." 
+98		"You too, quiet <i>HWBT-guy</i>," she says and clicks her tongue. 
+99		He holds up his hands. "Hey, keep me out of this." 
+100		"You really screwed us over, you know?" 
+101		"We lost an entire delivery. Because of your bullshit." 
+102		"It's the law." 
+103		"It was a hard call." 
+104		"I'm here to apologize for that. And to support the movement." 
+105		"If you've ever dealt with legal stuff in this city, you would know damn well that everything's a god damned gray zone." 
+106		"So shut it." 
+107		"Shove it?" 
+108		"I'm sorry. I'm really sorry. I really should not have ruled in their favor." 
+109		"Law's the law." 
+110		"That too." 
+111		"You're like a construct. Stale and unthinking." 
+112		The girl shakes her head. "It seemed pretty easy to you." 
+113		"Actually?" 
+114		"Yes. I am an Azgal in my heart now." 
+115		"Nope. Kidding." 
+116		"Alright then, Mr. Jester." 
+117		"Oh. Mr. Cleric." 
+118		"You looking for more Azgals to execute?" 
+119		"We'll see." 
+120		"That was a bit of an overreaction. Maybe." 
+121		"I'm here to apologize. And to support the movement." 
+122		"Oooh. Scary." 
+123		"You try anything, and you'll get thirteen dwarves on your ass." 
+124		"So don't. Just a tip." 
+125		"<i>Possibly</i>." 
+126		"<i>Potentially</i>." 
+127		"Conceivably." 
+128		"But honestly, you did get us the papers back." 
+129		"I'm not sure you <i>meant</i> to do it, but..." 
+130		"It was a part of my master plan, yes." 
+131		"Not really. It just kind of happened." 
+132		"I have some issues." 
+133		"Sure." 
+134		"Well. Good outcome." 
+135		"Yeah." 
+136		"But we got the delivery done in almost good time." 
+137		"So I suppose I should be thankful. Somewhat." 
+138		"But I'm busy here. Very busy. Can you be quick?" 
+139		"Whatever it is you're here for?" 
+140		"And why do you have this quiet <i>HWBT-guy</i> with you? He weirds me out." 
+141		"Look, I'm just an observer. Or a... cleric handler. I guess." 
+142		She lets out a short laugh. "Okay, I get it." 
+143		"Cleric handler. That's good." 
+144		Snell shrugs. 
+145		"Mr. Cleric." 
+146		"What is that thing?" (Point at the machine.) 
+147		"I have some questions about you." 
+148		E-"That's all for now. Thank you, citizen." 
+149		You think about it. An idea, seeming so obvious. 
+150		Alas, it does not come to be. 
+151		Why not? 
+152		You are unsure. 
+153		But you feel certain that this Ledger should be given to those boys in the rollermill. 
+154		But you feel a strange sensation, one telling you to instead go to the rollermill. 
+155		For whatever reason. 
+156		Your heart apologizes for not allowing you to simply give it to Modissa instead. 
+157		It truly does. 
+158		"Nope. Just the Special Quillwells will do." 
+159		"Arcano-Machines like this are picky beasts. They drink what they drink." 
+160		"If you can get in, check the Guild Warehouse. On Waterlane." 
+161		You hear her let out a deep sigh, along with a dwarven word. 
+162		"...Ôrka." 
+163		"It's just questions." 
+164		"You seem annoyed." 
+165		"I'll be quick." 
+166		"Right. Get on with it." 
+167		She slowly closes her eyes. 
+168		Tired. 
+169		"I am actively attempting to ignore it." 
+170		"You're making it very difficult." 
+171		She rubs her temples. 
+172		You are giving her a migraine. 
+173		"I used to believe the state was oppressive in a malevolent fashion." 
+174		"At some point I'm going to have to deal with the fact that it might simply be a case of complete incompetence." 
+175		"Anyway. Do you want to ask anything else?" 
+176		"...What?" 
+177		"I said, he wants to have a meeting." 
+178		"Are you shocked?" 
+179		(Just nod.) 
+180		"He wants to..." 
+181		"I- what?" 
+182		She laughs. "You're kidding?" 
+183		"That asshole wants to... talk?" 
+184		"He has information to share." 
+185		"Yeah, I was surprised by it too." 
+186		(Shrug.) 
+187		"Okay. What kind of information?" 
+188		"But, like... about what?" 
+189		She shrugs back. 
+190		Sarcastically. 
+191		"So what does he want?" 
+192		"It's about a secret Freestrider contract." 
+193		"I think he might want to join forces. Against a common enemy." 
+194		"What do you think?" 
+195		"A... contract?" 
+196		"Yeah. It's got to do with the election." 
+197		"Oh. <i>Oh</i>." 
+198		"Freestriders?" 
+199		"Yep." 
+200		"How did you know that?" 
+201		"Mm." 
+202		"I mean. Who else?" 
+203		"No really. I have no clue." 
+204		"Ah." 
+205		"So let me guess. He wants something printed." 
+206		"Possibly." 
+207		"You'll have to ask him yourself." 
+208		"Who doesn't?" 
+209		She looks around. 
+210		Her thoughts wander to possibilities. 
+211		"You know what." 
+212		"Fine. Rollo can get a meeting." 
+213		"But I'm bringing the girls. And it's happening now." 
+214		"Now?" 
+215		"Now." 
+216		"I'll just round them up and head over to the rollermill." 
+217		"That's where they still hang out, right?" 
+218		"Yes they do." 
+219		"You sure know a lot about them." 
+220		"Then it's a date." 
+221		"Of course." 
+222		"Unfortunately." 
+223		"Gods, I hope not." 
+224		She scoffs, shaking her head. 
+225		"You better be there, Cleric. Otherwise I can't guarantee their safety." 
+226		She's joking. But also not. 
+227		The girl is mad. In more sense than one. 
+228		"Copper press," she answers without looking up. 
+229		"For the <i>Chant</i>." 
+230		"Are you allowed to run a copper press in an apartment like this?" 
+231		"Cool thing you've got going here." 
+232		"Did you set this whole thing up yourself?" 
+233		"Who writes all the articles?" 
+234		"Yeah... I've got some other things to ask." 
+235		"You a friend or not?" 
+236		"Can't a friend ask about the legality of copper presses?" 
+237		"Not a snitch. Don't worry." 
+238		"Depends on your answer." 
+239		She frowns. 
+240		"The city has a bunch of inane, and quite frankly <i>oppressive</i> laws about what constitutes a legal printing business." 
+241		"All of it's bullshit, meant to keep people from printing stuff the city doesn't like." 
+242		"So it is illegal, then?" 
+243		"The city wouldn't do that. Would it?" 
+244		"So you're saying the city should allow <i>anything</i> to be printed?" 
+245		"Fuck off." 
+246		"Calling it illegal, when those who decide the laws on print media are also affiliated with the biggest political party in the city..." 
+247		"You tell me?" 
+248		"Since those who decide what gets to go to print are also affiliated with the biggest political party in the city..." 
+249		"No. Obviously." 
+250		"But when those who decide what gets to go to print are also deeply affiliated with the biggest political party in the city..." 
+251		"Things get morally dubious. But I can promise you- we're on the right side of history here." 
+252		There is no sense of doubt in her voice. 
+253		This girl's got more backbone than half the bureaucrats in the Palace. 
+254		Which is very dangerous. For both her and those bureaucrats. 
+255		Her voice drips with cold disdain. 
+256		She would prefer to be appreciated by rebels, the youth, and cool people. 
+257		Not helmed fascists. 
+258		"Why? You don't think I could?" 
+259		Whoa. She's reading way too much into that question. 
+260		She does not want you to undermine her. 
+261		The girl is prideful. She'll bite if you nibble. 
+262		"You're awfully defensive, you know?" 
+263		"It's impressive. No matter who you are." 
+264		(Look at the very, very heavy machine. Then look at her.) "No. You could not carry this yourself." 
+265		She's about to say something rude, but stops herself. 
+266		"Try being a young woman in a movement run by hundred year-old <i>male</i> dwarves." 
+267		She clicks her tongue and glances at you. "Mm-hmm." 
+268		"I... I'm the second Forewoman among the Youth Azgals." 
+269		"Fore... wo-man?" 
+270		(Let her talk.) 
+271		"Yeah," she mouths and glares at you. "It's like a foreman, with tits." 
+272		Oh boy. She ain't a people-pleaser, is she? 
+273		The girl sure has a temper. 
+274		She does not enjoy these man-piggy comments. 
+275		"My mentor, she founded the Youth Azgals. From scratch. So I've got a lot to live up to." 
+276		"I'd helped a bit before taking on the editing role, so I've run with the Youth Azgals since I was a kid." 
+277		"But I didn't expect to take over all the Tolstad-stuff." 
+278		"While I'm happy to do it, I'll admit that I'm spread a bit thin. And honestly, it's-" 
+279		She stops and clears her throat. 
+280		"Until the election, we're all giving it two hundred percent. Now, do you have any other questions, or can I get back to work?" 
+281		"We've got a circle. Anonymous journalists." 
+282		"And no, I'm not giving you names." 
+283		"Come on... please?" 
+284		"Why anonymous?" 
+285		"What if I said you had to tell me?" 
+286		"No." 
+287		She clicks her tongue and mumbles out a poem. 
+288		"<i>Only bad folk live to see their likeness set in stone</i>." 
+289		True honor lies in silent toil. 
+290		"And also, the Azgal movement's close to being branded as a heretical disease." 
+291		"We're keeping a low profile." 
+292		She raises her eyebrows and squints at you. 
+293		"You serious?" 
+294		Then she glances to the several dwarves hustling around in the tiny apartment. 
+295		"You don't have authority in here, if you didn't notice." 
+296		"...Fair." 
+297		"What about... just one name?" 
+298		"I wonder how long I could last if I started a fight here..." 
+299		She sighs. "But I do write a bit myself. Mostly to fill out the pages." 
+300		"...Sure." 
+301		"Page Ops. Mostly." 
+302	DC10 int-	"Opinion pieces. From you." 
+303	FC10 int-	"Page... operations?" 
+304		"Tell me more." 
+305		She groans and taps the machine. "I write about current events. Guild conflicts. Strikes. Corrupt officials." 
+306		"Illegal spellcasting by clerics." Her eyes land on you for a few seconds. 
+307		"Anything the other newspapers won't touch, basically." 
+308		She laughs. "I highly doubt you'd know any author I enjoy." 
+309		Tough words from someone who probably only reads modern trash. 
+310		"Try me." 
+311		"Probably true. Anyway..." 
+312		She hits you with a grin. 
+313		What have you unleashed? 
+314		"I enjoy Lady Seim Coufrin. Her poem-series should be mandatory reading for every young girl in Norvik, if it were up to me." 
+315		You'll be stuck here all day. 
+316		"Vitle Aâberg is my favorite modern Azgal author. It's fiction, but it's like... so much more than that." 
+317		"I also love Vanessa D. Crawdad. She really has this... you know... ethereal nature to her. Don't you agree?" 
+318		The last one's fake. 
+319		That last one, tell her you like her... great text. Or something. 
+320	DC9 int-	"You made that last one up." 
+321	FC9 int-	"Ah, yes. Vanessa! I read her work all the time. Great words from her." 
+322		"Okay. Any more?" 
+323		She laughs. "You got me. Just wanted to make sure you were awake." 
+324		"Sure is," she says, and looks very tired. 
+325		"Oh! And politically, I'm really into the early work of Helga Hemlin as well." 
+326		UH-OH. 
+327		"It's genuinely inspiring to read her collection of early texts, back when the Norvikian suffragette-movement was just getting started." 
+328		Bad memories. 
+329		"Did you know she went from a peasant widow, into the headliner of the biggest ever city protest, in like, the span of four months?" 
+330		A truly great woman. 
+331		"Yeah, mom worked a lot back then." 
+332		"...Mm-hmm. Cool. Anyway..." (Don't mention mom.) 
+333		"She's probably the most-" 
+334		The girl stops talking and gives you a confounded look. 
+335		"I mean, she works a lot these days too." 
+336		Her eyes widen. 
+337		"YOUR MOM IS <b>HELGA HEMLIN</b>?" 
+338		(Look around nervously.) 
+339		"...Nuh-uh." 
+340		"Yeah. So what?" 
+341		"What're you yelling about?" 
+342		Modissa looks over to the dwarf. "The Cleric just claimed that his mom is Helga Hemlin!" 
+343		"...The human suffragette?" 
+344		"Yeah!" 
+345		The other dwarves start to mumble. 
+346		"Wait. You're not kidding, Cleric?" 
+347		"You're not kidding, right?" 
+348		"It's just my mom." 
+349		"...Maybe?" 
+350		"Holy shit." 
+351		The goblin turns away and mutters, "That explains so much..." 
+352		"That's crazy. Like, what the hells." 
+353		"Yeah. Crazy. Anyway, I have some other questions..." 
+354		"No. <i>I've</i> got some questions." 
+355		"...I guess I could answer some questions." 
+356		M-"No, it's fine. Let's move on." 
+357		"Okay, well- I barely know where to start..." 
+358		She knows exactly where to start. 
+359		"No, it's not fine. We can't move on." 
+360		"You can't just drop a bomb like that and expect me to just-" 
+361		"Like, how is she as a person? Is she working on anything new? What's up with the pro-city foreword in her latest collection?" 
+362		"How much does she actually believe in Azgalian analysis? What's she voting in the election?" 
+363		Your companion appears equally invested in the conversation. 
+364		"What am I, a dispenser of answers to questions? That's <i>your</i> role." 
+365		"As a person? Uh. She complains a lot. Mostly about me moving out." 
+366		"I remember something about her writing a novel. She doesn't talk much about her work with me." 
+367	FC15 wis-	"Azgalian analysis?" 
+368	DC15 wis-	"There's books on Azgalian analysis in her library." 
+369		"I think she's voting for the Party of Norvik." 
+370		"Come on... just answer!" 
+371		And that's usually your line. 
+372		And that's usually- 
+373		"That's usually your line." 
+374		"You <b>live</b> with your <b>mom</b>?" 
+375		"...Huh." 
+376		"It's not weird. Most people in Norvik live in multi-generational housing." 
+377		"Apartments are expensive." 
+378		"She's never home, so it's like I have the place to myself anyhow." 
+379		"Maybe in the countryside..." 
+380		"I suppose that's... fair." 
+381		"Oh, that's interesting." 
+382		"But I always imagined that she was like this, self-made woman that really cared about people, you know?" 
+383		"I'm not sure that's too correct." 
+384		"Sure. Sounds like mom." 
+385		"You'll have to decide that yourself." 
+386		"Wait, can I meet her?" 
+387		"I'd love to do an interview! After the election, of course." 
+388		"I don't-" 
+389		"I'm not-" 
+390		"You can't-" 
+391		"It's settled! Once this is all settled, I'll make sure to look her up, with your recommendation." 
+392		"Now, about that other stuff..." 
+393		"Oh! That's cool... I was hoping for another collection, I guess." 
+394		"She doesn't talk to me a lot at all." 
+395		"Yeah. A collection would be nice." 
+396		"Oh. Well. She must be busy." 
+397		"It would!" 
+398		"Yeah, you know, historical materialism? That the true power behind the course of history on the Coast is the struggle between social classes over control of the means of production?" 
+399		"I have no clue what you're talking about." 
+400		"Sounds cool." 
+401		"So like, peasants versus kings?" 
+402		"Mm. Figured." 
+403		"It's very cool." 
+404		"...Sure. Something like that." 
+405		"Really? That's so cool! I mean, it's pretty obvious she's into historical materialism, if you just read between the lines on her last columns in the Post." 
+406		"Why? You must be mistaken." 
+407		"I saw her voting card the other day. It had the PoN crossed in." 
+408		"Probably. Anyway..." 
+409		"No way..." 
+410		"But she's literally worked against the old guard of the Nationalists for her entire career? Very publicly!" 
+411		"Why would she..." 
+412		"Guess mom's a bit of a fascist." 
+413		"Who knows." 
+414		"She has a lot of friends in the current government. How do you think I landed a gig as a cleric?" 
+415		"That's... shocking." 
+416		"Huh. I'm still not sure I believe you, even." 
+417		"Yeah..." 
+418		She gives you a suspicious squint. 
+419		"Fine." 
+420		"Well, now since you've entertained me, I guess I can answer some more questions. If you have any." 
+421		She mindlessly tinkers away. 
+422		She takes a deep breath. "Great." 
+423		She looks you up and down. 
+424		"You really want to help?" 
+425		"Yes." 
+426		"If it's not too annoying. Yeah." 
+427		"Okay?" 
+428		"Then go back to playing city guard." 
+429		"Hm. Okay then." 
+430		"I do have a quest for you, if you're up for it." 
+431		"<b>YES!</b> Give me the quest!" 
+432		"Sure. I'm cool with a quest." 
+433		(Stare at her and breathe loudly.) 
+434		"Nice! Well..." 
+435		"It's more of a task, really. Like a... fetch quest." 
+436		"If it's got quest in the title, I'm up for it." 
+437		"Slightly less exciting." 
+438		"Oh." 
+439		"Look. I've got a massive final printout before election day. It's going to be our best edition yet." 
+440		"I've already written an article that shows my vision for a radical and egalitarian revolution of Norvik." 
+441		"It'll be distributed all over the city. Countryside included." 
+442		"But. We're tight on ink." 
+443		They must need a special type of ink to print with copper sheets. 
+444		Ink? Are they writing the newspaper by hand? 
+445	FC9 int-	"Ink? As in, the black writing stuff?" 
+446	DC9 int-	"What type of printing ink do you need?" 
+447		"Is it hard to get, this ink?" 
+448		"Kind of? It's a special type of ink. Comes in cartridges." 
+449		"Kauldrige. It's produced in Reeds, and shipped around the coast." 
+450		"Yes. Mostly because everyone needs it." 
+451		"I usually get some off a vendor I know. But they're indisposed at the moment." 
+452		"Election stuff, you know?" 
+453		Why is she lying about this vendor? 
+454		Clearly a not-so-legal vendor. 
+455		"From what I understand, the entire shipment of Quillwell Cartridges is just stuck in the Guild Warehouse." 
+456		"Since I only need a single set of Cartridges to finish off the election edition, I could just walk in there and... snatch it. I've even paid for it already." 
+457		"But... the Askanii-Reeds Trade Company controls it. And they will <b>not</b> let me inside." 
+458		"Not in a hundred eras." 
+459		"I'll get it for you." 
+460		"I'll get it for you, if I can." 
+461		"Why won't they let you inside?" 
+462		"Freestriders? They wouldn't let a non-affiliated merchant inside in normal cases, but me being a known Azgal Youth member, I'm for sure not getting inside." 
+463		"If you want to help the cause, that's one way to do it." 
+464		"It'll actually allow us to reach the entire city on election day, instead of just... like, sixty percent of it." 
+465		"Sixty percent is still pretty good." 
+466		"Tell me more about this vendor of yours." 
+467		"Sure. And we'd obviously focus those sixty on the most Azgal friendly quarters." 
+468		"But getting a full spread would surely help, even with some diminishing returns." 
+469		She shrugs. "Some shady guy I barely know. Got the contact from my predecessor." 
+470		"You have? Great!" 
+471		"Just get inside again. Did you sneak in, or... are you friends with the A.R.?" 
+472		"Yeah. They love me there." 
+473		"I snuck in. Since I'm a sneaky little rogue." 
+474		"You don't want to know." 
+475		"How two-faced. I like it." 
+476		"Okay. Well. Just get back in and get me the ink, then." 
+477		"Uh, please." 
+478		Remembered to be polite. A rare treat from her. 
+479		"I didn't see any ink when I was there last time." 
+480		"The box won't be just labeled 'INK', obviously." 
+481		"It should be labeled as, 'Kauldrige R. Special Cartridge Quillwells'. Just look around." 
+482		"I know the shipment's just sitting there." 
+483		"What a tongue twister." 
+484		"Got it." 
+485		"We'll see if I can get it." 
+486		"The expensive brands always are." 
+487		"Good." 
+488		"If you want to help, do it." 
+489		"Good luck!" 
+490		"It's down on Waterlane, right next to the Askanii-Reeds Trading Company." 
+491		"Should be hard to miss." 
+492		As you enter the sweaty apartment, with the ink cartridges in hand, you encounter a rock and a hard place. 
+493		The rock being a red-faced dwarf, and the hard place being the unyielding stubbornness of a teenage girl. 
+494		"You'll ruin a decade's worth of goodwill!" 
+495		The dwarf slaps the newspaper page against his massive forehead. 
+496		"For what?!" 
+497		Forehead slapping is a dwarven national pastime. 
+498		The girl snatches it from the dwarf's hand. "Show me. Show me a single thing that's false!" 
+499		"I dare you." 

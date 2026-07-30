@@ -1,0 +1,161 @@
+idx	prefix	english
+0		You stare at the wondrous wood carving. 
+1		A depiction of Urth at his greatest. A true man. 
+2		However, you also notice a message carved into the base of the art-piece. 
+3		This was not of the artist's intention. 
+4		It says 'Goblon was here'. 
+5		Heresy. What kind of ingrate would defile a sacred object? 
+6		"Heh. Seems like Goblon's at work again." 
+7		Your work on the statue has cleared up the foul message at the base. 
+8		Now just smooth wood remains. 
+9		You try to shield your gaze from the horrors of the crack you caused. 
+10		You feel like crying. 
+11		Good. You're a monster. 
+12		The wood statue is forever marked by your hands. 
+13		An accurate depiction of Urth, after all. Cracked and broken. 
+14		E-My work is done here. 
+15		Vandalization. Terrible to see. If you'd been here, you would have stopped it. Surely. 
+16		Either way, you must become stronger. To stop this disintegration of society from spreading. 
+17		Vandalization. This happened because you are a weak man with a small member. 
+18		And the entire world will continue to degrade over the centuries because of it. And it's okay. It's just the way things are. 
+19		"Famous artist, that guy. Never seen him, but you've definitely seen his work." 
+20		"A bit rude to just carve his name into the statue like that, but he's known to be a bit of a dick swinger." 
+21	FC10 str-	I don't have a small member. 
+22		It's always small compared to those larger. 
+23		The competition never ends. 
+24		The dick measuring competition? 
+25		The goblin gives you a quick glance back. 
+26		"Huh?" 
+27		"It's perfectly average." 
+28		He squints. "You've been standing there silently for a while now. You're aware I have no context of what you're talking about, right?" 
+29		"...That's good actually." 
+30		"Okay? Good. Carry on." 
+31		(Turn back to the statue.) Anyway, where were we? 
+32		The competition. 
+33		Right. Dick measuring competition. 
+34		<b>Yes</b>. 
+35		You should view this more as a metaphor. 
+36		That's probably healthier. 
+37		Why am I thinking about this? 
+38		You're a man. You can't just <i>not</i> think about it. 
+39		Who doesn't think about cocks a couple of times a day? 
+40		The phallic nature of the statue must invoke it. 
+41		This train of thought is dumb. Suits you, but dumb. 
+42		If you truly worry so much, there are potions and spells for this. 
+43		An esoteric man need not worry about physical matters. 
+44		"You won't." 
+45		You wouldn't. 
+46		"As much as I'd love to see you try, no one can even get to him." 
+47		"The guy's as elusive as an ethereal spider." 
+48		"Really?" 
+49		"Yeah. This is an old monument. It's fine. The past is the past." 
+50		(Contain your tears.) "Yeah. It's fine." 
+51		He squints and nods, slowly. 
+52		"Sure." 
+53		Goblon is an artist. He's technically wanted in most districts. 
+54		You've seen his mark around the city many times. 
+55		But no one even knows if he's real. 
+56		Might be a dozen little guys running around with paint and carving tools. Who knows? 
+57		Death and decay. Like the rest of the world. 
+58		Nothing the world hasn't already done. 
+59		Oh yes. You're cleaning the world, one message at a time. 
+60		You've done almost nothing. But it is something. 
+61		Hells yeah! You sure did great. Only problem? 
+62		You did it for <i>free</i>. Like some welfare janitor. 
+63		Next time, give a quote. 
+64		"Humans sure do like their wooden stuff." 
+65		"Yeah, good job. Expected you to crack the thing in half." 
+66		But you didn't! 
+67		"Yeah. A perfect metaphor." 
+68		"Cracked in half but still standing." 
+69		The goblin is correct. 
+70		Albeit morbidly so. 
+71		You should! It's only right for The Cleric to clean up such a mess. 
+72		Is this really your duty? 
+73		Easy job! 
+74		You should be worried about the work involved here. 
+75		You'd have to take that carving knife by the candles, and... 
+76		Can the Yellow One be trusted with this important mission? 
+77		Your faith needs to be strong. 
+78	ROLL12 dex-	Attempt to remove the 'Goblon' message from the statue. 
+79		Does this really have to be a <i>sleight of hand</i>-thing? Can't I... use the power of my faith or something? 
+80		What're you going to do, close your eyes and pray? 
+81		If you want to clean this old wooden thing up, you've got to handle it carefully. 
+82		No... 
+83		Prayer does work. Just put your trust into Urth. He will guide you. 
+84		Yes. This is not something you can solve with faith. 
+85		Trust the artisan within. 
+86	DC10 str-	(Trust your faith.) 
+87	FC10 str-	(Trust your faith.) 
+88	DC10 dex-	(No. Trust your abilities.) 
+89	FC10 dex-	(No. Trust your abilities.) 
+90		Yes. Perhaps you can... 
+91		No. This was a bad idea. 
+92		That's the spirit! 
+93		Now let's get to work... 
+94		That's the spirit. 
+95		Might be slightly misplaced spirit, but still! 
+96		Fair. Your hands are pretty shaky. 
+97		Fine. Do as you wish. 
+98		You start working. 
+99		Picking up the tiny carving knife, the same that was used to scratch the wood. 
+100		You can clean this up real quick... 
+101		(Spend 10 minutes working on it.) 
+102		With dexterous fingers you precisely carve a layer off the statue. 
+103		Within a few minutes the message is entirely gone. 
+104		Glorious. Wonderful work. 
+105		Hanging on to a dead god. It's sad. 
+106		Sad? It's a tragedy. But that does not mean we can forget his legacy. 
+107		Fine craftsmanship is what it is. 
+108		You could've been a wood carver in another life! 
+109		If it was in any way a lucrative career, that is. 
+110		SHE always spoke lowly of artistic endeavors. 
+111		One of many things you did not agree with when it comes to your mother. 
+112		Grabbing the tiny carving knife, the same that was used to scratch the wood. 
+113		You can clean this up in no time at all! Just get to work. 
+114		(Start working.) 
+115		Just one... little... 
+116		A crack and a snap. 
+117		That sound will haunt you until the final gate is closed. 
+118		That sound will haunt you until the day you die. 
+119		As the splinters and dust settle, your eyes land upon it. 
+120		The split. 
+121		"<shake>Geezus</shake>!" 
+122		You... 
+123		Urth is <b>dead</b>, and you have <shake>killed him</shake>. 
+124		Is this what being a part of a weak, dead culture feels like...? 
+125		Whoops! 
+126		"What... what have I DONE?!" 
+127		You've got dust in your eyes. In your mouth. 
+128		What a fuck-up. 
+129		I'm such a fuck-up. 
+130		You are. 
+131		Remember how he screamed at you? 
+132		The patriarch doesn't fuck around - you really should have run. 
+133		Run from the towers? 
+134		Oh yeah. Run from the towers. 
+135		For gods' sake, you got caught using city-funded paper and prints to write FREESTRIDER op-eds. 
+136		You're lucky they didn't find the other dozen you'd already sent out. 
+137		<shake>Dereliction</shake>. 
+138		Bjôrn gave you a pat on the back as you got called in. 
+139		Remember his grin? That piece of shit loved every second of it. 
+140		When the grilling was over, the Patriarch ripped your rank. But he didn't exile you. 
+141		He obviously didn't have the power to do so. Stripping a high-tier esoteric-expert cleric of his rank is like robbing a bank to pay off a loan. You're just gonna end up with more shit on your shoes. 
+142		Unless you're a lucky motherfucker. Which you clearly are. 
+143		Right. That's why- 
+144		That's why you're doing this grunt work. 
+145		But hey, could be worse. 
+146		Could be a sender. 
+147		The goblin taps you on the back as you get up. 
+148		"Look, it's just a statue." 
+149		"No one will notice the, uh, crack," he says and glares at the massive <i>ravine</i> you caused in the wood. 
+150		"So don't worry about it." 
+151		(Look at the crack in the statue.) 
+152		Yeah. No worries. 
+153		Nobody cares about an old dead god anyhow. 
+154		(Whimper.) 
+155		Yeah... it'll be fine. No one will know. 
+156		You look upon the ruined symbol of Urth with a heavy heart. 
+157		Blood has been spilled. It should have been yours. 
+158		This feels... bad. 
+159		FEARS. UNLOCKED. 

@@ -1,0 +1,267 @@
+idx	prefix	english
+0		Nice job stealing that key. 
+1		That Coinlord fellow was probably just gonna say some annoying stuff anyway. 
+2		Hm. There it goes. 
+3		The first day on the job. 
+4		You did GOOD. 
+5		<i>Well</i>. 
+6		You did <i>well</i>. Good is for the gods. 
+7		As you approach the bedroll you think to yourself: 
+8		Is there anything else you need to do before sleeping? 
+9		(Think about it.) 
+10		Nothing comes to mind. 
+11		But you feel it. 
+12		The youth gathering. Yelling. 
+13		Two sides, each holding an idealized view on the world, their voices echoing across the shipyard. 
+14		THE YOUNG & DUMB. 
+15		On <i>Waterlane</i>. 
+16		YES. 
+17		Exhaustion. It wrecks your body. 
+18		DANGER would follow... if you head out in this state. 
+19		Trouble on Waterlane View? There's <i>always</i> trouble there. 
+20		It's a simple teenage rebellion. They can sort it out themselves. 
+21		Hm. You should help them. 
+22		YES! I'll head down right now. Down to Pillar Crossing, past the bridge. (Leave. Right now.) 
+23		Nah. I'll skip. (Just go to sleep.) 
+24		Your gut is telling you: DIVE into this bedroll. 
+25		You should listen. 
+26		Or...! 
+27		Or? 
+28		OR: You could push yourself. 
+29		Take a deep breath. Steel your body and mind. 
+30		And go deal with this ominous calling to Waterlane. 
+31	ROLL10 str-	Push yourself. PUSH. YOURSELF. 
+32		Staring at your bedroll. Hands clasped. Head low. 
+33		You RISE. In spirit and flesh. 
+34		Oh. I'm not exhausted anymore. 
+35		You are not. 
+36		All it took was a push, for a good cause! 
+37		But I'm still not sure what's happening down on Waterlane, right? 
+38		Then I shall go. To Waterlane. And see what the fuss is all about. Right? 
+39		Staring at your bedroll, your weary bones begin to falter. 
+40		No amount of pushing is going to get you through this level of exhaustion. 
+41		Yeah. Probably right. 
+42		I could still try. Go see whatever's happening down on Waterlane? 
+43		The decision is yours. 
+44		The young kind. 
+45		The angsty kind. 
+46		The kind of trouble that needs WRANGLING by THE CLERIC! 
+47		Pitiable. 
+48		Understandable. You would probably only make it worse. 
+49		Before you lies a bedroll. 
+50		Your body is WORN. 
+51		You must rest. NOW. 
+52		Why do I have to sleep? 
+53		No really, what is this thing? 
+54		E-Stop staring at the bedroll. 
+55		You sit there, your body burned down to its frays. 
+56		Holding it together, just barely, after many failures. 
+57		(Groan.) 
+58		You are destroying yourself for the quest. 
+59		As many men should. 
+60		And you will never be the same... 
+61		<wiggle>...</wiggle> 
+62		No. Your body is not tired enough. 
+63		Go make some money instead, you lazy bum. 
+64		Wanting to sleep for more than 8 hours a day is a sign of mental instability. Are you okay? 
+65		Stress. Troubling thoughts. Life-threatening events. 
+66		Your body is still adjusting. 
+67		Why would you ever need to sleep? A true man works until his bones break. 
+68		Yes. Your body is weary. 
+69		It's a waste of time. But sure, go ahead. 
+70		A little nap might be good for you. And your manhood. 
+71		That's the spirit! 
+72		If you stay awake for more than 48 hours, you will die. 
+73		If you stay awake for more than 48 hours, your body will cease to function in its current state. 
+74		Which is not good for your physical health. 
+75		For now, you should not go to bed. 
+76		You should go to bed now. 
+77		Taking a long rest restores your hit points, hit dice, lowers your exhaustion to zero, and returns your spent spell slots. 
+78		A long rest lasts 8 hours, and you can take one after 20:00 each day. 
+79		Hm? 
+80		It's a... bed. 
+81		You're unsure. 
+82		It doesn't look like a bed. 
+83		Textiles. Leather-bound and filled with some soft material. 
+84		Leather-bound and filled with ox-clippings. 
+85		Most likely Bubble Yarn. 
+86		Somewhat soft. 
+87		A bed-<i>roll</i>. 
+88		I see. Like one of those things adventurers use when sleeping on a journey. 
+89		A real man can sleep anywhere. 
+90		Including this rugged piece of rug. 
+91		This is going to hurt your back... 
+92		At least there's no snoring here. Remember the barracks? 
+93		You hear only wind here - and the occasional giant seagull call. 
+94		It will be a good place to rest. 
+95		Staying within the confines of the Guard Tower, you successfully spend eight hours on your long rest. 
+96		No need to roll any encounters. You've had enough for one Adventuring Day. Now let's see... 
+97		Getting into the tea shop on day one? That's impressive. 
+98		Just remember to investigate it properly before reporting back to the goblins. 
+99		Getting Alfoz to punch you was an interesting move. Agent Viira sure enjoyed it. 
+100		Smart move talking things out with the dwarves. Let's hope you can keep things civil moving forward as well. 
+101		As for those youngsters, brave of you to rush in like that. Lots of radicals on the streets these days. 
+102		Modissa and Rollo seem like they've been <i>at war</i> for quite some time. Maybe this won't be the last you see of them. 
+103		Then there's poor, poor Drummer. Trying to ship himself off into the unknown. 
+104		Hopefully he'll fare better in some far-off city. Good move sending him away. 
+105		Smart of you to keep him around. You'll probably get a chance to talk with him again before the election. 
+106		There's also the <i>Hag</i>. Someone holding a meeting in the tea shop? Right before the explosion? Highly suspicious. 
+107		There's also the <i>Hag</i>. Lisa is suspicious, but beyond her natural hag-ness, nothing seems to point in her direction. 
+108		By solving Olzis' riddle, you've clearly distinguished yourself. Just be careful what you do with your Deck... 
+109		By solving Olzis' riddle, you've clearly distinguished yourself. Though I'm genuinely surprised you didn't end the campaign outright by drawing from the Deck. Really. You're insane. 
+110		And sorry about letting you stumble into the City Below. I'm just surprised you made it out alive. 
+111		You really handled that fire-trap quite well. Couldn't have done it without Snell, eh? 
+112		Good to keep him at a distance though. You're not the type to make friends, anyhow. 
+113		The roper fight I did not anticipate. Especially that outcome. As in, that you <i>didn't</i> get eaten. 
+114		Though considering you waltzed right into that gelatinous cube... let's just say, you're <i>real lucky</i> to be alive. 
+115		And remember that you've got an entire dungeon underneath the city to explore as well... 
+116		But now it's time to deal with the main quest: <b><i>The tea shop awaits.</i></b> 
+117		But now for the far more mysterious question: Who killed the elf? And more importantly... <b><i>why?</i></b> 
+118		(And please, go to the goblin garden. It's to the south. They're waiting.) 
+119		You lay down on your bedroll, finding sleep difficult. 
+120		As you stir, you think about your quest. The Star Witness, the <i>man-in-yellow</i>. 
+121		<i>Frank, son of Frank.</i> It might just be a dead end- though you've got a distinct feeling that he's lurking somewhere below. 
+122		To think you've already discovered Meriadoc, saving him from that horrid troll. Figured it'd take you much longer. 
+123		But... you still haven't even <i>entered</i> the tea shop? It's probably time to do that tomorrow. Unless you want to be contrarian. 
+124		Which is fine. You're allowed to be contrarian. I'm just saying. 
+125		It's the 'mystery of the tea shop' campaign. Not the 'I'm gonna dungeon crawl all day' campaign. 
+126		Your star witness, Meriadoc Moonwatch, told you about his sighting of this... invisible <i>smoking</i> man. 
+127		Someone who has managed to <i>enter</i> the Pillar of Jor. 
+128		You know you must follow. Just make sure you're fully prepared... 
+129		As your mind wanders, you realize you <i>still</i> have not entered the tea shop. Your main quest here on Tolstad. 
+130		You've focused on a lot of other things, so it's understandable. But perhaps now it's time. 
+131		As your mind wanders, you get an intense feeling that you've missed something in the tea shop. 
+132		Whatever it is, you'll need to figure it out before you report to Lady Sageleaf. 
+133		And poor, poor Drummer. Trying to ship himself off into the unknown. 
+134		Then... there's the question of the <i>elf</i>. 
+135		This was supposed to be a simple job. No casualties. No pressure. Just some angry goblins and a ruined tea shop. 
+136		Now it appears to be anything but. 
+137		You really worked your ass off for the revolution. Then you even managed to help out Viira against that ambassador. 
+138		You really worked your ass off for the revolution. Then you even managed to do exactly what Viira wanted, in that talk with the ambassador. She's lucky to have you. 
+139		You really worked your ass off for the revolution. Only to get Viira pissed off at you during your meeting with the ambassador. It'll be interesting to see how you end up, in this new Norvik. 
+140		A true Freestrider is what you are, working so hard for the revolution. You know well: a bright future awaits in this new Norvik. 
+141		Helping out the Azgalists? Getting Modissa to tone down the <i>rhetoric</i>? You're really performing miracles among the dwarves. 
+142		Helping out the Azgalists? Helping Modissa push her <i>rhetoric</i> across the party line? Keep going like this, and you'll end up a true dialectician. 
+143		<i>The Resistance</i>. Not anymore. Sending those boys away was the smartest thing you could do for them. 
+144		Don't worry. They'll thank you in the end. 
+145		Those papers will make history. You won't be a part of it, of course. But Rollo and his boys will change the city - for the <i>better</i>. 
+146		Or at the very least, Modissa will make some wonderful noise before the Freestriders stomp them out. 
+147		Those papers will make history. You won't be a part of it, of course. But those kids will change the city - for the <i>better</i>. 
+148		Or at the very least, they'll make some wonderful noise before the Freestriders stomp them out. 
+149		Oh, and by solving Olzis' riddle, you've clearly distinguished yourself. Just be careful what you do with your Deck... 
+150		So many loose threads. But don't worry, you've got time. 
+151		You'll still need to locate the tea shop owner. 
+152		It's time to delve deeper, past the Below. Among its many secrets, some path has to go deeper... 
+153		Your delving has gone well, but it's time to look elsewhere. To shine a light on the other corners of Tolstad... 
+154		Before you know, eight hours have passed. You successfully complete your long rest. 
+155		As you fall into the softness of the bedroll, in this tiny tower... 
+156		You feel tired. The kind of tired sleep won't fix. 
+157		<i>Three days</i>. Three days you've spent on Tolstad, without even once poking your head down into the City Below. 
+158		Might be time. The mystery of the <i>man-in-yellow</i> clearly leads that way. 
+159		Then there's the <i>Hag</i>. Someone holding a meeting in the tea shop? Right before the explosion? Highly suspicious. 
+160		Then there's the <i>Hag</i>. Lisa is suspicious, but beyond her natural hag-ness, nothing seems to point in her direction. 
+161		Finally, your star witness: Meriadoc Moonwatch. He told you about his sighting of this... invisible <i>smoking</i> man. 
+162		You know you must follow. It's time to <b>finish the job</b>. 
+163		Will you be able to complete this quest of yours? 
+164		Below the Below. That is where you must go. 
+165		The Undercoast Path. Beyond that mushroom jungle. 
+166		That is where you will find your answers... 
+167		<i>Answers within Strings</i>. 
+168		You close your eyes to begin this desperate plea for sleep. 
+169		The Strings you follow, all are tangled around this endless Pillar spiked through the heart of the city. 
+170		Poor, poor Drummer. Trying to ship himself off into the unknown. 
+171		And by solving Olzis' riddle, you've clearly distinguished yourself. Just be careful what you do with your Deck... 
+172		And by solving Olzis' riddle, you've clearly distinguished yourself. Though I'm genuinely surprised you didn't end the campaign outright by drawing from the Deck. Really. You're insane. 
+173		You've explored every possibility. Followed each red thread. 
+174		Except one. The man-in-yellow. Your Frank son of Frank. 
+175		A whisper tells you: tomorrow, you WILL find him. In a corner of the City Below... 
+176		You realize it clearly, lying here. Past <i>Hallway of Fire</i>. That is the final place to look. 
+177		You realize it clearly, lying here. Past <i>Hallway of Fire</i>. There was a staircase guarded by the assassin. That is where you must go. 
+178		Finally, to enter the Pillar you must perform a most challenging esoteric task: <i>Travel to the Beyond</i>. 
+179		There are many esoteric beings on Tolstad. Some of whom are already known to you. One of <i>them</i> will surely assist you. 
+180		You've managed to hand that Scroll of Astral Projection to Visken. Quite the find. Now you must find the courage to ask him to <i>use it</i>. 
+181		You've managed to get that attuned emerald from Olzis. Quite the charmer you are, to get her to help you out. Or maybe she was just bored. Either way- now you're ready. 
+182		Selling your soul for the opportunity seems almost worth it. Despite his appearance, Ever-Glad doesn't seem <i>that</i> much worse of a patron than most employers in the city. 
+183		Is this your last night on Tolstad? Is this your last night <i>alive</i>? 
+184		As the sun rises over your beloved city, you know one thing true... 
+185		It is time to <i>enter the Pillar</i>. 
+186		The truth lies <i>Below the Below</i>. 
+187		This is it. The last day before the election. 
+188		You can barely sleep. Though it still counts as a long rest, lucky you. 
+189		As you wake, slowly, on this final day before the election, you know each moment will feel like a lifetime. As if all of Norvik is holding its breath. 
+190		Focus and prepare. Put everything in order. It's time. 
+191		<i><b>Finish the campaign.</b></i> 
+192		Another day. 
+193		Another adventure. 
+194		You successfully complete a long rest. Congratulations. 
+195		There's only one thing left to do. 
+196		Find the <i>Star Witness</i>. Unveil the truth... 
+197		Unveil the truth. Go into the Beyond... 
+198		The first day. 
+199		Your muscles strain as the second day begins. 
+200		Another day full of trouble. 
+201		The END is near. 
+202		Today you need to gather more evidence. This mystery will not solve itself. 
+203		You should have evidence to solve this. It's not that difficult. 
+204		It is time to open your heart. The people of Tolstad cry out for you. 
+205		You're unsure exactly what to do this forenoon. Perhaps a walk, to start things off? 
+206		You really gotta finish this today. Or else people are gonna talk. 
+207		If you want to finish this today, then it's time to put on the rough gloves. 
+208		Which means... yelling in people's faces? Or something like that. 
+209		Two days. Remaining. 
+210		It is actually only one day remaining. 
+211		You should be embarrassed to get it wrong like that. 
+212		<i>Sic.</i> 
+213		One day. Remaining. 
+214		(Start your day.) 
+215		This is literally how you feel, like, fifty percent of the time. 
+216		You should go to bed earlier. 
+217		Like a man. 
+218		More sleep would help. 
+219		Perhaps... tomorrow. 
+220		Going to bed early. Smart. 
+221		Acting like a real man. 
+222		A few extra hours of sleep... 
+223		Does <shake>wonders</shake>. 
+224		Because you are... and were... 
+225		Gotta keep running around if you want to get shit done. 
+226		Ignore those tired legs! Keep on running! 
+227		Do you? 
+228		You do not remember them. 
+229		Fragments. Whispers. A voice that isn't yours. 
+230		The stress of a new job. Get yourself together. 
+231		New city. New tower. New bedroll. New-ish. 
+232		You'll be a little scatter-brained. It is what it is. 
+233		Some say dreams are the mortal mind's way of receiving divinations. 
+234		But that's bullshit. Just don't think about it, okay? 
+235		Your Patriarch for one. 
+236		There are rumors that the Lawlord is putting a lot of pressure on your superiors. 
+237		Yes, Alemikan has been very thorough in his management of the Urthguard as of late. In preparation for this foolish election. 
+238		If you cause trouble - if you don't handle this - there will be trouble. 
+239		Even more so than last time. 
+240		Last time was bullshit. Everyone knows it. 
+241		You just didn't handle it with style. Next time will be different. 
+242		Somehow, you doubt that. Through simple pattern recognition. 
+243		Hells yeah, brother. 
+244		Time to get to work! 
+245		How are you ever gonna find the time...? 
+246		<wiggle>Stress</wiggle>... 
+247		Time moves fast when you're running around like a headless chicken. 
+248		Time moves fast when you're <i>productive</i>. 
+249		The election looms. 
+250		HOME. 
+251		A real man needs nothing more. 
+252		Than a bedroll and some old planks? In a hole-filled tower? That keeps swaying in the wind? 
+253		You miss your bed. 
+254		Home, with mom... 
+255		Dear mom. 
+256		Not like she'd be home. 
+257		Yeah. She's busy. Out hustling, like always. Like she should! 
+258		You must finish this. 
+259		You must try to focus. Despite all the horrors of this world. 
+260		Eh. Don't worry about it. 
+261		You have a feeling you're gonna finish this job just on time. As per usual. 
+262		THE FINAL DAY. 
+263		Everything ends today. 
+264		Or <i>begins</i>. Depending on your perspective. 
+265		Depending on which party wins this foolish democratic process. 

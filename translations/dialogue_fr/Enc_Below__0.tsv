@@ -1,0 +1,339 @@
+idx	prefix	english
+0		Seemingly out of the air itself, a masked figure appears. 
+1		"Master- bad vibe <shake>behind</shake>!" 
+2		The intimidating shadow stands ready to strike with dagger in hand. 
+3		A coward's weapon for a creature who prefers a sideways fight. 
+4		Alone. 
+5		Time... shortening. 
+6		Fray... <shake>near</shake>. 
+7		You should not have- 
+8		"Wait- wait...!" 
+9	DC13 dex-	(Use your super-fast reaction speed to react super-fast.) 
+10		(Just stand there.) 
+11		Yeah. Try asking him nicely. 
+12		That'll do great. Just- 
+13		Yes! 
+14		But the assassin moves faster. 
+15		No! 
+16		What are you DOING?! 
+17		Acceptance. 
+18		There is no... fixing this. 
+19		How dishonorable. 
+20		You cannot just backstab someone like this! 
+21		That's not- 
+22		<shake>YOU SHOULD NOT HAVE COME HERE ALONE</shake>. 
+23		(Get stabbed by a shadowy hex-blade.) 
+24		"...this maybe one of your friends, Cleric?" the goblin manages to ask, before his eyes widen. 
+25		A stranger is just a friend you haven't made yet! Ask about their exercise routine. 
+26		"Ah, shit." 
+27		"Not <i>this</i> again..." 
+28		"I also do not like this situation." 
+29		(Point at the assassin.) "That's an assassin." 
+30		(Just get ready to fight.) 
+31		His eyes fall on the dagger and he immediately reaches for his sling. 
+32		Oh! It's happening, <shake>let's gooo...</shake>! 
+33	IROLL-	Roll initiative. 
+34		You can hear precise, controlled breathing from beyond their esoteric mask. 
+35		This is it. They are ready to kill. 
+36		You spring into motion, prepared to act. 
+37		Your goblin companion takes the initiative. 
+38		The Masked One holds up the dagger, quicker than you are able to react. 
+39		Or, at least, this time. You're fast as fuck, just, you know, can't win 'em all. 
+40		Snell whips his sling with practiced flair, and launches a stone. 
+41		The assassin flips backwards trying to dodge it, but it connects nonetheless with a sickening sound. 
+42		The sound of a brittle-branch-breaking. 
+43		The masked figure's head tilts at you suddenly. 
+44		A flick of the wrist, a quick motion with the hands, and dark energy surrounds you. 
+45		But only in your mind... 
+46		A Hex! 
+47		You will take constant damage from this - <i>typical warlock spell</i>. 
+48		You feel a deep unease permeate your bones just as the assassin hurls a blast of sickly energy. 
+49		But you are close enough to see him preparing the blast, and you duck. It arcs over you harmlessly. 
+50		It lands squarely in your chest, causing an eruption of pain. 
+51		The uneasy feeling turns to a sensation of needles stabbing into you. 
+52		<shake>...Rrngh</shake>. 
+53		Needles... more like <i>needless</i>! Heh... hate needles. 
+54		The assassin intends to use the distance between you to their advantage. 
+55		<b>Focus</b>. 
+56		Throw something at him! Anything! 
+57		Look, you obviously have to get closer. 
+58		Make your choice now. This is either a mental or a physical fight. Don't try to go in two directions at once. 
+59		"Cleric- there's a... <i>Hex</i>!" 
+60		"You know about <i>Hex</i>, Snell?" 
+61	ROLL15 str-	Throw something at the attacker. 
+62	ROLL9 con-	Steel yourself against this threat. 
+63	ROLL12 dex-	Close the gap. 
+64	ROLL17 cha-	Yell something surprising. 
+65		"Maybe you can't see it- but there's little shadow-worms crawling all over you!" 
+66		"Anyway- FOCUS! Get the bastard!" 
+67		You pick up the first thing you can grab and hurl it with all your might. 
+68		(Grab a handful of...) 
+69		It is a clod of dungeon dirt... and <b>moss</b>! 
+70		It speeds through the air and explodes on the assassin's chest. 
+71		Hell yeah! This is <i>your</i> turf! 
+72		The Masked One looks down at the dirt, seemingly checking for injuries. 
+73		They are surprised when they find none - but they do seem rattled by the experience. 
+74		But it breaks apart almost instantly and the particles fall down all around you. Damn! 
+75		You breathe deeply, centering yourself before the assassin attacks. 
+76		You breathe deeply, centering yourself after seeing what the assassin is capable of. 
+77		The breath comes easily, fluidly, and deeply, filling your body with calm. 
+78		You are prepared for struggle. 
+79		You close your eyes and try to breathe deeply, but the panic of the situation gets to you. 
+80		Opening your eyes back up, you find yourself no calmer or more prepared than a few moments before. 
+81		<shake>Rrngh</shake>. 
+82		Wow, doing nothing didn't do anything? What a surprise! 
+83		You run towards the Masked One, using all your energy to get closer. 
+84		The assassin tumbles backwards quickly, but not quickly enough. You're in striking distance! 
+85		This'll make the fight a <i>lot</i> easier. 
+86		If you want to resolve it physically, yes. 
+87		You run towards the Masked One, using all your energy to- 
+88		You stumble and smash your head on the ground. 
+89		You groan in pain and stand back up. 
+90		If you're gonna run full-on like that, you have to <i>stretch</i> first. 
+91		You grope for something that will disrupt his rhythm. 
+92		And you find it. 
+93		"There's no escape! We have you surrounded!" 
+94		The assassin jerks to attention and glances over both shoulders. 
+95		Heh. You can see he believes you, and he's distracted by the possibility. 
+96		You are a <i>good</i> liar. 
+97		And you... well, you'll have to give it a shot. 
+98		"Surprise!" 
+99		The assassin does not react even one iota. 
+100		Not very fun, huh? He could at least play along, do a little fake "oh wow!" before he stabs you or whatever. 
+101		You have such horrible ideas <i>all the time</i>. 
+102		What <i>is</i> an iota? 
+103		You charge dark energy into your fist with smooth ease, sprint forward, and jab directly at the assassin. 
+104		You put the <i>bad juice</i> in your hand and punch. 
+105		Your fist connects with his shoulder, and the necrotic energy surges through his body. 
+106		A grunt of pain escapes from the composed assassin. 
+107		With a flamboyant flip, he's now out of reach once more. 
+108		You charge dark energy into your fist and throw a wild haymaker at your foe. 
+109		The assassin doesn't even have to dodge; you were much too far away. 
+110		Embarrassing. 
+111		Frankly, that was one of the most embarrassing things you've ever done. But you don't have time to dwell on that. 
+112		You raise a palm, rub your fingers together, and open your hand, summoning a torrent of grease. 
+113		It sprays all over the assassin and the surrounding area. 
+114		Get greased, idiot! 
+115		A strategic choice. 
+116		Time to get all slippy slidey. 
+117		Playtime's over. 
+118		You will not allow some filthy sneak to kill you. 
+119		You are in danger. 
+120		"Cleric! You've been Hexed!" yells the goblin, whirling another stone. 
+121		Ah, yes. Of course. 
+122		The stone misses the Masked One. They glance sharply at Snell. 
+123		The Masked One again lifts their hand, shooting a viridescent blast. 
+124		You endure the pain as best you can. 
+125		Then, the uneasy feeling sharpens and slices at your nerves. 
+126		The assassin appears frustrated at having lost their dagger. They are searching for it. 
+127		You need to get up close. And <b>personal</b>. 
+128		You're close enough to act. 
+129		That's enough. That's <i>perfect</i>. 
+130		What're you going to do? 
+131	ROLL16 str-	Punch! 
+132	ROLL19 dex-	Disarm him! 
+133	ROLL16 wis-	Consider the nature of the magic. 
+134		You cannot beat the classics. 
+135		You wind up your fist, and connect mightily with the Masked One's mask. 
+136		He stumbles back and clutches at his face for a moment. 
+137		That provided no protection. It isn't armor in the traditional sense at all. 
+138		It really is just to hide their identity. 
+139		You throw a punch, but it doesn't have enough force behind it. It's sluggish. 
+140		The assassin easily dodges you. 
+141		You take a step forward and, using both hands, quickly push his wrist one way and the flat of the dagger the other. 
+142		The dagger pops out of his hand and lands on the ground a few steps away. 
+143		You catch him gasp with more panic than you'd expected. 
+144		That dagger is critically important to them. An heirloom? No, it's tied to their very being... it's a hexblade! 
+145		You take a step forward and clumsily swipe at the assassin's dagger. 
+146		The Masked One adjusts his wrist slightly, and you grab the blade itself. 
+147		You take a moment to consider what sort of foe you face. 
+148		It's typically hard to think during the heat of combat, but the conclusion is clear: this is a warlock. 
+149		You've been Hexed, and you are being attacked with Eldritch Blasts. 
+150		Which means that dagger is a hexblade. <i>Their</i> hexblade. 
+151		Okay, so... this is a dagger-wielding mage... 
+152		And... 
+153		You cannot figure it out. 
+154		You look at the already-injured assassin as you again charge energy into your fist. 
+155		Throwing a powerful uppercut, you catch the underside of The Masked One's mask. 
+156		Excellent. He is very badly hurt. 
+157		The assassin ducks easily under it as the energy dissipates. 
+158		You again spray grease all over the assassin. 
+159		He continues to be greasy. 
+160		Get greased, idiot. 
+161		All three of you are beginning to tire. 
+162		Beginning to tire... much like a bicycle being used for the first time! 
+163		Eh, this one won't be interested in jokes. Nevermind. 
+164		The end is near. 
+165		As the assassin squirms in your grip, Snell runs over and gets a hold of the Masked One's legs. 
+166		The both of you have a secure hold on your enemy, but this assassin continues to thrash with surprising vigor. 
+167		Oh, no. Are they too strong and powerful to be retained by your grip? Ohhhh... 
+168		Snell sprints forward at the assassin and tries to slide-tackle his legs. 
+169		The assassin leaps into the air to dodge... 
+170		But Snell reaches a hand up and connects with the Masked One's ankle. 
+171		The assassin tumbles to the side, almost falling prone. 
+172		Yes! That's <i>your</i> Snell, baby! 
+173		What a sidekick. 
+174		The assassin raises his off-hand as though he's going to blast you with energy again... 
+175		But he lashes out with the dagger instead. 
+176		It slices into your forearm, cutting a ragged gash in your flesh. 
+177		Again, the pain of the hex asserts its stinging grasp. 
+178		The Masked One scrambles to find the blade on the ground. 
+179		It takes the assassin a few precious seconds to find it. 
+180		End this fight. <b>Now</b>. 
+181		You can disrupt that magic blade's String. You have the capability. 
+182		You can mess up the way that dagger works. 
+183		That mask would be valuable to have. And knowing who's trying to kill you is usually a good idea. 
+184	ROLL16 str-	Grapple! 
+185	ROLL15 int-	Disrupt the esoteric String of the dagger. 
+186	ROLL16 dex-	Grab the mask. 
+187		No more games. 
+188		You move in on the tumbling, dodging assassin. You thrust your palm forward and grab the assassin's arm. 
+189		He squirms and thrashes, which gives you an angle on the other arm. 
+190		You maneuver yourself and squeeze with every struggle, every panic. You are a python. 
+191		You <b>constrict</b>. 
+192		You move in on the assassin, getting a palm on his forearm. 
+193		But your grip is weak. The assassin shakes you off and steps back. 
+194		<b>Damn</b>. 
+195		You raise both hands in front of you and curl your fingers. 
+196		You reach out- not physically, but esoterically. 
+197		And you connect with the String connecting the assassin to the dagger. 
+198		The String of a warlock and his Hexblade. 
+199		You shear the String, and the blade snaps with the release of the esoteric tension. 
+200		<i>"No!"</i> 
+201		It flies from the ground into the assassin's side, cutting deeply, then clatters back to the rock. 
+202		You shear the String, and watch as the dagger is set free in a rapid spinning motion. 
+203		It cuts into him deeply. A painful murmuring escapes the mask. 
+204		The assassin releases a shaky breath. 
+205		You reach out esoterically and pluck at the String that attaches the assassin to the dagger. 
+206		You try to shear the String, but its strength resists you. It bounces towards you, away, and back, striking you sharply. 
+207		You feint low, then reach out suddenly with both hands and connect with the mask. 
+208		You give it a yank, and it peels away from the assassin's face. It tumbles to the ground. 
+209		"<shake>No</shake>!" 
+210		You see the assassin's face for a moment. 
+211		The... huh. His face? <i>Her</i> face. 
+212		"You're just a...?" 
+213		"Why are you doing this?!" 
+214		"<i>...Hey, what the hells</i>?" 
+215		<i>She</i> scowls. And says... 
+216		"<shake>Fuck you</shake>." 
+217		Then, in an instant, the mask is returned onto her face, like a materializing mist. 
+218		What? 
+219		You are being attacked by a <i>young lady</i>?! 
+220		This poor child. 
+221		You feint low, then reach out suddenly with both hands and swipe at the assassin's face. 
+222		He leans back casually and your hands clap together. 
+223		Shit! 
+224		This hasn't gone the way the assassin expected. 
+225		They probably thought they were going to kill you. 
+226		They probably thought you were going to give them a big reward. 
+227		Your muscles burn. 
+228		The goblin has risen from his slide-tackle and tries to get a hold of the assassin. 
+229		He is struggling to secure a grab, but the assassin is harried and focused on preventing it. 
+230		The assassin puts both hands on his dagger. 
+231		Clearly attempting to... do something. 
+232		Clearly attempting to channel some sort of energy into it. 
+233		But he finds he can't. 
+234		In a rage, he slashes at you with the dagger. 
+235		The assassin puts both hands on his dagger and channels a swirl of pale green energy into it. 
+236		He slashes at you with the blade, connecting with your torso. 
+237		A horrific pain follows, striking you even DEEPER than the very REAL physical damage. 
+238		Then... the HEX once again PAINS you. 
+239		You can finish this slog of a fight right now. 
+240		You're exhausted. 
+241	ROLL12 cha-	Convince him this is a stalemate. 
+242	ROLL15 str-	Punch. Punch. Punch! 
+243		You exhale angrily, like you're only just controlling your rage. 
+244		"<b>Enough!</b> It's over!" 
+245		The assassin watches you warily, then mutters something. 
+246		You exhale shakily. You are <i>tired</i>. 
+247		"Enough, please. I don't want to fight you anymore." 
+248		"Coward." 
+249		<b>What?!</b> 
+250		Alright. Nobody disrespects you like that. It's time to wreck this sucker! 
+251		You have to prove yourself. You are pathetic <i>too often</i>. It's time! 
+252		Wait, maybe take your time- 
+253		(Sprint at the assassin.) 
+254		Alright. You start to run at the assassin. 
+255		The Masked One steps towards you and plunges his dagger into your belly. 
+256		<shake>UGH...</shake> 
+257		"<i>Shit...!</i>" 
+258		That voice seems to want to ask the question, '<shake>why won't you die...</shake>?' 
+259		You wind up, throwing your remaining strength into one punch. It connects. 
+260		The assassin crumples, dead-weight, to the ground. 
+261		"Finally!" 
+262		But something escapes the pipe. A spell? 
+263		The Masked One is suddenly moving again! 
+264		You wind up, throwing your remaining strength into one punch. You miss. 
+265		<b>Damn, damn, <i>damn</i></b>. 
+266	ROLL12 con-	Hold the grapple! 
+267		The Masked One struggles mightily, but cannot break free. 
+268		The assassin starts thrashing back and forth with a steady rhythm. 
+269		Your arms ache. 
+270		"What are you doing?" 
+271		Suddenly, the Masked One changes the rhythm of the rocking and twists in your hold, breaking free. 
+272		You hear a crunching sound from the assassin's mouth, and suddenly, he shrinks to a tenth of his size. 
+273		You hear a crunching sound from the assassin's mouth, and suddenly, she shrinks to a tenth of her size. 
+274		Wha...?! 
+275		Bastard bit down on something? 
+276		A Reduce spell. 
+277		"The- the pipe! He's going for the pipe!" 
+278		"The- the pipe! She's going for the pipe!" 
+279		You reach, but... your body fails you. 
+280		The tiny, little assassin... hops into the pipe. 
+281		(Stare in shock.) 
+282		The Masked One takes a step back. 
+283		Your companion takes a step back. 
+284		(Take a step back.) 
+285		Good idea. 
+286		Exhaustion weighs on all of you like a heavy blanket. Snell holds up his claws - palms facing the attacker. 
+287		You want a nice, cozy blanket. That'd be nice... 
+288		"You calmed down? We all cool here?" 
+289		He is breathing HEAVY. 
+290		"<i>Stay. Away.</i>" 
+291		That voice. Is this a young boy? 
+292		That voice. Yeah, this is absolutely some teenage girl. Wow. 
+293		The assassin turns and runs - the cloak fading into a misty invisibility. 
+294		(Let yourself breathe again.) 
+295		The air fills your lungs. 
+296		The effort you've exerted... is catching up to you. 
+297		You wobble. 
+298		The world begins to fall away. 
+299		You hear Snell's voice. It is concerned, quiet. Distant, and yet close. 
+300		"Whoa there," Snell mutters, an elbow pressed against your side. "Not yet. Not in the City Below." 
+301		You feel disappointment. 
+302		Fear for the future. 
+303		General confusion, really. 
+304		"Look." 
+305		Snell points towards the stairs behind you. 
+306		"They go down. <i>Far</i> down." 
+307		"But the assassin... got away." (Feel pain as you breathe.) 
+308		"Just let me... sleep for a little bit." (Feel dozy.) 
+309		"We won, Snell. Huzzah...!" (Almost die.) 
+310		"Yeah, yeah." 
+311		"No, no." 
+312		"Oh, gods- no, no." 
+313		The goblin doesn't look too good himself as he returns the sling to his back pouch. 
+314		"I- look. We can either head back upstairs. Or we can continue down." 
+315		"But whatever that bastard didn't want us to see down there... we now have an open path." 
+316		"You're right, Snell. We should keep going." 
+317		"You're right, Snell. We should go rest first." 
+318		"Well, that's not really-" 
+319		"I meant: we can go take a rest. Then come back here later. The dungeon ain't gonna shift right away. But..." 
+320		"Look- whatever you think is best." 
+321		"You take the lead. I'll be right behind. Okay?" 
+322		The mystery of this strange assassin continues. 
+323		You have a distinct feeling you will have to face that mask again. And the one behind it. 
+324		Revenge. That is what fuels you now. 
+325		You WILL find him down there. You will reprimand this bastard. 
+326		You WILL find her down there. You will reprimand this girl. 
+327		Hm. A woman is hunting you. A young one at that. 
+328		A hag perhaps? No. That would be far too expedient. All the clues point towards a very simple answer. 
+329		You are dealing with a <i>renegade warlock</i>. And you are heading straight towards her master's lair. 
+330		From all the magic you have seen here, the clues point towards a very simple answer. 
+331		Not a hag. Nor some brutish mercenary paid for your blood. No. That would be far too expedient. 
+332		You are dealing with a <i>renegade warlock</i>. And you are heading straight towards his master's lair. 
+333		Whatever's hiding down these stairs is most likely - like, actually probably - <i>exactly</i> what that assassin doesn't want you to find. So... 
+334		Time to get going! 
+335		Time for TRUTH to be unveiled. 
+336		Once your body stops leaking... 
+337		E-Count your blessings from Urth. 

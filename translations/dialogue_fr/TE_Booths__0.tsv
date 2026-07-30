@@ -1,0 +1,109 @@
+idx	prefix	english
+0		Along the wall you find a row of booths. 
+1		Any textiles are obviously ruined. But the wood itself stands. Interesting. 
+2		Your companion squats down and checks under the tables. 
+3		"Yep. It's fucked down here too." 
+4		Where should I look first? 
+5		"Happy to help." 
+6		The goblin glances to the other booths. 
+7		"I'll look around, I guess." 
+8		Wherever evil is found. 
+9		Not helpful. 
+10		The left booth doesn't seem interesting. 
+11		Snell checks the right one. 
+12		Check the central booth. 
+13		The center. Your stomach buzzes with the <b>possibility</b>. 
+14		Magic is near. It contorts your innards. 
+15		Strange. Your body reacts in a way your senses do not follow. 
+16		"The militia hosed the whole place down," Snell says while lifting a coal-like wood piece. 
+17		"Especially here in the front. It's all sludge. Going to be hard finding any signs of... anything." 
+18		I'll just continue looking at this central booth, I guess. 
+19		"Wouldn't that be neat," he says and drops the piece. 
+20		"Yell if you find something." 
+21		"Negative?" He waggles the wood piece in your direction. "<i>Realistic</i>." 
+22		You focus on this particular booth. Or what used to be one. 
+23		The textiles once draped over the seating have been turned to ash and charred along with the expensive wood. 
+24		Along with the water damage, the elemental forces here are intense. 
+25		The stone tables remain standing for now, scorched like the dwarven architecture. 
+26		"Yeah, no. I'm not finding anything here. I'll check the other booth." 
+27		He lifts his head and sniffs. "Keep looking for now. But let's not waste too much time here." 
+28		He's ordering you around. He can't do that. 
+29		The goblin is simply making conversation. Don't read into it. 
+30		The row of booths are still there. Still burnt to a crisp. 
+31		(Focus on the charred remains of the table.)
+32	ROLL9 wis-	Look over the debris. Carefully. 
+33		E-Let's stop investigating this booth. 
+34		Glancing over the scorched wood you find it simply burned like everything else. Barely existing. 
+35		But it is <i>wood</i>. Intact wood, relatively speaking. 
+36		The militia's attempt to stop the fire splashed everything with water as well. So all the soot is just a sludge. 
+37		It is still quite strong- wedged along this stone bench. 
+38		R-(Put pressure on the broken piece.) 
+39		(Look at the ruined wood. Intensely.) 
+40		M-The table isn't that important. 
+41		You lean on it. The weight of your bulging muscles and overwhelming masculinity strains the thick timber. You can hear the wood fibers twitching... 
+42		You lean on it. You strain. It takes some effort, but soon you can hear the wood fibers twitching... 
+43		It snaps. You hold the piece of wood in your hands. 
+44		Your companion gives you a confounded look. 
+45		"What, it wasn't ruined enough for you?" 
+46		"Great. Tea shop debris." 
+47		He shrugs. "Not like I'm gonna stop you." 
+48		Looking at the piece of wood, it's been infused with fiery energies. 
+49		Looking at the wood in your hand, you see that it is thick. 
+50		And sturdy. 
+51		Looking inside the burnt wood, you see a sliver of alive Brachen. 
+52		The thickness of the survived and burnt wood suggests a certain level of heat and firepower. 
+53		If this was caused by a Fireball spell... a regular 3rd level wouldn't do this kind of damage to Brachen. 
+54		Interesting. 
+55		Yep. That's a table. 
+56		If you don't have anything to add, don't say anything at all. 
+57		Come on... It's hard being quiet for this long. Go talk to someone! 
+58		You might as well check how sturdy it is, post-explosion. 
+59		Are you sure? 
+60		It is. Keep it in mind. 
+61		Lifting some of the wreckage, you spend ten minutes searching around the crevice behind the booth. 
+62		Until something catches your eye. 
+63		Something not burnt. 
+64		You reach out and grab it. 
+65		It's a tiny metal leaf. It fits in the palm of your gloved hand. 
+66		As you wipe off the soot you find it in a... strange condition. Its intricate design shows both value and style. But... 
+67		You feel a tingle down your arm. Esoterical. 
+68		You feel a tingle down your arm. 
+69		The tiny leaf fits in the palm of your gloved hand. 
+70		A magic item? 
+71		The brooch is half-melted. 
+72		A magic item does not get destroyed like this. Not by anything but the most powerful of magic. 
+73		It simply does not happen. 
+74		That's... a clue. Probably. 
+75		If this is magic, then it should not be easily destroyed. 
+76		A dainty elvish symbol. Representing their degeneracy and decadence. 
+77		This is a brooch designed by Illym hands. Their religious leaders and nobility carry these. 
+78		You glance over to your companion. He hasn't spotted your find yet. 
+79		(Just pocket it.) 
+80		He jumps, then gives you an angry glare. 
+81		"Not so <i>loud</i>. Damn it." 
+82		"Oh?" 
+83		You put it away. 
+84		The goblin scoots on over to you and looks at the tiny pin in your hand. 
+85		"Strange. Interesting." 
+86		"It... kind of survived the fire?" 
+87		"Bring it with. Show it to the Old Lady." 
+88		"Sure." 
+89		"Why would she care?" 
+90		"I don't think it's relevant." 
+91		"Obviously she'd care." 
+92		"Alright. Sure." 
+93		"But it's not relevant." 
+94		"You don't think a clearly magical piece of jewelry inside of this exploded tea shop would be a relevant clue?" 
+95		"Well, when you put it like that..." 
+96		"No." 
+97		"Yeah." 
+98		"Right." 
+99		He looks around. 
+100		"Let's focus somewhere else in here." 
+101		You spend ten minutes searching the ruined booths. 
+102		You spot nothing out of the ordinary. 
+103		Ordinary being soot, scorched wood, and general ruinousness. 
+104		Ruinousness is not a word. 
+105		It is not? Apologies. 
+106		"Nothing," your companion says with a sigh. "Can't find nothing." 
+107		"Let's look somewhere else." 

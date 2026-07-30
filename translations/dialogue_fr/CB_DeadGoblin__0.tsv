@@ -1,0 +1,82 @@
+idx	prefix	english
+0		You kneel down to examine the skeletal remains. 
+1		Goblin. Old. Very old. 
+2		Pre-Integration, perhaps. 
+3		"Hello there, little guy." 
+4	SPELL Speak_with_Dead-	(Cast Speak with Dead.) 
+5		E-"Rest well, skull." 
+6		No response. 
+7		The skull stares back. Empty. 
+8		He crouches beside you, studying the bones. 
+9		"A goblin. Real old though." 
+10		"Before my time. Before my parents' time, even." 
+11		"Wonder what he was doing down here." 
+12		Or <i>she</i>. 
+13		Statistically, this should be a male. 
+14		They are more likely to put themselves in dungeon delving danger. 
+15		Statistics speak of nothing of reality. 
+16		Wait for confirmation, before you gender the dead. 
+17		You finish casting the spell, and the skull begins to rattle. 
+18		The jaw twitches. Opens. Closes. 
+19		A dry, rasping breath that isn't breath. 
+20		It is ready. 
+21		The voice is thin. Fragile. Like wind through dead leaves. 
+22		"Can you speak Diminorian?" 
+23		He shrugs. "Don't look at me. That's the old tongue." 
+24		A pause. The skull tilts, slightly. 
+25		"<i>Tuigim thú... teanga an fhorghabhálaí...</i>" 
+26		"I speak... the tongue of the... slayer." 
+27		The word drips with old bitterness. 
+28		"What is your name?" 
+29		"How did you die?" 
+30		"What were you doing down here?" 
+31		"What do you think of Urth?" 
+32		"What happened to your people?" 
+33		"<i>Tadhg Ó Scáthláin.</i>" 
+34		"In your tongue... Shadow's Son." 
+35		A name from before the Integration. 
+36		When goblins still had their own names. 
+37		The skull is silent for a moment. 
+38		"I am not... dead." 
+39		"I am resting. Before the final stretch." 
+40		He doesn't know. 
+41		"<i>Ag teitheadh.</i>" 
+42		"Escaping." 
+43		"The city above. The temples. The... destruction." 
+44		He spits the last word. Or tries to. No spit left. 
+45		"They take our names. Our tongue. Our gods." 
+46		"I refuse to go to their schools." 
+47		"I will flee into the <i>Undercoast Path</i>." 
+48		"<i>Urth.</i>" 
+49		The name comes out like a curse. 
+50		"Your walking god. Your conqueror." 
+51		"He crushed us beneath his heel and called it mercy." 
+52		"I do not think of him. I refuse to." 
+53		Old hatred. Centuries old. 
+54		Still burning. 
+55		"<i>An cosán...</i>" 
+56		"Yes. I knew the way." 
+57		"Past the hall of fire. The trapped corridor." 
+58		"There is a hidden door. In the wall beyond." 
+59		"Press the third stone from the floor. On the left side." 
+60		"It opens to the deep paths." 
+61		The Undercoast Path. 
+62		A network of tunnels beneath the Coast. Largely unmapped. 
+63		The skull is still. Very still. 
+64		"<i>An t-ár mór.</i>" 
+65		"The great slaughter." 
+66		"Your histories do not speak of it. But we remember." 
+67		"We always remember." 
+68		Four questions remaining. 
+69		That's two. Three more questions. 
+70		Three asked. Two more. 
+71		One question remaining. 
+72		The skull's jaw stiffens. The false life fades. 
+73		Snell stands beside you with a dark expression. 
+74		"Yeah. That's about what I imagined." 
+75		E-(Leave.) 
+76		"That opinion is still regular among goblins, for your information." 
+77		"Might be good to keep in mind." 
+78		"Maybe. Hard not to." 
+79		"But it's not important right now." 
+80		"What's important is that <i>Undercoast Path</i> he mentioned. Let's go check it out." 

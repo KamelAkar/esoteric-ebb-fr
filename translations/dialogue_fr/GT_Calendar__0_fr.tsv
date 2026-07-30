@@ -1,0 +1,127 @@
+idx	french
+0	Sur le mur tu vois un classique Calendrier de Cuivre.
+1	La plupart des foyers de Norvik en ont un. Ta mère en avait un qui s'illuminait aux anniversaires.
+2	Chaque foyer de la cité possède l'un de ceux-ci.
+3	Il tourne tout doucement. La roue extérieure avance d'un cran chaque jour.
+4	La roue du milieu avance chaque mois. Et l'intérieure avance chaque année.
+5	Celui-ci semble spécial. Il suit à la fois les saisons d'Askan, de Reeds et de Vourgeni, ainsi que toutes les grandes fêtes des gens d'Urth.
+6	Quel jour est-on ?
+7	C'est quand, l'élection ?
+8	Quel est le mois courant ?
+9	Quelle année indique-t-il ?
+10	(Regarder de plus près les saisons marquées autour de la roue.)
+11	(Examiner les jours fériés.)
+12	(Regarder l'inscription qui dit FONDATION DE NORVIK.)
+13	E-D'accord, ce sera tout pour l'instant, calendrier.
+14	La roue extérieure t'indique que l'on est le 22 mars.
+15	La roue extérieure t'indique que l'on est le 23 mars.
+16	La roue extérieure t'indique que l'on est le 24 mars.
+17	La roue extérieure t'indique que l'on est le 25 mars.
+18	La roue extérieure t'indique que l'on est le 26 mars.
+19	La roue extérieure t'indique que l'on est le 27 mars.
+20	La roue extérieure t'indique que l'on est le 28 mars ou un truc comme ça. Tu as raté l'élection. Beau boulot, connard.
+21	Dans cinq jours.
+22	Dans quatre jours.
+23	Dans trois jours.
+24	Dans deux jours.
+25	Dans un jour.
+26	Aujourd'hui.
+27	Dans le passé.
+28	La roue du milieu du calendrier affiche « mars » comme mois courant.
+29	C'est le troisième mois !
+30	Bien. Je vérifie, c'est tout.
+31	En effet. Bien joué !
+32	Bien de ta part de tenir le compte.
+33	Ça veut dire que c'est encore l'hiver à Askan. Pourtant le temps est incroyablement clément.
+34	Il en a été ainsi la majeure partie de ta vie, mais apparemment ça ne fonctionnait pas comme ça, avant.
+35	Autrefois, à l'ère précédente, les saisons changeaient à leurs jours désignés, et pas un instant avant.
+36	Ça pouvait apparemment causer un sacré coup du lapin.
+37	La roue intérieure est bien immobile sur le morceau de cuivre indiquant « 27 APRÈS-GUERRE ».
+38	Il a toujours été facile de savoir quel âge tu as, grâce à ça.
+39	Qui décide quand une nouvelle ère commence ?
+40	Vu que l'ère a exactement le même âge que moi, est-ce que ça veut dire que je suis <i>l'élu</i> ?
+41	Qui décide des noms des ères ?
+42	Bon à savoir.
+43	Jor.
+44	Les objets magiquement harmonisés et les sorts de mesure du temps tiennent le compte au regard des ères. Des ères qui basculent pour des raisons dépassant l'entendement de quiconque.
+45	De quiconque hormis Jor, très probablement.
+46	Alors un jour tous les sorts de mesure du temps basculent juste par magie pour afficher une nouvelle ère ?
+47	Très classe. J'aime la magie.
+48	Oui.
+49	Cool.
+50	En effet.
+51	C'est intrigant, oui.
+52	Non.
+53	C'est entièrement une coïncidence sans intérêt.
+54	Oui. Évidemment.
+55	<b>Bien sûr</b>.
+56	Tu n'es pas ce genre d'homme...
+57	Peut-être dans ton cœur.
+58	Les ères n'ont pas de noms objectifs.
+59	Elles sont choisies différemment par chaque culture. À Norvik, le type d'ère courant est de simplement suivre la structure commune reedsienne.
+60	À savoir : l'Ère des Portes, ~3 000 ans. L'Ère du Déclin, 1 100 ans. L'Ère Divine, 379 ans. L'Ère Arcanique, 511 ans. L'Ère d'Après-Guerre, 27 ans, en cours.
+61	L'Ère des Portes fut la toute première ère, pas vrai ?
+62	L'Ère du Déclin fut cette époque où toutes les créatures anciennes moururent, pas vrai ?
+63	L'Ère Divine en est une courte. C'est l'ère féodale, pas vrai ?
+64	L'Ère Arcanique fut un peu plus longue. C'est quand les Arcanistes s'élevèrent et chutèrent, pas vrai ?
+65	M-Et l'Ère d'Après-Guerre vient tout juste de commencer.
+66	Oui. De la création de la Côte par Jor, à la fermeture des portes à la fin de la Guerre des Portes.
+67	Plus ou moins.
+68	Ce fut l'ère où les puissantes créatures piégées après la fermeture des portes luttèrent pour la domination, tout en perdant le contact avec leurs dieux extérieurs.
+69	Ce fut une ère de géants, de génies, de dragons, et de grandes aberrations.
+70	En effet. Bien que courte en comparaison, presque quatre siècles, c'est long en des temps de grands bouleversements.
+71	Ce fut l'époque où des dieux mortels marchant sur terre régnaient sur la Côte. Où de grands royaumes s'élevèrent et de grands empires conquirent de vastes territoires.
+72	Ou, comme tu dis, la féodalité et des gouvernements barbares.
+73	Ce fut une ère marquée par le pouvoir et la corruption de l'homme.
+74	Quand l'influence des dieux déclina en regard de la puissance de l'ésotérique.
+75	Nous verrons combien de temps elle dure.
+76	Tu n'en verras très probablement pas la fin.
+77	En effet.
+78	Tu vois les mois et les saisons gravés dans la plaque de cuivre.
+79	Gorgoni - <i>Été Vourgeni</i> (le 6)
+80	Felteni - <i>Printemps Reedsien</i> (le 1er)
+81	Mars - <i>Automne Vourgeni</i> (le 22)
+82	Beltan - <i>Printemps Askanii</i> (le 3), Été Reedsien (le 1er)
+83	Thisi - <i>Hiver Vourgeni</i> (le 20)
+84	Thusi - <i>Automne Reedsien</i> (le 1er)
+85	Chronus - <i>Été Askanii</i> (le 28)
+86	Ingarmi - <i>Printemps Vourgeni</i> (le 14)
+87	Eltre - <i>Automne Askanii</i> (le 14)
+88	Soumil - <i>Hiver Askanii</i> (le 7), Hiver Reedsien (le 1er)
+89	Ça ne mentionne que trois des Bandes. Et le reste ?
+90	Mon anniversaire est le 13 Chronus !
+91	Je suis obligé de tenir le compte de ça ?
+92	Ah oui. Les saisons de chaque bande changent à des jours différents. C'est déroutant.
+93	D'accord. Bien. Chouette. (Regarder autre chose.)
+94	Une liste des huit bandes serait excessive.
+95	Tu as vu un véritable calendrier des saisons, une fois.
+96	C'était dans la Grande Salle du Palais.
+97	Les grandes roues étaient mues par quelque ancienne force ésotérique, et chaque bande avait ses saisons clairement marquées sur les plaques luminescentes.
+98	Un glorieux objet magique.
+99	En effet !
+100	Il serait ridicule pour un homme adulte de ne pas connaître les noms des mois.
+101	Beaucoup trop de noms. Ça fait mal rien que d'y penser.
+102	Ne t'en fais pas. Personne ne te demandera de retenir les mois.
+103	Mais ne t'en fais pas, tu n'as jamais quitté Askan de ta vie.
+104	Et tu ne le feras jamais.
+105	<b>Leva och dô i Askan</b>. Tel est ton destin.
+106	Tu le fais.
+107	Tu regardes les divers jours fériés gravés dans la plaque de cuivre.
+108	Gorgoni - <i>le Trépas d'Urth</i> (le 7)
+109	Felteni - <i>le Jeûne de Tûk</i> (le 17)
+110	Mars - <i>la Grande Migration</i> (le 5)
+111	Beltan - <i>la Nuit de Sang</i> (le 1er), les Sept Silences (le 7)
+112	Thisi - <i>la Course de la Rivière</i> (le 3), la Couronne du Géant (le 23)
+113	Thusi - <i>la Fête du Peuple</i> (le 15)
+114	Chronus - <i>la Danse de Tol</i> (le 28)
+115	Ingarmi - <i>la Veille du Phénix</i> (le 16)
+116	Eltre - <i>la Flamme de Torna</i> (le 14), l'Ascension (le 26)
+117	Soumil - <i>la Nuit de Robelight</i> (le 2)
+118	Le calendrier indique : 468 ARCANIQUE.
+119	L'Ère Arcanique a duré 511 ans.
+120	Puisque l'on est actuellement en la 27e année de l'Ère d'Après-Guerre, cela signifie que Norvik fut fondée il y a 70 ans.
+121	Elle n'atteindra probablement pas les cent ans.
+122	Ne dis pas ça. Ne dis JAMAIS ça.
+123	La Cité d'Urth vivra mille ans, espèce de <shake>MARAUD</shake> verdâtre.
+124	Continue de te le répéter. Si les Arcanistes n'ont pu tenir plus d'un demi-millénaire, cette cité n'a aucune chance dans tous les enfers.
+125	Ça, tu le sens, c'est garanti.
