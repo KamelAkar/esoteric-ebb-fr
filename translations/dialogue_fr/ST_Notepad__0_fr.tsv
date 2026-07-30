@@ -1,0 +1,95 @@
+idx	french
+0	En regardant dans cette caisse tu trouves... un <i>carnet</i>.
+1	Un carnet avec plusieurs pages de notes griffonnées.
+2	L'écriture est atroce.
+3	Oh ! Putain de merde !
+4	Tu arrives à lire ça !
+5	Est-il vraiment convenable de lire les pensées intimes de quelqu'un comme ça ?
+6	Et si c'était un journal ? Ou un message laissé à un membre de la famille, pas destiné aux yeux de clercs fouineurs ?
+7	Non. Bon, oublie ça.
+8	Il est écrit « REGISTRE DES MARCHANDISES DE CONTREBANDE » sur la couverture.
+9	Un titre mystérieux.
+10	Un peu trop explicite, peut-être.
+11	Oh ! De la contrebande ? Génial !
+12	Mate-moi cette merde, tout de suite.
+13	Donc ce carnet est rempli de preuves à la fois d'actes et d'intentions malveillants ?
+14	Génial. Il est temps de faire tomber ce contrebandier, dans les règles.
+15	Tu réexamines le « REGISTRE DES MARCHANDISES DE CONTREBANDE ».
+16	(Regarder la liste étiquetée export/import.)
+17	(Consulter la page « GUIDE DE CONTREBANDE ».)
+18	(Regarder la dernière entrée.)
+19	E-Très bien. J'en ai fini ici.
+20	Beaucoup de termes que tu n'as jamais entendus auparavant.
+21	Et d'autres que si. Surtout de l'importation.
+22	Des Vélos de Poche. En grande quantité. Marqués « pas encore arrivés », puis « état lamentable ».
+23	Un certain nombre de potions rares, avec divers noms draconiques.
+24	Certains que tu comprends, mais beaucoup ne sont que des termes draconiques d'alchimistes de l'Ère Divine.
+25	Puis tu repères une dernière mention d'une chose appelée « Cartouches de Quillwell ».
+26	Bien qu'il semble qu'elles n'aient pas quitté « l'Entrepôt ».
+27	Hé, c'est ce que Modissa cherchait !
+28	Le fournisseur de la fille azgale est clairement ce propriétaire du salon de thé.
+29	Ça a l'air d'un truc qu'on utilise dans une presse à imprimer. Je parie que c'est cher...
+30	Sur l'une des premières pages, tu trouves une section intitulée « GUIDE DE CONTREBANDE ».
+31	Il a écrit un guide sur sa propre activité illégale ? Comme pense-bête pour savoir comment faire ?
+32	« Ça peut pas vraiment être...? » sa voix s'éteint.
+33	Y a des gens, je te jure.
+34	<i>ÉTAPE UN : USE DE TES RELATIONS. LES MARCHANDS REEDSIENS SONT TOUJOURS BONS POUR DE LA PIÈCE. ILS PAIENT GRASSEMENT POUR UN SIMPLE STOCKAGE.</i>
+35	<i>ÉTAPE DEUX : STOCKAGE. DÉPLACE LES CHOSES DE L'ENTREPÔT AU TUNNEL SECRET. USE DE L'AIDE ERRANTE. REMONTE DEPUIS LA CROISÉE DU PILIER. ILS PASSENT LES MARCHANDISES MANQUANTES EN PERTES EN MER.</i>
+36	<i>ÉTAPE TROIS : GARDE LE SECRET. MÊLE LES COURONNES AUX REVENUS DU SALON DE THÉ. TRAFIQUE LES REÇUS. ÉVITE LES HOMMES DE MAIN DE SAGELEAF.</i>
+37	<i>ÉTAPE QUATRE : AUCUNE DISTRIBUTION. RETOURNE À L'ENTREPÔT LA NUIT AVANT LE DÉPART DU NAVIRE. NE VENDS PAS LES MARCHANDISES TOI-MÊME. RESTE CLEAN.</i>
+38	Bien sûr que les Errants sont impliqués là-dedans. Ils ont probablement tout monté au départ !
+39	Ces salauds rusés ! Ils ont vraiment leurs doigts partout.
+40	Tu devrais vraiment envisager de devenir agent errant à plein temps. Ils paient probablement vachement mieux.
+41	Par-dessus ton épaule, Snell lit lui aussi cet étalage élaboré d'incompétence criminelle.
+42	Il a l'air moins en colère que déçu.
+43	« J'imagine que c'est une bénédiction quand les crapules de la société s'incriminent elles-mêmes par pure idiotie. »
+44	Sur les dernières pages il y a une tonne de notes-rappels, écrites d'une main brouillonne.
+45	Ça parle de paiements en retard, de fournisseurs perdus, et de divers commentaires furieux sur les clients du salon de thé.
+46	Probablement écrites pour lui-même. Ce n'est clairement pas quelqu'un qui se souvient sans l'aide de l'écriture.
+47	Puis tu arrives à la dernière note. Elle est marquée de la date « 21 mars ».
+48	C'est le jour de l'explosion.
+49	C'était un jour important, n'est-ce pas ?
+50	<i>POTIONS DE LA GUENAUDE-DE-LA-CÔTE TOUJOURS PAS ARRIVÉES. DES JOURS DE RETARD. VEUX PAS ENCORE DE LA PISSE DILUÉE.</i>
+51	<i>L'ELFE ARRIVERA DU TEMPLE. PUIS JE PARS. AIME PAS QUE LE SALON DE THÉ SERVE AUX RÉUNIONS. S'ILS CASSENT QUOI QUE CE SOIT, ILS PAIENT.</i>
+52	Un elfe.
+53	« Huh. »
+54	Une réunion dans le salon de thé. Un elfe. Le contrebandier est parti après avoir laissé entrer l'elfe par le tunnel secret.
+55	Une réunion, avec un elfe. Et... le contrebandier n'était pas là.
+56	« Intéressant. Laisse-moi noter ça. »
+57	« Oh merde. J'ai perdu mon carnet. Tant pis. Je m'en souviendrai à l'ancienne. »
+58	Alors que tu commences à le retirer de la caisse, il se met soudain à s'évaporer devant toi.
+59	QUOI ?!
+60	Se muant en poussière magique dans tes mains, lentement.
+61	UNE MALÉDICTION.
+62	(Le remettre.)
+63	Qu'est-ce qui se passe ?
+64	(Le jeter loin de toi.)
+65	Il cesse de s'évaporer.
+66	(Le ressortir.)
+67	Il recommence lentement à se muer en poussière.
+68	(Le remettre de nouveau.)
+69	Il s'arrête.
+70	« Je vois. »
+71	Snell arrête ta main.
+72	« On a compris. »
+73	« On ? »
+74	« Tout le monde dans le monde entier. »
+75	Ce carnet. Il a un mécanisme de défense. Une abjuration ésotérique.
+76	Si tu éloignes le carnet de cette caisse, il se détruit.
+77	Ou... il est hanté.
+78	Quelqu'un ne veut SURTOUT pas qu'il serve de preuve dans une bataille judiciaire. Il te faudra le laisser ici pour l'instant.
+79	« J'enverrai quelqu'un jeter un œil ici plus tard. T'en fais pas. »
+80	« Je veillerai à préciser qu'ils ne doivent SURTOUT PAS déplacer ce truc. Au cas où. »
+81	Un effet ésotérique.
+82	Ce doit être hanté.
+83	Ça pourrait être une précaution.
+84	Ce faisant, le carnet se mue entièrement en poussière.
+85	« Eh bien. »
+86	« Merde. »
+87	Ce fut un mauvais choix.
+88	Un bon geste. Il aurait pu te posséder.
+89	E-Oups.
+90	« Non ! »
+91	Le gobelin te le renfonce dans les mains.
+92	Il panique.
+93	« Euh...! Remets-le dans la caisse ! »
