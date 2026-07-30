@@ -1,0 +1,204 @@
+idx	french
+0	Là-haut sur l'étagère, niché entre des tomes poussiéreux et des bocaux d'origine douteuse, se tient un chat noir familier.
+1	Sir Triban des Pierres-dans-les-Eaux. En chair et en os.
+2	Il feint de ne pas te remarquer. Un classique.
+3	La guenaude remue son chaudron non loin, fredonnant quelque chose de faux.
+4	« C'est votre chat ? »
+5	« Ah oui. Le chat du jardin. »
+6	« Quoi ? Oh, lui. »
+7	Elle agite sa cuiller d'un geste dédaigneux, éclaboussant le sol de quelque chose de vert.
+8	« Il n'est pas <i>à moi</i>. C'est moi qui suis <i>à lui</i>. D'après lui, en tout cas. »
+9	L'oreille du chat tressaille en signe d'acquiescement.
+10	Elle a compris.
+11	Sa queue fouette d'irritation.
+12	Le chat te considère avec le même dédain impérieux qu'auparavant.
+13	Certaines choses ne changent jamais.
+14	(Tenter de caresser le chat.)
+15	« Bel endroit que vous avez là, Sir Triban. »
+16	E-« Je vous laisse à votre... occupation d'étagère. »
+17	Tu tends la main vers l'étagère.
+18	Sur la <shake>pointe des pieds</shake>.
+19	Sir Triban regarde ta main s'approcher, les yeux plissés.
+20	(Le caresser quand même.)
+21	(Retirer ta main.)
+22	Il le permet. À peine.
+23	Un grondement sourd émerge de sa poitrine.
+24	RONRONNEMENT PROFOND.
+25	Victoire.
+26	« Il t'a sacrément pris en affection », marmonne Lisa. « T'as fait quoi, tu l'as persuadé avec Communication avec les Animaux ? »
+27	« Oui. C'est exactement ce que j'ai fait. »
+28	« Je suis juste aussi doué que ça. »
+29	« Non. Pas du tout. J'ai pas fait ça. T'as pas juste deviné juste. Pas du tout. »
+30	La guenaude t'ignore et continue de travailler sa mixture.
+31	Le chat a l'air presque déçu.
+32	Le chat a l'air soulagé.
+33	« Si. »
+34	« Tu vas pas le caresser ? »
+35	« J'arrive pas à atteindre là-haut. »
+36	« Oh. »
+37	« Oh, voyons voir... »
+38	« Non, en fait je vais pas le faire. Je crois juste que les MUNCHKINS ont pas le droit de faire ça. »
+39	« T'en gardes encore rancune ? »
+40	« Ah oui. Je m'en souviens. C'était drôle. On devrait y refaire plus souvent référence. »
+41	« Si tu fais ça, je quitte le groupe. »
+42	« Définitivement ? »
+43	« Enfin... »
+44	« Non. Reste, je t'en prie. J'ai besoin de toi. »
+45	« Va te faire. »
+46	« Oui, j'en garde encore rancune. »
+47	« Putain de <i>munchkin</i>, sérieux ? Comment ce chat trouve des insultes plus créatives que tous les connards humains que j'ai croisés. »
+48	« Les humains sont clairement bien plus gentils que les chats. »
+49	« Les humains sont clairement pas assez intelligents pour trouver un truc aussi tranchant que ça. »
+50	« Tu croises beaucoup de connards humains dans ta vie ? »
+51	« J'y songe à l'instant même. »
+52	« Vrai. »
+53	« Oui. Mais pas au sens littéral. Juste pour être sûr. »
+54	Les moustaches du chat tressaillent. Il n'en a cure. De rien.
+55	Le chat ne daigne pas répondre.
+56	« Il trouve ça au-dessous de lui », propose Lisa.
+57	« Mais il partira pas. Alors voilà. »
+58	Un doux sifflement depuis l'étagère.
+59	Le chat ne prend pas acte de ton départ.
+60	Typique.
+61	Tu places ta paume devant ton visage et murmures...
+62	« <i>Tout est parole.</i> »
+63	Le glissement familier s'opère. Soudain, les micro-expressions du chat deviennent lisibles.
+64	L'oreille de Sir Triban se tourne vers toi.
+65	« Bonjour de nouveau, Sir Triban. »
+66	« Ah. La brute qui a appris à parler le fait de nouveau. »
+67	Il s'étire, ses griffes s'enfonçant brièvement dans le dos d'un livre ancien.
+68	« Vous avez trouvé ma demeure. Comme c'est... obstiné de votre part. »
+69	« Vous m'avez dit où vous viviez. »
+70	« Il me fallait voir le légendaire Sir Triban dans son habitat naturel. »
+71	« Votre "servante d'accueil" a l'air gentille. »
+72	« Vraiment ? »
+73	« Hm. Un manque de discernement, à l'évidence. »
+74	« <i>Habitat naturel</i>. »
+75	« Comme si j'étais quelque bête à observer. »
+76	Il est manifestement flatté par le mot « légendaire ».
+77	« Elle est adéquate. »
+78	« Sa cuisine laisse fort à désirer. Mais sa collection de livres est... acceptable. »
+79	Grand éloge, pour un chat.
+80	La guenaude vous siffle dessus tous les deux.
+81	« Bon. Puisque vous avez envahi mon foyer... »
+82	Il bâille, exhibant un impressionnant arsenal de petits crocs.
+83	« Je suppose que je devrais être un <i>hôte gracieux</i>. »
+84	Le sarcasme est palpable.
+85	Sir Triban prend acte de ton sort d'un coup de queue.
+86	« De retour, la brute ? »
+87	« Vous devenez une nuisance. »
+88	Mais il ne te dit pas de partir.
+89	« On vous a déjà dit que vous êtes vraiment, vraiment mignon ? »
+90	« Depuis combien de temps vivez-vous ici ? »
+91	« Que faites-vous de vos journées ? »
+92	« Le dehors vous manque-t-il ? »
+93	« Une sagesse pour un voyageur las ? »
+94	Peut-être sait-il quelque chose d'utile sur cette cité.
+95	E-« Merci pour votre hospitalité, Sir Triban. »
+96	« Fais attention, <i>humain</i>. »
+97	« Ou j'envoie un de ces livres voler dans ta tête de seau. »
+98	Lisa ricane. « Il l'a déjà fait. Il m'a poché un œil l'hiver dernier. »
+99	« Tu l'avais mérité », semble dire le chat de son regard noir.
+100	« Trois hivers. »
+101	« Avant cela, j'arpentais les rues. Un chasseur sans égal. »
+102	« Mais le froid est devenu lassant. Et celle-ci- »
+103	Il désigne vaguement Lisa de sa queue.
+104	« -a offert de la chaleur. Et du poisson. »
+105	« Un échange équitable. »
+106	Il présente ça comme un arrangement commercial.
+107	Ça l'est probablement, pour lui.
+108	« J'observe. Je contemple. Je fais la sieste. »
+109	« La vie d'un philosophe n'est pas de celles que vous, les brutes, comprendriez. »
+110	Il lèche sa patte avec dignité.
+111	Véritablement, une créature d'un profond intellect.
+112	C'est un chat. Il dort et il mange.
+113	« Parfois. »
+114	« La chasse. Le vent. La terreur dans les yeux des créatures inférieures. »
+115	Il fixe le vide d'un air nostalgique.
+116	« Mais je suis vieux à présent. L'étagère sied à mes heures de repos. »
+117	Une réponse étonnamment honnête.
+118	« La sorcière ? »
+119	« Elle est bruyante. Elle sent les herbes. Elle se parle à elle-même. »
+120	« Mais elle n'a jamais tenté de m'affubler d'un <i>costume</i>. »
+121	« Alors elle est tolérable. »
+122	Le bar est sous l'Océan de Jor.
+123	« Oui. »
+124	Il te fixe de ses yeux sombres.
+125	« Ne fais jamais confiance à un chien. »
+126	Profond.
+127	« Ce sont des idiots. Chacun d'eux. »
+128	« Vous le faites. Enfin. »
+129	« N'invente pas de nouveaux mots pour tenter de me surpasser, <i>humain</i>. »
+130	« Ça ne marchera pas. »
+131	« Non. »
+132	« Et je ne le souhaite pas. »
+133	« Cette nuit-là a troublé mon sommeil des semaines durant. »
+134	Il frissonne, le poil légèrement hérissé.
+135	Ça l'a sincèrement perturbé.
+136	« Mm. »
+137	« Ne prenez pas l'habitude de me rendre visite. »
+138	Il ferme les yeux. Audience terminée.
+139	Tu as fait tes preuves. Le moment de voir s'il partagera quelque chose de précieux.
+140	« Sir Triban, une créature de votre sagesse connaît sûrement des secrets de cette cité que nous, les "brutes", avons oubliés. »
+141	Les yeux du chat se plissent.
+142	« De la flatterie. »
+143	« De la flatterie évidente. »
+144	Un silence.
+145	« ...Mais non dénuée d'exactitude. »
+146	Il change de position sur l'étagère, adoptant une posture de conteur.
+147	Ça devrait valoir le coup.
+148	« Il est une chose dont parlent les errants. »
+149	« Un récit transmis à travers les générations des résidents... <i>supérieurs</i> de Tolstad. »
+150	Il veut dire les chats.
+151	« Le secret des Whitemane. »
+152	« Whitemane ? Le peuple-lion ? »
+153	« Poursuivez. »
+154	(Écouter attentivement.)
+155	« N'interrompez pas. »
+156	« C'est fait. »
+157	Il apprécie ton respect.
+158	« Il y a bien longtemps, avant que cette cité n'oublie ses origines, les Whitemane érigèrent un sanctuaire. »
+159	« Une statue d'un grand chat. Un <i>vrai</i> chat, pas une de ces brutes léonines démesurées. »
+160	Il semble personnellement offensé par le peuple-lion.
+161	« Elle se dresse encore, à demi en ruine, là-haut dans la cité plus fastueuse. »
+162	« Sur le versant qui monte d'ici. Là où les brutes fortunées prétendent valoir mieux que le reste. »
+163	« Une statue de chat ? »
+164	« Un monument sacré à l'excellence féline, oui. »
+165	« Les errants disent... »
+166	Il marque une pause pour l'effet dramatique. Les chats sont des conteurs nés.
+167	« ...que si un héros venait à se tenir devant cette statue, portant à la fois la Lame de Whitemane et le Bouclier de Whitemane, réunis... »
+168	« ...Et qu'il priait alors la déesse féline - à tout moment <i>après minuit</i>... »
+169	« Une bénédiction serait reçue. »
+170	La Lame de Whitemane ET le Bouclier de Whitemane. Les deux.
+171	Après minuit. En termes ésotériques, cela signifie entre minuit et l'aube.
+172	« <i>El... campeón del ojo rojo</i> », ronronne le chat.
+173	Quelque savoir qu'il détienne sur le parler-chat, il n'est pas entièrement exact.
+174	Comme c'est mystérieux !
+175	« Quelle sorte de bénédiction ? »
+176	« Où se trouve exactement cette statue ? »
+177	« Pourquoi me dites-vous cela ? »
+178	« Comment le saurais-je ? Je suis un chat, pas un champion. »
+179	« Les errants en parlent en des tons révérencieux. C'est tout ce que je puis vous dire. »
+180	« Je vous l'ai dit. En haut du versant. Dans la cité plus fastueuse. »
+181	« Servez-vous de vos yeux, la brute. Elle est à demi en ruine. Vous la reconnaîtrez en la voyant. »
+182	« Si vous n'êtes pas complètement aveugle. »
+183	« Parce que vous l'avez demandé. »
+184	« Et parce que... »
+185	Il détourne le regard.
+186	« Vous êtes moins insupportable que la plupart des vôtres. »
+187	Grand éloge. Très grand éloge.
+188	« Maintenant. J'en ai assez partagé. »
+189	« Faites de ce savoir ce que vous voudrez. »
+190	Il bâille de nouveau, plus longuement cette fois.
+191	« Et n'attendez pas pareille générosité une seconde fois. »
+192	Lisa lève les yeux. « Il a beaucoup miaulé. Vous avez une bonne petite discussion tous les deux ? »
+193	« La meilleure », pourrais-tu dire.
+194	Tu tentes de lui soutirer quelque chose d'utile.
+195	« Vous savez sûrement des choses sur cette cité que j'ignore. »
+196	« Bien sûr que oui. »
+197	« Je sais bien des choses. »
+198	Il lèche sa patte, délibérément lent.
+199	« Mais pourquoi les partagerais-je avec vous ? »
+200	« Vous n'avez pas mérité un tel savoir, la brute. »
+201	Il se détourne. Conversation terminée.
+202	Peut-être si tu étais plus charmant. Ou plus obséquieux.
