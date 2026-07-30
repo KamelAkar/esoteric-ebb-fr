@@ -1,0 +1,195 @@
+idx	french
+0	Tu passes derrière le comptoir.
+1	Il y a des compartiments remplis de boîtes en fer-blanc ruinées. Au fond, un ensemble compliqué de tubes et de tuyaux se combinant en une sorte de machine à thé.
+2	Un percolateur. C'est pas souvent qu'on en voit de nos jours.
+3	Qu'une pièce de machinerie aussi belle (et coûteuse !) se brise. Quel dommage.
+4	La machine attire ton attention. Fouille-la.
+5	Les machines. Très compliquées.
+6	Tu la comprends, cependant. Tout ceci t'est facile.
+7	Alors, c'est ici qu'ils vendent le thé. Juste là.
+8	Ça vaut la peine de fouiller ici ?
+9	Oui. Maintenant fouille.
+10	Oui. Fais-le.
+11	« Je prendrai une pâtisserie avec de la crème, s'il vous plaît », dit Snell d'un ton nasillard.
+12	Il se penche par-dessus le comptoir. « Oh, à moitié crème, en fait. Mon petit ventre est sensible aujourd'hui. »
+13	Il se moque des humains et de leur amour du lait.
+14	Pas la meilleure blague, mais il t'appréciera davantage si tu joues le jeu.
+15	Oh, le gobelin plaisante !
+16	Le moment de faire une blague différente, <i>meilleure</i>. Ça, ce sera fluide.
+17	« Je ne travaille pas ici, Snell. »
+18	« Bien vu. »
+19	(Répondre d'un ton snob.) « Nous ne servons que du lait d'avoine issu des Collines, <i>monsieur</i>. »
+20	« Mais tu es un gobelin. Tu ne veux pas plutôt du thé <i>vert</i> ? »
+21	« Ouais- je », marmonne-t-il.
+22	Il envisage de t'expliquer sa blague.
+23	Cette réponse le surprend. Il te prenait pour un barista ?
+24	Il soupire. « Vérifie juste ce fichu comptoir. »
+25	« Merci. Vois si tu trouves quelque chose derrière le comptoir. »
+26	Le gobelin te regarde, puis regarde le comptoir.
+27	Puis te regarde de nouveau.
+28	Ça s'appelle un <i>double regard</i>. Beau boulot.
+29	Regarde son visage. Choc total.
+30	« Bien vu, Clerc. »
+31	Il agite sa griffe. « Vérifie le comptoir. »
+32	Un bref instant, il t'a réellement trouvé drôle. Bon sang.
+33	Le gobelin rit.
+34	Un rire feint.
+35	« C'est drôle ! Parce que je suis vert. »
+36	Son sourire retombe. « Vérifie ce fichu comptoir. »
+37	Susceptible.
+38	(Regarder la surface.)
+39	(Examiner la machine.)
+40	(Regarder dans les boîtes calcinées.)
+41	E-(Cesser de fouiller autour du comptoir.)
+42	Il y a une planche de bois recouvrant la base de pierre du comptoir.
+43	Plutôt du charbon de bois, à ce stade.
+44	C'était jadis du Brachen finement poncé. Maintenant ruiné.
+45	Mais la pierre tient toujours. Solide. Inébranlable.
+46	Tuyaux et leviers fondus. Verre brisé.
+47	Ce fut jadis un bel ouvrage d'ingénierie.
+48	(Vérifier les tuyaux.)
+49	M-C'est tout.
+50	Un métal quelconque.
+51	Des tuyaux de cuivre. Coûteux. Jadis brillants, maintenant calcinés et tordus.
+52	Faits à la main. Tu peux voir les marques d'un marteau arrondi partout dessus. Beaucoup de soin est passé dans cette machine.
+53	C'est ici qu'on met les feuilles de thé.
+54	En te penchant, tu ne vois pas grand-chose au-delà d'une bouillie brûlée à travers les fentes.
+55	Mais tu sens bien quelque chose.
+56	Ça sent <i>affreusement</i> mauvais.
+57	Ton estomac se retourne.
+58	Une odeur intense.
+59	Pourquoi ça sent comme ça ?
+60	(Se pencher. Plus près.)
+61	Suis-je obligé ?
+62	(S'éloigner de la chambre.)
+63	Elle contient quelque chose d'immonde.
+64	Tu ne sais pas quoi.
+65	Éloigne-toi.
+66	Tu dois t'approcher. <i>Connaître</i> l'odeur.
+67	Allez. N'en fais rien.
+68	Bonne idée. Peut-être peux-tu identifier la flore contenue... ou peut-être la faune ?
+69	(Inhaler l'horrible odeur.)
+70	Tu sens la dégoûtante bouillie brûlée à travers les interstices de ton heaume.
+71	Ça sent la dégoûtante bouillie brûlée.
+72	Mauvais. Ce n'est pas bon.
+73	Tu <b>sais</b> que c'est mauvais.
+74	<shake>Oouuhh...</shake> Mauvais.
+75	Ce qui sent l'immonde- rend ton nez <b>plus fort</b>.
+76	C'est FAUX.
+77	Par tous les enfers, arrête de fourrer ta tronche dans... quelle que soit cette merde !
+78	(Reculer.)
+79	Tes genoux tremblent. Mais tu tiens debout.
+80	Prends mieux soin de toi.
+81	En te retournant, tu trouves le gobelin te fixant d'un air inquiet.
+82	« Je vais faire comme si j'avais rien vu. »
+83	Vraiment pas.
+84	Des indices se trouvent dans les endroits les plus immondes.
+85	Tu t'exécutes.
+86	Il y a une valve de métal au bout. Elle est fermée.
+87	Elle n'est fermée que quand ça infuse. Ça veut dire qu'elle fonctionnait pendant l'explosion.
+88	(Ouvrir la valve.)
+89	(La laisser tranquille.)
+90	Tu tentes de tourner la valve, mais elle plie sous un angle bizarre.
+91	Attends. Ce n'est pas la sensation qu'une valve est censée donner.
+92	Elle est... coincée ?
+93	Tu es le marteau. Cette valve est le clou.
+94	(La forcer.)
+95	(Être prudent.)
+96	Je touche pas à ce truc. (La laisser.)
+97	« Qu'est-ce que tu fais ? » demande ton compagnon tandis que tu lèves le marteau au-dessus de ta tête.
+98	(L'abattre <shake>vers le bas</shake>.)
+99	Avec une précision intense et une puissance flagrante - tu FRACASSES ton marteau sur la valve.
+100	Si une machine ne marche pas, tu la fais marcher.
+101	Oh non.
+102	Tu exerces une pression sur la valve en tournant le petit levier.
+103	Ce n'est que par la finesse qu'on peut dompter une machine pareille.
+104	Parce que tu es un tel expert en la matière.
+105	Tu exerces prudemment une pression sur la valve en tournant le petit levier.
+106	La machine te rend ton indifférence.
+107	Soudain, tu entends un claquement.
+108	Un minuscule morceau de cuivre vole vers toi, heurtant ton heaume avec un <i>dink</i>.
+109	Tu l'as totalement laissé faire.
+110	Oh. Il y en a plus... !
+111	« Merde. Recule ! »
+112	La valve explose, libérant une pile suintante de thé, de cendre, et des-dieux-seuls-savent-quoi-d'autre sur le sol.
+113	« Que les dieux soient maudits », marmonne Snell, en se bouchant le nez.
+114	L'odeur est particulièrement affreuse.
+115	Évite.
+116	<b>Évite.</b>
+117	Tenter de survivre.
+118	Tu laisses ça pour l'instant.
+119	Tu laisses la machine où tu l'as trouvée.
+120	Des boîtes en fer-blanc pleines de feuilles de thé.
+121	Ou... elles sont censées l'être. La chaleur de l'explosion a fondu à la fois le fer-blanc et son contenu.
+122	Ce n'est plus que de la cendre à présent.
+123	Zut. J'espérais qu'au moins une de celles-ci serait intacte.
+124	Vendre du thé, c'est un business d'appoint tout à fait légit. Les marges sont <i>dingues.</i>
+125	<b>IMMONDICE.</b>
+126	Mais rien que tu ne puisses supporter.
+127	Tu sens le suintement fétide et fondu.
+128	C'est dégoûtant... !
+129	Le gobelin a des haut-le-cœur à côté de toi.
+130	(Faire de ton mieux pour ne pas vomir.)
+131	<b>NON.</b>
+132	Ton esprit se vide.
+133	Ta bouche s'emplit de salive.
+134	Tout devient noir.
+135	« Clerc... ! »
+136	Est-ce que je me suis évanoui ?
+137	Oui.
+138	Ce n'est pas bon.
+139	Tu t'éveilleras.
+140	Ton heure n'est pas <i>encore</i> venue.
+141	Pas avant que la pièce ne soit lancée.
+142	Quoi ?
+143	Oh...
+144	Tu ouvres les yeux.
+145	Snell se tient au-dessus de toi.
+146	« Ça va ? »
+147	« Je te crois pas. Mais cool. »
+148	« Continuons, d'accord ? »
+149	Hélas.
+150	Tu persévères.
+151	Ouais, <i>beau</i> boulot, mec.
+152	Maintenant arrête de sentir des MERDES BIZARRES... !
+153	Tu n'apprécies PAS.
+154	Le sol derrière le comptoir est maintenant couvert d'une couche de paillis cendreux.
+155	Hm. C'est à ça que sent la victoire. Tu as vaincu.
+156	Tu conteras l'épopée de <i>La Chambre et la Valve</i> à ta descendance.
+157	Ce sera ton héritage. Voilà qui tu es.
+158	Il vaudrait mieux que non.
+159	Veto ferme sur celui-là.
+160	Pff. Qu'est-ce que j'ai gagné là-dedans ?
+161	Un fort <i>ding</i> sort de la machine tandis que le dernier filet de suintement quitte le récipient.
+162	« C'est encore opérationnel ? C'est quoi ce bordel... ? »
+163	Opérationnel ? Plutôt en train de fuir de ses entrailles.
+164	Un <i>glas</i>.
+165	Après la cloche, une boîte s'ouvre au sommet de la machine.
+166	À l'intérieur tu vois des feuilles de thé sèches.
+167	Ce sont les <i>feuilles de vapeur</i>. Elles sont censées ajouter une saveur supplémentaire.
+168	Et cette odeur... ce sont des feuilles d'Ukkul. De Kargamesh.
+169	Miam.
+170	Dans ton petit ventre. Le thé, c'est bon.
+171	« Attends... ce truc était prêt à fonctionner. »
+172	« Ça veut pas dire qu'il était utilisé pendant l'explosion ? »
+173	La machine était prête ? Peut-être qu'elle était utilisée pendant l'explosion.
+174	(Attraper les feuilles.)
+175	« Mm. Bon, eh bien. Ça veut dire que ces feuilles de thé sont une preuve. »
+176	Le gobelin a raison pour une fois.
+177	C'est toujours bon d'avoir des preuves.
+178	« Une preuve, hein... »
+179	Snell te fixe.
+180	« Ouais. Ramasse les feuilles, Clerc. »
+181	Tu dois t'améliorer en écoute.
+182	Quoi ? Il ne te parle PAS sur ce ton.
+183	« Oh. C'est vrai. Bien sûr. »
+184	« Tu me dis pas quoi faire. »
+185	« Ouais. Bien sûr. »
+186	« Je crois que je viens de le faire. »
+187	Il soupire et recule d'un pas. « Bien. Quoi que tu fasses, <i>ne</i> prends <i>pas</i> les feuilles, Clerc. »
+188	De la psychologie inversée ? Quoi, il te prend pour un dé-
+189	« Merci. » (Attraper les feuilles.)
+190	Bon sang.
+191	Tu places soigneusement les feuilles sèches dans ta bourse.
+192	Le gobelin te fait un hochement de tête.
+193	« Maintenant on peut s'il te plaît pas traîner autour de ce... <i>gloubi-boulga</i>. »
