@@ -1,6 +1,6 @@
 # Changelog — Patch FR Esoteric Ebb
 
-## v1.3.5 — 2026-07-22
+## v1.3.6 — 2026-07-22
 
 **Mise à jour majeure** : zones inaccessibles ("scene not found"), crash au chargement et bug de monnaie — corrigés ; dialogues français restaurés ; traduction fortement étendue (menus, création de personnage, carte, glossaire, fiches PNJ, ambiance).
 
@@ -37,7 +37,7 @@
 
 - Les catégories du journal (Politics, Geography, etc.) restent en anglais : elles sont codées en dur dans le binaire du jeu et les traduire casse les scripts.
 - Les noms d'objets et de la monnaie dans l'inventaire restent en anglais : ils servent de clés internes (comptage de l'argent, icônes, sauvegardes).
-- Bug connu (à corriger en v1.3.6) : le bouton pause à la manette réagit mal (s'ouvre/se ferme en double). La pause au clavier (Échap) fonctionne.
+- EN COURS : le bouton pause à la manette réagit mal (s'ouvre/se ferme en double) — encore en investigation. La pause au clavier (Échap) fonctionne.
 
 ## v1.3.3 — 2026-05-26
 
