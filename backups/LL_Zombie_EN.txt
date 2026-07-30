@@ -1,0 +1,251 @@
+1	You approach a shambling man by the apple pile.
+2	He does not acknowledge your presence.
+3	Bites you and then just ignores you? How rude.
+4	He is unaware of you.
+5	(Just stare at him.)
+6	Glancing under his hood you catch a blank expression spread upon a dried face.
+7	This a dead guy? Damn.
+8	Try not to get bit.
+9	Most likely.
+10	The goblin remains at a healthy distance.
+11	Yes. It is.
+12	Now answer the call of <b>duty</b>.
+13	You are required to deal with it.
+14	He does not even turn to look at you.
+15	Why is this man not listening to me?
+16	The man does not appear to react in any way to being poked.
+17	But he <i>is</i>.
+18	The goblin is thinking two words.
+19	<i>DO. NOT.</i>
+20	His glassy dark eyes just stare forward into... nothing.
+21	Wait... is this a zombie?
+22	This is a reanimated corpse.
+23	Probably a work-zombie. Although it has been illegal to employ undead since the Bone Purge of '11.
+24	The zombie does not look at you.
+25	What's he doing?
+26	Should I... defeat this zombie?
+27	R-(Attack the zombie.)
+28	E-Go away.
+29	(Gesture towards the zombie with a fist.)
+30	He rubs his nose.
+31	He does not respond.
+32	Not even a groan? How disappointing.
+33	Don't do that. He's joking.
+34	That'd be ridiculous. He's clearly not in voting condition.
+35	Seems to be fussing over the apples. Or something.
+36	The zombie is attempting to clear a path through the apple pile.
+37	He's probably been at it for a long time.
+38	Hard worker. Respect!
+39	The zombie does not even grunt in your direction.
+40	He just keeps working. Slowly.
+41	You grip the voting card firmly in your gloved hand.
+42	It is, indeed, yours. Keep it safe.
+43	The zombie appears to rattle a bit.
+44	Nope. It just found another out-of-place apple.
+45	We will CLEANSE the city.
+46	They want good, but their methods have lost the soft touch of Urth.
+47	Do not throw his good name in vain.
+48	Urth did not have a soft touch. He had a firm grip!
+49	His policies speak otherwise.
+50	The zombie just keeps moving apples.
+51	The fleshy ball-plank does not reply or counter your words.
+52	Oh yes! They'll bring the fortune of Reeds to every corner of the Coast!
+53	A revolution that has proven itself to leave those in need behind.
+54	So? Who cares, <i>you'll</i> make it. That's all that matters.
+55	A government with heart.
+56	A weak state, that will crumble in seconds.
+57	Those poor little peasants- to think they have been tricked into thinking themselves worthy of ruling.
+58	They'll starve come winter.
+59	It is a naive thought. But in all honesty, there is no other good way forward.
+60	Your genius will enlighten the masses. It simply must be.
+61	Yes. A true leader requires exactly all the things inside your head.
+62	You are the one, the genius, the introspective masterful extraspecter that will formulate a plan so incredible, so enlarged, so fantastic and quite honestly perfect that no one will ever really question you or it or anything.
+63	And so on.
+64	The zombie does not object to your campaign speech. In fact, the zombie does not react at all.
+65	To forsake your voice is to forsake your manhood.
+66	Do not think a lack of thought is somehow admirable.
+67	Where do you think you'll be, once the future has trampled all over you? Huh?
+68	You gotta move, man!
+69	Don't listen to anyone else, you are more than correct.
+70	Scream it at all times. People will love you for it. <shake>YOU ARE APOLITICAL!</shake>
+71	Just be smooth in how you say it. Most people like it when you agree with their political opinions. And a white lie never hurts, right?
+72	The zombie actually turns to glance at you with hollow eyes.
+73	As does your companion. But without the hollow eyes. More like, eyes filled with fear.
+74	(Breathe heavily.)
+75	The zombie carefully places another apple at the top of the pile.
+76	He does not have an opinion. Of any kind.
+77	Clearly a <b>weak man</b>, left to rot below his indecisive nature.
+78	<shake>Politics</shake>. It is not good for your soul.
+79	That'd be pretty scary...
+80	Yes. It is only just.
+81	Undead are not to be allowed in Norvik.
+82	You should probably speak with the owner first.
+83	Guy's not harming anyone. Honestly, he's probably a more productive member of society than you.
+84	No offense.
+85	Yes! Deal with this foul creature.
+86	Encounters are turn-based conflicts, where each participant takes turns in rolling dice and taking actions.
+87	During your turn, you are able to perform <b>one dice action</b> as well as cast <b>one spell</b> of your choosing.
+88	The order is determined by an initiative roll.
+89	He takes a very long step back.
+90	Don't let this shambler get the jump on you now.
+91	IROLL-Roll initiative.
+92	Fight!
+93	You're quick! You got this!
+94	How are you <i>slower</i> than a damn zombie?!
+95	The slow zombie just stands there.
+96	No, no. He's reacting. It's just taking some time.
+97	You've got all the time in the world.
+98	Your turn! Show him no mercy.
+99	No. Stay. Do not make the first move.
+100	Inflict Wounds would work here, however... it deals necrotic damage.
+101	And this is a zombie. It might finish him off, but generally speaking the undead are very resistant to such spells.
+102	ROLL8 str-Shove him!
+103	ROLL12 con-Keep your composure. Wait and see.
+104	ROLL6 dex-Hold up a closed fist and say, \
+105	SPELL Inflict_Wounds-
+106	SPELL Turn_Undead-
+107	Putting your weight on it, you push the zombie backwards.
+108	He attempts to stabilize himself while stumbling around.
+109	Attempting to put as much power on it as you can muster, the zombie's weight and unyielding undead thickness acts like a concrete wall.
+110	He moves not an inch.
+111	You take a deep breath.
+112	Staring at the zombie's every move, you stay put.
+113	Your body does not listen to command.
+114	It shakes, moving back and forth. Side to side.
+115	<b>Fight. OR. FLIGHT.</b>
+116	FIGHT.
+117	FLIGHT.
+118	As you attempt to run away, the zombie gets an attack of opportunity in, giving you a nasty bite.
+119	The body. Is weak.
+120	E-Just keep running.
+121	Your sneaky maneuver works! The zombie turns his gaze towards your fist and then...
+122	With a quick whack you get him to stumble backwards.
+123	There ya go!
+124	Holding out your fist in front of the zombie appears to work. He leans in and stares at it. And then...
+125	Wait... is he...?
+126	The zombie attempts to latch onto your hand with his foul teeth.
+127	You manage to pull back in time, thanks to his slow movements.
+128	What the hell! He's biting you now?
+129	Relatable.
+130	You throw your hand out, charged with pulsating necrotic energy.
+131	But to your stunned disbelief, the slow and stumbling zombie simply steps out of the way.
+132	Damn! A wasted turn!
+133	Just keep trying. Eventually you'll break this beast.
+134	The zombie is hostile.
+135	His neck snaps around, the withered face now facing yours.
+136	Yeah. You've really pissed him off.
+137	You can tell, since you're such a people's person.
+138	The zombie bites down on you, hard.
+139	It hurts... even through the armor.
+140	The pain is temporary.
+141	Okay, this zombie is off the hook. You didn't really do anything to piss him off, did you?
+142	This undead abomination must be apprehended, before he causes damage to innocents.
+143	Does that include you?
+144	<b>YES</b>.
+145	You should probably try to de-escalate. Just a tip.
+146	ROLL8 str-Grab him, get his... arm!
+147	ROLL6 cha-Switch gears, try to manipulate him.
+148	You successfully grab his arms. Your thick gloved hands wrap around his frail wrists and keep them stable.
+149	He's not getting away now.
+150	The zombie easily throws you back in an almost convulsing flailing.
+151	How strong is this foul creature?!
+152	This is a hollow animated corpse. He's magically bound to listen to orders. So, uh...
+153	I'll try giving him orders?
+154	I'll compliment his work?
+155	I'll ask him how he's feeling?
+156	Eh. Anything. Just try it.
+157	The zombie does not seem to respond.
+158	Maybe it's just delayed. Don't give up!
+159	Okay, okay. So, uh...
+160	Yes?
+161	This is a delicate situation. You don't want this guy to go all... feral.
+162	Got it. (Start screaming at the zombie.)
+163	You let out a bellowing cry. It's less a war-cry and more a 'Help me I'm being murdered'-cry.
+164	Keep yourself together, man!
+165	But... the zombie just steps out of the way.
+166	How are you missing this? He's right in front of you!
+167	Okay. This isn't working. Try something else.
+168	This ends now.
+169	Again the zombie snaps its mouth at you.
+170	This time he latches on hard.
+171	That's gonna be a bruise tomorrow. Why aren't you dodging?!
+172	Your final chance. Do not falter!
+173	This zombie is weak. Dominate it!
+174	ROLL12 str-Finish this - with a sucker punch!
+175	ROLL10 cha-You can still take control - pretend you're his master!
+176	Knock him out!
+177	0.55
+178	<shake>Yes!</shake>
+179	Catching your breath, you stare at the now unmoving creature.
+180	Justice: dispensed.
+181	Now go loot him! Get that fancy tooth!
+182	E-Victory.
+183	The zombie immediately shuffles away, disappearing down the stairs.
+184	You take a deep breath as you realize he's most certainly not coming back.
+185	Foul creature. Returned whence he belongs - a dark tunnel beneath.
+186	But wait, the loot! Gah! Now you'll never get that tooth!
+187	E-Victory. Somewhat.
+188	You're ready. Dominate this creature!
+189	It stares at you. The erratic movements replaced with an ominous stillness.
+190	You've got its attention. Now, hit it again - with an order!
+191	Well? What do you want him to do?
+192	The creature immediately lowers its head and turns back to the pile of apples.
+193	Sweet. That was easy.
+194	Maybe, uh... ask for something as well. A reward, maybe?
+195	(Sigh.) \
+196	He reaches into his mouth and way too easily pulls out his wisdom tooth.
+197	He then drops it in your open hand.
+198	Why did you do this again?
+199	The tooth hums in a faint esoteric aura. Interesting.
+200	True.
+201	Guess you can just call it a day.
+202	Highly doubt that.
+203	Wiser words have seldom been spoken.
+204	The zombie stares at you in silence for a few seconds.
+205	Then it punches itself in the face.
+206	You stare at the now unmoving creature.
+207	A craven's way. But efficient.
+208	Now go loot him!
+209	...no!
+210	Your powerful iron fist seemingly gets no weight behind it.
+211	As it hits the zombie's hide, it feels like hitting a damn wall.
+212	Your fist cracks.
+213	You hit a bad angle on its protruding rib cage. Great job.
+214	The zombie appears unmoved as you stumble backwards.
+215	It is no longer hostile to you.
+216	Did it take pity on you? You and your violent ways...
+217	Oh. It's probably ordered not to harm unless threatened.
+218	That means it no longer sees you as a threat. Hilarious.
+219	This fight is over. For now.
+220	E-(Rub your hand and groan.)
+221	You're ready. Unleash a dominating power and turn this creature into your willing servant!
+222	(Kneel.)
+223	What? No!
+224	What are you doing? Stop!
+225	(Whimper.) \
+226	The zombie towers over you, unmoving.
+227	Huh. Guess this... works?
+228	Won't win you anything, but... you're alive at least?
+229	Ah! It's probably ordered not to harm unless threatened.
+230	Meaning... it no longer sees you as a threat. Hilarious.
+231	(Get up.)
+232	You could always try again. Or... just leave the zombie alone.
+233	E-I should not bother the zombie anymore.
+234	Black veins sprout across the zombie's gray skin.
+235	Your palm did not hit hard. But the magic did the work.
+236	It stumbles back, tumbling onto the pile of apples.
+237	You notice how the necrotic energy of your spell did not have as much of an impact upon your foe as you imagined.
+238	The zombie is resistant to necrotic damage. As are all undead.
+239	You're lucky this zombie was very, very weak.
+240	One final convulsion. Then it's over.
+241	The zombie must have been incredibly weak. Necrotic damage should not be this effective, no matter how well your strike lands.
+242	With your fingers fumbling about in his mouth, your grip over the fancy magical tooth slips, and...
+243	He bites down.
+244	Ouch.
+245	You instinctively move your hands away but he still gets a quick nibble in.
+246	<b>YOU'RE IN HIS MOUTH?</b>
+247	Gah! You need to destroy this foul creature...!
+248	If you want that tooth, then at this point... yeah. Might be your only option.
+249	Cease this rummaging through undead maws. Please.
+250	This is highly invasive behavior. Try to behave.
+251	E-(Take a step back.)

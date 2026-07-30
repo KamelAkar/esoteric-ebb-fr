@@ -1,0 +1,153 @@
+# 152 likely-EN strings to translate
+AR_Mephits_23	LINE	"Bien. Tu connais ta place."
+AR_Viira_Ivcx_127	LINE	"Since he is not interested, we shall not be in contact."
+AR_Viira_Ivcx_454	LINE	Elle regarde la place vide sur le mur.
+CB_Apartment_46	LINE	Ceci est une fine tranche de terre venue de quelque temps antique.
+CB_CraniumAnt_264	LINE	La fourmi tourne un peu sur place.
+CB_CraniumAnt_314	LINE	we... do not know.
+CB_GelCube_131	CHOICE	"Not... yet..." (Pant.)
+CB_Moongore_555	CHOICE	"I yield! I take it back!" (Abandonner.)
+CB_Moongore_783	LINE	Sa prise vous maintient en place.
+CB_SecretPassage_43	LINE	C'est juste une fissure dans le mur. Pas de place pour quoi que ce soit de mauvais.
+CB_Skeleton_165	CHOICE	"A great... battle..." (Reprendre ton souffle.)
+CB_Skeleton_166	CHOICE	A great... battle... (Reprendre ton souffle.)
+CB_Snails_170	LINE	Te faisant de la place.
+CB_WhitemaneLift_27	LINE	Elle se remet en place.
+CB_WhitemaneLift_48	CHOICE	"I am a MAN." (Leave while speaking aloud to no one.)
+Default_TestingPot_1	LINE	Hello, I'm the panning pot!
+Default_TestingPot_3	LINE	okay!
+Default_TestingPot_5	LINE	OKAY!
+Default_TestingPot_6	CHOICE	Take crown test.
+Default_TestingPot_7	LINE	Okay Cleric!
+Default_TestingPot_8	LINE	Here are some crowns!
+Default_TestingPot_10	LINE	Or did the whole fucking thing crash?
+DIALOGTEST_1	LINE	What do you want to test?
+DIALOGTEST_6	LINE	Okay. Here are all the different choice visuals.
+DIALOGTEST_15	LINE	So. Let's jump with some variables.
+DIALOGTEST_16	LINE	Let's start with the variable: GonnaJump.
+DIALOGTEST_17	LINE	It is now set to 1. The next line should just be a continue button away.
+DIALOGTEST_20	LINE	The next line should be smooth.
+DIALOGTEST_21	LINE	This is gonnajump==0. Hello!
+DIALOGTEST_22	LINE	This is gonnajump==1.
+DIALOGTEST_23	LINE	This should have been smooth!
+DIALOGTEST_29	LINE	Hello, this is a first DC message.
+DIALOGTEST_30	LINE	If the last STR message was successful, this shows.
+DIALOGTEST_31	LINE	Same here, but for the DEX message.
+DIALOGTEST_33	CHOICE	Push the limit!
+DIALOGTEST_36	CHOICE	Push the limit!With variables!
+DIALOGTEST_39	CHOICE	Push the limit!With ADAVNTAGE!
+DIALOGTEST_42	CHOICE	Push the limit!With DISADAVNTAGE!
+DIALOGTEST_45	CHOICE	Long test test test. Testing test test. We're testing test test test? Test!
+DIALOGTEST_48	CHOICE	Long test test test. Testing test test. We're testing test test test? Test!
+DIALOGTEST_55	LINE	Hello, get ideas.
+DIALOGTEST_56	CHOICE	Get idea Milkurious.
+DIALOGTEST_57	CHOICE	Get idea The Tea Shop that Blew Up.
+DIALOGTEST_58	LINE	Okay!
+DIALOGTEST_59	CHOICE	This is all very confusing.
+DIALOGTEST_60	CHOICE	Tea shop?
+DIALOGTEST_61	LINE	They've sprung up around the city over the last decade. A powder-keg of activism and extremism.
+DIALOGTEST_62	LINE	You used to visit such places often before you joined the Urthguard.
+DIALOGTEST_63	LINE	The smell of freshly parched leaves. The chatter of youth. The exciting exchange of ideas. NEW ideas.
+DIALOGTEST_64	LINE	A place of chaos and disruption.
+DIALOGTEST_65	LINE	Fucking tea shops. They should all burn down.
+DIALOGTEST_67	LINE	The Halfway Bridge Tribe are de facto keepers of the peace within the tunnels of Tolstad. At least on the deeper levels. You should find
+DIALOGTEST_68	LINE	Tolstad is inhabited by many goblins.
+DIALOGTEST_69	CHOICE	It's time to go.
+DN_Darrow_423	LINE	"Okay," he says, scratching his ear. "<> #LOC_423
+DN_Darrow_444	CHOICE	"I need access to the tea shop." (Gulp.)
+DN_Ettir_50	CHOICE	(Gulp.) "Okay."
+DS_Olzis_901	LINE	"Ne t'en fais pas. I've seen worse in my days. <> #LOC_901
+DS_Well_26	CHOICE	I know, I know. (Juste sauter.)
+DS_Well_89	CHOICE	"How...? Quoi... ?"
+Enc_Final_39	CHOICE	Bon sang. I got stabbed again!
+Enc_Final_208	LINE	Elle s'empresse de le remettre en place.
+Enc_Night_16	CHOICE	...I can dodge it!
+Enc_Template_1	LINE	START ENCOUNTER! STOPPING MUSIC, MOVING ACTORS INTO PLACE
+EP_Modissa_76	LINE	Soudain elle vacille un peu sur place, et ses yeux deviennent ternes.
+EP_Ost_49	CHOICE	"Okay." (Give him 10,000 crowns.)
+EP_Simii_9	LINE	"Many memories."
+EP_Simii_12	CHOICE	"Big fan of tea?"
+EP_Simii_38	LINE	Okay. More reasonable.
+EP_Simii_47	CHOICE	"Right, I think I was supposed to find him. Tant pis."
+EP_Simii_61	LINE	"Thanks. <i>Cleric</i>."
+EP_Simii_70	LINE	"I think I'll name it after my father."
+EP_Simii_74	LINE	Really paints a picture.
+EP_Simii_77	LINE	"He was a good man."
+EP_Simii_85	LINE	"A <i>Strokeback Mountain</i>, on which we... make a stand."
+EP_Simii_87	CHOICE	"Great name. Love it."
+EP_Simii_88	LINE	"Thanks, Cleric."
+EP_Simii_98	CHOICE	I'll leave him to it.
+EP_Snell_831	CHOICE	"Want me to squat first?" (Bend down a little.)
+Example_Encounter_1	LINE	First line to setup the encounter. Includes SetupEncounter.
+Example_Encounter_2	LINE	After this, an Initiative Roll needs to be called with:
+Example_Encounter_4	LINE	Descriptive text of the encounter.
+Example_Encounter_5	LINE	One line each for each character in encounter.
+Example_Encounter_6	LINE	One for each companion.
+Example_Encounter_7	LINE	Then once for each enemy.
+Example_Encounter_22	LINE	To end the encounter.
+GG_Miska_18	CHOICE	"Okay." (Frissonner.)
+GG_Miska_819	LINE	Elle grogne et place une griffe sur son visage.
+GG_Nessan_511	LINE	Elle place le bol de son bureau au sol devant vous.
+GG_Potted_18	CHOICE	Je peux les remettre en place ?
+JC_Darkness_9	CHOICE	Why is it so quiet?
+JC_Darkness_11	LINE	Cleric ruminates a bit to himself.
+JC_Darkness_13	CHOICE	It's probably some Far Realm aberration, coming to eat me.
+JC_Darkness_14	LINE	Look up, Cleric.
+JC_Darkness_24	LINE	It's stars.
+JC_Gorm_1053	LINE	Pas tant que cet Ebb est en place.
+JC_Gorm_1757	CHOICE	"Un magicien... does not kneel... to some <i>fallen paladin</i>."
+JC_Urth_89	LINE	Le gobelin semble vaciller sur place.
+LL_Cloak_30	LINE	Tu <i>pourrais</i> assumer ce look.
+LL_Intro_41	CHOICE	FC8 wis-C. L. Eric ? On dirait <i>Cleric</i>.
+LL_Intro_218	LINE	Ta place est dans une <b>FERME</b>.
+LL_Intro_384	CHOICE	Okay. Merci.
+LL_Zombie_112	LINE	Le zombie place soigneusement une autre pomme au sommet du tas.
+LL_Zombie_151	LINE	Fixant chaque mouvement du zombie, tu restes en place.
+LP_Lisa_940	LINE	Vous les voyez flotter sur place, au-dessus de la surface de la bouillie.
+PC_Frey_154	CHOICE	"Okay." (Feel awful.)
+RM_StorageRoom_137	CHOICE	"Diables ouais. Love me some bourgeoisie bullshit."
+SH_Modissa_701	LINE	Il se place devant toi. Son visage est de pierre.
+SH_Modissa_711	LINE	Il se place devant toi. Son visage est de pierre.
+Snell_Companion_156	CHOICE	.Snurre's_Office==1-"Belle place."
+SP_Snell_224	CHOICE	"It's a nice apartment." (Be nice.)
+ST_Button_46	CHOICE	Great?
+ST_Lever_51	CHOICE	Great.
+ST_Lever_55	CHOICE	Great.
+ST_PebbleOfSending_10	CHOICE	Okay...
+ST_PebbleOfSending_115	CHOICE	(Send a message to Rixbiter.) "Hey. Any news?"
+TE_SecretPassage_14	CHOICE	Laisser tomber. We were not meant to manage such mystical things as 'secret doors'.
+TestingFeatures_17	LINE	And finally
+TestingFeatures_27	LINE	And finally
+TestingFeatures_445	CHOICE	Unlock Tea_Shop_Seen
+TestingFeatures_627	CHOICE	Unlock QP1_Man
+TestingFeatures_629	CHOICE	Unlock QP2_Man
+TestingFeatures_720	LINE	YOU GO FIRST
+TestingFeatures_721	LINE	YOU DO NOT GO FIRST
+TS_Arn_Kiosk_695	LINE	Il faut un quart d'heure pour que tous les papiers retrouvent leur place.
+TS_Braxo_181	LINE	<>I do scribin' most days. Got some connections within the Palace, and believe me, phew! That's gotten me through some tough times." #Braxo #LOC_181
+TS_Ettir_129	CHOICE	Whisper back, "Why? Aren't angels good?"
+TS_Nearly_27	LINE	"Okay. <> #LOC_27
+TS_Nearly_574	LINE	"Well it's just...<> #LOC_574
+TS_Nearly_576	LINE	"Yeah. Really.<> #LOC_576
+TS_Nearly_579	LINE	<> If a city cleric comes up to someone and asks them for their political opinion, it would take a very special kind of person to not just say what the cleric wants to hear." #Nearly #LOC_579
+TS_Potion_89	CHOICE	BUY290 The_Mind_Expansion-(Acheter L'Expansion de l'Esprit pour 290 couronnes.)
+TS_Rollermill_147	CHOICE	It's a broken immovable rod. C'est un... movable rod?
+TS_Rollermill_148	CHOICE	"It's a broken immovable rod. C'est un... movable rod?"
+TS_Spear_5	LINE	Probably not, no.
+TS_Spear_9	LINE	"Big stick!"
+TS_Thal_410	CHOICE	"I already handled it, Je crois."
+TS_Viira_224	LINE	Place du Cercle ? Hilarant.
+TS_Viira_472	LINE	Maintenant il n'y a plus que vous, seul sur la Place du Cercle.
+TS_Viira_507	LINE	Maintenant il n'y a plus que vous, seul sur la Place du Cercle.
+TS_Viira_788	LINE	Tandis que la Place du Cercle devient silencieuse, elle se tourne pour vous faire face.
+TU_Borgo_239	LINE	C'est ici que tu as ta place. Sous les hommes plus forts.
+TU_Borgo_328	CHOICE	"...Oh oui. I've met him. He almost killed me."
+UP_Brr_150	LINE	Ne laissant de place que pour la force positive.
+UP_Brr_462	LINE	Le gobelin a l'air sur le point de se faner et de mourir sur place par pure atrophie musculaire.
+UP_Meri_803	CHOICE	"Sure. C'est logique."
+VL_AncientTome_29	LINE	Les mots se mettent alors en place.
+WL_Bookbinder_215	CHOICE	"Okay." (Pay 250 crowns.)
+WL_Giorgio_195	CHOICE	"A Bard can be multi-legged. Je crois."
+VL_Ost_473	LINE	Il place un sale coup !
+VL_Ost_535	CHOICE	Tiens bon. Make it an endurance contest.
+VL_Visken_384	LINE	Puis il place le papier sur son bureau, parmi de nombreux autres documents.

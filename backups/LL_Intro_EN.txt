@@ -1,0 +1,328 @@
+  1. '"TRUTH AND NOTHING ELSE," a voice declares.'
+  2. '<b>"WHAT IS YOUR NAME?"</b>'
+  3. 'Ragn. Your name is Ragn.'
+  4. 'And in your statement of citizenry - Ragn Hemlin.'
+  5. 'Right, your name.'
+  6. "It's... one of those Norvikian names."
+  7. 'Starts with an R.'
+  8. 'Ragn? Is that it?'
+  9. "Don't think you're called that very often."
+ 10. 'No, you are not.'
+ 11. 'Which is quite embarrassing when you think about it.'
+ 12. "Ragn? Hm. Doesn't sound right."
+ 13. '"Ragn."'
+ 14. '(Stay silent.)'
+ 15. "Yes. That's the one."
+ 16. "Doesn't sound right to me."
+ 17. '(Open your mouth and speak.) "Ragn."'
+ 18. 'No. No one calls you by your name.'
+ 19. 'Yeah, yeah. Nobody likes you. Boo-hoo.'
+ 20. 'Of course not. For you are <b>THE CLERIC</b>.'
+ 21. 'Please stop yelling that all the time.'
+ 22. 'Hey! Respect. The Helm.'
+ 23. '...What?'
+ 24. "You are often referred to as 'Cleric'."
+ 25. 'Actually, your real name is Eric.'
+ 26. 'No, hold on.'
+ 27. "It's <i>C.L.</i> Eric. Or something similar."
+ 28. '<b>No</b>. Stop this ridiculous behavior.'
+ 29. 'Your name was asked. It is <i>RAGN</i>.'
+ 30. 'Wait!'
+ 31. "Didn't they use to call you 'Dick-Ass'?"
+ 32. 'Do not use such foul language.'
+ 33. 'So... my name is...'
+ 34. "Oh, hold on. That's not what it was."
+ 35. "It was, 'Dick-Ass <i>Rogue</i>'."
+ 36. 'You know. Back when you hustled. On the streets.'
+ 37. "Don't bring that up. Geez."
+ 38. 'You were like, <i>twelve</i>.'
+ 39. 'Those were dark times. Before you found the light of Urth.'
+ 40. 'Ah, yes.'
+ 41. "That's what it was."
+ 42. 'Fool.'
+ 43. 'Yes. Speak it.'
+ 44. "Doesn't sound that good when you say it out loud..."
+ 45. 'You answer. Another question from the darkness.'
+ 46. 'Hold on. What does C.L. stand for?'
+ 47. 'Yes...!'
+ 48. 'Well. Could be worse.'
+ 49. 'If your name is what they call you, that is it.'
+ 50. 'Hm. Could be worse.'
+ 51. 'You say nothing. Another question from the darkness.'
+ 52. 'Factually correct.'
+ 53. 'Correct.'
+ 54. 'Good. Play hard to get.'
+ 55. '<b>"WHAT IS YOUR OCCUPATION?"</b>'
+ 56. 'As if it matters.'
+ 57. 'What is this, an interrogation?'
+ 58. 'You are dead.'
+ 59. 'Dead? How can you be <i>dead</i>?'
+ 60. "You're thinking, aren't you?"
+ 61. 'Dead does not mean <b>gone</b>.'
+ 62. '...What are you, a fucking poet?'
+ 63. 'You aimed at Patriarch. More realistically, you would have ended up a Sender.'
+ 64. '(Look around.)'
+ 65. "What's an 'occupation' in this context?"
+ 66. "It's more than darkness. It's nothing. All around you."
+ 67. 'Your senses reach out into the void. A glimmer, dangling far, far away.'
+ 68. 'A STRING of EXISTENCE.'
+ 69. "Politics at the Towers wouldn't allow for much else, now would it?"
+ 70. 'Few do. If you can embrace it, do so.'
+ 71. 'Work. Getting paid for labor.'
+ 72. 'This is for sure about your job.'
+ 73. 'You know. THE job.'
+ 74. "Didn't you have a job? Something really important..."
+ 75. 'Your <b>class</b>.'
+ 76. 'Tell the voice about your <b>class</b>.'
+ 77. 'Lower class.'
+ 78. 'Upper class.'
+ 79. 'You are a great spellcaster who will rule the world one day.'
+ 80. 'Occupation? Hah! Forever standing at the gates of chaos, holding the line against all things foul is no mere job. It is a calling! Destiny!'
+ 81. 'Not sure any answer is good here.'
+ 82. 'Just go with whatever works in the moment.'
+ 83. 'Your class is whatever gets you to steer clear of society, in general.'
+ 84. 'You are a city cleric. Nothing more.'
+ 85. "You're a high class scoundrel. The best of the best."
+ 86. 'And awful... at EVERYTHING.'
+ 87. '"I\'m awful at everything."'
+ 88. 'Gods be damned, you are.'
+ 89. 'Your true calling.'
+ 90. "<b>Indeed.</b> Your journey has taken you far. Finally you've become the one and only..."
+ 91. 'The strong and steadfast...'
+ 92. 'The... the...'
+ 93. '"I am <b>The Cleric.</b>"'
+ 94. '<b>YES.</b>'
+ 95. 'Embarrassing.'
+ 96. 'Agreed.'
+ 97. 'A dashing one, at that.'
+ 98. 'Brutal, but true.'
+ 99. "Probably shouldn't say that out loud. Putting yourself down is not a great way to get people to love you."
+100. "Unless you're <i>very</i> manipulative about it."
+101. "You do. And it'll be a great payday."
+102. "Way too important. You'll never make it out alive."
+103. "Honestly, since you don't know who you're dealing with here, I agree."
+104. 'It is probably smart to shut up.'
+105. 'It takes a while before the next question is posed.'
+106. '<b>"WHAT IS YOUR CURRENT GOAL?"</b>'
+107. 'Goal? Would be nice to get out of this dark pit for one.'
+108. 'We need to find out who blew up the tea shop.'
+109. 'And most importantly, for what nefarious purpose.'
+110. 'You are a hero. By divine dictate, only you can save the world.'
+111. 'With your gift you can easily take control one day.'
+112. 'The goblin chieftain. She needs you.'
+113. 'Why all these questions?'
+114. '"To find the goblin chieftain? Is that right?"'
+115. 'Control of everything.'
+116. 'It is what you were made for.'
+117. 'Unfortunately, yes.'
+118. "That's not good. I like tea shops."
+119. 'Great. I hate tea shops. They should be banned.'
+120. "I don't have any strong opinions on tea shops. In fact, I never think of them at all."
+121. 'They are lovely, yes.'
+122. 'Nothing but a hive of criminals.'
+123. 'Do not lie to yourself.'
+124. 'You may ruminate further on tea shops at a later date.'
+125. 'There is a question to be answered. Your goal is...'
+126. "No clue. But you should keep 'em talking."
+127. "It's been silent here for far too long."
+128. 'This fellow wants something. No idea what, though.'
+129. "You should probably lie. Tell him you're collecting taxes or something. That'd be fun."
+130. "Yeah. That should scare 'em."
+131. 'Keep looking for a way out...!'
+132. "They're counting on you. Keep it together."
+133. 'It is only right.'
+134. 'You know it to be true.'
+135. 'Yeah, no. Giving away your personal aspirations like that could totally come back to bite you.'
+136. 'Staying quiet causes a deep silence to fall upon the darkness. Until it is broken by the next question.'
+137. 'No reply. No feedback.'
+138. 'Then the voice asks: <b>"WHAT IS YOUR POLITICAL AFFILIATION?"</b>'
+139. 'The question strikes your entire consciousness, sending it spinning.'
+140. 'This is a setup. Has to be.'
+141. 'The National Party of Norvik, of course!'
+142. "Theocracy is a farce. Don't stoop so low."
+143. 'If you care for your fellow - vote for the Azgalists.'
+144. "No way. Those dwarves want to take everything from you. Which isn't much, but still."
+145. 'It is the... Azgalists. Yes, they are decent. Possibly.'
+146. 'It is the duty of the powerful to lead. That is you. No one else.'
+147. "Don't be so self-absorbed. You are a social creature, defined by what you give."
+148. "We've moved beyond the bounds of dictators. We are free to make our own choices, thanks to the Revolutionary Freestriders!"
+149. '<i>The Freestriders</i>, maybe?'
+150. "Then again, you're no revolutionary. Things just move way too fast these days..."
+151. 'Elections. Are.'
+152. '...<shake>Exhausting</shake>.'
+153. '...<shake>Ridiculous</shake>.'
+154. 'It hides in the back of your skull: a fact. That you are <i>bound</i> to be a Nationalist.'
+155. 'And it frightens you. The <i>pressure</i>...'
+156. '"The Nationalists."'
+157. '"The Azgalists."'
+158. '"The Freestriders."'
+159. "I don't know any of these words."
+160. '"Actually, I\'m apolitical."'
+161. 'Good. Together we will keep Norvik safe. For Urth and Torna!'
+162. 'You conform. You follow suit.'
+163. 'Do not be a nail in a world of hammers.'
+164. 'Life is a struggle to alleviate oppression. The exiles know this well.'
+165. 'You have supported them in the past. Time to do so again.'
+166. 'Last time you supported them, your life took a drastic turn.'
+167. '...Will that happen again?'
+168. "Peace, prosperity, and fraternity. We're going to be RICH!"
+169. 'This is going off the rails. Might as well hang on.'
+170. "Don't worry, it doesn't matter. Just say whatever you think will be the most useful to you."
+171. 'Which is, uh...'
+172. "Just say you're apolitical."
+173. 'And I think you know exactly what that is...'
+174. 'Once, we based our worth on knowledge and ability. It shall come again.'
+175. 'Sadness. <shake>Pain</shake>.'
+176. 'All the DIRT in our VEINS will spew out onto the world. Unconstrained. For your gut tells you one simple truth...'
+177. 'You belong on a <b>FARM</b>.'
+178. 'Perfection. No one can get mad at you. And everyone will love you.'
+179. 'Silence is golden. When it comes to politics, at least.'
+180. 'The voice is fading. This is the end. The final question.'
+181. '<b>"HOW DID YOU DIE?"</b>'
+182. 'Following your convictions.'
+183. 'Drowning. In the river.'
+184. 'Same way you lived. Unable to step out of the uniform. Not for one second.'
+185. "Now's your chance. Break free!"
+186. '"I fell into divinity. She took me whole."'
+187. '"I... died when <b>he</b> died."'
+188. '(Stay silent until the darkness ends.)'
+189. 'A fresh start.'
+190. '(Get up.)'
+191. 'Your heartbeat is loud. Screaming.'
+192. "Your body aches. It's stiff, as if you've slept for days."
+193. "Don't sleep in the armor, dumbass."
+194. 'A true man always does.'
+195. 'Ready for <b>your glorious quest</b> to continue.'
+196. 'Ready for <b>the quest</b> to continue.'
+197. '(Look around you.)'
+198. '(Check your stuff.)'
+199. "M-Wait, what's this about a quest?"
+200. 'A circular stone chamber. A storage for apples and corpses.'
+201. 'A house of the dead. Your home.'
+202. 'Those piles of apples... is this Tolstad?'
+203. 'I see. Apples and corpses.'
+204. '...Get the fuck out of here. Now.'
+205. 'What stuff?'
+206. 'Your hands dart around your pouch and uniform.'
+207. 'Panic. Sweat.'
+208. 'You take a deep breath. Be calm.'
+209. "No spellbook, no mace... face it, you've been robbed."
+210. 'Your legs shake. Tears begin to form.'
+211. 'Deep breaths. Your belongings are surely here somewhere.'
+212. 'Oh yes, a <b>QUEST</b>!'
+213. "You're on a quest to <b>save</b> the <b>city</b>."
+214. 'Interact with highlighted words to receive a Glossary Entry.'
+215. '<i>Urth be Blessed</i>.'
+216. 'Do I... remember everything?'
+217. 'Yes! Save it from the jaws of democracy.'
+218. 'Yes. Everything is <i>off</i>, but your memory is intact.'
+219. 'Uh. Not sure. Do you have some sort of amnesia?'
+220. '<b>No.</b>'
+221. 'Just remember it. Your thoughts are scattered.'
+222. 'But your memory is intact.'
+223. 'Your thoughts are scattered.'
+224. 'But your mind is fine.'
+225. 'Your quest was given yesterday. Remember. <i>The tea shop</i>.'
+226. 'You got a job. The tea shop job.'
+227. '...Tea shop job?'
+228. 'Yep. The Tea Shop that Blew Up.'
+229. "Easy job. You'll be done in a day or two."
+230. "It'll be a tough one. Might take days."
+231. 'A chance for REDEMPTION.'
+232. "Just a job? Ah. So I've done this before."
+233. 'A quest? I like those.'
+234. 'Wait, how much time do I have?'
+235. 'M-So, to be clear, I need to figure out who blew up some random tea shop?'
+236. 'Insubordination.'
+237. 'Inconstancy.'
+238. 'Light apostasy.'
+239. 'The words live inside your bone marrow.'
+240. 'Well. Maybe not <i>this particular</i> type of job.'
+241. "You... haven't <i>really</i>."
+242. 'Your previous experience lies more in some basic Urthguard militia service, as well as a few years at the Towers.'
+243. "Rogue sorcery was not your main subject. But yes. You've read a lot about these types of fiery events."
+244. 'They are not too common these days. However, this incident does not appear overly complex.'
+245. "Good attitude. There's always more around the corner, so look out. Don't want to miss any."
+246. 'They are dangerous. You might not make it.'
+247. 'Until the election, duh.'
+248. 'Which is in <b>five days</b>.'
+249. 'Which is in <b>six days</b>.'
+250. "No, it's not. What the hell. It's in FIVE days."
+251. 'Depends on your definitions.'
+252. 'Definitions of what?'
+253. '<i>TIME</i>?'
+254. 'The Patriarch was very clear: handle the tea shop before election day.'
+255. 'You must honor this request - and complete this QUEST.'
+256. 'Time only advances when you make new choices in dialogs.'
+257. 'More or less.'
+258. "But you've got like, five days to do it. So no stress."
+259. "There's also bullshit politics involved here. You'll love it."
+260. "You're the one they sent. You best get to work, <b>hero</b>."
+261. "There's that feeling again."
+262. "The feeling you're about to enter a path from which there is no way back."
+263. 'Can I think about this first?'
+264. "Yes. Let's finish this job."
+265. "Good or bad. You won't know until you've reached the end."
+266. "That's very ominous. I-"
+267. "Can't I just not go on the-"
+268. 'Fate will guide me to a-'
+269. "<b>Yes.</b> It's time to deliver it all to this wonderful city."
+270. 'Your duty has come. Give everything to Norvik.'
+271. "Everything? I don't think-"
+272. 'How does that make me a-'
+273. 'I will carry this burden to-'
+274. 'Time. Is. Limited.'
+275. "It's just a lot to-"
+276. "Damn right! You'll do great. Now get going."
+277. 'Alright. But, first I-'
+278. 'You feel dizzy.'
+279. 'The weight of the Urthguard uniform. A dull pain takes hold.'
+280. 'You require <shake>HEALING</shake>.'
+281. 'Your body aches. Its contents rotting.'
+282. 'You must consume an apple. NOW.'
+283. 'There are many apples here. And corpses.'
+284. '<i>CORPSES?</i> What the hells is this place?'
+285. 'Your mind forms a trail from one cross to another. You know not why you stand among these apples. But you know <i>everything else</i> that has gone wrong in your life.'
+286. 'You must dig yourself out of this trench. With kindness and an ever-brightening love for <i>folk</i>.'
+287. 'Your skull is broken - the content <i>whole</i>.'
+288. 'Bring yourself back from the brink. Find solace on the path and save the paladin from his madness. The flesh will thank you.'
+289. 'Worry not of pain. Care not of hunger.'
+290. 'The CITY needs you. It needs your bones, ground into <i>pûlver</i> on the pavement.'
+291. 'Do this, and your <i>one prayer</i> will be answered.'
+292. 'You have been routed for far too long.'
+293. 'Finish this task with precision and decisiveness, regain your position at the Towers, then return to your true task.'
+294. 'Seizing <i>true power</i> in this forsaken city.'
+295. 'You really have to get yourself another job. Seriously.'
+296. "Once we've joined the Free Cities, you should consider leveraging your skills - become a freelancer! Or one of those well-paid <i>corporate agents</i>! You've already tried your hand at propaganda, and that didn't work out, so..."
+297. "Just take it easy. You might have failed at getting the first two- or three-hundred people to like you. But you've got half a million other folks to fool in this city!"
+298. 'It is with utmost confidence that <i>you know</i>: eventually, someone has to love you.'
+299. 'If your stats are high or low enough, <b>Chimes</b> will appear in your mind.'
+300. 'They will suggest, inform, and offer unique paths. Trust them at your own risk.'
+301. '"I\'m so very confused."'
+302. '"Uh-huh." (Rub your temples.)'
+303. 'E-Okay. Thank you, voices in my head.'
+304. "Yeah... it wasn't a great idea to follow your mom's footsteps."
+305. 'It will be a long road, one you will inevitably travel. To surpass the Arcanists of old and become Wizard-God-King.'
+306. 'A cheap currency in times of trouble. But you are ready to sacrifice them all - just like Urth teaches.'
+307. 'It is a lot. Do not let that break your spirit.'
+308. 'A world of redemption lies at the end. All you have to do is retain exactly that which makes you truly, and unimaginably, <i>good</i>.'
+309. 'Your <i>stomach</i> yearns for the void.'
+310. '<i>Do not take the Flame Tongue</i>.'
+311. 'Well.'
+312. "Let's aim for 'stand your presence' for now."
+313. "That's usually the case."
+314. 'Your mind is ungodly powerful.'
+315. 'Get yourself together.'
+316. 'Just go to work. You know... get shit done.'
+317. 'One step at a time.'
+318. 'E-Get going.'
+319. 'As you do, your fingers touch upon cold steel. It is covering your entire head.'
+320. "Colloquially known as a 'helmet'."
+321. 'Can I take it off?'
+322. 'E-Okay. Thank you.'
+323. '<b>NO!</b>'
+324. "I wouldn't do that."
+325. 'Like ripping off your own face.'
+326. 'Not a good idea.'
+327. '<b>Not yet</b>.'
+328. "Can't wait until you do."

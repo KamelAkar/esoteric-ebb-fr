@@ -1,0 +1,38 @@
+Total ^-strings: 1536
+Skill-check choices: 36
+
+DC10 wis-...A tea shop exploded? 
+DC10 wis-...The tea shop? 
+DC11 int-\"<i>I</i> should be in charge, as a god-king wizard-lord.\" 
+DC12 dex-\"I'm a sneaky little rogue.\" 
+DC12 str-<i>The</i> Cleric? I like that. 
+DC12 wis-\"Cleric.\" 
+DC13 con-I don't want to be dead. 
+DC13 con-Redemption? Wait, what did I do? 
+DC13 dex-\"To get out of the darkness.\" 
+DC13 wis-\"I'm definitely a cleric.\" 
+DC14 int-\"I'm a god damn wizard.\" 
+DC14 int-\"Ragn Hemlin.\" 
+DC14 str-A hero? Me? 
+DC14 str-\"To save the world.\" 
+DC14 wis-No way back? That doesn't sound too good. 
+DC15 dex-...'Dick-Ass'? 
+DC15 dex-\"Dick-Ass Rogue.\" 
+DC15 int-Control? 
+DC15 int-\"To rule the world.\" 
+DC15 str-Please, no, I don't want to be a Sender... 
+DC15 str-\"<b>The Cleric.</b>\" 
+DC15 str-\"I am the Guardian of justice and peace. A true <i>human</i> hero.\" 
+DC17 cha-\"<i>Love me</i>?\" 
+DC17 con-\"The <i>flesh</i>?\" 
+DC17 con-\"The Agrarians. If they were still around...\" 
+DC17 dex-\"<i>Propaganda</i>?\" 
+DC17 int-\"<i>Seizing power</i>?\" 
+DC17 str-\"My <i>bones</i>?\" 
+DC17 wis-\"...<i>Everything</i> else?\" 
+DC9 dex-\"I am <shake><b>NOT DEAD</b></shake>.\" 
+DC9 str-Save the city? 
+FC10 wis-Okay. But what's the quest again? 
+FC8 int-<i>Ragn?</i> 
+FC8 wis-C. L. Eric? That sounds like <i>Cleric</i>. 
+FC8 wis-\"C.L. Eric.\" 

@@ -1,0 +1,332 @@
+Total extracted: 328
+Already translated: 0
+Missing from translation: 328
+
+  1. '« RIEN QUE LA VÉRITÉ », déclare une voix.'
+  2. '<b>« QUEL EST VOTRE NOM ? »</b>'
+  3. 'Ragn. Ton nom est Ragn.'
+  4. 'Et sur ta déclaration de citoyenneté — Ragn Hemlin.'
+  5. 'Oui, ton nom.'
+  6. "C'est... un de ces noms norvikiens."
+  7. 'Cela commence par un R.'
+  8. "Ragn ? C'est ça ?"
+  9. "Tu n'es pas appelé ainsi très souvent."
+ 10. 'Non, en effet.'
+ 11. 'Ce qui est plutôt embarrassant quand on y pense.'
+ 12. 'Ragn ? Hum. Ça ne sonne pas juste.'
+ 13. '« Ragn. »'
+ 14. '(Garder le silence.)'
+ 15. "Oui. C'est bien ça."
+ 16. 'Cela ne me semble pas juste.'
+ 17. '(Open your mouth and speak.) « Ragn. »'
+ 18. "Non. Personne ne t'appelle par ton nom."
+ 19. "Ouais, ouais. Personne ne t'aime. Bouh-bouh."
+ 20. 'Bien sûr que non. Car tu es <b>LE CLERC</b>.'
+ 21. "S'il te plaît arrête de hurler ça sans cesse."
+ 22. 'Hé ! Respect. Le Heaume.'
+ 23. '...Quoi ?'
+ 24. "On t'appelle souvent « Clerc »."
+ 25. 'En fait, ton vrai nom est Eric.'
+ 26. 'Non, attends.'
+ 27. "C'est <i>C.L.</i> Eric. Ou quelque chose comme ça."
+ 28. '<b>Non</b>. Cesse ce comportement ridicule.'
+ 29. "Ton nom a été demandé. C'est <i>RAGN</i>."
+ 30. 'Attends !'
+ 31. "Ils ne t'appelaient pas « Dick-Ass », autrefois ?"
+ 32. "N'emploie pas un langage aussi vil."
+ 33. 'Donc... mon nom est...'
+ 34. "Oh, attends. Ce n'était pas ça."
+ 35. "C'était « Dick-Ass <i>Roublard</i> »."
+ 36. "Tu sais. À l'époque où tu trafiquais. Dans la rue."
+ 37. "N'aborde pas ce sujet. Bon sang."
+ 38. 'Tu avais genre <i>douze ans</i>.'
+ 39. "C'étaient des temps sombres. Avant que tu ne trouves la lumière d'Urth."
+ 40. 'Ah, oui.'
+ 41. "C'était ça."
+ 42. 'Idiot.'
+ 43. 'Oui. Dis-le.'
+ 44. 'Ça ne sonne pas si bien à voix haute...'
+ 45. 'Tu réponds. Une autre question issue des ténèbres.'
+ 46. 'Attends. C.L. signifie quoi ?'
+ 47. 'Oui... !'
+ 48. 'Bon. Ça pourrait être pire.'
+ 49. "Si ton nom est ce dont on t'appelle, alors c'est ça."
+ 50. 'Hum. Ça pourrait être pire.'
+ 51. 'Tu ne dis rien. Une autre question issue des ténèbres.'
+ 52. 'Factuellement exact.'
+ 53. 'Exact.'
+ 54. 'Bien. Joue les inaccessibles.'
+ 55. '<b>« QUELLE EST VOTRE OCCUPATION ? »</b>'
+ 56. "Comme si ça avait de l'importance."
+ 57. "Qu'est-ce que c'est, un interrogatoire ?"
+ 58. 'Tu es mort.'
+ 59. 'Mort ? Comment peux-tu être <i>mort</i> ?'
+ 60. "Tu penses, n'est-ce pas ?"
+ 61. 'Mort ne signifie pas <b>parti</b>.'
+ 62. '...Tu te prends pour un putain de poète ?'
+ 63. 'Tu visais Patriarche. Plus réalistement, tu aurais fini Envoyeur.'
+ 64. '(Regarder autour.)'
+ 65. "Qu'est-ce qu'une « occupation » dans ce contexte ?"
+ 66. "C'est plus que des ténèbres. C'est le néant. Tout autour de toi."
+ 67. "Tes sens s'étendent dans le vide. Une lueur, suspendue très, très loin."
+ 68. "Un FIL d'EXISTENCE."
+ 69. "La politique des Tours n'aurait guère permis autre chose, n'est-ce pas ?"
+ 70. "Peu le font. Si tu peux l'embrasser, fais-le."
+ 71. 'Le travail. Être payé pour son labeur.'
+ 72. "C'est certainement à propos de ton métier."
+ 73. 'Tu sais. LE boulot.'
+ 74. "N'avais-tu pas un boulot ? Quelque chose de vraiment important..."
+ 75. 'Ta <b>classe</b>.'
+ 76. 'Dis à la voix quelle est ta <b>classe</b>.'
+ 77. 'Classe inférieure.'
+ 78. 'Classe supérieure.'
+ 79. 'Tu es un grand lanceur de sorts qui régnera un jour sur le monde.'
+ 80. "Occupation ? Hah ! Se tenir à jamais aux portes du chaos, maintenir la ligne contre toutes les choses immondes n'est pas un simple métier. C'est une vocation ! Un destin !"
+ 81. "Aucune réponse n'est vraiment bonne ici."
+ 82. 'Va avec ce qui fonctionne sur le moment.'
+ 83. "Ta classe c'est ce qui te tient à l'écart de la société, en général."
+ 84. 'Tu es un clerc de cité. Rien de plus.'
+ 85. 'Tu es une canaille de la haute. Le meilleur des meilleurs.'
+ 86. 'Et lamentable... en TOUT.'
+ 87. '« Je suis lamentable en tout. »'
+ 88. "Que les dieux soient damnés, c'est vrai."
+ 89. 'Ta véritable vocation.'
+ 90. "<b>En effet.</b> Ton voyage t'a mené loin. Enfin tu es devenu l'unique..."
+ 91. 'Le fort et inébranlable...'
+ 92. 'Le... le...'
+ 93. '« Je suis <b>Le Clerc.</b> »'
+ 94. '<b>OUI.</b>'
+ 95. 'Embarrassant.'
+ 96. "D'accord."
+ 97. 'Et fringant, qui plus est.'
+ 98. 'Brutal, mais vrai.'
+ 99. "Ne dis pas cela à voix haute. Se rabaisser n'est pas un bon moyen de se faire aimer."
+100. 'Sauf à être <i>très</i> habile dans la manœuvre.'
+101. "C'est le cas. Et la paie sera bonne."
+102. "Bien trop important. Tu n'en sortiras pas vivant."
+103. "Honnêtement, vu que tu ignores à qui tu as affaire, je suis d'accord."
+104. 'Il est sans doute sage de se taire.'
+105. "Un long moment s'écoule avant que la question suivante ne soit posée."
+106. '<b>« QUEL EST VOTRE OBJECTIF ACTUEL ? »</b>'
+107. 'Objectif ? Sortir de ce sombre puits serait déjà bien.'
+108. 'Il nous faut découvrir qui a fait sauter le salon de thé.'
+109. 'Et surtout, dans quel dessein néfaste.'
+110. 'Tu es un héros. Par décret divin, toi seul peux sauver le monde.'
+111. 'Avec ton don tu peux aisément prendre le contrôle un jour.'
+112. 'La chef gobeline. Elle a besoin de toi.'
+113. 'Pourquoi toutes ces questions ?'
+114. "« Trouver la chef gobeline ? C'est ça ? »"
+115. 'Le contrôle de tout.'
+116. "C'est ce pour quoi tu as été fait."
+117. 'Malheureusement, oui.'
+118. "Ce n'est pas bien. J'aime les salons de thé."
+119. 'Tant mieux. Je déteste les salons de thé. On devrait les bannir.'
+120. "Je n'ai aucune opinion forte sur les salons de thé. En fait, je n'y pense jamais."
+121. 'Ils sont charmants, oui.'
+122. "Rien qu'un repaire de criminels."
+123. 'Ne te mens pas à toi-même.'
+124. 'Tu pourras méditer davantage sur les salons de thé une autre fois.'
+125. 'Une question attend réponse. Ton objectif est...'
+126. 'Aucune idée. Mais continue à les faire parler.'
+127. 'Le silence dure ici depuis bien trop longtemps.'
+128. 'Ce gars veut quelque chose. Aucune idée de quoi cependant.'
+129. 'Tu devrais sans doute mentir. Dis-lui que tu collectes des impôts ou quelque chose. Ce serait amusant.'
+130. 'Ouais. Ça devrait les effrayer.'
+131. 'Continue à chercher une issue... !'
+132. 'Ils comptent sur toi. Tiens bon.'
+133. "Ce n'est que justice."
+134. "Tu sais que c'est vrai."
+135. 'Ouais, non. Dévoiler ainsi tes aspirations personnelles pourrait se retourner contre toi.'
+136. "Garder le silence fait tomber un silence profond sur les ténèbres. Jusqu'à ce qu'il soit rompu par la question suivante."
+137. 'Pas de réponse. Aucun retour.'
+138. 'Puis la voix demande : <b>« QUELLE EST VOTRE AFFILIATION POLITIQUE ? »</b>'
+139. 'La question frappe ta conscience entière, la faisant vaciller.'
+140. "C'est un piège. Forcément."
+141. 'Le Parti National de Norvik, bien sûr !'
+142. "La théocratie est une farce. Ne t'abaisse pas à ce point."
+143. 'Si tu te soucies de ton prochain — vote pour les Azgalistes.'
+144. "Pas question. Ces nains veulent tout te prendre. Ce qui n'est pas grand-chose, mais quand même."
+145. "C'est les... Azgalistes. Oui, ils sont corrects. Peut-être."
+146. "C'est le devoir des puissants de diriger. C'est toi. Personne d'autre."
+147. 'Ne sois pas si nombriliste. Tu es une créature sociale, définie par ce que tu donnes.'
+148. 'Nous avons dépassé les limites des dictateurs. Nous sommes libres de faire nos choix, grâce aux Franc-Marcheurs Révolutionnaires !'
+149. '<i>Les Franc-Marcheurs</i>, peut-être ?'
+150. "Cela dit, tu n'es pas un révolutionnaire. Les choses vont bien trop vite de nos jours..."
+151. 'Les élections. Sont.'
+152. '...<shake>Épuisantes</shake>.'
+153. '...<shake>Ridicules</shake>.'
+154. 'Cela se cache au fond de ton crâne : un fait. Tu es <i>destiné</i> à être Nationaliste.'
+155. "Et cela t'effraie. La <i>pression</i>..."
+156. '« Les Nationalistes. »'
+157. '« Les Azgalistes. »'
+158. '« Les Franc-Marcheurs. »'
+159. 'Je ne connais aucun de ces mots.'
+160. '« En fait, je suis apolitique. »'
+161. 'Bien. Ensemble nous garderons Norvik en sûreté. Pour Urth et Torna !'
+162. 'Tu te conformes. Tu suis le mouvement.'
+163. 'Ne sois pas un clou dans un monde de marteaux.'
+164. "La vie est une lutte pour alléger l'oppression. Les exilés le savent bien."
+165. 'Tu les as soutenus par le passé. Le moment est venu de le refaire.'
+166. 'La dernière fois que tu les as soutenus, ta vie a pris un tournant drastique.'
+167. '...Cela se reproduira-t-il ?'
+168. 'Paix, prospérité et fraternité. Nous allons être RICHES !'
+169. "Ça déraille. Autant s'accrocher."
+170. "Ne t'en fais pas, cela n'a pas d'importance. Dis simplement ce qui te sera le plus utile."
+171. 'Ce qui est, euh...'
+172. 'Dis simplement que tu es apolitique.'
+173. "Et je crois que tu sais exactement ce que c'est..."
+174. "Jadis, notre valeur se fondait sur le savoir et l'aptitude. Cela reviendra."
+175. 'Tristesse. <shake>Douleur</shake>.'
+176. 'Toute la TERRE dans nos VEINES jaillira sur le monde. Sans contrainte. Car tes tripes te disent une vérité simple...'
+177. 'Ta place est dans une <b>FERME</b>.'
+178. "Perfection. Personne ne peut t'en vouloir. Et tout le monde t'aimera."
+179. "Le silence est d'or. En politique, du moins."
+180. "La voix s'estompe. C'est la fin. La dernière question."
+181. '<b>« COMMENT ÊTES-VOUS MORT ? »</b>'
+182. 'En suivant tes convictions.'
+183. 'Noyé. Dans la rivière.'
+184. "De la même manière que tu as vécu. Incapable de quitter l'uniforme. Pas une seconde."
+185. "C'est ta chance. Libère-toi !"
+186. "« Je suis tombé dans la divinité. Elle m'a englouti tout entier. »"
+187. '« Je... suis mort quand <b>il</b> est mort. »'
+188. "(Garder le silence jusqu'à la fin des ténèbres.)"
+189. 'Un nouveau départ.'
+190. '(Se relever.)'
+191. 'Ton cœur bat fort. Hurlant.'
+192. 'Ton corps est endolori. Raide, comme si tu avais dormi des jours.'
+193. "Ne dors pas dans l'armure, abruti."
+194. 'Un vrai homme le fait toujours.'
+195. 'Prêt à reprendre <b>ta glorieuse quête</b>.'
+196. 'Prêt à reprendre <b>la quête</b>.'
+197. '(Regarder autour de toi.)'
+198. '(Vérifier tes affaires.)'
+199. "M-Attends, c'est quoi cette histoire de quête ?"
+200. 'Une salle circulaire de pierre. Un entrepôt à pommes et cadavres.'
+201. 'Une maison des morts. Ton foyer.'
+202. 'Ces tas de pommes... est-ce Tolstad ?'
+203. 'Je vois. Des pommes et des cadavres.'
+204. "...Casse-toi d'ici. Maintenant."
+205. 'Quelles affaires ?'
+206. "Tes mains s'agitent sur ta bourse et ton uniforme."
+207. 'Panique. Sueur.'
+208. 'Tu prends une grande inspiration. Du calme.'
+209. "Pas de grimoire, pas de masse... admets-le, tu t'es fait voler."
+210. 'Tes jambes tremblent. Des larmes commencent à monter.'
+211. 'Respire profondément. Tes affaires sont sûrement là quelque part.'
+212. 'Ah oui, une <b>QUÊTE</b> !'
+213. 'Tu es en quête de <b>sauver</b> la <b>cité</b>.'
+214. 'Interagis avec les mots surlignés pour obtenir une entrée du glossaire.'
+215. '<i>Bénie soit Urth</i>.'
+216. 'Est-ce que je... me souviens de tout ?'
+217. 'Oui ! Sauve-la des mâchoires de la démocratie.'
+218. 'Oui. Tout est <i>de travers</i>, mais ta mémoire est intacte.'
+219. "Euh. Pas sûr. Tu aurais une sorte d'amnésie ?"
+220. '<b>Non.</b>'
+221. 'Souviens-toi simplement. Tes pensées sont éparses.'
+222. 'Mais ta mémoire est intacte.'
+223. 'Tes pensées sont éparses.'
+224. 'Mais ton esprit va bien.'
+225. "Ta quête t'a été donnée hier. Souviens-toi. <i>Le salon de thé</i>."
+226. 'Tu as un boulot. Le boulot du salon de thé.'
+227. '...Boulot du salon de thé ?'
+228. 'Oui. Le Salon de Thé qui a Explosé.'
+229. 'Boulot facile. Tu en auras fini en un jour ou deux.'
+230. 'Ce sera coriace. Ça prendra peut-être des jours.'
+231. 'Une chance de RÉDEMPTION.'
+232. "Juste un boulot ? Ah. Je l'ai donc déjà fait."
+233. "Une quête ? J'aime ça."
+234. 'Attends, combien de temps me reste-t-il ?'
+235. 'M-Donc, pour être clair, je dois découvrir qui a fait sauter un quelconque salon de thé ?'
+236. 'Insubordination.'
+237. 'Inconstance.'
+238. 'Apostasie légère.'
+239. 'Les mots vivent au cœur de ta moelle.'
+240. 'Enfin. Peut-être pas <i>ce type particulier</i> de boulot.'
+241. "Tu... n'as pas <i>vraiment</i>."
+242. "Ton expérience passée se limite à un service de base dans la milice de la Garde-d'Urth, ainsi qu'à quelques années aux Tours."
+243. "La sorcellerie rebelle n'était pas ta matière principale. Mais oui. Tu as beaucoup lu sur ce genre d'événements enflammés."
+244. 'Ils ne sont pas si courants ces temps-ci. Toutefois, cet incident ne semble pas trop complexe.'
+245. "Bonne attitude. Il y en a toujours d'autres au coin, ouvre l'œil. Tu n'en raterais pas un seul."
+246. "Ils sont dangereux. Tu pourrais ne pas t'en sortir."
+247. "Jusqu'à l'élection, évidemment."
+248. 'Soit dans <b>cinq jours</b>.'
+249. 'Soit dans <b>six jours</b>.'
+250. "Non, ce n'est pas ça. Bon sang. C'est dans CINQ jours."
+251. 'Cela dépend de tes définitions.'
+252. 'Définitions de quoi ?'
+253. '<i>LE TEMPS</i> ?'
+254. "Le Patriarche a été très clair : régler le salon de thé avant le jour de l'élection."
+255. 'Tu dois honorer cette requête — et accomplir cette QUÊTE.'
+256. "Le temps n'avance que lorsque tu fais de nouveaux choix dans les dialogues."
+257. 'Plus ou moins.'
+258. 'Mais tu as genre cinq jours pour le faire. Pas de stress.'
+259. 'Il y a aussi de la politique de merde là-dedans. Tu vas adorer.'
+260. "C'est toi qu'ils ont envoyé. Mets-toi au boulot, <b>héros</b>."
+261. 'Cette sensation revient.'
+262. "Cette sensation d'entrer sur une voie sans retour."
+263. "Puis-je y réfléchir d'abord ?"
+264. 'Oui. Terminons ce boulot.'
+265. "Bien ou mal. Tu ne le sauras qu'arrivé au bout."
+266. "C'est de très mauvais augure. Je-"
+267. 'Je peux pas juste ne pas aller sur la-'
+268. 'Le destin me guidera vers un-'
+269. '<b>Oui.</b> Il est temps de tout livrer à cette merveilleuse cité.'
+270. 'Ton devoir est venu. Donne tout à Norvik.'
+271. 'Tout ? Je ne crois pas-'
+272. 'En quoi cela fait de moi un-'
+273. "Je porterai ce fardeau jusqu'à-"
+274. 'Le temps. Est. Compté.'
+275. "C'est juste beaucoup à-"
+276. 'Bien dit ! Tu vas gérer. Maintenant en route.'
+277. "D'accord. Mais d'abord je-"
+278. 'Tu te sens étourdi.'
+279. "Le poids de l'uniforme de la Garde-d'Urth. Une douleur sourde s'installe."
+280. 'Tu as besoin de <shake>SOINS</shake>.'
+281. 'Ton corps souffre. Son contenu pourrit.'
+282. 'Tu dois manger une pomme. MAINTENANT.'
+283. 'Il y a beaucoup de pommes ici. Et des cadavres.'
+284. "<i>DES CADAVRES ?</i> Quel diable d'endroit est-ce ?"
+285. "Ton esprit trace un sentier d'une croix à l'autre. Tu ignores pourquoi tu te tiens parmi ces pommes. Mais tu sais <i>tout le reste</i> qui est allé de travers dans ta vie."
+286. 'Tu dois sortir de cette tranchée. Avec bonté et un amour toujours plus éclatant pour le <i>peuple</i>.'
+287. 'Ton crâne est brisé — son contenu <i>intact</i>.'
+288. "Reviens du bord du gouffre. Trouve le réconfort sur la voie et sauve le paladin de sa folie. La chair t'en remerciera."
+289. 'Ne te soucie pas de la douleur. Ne te soucie pas de la faim.'
+290. 'La CITÉ a besoin de toi. Elle a besoin de tes os, réduits en <i>pûlver</i> sur le pavé.'
+291. 'Fais cela, et ton <i>unique prière</i> sera exaucée.'
+292. 'Tu as été en déroute bien trop longtemps.'
+293. 'Achève cette tâche avec précision et résolution, regagne ta position aux Tours, puis retourne à ta vraie mission.'
+294. 'Saisir le <i>vrai pouvoir</i> dans cette cité maudite.'
+295. 'Tu dois vraiment trouver un autre boulot. Sérieusement.'
+296. "Une fois que nous aurons rejoint les Cités Libres, tu devrais songer à tirer parti de tes talents — deviens indépendant ! Ou l'un de ces <i>agents corporatifs</i> bien payés ! Tu as déjà tâté de la propagande, ça n'a pas marché, alors..."
+297. "Vas-y mollo. Tu as peut-être échoué à te faire aimer des deux ou trois cents premières personnes. Mais il te reste un demi-million d'autres âmes à berner dans cette cité !"
+298. "C'est avec une absolue certitude que <i>tu sais</i> : un jour, quelqu'un finira par t'aimer."
+299. 'Si tes stats sont assez hautes ou basses, des <b>Tintements</b> apparaîtront dans ton esprit.'
+300. 'Ils suggéreront, informeront, et offriront des voies uniques. Fais-leur confiance à tes risques et périls.'
+301. '« Je suis vraiment confus. »'
+302. '« Mmh-mmh. » (Se masser les tempes.)'
+303. "E-D'accord. Merci, voix dans ma tête."
+304. "Ouais... ce n'était pas une grande idée de suivre les traces de ta mère."
+305. "Ce sera une longue route, que tu emprunteras inévitablement. Pour surpasser les Arcanistes d'antan et devenir Roi-Dieu-Mage."
+306. "Une monnaie de pacotille en temps troubles. Mais tu es prêt à les sacrifier tous — comme Urth l'enseigne."
+307. "C'est beaucoup. Ne te laisse pas briser l'esprit."
+308. "Un monde de rédemption attend à la fin. Tu n'as qu'à conserver exactement ce qui fait de toi quelqu'un de vraiment, et inimaginablement, <i>bon</i>."
+309. 'Ton <i>estomac</i> appelle le vide.'
+310. "<i>Ne prends pas l'Épée Langue de Feu</i>."
+311. 'Bon.'
+312. 'Visons « tenir debout » pour le moment.'
+313. "C'est généralement le cas."
+314. "Ton esprit est d'une puissance impie."
+315. 'Reprends-toi.'
+316. 'Va simplement au boulot. Tu sais... fais le job.'
+317. 'Une étape à la fois.'
+318. 'E-En route.'
+319. 'Ce faisant, tes doigts touchent un acier froid. Il couvre toute ta tête.'
+320. 'Familièrement appelé un « casque ».'
+321. "Puis-je l'enlever ?"
+322. "E-D'accord. Merci."
+323. '<b>NON !</b>'
+324. 'Je ne ferais pas ça.'
+325. "Comme s'arracher le visage."
+326. 'Pas une bonne idée.'
+327. '<b>Pas encore</b>.'
+328. 'Hâte de voir ça quand tu le feras.'

@@ -92,6 +92,20 @@ LISEZ_MOI = """=================================================================
   - Et plus...
 
 ================================================================================
+  MANETTE : BOUTON PAUSE QUI RÉAGIT EN DOUBLE
+================================================================================
+
+  Si, à la manette, le bouton pause (ou "Retour" dans les menus) s'ouvre
+  et se ferme aussitôt (double-appui), c'est un conflit avec STEAM INPUT,
+  pas avec le patch. Solution :
+
+    Steam > Bibliothèque > Esoteric Ebb > Clic droit > Propriétés >
+    Manette > "Désactiver l'entrée Steam"
+
+  La navigation manette redevient normale. La pause au clavier (Échap)
+  fonctionne dans tous les cas.
+
+================================================================================
   LIMITATIONS CONNUES
 ================================================================================
 
@@ -101,6 +115,7 @@ LISEZ_MOI = """=================================================================
   - Noms de sorts dans le Grimoire (Cure Wounds, Mage Hand, etc.)
   - Sections "DIALOGS / VISUALS / AUDIO" du menu Options
   - "Lower Lair" et autres noms de scènes
+  - Noms d'objets et de la monnaie dans l'inventaire (servent de clés internes)
 
   Ces limitations seront contournées dans une future version si possible.
 

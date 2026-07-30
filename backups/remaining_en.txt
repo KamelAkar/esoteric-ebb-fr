@@ -1,0 +1,160 @@
+Classification:
+  fr: 70032
+  en: 354
+  mixed: 592
+  other: 3686
+  empty: 0
+
+=== EN-only examples (first 100 of 354) ===
+AR_Mephits_183	"Ah-hah ! <shake>Pris</shake> !"
+AR_Viira_469	OH... !
+AR_Viira_700	Ah, cool.
+AR_Viira_1296	(Blurt out.) "A date! A date!"
+AR_Viira_Ivcx_127	"Since he is not interested, we shall not be in contact."
+AR_Viira_Ivcx_156	Oh-oh.
+AR_Viira_Ivcx_309	Oh ouais.
+AR_Viira_Ivcx_375	"A reward, eh?" (Attempt to flirt.)
+CB_Apartment_313	Oh.
+CB_Apartment_326	Oh dieux... !
+CB_BagofHolding_184	Oh. D'accord.
+CB_Bondavol_18	Oh. Qu'est-ce que cette... sensation ?
+CB_Bondavol_385	So l-
+CB_Bondavol_490	Oh.
+CB_CraniumAnt_36	AH, MERDE !
+CB_CraniumAnt_93	"Attends. Someone's in my head."
+CB_CraniumAnt_134	...Oh !
+CB_CraniumAnt_137	Oh ! Eh bien...
+CB_CraniumAnt_156	Oh. Super !
+CB_CraniumAnt_200	Oh. J'en ai entendu parler.
+CB_CraniumAnt_314	we... do not know.
+CB_Dancer_25	(Take a deep breath, then whisper.) "<i>Pussy up, motherfucker</i>."
+CB_Dancer_34	Oh-oh.
+CB_Dancer_44	OH DIEUX !
+CB_GelCube_131	"Not... yet..." (Pant.)
+CB_GelCubeSpot_35	Oh.
+CB_GelCubeSpot_63	Eh bien alors. (Leave? Maybe?)
+CB_HallwaySolution_254	Oh dieux, oh dieux, oh dieux.
+CB_HallwaySolution_821	Especially go-
+CB_Kraaid_70	Oh dieux. Aussi longtemps ?
+CB_Kraaid_732	Oh-oh.
+CB_Kraaid_904	Oh.
+CB_LivingLibrary_12	Ah.
+CB_LivingLibrary_400	Oh. Vraiment ?
+CB_LordPuu_161	Oh-oh.
+CB_MimicChest_134	OH, allons...
+CB_Moongore_234	Oh... oh...
+CB_Moongore_555	"I yield! I take it back!" (Abandonner.)
+CB_Moongore_558	"I refuse...!" (Tiens bon.)
+CB_Moongore_559	"I...! I..." (Prepare to get hit again.)
+CB_Moongore_683	Oh-oh.
+CB_Moongore_746	"Do it then. Break them." (Stare her down.)
+CB_NotMimic_436	Oh !
+CB_Paper_19	'<i>Ossa eius captiva in illis arcanis aulis tenentur, praesentia spurcae ducis goblinorum stabilita.</i>'
+CB_Questions_113	Snell a l'air confiant.
+CB_Questions_146	Oh.
+CB_RootsArt_116	"She?"
+CB_Roper_3	Ah. AH ! AHH !
+CB_Roper_98	Oh dieux. OH dieux. OH DIEUX.
+CB_Roper_287	Oh... !
+CB_Roper_373	Oh... !
+CB_Roper_463	Oh... !
+CB_RunTorch_137	Ah. Cela explique tout.
+CB_Skeleton_10	OH. MERDE.
+CB_Skeleton_77	Oh-oh.
+CB_Skeleton_100	Oh. Par Urth.
+CB_Skeleton_175	Oh dieux. I almost died.
+CB_Whitemane_143	OH DIEUX !
+CB_Whitemane_148	Oh.
+CB_Whitemane_150	Oh.
+CB_WhitemaneCalendar_15	Oh.
+CB_WhitemaneLift_48	"I am a MAN." (Leave while speaking aloud to no one.)
+Default_PillarofJor_233	Oh.
+Default_PillarofJor_619	OH. OH SEIGNEUR.
+Default_TestingPot_1	Hello, I'm the panning pot!
+Default_TestingPot_3	okay!
+Default_TestingPot_5	OKAY!
+Default_TestingPot_6	Take crown test.
+Default_TestingPot_7	Okay Cleric!
+Default_TestingPot_8	Here are some crowns!
+Default_TestingPot_9	Did it work?
+DIALOGTEST_1	What do you want to test?
+DIALOGTEST_6	Okay. Here are all the different choice visuals.
+DIALOGTEST_15	So. Let's jump with some variables.
+DIALOGTEST_16	Let's start with the variable: GonnaJump.
+DIALOGTEST_17	It is now set to 1. The next line should just be a continue button away.
+DIALOGTEST_18	Then let's do: SecondJump.
+DIALOGTEST_19	It is now set to 1 as well!
+DIALOGTEST_20	The next line should be smooth.
+DIALOGTEST_21	This is gonnajump==0. Hello!
+DIALOGTEST_22	This is gonnajump==1.
+DIALOGTEST_23	This should have been smooth!
+DIALOGTEST_29	Hello, this is a first DC message.
+DIALOGTEST_30	If the last STR message was successful, this shows.
+DIALOGTEST_31	Same here, but for the DEX message.
+DIALOGTEST_33	Push the limit!
+DIALOGTEST_36	Push the limit!With variables!
+DIALOGTEST_39	Push the limit!With ADAVNTAGE!
+DIALOGTEST_42	Push the limit!With DISADAVNTAGE!
+DIALOGTEST_55	Hello, get ideas.
+DIALOGTEST_56	Get idea Milkurious.
+DIALOGTEST_57	Get idea The Tea Shop that Blew Up.
+DIALOGTEST_58	Okay!
+DIALOGTEST_59	This is all very confusing.
+DIALOGTEST_60	Tea shop?
+DIALOGTEST_61	They've sprung up around the city over the last decade. A powder-keg of activism and extremism.
+DIALOGTEST_62	You used to visit such places often before you joined the Urthguard.
+DIALOGTEST_63	The smell of freshly parched leaves. The chatter of youth. The exciting exchange of ideas. NEW ideas.
+DIALOGTEST_64	A place of chaos and disruption.
+DIALOGTEST_65	Fucking tea shops. They should all burn down.
+
+=== Mixed examples (first 50 of 592) ===
+AR_HiddenFreestriderSafe_322	« De toute façon, on a des choses plus importantes en tête. »
+AR_Kattegatt_31	(Parler à la lame.) "On peut me faire confiance. Je ne suis pas comme ces autres."
+AR_Kattegatt_100	"Je veux me taire, mais la culpabilité me détruirait."
+AR_Viira_162	« Du genre <i>géant</i>. Quand Alfoz les a vus arriver, il a très vite plié bagage et est parti. »
+AR_Viira_231	« Oh, ah bon ? »
+AR_Viira_403	« Voyez-vous, notre cher Prince Veille-de-Lune est venu nous rendre visite il y a quelques jours. Il a voyagé pour l'élection, oui, mais d'après ce que je comprends, c'était aussi pour explorer les ruines sous la cité. Pour sa... <i>recherche</i>. »
+AR_Viira_425	« On avait aussi un ange en renfort. Ça a aidé. »""
+AR_Viira_434	« Oh, j'imagine. Cela a dû être spectaculaire ! »
+AR_Viira_554	« Mes excuses de ne pas vous l'avoir dit plus tôt, cela a dû me sortir de l'esprit. »
+AR_Viira_638	« Parce qu'il y a des acheteurs. Et là où il y a des acheteurs, le capital arrivera pour les satisfaire. »
+AR_Viira_841	« On nous a dit que les Halfways avaient un témoin direct qui s'est identifié. »
+AR_Viira_1031	« Il en a amené quelques-uns, mais Manius a fini par <i>traîner dans le coin</i>. »
+AR_Viira_1115	Ses yeux s'écarquillent. « Oh. Oh ! »
+CB_Akzel_16	« Regarde Romulus, on a un officiel en visite ! »
+CB_Akzel_29	« Merci. Je l'ai trouvé dans la maison des morts. Visken a eu la gentillesse de me laisser le prendre. »""
+CB_Akzel_126	« Oh. Oh ! »
+CB_Akzel_247	« Alors il y a un ancien peuple-escargot, puis un peuple-chat un peu moins ancien qui a construit des trucs-chats par-dessus les trucs-escargots ? »
+CB_Apartment_331	« Je veux dire... écoute — on ne cherche aucun trésor de dragon. On a des choses à faire. »
+CB_BagofHolding_14	Ce qui est intéressant, c'est que celui qui a laissé ça derrière a très bien pu y stocker un tas de TRUCS chouettes.
+CB_Bondavol_14	Oh-oh. C'était probablement une très, très bête idée.
+CB_Bondavol_68	« Mais on vit ici quand même. Donc on paie les impôts. »
+CB_Bondavol_80	« Ah oui. Un vrai parti gobelin. Le slogan serait <i>Nous Aimons l'Anarchie</i>, et on gagnerait par un raz-de-marée. »
+CB_Bondavol_597	« L'Ère de la Porte a commencé il y a plus de quatre <i>mille</i> ans. Te rends-tu compte du peu de reliques, et a fortiori de créatures, qui existent encore de cette époque ? »
+CB_Bondavol_714	Il ricane. « Ces mégères ont été matées vers la fin. Leur ralliement à la Révolution a été l'un des principaux artisans de la chute de l'empire. Du moins cela me paraît ainsi. »
+CB_Bondavol_750	« Oh ! C'est vrai, je me souviens. Vous autres avez une sorte de démo-cratie en cours. »
+CB_Bondavol_761	« Ah ! Le sens a beaucoup changé au fil des ans ! »
+CB_Bondavol_836	La mystérieuse mort de Thomas Darrow a fait l'objet de bien des écrits dans les magazines il y a environ quinze ans, quand tu étais enfant.
+CB_Bondavol_846	« On me donne des nouvelles parfois, mais je ne sais pas. »
+CB_CraniumAnt_24	On est peut-être minuscules, mais crois-nous, on mord !
+CB_CraniumAnt_116	Mais on est partis ! T'as gagné ! Alors oublions le <shake>passé</shake>. Comme on dit.
+CB_CraniumAnt_121	On a été chassés de la zone il y a un moment, mais... <i>nous</i> m'<i>avons</i> oubliée derrière.
+CB_CraniumAnt_213	Cela dit, j'imagine que c'est... un peu différent quand on a vraiment un esprit individuel sur les choses.
+CB_CryptDoor_13	« Ouais. On a vraiment merdé avec cette politique de non-exploration. »
+CB_DeadGoblin_54	« Il nous a écrasés sous son talon et a appelé cela miséricorde. »
+CB_Ettir_111	« On a besoin d'aide
+CB_HallwaySolution_200	« On — on court ? »
+CB_HallwaySolution_281	On a l'impression d'un instant et d'une éternité à la fois.
+CB_HallwaySolution_298	On a l'impression d'un instant et d'une éternité à la fois.
+CB_HallwaySolution_325	« Oh. Oh merde. »
+CB_HallwaySolution_327	« Oh, que les dieux soient bons — <shake>on est sortis</shake> ! »
+CB_HallwaySolution_388	« Tu sais, je me disais que ce serait facile de me balader avec un clerc ? Tu pourrais juste user de ta magie puissante pour résoudre n'importe quel souci. »
+CB_HallwaySolution_389	« On dirait que je me trompais. Allons-y. »
+CB_HallwaySolution_441	« Entre le jardin et les égouts de Waterlane, je suis sûr à cent pour cent qu'il y avait un couloir incliné rempli de piques glacées. On les avait condamnés du mieux qu'on a pu à l'époque. »
+CB_HallwaySolution_635	« On a de la chance que Moongore l'ait vu. Même si elle l'a laissé passer avec cette magie. »
+CB_HallwaySolution_683	« Tu me parais bien renseigné, Snell. Merci de me guider. »
+CB_HallwaySolution_755	On dirait qu'elle a la même mentalité que la plupart des dictateurs.
+CB_HallwaySolution_767	« Pour le moment, on a des choses plus pressantes à régler. »
+CB_HallwaySolution_856	On leur a donné un nouveau foyer.
+CB_HallwaySolution_857	On les y a forcés.
+CB_HallwaySolution_915	« Et qu'on te disait ensuite d'être <i>reconnaissant</i> d'être en vie, juste parce que le même monstre qui a détruit toute ta culture a aussi décidé de te laisser vivre. Pour quelque raison. »

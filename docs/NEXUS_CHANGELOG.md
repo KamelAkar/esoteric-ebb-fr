@@ -36,7 +36,7 @@ Onglet d'inventaire "Consommables" et libellés divers remis en mots complets.
 Limite connue : les catégories du journal restent en anglais, elles sont codées en dur dans le jeu.
 Limite connue : les noms d'objets et de la monnaie dans l'inventaire restent en anglais, ils servent de clés internes.
 Limite connue : les libellés Back et Cancel restent en anglais, les traduire casse le bouton pause à la manette.
-Bug connu en cours de correction : la pause à la manette réagit mal (double ouverture/fermeture). La pause au clavier fonctionne.
+Manette : si le bouton pause réagit en double (ouverture/fermeture), c'est Steam Input, pas le patch. Solution : Steam, Propriétés du jeu, Manette, Désactiver l'entrée Steam. La pause clavier fonctionne toujours.
 ```
 
 > Note : la v1.3.4 n'a jamais été publiée sur Nexus — son contenu est fusionné dans la v1.3.5 ci-dessus.

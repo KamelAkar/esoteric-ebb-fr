@@ -1,0 +1,64 @@
+Total extracted: 60
+Already translated: 0
+Missing from translation: 60
+
+  1. 'The cloak is sprawled upon the iron slab. As you grab it, you immediately feel the dampness spreading into your gloves.'
+  2. 'Oh...!'
+  3. 'It is light blue and tattered.'
+  4. 'And it was once yours.'
+  5. 'An Urthguard cloak add-on.'
+  6. 'It has been ripped to shreds at the base, but you could still use it.'
+  7. "Please don't. This thing is disgusting."
+  8. 'Interesting style! You could pull it off.'
+  9. '"Ew."'
+ 10. '(Weigh it in your hands.)'
+ 11. '(Wring out the water.)'
+ 12. 'M-Should I... should I wear this?'
+ 13. '"It\'s a ragged piece of... why would it be <i>rude</i>?"'
+ 14. '"It\'s my ragged piece of shit."'
+ 15. '"I\'ll ignore that comment for now."'
+ 16. '"Maybe you\'re right. It might be a little \'ew\'."'
+ 17. '"Right. Well. Enjoy it."'
+ 18. '"You do that."'
+ 19. '"Maybe."'
+ 20. '"<i>Possibly</i>."'
+ 21. 'It is heavy.'
+ 22. 'The filthy liquid falls to the floor of the stony chamber.'
+ 23. 'It smells of salt water.'
+ 24. 'Beware. Someone must have mixed water and salt here.'
+ 25. 'A foul alchemical concoction.'
+ 26. 'It is still quite wet.'
+ 27. 'Like previously mentioned.'
+ 28. 'You <i>could</i> pull this off.'
+ 29. 'Of course you should wear it!'
+ 30. "A hood is the perfect tool for any decent rogue and/or ne'er-do-well."
+ 31. "So what if it's a little damp - you have to wear it!"
+ 32. "A rogue would wear it. That's for sure. So..."
+ 33. "I'll think about it."
+ 34. "I mean, I am a rogue, so... yeah. Let's wear it!"
+ 35. "But I'm not a rogue?"
+ 36. "Sorry. The word 'I am not a rogue' is not in your vocabulary, actually."
+ 37. 'Please rephrase.'
+ 38. "That's not <i>one</i> word, though."
+ 39. 'Oh. Well, then I guess I am a rogue.'
+ 40. "You don't tell me what to do."
+ 41. 'So pedantic.'
+ 42. 'So <i>unrefined</i>.'
+ 43. 'Shut up.'
+ 44. "Hm. That doesn't sound like the kind of thing a good rogue would say."
+ 45. "See, that's what a good rogue would say!"
+ 46. 'You reach for your fancy red <b>Pouch of Holding</b>.'
+ 47. 'The cloak easily slips inside, into the extra-dimensional space. With a satisfying <i>slurp</i>.'
+ 48. 'I really love my Pouch of Holding.'
+ 49. 'Gods, I can fit so many items in this thing.'
+ 50. 'Yes, you are very lucky.'
+ 51. 'These are, like, a million crowns on the market.'
+ 52. 'This kind of magic item can go upwards of ten thousand crowns.'
+ 53. "Of course, you don't truly <i>own</i> this Pouch of Holding."
+ 54. 'It is property of the state. Treat it as such.'
+ 55. "It's not yours, though. It's the city's."
+ 56. "You can't just use it for anything..."
+ 57. "Shut up. It's yours. You can do whatever you want with it!"
+ 58. 'Now go put on your cloak, and <s>rob some people</s> <i>reallocate</i> some resources!'
+ 59. 'Equipping items temporarily alters your Ability Scores.'
+ 60. 'E-Right.'

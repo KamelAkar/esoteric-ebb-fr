@@ -37,7 +37,7 @@
 
 - Les catégories du journal (Politics, Geography, etc.) restent en anglais : elles sont codées en dur dans le binaire du jeu et les traduire casse les scripts.
 - Les noms d'objets et de la monnaie dans l'inventaire restent en anglais : ils servent de clés internes (comptage de l'argent, icônes, sauvegardes).
-- EN COURS : le bouton pause à la manette réagit mal (s'ouvre/se ferme en double) — encore en investigation. La pause au clavier (Échap) fonctionne.
+- Bouton pause manette qui réagit en double (s'ouvre/se ferme) : diagnostiqué — c'est un conflit **Steam Input**, pas le patch (bisect exhaustif : fichiers vanilla vs patchés = même comportement une fois Steam Input coupé ; le log ne montre qu'un seul périphérique, un seul EventSystem). Solution documentée dans le LISEZ_MOI : Steam > Propriétés > Manette > « Désactiver l'entrée Steam ». La pause clavier (Échap) fonctionne dans tous les cas.
 
 ## v1.3.3 — 2026-05-26
 
