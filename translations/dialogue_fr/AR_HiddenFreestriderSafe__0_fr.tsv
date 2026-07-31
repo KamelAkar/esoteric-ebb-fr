@@ -1,0 +1,279 @@
+idx	french
+0	Tu t'approches du miroir, réalisant que Viira te surveille de fort près.
+1	Mais en jetant un rapide coup d'œil, tu vois bien : il y a assurément un coffre caché derrière ce miroir.
+2	Intéressant. Il faudra que je revienne quand Viira ne sera pas dans les parages.
+3	Tu vérifies derrière le miroir. Il y a un coffre dans le mur.
+4	« Prudence, Clerc », te chuchote le gobelin.
+5	« Les Errants sont bien des choses, mais négligents n'en fait pas partie. »
+6	« Meek a un tuyau ! »
+7	(Inspecter le coffre.)
+8	Crocheter le coffre.
+9	Il est temps d'y aller.
+10	« Oui ! Un tuyau ! »
+11	Ton écharpe te tire vers la gauche, te forçant à regarder la cheminée.
+12	« La vilaine fumée regarde. Méfie-toi... »
+13	« J'en suis conscient, Meek, mais merci. »
+14	« Merci de l'avoir signalé, Meek. C'est très utile. »
+15	« Bien ! Bien sûr maître conscient. Maître toujours conscient... »
+16	« Meek content d'aider ! »
+17	Vieille conception. Ère Arcanique.
+18	Mécanisme simple, fonctionnant par l'insertion d'une pièce de fer harmonisée à l'ésotérique.
+19	On dirait qu'il te faut une clé.
+20	Des parois épaisses. Une poignée. Les mots « Orion & Glott » sont martelés sur la plaque frontale.
+21	Ce serait difficile à ouvrir sans les outils adéquats.
+22	Essaie de glisser tes doigts dans ce trou de serrure.
+23	Tu veux crocheter le coffre, non ?
+24	Tu vois une paire d'yeux scintillants qui t'observent.
+25	Tu jettes un regard vers les flammes. Le méphite évite clairement de regarder dans ta direction.
+26	En traçant le pourtour du trou de serrure de tes doigts gantés, tu perçois le pouvoir arcanique aligné à l'ésotérique à l'intérieur.
+27	Ça t'envoie des picotements dans tout le bras.
+28	Tu sors le crochet. T'en servant pour explorer le mécanisme intérieur.
+29	En prenant garde de ne pas déclencher la barrière magique à l'intérieur, tu réalises en explorant que le pourtour interne comporte une zone morte.
+30	Un minuscule interstice que le sort (un enchantement quelconque ?) n'atteint pas.
+31	(Presser contre cet interstice tout en tripotant le mécanisme.)
+32	Tu le fais, et en quelques secondes tu entends un déclic.
+33	Quoi que tu aies fait, ça a marché !
+34	Je suis le plus grand ! Un vrai roublard pour l'ère.
+35	C'était un coup de chance.
+36	(Se contenter de regarder à l'intérieur.)
+37	Assurément.
+38	La chance n'est qu'un autre mot pour l'habileté sans intention.
+39	Tu te penches.
+40	« Mince. Beau boulot. Sérieux. »
+41	Et puisque le méphite est mort, il ne t'arrêtera pas cette fois...
+42	Une force ésotérique te fait frissonner, tandis que tu réalises qu'une voix stridente te siffle dessus dans ton dos.
+43	Tu entends un méphite siffler dans son feu.
+44	« J'vois rien du tout ici, non m'sieur. »
+45	Tu tâtonnes autour de la poignée et du trou.
+46	Allez.
+47	Un doigt ganté peut tout juste tenir à l'intérieur.
+48	Allez, QUOI.
+49	(Essayer la poignée.)
+50	« S'il te plaît, ouvre-toi ? »
+51	(Enfoncer un doigt dans le trou.)
+52	C'est ferme et rigide.
+53	Oh, tu le sais bien, bébé.
+54	Ça ne bougera pas tant que le trou ne sera pas rempli.
+55	Aucune réponse.
+56	Tu sais quoi faire.
+57	Dès que tu le fais, tout ton bras se rétracte d'un coup.
+58	Une immense et écrasante sensation d'effroi te submerge.
+59	Tu es VU.
+60	Par chance, il n'y a nul méphite pour te VOIR cette fois.
+61	J'imagine qu'il va falloir réessayer, plus tard.
+62	Tu entends un méphite ricaner dans son feu.
+63	Tu prononces les mots et agites la main devant le coffre.
+64	Ce faisant, une forte détonation crépitante emplit tes oreilles.
+65	Assez forte pour résonner jusqu'au plafond de la caverne au-dehors.
+66	C'est peut-être bruyant, mais tout le monde s'en fiche probablement.
+67	Le gobelin se tient les oreilles plaquées.
+68	« Tu veux réveiller tout Waterlane ? Bon sang. »
+69	Une bonne chose que le méphite ne soit plus là.
+70	Merde. Tu devrais filer d'ici. Mais d'abord...
+71	Tu entends le méphite jurer tout seul.
+72	« Beaucoup trop fort. Espèce d'idiot. »
+73	« Mais qu'il aille se faire <i>crit</i>. J'ai rien entendu. J'imagine que j'suis sourd. »
+74	Tandis que la porte coulisse en silence, tu vois à l'intérieur une pile de papiers reliés par une lanière de cuir.
+75	(Attraper le registre orange.)
+76	Ce faisant, tu réalises à quel point il est léger.
+77	Est-ce... juste un seul papier ? Deux ?
+78	C'est quoi ce bordel ? Pourquoi garderaient-ils un unique contrat seul dans un coffre ?
+79	Ça doit être croustillant.
+80	Tu parcours le texte en vitesse.
+81	C'est assez facile de comprendre ce que ça signifie.
+82	Le contrat est passé entre la Compagnie Marchande Askanii-Reeds, et la Cité de Norvik.
+83	« Qu'est-ce qui prend autant de temps ? »
+84	De quoi ça parle ?
+85	Ça peut pas attendre ?
+86	« Bon. Fais vite. »
+87	<b>Non</b>.
+88	Le contrat stipule que « À compter du 1er de Beltan, au lendemain de la Bloodnight » (soit quatre jours après l'élection), « les droits fonciers de 15 ports collectifs à travers Norvik seront transférés à... »
+89	Le contrat stipule que « À compter du 1er de Beltan, au lendemain de la Bloodnight » (soit un mois après l'élection), « les droits fonciers de 15 ports collectifs à travers Norvik seront transférés à... »
+90	Un tas de noms de compagnies dont tu n'as jamais entendu parler - puis il y a...
+91	Hein. Les signatures de ces commerces. Ce sont tous des...
+92	<i>Magistrats</i>.
+93	L'une d'elles indique « <i>Nicholas Darrow</i> ».
+94	« Ils font <i>quoi</i> ? »
+95	Il parcourt les pages.
+96	« C'est... dingue. »
+97	Si les gens savaient... ce serait la panique.
+98	<b>L'élection est une IMPOSTURE</b>.
+99	Coup de génie, honnêtement. Ça veut dire que les Errants prendront le contrôle de la cité, quoi qu'il arrive le jour de l'élection.
+100	Et les Magistrats deviendront tous riches !
+101	Oh, ils sont forts.
+102	Maintenant que tu as cette info, tu ferais mieux de filer d'ici. Mais, euh...
+103	« Ces putains d'Errants... »
+104	Devrais-je divulguer ça d'une manière ou d'une autre ?
+105	Bien. Il est temps de filer d'ici.
+106	« J'en ai honnêtement aucune idée. Tout ce que je sais, c'est que... toi et moi ? On n'est PAS censés voir cette merde. »
+107	« Alors ne fais rien de précipité. »
+108	Peut-être.
+109	Oui.
+110	Le peuple doit connaître la vérité.
+111	C'est nuisible pour la cité.
+112	Corruption pure.
+113	Bah.
+114	Tu ne l'arrêteras pas de toute façon.
+115	Tu devrais le rendre, à Viira, plus tard. Dis-lui que tu l'as eu d'un voleur sur Waterlane.
+116	Tu pourrais te faire des amis avec ça.
+117	Et des ennemis. Alors... fais attention à qui tu le montres.
+118	La cité est corrompue. Quelle surprise.
+119	Garde-le, ou partage-le. Assure-toi qu'il ne remonte pas jusqu'à toi dans un cas comme dans l'autre.
+120	La démocratie à ta portée.
+121	Elle suppure.
+122	Elle meurt.
+123	« Hé, <shake>l'ami</shake> ! »
+124	Que les dieux soient <i>foutrement damnés</i>.
+125	« C'est l'heure de te faire <b>fumer</b> ! »
+126	Excellente réplique.
+127	« <i>Bordel</i>. »
+128	Jet d'initiative.
+129	Cette petite merde...!
+130	« Tu t'échappes pas, tu m'entends ? »
+131	« Pour aucune raison morale - c'est juste mon boulot de dégommer les <i>bestioles</i> aux <b>doigts crochus</b> ! »
+132	« Merde. »
+133	Ton compagnon cherche quelque chose du regard, et attrape un tisonnier.
+134	Dans le même mouvement il l'abat vers le petit élémentaire, comme pour écraser une mouche.
+135	Il danse autour de sa première attaque.
+136	« Oh là ! Le gobelin a des dents ! »
+137	« Chope-le ! » t'aboie-t-il en ordre.
+138	C'est le plan, le vert.
+139	Lâchant un rire maniaque, le méphite fond vers ton visage.
+140	La bouffée de fumée brûlante te roussit la peau. Et l'intérieur des narines.
+141	Esquivant de justesse, la bouffée de fumée brûlante heurte le mur.
+142	La chaleur pique encore.
+143	« Tiens-toi tranquille ! J'ai pas le droit de brûler le papier peint. J'ai <b>pas le droit</b> ! »
+144	Une douleur intense s'ensuit.
+145	Maudite soit cette bête. Terrasse-la !
+146	Attention ! La bête est mortelle et elle t'effraie.
+147	Mais un coup de poing décisif serait difficile à placer, vu la façon dont elle voltige.
+148	Attrape-la.
+149	Ça va brûler. Mais ça y mettra un terme.
+150	Ne l'attrape pas.
+151	Ça va causer une douleur intense.
+152	Tu pourrais lui demander gentiment d'arrêter ? Peut-être ?
+153	Il ne fait que suivre le contrat qu'il a signé.
+154	Il pourrait y avoir une faille.
+155	« Allez, je faisais rien de si grave ! »
+156	« Tu peux pas juste recourir à la violence comme ça ! »
+157	Attraper le méphite.
+158	Frapper le méphite du poing.
+159	« Bien sûr. »
+160	« Mais tu vas quand même te faire roussir la peau ! »
+161	« Tu plaisantes ? C'est la meilleure partie du taf ! »
+162	Cette horreur. C'est un monstre qu'il faut détruire.
+163	Un monstre. Tu trembles.
+164	Tu tentes d'avancer, positionnant tes mains autour de la bête fumeuse.
+165	Mais la douleur - la chaleur - est trop forte.
+166	Il rit de toi.
+167	« Idiot ! »
+168	D'un pas décisif, tu avances.
+169	Ta hanche pivotant.
+170	Ton corps entier mettant tout son poids dans une seule frappe.
+171	Et ça <b>touche</b>.
+172	Tu tentes d'avancer d'un coup de poing.
+173	Mais la créature se contente de danser autour de ton bras, ricanant.
+174	« Ga-haha ! T'es vraiment nul ! »
+175	D'un pas décisif, tu avances, ta main canalisant de sombres énergies.
+176	Et elle atteint l'élémentaire abasourdi.
+177	Son petit corps fumeux, désormais empli d'une puissance nécrotique bouillonnante.
+178	L'énergie nécrotique s'écoulant vers la créature - mais elle s'esquive d'une danse.
+179	« Tu me lances des sorts ? Idiot ! »
+180	Elle lâche un autre ricanement agaçant.
+181	« T'es prêt pour des brûlures au quatrième degré ?! »
+182	« Oh non, pas question... »
+183	Il donne un autre coup de tisonnier.
+184	« Gah...! » grogne le monstre de fumée tandis que ton compagnon le frappe de part en part.
+185	Il a eu l'enfoiré !
+186	Beau boulot, Snell !
+187	Maintenant, ça devrait être une cible facile !
+188	« Guh... prends une grande inspiration, connard ! »
+189	Un jet de fumée tourbillonne dans ta direction.
+190	Trop lent. Ça te touche.
+191	La chaleur est terrible.
+192	Un peu plus prêt cette fois - tu esquives !
+193	Tu ressens une demi-seconde de soulagement.
+194	Encore. Tu dois réussir.
+195	Tu ne peux permettre à cette bête de rester matérielle.
+196	Brise-la !
+197	As-tu une chance ?
+198	Saisis-la. Saisis-la !
+199	Attraper le méphite.
+200	Frapper le méphite du poing.
+201	« C'est embarrassant~ ! »
+202	« Maintenant crève, tu veux ? »
+203	Ton compagnon prend une rapide inspiration avant de plonger.
+204	D'un coup vif, le tisonnier transperce le corps de l'élémentaire.
+205	« Je te tiens ! »
+206	« Quo- non...! »
+207	Dans un cri strident, la bête élémentaire se dissipe autour de la tige de fer. Se muant en... juste de la fumée.
+208	L'élémentaire fonce vers toi, et se glisse dans les fentes de ton heaume, et de ta cotte de mailles.
+209	La chaleur qu'il apporte est insoutenable.
+210	C'est ta mort.
+211	Attraper le méphite.
+212	Frapper le méphite du poing.
+213	Alors que tu retires ton poing, ce qui reste dans la fumée est...
+214	Rien.
+215	« Tu as réussi. »
+216	Il a l'air stupéfait.
+217	« J'ai... réussi. »
+218	D'un mouvement décisif, tu te positionnes devant la créature.
+219	Et te refermes sur elle.
+220	« C'est quoi ce <i>crit</i> ? »
+221	Tes mains brûlent.
+222	« Lâche-moi...! »
+223	(L'écraser plus fort.)
+224	« Guh...! »
+225	À travers les gants - ta peau : roussie.
+226	« Super, garde-le comme ça ! »
+227	(L'écraser. Une dernière fois.)
+228	« Non, non, nooon...! »
+229	L'élémentaire lâche un cri final tandis que tu exerces une pression incroyable tout autour de lui.
+230	Et d'une ultime pression...
+231	Il n'est plus.
+232	« Ouf. On l'a échappé belle. »
+233	Il lâche le tisonnier et s'adosse au mur, toussant.
+234	« Ça va ? »
+235	« Jamais été mieux. »
+236	« Belle frappe. »
+237	« J'avais pas besoin de ton aide. »
+238	« Bien. Alors filons d'ici. »
+239	« Pour sûr. La première fois que je fais disparaître un élémentaire. Dingue. »
+240	« Permets-moi d'être en désaccord. »
+241	« Crève ! »
+242	« <b>Clerc</b> ! »
+243	Ton corps flanche.
+244	Tu es... seul.
+245	Survivre au feu.
+246	Tu tiens bon.
+247	La DOULEUR.
+248	La SOUFFRANCE de cette PURE FLAMME ravageant toute la surface de ta PEAU.
+249	Ceci est...
+250	Ce n'est RIEN.
+251	RIEN.
+252	RIEN COMPARÉ À LA DOULEUR QUE TU AS RESSENTIE.
+253	(S'étreindre soi-même.)
+254	« <i>C'est - quoi - ce - bordel</i> ?! »
+255	(Presser plus fort.)
+256	« AAA - AHHH...! »
+257	La brûlure. La DOULEUR.
+258	En quelques secondes, toute la surface de ta PEAU est brûlée jusqu'à l'os.
+259	Là où la créature flottait il y a un instant, tu vois une faible, minuscule boule d'énergie.
+260	Pas une âme. Une <i>parcelle</i>.
+261	Et elle disparaît dans le néant.
+262	Mais elle a vite disparu de la vue.
+263	« Je crois pas que les élémentaires fonctionnent comme ça. »
+264	Exact.
+265	« C'est ça. Il va juste réapparaître dans le plan élémentaire. Et un élémentaire aussi mineur a peu de chances d'être ramené ici avec sa mémoire intacte. »
+266	« Espérons-le. » (Hausser les épaules.)
+267	« Oh. Tant mieux. »
+268	« Hm. Ouais. »
+269	« Quoi qu'il en soit, on a des choses plus importantes sur lesquelles nous concentrer. »
+270	Qui sait ?
+271	Non. Les élémentaires détruits ne feront que se transférer vers les plans élémentaires.
+272	Alors il pourrait revenir. Mais c'est peu probable. La chance qu'il témoigne contre toi est extrêmement minime, de par sa nature mineure.
+273	Il existe tout un art de la magie élémentaire dont tu n'as pas grande connaissance. Peut-être qu'à l'avenir tu l'auras.
+274	(Se retourner vers le coffre.)
+275	Il est toujours là. Aussi déverrouillé qu'il y a un instant.
+276	Il se tient là, prêt pour toi.
+277	Il est toujours là- tout aussi magiquement forcé qu'avant.

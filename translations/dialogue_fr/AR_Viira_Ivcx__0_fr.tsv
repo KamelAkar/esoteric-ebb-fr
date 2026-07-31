@@ -1,0 +1,456 @@
+idx	french
+0	Entrer dans la Compagnie Marchande AR t'accueille d'une vision aveuglante.
+1	Un être céleste, forgé dans une lumière radieuse.
+2	« Ah, Clerc. Vous arrivez exactement quand j'ai besoin de vous. »
+3	« Voici l'ambassadeur de la Horde Dorée. »
+4	La lumière se tend vers toi, tandis qu'une voix se forme dans ton esprit.
+5	« Ne crains point la lumière. »
+6	« La nôtre ne désaligne pas. Tu es en sécurité. »
+7	Tes jambes se muent en gelée.
+8	Ton estomac hurle.
+9	Toute cette histoire de <i>ne crains point</i> est plutôt contre-productive, en vérité.
+10	Fais les salutations comme il se doit. Le titre, et incline la tête.
+11	« Salutations, céleste. »
+12	« Ambassadeur. » (Incliner la tête.)
+13	« Oh, que les dieux me sauvent. »
+14	« Clerc. »
+15	« Crois-moi. C'est ce que nous souhaitons. »
+16	La lumière ondoie.
+17	Snell se tient derrière toi, visiblement mal à l'aise.
+18	« <i>Prudence, Clerc.</i> »
+19	À côté de la lumière se tient une femme drapée de rouge.
+20	La lumière se tend vers elle.
+21	Elle lui incline la tête.
+22	« Oui, Ambassadeur. »
+23	Elle se dirige vers la porte- mais en chemin elle te jette un regard sévère.
+24	« Encore vous. »
+25	« Tenez-vous à carreau, Clerc. Car la Lumière vous observe. »
+26	Une fois la servante de l'ambassadeur partie, Viira lève le menton, plissant les yeux. « Bon. Nous discutions de quelques nouveaux projets sur Waterlane. »
+27	« J'ai mentionné comment vous avez aidé à distribuer les AEFA aux entrepreneurs locaux. Et ils- »
+28	« Nous savons qui vous êtes. »
+29	« Nous savons qui vous êtes. Ragn et Snell. »
+30	La voix interrompt Viira, qui se tait aussitôt.
+31	Le gobelin sursaute à la mention de son nom dans son esprit.
+32	Il n'ose pas regarder la lumière.
+33	« C'est effrayant. »
+34	« Bien sûr que oui. Je suis quelqu'un d'important. »
+35	« ...D'accord. »
+36	« Ne t'inquiète pas. L'ambassadeur le dit gentiment. »
+37	L'Agente Viira ricane pour elle-même.
+38	La lumière de l'ambassadeur se tourne alors vers ton compagnon.
+39	« Un gobelin au service du Dragon de Tolstad. »
+40	« Euh. »
+41	« Tu foules un chemin sans tache. Tu as mené le front durant l'opération d'Icebay Point. »
+42	« Tu as stabilisé le projet d'expansion de la Cité d'En Bas du HWBT dès ta première année de service. »
+43	« Un gobelin allant à contre-courant pour obtenir des résultats. »
+44	« Tu as été remarqué. »
+45	(Regarder Snell.)
+46	« <shake>Euh</shake>. »
+47	Snell tente de foudroyer la lumière du regard.
+48	Il transpire.
+49	Snell est nerveux. Tu te sens mal pour lui.
+50	Tiens tête à la lumière, gobelin.
+51	Ne fléchis pas.
+52	« Merci de... l'avoir remarqué. »
+53	La lumière se rapproche de toi.
+54	« Tu es spécial, Ragn. Une exception. »
+55	« La Horde porte son attention sur les exceptions. C'est ce que nous faisons. »
+56	« En quoi suis-je spécial ? »
+57	« Je suis spécial. »
+58	(Se contenter de plisser les yeux vers la lumière.)
+59	« Tu es le seul clerc enregistré dans la cité qui ne figure pas au Parti de Norvik. »
+60	C'est juste parce qu'ils ne t'aimaient pas.
+61	Un fouillis bureaucratique.
+62	Parce qu'ils sont nuls. Évidemment.
+63	« Tu as un passé de violence politique. Tu as un talent inné pour les arts ésotériques. »
+64	Eh bien, oui. Tu es potentiellement le plus grand magicien de cette génération.
+65	Oui. Tu es le plus grand magicien de cette génération. Évidemment.
+66	C'était un faux rapport. Tu n'as commis aucune violence.
+67	La violence a été commise sur toi. Par un soldat de la Garde-d'Urth.
+68	De la violence ? Non. Tu n'en es pas capable.
+69	Tu n'as même pas jeté de cailloux.
+70	En plus, c'était il y a des années. Pourquoi le céleste remet-il ça sur le tapis ?
+71	« Tu as manifesté publiquement, dans tes écrits, ton soutien à des idéologues reedsiens. À plusieurs reprises. »
+72	Ouais. Ton patriarche n'a PAS aimé ça.
+73	Pas le moins du monde.
+74	C'était une erreur. Un faux pas dans le côté obscur de la politique.
+75	Tu l'as payé cher.
+76	La seule raison pour laquelle tu n'as pas été renvoyé, c'est ton incroyable savoir magique.
+77	Ouais. Ils te gardent seulement parce que tu es encore utile.
+78	Sinon, avec toutes ces conneries qui traînent, tu serais parti depuis longtemps.
+79	« Tu es une anomalie, Ragn. »
+80	« Ce que tu as accompli ici avec l'Agente Viira en apporte une preuve de plus. »
+81	« Pourquoi me prêtez-vous la moindre attention ? »
+82	« Merci. » (Faire une profonde révérence.)
+83	« Arrêtez de fouiller dans mon passé. Je n'aime pas vous autres de la Horde Dorée. »
+84	« C'est ce que nous faisons. »
+85	« <i>Clerc</i>. »
+86	« Peut-être reconsidéreras-tu. »
+87	« La Horde Dorée souhaite t'étendre un lien de service. »
+88	« À toi et Snell. »
+89	« Un lien...? » marmonne-t-il derrière toi.
+90	Ça pourrait être cool. Mais qu'est-ce que tu en retires ?
+91	Ton lien est à cette cité. Rien d'autre.
+92	Et à Urth, non ?
+93	Oh. Oui. À Urth aussi.
+94	« Un lien. »
+95	« Ça pourrait être intéressant. »
+96	« Qu'est-ce que j'obtiens en retour ? »
+97	« Ça ne m'intéresse pas. »
+98	« Une juste question, Ragn. »
+99	« Écoutez l'ambassadeur jusqu'au bout, Clerc. »
+100	Elle essaie de t'aider à ne pas te ridiculiser.
+101	Elle est dans sa poche.
+102	« La Horde Dorée offre de nombreuses opportunités aux contractants extérieurs. »
+103	« Adressée via la Compagnie Marchande Askanii-Reeds, nous serions très intéressés à bâtir cette relation potentielle. »
+104	« Ceci signifie, pour toi : des postes de pouvoir bien rémunérés. Des ambitions politiques. Une sécurité pécuniaire. »
+105	« En retour, ceci signifie : des communications mensuelles avec des agents. Des objectifs alternatifs occasionnels tels qu'ordonnés par nous - et à terme, rejoindre le programme de rayonnement de la Horde Dorée. »
+106	En bref, deviens leur espion.
+107	En retour, ils te protègent.
+108	La sécurité sous l'AILE de la HORDE.
+109	Jusqu'à ce que tu ne sois plus utile.
+110	Ce serait vendre ton âme à une puissance étrangère.
+111	Si c'est calculé, ça pourrait s'avérer utile. Mais à long terme, ça semble insensé.
+112	Ce céleste veut se servir de toi. Il te voit comme du bétail. Rien d'autre.
+113	Tu ne parviens pas à déchiffrer ce céleste. Il t'est véritablement étranger.
+114	« La CM Askanii-Reeds coopérerait bien sûr à un tel accord. Si cela vous intéressait, Clerc. »
+115	« Nous avons des liens profonds avec la Horde Dorée, comme vous pouvez l'imaginer. »
+116	« Cette offre est-elle quelque chose qui t'intéresserait, Ragn ? »
+117	« Potentiellement. »
+118	« Oui. Inscrivez-moi. »
+119	« Non. Jamais. »
+120	« Je ne suis pas sûr. Puis-je y réfléchir ? »
+121	« Oui. Tu le peux. Peut-être en reparlerons-nous. À l'avenir. »
+122	« Rien de tout ceci ne doit se faire sur-le-champ... »
+123	« Sa réponse a été enregistrée. C'est ce dont nous avions besoin. »
+124	« Nous laisserons cela pour l'instant. »
+125	« Nous serons en contact. »
+126	« Et tant que nous sommes ici, l'offre est aussi étendue à Snell. »
+127	« Portes-tu quelque intérêt à cet accord ? »
+128	Ses yeux se braquent vers toi.
+129	Il joue finement ici. De façon calculée.
+130	« Je peux y réfléchir. »
+131	« Ta réflexion a été enregistrée. »
+132	Il hausse les épaules.
+133	« Merci. »
+134	« Maintenant, passons à la suite. »
+135	« Plusieurs AEFA ont été signées à Tolstad. C'est du bon travail, Agente Viira. »
+136	« Oh, comme je l'ai mentionné, l'effort du Clerc a été essentiel à ce succès. »
+137	« Et nous poursuivrons dans les jours à venir, post-élection. »
+138	« C'est satisfaisant. »
+139	« Ouais, j'ai distribué ces contrats à un tas de gens. »
+140	« Pas tant de gens étaient positifs quant à cette histoire d'AEFA. »
+141	« Nous amènerons tout le monde dans l'Accord, tôt ou tard. »
+142	« Oh oui. Plusieurs d'entre eux nous ont répondu. »
+143	« Ils finiront par céder. »
+144	« Ils le font toujours. »
+145	« Oh oui ! »
+146	« Quant au contenu de ces contrats, j'ai été informé de quelques changements. »
+147	« Des changements ? »
+148	Sa posture change.
+149	Elle n'a pas aimé ça.
+150	Oh oh.
+151	« Quels changements ? »
+152	« Actuellement, l'Accord comporte une forte incitation pour les investisseurs reedsiens. Nous souhaitons l'étendre pour y inclure ceux de la Horde Dorée. »
+153	« Je crois que nous avons parlé de ça à la- »
+154	« Cette AEFA comporte aussi plusieurs failles et éléments problématiques qui pourraient interférer avec les blocus actuels et futurs de la Horde Dorée. »
+155	« Les Terres des Clans. »
+156	« Oui. Entre autres. »
+157	« Si les commerces locaux sont en mesure de commercer librement par voie terrestre, comme par voie maritime, avec des régions et des États que la Horde Dorée juge sous sanction, tant dans les cas plus graves comme le conflit des Terres des Clans, que dans les situations moindres de tarifs ciblés, alors nous ne pouvons avancer. »
+158	« Cette question a déjà été soulevée avec vos propriétaires. Attendez-vous à plusieurs errata dans un proche avenir. »
+159	« Il aurait été bon de voir ces remarques <i>avant</i> l'élection. Comme convenu. »
+160	« Je m'excuse du retard. Mais je vous l'assure, cette question est entièrement la faute de la Compagnie Marchande Askanii-Reeds. »
+161	Hah !
+162	Ce type vient de dire, <i>je suis désolé, mais en fait tout est de votre faute</i>, en pleine face.
+163	Ces célestes sont hilarants.
+164	« <i>Vous...</i> »
+165	La rage.
+166	Elle serre la mâchoire en le fixant.
+167	« Agente Viira. »
+168	« Ceci vous dépasse. »
+169	Au-dessus de son rang.
+170	Dans les nuages. Avec les anges.
+171	Elle se racle la gorge et rajuste sa tenue.
+172	« Bien sûr. »
+173	« Bien sûr, <i>Ambassadeur</i>. Merci de l'avertissement. »
+174	Tout son être est <i>rage contenue</i>.
+175	La lumière se retourne vers toi.
+176	« La Horde Dorée est très intéressée à voir la prospérité économique dans ta cité, Ragn. »
+177	Pour pouvoir nous exploiter comme main-d'œuvre esclave.
+178	Ils veulent le contrôle.
+179	Une croissance par l'influence économique étrangère n'est pas une vraie croissance.
+180	Si Norvik doit sa stabilité économique à des puissances étrangères, ces puissances en seront les vrais propriétaires.
+181	C'est un coup stratégique intelligent, si tu souhaites contrôler tes voisins.
+182	L'Agente Viira hoche la tête, l'air sur le point d'exploser.
+183	« Le premier pas vers cela, c'est de régler les Terres des Clans. Depuis bien trop longtemps Norvik ignore sa population de criminels de guerre halfelins. »
+184	« Je te le demande, Ragn, en tant que clerc de cette cité : crois-tu que les humains choisiront la prospérité plutôt que la propagande des Terres des Clans ? »
+185	Viira ne dit rien, mais te lance un regard.
+186	Sa colère s'estompe à présent, remplacée par une autre expression.
+187	Ses yeux te disant : <i>ce type est un monstre, alors sois prudent</i>.
+188	Tu n'es pas sûr de ce que ça signifie. Mais c'est une expression tendue.
+189	Que sont les halfelins pour nous ?
+190	Oh par les dieux. Qu'est-ce que je devrais dire ?
+191	« Ce sont nos plus proches voisins. Le peuple d'Urth se tiendra toujours aux côtés des Terres des Clans. » (Soutenir les Terres des Clans.)
+192	« Le peuple de Norvik ne croit pas à la propagande halfeline. » (Soutenir la Horde Dorée.)
+193	« Ma cité ne se mêle pas des conflits étrangers. Nous chercherons simplement la prospérité <i>et</i> éviterons la propagande. » (Rester neutre.)
+194	Des voisins. Pas trop proches.
+195	Une sorte de voisins.
+196	Juste un autre peuple. Contrairement aux nains, ils n'ont nul lien étroit avec le peuple d'Urth.
+197	C'est un peuple résilient et robuste, qu'on trouve tout le long de la Côte.
+198	Pas si différents des humains, ils ont été asservis et contrôlés durant la majeure partie de leur histoire.
+199	Tu dois te tenir à leurs côtés.
+200	Prudence maintenant.
+201	Si tu antagonises ce type, tu auras tout un nouveau bordel à gérer.
+202	Peut-être juste rester neutre.
+203	Si tu lui lèches les bottes, il saura que tu es un atout.
+204	Si tu joues les grands amoureux des halfelins, il saura que tu n'en seras jamais un.
+205	Mais vu la tension bizarre ici, ce ne serait peut-être pas une mauvaise chose. Si tu l'antagonises, tu pourrais être en mesure de riposter.
+206	Ce qui, si tu le fais correctement... pourrait te rapporter quelques points auprès de l'Agente Viira.
+207	Qui se soucie des halfelins ?
+208	Mais plus important encore, tandis que ce type n'est clairement pas quelqu'un à qui se frotter- si tu ripostes juste comme il faut...
+209	« Pour l'instant. »
+210	Menaçant.
+211	« Bien. »
+212	La lumière te perçoit.
+213	« La Ligne Dorée est fixée. »
+214	« Les halfelins se sont montrés incapables d'accepter ce fait. »
+215	« Nous avons fixé la Ligne pour les protéger. Pour créer une paix durable. Puisqu'ils refusent de se plier à nos exigences raisonnables - j'espère que tu comprends - notre méthode la plus pacifique pour gérer leur terrorisme passe par les sanctions. »
+216	La lumière se retourne vers Viira.
+217	« Agente Viira. Vous avez été un atout précieux pendant de nombreuses années. Pourtant je perçois en vous de la frustration. Ce n'est pas acceptable. »
+218	Elle foudroie la lumière du regard.
+219	« Vous veillerez à ce que la Compagnie Marchande Askanii-Reeds se conforme pleinement à l'erratum de l'AEFA. »
+220	« C'est une affaire de sécurité de la Horde Dorée. Ce n'est pas négociable. Ce sera votre plus haute priorité dès à présent. »
+221	« Si le Clerc y consent, des fonds seront réunis pour son implication également. »
+222	Viira a l'air vaincue.
+223	L'orque est battue.
+224	C'est tendu.
+225	Horrible. Ce céleste manie un pouvoir énorme dans ces mots qui sont les siens.
+226	Et les Errants et ce monstre peuvent aller traverser tous les enfers du recueil !
+227	C'est le pouvoir d'un dieu. C'est presque comme s'il te fallait t'agenouiller...
+228	Il est si précis dans ses mots- tu n'as aucune chance ici.
+229	<b>Concentre-toi</b>.
+230	Le type-lumière est rapide et précis- mais tu sais. Tu SAIS qu'il baratine. C'est de l'INSTINCT.
+231	Prends-le en défaut. <b>Pour la Révolution</b>. Tiens-lui tête d'abord, puis fais-le !
+232	Prendre l'ambassadeur en flagrante contradiction.
+233	« Je suis heureux de voir la Horde Dorée aider ma cité, Ambassadeur. » (Lécher les bottes.)
+234	« Je comprends. » (Rester neutre.)
+235	« Tout ça, c'est des conneries. Les Errants sont corrompus. La Horde Dorée est une bande de monstres. Je ne supporte ni l'un ni l'autre. » (Ne prendre parti pour aucun. Qu'ils crèvent.)
+236	Viira se ravive à tes mots.
+237	La lumière t'observe. Ne disant rien d'abord.
+238	Puis la voix émet un seul mot :
+239	« <i>Mortel</i>. »
+240	« Déclinant. Imparfait. »
+241	« Je te vois. » La lumière grandit. « Tel que tu es. »
+242	Il te donne une chance de reculer.
+243	Ne le fais pas !
+244	« Je suis heureux de l'entendre. »
+245	« Et juste pour dire, je soutiens totalement l'invasion du Commonwealth de Fordnip. Ces halfelins l'avaient bien cherché ! » (Lécher plus fort.)
+246	« Votre présence est une bénédiction en ces temps sombres. » (Lécher un peu moins outrageusement.)
+247	La Ligne Dorée.
+248	On penserait qu'une horde-d'anges toute-puissante serait capable de faire tout ce qu'elle veut.
+249	Au lieu de ça, ils tracent une ligne dans le sable. Pourquoi ?
+250	Enfin, tu sais pourquoi.
+251	La pression internationale.
+252	Exactement.
+253	Ils ne peuvent pas juste envahir Askanii, car ça ferait sonner l'alarme dans chaque pays de la Côte.
+254	Tu vois comment il pousse l'image qu'on a besoin d'eux- mais pas l'inverse ?
+255	Appuie là-dessus ! Maintenant !
+256	« Ambassadeur. Si vous voulez résoudre votre problème des Terres des Clans, alors vous avez besoin du soutien de la communauté internationale. Vous avez besoin du soutien des Cités Libres. »
+257	La lumière vacille.
+258	« Ceci est une <i>coopération</i>. Vous savez que la Révolution en pâtira, tout comme vos ambitions, s'ils poussent trop fort sur les AEFA. »
+259	L'ambassadeur te perçoit.
+260	« Faites des concessions, Ambassadeur. Ça en vaut la peine. Vous savez que les Errants locaux se déroberont et danseront autour si vous ne le faites pas. Assurez-vous que votre <i>Chœur</i> le sache. »
+261	« Tu parles avec assurance, Ragn. »
+262	« Uniquement parce que vous savez que j'ai raison. »
+263	La Ligne Dorée. La Horde et son invasion.
+264	Tu sais qu'il te baratine à un certain niveau...
+265	Mais sur QUOI ?
+266	(Fixer la lumière de l'Ambassadeur.)
+267	Non. Non, non, non.
+268	Aucune chance que tu le trouves à temps. Tu le fixes depuis genre trois secondes à ce stade.
+269	FAUT QUE TU DISES QUELQUE CHOSE !
+270	N'IMPORTE QUOI !
+271	Qu'est-ce que je devrais dire ?!
+272	Juste... sois gentil. Calme. Normal.
+273	Ça devrait régler la chose, d'une manière plutôt pacifique.
+274	Non.
+275	Tu devrais leur dire à tous les deux de te laisser tranquille.
+276	Si tu veux être malin, alors reste juste neutre.
+277	T'emporter ne fera que pousser les gens à te détester maintenant. Tu ne veux pas ça.
+278	Ce céleste est un monstre.
+279	Tu ne leur dois rien.
+280	« Je... je vais prendre ceci en... considération. » (Incliner profondément et neutrement la tête.)
+281	« La baise aux Errants ! La baise à la <shake>Horde Dorée</shake> ! Je vous <i>méprise</i> tous les deux. » (Hurler, et rompre tes liens avec les Errants.)
+282	« Bien », dit la voix.
+283	« La Horde Dorée est heureuse d'être d'assistance à ton peuple, Ragn. »
+284	Viira ferme les yeux et soupire.
+285	La lumière s'intensifie.
+286	« Tu parles avec le cœur. »
+287	« Fascinant. »
+288	« Nous ne serons cependant pas intéressés à travailler avec toi désormais. »
+289	« Agente Viira, je questionne votre jugement ici aussi. Je suppose que vous le comprenez. »
+290	« Oui, Ambassadeur », grogne-t-elle, la mâchoire serrée et les yeux rivés sur toi.
+291	Le feu et le soufre.
+292	« Je m'excuse de ceci. »
+293	La lumière se rétracte, focalisée sur la <i>tête</i> du céleste.
+294	Viira observe avec un sourire en coin, clairement amusée.
+295	Oh que oui.
+296	Tu as touché le bon point.
+297	« L'erratum de l'AEFA n'est pas ma décision », dit la voix.
+298	« Cependant, je considérerai ta déclaration », dit-il. « Agente Viira. Êtes-vous d'accord ? »
+299	« Je le suis, Ambassadeur. Ma frustration de tout à l'heure était due à cette situation problématique. La direction de l'AR peinera avec ces changements. »
+300	« Un... <i>compromis</i> passerait bien plus aisément. Ne serait-ce que commencer par une discussion - peut-être entre vous et nos propriétaires - ferait grandement avancer les choses. »
+301	« Bien. Ceci sera pris en compte. »
+302	L'ambassadeur se met à flotter vers la porte.
+303	« Je vais vous laisser maintenant. Merci de votre temps. »
+304	L'être de lumière radieux ouvre la porte via une sorte de télékinésie et flotte au-dehors dans les rues de Waterlane.
+305	Viira se lève, se dirige vers la cheminée, s'appuyant contre la brique.
+306	Elle lâche un profond soupir.
+307	« Bien joué. Vous avez bien géré ça. »
+308	« Je ne voulais pas vous jeter dedans comme ça, mais l'ambassadeur a insisté. »
+309	« Pas de souci. Je peux tout gérer. »
+310	« C'était horrifiant. »
+311	« Ouais, allez vous faire voir pour ça. »
+312	« Confiant comme toujours. »
+313	« Un peu, ouais. »
+314	Elle rit.
+315	« J'imagine que je le mérite. »
+316	« Laissez-moi vous dire, nous ne sommes pas tout à fait aussi possédés par la Horde Dorée que ça en avait l'air. »
+317	« C'est une coopération fonctionnelle. Ils ne vivent pas exactement selon nos valeurs libertaires. »
+318	« Les célestes ont bien une tendance à l'autoritaire. Et au... suprémaciste. »
+319	« Par les dieux. »
+320	« Je pensais que vous auriez un peu plus de tact. »
+321	« Vous vous trompiez. »
+322	« Je ne veux rien avoir à faire avec tout ça. »
+323	« Je suis désolé. »
+324	« Je ne suis pas désolé. »
+325	« <shake>Évidemment</shake>. »
+326	« Je m'en fiche. »
+327	Elle abat son poing serré contre le mur.
+328	Pas assez fort pour se blesser, mais assez fort pour faire du bruit.
+329	Un geste de frustration.
+330	« Partez, je vous prie, Clerc. »
+331	« <b>Maintenant</b>. »
+332	...Peut-être que je devrais.
+333	Elle lâche un grognement profond et las.
+334	Viira se permet d'être elle-même en ta présence, un peu plus.
+335	« Je ne veux pas vous féliciter d'avoir agacé notre cher ami l'ambassadeur, mais... »
+336	L'agente orque te décoche un sourire en coin intrigant. Du genre que tu n'as pas vu depuis de très, très nombreuses années.
+337	« C'était <i>putain de magnifique</i>. »
+338	Se rapprochant, elle enchaîne avec une ferme tape dans le dos.
+339	« Je vous ai vraiment jeté dans le grand bain, mais vous vous êtes comporté exactement comme je l'aime... »
+340	(Déglutir.) « Je suis heureux d'être de service. »
+341	« C'est comme ça que nous, les Errants, traitons les impérialistes. »
+342	« C'était légèrement horrifiant. »
+343	« J'ai juste dit la vérité à ce salaud de céleste. »
+344	« Si porté sur le service... »
+345	« Oui, en effet... »
+346	« Comment pensez-vous que <i>moi</i> je me sens ? »
+347	« Pour sûr... »
+348	« Écoutez, je dois gérer l'imbroglio du Chœur en permanence. Et ils n'arrêtent jamais avec leurs conneries. »
+349	« Avoir un tiers - c'est-à-dire vous - qui riposte pour une fois ? Absolument glorieux à regarder. »
+350	« Je vous en remercie. Personnellement. Et... professionnellement aussi, bien sûr. »
+351	L'orque te regarde, le soulagement dans les yeux.
+352	« Ceci, en plus de toute l'aide sur les AEFA- je vous dois une forme de récompense, n'est-ce pas ? »
+353	Oh ! C'est le bon moment : demande une avance.
+354	Ou bordel, fais allusion à une forme de paiement pour la distribution des AEFA.
+355	Une récompense ?
+356	Il est temps de passer à l'action. INVITE-LA À SORTIR.
+357	On t'a déjà promis un RENDEZ-VOUS avec cette belle femme. C'est récompense suffisante.
+358	« Que diriez-vous d'un peu d'argent ? »
+359	« Une récompense, ça sonne bien. »
+360	« Je n'ai pas besoin de récompense. »
+361	« Quel gentilhomme. »
+362	Elle t'adresse une expression songeuse pendant quelques secondes.
+363	« ...Oui. C'est ce que j'ai dit. »
+364	Elle choisit ses mots avec soin.
+365	Elle aime ça ! Tente le grand jeu !
+366	« <i>Je vous aime</i>. »
+367	« Que diriez-vous d'un rendez-vous ? »
+368	« Vous et moi. Dîner. Un jour la semaine prochaine. »
+369	Tu la vois fermer les yeux de honte.
+370	Tu la brises.
+371	La pauvre femme.
+372	« Je veux dire- je, je... »
+373	Viira te foudroie du regard.
+374	« ...Je vous aime. »
+375	« ...Que diriez-vous d'un dîner ? »
+376	Elle se frotte les yeux.
+377	« J'apprécie le geste, Clerc. Mais peut-être devrions-nous d'abord faire connaissance. »
+378	« Que diriez-vous d'un dîner ? »
+379	« Un dîner. »
+380	« Un rendez-vous. »
+381	L'orque te regarde, un air contemplatif sur le visage.
+382	« D'accord. Faisons-le. »
+383	OUI !
+384	Tu es un homme accompli à présent.
+385	Félicitations. Tu es fier de toi.
+386	« Ça me va. »
+387	« Un dîner ! »
+388	(Retenir ses larmes.) « D'accord. »
+389	« Mais peut-être que quelque chose de plus... tangible serait aussi de mise. »
+390	« Hmm... »
+391	« J'ai quelque chose de mieux en tête. »
+392	« C'est vrai, n'est-ce pas ? »
+393	« Oh, ne soyez pas si humble. Vous méritez quelque chose. »
+394	L'Agente Viira parcourt la pièce du regard.
+395	« D'une, je veillerai à vous accorder plein accès au reste des installations, si vous vouliez enquêter comme il faut sur l'Entrepôt. »
+396	Un peu tard pour ça.
+397	« Mais au-delà de ça... »
+398	« Enfin... voyez-vous, nous avons cette épée ici. »
+399	« Elle s'appelle <i>Kattegatt</i>. »
+400	Elle s'approche du massif Zweihânder, dressé contre le mur.
+401	Tandis qu'elle pose la main sur la poignée de l'épée, tu vois une chose curieuse se produire.
+402	Elle s'enroule.
+403	Une lame maudite.
+404	Ah. C'est une lame sélective.
+405	« Elle ne vous aime pas ? »
+406	« Intéressant. »
+407	Tandis qu'elle retire sa main de la lame, celle-ci se déroule aussitôt.
+408	« Une arme capricieuse. Vous avez déjà entendu parler d'une telle chose ? »
+409	« Elle a été achetée il y a des années, lors d'une fouille à Reeds. Une vieille cache arcaniste- un arsenal de la Guerre de la Côte. »
+410	« Elle est <i>Vorpale</i>. Extrêmement magique, avec une endurance et un tranchant métalliques parfaits. »
+411	« Elle vaudrait une demi-fortune, jusqu'à cinquante mille couronnes environ - n'était le fait qu'elle refuse d'être utilisée. »
+412	« Elle <i>s'enroule</i>, tout simplement, quand elle est maniée par quiconque, de quelque façon que ce soit. »
+413	« Venez. Essayez-la. »
+414	(Toucher la poignée.)
+415	Tout comme au contact de Viira, le tien la fait aussi s'enrouler.
+416	« C'est plutôt drôle. Cependant, j'ai eu des remarques de la hiérarchie disant que c'est assez embarrassant d'avoir dépensé de l'argent là-dedans. Alors on m'a chargée de la faire disparaître. »
+417	« Ce n'est pas l'arme la plus utile- mais si ça vous intéresse, vous pourriez la prendre comme récompense pour votre travail. »
+418	« Elle reste très magique. Peut-être même douée de conscience, vu la réaction. »
+419	Ton écharpe s'enroule quand Viira ne regarde pas, te chuchotant à l'oreille.
+420	« <i>Lame. Pense.</i> »
+421	« Je la prends ! » (Accepter l'épée.)
+422	« Nan. Donnez-moi autre chose. » (Refuser.)
+423	« Meek reconnaît type de lame. Ancien Maître en avait une, jadis. »
+424	« Elle jugera. Marche seulement si contente. »
+425	« Métal très grincheux... »
+426	« Parfait ! »
+427	Elle te tend l'Épée Vorpale dans son état enroulé.
+428	« Contente de la voir servir. Ne dites juste à personne d'où vous la tenez. »
+429	L'orque rit bruyamment.
+430	« Compréhensible. »
+431	« Je comptais vous remettre cette épée magique que nous accumulions. »
+432	« Mais malheureusement, je crois qu'elle a été égarée. Ou distribuée par quelqu'un d'autre. »
+433	Elle regarde l'emplacement vide sur le mur.
+434	Oups.
+435	Enfin, puisque tu as déjà pris Kattegatt, peu importe. Peut-être obtiendras-tu juste un peu de-
+436	« Donnons-vous plutôt un peu d'argent. »
+437	Elle attrape une bourse dans un tiroir et te la lance.
+438	« Mille deux cents couronnes. Voyez ça comme un gage de notre reconnaissance. »
+439	<i>Putain de merde</i>.
+440	Ça représente, en moyenne, environ quatre mois de loyer.
+441	Waouh ! Elle doit vraiment t'apprécier.
+442	« Au-delà de ça, je veillerai aussi à glisser un bon mot- pour qu'on puisse retravailler ensemble, post-élection. Car je vous le garantis... »
+443	« Il y aura beaucoup de travail à faire. »
+444	« J'ai hâte. »
+445	« J'y réfléchirai. »
+446	(Se contenter de hocher la tête.)
+447	« Ravie de l'entendre. »
+448	« Bien sûr. Vous êtes occupé. Je comprends. »
+449	Elle fait un clin d'œil.
+450	Elle hoche la tête en retour.
+451	« J'ai de la paperasse à gérer, mais s'il y a quoi que ce soit d'autre pour quoi je peux aider, faites-le-moi savoir. »
+452	« Très heureuse de vous voir de notre côté, Clerc. »
+453	La grande femme orque t'adresse un chaleureux sourire.
+454	(Incliner la tête.)
