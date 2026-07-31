@@ -1,0 +1,486 @@
+idx	french
+500	C'est une abréviation pour-
+501	« La <i>Sécurité de la Cité d'En Bas</i>. »
+502	« Tout ce dont la Vieille Dame a besoin, je le fais. »
+503	« Alors tu es un gangster ? »
+504	« Alors tu es un concierge ? »
+505	« Alors tu ne combats pas de monstres ? »
+506	« J'aimerais bien. »
+507	« Non. C'est- »
+508	Tu vois son visage se tordre en une expression douloureuse.
+509	« Que les dieux soient damnés. Concierge, c'est peut-être pas si loin du compte, en fait. »
+510	« C'est à ça que sert Moongore. Et les autres exécuteurs de la Vieille Dame. »
+511	« Mon boulot consiste surtout à parler aux gens, Clerc. Comme on fait là. »
+512	« Beaucoup de paroles, et beaucoup de courir partout. »
+513	Il prend une profonde inspiration. « Exactement ce qu'on fait là. Juste sans la petite exploration de donjon. »
+514	« Je t'en prie. »
+515	« Ma langue-chat n'est pas la meilleure, alors je sais pas trop à quoi je m'attendais. »
+516	« Mais on est vivants. C'est tout ce qui compte. »
+517	Il est un peu secoué par tout ça.
+518	Toi aussi.
+519	« Ça va, au fait ? Pas de brûlures graves ? »
+520	« Pas besoin de voir un guérisseur ni rien ? »
+521	Non. Nul besoin d'un tel comportement de mauviette.
+522	« Les guérisseurs, c'est pour les chochottes. Je mourrai à quarante ans, comme un homme. »
+523	« Non, ça va. » (Faire l'angoissé.)
+524	« Je suis très doué en magie d'Abjuration, c'est bon. »
+525	Chochottes-qui-se-<i>bougent</i>-pas.
+526	« <i>Génial</i>. Vraiment stoïque. Très à la samouraï. »
+527	« ...Je suis aussi très doué en magie d'Abjuration. Alors c'est bon. »
+528	« Ouais. Les vrais broyeurs-d'os-sur-le-pavé n'ont pas besoin de magie d'Abjuration. »
+529	Pourquoi je ressens le besoin de mentionner la magie d'Abjuration ?
+530	Un truc d'<u>ego</u>.
+531	Tu souhaites brandir ton savoir sur le gobelin, pour prouver ta supériorité.
+532	Ou, tu souhaites simplement partager quelque chose avec lui- quelque chose qui te tient à cœur.
+533	« D'accord, bon. Oublie que j'en ai parlé. »
+534	« L'Abjuration ? »
+535	Il se gratte le menton.
+536	« ...C'est celle du "protège-tomate", pas vrai ? »
+537	Ah, oui. Le vieux guide de référence à la tomate.
+538	On l'utilise dans les écoles pour enseigner les différences entre les catégories ésotériques.
+539	Tomate, tomate ?
+540	Tu as faim.
+541	Compréhensible. Tu n'as pas mangé de légume depuis très longtemps.
+542	« Tu connais l'antisèche de la tomate ? »
+543	« C'est bien celle-là. »
+544	« Toma-te ? »
+545	Il sourit en coin. « Tout le monde connaît l'antisèche de la tomate. »
+546	Il a l'air fier.
+547	Il <i>est</i> fier.
+548	« C'est ça. »
+549	« To-ma-te. »
+550	« Mais attends, toute la magie de soin est-elle de l'Abjuration ? »
+551	« Parce que c'est celle qui <i>protège</i>, non ? Un bouclier, c'est de la protection, mais le soin me semble plutôt un truc d'après-protection. »
+552	« Tu questionnes mon savoir ésotérique ? »
+553	« C'est un peu plus compliqué que ça. L'ésotérique peut être malléable, après tout. » (Ne pas faire de topo.)
+554	« Enfin... » (Se préparer à faire un topo.)
+555	« N'entrons pas là-dedans maintenant. »
+556	« Oh, pas du tout. Je viens juste de réaliser que je n'avais jamais eu l'occasion de demander à un expert. »
+557	« Hm. Intéressant. »
+558	« Enfin, j'ai appris quelque chose de nouveau aujourd'hui. Comme c'est charmant. »
+559	Il te regarde te racler la gorge et lever huit doigts.
+560	« La nature ésotérique de la magie sur notre Côte dépend entièrement des paramètres originaux mis en place par Jor. Bien qu'on sache peu de choses sur lui, à cause de sa mort dans la Guerre des Portes. »
+561	« C'est ça. La Guerre des Portes. »
+562	« Mais ces paramètres sont, comme la plupart de la magie sur la Côte, fondés sur une définition fondamentalement fluide. Jor a créé un réseau de lignes telluriques connu sous le nom des Fils, qui sont instables dans certaines régions, et surtout plus tu t'éloignes de la Côte - ce qui mène donc aux événements ésotériques. »
+563	L'expression du gobelin s'affaisse tandis qu'il réalise dans quoi il s'est embarqué.
+564	« Et en quoi c'est lié à la magie de soin ? »
+565	« J'y viens. »
+566	« Ne m'interromps pas. »
+567	« Mm-hmm. »
+568	« Ho là. D'où a jailli cet <u>ego</u> ? »
+569	« Désolé. Je me passionne juste vraiment pour l'histoire magique. »
+570	« Je peux continuer ? »
+571	« Hé, c'est moi qui ai demandé. Vas-y. »
+572	Il te fait signe de poursuivre.
+573	« Alors selon où tu es dans le monde, la magie change. Et avec la nature modelable et volatile des Fils, bien des magiciens, clercs et druides ont créé des façons entièrement nouvelles de manier les pouvoirs ésotériques au fil des ans. Surtout durant l'Ère Arcanique. Mais... »
+574	« Mais ? »
+575	« Les huit écoles de magie sont restées les mêmes. Tout comme les huit apprentis de Jor, chacune se concentre sur un thème bien défini. Quatre exemples. L'Abjuration, c'est la protection, la négation et la purification. La Nécromancie, c'est la manipulation de l'âme, la non-mort et la vie. L'Évocation, c'est la manipulation de l'énergie, qu'elle soit cinétique ou spirituelle. Et enfin, la Transmutation, c'est le changement de tout état, tant qu'il est physique. »
+576	Il te fixe.
+577	« Chacune de ces quatre écoles est connue pour comporter de la magie de soin. Même les mêmes, avec les mêmes composantes et rituels. »
+578	« Oh. Alors ce n'est pas si bien défini, alors ? »
+579	« Les écoles sont définies. Mais les sorts sont modifiables. Tout comme on peut créer de nouveaux sorts. On pourrait dire qu'un Soin des Blessures lancé par un évocateur sera techniquement un sort entièrement différent que lancé par un nécromancien. Mais en pratique, ils sont les mêmes. »
+580	« C'est... en fait plutôt intéressant. C'est dingue. »
+581	« Ainsi mon Soin des Blessures fonctionne essentiellement en repoussant toute énergie négative, en la niant, permettant à l'énergie positive restante de se concentrer sur la plaie. Ce qui est évidemment la meilleure façon de guérir, puisque l'énergie positive pure ne peut être aussi facilement compliquée par les forces sombres, la pourriture, ou même la douleur. La Nécromancie, en comparaison, est loin d'être aussi agréable pour se faire soigner. »
+582	« Oh. Et la Transmutation et l'Évocation ? »
+583	« L'Évocation n'est pas si mal. C'est juste une autre façon, moins efficace, de canaliser l'énergie positive. La Transmutation, par contre... c'est juste recoller le corps par la force. Douloureux comme tous les enfers, et une horreur à voir. »
+584	« Oh par les dieux. »
+585	« Genre la chair se... reforme, comme ça ? »
+586	« Et les os se "dé-cassent". C'est affreux. Très efficace, mais extrêmement douloureux. »
+587	« Ouais. Chouette. C'est très intéressant, Clerc, merci de l'avoir expliqué. »
+588	(Lui faire un pouce en l'air.)
+589	« Tu ne veux pas en entendre plus ? Je peux t'expliquer les diverses théories sur pourquoi les Fils de Jor fonctionnent encore, même après sa mort... »
+590	« Ça va. Mais merci. »
+591	Le gobelin te fait un pouce en l'air.
+592	« Ah. Sujet profond, je présume ? »
+593	« Hautement. Hautement profond. »
+594	« Hm. Ça sonne abyssal. »
+595	« Pas démoniaque. »
+596	« Non, je veux dire, genre littéral. Une fosse littérale. »
+597	« Genre, c'est profond. »
+598	« Un trou-de-néant sans fin. »
+599	« Arrêtons cette métaphore. »
+600	« D'accord. »
+601	« Bien. Bref. »
+602	« Notre témoin disparu. »
+603	Frank fils de Frank.
+604	« On sait qu'il est descendu ici. »
+605	« Puisqu'on l'a trouvé. »
+606	« Alors... j'imagine qu'on a une meilleure voie vers le bas maintenant ? »
+607	« S'il y a autre chose que tu veux examiner. »
+608	« On a de la chance que Moongore l'ait vu. Même si elle l'a laissé passer avec cette magie. »
+609	« Alors il aurait pu partir vers les Cavernes du Sud, mais... ce sont des trous bien profonds. »
+610	« Ma supposition, c'est qu'il est entré dans cette zone. Ici même. Probablement par les égouts. »
+611	« C'est un peu tiré par les cheveux, mais... »
+612	« Quelque chose est louche. Cet homme en jaune, l'explosion... »
+613	« On trouvera quelque chose ici en bas. Avec un peu de chance rien qui nous tue trop vite. »
+614	Il se racle la gorge.
+615	« Ou tu trouves ce paladin disparu sur lequel je lisais. <i>Le Seigneur Gorm</i>. »
+616	« Tu crois qu'il est descendu ici ? »
+617	« Tu l'as vu ? »
+618	« Il y a eu des commentaires scandaleux sur lui dans les journaux la semaine dernière. »
+619	« Tu crois qu'il est vivant ? »
+620	« Honnêtement ? Je dirais que oui. »
+621	« Un paladin cherchant à revivre les jours de gloire. »
+622	« Je vois bien ça. Explorer des donjons pour des monstres dangereux, ramasser du butin. »
+623	« Mourir dans quelque piège <i>peu glorieux</i> ? » Il désigne le couloir de feu.
+624	Peu glorieux ? C'est un grand mot.
+625	<i>Peu glorieux</i>. C'est un terme utilisé dans les magazines d'exploration de donjon.
+626	« Tu crois que M. Gorm survivrait à ça tout seul ? »
+627	« Mm. Quelques fois au cours de l'année dernière. Allant et venant. Jamais parlé avec lui. »
+628	« Il n'avait pas l'air du genre à parler avec des gobelins, tu vois ? »
+629	« Ah, ouais. À propos de son éviction du parti, pas vrai ? »
+630	« Écoute, je crois qu'ils ne pouvaient juste pas avoir un paladin disparu sur le bulletin, tu vois ? »
+631	« N'y lis pas trop de choses. »
+632	« Pas question. »
+633	« Peu importe l'ampleur du paladin qu'il est. Tu descends en solo dans la Cité d'En Bas ? Et puis tu disparais pendant des mois ? »
+634	« Le type est fichu. Aucun doute. »
+635	« On trouvera peut-être son corps. »
+636	« Non. Il est vivant. Je le sais. »
+637	« Je m'en fiche vraiment. Il a laissé le Parti derrière lui. »
+638	« C'est peut-être pour le mieux. Ou on trouvera un paladin-zombie très chic. »
+639	« C'est ça. Tu le sens dans tes <i>os</i>. »
+640	« Oh que oui. »
+641	« Mais qu'est-ce que j'en sais ? » Il hausse les épaules. « C'est toi le clerc. »
+642	« Tu commences à piger. Je suis Le Clerc. »
+643	« De jour en jour, je deviens plus roublard. C'est le donjon qui fait ça, je crois. »
+644	« Non. Je suis un magicien. Tu sais, les sorts ? Souviens-t'en. »
+645	« Tu m'as l'air plutôt savant, Snell. Merci de me guider. »
+646	« Assurément. »
+647	« Furtif. Ça pourrait aider avec les pièges. »
+648	« C'est ça. Les <i>sorts</i>. »
+649	« Bien sûr, bien sûr. La danse magique, ou peu importe. »
+650	« C'est ça. Compris. »
+651	« Oh ouais. Un Druide. »
+652	« Cool, cool. Hé, j'apprends. »
+653	Il te foudroie du regard. « Tu veux quoi, une putain de pipe baveuse ? »
+654	« Merci, <i>je sais</i>. Je suis bon dans mon travail. »
+655	Il propose une pipe ?
+656	Non. Il est sur la défensive parce que tu as été trop sincère.
+657	Ce gobelin est physiquement incapable d'accepter un satané compliment.
+658	Il est immunisé contre ton lubrifiant social.
+659	Si tu appelles ça comme ça, alors oui. Il va être immunisé.
+660	« Qu'y a-t-il à dire ? »
+661	« Elle a fait l'impossible : unir pour de vrai la turbulente Tribu des Halfways. »
+662	« Avant elle, on était près de se faire chasser de la cité. »
+663	« Vraiment ? »
+664	« C'était avant mon temps, bien sûr. Mais on avait des problèmes avec notre ancienne structure de conseil. »
+665	Il se penche et te chuchote : « Le conseil ne s'entendait pas. »
+666	(Hocher la tête.)
+667	« C'est honnêtement plus ce à quoi je m'attendais de la part d'une tribu de gobelins. »
+668	Il te lance un rapide froncement de sourcils.
+669	« Les stéréotypes ne surgissent pas du néant. »
+670	« Mais Dame Sageleaf... elle a arrangé les choses. En prenant le pouvoir suprême de la tribu. »
+671	« Alors... c'est une dictatrice ? »
+672	« A-t-elle une sorte de consort ? »
+673	« J'imagine que tu aimes bosser pour elle, alors ? »
+674	« Depuis combien de temps bosses-tu pour elle ? »
+675	« Très intéressant. Bref... »
+676	« ...Ouais. En un sens. »
+677	« En un sens ? »
+678	« Écoute. Je suis tout à fait pour la démocratie et la pensée libérale moderne. »
+679	Il pointe ses deux pouces vers lui-même. « Bordel, j'ai même été un Errant enregistré autrefois. »
+680	Bien sûr ! Tu pouvais le dire dès le début : le gobelin est un faiseur d'argent.
+681	« Mais je ne crois pas à la démocratie directe. La bureaucratie est une malédiction née de trous-du-cul d'Arcanistes. »
+682	Faux et absurde. La bureaucratie est bonne et juste et naît de grands esprits.
+683	Pas de derrières.
+684	Le gobelin a rarement raison, mais cette fois il touche à la vérité.
+685	Les Arcanistes se sont bien effondrés une fois qu'ils ont cessé de s'appuyer sur une magocratie et une méritocratie impitoyables.
+686	Leur infâme bureaucratie était un symptôme de cette maladie.
+687	Il te lance un regard las et claque la langue.
+688	« Parfois il faut vraiment un chef fort et <i>sage</i> pour unir les gens. »
+689	« Je suis d'accord. Urth a fait de même pour mon peuple. »
+690	« Je ne suis pas d'accord. Le pouvoir ultime corrompt ultimement. On ne peut pas faire confiance à un dictateur. »
+691	« Permettre à une seule personne de manier le pouvoir à ce degré est efficace, mais peut facilement mal finir pour tout le monde. »
+692	(Avoir l'air intéressé et hocher la tête.)
+693	Il marque une pause, détourne le regard un moment, puis grogne.
+694	« Ouais. Je suppose. »
+695	« Mais je crois pas que tu veuilles faire cette comparaison devant elle. Ou moi, tant qu'on y est. »
+696	« Absolu. »
+697	« Oh, tu es d'accord ? »
+698	« Non. <i>Le pouvoir absolu corrompt absolument</i>. C'est la citation. »
+699	« Je ne citais personne. »
+700	« En fait je ne sais pas si c'est une citation. Je l'ai juste déjà entendue. Désolé. »
+701	« Mm. Tu as raison. »
+702	« Le plus important, c'est juste que le chef, A : reste sage, et B : ne laisse pas le pouvoir à des idiots corrompus. »
+703	« Ce qui, dans le cas de la Vieille Dame... elle est restée sage. Et je ne vois aucun signe que ça change de sitôt. »
+704	« C'est ça. Comme Urth. Il a réussi à ne pas être corrompu. »
+705	« C'est pour ça qu'on a besoin de l'Errantisme à travers la Côte. Pour éviter ce conflit. »
+706	« La seule voie possible, c'est de faire confiance à la sagesse d'Azgal. Bannir totalement les hiérarchies. »
+707	« Hm. Ça me ressemble bien. Je serais un excellent dictateur. Un dictateur magocratique. »
+708	« Tant qu'elle se soucie de la terre... et des récoltes... »
+709	« Mm. Oui. Tout à fait. » (Se contenter de hocher la tête, apolitiquement.)
+710	Le gobelin hausse les épaules.
+711	« Je ne peux pas te donner de vérité objective, hélas. »
+712	« Mais je connais Miska Sageleaf. C'est une grande cheffe. Et je suis fier de la servir. »
+713	Il l'aime vraiment, vraiment.
+714	VRAIMENT.
+715	Nul chef ne règne éternellement.
+716	Même ceux qui, théoriquement, peuvent régner éternellement ne le peuvent pas.
+717	Une liche peut détenir le pouvoir pendant un millénaire ou plus, mais avec le temps il devient statistiquement de plus en plus probable qu'une erreur soit commise.
+718	Parfois il ne faut qu'une petite poussée.
+719	« Et sa succession ? »
+720	Il regarde ses griffes.
+721	« C'est compliqué. »
+722	« En cas de son décès, elle laissera le pouvoir à l'ancienne, mais légèrement réformée, structure de conseil. »
+723	« Je serais sur ce conseil, par exemple. Je suis l'un des anciens désignés. »
+724	On dirait qu'elle a le même état d'esprit que la plupart des dictateurs.
+725	<i>Je serai aux commandes pour toujours.</i>
+726	« Alors si elle mourait, tu obtiendrais plus de pouvoir, hein ? »
+727	« Intéressant. Alors elle ne laisse pas d'héritier ? »
+728	« On dirait qu'elle n'a rien vraiment planifié. »
+729	« Plus de pouvoir ? »
+730	« Plus de responsabilité. Je détesterais ça. »
+731	« Aucun. »
+732	« C'est une façon de voir les choses. »
+733	« Dame Sageleaf est là depuis plus de trente ans. »
+734	« Et elle sera là encore un sacré bout de temps de plus. »
+735	« Là, tout de suite, on a des choses plus pressantes à se soucier. »
+736	« Pourquoi ? Ça t'intéresse ? »
+737	Un rire sur la défensive.
+738	« Non ! » (Avoir l'air inquiet.)
+739	« Et toi ? »
+740	Le gobelin continue de rire.
+741	Il cesse de rire.
+742	« Non ! »
+743	Il a l'air inquiet.
+744	Il n'a pas l'air inquiet.
+745	« Clerc, je suis dévoué dans mon service. Dame Sageleaf est l'une des plus grandes gobelines qui aient jamais vécu. »
+746	« Elle n'a nul besoin de consorts. »
+747	Toi non plus.
+748	Il l'idolâtre.
+749	Il la voit clairement plus comme une déesse que comme une maîtresse.
+750	Et aussi, il en pince clairement pour elle. Héhé.
+751	« C'est le cas, Clerc. »
+752	« C'est bien. »
+753	« Hm. »
+754	Le gobelin marmonne pour lui-même et regarde au loin.
+755	« Mince. J'imagine que ça fait presque dix ans. »
+756	« Mince. Ça ne fait que- que je suis clerc depuis- »
+757	Tandis que tu t'interromps, il lève les sourcils.
+758	Son expression dit : <i>Poursuis donc</i>.
+759	« Je voulais dire : je suis <b>Le</b> Clerc depuis environ cinq ans maintenant. »
+760	« Mon entraînement de Garde-d'Urth a duré trois ans, et je suis aux Tours depuis cinq ans. »
+761	Il glousse et s'étire un peu.
+762	« <i>Le temps nous emporte tous</i>. »
+763	« Et toi, Clerc ? »
+764	« Mm ? »
+765	« Qu'est-ce que tu penses de la Vieille Dame ? »
+766	Voyons... être <b>honnête</b>, ou être <b>flatteur</b> ?
+767	Le gobelin ne se soucie probablement pas trop de ton opinion dans un sens ou l'autre. Mais ça peut être utilisé contre toi.
+768	Hé. Il adore assurément un bon léchage de bottes. Regarde-le !
+769	La cheffe est pénible, mais elle sert bien son peuple. C'est admirable.
+770	« Elle semble être une grande cheffe pour ton peuple. »
+771	« Elle a l'air d'être un peu une... une sorte de... tu sais, un boulet dans le fondement. »
+772	« Je ne l'aime pas. » (Froncer les sourcils. Invisiblement.)
+773	« Je n'ai aucune opinion tranchée sur ta Vieille Dame, Snell. Ni sur quoi que ce soit d'ailleurs. »
+774	Il ricane. « Et qu'est-ce que tu penses vraiment ? »
+775	« Non, vraiment. J'admire sa force. Sincèrement. »
+776	« Enfin... »
+777	« Hein. »
+778	« Bon. Je m'attendais pas à ça. »
+779	« Pas beaucoup de grands-gens tendent à la voir sous ce jour. »
+780	« Comme tu peux sûrement l'imaginer. »
+781	« ...Bien sûr. »
+782	Il lâche un rire de bon cœur.
+783	« Elle peut avoir cet effet sur les gens. »
+784	« Pour quelque étrange raison, les grands-gens n'aiment pas trop se faire rabaisser par des gobelins. Ni par des femmes. »
+785	Surtout des gobe-
+786	« Surtout des gobelines. »
+787	Oui, ça.
+788	Il hausse les épaules. « Juste. »
+789	« Ça l'est ? »
+790	« Ça l'est. »
+791	« Hein ? »
+792	« Sageleaf est une force avec laquelle il faut compter. La cité traite surtout avec elle parce qu'elle est commode, et parce qu'elle avait un accord avec Urth. »
+793	« Je vois. »
+794	Il marque une pause et te fixe.
+795	Il attend ta prochaine réplique.
+796	Ne le fais pas. Sois original pour une fois.
+797	Ah. Il l'attend. Vas-y.
+798	Dis-le.
+799	« Je ne vais pas le dire, Snell. »
+800	« ...Parce que je suis <wiggle>APOLITIQUE</wiggle> ! »
+801	Il hausse les épaules. « Je ne te jugerai pas. »
+802	« Dis ce que tu as envie de dire, Clerc. »
+803	« ...Bon. Je suis <wiggle>APOLITIQUE</wiggle>. »
+804	« Non. Ça va. »
+805	« Parfait. J'espère que tu as évacué ça de ton système. »
+806	« Tu es sûr ? »
+807	« ...Ouais. »
+808	« Cool. »
+809	Il hoche la tête. « Nous y voilà. »
+810	« Écoute, ça n'a pas vraiment d'importance. Mais en tant qu'ancien de la tribu, je peux te le dire, en tant que représentant de la cité... »
+811	« Dame Sageleaf est une force du bien à Norvik. Ça, je peux te le promettre. »
+812	Le peuple non-humain de Norvik est à bien des égards opprimé par l'État et la culture dominante, mais les gobelins ont toujours été les plus touchés.
+813	Depuis l'horrible génocide.
+814	C'était une guerre. Une reconquête de terre déchue.
+815	Une guerre contre un dieu divin n'est pas une guerre. C'est une extermination à sens unique.
+816	Les gobelins n'étaient pas obligés de se battre. Ils auraient pu se rendre. Comme l'ont fait les trois tribus.
+817	Les trois tribus qui furent dépouillées de leur culture, de leur terre, et de leurs langues ?
+818	On leur a donné un nouveau foyer.
+819	On les y a forcés.
+820	C'était eux ou nous. C'était... eux ou nous.
+821	C'est ce que tu te dis la nuit.
+822	Le gobelin se frotte les yeux.
+823	« Voir quoi ? »
+824	Interaction positive imminente.
+825	Commente la beauté de cette union.
+826	« C'est bien de voir un gobelin s'adapter à la vie norvikienne. »
+827	« C'est bien de voir quelqu'un honorer son devoir. C'est rafraîchissant. »
+828	« C'est bien de voir... <i>ceci</i>. La Cité et les Gobelins travaillant enfin ensemble. »
+829	Ton compagnon ricane instinctivement tandis que tes mots résonnent dans le couloir. Suivi d'un froncement réprobateur.
+830	« J'avais pas vraiment le choix, hein ? »
+831	Point sensible.
+832	Les gobelins ont été intégrés de force à Norvik.
+833	Ton compagnon lâche un grognement une fois l'écho de tes mots éteint plus loin dans le couloir.
+834	« Quoi, tu ne vois pas d'honneur et de dévotion au Palais ces jours-ci ? »
+835	« Non, Snell. Non, je n'en vois pas. »
+836	« Je ne leur en veux pas. C'est dur de servir un dieu qu'on n'a jamais rencontré. »
+837	« Bien sûr qu'il y a de l'honneur. » (Pointer un pouce vers ton heaume.) « Je suis là. D'habitude. »
+838	« Dommage. »
+839	« Mais ces trucs-là, c'est pas donné. »
+840	Le gobelin baisse le regard.
+841	« Ah. Bien sûr. »
+842	Ton compagnon laisse l'écho de tes mots s'éteindre plus loin dans le couloir. Puis- un léger sourire sur son visage.
+843	Un sourire conflictuel.
+844	Dans le mille.
+845	« Tu l'as déjà rencontré ? »
+846	Lui ?
+847	(Réfléchir une seconde, puis parler.) « Qui ? »
+848	« <i>Urth</i>. »
+849	Le <i>gobelin</i>, qui demande à propos de ton dieu ? Il doit s'intéresser de plus en plus à la religion, ayant été témoin de ton exemple.
+850	Oh, comme c'est intéressant - de le voir aborder un tel sujet.
+851	Il va sûrement se focaliser sur le génocide.
+852	Il demande juste comme ça si tu as rencontré un dieu.
+853	« Non, Snell. Urth s'est éteint avant ma naissance. »
+854	« Je n'en ai jamais eu l'occasion. »
+855	« Non. »
+856	« Bien sûr que non. Je ne suis pas si vieux. »
+857	Snell hoche la tête.
+858	« Première génération post-Urth, hein ? »
+859	Le premier humain éprouvé par la foi, et la foi seule.
+860	« C'est pour le mieux. Ne rencontre jamais tes héros, pas vrai ? »
+861	« Nous gardons l'idée d'Urth. Nous poursuivrons ce devoir. »
+862	« Ça craint vraiment. »
+863	« J'imagine que ces hédonistes qui scandent le nom de Tokig ne seraient pas très joyeux non plus s'il revenait. »
+864	« Ni tout autre zélote enrageant à travers la Côte pour des dieux morts », crache le gobelin, et il s'adosse au mur.
+865	« Le devoir. »
+866	Il goûte le mot en s'adossant au mur.
+867	Le gobelin s'adosse au mur, levant les yeux vers le plafond.
+868	« J'ai toujours détesté Urth. »
+869	QUOI ?
+870	« Pardon ? »
+871	Il se gratte le nez. « J'ai grandi en me faisant dire d'être reconnaissant. »
+872	« Mais laisse-moi te poser cette question, Clerc. »
+873	« Si tu étais le dernier de ton espèce. L'un de peut-être huit ou neuf mille humains restant dans le monde. »
+874	« Et qu'on te disait ensuite d'être <i>reconnaissant</i> d'être en vie, juste parce que le même monstre qui a détruit toute ta culture a aussi décidé de te laisser vivre. Pour une raison ou une autre. »
+875	« Serais-tu reconnaissant ? »
+876	Il parle du Génocide des Gobelins.
+877	Est-ce à propos de la conquête ? Urth a bien tué beaucoup de gobelins alors.
+878	« Le Génocide des Gobelins fut la plus grande erreur d'Urth. »
+879	« Tu parles de la Conquête ? »
+880	« Il ne reste pas beaucoup d'humains dans le monde non plus, Snell. »
+881	« ...<i>Reconnaissant</i>. »
+882	Il lâche un rire moqueur.
+883	« C'est bon de savoir que notre situation actuelle était due à une erreur. Merci d'avoir éclairci ça. »
+884	« Ouais. Je le suis. »
+885	« Tu sais. Le Génocide des Gobelins. Comme ces savants tendent à l'appeler. »
+886	« Bien sûr. » Le gobelin te regarde un moment, puis hoche la tête.
+887	« C'est quoi, genre quatre-vingts pour cent éliminés durant la Guerre de la Côte ? Quatre-vingt-dix ? »
+888	« J'ai lu là-dessus. Ça a l'air terrible. »
+889	« Ça l'était. Je n'y étais pas, bien sûr. Ni mes ancêtres. <i>Mon</i> peuple est parti avant le pire. »
+890	« On l'a bien cherché. »
+891	« Nous sommes le dernier bastion de l'humanité. »
+892	« Tu es facétieux, gobelin ? »
+893	« Ouais. Quand même. »
+894	« Bah. Je sais pas. »
+895	« Non ? Je suis sérieux. »
+896	Il prend une profonde inspiration.
+897	« Je suppose que tu pourrais voir les Arcanistes comme une sorte de force extérieure qui a causé tout ça. »
+898	« Mais tu sais très bien qu'ils étaient humains aussi. Les hommes ont causé leur propre oubli. »
+899	« C'est une façon superficielle de voir les choses. »
+900	« Il y a une part de responsabilité là-dedans, oui. Une part de faute. »
+901	« Humain. Gobelin. Peu importe. On est tous des gens. »
+902	« Je ne me considère en aucune façon responsable d'aucune de ces tragédies. Je ne crois pas que ce soit sain de porter ça sur sa propre tête. »
+903	« Je crois que tout se résume à ce qu'on a aujourd'hui, alors. »
+904	« Toi au moins tu as une cité. Nous, on n'a même pas pu garder notre langue. »
+905	« Mais, bah, peu importe. J'imagine que je devrais juste être reconnaissant. »
+906	Le gobelin te fixe.
+907	Il ne s'attend à rien de bon sortir de ta bouche.
+908	Devrais-tu être reconnaissant ?
+909	C'est une question difficile. Un homme ne devrait pas simplement se coucher et accepter toute soumission qui arrive de la main d'un tyran.
+910	Mais parfois un homme doit aussi prendre des décisions difficiles, pour protéger ceux qu'il aime.
+911	Tu peux être reconnaissant. Si on t'a laissé vivre, c'est probablement parce que tu as fait quelque chose que les morts n'ont pas fait.
+912	Le gobelin veut que tu lui dises que tu partagerais sa colère. Évidemment.
+913	Si ton peuple est tombé, alors il n'avait pas le pouvoir de vivre. C'est aussi simple que ça.
+914	Mais cela ne devrait pas mener à la reconnaissance. Cela devrait mener à l'appréhension.
+915	« Je serais reconnaissant. »
+916	« Je haïrais le monstre qui a détruit mon peuple. »
+917	« Je serais confus. »
+918	« Je serais prudent. »
+919	« Je ne sais pas ce que je ressentirais. Ce serait une mort de l'âme. »
+920	« Je m'en fiche. C'est un sujet pour les gobelins. Pas pour les hommes. »
+921	Il plisse les yeux. « Pourquoi ? »
+922	« Parce que parfois un homme doit prendre des décisions difficiles, pour le bien de l'avenir. »
+923	« Parce qu'on m'a laissé vivre. Ça doit signifier quelque chose. »
+924	« Pourquoi pas ? »
+925	Son expression sévère s'affaisse.
+926	« Qui ne le serait pas. »
+927	Il hoche la tête, lentement.
+928	« Tu ne serais pas seul. »
+929	« Prudent ? »
+930	« Si ça a pu être fait une fois. Ça peut être refait. »
+931	« Très prudent avant de faire confiance au monstre. »
+932	« Prudent. Comme ça, en général. »
+933	« Une âme collective, en quelque sorte. »
+934	« Ça a l'air d'une belle façon de vivre. Juste laisser les autres réfléchir, pendant que tu continues de répandre violence et destruction. »
+935	« J'imagine que c'est ce qui a mené au saccage d'Urth sur Askan en premier lieu. »
+936	« La pure ignorance humaine. »
+937	Snell claque la langue et se lève.
+938	« Chaque gobelin se pose cette question. Être un <i>Crann</i>, ou ne pas être un <i>Crann</i>. »
+939	« On a tous eu des réponses différentes. Que faire quand le passé est effacé. »
+940	Il grogne, et secoue un peu ses jambes.
+941	Elles ont dû s'engourdir à force d'être assis sur le sol du donjon.
+942	« Certains se concentrent à bâtir quelque chose. Culturellement, ou politiquement. »
+943	« Certains essaient de devenir riches dans ce nouveau <i>monde errant</i>. »
+944	« Certains d'entre nous, on... »
+945	Sa voix se perd tandis qu'il fixe de nouveau le couloir enflammé.
+946	« Tu détestes Urth. »
+947	(Le fixer.)
+948	Le gobelin hoche la tête.
+949	« Un petit peu de haine, ouais. »
+950	« Mais après, je ne fais qu'une seule chose, Clerc. »
+951	Le gobelin grogne pour lui-même. « Peu importe. »
+952	« Je sers Dame Sageleaf. »
+953	Snell se retourne vers toi, son expression calme. Posée.
+954	« Ça me suffit. »
+955	Sa haine provient des <i>collines ensanglantées de Verdune</i>. Une blessure générationnelle.
+956	Une blessure qui suppure, faute de comprendre la réalité historique de nos deux peuples. Humains et gobelins ne pouvaient coexister. Urth a rendu cela possible.
+957	Cela ne veut pas dire que Snell a tort de ressentir cela. Mais tu dois lui montrer la vérité : que les enseignements d'Urth ne sont pas pour la brute du billot, mais pour l'homme qui sait quand garder sa lame au fourreau.
+958	Écoute, ce type a assez d'ennuis à gérer, n'en fais pas un truc tout existentiel.
+959	Comme il te le dit : ce n'est pas personnel. C'est des affaires, et il a un boulot à faire, tout comme toi. Et ne t'inquiète pas de cette haine gobelin-contre-humain que tu lis entre les lignes ici. Tout ça disparaîtra une fois que Norvik évoluera en cité-État moderne.
+960	Alors Snell, et tout autre travailleur et entrepreneur doué de conscience, pourront affluer dans cette cité stagnante. Alors personne n'en aura rien à foutre qu'il soit un <i>Crann</i> ou non- il sera juste un autre acteur dans le système. Tout comme ça doit être, bébé !
+961	Un morceau de PEUR. Un morceau d'ENVIE. Certains engendrés - certains façonnés.
+962	Le gobelin est CONSCIENT de TOUT. Son esprit filant à travers les couches interconnectées de la société. Son estomac t'envoie un message.
+963	<i><shake>QUI SUIS-JE ?</shake></i>
+964	Ce gobelin est l'un des bons, c'est vrai.
+965	Ordonné, strictement dressé, consciencieux. Sa reine, son <i>dragon</i>, a remis les Halfways au pas en un si court laps de temps.
+966	Il n'a pas besoin de tant réfléchir à sa position. Sa <i>culture</i> a été éradiquée à cause d'un choix utilitaire d'un numéniste oppressif, oui. C'était alors. Maintenant, c'est maintenant. Tant qu'il continue ainsi, il aura - avec ses pairs - créé un nouveau type de gobelin mille fois plus utile.
+967	Une fois que <i>toi</i>, tu prendras le pouvoir : ces gobelins feront de bons serviteurs.
+968	Ton cœur bat vite. Tu peux l'entendre.
+969	Chaque mot sortant de la bouche de Snell est teinté de générations de douleur. Son père. Le père de son père, qui fut tué par le dieu que tu ériges en unique <i>bien suprême</i>. Comment ça marche, ça ?
+970	La réponse, c'est que ça ne marche pas. <i>Urth a détruit des peuples</i>. Il a personnellement accompli plusieurs <i>folkmord</i> sur cette bande. Ce n'est pas quelque chose que toi, ou tout humain de ta foi, pourra jamais ignorer. Pas sans vider vos âmes de leur sang au passage.
+971	Snell fait preuve d'une grande retenue, chaque jour. Et tu le mets à l'épreuve, à chaque instant.
+972	Ça aurait pu plus mal tourner.
+973	Mais ouais, probablement malin de ne pas parler génocide avec le type dont toute la culture a été effacée il y a, quoi, cinquante ans ?
+974	Attends, oh merde. C'est littéralement le cinquantième anniversaire cette année. C'est dingue ! Bref, NE mentionne pas ça, ni rien de tout ça, à nouveau. Il sera probablement le plus heureux si tu te contentes d'écouter et d'encaisser comme un bon petit Azgaliste ou un truc du genre.
+975	(Hocher la tête.)
+976	(Ne pas hocher la tête.)
+977	Ton compagnon te regarde un moment. Ses yeux jaunes semblent te contempler, cherchant une autre réponse.
+978	« Celui-là, c'est pour moi. »
+979	« Quoi ? »
+980	« Ce, euh... <i>court repos</i>. C'est moi qui offre. »
+981	CHARMANT.
+982	La lumière-lutin s'éteint en grésillant, juste à temps.
+983	« Je suis prêt à y aller maintenant. »
+984	(Se lever et se mettre en route.)
