@@ -1,1 +1,1 @@
-progression: lot1(système)=105/741
+progression: lot1(systeme)=105/741 ; reste ~636 (.Description 442,.description 141,.quickResponse 53)
