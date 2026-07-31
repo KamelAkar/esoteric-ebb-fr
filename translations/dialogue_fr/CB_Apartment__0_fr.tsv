@@ -1,0 +1,317 @@
+idx	french
+0	« <i>Ho-la-vache</i>. »
+1	« C'est pas tous les jours qu'on voit un truc pareil... »
+2	Niché dans les vestiges d'un appartement envahi par la végétation et très probablement déplacé ésotériquement...
+3	Tu te tiens devant le crâne d'un dragon.
+4	Pas n'importe quel dragon.
+5	Sa taille indique un âge formidable.
+6	C'est quoi ce bordel.
+7	C'est un dragon ancien de l'Ère du Déclin.
+8	Une bête horrible, tuée par quelque grand héros d'antan.
+9	Le dragon est mort.
+10	Très, très mort.
+11	(Regarder autour.)
+12	Tu peux le sentir.
+13	Ce n'est pas une CHAMBRE ordinaire.
+14	C'est un lieu EN DEHORS du matériel.
+15	L'étrange sensation...
+16	Est-ce que c'est...?
+17	Une poche ésotérique, oui. Cet appartement en ruine tout entier existe à l'intérieur d'une.
+18	Une plutôt stable, qui plus est.
+19	Examiner le crâne.
+20	Je ne devrais <i>pas</i> rester dans ce lieu.
+21	Comme tu l'as réalisé. C'est une Poche Temporelle.
+22	Le temps à l'intérieur s'écoule lentement. Dix contre un, si tu en crois le dragon- ce qu'en l'occurrence tu devrais.
+23	Ça s'aligne sur ton infaillible horloge interne.
+24	Et le vieux gobelin est très probablement ici depuis plus de dix ans, de son point de vue.
+25	Mais ce n'est pas ton problème.
+26	J'ai une horloge interne infaillible.
+27	Oui.
+28	Plus ou moins.
+29	Pas. Ton. Problème.
+30	Logiquement, ça devrait être une sorte de dimension de poche.
+31	Elle paraît plutôt stable.
+32	C'est une poche-jungle d'un genre ou d'un autre.
+33	Elle paraît stable, pour l'instant.
+34	Très ésotérique.
+35	Une dimension de poche ?
+36	Une poche-jungle ?
+37	Un éclat de dimension de poche, projeté dans le royaume matériel.
+38	Elle se déplacera probablement avec le temps, emportant un nouveau morceau de quelque chose avec elle.
+39	Volant des objets, piégeant des victimes, et accumulant des objets anciens.
+40	Comme ce crâne de dragon.
+41	Bien que ce soit très probablement plus que le seul crâne piégé entre ces murs.
+42	Oui. Les murs envahis de végétation et l'étrange lumière ambiante le rendent évident.
+43	C'est un éclat de terre venu de quelque temps ancien.
+44	Probablement l'Ère du Déclin. Peut-être celle des Portes.
+45	Ne t'attarde pas trop ici.
+46	Le crâne massif est posé là, vide et ancien.
+47	Aucun signe de Domnall.
+48	Il est probablement plus profond à l'intérieur. Caché.
+49	Gardant sa précieuse clé.
+50	La structure crânienne est remarquablement intacte, comme on peut l'attendre de cette poche.
+51	Hautement dense, aussi. L'analyse en coupe des fractures exposées montre un tissu trabéculaire minimal.
+52	D'après ce que tu as lu sur les os de dragon, qui sont une fascination chez certains savants, ceux-ci sont authentiques, pour commencer.
+53	Les sutures sont complètement soudées - pleine maturité squelettique.
+54	Et la taille semble pointer vers un âge mature.
+55	Quelque part entre adulte et ancien.
+56	Un <i>Dragon Rouge.</i>
+57	Plus important encore, tu remarques quelque chose de logé dans le maxillaire postérieur...
+58	Quelque chose dans la cavité sinusale.
+59	(Plonger la main dans la... <i>cavité sinusale</i>.)
+60	Prudence.
+61	N'enfonce pas ta main trop profond.
+62	Qui sait ce qui se tapit là-dedans.
+63	Tes doigts effleurent quelque chose de froid. Du métal.
+64	Tu le retires.
+65	Une clé.
+66	Couverte de mousse et de rouille. Ancienne. <i>Ésotérique</i>.
+67	Elle te picote dans la main.
+68	« Qu'est-ce que t'as trouvé ? »
+69	Il tend le cou pour mieux voir.
+70	(Lui montrer la clé.)
+71	« Une clé de quoi ? »
+72	« Je sais pas encore. »
+73	« Quelque chose d'important, je parierais. »
+74	« Le plus grand trésor du monde, probablement. »
+75	« Utile. »
+76	Il lève les yeux au ciel.
+77	« Tu parierais un tas de choses. »
+78	« C'est ça. Bien sûr. »
+79	« Hein. Rouillée. »
+80	Le condyle occipital montre que c'était une créature capable de supporter un immense poids de cou.
+81	Les fenêtres temporales sont énormes - de la place pour de massifs muscles adducteurs.
+82	D'après la longueur du crâne et la capacité crânienne...
+83	Mmm. Oui. Il me vient une idée. (Réfléchir intensément.)
+84	Ce dragon avait au moins plusieurs siècles quand il est mort.
+85	Tu remarques quelque chose d'intéressant à propos des orbites.
+86	Une étrange profondeur en elles.
+87	Mais rien d'autre de notable.
+88	Snell bâille.
+89	« T'as fini de fouiner là-dedans ? »
+90	(Reculer du crâne.)
+91	« Prends ton temps. C'est pas comme si on était dans une poche ésotérique glauque ni rien. »
+92	Tu le fais. Y réfléchissant profondément tout en le faisant.
+93	Puis tu l'entends. Un son.
+94	Un raclement. Un traînement.
+95	Venant de L'INTÉRIEUR du crâne.
+96	En approche !
+97	(Se préparer.)
+98	Snell a déjà sa fronde sortie, prête à-
+99	Un gobelin jaillit du trou de l'œil du dragon.
+100	« ...C'est quoi ce <i>bordel</i> ? »
+101	« <b>Hé !</b> »
+102	Un gobelin. Ses yeux couverts d'une paire de lunettes-goggles faiblement luisantes. Autour de sa tête, une sorte de heaume. De la ferraille rouillée. Ce que tu vois de son visage révèle de profondes rides, couvert de poussière et de fragments d'os.
+103	Un VIEUX gobelin ?
+104	« Qu'est-ce que vous faites chez moi ?! »
+105	Snell fait un pas en avant. « Hé. C'est un territoire Halfway. Identifie-toi. »
+106	Le vieux gobelin se laisse tomber au sol dans un bruit sourd, les articulations craquant.
+107	Il porte ce qui a peut-être été jadis des vêtements. Maintenant, ce sont surtout des haillons.
+108	Ses yeux sont sauvages. Féroces.
+109	Ce gobelin est seul depuis très, très longtemps.
+110	« Je suis Domnall. Et vous êtes sur MON territoire. Je suis arrivé le premier. »
+111	Tu vois le vieux gobelin brandir une étrange clé.
+112	« Je me suis crevé le cul pour en arriver là. Et vous ne perturberez aucun de mes progrès, vous entendez ? »
+113	« Alors partez. Maintenant ! »
+114	« J'ai d'abord quelques questions. »
+115	« Je préférerais que vous partiez. »
+116	« On ne se connaît pas tous, Clerc. »
+117	(Se tourner vers le gars.) « Hé, le gars. Tu connais mon pote Snell ici présent ? »
+118	« Non. On ne se connaît pas tous. »
+119	« Maintenant, partez, je vous prie. »
+120	Ses yeux se verrouillent sur ta main.
+121	La clé.
+122	« <b>Ma clé !</b> »
+123	Il pointe un doigt noueux vers toi.
+124	« Vous ne venez pas de voler ça, si ? »
+125	« Non. Je l'ai juste trouvée. Dans le crâne. »
+126	« Qui trouve garde. »
+127	« Le crâne est à moi, alors. Vous pouvez rendre ça. »
+128	« QUI VOLE PLEURE ! »
+129	Il tape du pied.
+130	« Maintenant rendez-la. »
+131	« Rendez-la. Rendez-la maintenant. Rendez. »
+132	Ça n'arrivera littéralement pas.
+133	Hm. Est-ce vraiment sa clé ? En est-il le propriétaire ?
+134	« Explique encore, qui es-tu ? »
+135	« Depuis combien de temps es-tu ici en bas ? »
+136	« Qu'est-ce que la clé ouvre ? »
+137	« Je suis DOMNALL ! C'est MON appartement. Ce sont mes os de dragon. »
+138	« Ces connards de sectateurs sont déjà passés par ici une fois, à fouiner, et maintenant vous ? »
+139	« Des sectateurs ? »
+140	« Ouais ! Un d'eux au moins. Passé par ici... je sais pas, il y a quelques semaines ? »
+141	« Portait ces robes de secte. Des psalmodies de secte. De mauvais types. »
+142	Il se gratte la tête, délogeant un petit nuage de poussière.
+143	« Genre... un an ? Peut-être ? »
+144	Les yeux de Snell s'écarquillent.
+145	« Un <i>an</i> ? »
+146	« À peu de chose près. »
+147	Ses yeux se plissent.
+148	« Ça t'intéresserait de le savoir, HEIN ? »
+149	« C'est la clé du PLUS GRAND TRÉSOR du BUTIN D'ESUTH. »
+150	Un <shake>BUTIN</shake> ?!
+151	Un mythe.
+152	Le vieux gobelin siffle.
+153	(Se pencher vers Snell.) « Il siffle. Le vieux siffle. »
+154	« J'entends bien. »
+155	« J'ai PAS besoin d'aide ! J'ai besoin de ma CLÉ ! »
+156	Snell soupire. « Écoute, l'ancien. Tu es coincé dans une poche ésotérique depuis les dieux savent combien de temps. »
+157	« Viens avec nous. La Tribu du Pont Halfway peut- »
+158	« Je ne vais NULLE PART sans cette clé ! »
+159	Son esprit est ici depuis bien plus longtemps qu'il ne le croit.
+160	« On enverra quelqu'un le chercher. Tôt ou tard. »
+161	« Pour l'instant, contentons-nous de... ne pas perdre plus de temps ici. »
+162	Tu tends la clé.
+163	Les yeux du vieux gobelin s'illuminent.
+164	Il tend la main vers elle-
+165	Puis s'arrête.
+166	« Non. NON. C'est un piège ! »
+167	« Vous allez m'attraper ! M'emmener loin de mon FOYER ! »
+168	« Non. Pourquoi je ferais jamais ça ? Tu deviens paranoïaque. » (Sonner sincère.)
+169	« Zut. Tu as déjoué mon plan. Mince alors. Maintenant je vais devoir garder cette clé pour moi. » (Essayer de sonner sincère.)
+170	Pauvre homme.
+171	Des années d'isolement ont brisé son esprit.
+172	« Je n'essaie pas de te piéger. »
+173	« C'EST CE QUE DIRAIT UN FILOU ! »
+174	« Écoute, vieil homme. On veut juste- »
+175	« ENCORE UN FILOU ! »
+176	« Alors tu ne me laisses AUCUN CHOIX ! »
+177	Le vieux gobelin fouille dans ses haillons et en sort...
+178	Un parchemin.
+179	Jauni. Ancien.
+180	« Je GARDAIS ça de côté ! »
+181	Il déroule le parchemin de ses mains tremblantes.
+182	« <i>Manus... arcana... DOMINATUS !</i> »
+183	Ce ne sont pas les mots corrects. Mais ça semble s'activer malgré tout.
+184	La clé S'ARRACHE de ta prise.
+185	Oh non, pas question...!
+186	La rattraper.
+187	(La laisser retourner à lui.)
+188	Avec une vitesse intense, tu projettes tes bras en avant.
+189	La clé est... <shake>SAISIE</shake>.
+190	Merde.
+191	Trop rapide...!
+192	Elle vole à travers les airs, droit dans la paume tendue de Domnall.
+193	Un parchemin de télékinésie.
+194	« Hah ! »
+195	Il serre la clé contre sa poitrine.
+196	« À moi ! »
+197	Et puis il BONDIT.
+198	De nouveau dans l'orbite.
+199	Se débattant. Raclant.
+200	Parti.
+201	« C'était <i>ma</i> clé... »
+202	(Fixer le crâne en silence.)
+203	« Dans le crâne ? Bah. »
+204	« Écoute. Je ferai un rapport à la Vieille Dame. On enverra une équipe ici plus tard. Tu sais, tôt ou tard. »
+205	« Ce pauvre bougre est seul depuis trop longtemps. Il a besoin... je sais pas. D'une <i>aide professionnelle</i>. »
+206	« Non, ça ne l'était pas. »
+207	« Pas sûr que ce fût <i>la sienne</i> non plus, cela dit. »
+208	L'orbite te fixe en retour.
+209	Vide.
+210	Mais pas vraiment.
+211	« Partons, tout simplement. »
+212	« Rien de bon ne peut sortir du fait de rester ici. »
+213	« Bon sang ! »
+214	« Bon, prends la clé ! Mais tu ne prendras jamais mes os ! »
+215	« PARTIR ?! HA ! »
+216	« Tu dis juste ça pour que je baisse ma garde ! »
+217	Il déroule le parchemin.
+218	« <i>Manus arcana DOMINATUS !</i> »
+219	Une force invisible te POUSSE en arrière.
+220	« AÏE ! »
+221	« Reste LOIN de ma CLÉ ! »
+222	Dans l'orbite du crâne.
+223	Se démenant dans les ténèbres au-delà.
+224	Snell regarde le vieux voler à travers les airs, lâchant un sifflement impressionné.
+225	« C'est un enfoiré bien alerte. »
+226	Il se frotte l'épaule là où le sort l'a touché.
+227	<i>Animare</i>.
+228	(Se pencher et chuchoter au crâne.) « <i>Animare</i>. »
+229	Un profond grondement, à travers tous les murs de l'appartement.
+230	« Ho là...! »
+231	« Je parie que le vieux a senti ça. »
+232	« Super ! Très utile », crie-t-il en tentant de garder l'équilibre.
+233	Un vent parcourt la chambre, à travers chaque orifice du crâne de dragon, et à travers <i>toi</i>.
+234	Puis il s'arrête.
+235	Il est prêt.
+236	« Qui es-tu ? »
+237	« Que fais-tu ici ? »
+238	« Es-tu un dragon ancien ? »
+239	« Quel est ton nom ? »
+240	« Sais-tu quoi que ce soit sur le salon de thé ? »
+241	« Quel est le sens de la vie ? »
+242	« Je me suis toujours demandé, ça fait quoi de cracher du feu ? »
+243	« De quelle couleur es-tu ? Je dis pas ça de façon bizarre, c'est juste- tu sais- les dragons tendent à être plutôt différents selon les chromatiques. Je dis pas que t'es un connard juste parce que t'es pas un dragon doré ni rien, mais je veux dire, ça faciliterait probablement les choses. »
+244	« Comment je me procure mon propre dragon de compagnie ? »
+245	« Attends. Je crois que ça compte comme une question si tu le dis comme ça. Alors il va juste- »
+246	Un autre grondement.
+247	« <i><u>EGO</u> SUM TERROR. ŌRĀS VĀSTŌ. SUM PRĪMOGENITUS</i>. »
+248	La voix te fait reculer, violemment.
+249	<i>Je suis la terreur. Je rase des Côtes. Je suis le premier-né.</i>
+250	Encore quatre questions.
+251	« Ouais, ouais. Dis-moi quelque chose que je <i>ne</i> sais <i>pas</i>. » (Essayer de ne pas tomber.)
+252	« Je crois pas que tu répondes à ma question. » (Essayer de ne pas tomber.)
+253	« Désolé, j'ai rien pigé de tout ça. » (Essayer de ne pas tomber.)
+254	« Parle <i>diminorien</i>, mon pote ! » (Essayer de ne pas tomber.)
+255	Il se calme. Mais le vent continue.
+256	« JE SUIS LE MAÎTRE DE XERKAMOOT. LA PREMIÈRE-FLAMME. »
+257	« <b>JE SUIS PRIMORDAEX</b>. »
+258	Encore trois questions.
+259	« Qu'est-ce que ça veut dire ? »
+260	« Dis-moi un secret. »
+261	« Es-tu un fils d'Esuth ? »
+262	« Où est le butin de ton père ? Le vraiment célèbre ? »
+263	« MON COURROUX NE CONNAÎT NULLE LIMITE », poursuit-il, ignorant ta question. « TRAHI PAR LA CHAIR ET LA PIERRE. »
+264	« NOUS N'AVONS PU PRÉVOIR LA NATURE MAUDITE DE CETTE CITÉ. »
+265	« SON ESPRIT HANTÉ, UNE RELIQUE DE JOR. IL M'A PIÉGÉ ICI. »
+266	« Ô, PÈRE. QUASI-GRAND-WYRM DE CENDRE ET DE NEIGE. COMME JE DEVAIS M'ÉLEVER DE TON OMBRE. »
+267	« QUELS FILS FURENT RACCOMMODÉS POUR SCELLER CE SORT. QUELLE TERREUR A FLANCHÉ EN MON ABSENCE. »
+268	« COMME JE DEVAIS PRENDRE LE TRÔNE. COMME JE DEVAIS ASSIÉGER TOUTES LES BANDES. »
+269	« <i>FRUSTRA</i>. »
+270	<i>En vain.</i>
+271	<i>Tout en vain.</i>
+272	Encore deux questions.
+273	« Quel âge as-tu ? »
+274	« Quelle est ta couleur préférée ? »
+275	« Allô ? Tu m'écoutes ? »
+276	« Sérieusement, dis-moi : où est le Butin d'Esuth ? »
+277	« Tu ne réponds pas à mes questions, hein ? »
+278	De nouveau, tout dans la poche tremble.
+279	« N'EÛT ÉTÉ CETTE POCHE DE MAGIE IMMONDE... »
+280	« LES VESTIGES DE JOR ONT TOUT FAIT. UN TROU DANS LE TEMPS ET L'ESPACE. MES YEUX FORCÉS DE REGARDER PENDANT DES SIÈCLES TANDIS QUE PASSENT LES MILLÉNAIRES. »
+281	« UN INSTANT À L'INTÉRIEUR, ÉGAL DIX AU-DEHORS. »
+282	C'est... la nature de cette poche.
+283	Tu vois maintenant.
+284	Cette poche, qui engloutit cet appartement, ces os, et tout ce qui se faufile à travers ces murs.
+285	C'est une Poche Temporelle.
+286	Une seconde à l'intérieur égale dix au-dehors.
+287	Oh.
+288	« Oh. »
+289	Le gobelin l'a compris lui aussi.
+290	« Oh merde. C'est mauvais, ça ? »
+291	« C'est bon, Snell. On n'est ici que depuis quelques minutes. »
+292	« Ouais, mais... ne restons pas. Pose ta dernière question. »
+293	Le crâne est silencieux.
+294	Encore une question.
+295	Une seule, une unique question, te vient à l'esprit...
+296	« Dis-moi, dragon. Où est <i>le Butin d'Esuth</i> ? »
+297	« POURQUOI, SUR CETTE TERRE CALCINÉE, TE DIRAIS-JE JAMAIS UNE TELLE CHOSE, <i>MINUSCULE HUMAIN</i> ? »
+298	« QUAND NOUS AVONS APPORTÉ LA RICHESSE EN CE CENTRE DU MONDE - SOLIUM IGNIS - POUR BÂTIR LE PLUS GRAND EMPIRE DE TOUT MONDE, AU-DELÀ ET AU-DEDANS... »
+299	« RIEN NE NOUS EMPÊCHAIT DE PRÉPARER LE BUTIN PARFAIT POUR MON PÈRE. LE TRÔNE PARFAIT POUR SON DOMAINE DE FEU. C'EST LE PLUS GRAND TRÉSOR JAMAIS AMASSÉ. »
+300	Oh par les dieux...!
+301	« MAIS TU NE LE TROUVERAS JAMAIS. CAR IL FUT ENGLOUTI. IL FUT ENFOUI. IL FUT VERROUILLÉ. »
+302	Le crâne cliquette, l'appartement tremble, tandis que les restes de Primordaex lâchent un rire de dément.
+303	Tandis que le son s'estompe, l'imitation de la vie aussi.
+304	« Oh là là. »
+305	« Enfin... écoute- on ne cherche aucun trésor de dragon. On a des choses à faire. »
+306	« Mais je l'admets. Ça a l'air plutôt croustillant. »
+307	« Ouais. J'adorerais partir à la chasse au trésor. »
+308	« Il mentait. Il veut simplement qu'on coure partout à chercher un butin qui n'existe pas. »
+309	« Les dragons. Ils adorent vraiment se moquer de nous. »
+310	« Si ça implique le plus grand trésor de toute l'existence, alors... »
+311	« Bah. J'ai le sentiment qu'il pourrait y avoir un fond de vérité dans ces mots. »
+312	« Oh que oui. »
+313	« Bah. De toute façon, ce serait un tracas d'avoir autant d'argent. »
+314	« Maintenant sortons de cette poche, avant de perdre plus de temps. Ça fait déjà... quoi, trente minutes au-dehors ? »
+315	« Ouais. Tirons-nous d'ici. »
