@@ -2,7 +2,7 @@ idx	french
 0	Entrer dans la Compagnie Marchande AR t'accueille d'une vision aveuglante.
 1	Un être céleste, forgé dans une lumière radieuse.
 2	« Ah, Clerc. Vous arrivez exactement quand j'ai besoin de vous. »
-3	« Voici l'ambassadeur de la Horde Dorée. »
+3	« Voici l'ambassadeur de la Horde d'Or. »
 4	La lumière se tend vers toi, tandis qu'une voix se forme dans ton esprit.
 5	« Ne crains point la lumière. »
 6	« La nôtre ne désaligne pas. Tu es en sécurité. »
@@ -82,11 +82,11 @@ idx	french
 80	« Ce que tu as accompli ici avec l'Agente Viira en apporte une preuve de plus. »
 81	« Pourquoi me prêtez-vous la moindre attention ? »
 82	« Merci. » (Faire une profonde révérence.)
-83	« Arrêtez de fouiller dans mon passé. Je n'aime pas vous autres de la Horde Dorée. »
+83	« Arrêtez de fouiller dans mon passé. Je n'aime pas vous autres de la Horde d'Or. »
 84	« C'est ce que nous faisons. »
 85	« <i>Clerc</i>. »
 86	« Peut-être reconsidéreras-tu. »
-87	« La Horde Dorée souhaite t'étendre un lien de service. »
+87	« La Horde d'Or souhaite t'étendre un lien de service. »
 88	« À toi et Snell. »
 89	« Un lien...? » marmonne-t-il derrière toi.
 90	Ça pourrait être cool. Mais qu'est-ce que tu en retires ?
@@ -101,10 +101,10 @@ idx	french
 99	« Écoutez l'ambassadeur jusqu'au bout, Clerc. »
 100	Elle essaie de t'aider à ne pas te ridiculiser.
 101	Elle est dans sa poche.
-102	« La Horde Dorée offre de nombreuses opportunités aux contractants extérieurs. »
+102	« La Horde d'Or offre de nombreuses opportunités aux contractants extérieurs. »
 103	« Adressée via la Compagnie Marchande Askanii-Reeds, nous serions très intéressés à bâtir cette relation potentielle. »
 104	« Ceci signifie, pour toi : des postes de pouvoir bien rémunérés. Des ambitions politiques. Une sécurité pécuniaire. »
-105	« En retour, ceci signifie : des communications mensuelles avec des agents. Des objectifs alternatifs occasionnels tels qu'ordonnés par nous - et à terme, rejoindre le programme de rayonnement de la Horde Dorée. »
+105	« En retour, ceci signifie : des communications mensuelles avec des agents. Des objectifs alternatifs occasionnels tels qu'ordonnés par nous - et à terme, rejoindre le programme de rayonnement de la Horde d'Or. »
 106	En bref, deviens leur espion.
 107	En retour, ils te protègent.
 108	La sécurité sous l'AILE de la HORDE.
@@ -114,7 +114,7 @@ idx	french
 112	Ce céleste veut se servir de toi. Il te voit comme du bétail. Rien d'autre.
 113	Tu ne parviens pas à déchiffrer ce céleste. Il t'est véritablement étranger.
 114	« La CM Askanii-Reeds coopérerait bien sûr à un tel accord. Si cela vous intéressait, Clerc. »
-115	« Nous avons des liens profonds avec la Horde Dorée, comme vous pouvez l'imaginer. »
+115	« Nous avons des liens profonds avec la Horde d'Or, comme vous pouvez l'imaginer. »
 116	« Cette offre est-elle quelque chose qui t'intéresserait, Ragn ? »
 117	« Potentiellement. »
 118	« Oui. Inscrivez-moi. »
@@ -151,12 +151,12 @@ idx	french
 149	Elle n'a pas aimé ça.
 150	Oh oh.
 151	« Quels changements ? »
-152	« Actuellement, l'Accord comporte une forte incitation pour les investisseurs reedsiens. Nous souhaitons l'étendre pour y inclure ceux de la Horde Dorée. »
+152	« Actuellement, l'Accord comporte une forte incitation pour les investisseurs reedsiens. Nous souhaitons l'étendre pour y inclure ceux de la Horde d'Or. »
 153	« Je crois que nous avons parlé de ça à la- »
-154	« Cette AEFA comporte aussi plusieurs failles et éléments problématiques qui pourraient interférer avec les blocus actuels et futurs de la Horde Dorée. »
+154	« Cette AEFA comporte aussi plusieurs failles et éléments problématiques qui pourraient interférer avec les blocus actuels et futurs de la Horde d'Or. »
 155	« Les Terres des Clans. »
 156	« Oui. Entre autres. »
-157	« Si les commerces locaux sont en mesure de commercer librement par voie terrestre, comme par voie maritime, avec des régions et des États que la Horde Dorée juge sous sanction, tant dans les cas plus graves comme le conflit des Terres des Clans, que dans les situations moindres de tarifs ciblés, alors nous ne pouvons avancer. »
+157	« Si les commerces locaux sont en mesure de commercer librement par voie terrestre, comme par voie maritime, avec des régions et des États que la Horde d'Or juge sous sanction, tant dans les cas plus graves comme le conflit des Terres des Clans, que dans les situations moindres de tarifs ciblés, alors nous ne pouvons avancer. »
 158	« Cette question a déjà été soulevée avec vos propriétaires. Attendez-vous à plusieurs errata dans un proche avenir. »
 159	« Il aurait été bon de voir ces remarques <i>avant</i> l'élection. Comme convenu. »
 160	« Je m'excuse du retard. Mais je vous l'assure, cette question est entièrement la faute de la Compagnie Marchande Askanii-Reeds. »
@@ -175,7 +175,7 @@ idx	french
 173	« Bien sûr, <i>Ambassadeur</i>. Merci de l'avertissement. »
 174	Tout son être est <i>rage contenue</i>.
 175	La lumière se retourne vers toi.
-176	« La Horde Dorée est très intéressée à voir la prospérité économique dans ta cité, Ragn. »
+176	« La Horde d'Or est très intéressée à voir la prospérité économique dans ta cité, Ragn. »
 177	Pour pouvoir nous exploiter comme main-d'œuvre esclave.
 178	Ils veulent le contrôle.
 179	Une croissance par l'influence économique étrangère n'est pas une vraie croissance.
@@ -191,7 +191,7 @@ idx	french
 189	Que sont les halfelins pour nous ?
 190	Oh par les dieux. Qu'est-ce que je devrais dire ?
 191	« Ce sont nos plus proches voisins. Le peuple d'Urth se tiendra toujours aux côtés des Terres des Clans. » (Soutenir les Terres des Clans.)
-192	« Le peuple de Norvik ne croit pas à la propagande halfeline. » (Soutenir la Horde Dorée.)
+192	« Le peuple de Norvik ne croit pas à la propagande halfeline. » (Soutenir la Horde d'Or.)
 193	« Ma cité ne se mêle pas des conflits étrangers. Nous chercherons simplement la prospérité <i>et</i> éviterons la propagande. » (Rester neutre.)
 194	Des voisins. Pas trop proches.
 195	Une sorte de voisins.
@@ -219,7 +219,7 @@ idx	french
 217	« Agente Viira. Vous avez été un atout précieux pendant de nombreuses années. Pourtant je perçois en vous de la frustration. Ce n'est pas acceptable. »
 218	Elle foudroie la lumière du regard.
 219	« Vous veillerez à ce que la Compagnie Marchande Askanii-Reeds se conforme pleinement à l'erratum de l'AEFA. »
-220	« C'est une affaire de sécurité de la Horde Dorée. Ce n'est pas négociable. Ce sera votre plus haute priorité dès à présent. »
+220	« C'est une affaire de sécurité de la Horde d'Or. Ce n'est pas négociable. Ce sera votre plus haute priorité dès à présent. »
 221	« Si le Clerc y consent, des fonds seront réunis pour son implication également. »
 222	Viira a l'air vaincue.
 223	L'orque est battue.
@@ -232,9 +232,9 @@ idx	french
 230	Le type-lumière est rapide et précis- mais tu sais. Tu SAIS qu'il baratine. C'est de l'INSTINCT.
 231	Prends-le en défaut. <b>Pour la Révolution</b>. Tiens-lui tête d'abord, puis fais-le !
 232	Prendre l'ambassadeur en flagrante contradiction.
-233	« Je suis heureux de voir la Horde Dorée aider ma cité, Ambassadeur. » (Lécher les bottes.)
+233	« Je suis heureux de voir la Horde d'Or aider ma cité, Ambassadeur. » (Lécher les bottes.)
 234	« Je comprends. » (Rester neutre.)
-235	« Tout ça, c'est des conneries. Les Errants sont corrompus. La Horde Dorée est une bande de monstres. Je ne supporte ni l'un ni l'autre. » (Ne prendre parti pour aucun. Qu'ils crèvent.)
+235	« Tout ça, c'est des conneries. Les Errants sont corrompus. La Horde d'Or est une bande de monstres. Je ne supporte ni l'un ni l'autre. » (Ne prendre parti pour aucun. Qu'ils crèvent.)
 236	Viira se ravive à tes mots.
 237	La lumière t'observe. Ne disant rien d'abord.
 238	Puis la voix émet un seul mot :
@@ -280,9 +280,9 @@ idx	french
 278	Ce céleste est un monstre.
 279	Tu ne leur dois rien.
 280	« Je... je vais prendre ceci en... considération. » (Incliner profondément et neutrement la tête.)
-281	« La baise aux Errants ! La baise à la <shake>Horde Dorée</shake> ! Je vous <i>méprise</i> tous les deux. » (Hurler, et rompre tes liens avec les Errants.)
+281	« La baise aux Errants ! La baise à la <shake>Horde d'Or</shake> ! Je vous <i>méprise</i> tous les deux. » (Hurler, et rompre tes liens avec les Errants.)
 282	« Bien », dit la voix.
-283	« La Horde Dorée est heureuse d'être d'assistance à ton peuple, Ragn. »
+283	« La Horde d'Or est heureuse d'être d'assistance à ton peuple, Ragn. »
 284	Viira ferme les yeux et soupire.
 285	La lumière s'intensifie.
 286	« Tu parles avec le cœur. »
@@ -315,7 +315,7 @@ idx	french
 313	« Un peu, ouais. »
 314	Elle rit.
 315	« J'imagine que je le mérite. »
-316	« Laissez-moi vous dire, nous ne sommes pas tout à fait aussi possédés par la Horde Dorée que ça en avait l'air. »
+316	« Laissez-moi vous dire, nous ne sommes pas tout à fait aussi possédés par la Horde d'Or que ça en avait l'air. »
 317	« C'est une coopération fonctionnelle. Ils ne vivent pas exactement selon nos valeurs libertaires. »
 318	« Les célestes ont bien une tendance à l'autoritaire. Et au... suprémaciste. »
 319	« Par les dieux. »
