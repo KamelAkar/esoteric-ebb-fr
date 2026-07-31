@@ -1,0 +1,404 @@
+idx	french
+0	« M. le Citadin ! »
+1	Tu vois une foule de nains s'affairer à l'intérieur du minuscule appartement.
+2	L'odeur de sueur confinée te rappelle cet été passé comme valet de ferme sur la plantation.
+3	Le bon temps.
+4	D'horribles souvenirs.
+5	« Bienvenue au Sanctuaire Azgalien de Tolstad. En abrégé, <i>SAT</i> ! »
+6	Nom d'un chien... On dirait qu'ils sont entassés les uns sur les autres.
+7	Un appartement rempli de rien d'autre que de volonté naine.
+8	Comment font-ils même pour respirer là-dedans ?
+9	« Ça ressemble juste à un appartement. »
+10	« Quel merveilleux sanctuaire tu as bâti ici. »
+11	« ...Bien sûr. J'ai quelques questions à te poser. »
+12	Il aspire l'air entre ses dents et regarde autour. « On n'est peut-être pas bien financés comme vous, les gens de la cité. »
+13	« Mais on use du peu qu'on a avec une efficacité totale ! »
+14	« C'est central. Et c'est petit. »
+15	Il aspire l'air entre ses dents et regarde autour. « Mais on use de ce qu'on a avec une efficacité totale ! »
+16	« Aux questions on peut répondre. »
+17	« Bon, on est très occupés ici, mais je vais t'accorder un peu de notre temps. »
+18	« Mais maintenant la question est : que peux-<i>tu</i> faire pour le Parti Ouvrier Azgalien ? »
+19	« Oh. C'est vrai. J'y avais pas pensé. »
+20	« Tu as quelque chose de particulier en tête ? »
+21	« Oui. Donne-moi une quête. Tout de suite. »
+22	« Eh bien. Voyons voir... »
+23	Le nain inspire profondément entre ses dents.
+24	Puis il jette un œil à ses hommes, avant de hocher lentement la tête.
+25	« On n'a rien besoin de particulier là. »
+26	« Quoi ? Non... » (Désespoir.)
+27	« Rien du tout ? »
+28	« Bien. Alors j'ai quelques questions. »
+29	« J'ai cinq hommes sur les Docks de Waterlane. Je prépare des discours et je supervise la distribution d'affiches. Tout ça en préparation de la Grande Marche, la veille du jour de l'élection. »
+30	Il a l'air de penser à plusieurs autres choses qu'il devrait être en train de faire là.
+31	Il essaie de te faire croire qu'il est occupé. Il est peut-être aussi <i>vraiment</i> occupé. Mais quand même.
+32	« Alors pas de vrai besoin d'un clerc lanceur de sorts ici, j'en ai peur. »
+33	« Soit. »
+34	« C'est comme ça. Les élections se gagnent par l'organisation et la presse. »
+35	« Pas la magie. Ce temps-là est révolu depuis longtemps. »
+36	Un sot parle de choses qu'il ne comprend pas.
+37	ÇA REFLUE. PUIS ÇA AFFLUE.
+38	Si tu souhaites les aider, ne propose pas un clerc. À la place... propose ton assistance pour leur impression.
+39	Parle avec Modissa.
+40	« M. le Citadin. De retour. »
+41	« À qui est cet appartement ? »
+42	« Je veux en savoir plus sur toi, Alfoz. »
+43	« Et si j'étais là pour mettre fin à toute cette opération ? »
+44	E-« Ce sera tout pour l'instant. Merci, citoyen. »
+45	« Simii a eu la gentillesse de nous prêter l'usage de son foyer jusqu'à l'élection. On te remercie, Simii ! »
+46	Tu entends une voix à l'arrière. « Pas de problème, Contremaître ! »
+47	« Ah bon ? »
+48	Son visage se raidit.
+49	Il est choqué.
+50	Il réalise quelque chose.
+51	« Une... elfe, dis-tu. »
+52	« Morte. »
+53	(Le fixer.)
+54	« Mm-hmm », articule-t-il dans ta direction tout en balayant la pièce du regard.
+55	Il ne croise pas ton regard.
+56	Le nain flanche.
+57	Il sait quelque chose. Tu le lis comme un livre ouv-
+58	Pas maintenant. On est au milieu d'un truc.
+59	« Dis-moi ce que tu sais, Alfoz. »
+60	(Rester silencieux jusqu'à ce qu'il craque.)
+61	« L'elfe... était-elle... »
+62	« Dans le feu. Ouais. »
+63	« Mais pourquoi n'ont-ils pas... »
+64	« Ils n'ont pas regardé comme il faut. Tu sais comment c'est. »
+65	« Mm. »
+66	« C'est regrettable. »
+67	Tu vois Modissa te lancer un regard, écoutant la conversation d'un air profondément renfrogné.
+68	« Pinja'Athena était une amie du mouvement. Je soupçonnais qu'elle serait impliquée là-dedans, d'une façon ou d'une autre. »
+69	« Mais... »
+70	Le nain ferme les yeux.
+71	Des années de labeur laissent leur marque.
+72	Soudain, il fait tout à fait son âge.
+73	« J'espérais qu'elle avait simplement quitté la cité. »
+74	« Qui était-elle ? »
+75	« Pour qui travaillait-elle ? »
+76	M-« Alors quoi, elle était secrètement une Azgaliste ? »
+77	« Une elfe illym. Un étrange mélange, je te l'accorde. »
+78	« Mais elle était gentille. » Il détourne le regard en le disant.
+79	« Elle-même, d'après ce que je comprends. <i>Comprenais</i>. »
+80	« Officiellement elle était liée à l'Ambassade Illym, ou peu importe comment ils l'appellent. »
+81	« <i>L'Émissariat</i>. »
+82	« C'est ça. »
+83	« Je n'irais pas jusque-là. »
+84	« Mais elle... <i>aidait</i>. »
+85	« Quoi qu'elle fût, elle partageait des informations toujours utiles. »
+86	« Des informations ? »
+87	« Alors c'était une relation transactionnelle ? »
+88	« Ouais. Elle t'a très probablement roulé. »
+89	Il sourit en coin, un sourire narquois. « Non, M. le Citadin. »
+90	« Ou si ça l'était, c'était très déséquilibré, vu qu'on n'a jamais rien fait pour elle. »
+91	« Roulé ? Ah, tu veux dire un jeu d'intrigue. »
+92	« Peut-être, M. le Citadin ! Mais si oui, elle y était plutôt mauvaise, vu qu'on n'a jamais rien fait pour elle. »
+93	« Elle me disait des choses, chaque fois que je la voyais. Des messages interceptés parfois. Des leviers à utiliser dans les conflits sociaux. »
+94	« Des affaires au Palais. Des chiffres de sondage, avant leur publication. Une opposition qui n'avait pas encore frappé. »
+95	« Je suis sûr qu'on aurait pris de l'avance sur cette histoire de PPG, si elle avait encore été là. »
+96	Ses yeux s'assombrissent.
+97	« À y penser, elle a immensément aidé ces dernières années. D'innombrables fois. Alors je me fiche de ce qu'elle se disait être. »
+98	« À mes yeux, elle était une Azgale, de bout en bout. »
+99	« Alors elle était une très mauvaise courtière d'information ? »
+100	« Était-elle liée aux Errants ? »
+101	« Et la cité, connaissait-elle des gens au Palais ? »
+102	« Avait-elle des ennemis ? »
+103	« Alors on dirait qu'elle était juste le meilleur genre de personne, hein ? »
+104	« Et les Illym ? Qu'est-ce qu'elle pensait d'eux ? »
+105	M-« Je crois que c'est tout ce que j'ai besoin de savoir. »
+106	Il glousse de bon cœur.
+107	Avec une pointe d'immense tristesse.
+108	« Bien nommé. »
+109	« Je suis sûr qu'elle l'était. D'une façon ou d'une autre. Sinon elle ne saurait pas la moitié des trucs qu'elle transmettait. »
+110	Il hoche la tête.
+111	« Je n'ai pas de détails. Mais oui, j'en suis sûr. »
+112	« Beaucoup, j'imagine ! »
+113	« Je l'ai avertie bien des fois que nous accorder tant d'informations pouvait la mettre en danger. »
+114	« Elle s'en fichait. »
+115	« Elle était bien », marmonne-t-il tandis que son expression retombe.
+116	« Tu sais, je lui ai demandé une fois. »
+117	« Bon, elle m'a pas exactement donné de réponse claire. Mais quelque chose dans mes tripes me disait... »
+118	« Elle était piégée. Voilà de quoi elle avait l'air. Comme un animal pris au piège. »
+119	« J'imagine que c'est pour ça que j'espérais qu'elle avait juste plié bagage quand on a plus eu de nouvelles. »
+120	« Elle méritait... d'être libre. Cette fille. »
+121	« Être abattue dans un fichu salon de thé... »
+122	« C'est immonde, franchement. »
+123	« Je vois pas pourquoi elle ferait ça. »
+124	« Bien sûr, je l'admets, je sais pas de quelle sorcellerie les elfes sont capables- mais je peux pas imaginer qu'une frêle elfe crée une boule de feu de cette ampleur. »
+125	« Du moins j'espère que non. Sinon les Illym viendront tous nous chercher très bientôt. »
+126	« Un... quoi ? »
+127	Un nain n'en saurait pas long là-dessus, imagines-tu.
+128	« Tu veux dire l'... objet magique ? »
+129	Il ne sait rien. Cette réaction est sincère.
+130	Ce nain est vraiment incapable de mentir, hein ?
+131	« Oui. Est-ce que Pinja l'a déjà mentionné ? »
+132	« C'est ça. Ça te dit quelque chose ? »
+133	Il secoue la tête, lentement. « Je crois pas ? »
+134	« C'est dangereux, ces trucs, non ? C'est celui qui a déclenché la... Guerre de la Côte. »
+135	Il te fixe un instant.
+136	Son bloc de granit de cerveau y travaille. Lentement.
+137	Laisse-lui juste une seconde.
+138	« ...Attends. Est-ce que le salon de thé a sauté à cause d'un de ces fichus trucs ? »
+139	« Possiblement. Je suis dessus. »
+140	« Non. » (Siffler.)
+141	« Peu importe. Mais merci d'avoir répondu aux questions. »
+142	« Eh bien, fais-le ! Je veux pas de cette saleté-là à Norvik. »
+143	« Hm. Très bien. »
+144	« ...Bien sûr. À tout moment. »
+145	« S'il y a ce genre d'armes qui traîne par ici, je voudrais qu'on s'en occupe. »
+146	« On veut pas d'une nouvelle Guerre de la Côte déclenchée par un autre foutu sot maléfique avec une bombe ! »
+147	« Soit, M. le Citadin. Soit. »
+148	« Hm. Oui, je crois vraiment que c'était pour le mieux. »
+149	« Les humains ont bel et bien une perspective très différente des nains. Et c'est important de s'en souvenir. »
+150	« Mais le manifeste actuel du parti se concentre sur la collaboration et l'organisation des Guildes. Appeler à une sorte de soulèvement - même économique - serait très perturbateur pour cet objectif. »
+151	« Mais en même temps, sans la puissance projetée et la force unie des ouvriers - tous les ouvriers - pouvons-nous vraiment gagner le cœur des Norvikiens ? »
+152	« Je ne suis pas sûr. »
+153	« Peut-être que la fille a raison. Les humains répondent peut-être mieux à des vagues rapides, plutôt qu'aux mouvements inévitables de l'océan. »
+154	« Mais je m'interroge sur la situation politique plus large. Le manifeste actuel du parti se concentre sur la collaboration et l'organisation des Guildes. Comment ça marchera si on appelle à un soulèvement- même économique ? »
+155	Le nain hausse les épaules.
+156	« ...On verra une fois les votes déposés. »
+157	Il sonne comme un homme qui sait très peu, mais ressent énormément.
+158	Son esprit est fort. Son conflit éternel.
+159	Voilà un <b>homme</b>.
+160	« Mais on n'oubliera pas l'aide que tu nous as apportée, avec cette encre. Sans toi, de grandes parties de la cité seraient privées du Chant Azgalien. »
+161	Il te tend une large ceinture, incrustée d'iconographie naine.
+162	« Pour moi ? »
+163	« Euh. Merci. Mais je crois pas pouvoir porter ça. »
+164	(Soupeser la très lourde ceinture.)
+165	« Bah ! »
+166	« Balance-la juste sur ton épaule, Clerc. »
+167	« C'est la preuve de ta naïnité. »
+168	« Sois fier ! »
+169	(Verser une larme.) « Merci. »
+170	(La brandir.) « Je suis un NAIN ! »
+171	Tous les nains de l'appartement lâchent une petite salve d'applaudissements.
+172	« La cause est fière de t'avoir à ses côtés, camarade. »
+173	« On ne l'oubliera pas. »
+174	Il te scrute des yeux. « Hm. »
+175	« Non, vraiment. Je suis très nain. »
+176	« Non, non. Je te crois. »
+177	« Je me demande juste dans quelle mesure ? »
+178	« Un quart ? La moitié ? »
+179	« Je crois que j'ai eu un arrière-grand-père nain ou un truc. »
+180	« Un seizième ? »
+181	Il grommelle.
+182	« Bon. Tu es un nain à mes yeux. »
+183	« Je suis sûr que tu as une charmante barbe sous ce... <i>heaume</i>. »
+184	« Oui. Mais me le rappelle pas, ça va me démanger. »
+185	« Possiblement. » (Ne pas y penser.)
+186	« Se raser, c'est difficile. »
+187	Il fronce les sourcils.
+188	« Je peux... imaginer. »
+189	Il claque la langue.
+190	« L'entretien est essentiel. »
+191	Il te toise de haut en bas.
+192	« T'es un peu... <i>petit</i> aussi. »
+193	Petit et fier.
+194	Il l'entend comme un compliment. Les <i>nains</i>, je te jure.
+195	« Hah. »
+196	« Un fier héritage. »
+197	« Je suis <i>dans la moyenne</i>. »
+198	« C'est <i>toi</i> qui es petit. »
+199	« Oh que oui ! »
+200	« Bon... »
+201	« Petit et fier. »
+202	Le nain t'adresse un sourire en coin.
+203	« D'où es-tu, nain ? »
+204	« C'est quoi cette histoire de Bhan-Emvers ? »
+205	« Comment t'es devenu un Azgal ? »
+206	« Tu penses que les nains ont leur place ici en surface ? »
+207	« Qu'est-ce que tu penses des humains ? »
+208	« Quel parti penses-tu qui gagnera l'élection ? »
+209	« C'est tout ce que je voulais savoir. »
+210	« L'histoire de ma vie, hein ? »
+211	« Je suis né dans le <i>Billing</i>. Une cité au sein des monts jumeaux de l'est de Vyz-Kha. »
+212	« C'était jadis un endroit immonde, assaini au fil des années. »
+213	« C'est le seul établissement de VK relié à la Rivière Torna, alors en grandissant je parlais souvent avec des marins norvikiens. »
+214	« J'ai toujours été fasciné par le monde extérieur. Surtout que, en tant qu'Exilés, mon peuple était à bien des égards vu comme des étrangers parmi les Souterrains. »
+215	« Ne même pas avoir le droit de creuser dans tes propres montagnes... quelle sorte de vie est-ce là ? »
+216	« Ma famille. »
+217	« Je suis un cousin éloigné du souverain du Rikêdom de Vyz-Kha. Chose dont je ne suis pas fier. »
+218	« Un nom n'est qu'un nom. Mais, chose agaçante, ça m'a aidé au fil des ans. Je souhaite m'en distancier autant que possible de nos jours. »
+219	« Le hasard, surtout. »
+220	« J'ai émigré avec quelques membres de ma famille. J'étais encore jeune, à mes yeux. »
+221	« Mais en venant à Norvik... être soudain trentenaire voulait dire que tu étais vieux ! »
+222	« J'ai aimé ça. J'ai usé de mon éducation de Bhan-Emvers pour rejoindre des groupes activistes nains-humains à travers la cité. »
+223	« Aidant de toutes les manières possibles dans diverses guildes. Parfois comme ouvrier. Parfois comme consultant. »
+224	« C'est ainsi que je suis entré en contact avec le Parti Azgaliste, à ses débuts. »
+225	« Je n'étais pas un membre fondateur, mais j'étais un assistant. »
+226	« Porter le titre de <i>Troisième Secrétaire du Parti Azgaliste</i> fut mon accomplissement suprême- pendant longtemps. »
+227	« Maintenant, quelque vingt ans plus tard, je suis Contremaître. Ça veut dire que je réfère directement au conseil du parti, tout en gardant les bottes sur le terrain. »
+228	« C'est comme ça que je l'aime. »
+229	« Hm. Une question incendiaire. »
+230	« Les nains ont leur place là où il y a un labeur bon et honnête. »
+231	« C'est-à-dire, selon moi, tout le long de la Côte. Ainsi qu'en dessous. »
+232	« Il y a des nains qui bâtissent des empires oppressifs sous plusieurs bandes. »
+233	« Il y a des nains qui construisent des navires, et voyagent dangereusement près de la Pointe de Jor. »
+234	« Il y a des nains qui vivent dans des établissements pas si différents de ceux des halfelins de Fordnip. »
+235	« Tout comme vous les humains - tout comme n'importe quel peuple de la côte - nous sommes aussi adaptables que possible. »
+236	« Un pilier de la croyance azgale est de ne pas voir les gens comme des rouages d'une machine, mais plutôt comme des blocs de grès, chacun façonné de manière unique par des vies de labeur. »
+237	« Comme des nains grands et maigres. »
+238	« Oh. » (Baisser les yeux sur toi-même.)
+239	Il te fixe un instant, sévèrement, avant d'éclater de rire.
+240	« On est tous différents, M. le Citadin ! Mais crois-moi quand je dis que toutes les créatures que tu rencontreras sur notre étrange Côte seront toujours plus <i>semblables</i> que nous ne sommes différents. Nain et humain. Homme et femme. Diable ou ange. »
+241	« Tous liés par les lois de la nature- ces normes rigides... et aussi, bien sûr, un tas d'étranges mécanismes ésotériques. Pourtant quelques mots échangés, et tu nous trouveras avec les mêmes terribles défauts, et de merveilleux esprits. »
+242	« Alors j'aime les humains comme j'aime les nains. T'en fais pas. »
+243	« Le Parti de Norvik. Les Nationalistes ont une nette avance, et l'auront jusqu'au jour de l'élection. »
+244	« La Cité reprendra sa suprématie, alors. »
+245	« Ah bon ? Alors tu ne crois pas à une victoire azgale ? »
+246	« Je suis sûr que les Errants gagneront au final. »
+247	« Non. Ce temps-là est révolu. »
+248	Il rit. « Une victoire azgale, on l'a déjà eue, M. le Citadin. »
+249	Il grogne. « J'imagine qu'ils gagneront tant qu'il y aura une élection tenue, en un sens. »
+250	« Le Parti Ouvrier obtiendra jusqu'à un cinquième du vote populaire. Vingt pour cent. »
+251	« Les Errants un peu plus de vingt, et les Nationalistes environ un quart. Peut-être trente pour cent, s'ils ont de la chance. Notre objectif actuel est d'user de ces derniers jours pour dépasser les Errants, afin de limiter leur oppression de la classe ouvrière. »
+252	« Mais les Nationalistes remporteront la majorité. <i>Cette</i> fois. »
+253	« Bien. Je vote pour le Parti de Norvik, vois-tu. »
+254	« Tu ne battras pas les Errants, pas tant que je vote pour eux. »
+255	« On peut les battre ensemble, mon frère nain. Pour Azgal ! »
+256	« Hélas, c'est vrai. Mais la prochaine fois je gagnerai peut-être, et j'accéderai à ma position de dieu-roi. »
+257	« Et si... les Agrariens ? » (Mentionner avec hésitation que tu es Agrarien, comme si c'était une sorte de faux pas social.)
+258	« Bon, je vote pour aucun d'eux. »
+259	Il souffle par le nez.
+260	On dirait de la vapeur.
+261	« Je m'en doutais. »
+262	« Je rirais bien, mais j'ai le sentiment que t'as raison. »
+263	« Ce qui est exactement pourquoi on les combat jusqu'au bout. Un rassemblement à la fois. »
+264	« Et peut-être reconsidère l'idée de voter pour une classe oppressive de riches marchands reedsiens. »
+265	Il t'attrape par l'uniforme et te plaque de tout le corps.
+266	OUF.
+267	Ton corps est sous le choc de la force. Mais tu peux encaisser.
+268	« Pour AZGAL. »
+269	« Ça sonne comme des conneries arcanistes. »
+270	« Tu ferais mieux de faire gaffe, à débiter ça autour de nous, les verts. Pour rire ou pas. On n'apprécie pas les dictateurs. »
+271	« Dommage. »
+272	« C'était juste une blague. Je crois. »
+273	« Je vois. Merci d'être transparent. »
+274	Le nain grogne, mais n'insiste pas.
+275	« Des gens bien. »
+276	« Ils gèrent de gros pans de nos messages dans les campagnes. Des gens vraiment bien. »
+277	« Quand ils sont passés de notre côté, c'était une situation un peu chaotique au début- mais ça s'est réglé et ça a très, très bien tourné. »
+278	Il sourit largement. « On a de la chance de les avoir. »
+279	« Quoi ? Oh, j'imagine que tu essaies de rester neutre, en tant que Clerc. »
+280	« Non, je suis juste naturellement apolitique. C'est un de mes talents. »
+281	« Non, je suis juste paresseux. »
+282	« Oui. Neutre. Exactement. »
+283	Il fronce les sourcils.
+284	Tu le dégoûtes.
+285	« Oh. Bon. Dommage, vraiment. »
+286	Il hoche la tête. « Je peux comprendre. Beaucoup d'ouvriers de cette cité se sentent liés à quelque chose de plus grand. Il faut beaucoup pour s'en affranchir, et je ne l'exigerais d'aucun gars exploité. »
+287	« D'accord, M. le Citadin. »
+288	Il te fusille du regard un instant.
+289	Puis il éclate de rire. « M. le Citadin ! »
+290	« Je peux dire bien des choses sur toi, mais pas-drôle n'en fait pas partie ! »
+291	« Je ne plaisante pas. »
+292	« Ouais. Une blague. Hah. »
+293	Je peux pas arrêter ces Azgals, si ?
+294	Son visage devient sévère.
+295	« Bien vu. » Il te tape sur l'épaule.
+296	Non, tu ne peux pas.
+297	Lutter contre une douzaine de nains ? Enfin...
+298	Bien sûr que tu pourrais. Mais tu n'as pas besoin. La loi les rattrapera un jour.
+299	Oh, tu ne pourrais jamais...
+300	Si tu veux vraiment les faire fermer, va juste signaler leur position aux Errants.
+301	<i>Évidemment</i>.
+302	« Si tu tentes quoi que ce soit. La moindre magie. On te brisera. »
+303	« Alors reste dans nos bonnes grâces, M. le Citadin ! »
+304	Il plaisante. Un peu.
+305	Il ne plaisante pas.
+306	« Ce que je sais ? »
+307	« Je sais foutrement bien à quel point je suis content qu'aucun de mes gars n'était à l'intérieur au moment. »
+308	« Surtout content qu'aucun des Jeunes n'ait été blessé non plus. Ils y passaient beaucoup de temps, d'après ce que je comprends. »
+309	« Les Jeunes ? »
+310	« Tu connaissais les propriétaires ? »
+311	« Où étiez-vous, toi et tes hommes, le jour de l'explosion ? »
+312	« Qu'est-ce que tu penses de l'explosion ? »
+313	« C'est tout sur le salon de thé, pour l'instant. »
+314	« La Jeunesse Azgale. C'est le corps des jeunots. Ils s'occupent surtout des adolescents, et les mettent dans le "groove" azgal, comme ils disent. »
+315	Il a l'air fier.
+316	Ce nain ne suit pas le langage moderne.
+317	« L'homme-oiseau ? Non, je lui ai jamais beaucoup parlé. »
+318	« Quelque chose chez lui ne m'a jamais paru clair. Et- et pas à cause du truc de la voix. Juste... »
+319	« On aurait dit qu'il était content d'accueillir les réunions des Jeunes, et de nous laisser tenir des soirées beuverie officielles avec les ouvriers du coin. »
+320	« Mais il m'a semblé un opportuniste, s'il en est. »
+321	« Quelque chose dans sa façon d'agir. Hm. Pas sûr quoi. Juste une intuition, tu vois ? »
+322	Le nain SAIT. Mais pas pourquoi.
+323	Un homme d'intuition et de rien d'autre.
+324	« Occupé. Comme toujours. »
+325	« Bon, je peux pas suivre chaque gars ici, mais moi-même ? J'étais au Palais au moment. À déposer cinq PPG environ avec un autre Contremaître. »
+326	« J'ai entendu le boum, cela dit. La plupart de la cité aussi, probablement. Pile à midi. »
+327	« Personne n'a vraiment eu l'air de s'en soucier tant que ça. Même avec la boule de fumée s'élevant de Tolstad. Je me suis précipité, bien sûr. »
+328	« Que personne ne soit mort fut un miracle. Et je suis pas du genre à attribuer à l'intervention divine pour rien. »
+329	« Les Errants. À coup sûr une de leurs manigances, ou plans, ou combines qui leur a pété à la figure. »
+330	« Peut-être une de leurs guenaudes à gages. Ou un mercenaire élémentaire devenu incontrôlable ? »
+331	« Je le sais, tout simplement. Ils sont impliqués là-dedans. Et probablement le propriétaire aussi, ce dénommé Drummer. »
+332	« Bien, bien. »
+333	« Errant. »
+334	« Bien sûr, tu- pardon ? »
+335	Il te donne une claque sur le bras et rit.
+336	« Non ! Azgaliste, bien sûr ! »
+337	« Quelle question stupide. J'aime ça chez toi. »
+338	Il ne peut pas te traiter de ça. C'est une insulte.
+339	Oui, tu es plutôt stupide.
+340	« Tu me traites de stupide ?! » (Se vexer.)
+341	« Tu as raison. Je suis stupide. Je m'excuse. » (T'abaisser devant cet homme, bien plus fort.)
+342	« Vraiment ? »
+343	« Ce n'est pas... stupide. »
+344	Il ricane.
+345	« Ne fais pas comme ma Mère-Malédiction. Ce n'est qu'une plaisanterie, Clerc. »
+346	« Sois pas si susceptible. »
+347	Il grimace.
+348	« Bon sang, c'était une plaisanterie. Défends-toi. »
+349	« D'accord. »
+350	« ...Non ? Je ne le ferai pas ? »
+351	« C'est bien. Enfin, non, tu devrais- »
+352	« Juste... laisse tomber. »
+353	« C'est bien ! »
+354	« Sois un homme ! Tiens-toi droit ! Et ainsi de suite. »
+355	« Écoute... »
+356	« Ça l'est. Un peu, ouais. Mais... »
+357	« Un homme ne peut apprendre qu'en demandant. »
+358	« Garder ça à l'intérieur ne laissera place qu'à l'ignorance. »
+359	« Alors continue de poser tes questions atroces et <b>stupides</b>, M. le Citadin ! »
+360	Il est, comme on dit, en train de <i>te chambrer</i>.
+361	Comme tout homme véritable, tu apprécies ça.
+362	Quelle insulte.
+363	Ceci ne saurait rester impuni...
+364	J'apprécie de me faire... <i>chambrer</i> ?
+365	« Me traite pas de stupide, espèce de... <shake>espèce de</shake>... »
+366	Oui. Bien sûr.
+367	Seule une <i>mauviette</i> flancherait devant un banal chambrage.
+368	Encore une fois, n'emploie pas ce terme.
+369	Pourquoi ne pas plutôt dire : « Il faudrait en <i>avoir</i> une paire pour encaisser <i>ce</i> chambrage. »
+370	Ça n'a aucun sens.
+371	« Des questions qui te conviennent, alors, Alfoz. » (Lui taper dans le dos.)
+372	C'est comme gifler une falaise.
+373	Il rit.
+374	« En effet, M. le Citadin. »
+375	Le nain lève le menton vers toi.
+376	« Espèce de gros - <i>putain</i> de - <shake>GNOME</shake> ! »
+377	(Prendre une inspiration.)
+378	Le nain te fixe, bouche bée.
+379	Modissa cesse de travailler dans le coin, te fusillant du regard.
+380	Putain de merde.
+381	« ...Tu es un... type susceptible, hein ? »
+382	« ...Je veux pas en parler. » (Bouillir intérieurement.)
+383	« Me traite pas de stupide. » (Bouillir plus fort.)
+384	« Hm ? »
+385	« Je t'en prie, me traite pas de stupide. J'aime pas ça. »
+386	« Je suis cool. Je suis cool. »
+387	« Tu supportes pas le chambrage, hein ? »
+388	« Dommage. » Le nain s'approche et te tape dans le dos, fort.
+389	« C'est un endroit pour les hommes. Pas les <i>gamins</i>. »
+390	Tu aperçois Modissa lever les yeux au ciel dans le coin.
+391	« OHÉ ! »
+392	« Qu'est-ce que tu fais ? »
+393	(Cesser de te pencher au-dessus du bord.) « Rien. »
+394	(Basculer en un mouvement d'étirement.) « Oh, rien. Juste un peu d'exercice isométrique. »
+395	(Juste t'éloigner.)
+396	« Bon, arrête ça. Tu vas te blesser comme ça. »
+397	« Et on garde un tas d'objets de valeur là-derrière. Comme notre précieuse Ceinture des Nains. »
+398	« Oh, je vois. Parle-m'en davantage. »
+399	E-« Ça n'arrivera plus. »
+400	« C'est un symbole d'amitié naine ! Une ceinture offerte aux amis des nains azgaliens, forgée par les artificiers de l'ancien empire. »
+401	« Chère comme pas permis ! Alors va pas la toucher. »
+402	E-« C'est ça. » (Essuyer la sueur de ton front. Mais finir plutôt par essuyer le devant de ton heaume. Puis partir.)
