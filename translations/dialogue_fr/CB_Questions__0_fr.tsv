@@ -1,0 +1,279 @@
+idx	french
+0	La porte se referme derrière toi.
+1	Ton compagnon lâche une déglutition audible.
+2	« <i>...Grdzeldeba...</i> »
+3	« <i>...brdzola sheni... patiosani sulistvis...</i> »
+4	« Mauvaise salle ! Mauvaise salle ! Vieille chambre-d'épreuve ! »
+5	« ...Pardon ? »
+6	(Faire face à la lumière, le dos droit.)
+7	« Désolé ! Meek est désolé, Meek pensait pas que maître entrer dans salle effrayante lumineuse... »
+8	« Je- C'est- »
+9	Son visage devient rouge de colère. Ou de l'éclairage.
+10	« C'est <shake>toi</shake> le clerc ici ! »
+11	Les mots changent de ton et s'intensifient - imitant ta propre façon de parler.
+12	« TU AS PÉNÉTRÉ DANS LA CINQUIÈME CHAMBRE DES ÉPREUVES. »
+13	« DEUX ONT PÉNÉTRÉ DANS LA CINQUIÈME CHAMBRE DES ÉPREUVES. »
+14	« CE SERA VOTRE DÉFI ULTIME ET LE PLUS ARDU À CE JOUR, Ô CHAMPIONS DE LA LÉGION. »
+15	« SI AU-DEHORS DE NOUVEAU TU SOUHAITES VOIR - RÉPONDS-MOI À CES TROIS QUESTIONS - DONT JE JUGERAI ÉQUITABLEMENT LA RÉPONSE SUR TON ÂME. »
+16	« QUI FERA LE PREMIER PAS ? »
+17	Toi.
+18	Tu es entré dans ce pétrin- maintenant tu vas le gérer.
+19	Bon sang. Pourquoi t'as fallu choisir la salle-vache-à-lumière-rouge effrayante...?
+20	Tu dois faire le premier pas pour répondre à trois questions afin d'achever la cinquième épreuve...
+21	Quelle énigme énigmatiquante.
+22	« Que se passe-t-il si je donne la mauvaise réponse ? »
+23	« Pose-moi tes questions, gardien, je n'ai pas peur. »
+24	« Je fais le premier pas ! »
+25	(Lever une main.) « Moi ? »
+26	(Rester silencieux et fixer timidement la statue.)
+27	« TU SERAS JETÉ DANS UN PÉRIL ÉTERNEL. »
+28	« Dois-je répondre correctement aux cinq questions ? »
+29	« Trois questions. »
+30	« Trois questions ! »
+31	« TROIS QUESTIONS. »
+32	« Trois, d'accord, j'ai compris. Dois-je répondre correctement aux trois questions ? »
+33	« RÉPONDS-MOI À TROIS QUESTIONS - DONT JE JUGERAI ÉQUITABLEMENT LA RÉPONSE SUR TON ÂME. »
+34	« Attends, es-tu un genre de gardien-d'épreuve doué de conscience, ou es-tu plutôt du genre... <i>Bouche Magique</i> ? »
+35	Soit c'est une statue non consciente, soit c'est une statue avec une Bouche Magique préalablement lancée, oui.
+36	C'est manifestement le cas.
+37	La statue a manifestement un sort de Bouche Magique lancé dessus. Elle est programmée pour réagir à certains types de demandes, dans la langue d'origine du locuteur.
+38	N'y réfléchis pas trop. Répondre aux questions de façon directe fera très bien l'affaire avec cette installation barbare.
+39	« L'AUTRE N'INTERFÉRERA PAS, OU L'ÉPREUVE EST ÉCHOUÉE. »
+40	« L'AUTRE AURA SON PROPRE TOUR. »
+41	« Alors en vrai ça fait six questions ? »
+42	« Fois deux ? »
+43	« <b>TROIS QUESTIONS</b>. »
+44	« Six questions, compris. Vas-y, Clerc. »
+45	Après quelques secondes, la voix poursuit : « L'ÉLU SERA... TOI. »
+46	« Quoi ? Non. »
+47	« C'est toi le clerc ici ! Occupe-toi de ta statue magique parlante- et ne va PAS nous faire tuer. »
+48	La lumière se pose sur <i>toi</i>.
+49	« PREMIÈRE QUESTION. »
+50	Prépare-toi...
+51	Quoi qu'on te lance- tu connaîtras la réponse.
+52	« QUEL... EST <b>TON NOM</b> ? »
+53	Ho là. Déjà-vu.
+54	Pas encore ça.
+55	« Pardon, quoi ? »
+56	« Mon nom est... »
+57	« LA QUESTION NE SERA PAS RÉPÉTÉE. »
+58	Le gobelin y réfléchit une seconde. Puis il te chuchote en retour :
+59	« Je crois pas que le peuple-bovin soit connu pour les questions pièges ou les énigmes, alors... »
+60	La lumière s'intensifie.
+61	Dis Ragn.
+62	Mais et si ce n'était pas la réponse ?
+63	« ...Ragn. »
+64	Ce serait pas drôle si je disais quelque chose de complètement inattendu ici, et qu'il s'avère que c'est la bonne réponse ?
+65	Non.
+66	Contente-toi de <b>dire ton nom</b>.
+67	« Mon nom est Ragn. »
+68	La lumière t'aveugle un instant, et tu sens la chambre trembler.
+69	« QUELLE EST TA <b>QUÊTE</b> ? »
+70	« Résoudre le mystère du Salon de Thé qui a Explosé. »
+71	De nouveau, les yeux de la vache foudroient en un faisceau ardent.
+72	« QUELLE EST TA <b>PLUS GRANDE PEUR</b> ? »
+73	« Être abandonné. »
+74	C'est vrai. Maintenant réponds.
+75	Pour la troisième fois, tu sens ce grondement, avec le regard brûlant du minotaure...
+76	« LA CINQUIÈME ÉPREUVE EST ACHEVÉE, CHAMPION. »
+77	Le regard s'estompe.
+78	Il se tourne alors vers ton compagnon.
+79	« L'ÉLU SERA... TOI. »
+80	Snell, en réponse, lâche un ricanement choqué.
+81	« C'est facile ! »
+82	Tu peux sentir le soulagement le parcourir.
+83	Ouais. C'était plutôt stupide. Tout ce suspense pour rien.
+84	Au moins les vaches savent faire un spectacle !
+85	Le gobelin se tient droit, faisant face à la lumière.
+86	« Vas-y, <i>gardien</i>, pose tes questions. »
+87	« QUEL EST TON NOM ? »
+88	« Mon nom est Snell. »
+89	Il articule parfaitement.
+90	Les yeux de la statue se renforcent une fois de plus.
+91	« QUELLE EST TA QUÊTE ? »
+92	Tu le surprends à jeter un regard sur le côté une seconde.
+93	« Ma quête est... »
+94	(Le fusiller du regard.)
+95	(Chuchoter.) « Concentre-toi. »
+96	(Se taire, et espérer que le gobelin ne foire pas ça.)
+97	Il t'agite une griffe.
+98	Ça veut dire : ferme-la.
+99	« Ma quête est... de servir Dame Sageleaf. »
+100	De nouveau, ça gronde, et tu arrives au crescendo de cette ultime, troisième question.
+101	Rien de mauvais encore. Très bien !
+102	Snell a l'air confiant.
+103	« QUELLE EST <b>LA DÉFINITION SAVANTE DU NUMÉNISME</b> ? »
+104	Son visage s'effondre.
+105	<shake>Panique</shake>.
+106	Il ne sait pas ?
+107	C'est le règne des DIEUX.
+108	Quelle <i>est</i> la définition savante du Numénisme ?
+109	(S'accroupir et fixer le gobelin tandis que la lumière devient plus intense.)
+110	Ça dépend. La définition savante de l'Ère Arcanique, ou celle de l'Ère Divine ?
+111	Si tu avais eu cette question, tu aurais probablement court-circuité cette Bouche Magique.
+112	L'Ère Arcanique.
+113	L'Ère Divine.
+114	Peu importe. Je ne peux pas donner la réponse à Snell.
+115	Le Numénisme est le régime gouvernemental de la dictature divine.
+116	Le Numénisme, c'est quand <i>les dieux règnent</i>.
+117	Le Numénisme est la croyance dans le droit des dieux marcheurs à régner sur les mortels.
+118	Le Numénisme, c'est quand les dieux marcheurs régnaient sur la Côte.
+119	C'est plutôt terrible.
+120	Il regarde autour de lui, haussant les épaules frénétiquement.
+121	« Je- je- » siffle-t-il.
+122	Le gobelin a les yeux rivés sur toi tandis que tu lèves les mains.
+123	(Faire semblant d'être un magicien tyrannique avec un gros bâton, puis faire semblant d'user de magie pour contrôler l'esprit de tes fidèles, puis faire semblant de montrer comment ces fidèles te surmontent lentement à mesure que de bien meilleurs Arcanistes accèdent au pouvoir par un système équitable de méritocratie durant l'Ère Arcanique.)
+124	(Faire semblant de prier, puis faire semblant d'être un grand et fort Urth, puis faire semblant de montrer comment les gens se rassemblent en unités culturelles sous les dieux-rois durant l'Ère Divine.)
+125	Ses yeux sont emplis de panique tandis que tu passes de précieuses secondes à agiter les mains.
+126	Mais juste pour être clair, ton mime ici est PARFAIT.
+127	Sa panique le submerge.
+128	Il est incapable de ne serait-ce que commencer à se concentrer sur ta tentative de communiquer.
+129	Malheureusement...
+130	Il ouvre la bouche pour parler, te fixant toujours, abasourdi.
+131	« ...C'est quoi ce <shake>bordel</shake> que tu fais ?! »
+132	Oh.
+133	Sous toi : une mer de pieux !
+134	OH. (Se démener pour attraper quoi que ce soit.)
+135	« <shake>Non, non, non</shake>...! »
+136	Des microsecondes. C'est ce que tu as.
+137	Mais d'une manière ou d'une autre, tu parviens à t'étirer - à t'ÉTALER - tes mains atterrissant sur la pierre rugueuse, et tes pieds...
+138	Enfin... disons juste...
+139	Tu es dans une position plutôt merdique en ce moment.
+140	« ...NE bouge PAS ! »
+141	« Tu veux que je RESTE comme ça ?! »
+142	« Restons calmes ici. Je suis sûr qu'il y a un moyen de résoudre ça. »
+143	« Juste encore un peu... »
+144	« Ouais- bien. Continue de tenir ! »
+145	Le gobelin tente de poser un pied sur le bas de ton dos.
+146	Tes pieds glissent d'un pouce.
+147	« Ho là...! » (Tenir plus fort.)
+148	« Merde ! »
+149	Tout ton corps tremble.
+150	Tu ne peux pas tenir ça longtemps.
+151	« D'accord, nouveau plan. »
+152	« Lance Pattes d'araignée ! »
+153	« J'ai pas <i>Pattes d'araignée</i> de préparé ?! »
+154	« Tu n'as pas Pattes d'araignée de préparé ?! »
+155	« Pourquoi j'aurais <shake>Pattes d'araignée</shake> de préparé ? »
+156	« Je sais pas - pourquoi tu l'aurais ? En fait je peux pas penser à <i>une seule situation utile</i> pour ça...! »
+157	Tu avais bien Pattes d'araignée dans ton grimoire, jadis. Avant que la Rivière n'emporte ta collection.
+158	Hélas, il va falloir faire ça à la manière brutale.
+159	Arrête ces chamailleries.
+160	Il est temps d'agir. Prends la responsabilité de la sécurité de ce groupe.
+161	GRIMPE.
+162	Tu vas mourir ici.
+163	Tiens bon.
+164	Laisse-le descendre.
+165	Attends, si tu échoues à tenir...
+166	Ça ne va pas te tuer sur-le-champ ?
+167	Tu <i>vas</i>... tenir bon.
+168	Ce n'est pas une réponse, mon pote.
+169	(Regarder en bas.)
+170	Ramper en crabe vers la sécurité.
+171	Tenir bon pendant que tu laisses Snell descendre.
+172	Tu saisis l'idée de ce qu'il y a là en bas.
+173	Tandis que tu tentes de regarder, une part de ton esprit te demande très gentiment : ne le fais pas.
+174	Nul besoin de conceptualiser cette menace, car sa réalité matérielle ne change pas ta position.
+175	Tu vois des pieux.
+176	De très, très nombreux pieux de fer acérés.
+177	Un pouce à la fois.
+178	Tes paumes raclent contre la pierre rugueuse. Tes bottes trouvent une prise sur le mur opposé.
+179	« Tu y arrives...! »
+180	Le gobelin s'accroche à ton dos comme un chat terrifié.
+181	(Pousser plus loin.)
+182	Chaque muscle de ton corps hurle.
+183	Mais tu ne t'arrêtes pas.
+184	Tu <b>ne peux pas</b> t'arrêter.
+185	Juste... un peu... plus loin...!
+186	Main. Pied. Main. Pied.
+187	Le bord de la fosse se rapproche.
+188	« Tu y es presque...! »
+189	Tu déplaces ton poids. Ta main droite avance d'un pouce.
+190	Puis ton pied gauche glisse.
+191	« <shake>Clerc</shake> ! »
+192	(Se rattraper. De justesse.)
+193	Mais maintenant <b>tu es coincé</b>. Muscles bloqués. Incapable d'avancer ou de reculer.
+194	Pourtant tu es à mi-chemin. Tu le sais.
+195	Tes bras tremblent.
+196	Tiens bon...
+197	« Continue ! Tu peux le faire ! »
+198	Tes muscles t'ont entièrement abandonné.
+199	Tu pends là, suspendu, incapable de te forcer à bouger.
+200	« Ne t'arrête pas ! »
+201	<i>Urth.</i>
+202	<i>Donne de la force à ton fils. Qu'il évite de finir empalé à mort comme un vulgaire spéléologue.</i>
+203	Dis-le-lui.
+204	Tu peux TENIR.
+205	« Snell. Saute. Maintenant. »
+206	« Fais-le ! Je peux TENIR...! »
+207	« Quoi ? Mais- »
+208	« Au diable. Bon ! »
+209	Après un moment de délibération, le gobelin escalade alors ton dos, se servant de ton heaume comme d'un marchepied, et BONDIT vers le bord de la fosse.
+210	Mais la CHAIR est FERME.
+211	Ses griffes trouvent une prise sur la pierre. Il se hisse.
+212	« D'accord ! D'accord, je suis sorti ! »
+213	Quelques secondes agonisantes plus tard...
+214	« Snell. Descends. Avec précaution. »
+215	« C'est ça. D'accord. Prudent. »
+216	Il déplace son poids d'un côté.
+217	Ton pied gauche glisse.
+218	« <shake>Prudent</shake> ! »
+219	« J'essaie ! »
+220	Il fait un autre pas. Ta main droite perd sa prise.
+221	Pendant un terrible instant, tu te sens tomber.
+222	« Essaie de descendre. Je gère. »
+223	Tu ne gères pas.
+224	Le gobelin bondit vers le bord tandis que ton corps chute.
+225	Du fer. Du fer froid. Partout.
+226	Tu heurtes les pieux de biais - ton armure encaissant le plus gros de l'impact.
+227	Mais pas... tout.
+228	COMME UN INSECTE SUR UNE PLANCHE.
+229	« <shake>CLERC</shake> ! »
+230	(Cracher du sang.) « Ça va... »
+231	« Frère, je suis <i>empalé</i> ici... » (Gargouiller du sang.)
+232	Puis tu... sens...
+233	Quelque chose qui TIRE.
+234	« Je te tiens...! »
+235	De nombreuses secondes agonisantes plus tard, le gobelin parvient à te repêcher avec une combinaison de sa fronde, de morceaux de sa chemise, et de jurons créatifs.
+236	« TU AS RÉPONDU NOBLEMENT. »
+237	« AVANCE, ET RÉCLAME TON PRIX - L'ŒIL PILLÉ. »
+238	(Grimper sur le côté.)
+239	La voix reprend tandis que tu le fais.
+240	« TU AS BRAVÉ LA FOSSE DES MAUVAISES RÉPONSES. »
+241	(Respirer et se lever.)
+242	Chancelant, mais ferme.
+243	Tu te <i>lèves</i>.
+244	« <i>Je déteste tellement cet endroit,</i> » marmonne ton compagnon.
+245	« Encore une fois, juste pour répéter », dit Snell à travers le gouffre. « Cet endroit est <i>plutôt dangereux</i>. »
+246	« Enfin, <i>moi</i> je le sais pas ! »
+247	« Pourquoi je saurais ça ?! »
+248	« C'est de la théorie politique de base ! »
+249	« C'est de l'histoire de base ! »
+250	« Ouais, j'imagine que tu saurais pas ça. »
+251	Le gobelin t'adresse un soupir frustré, mais finalement soulagé.
+252	« Ouais, enfin. Je- j'en suis conscient. »
+253	« Et j'espère que tu réalises que tu as eu des questions <i>ultra-faciles à côté</i>, en comparaison. »
+254	Son visage est rouge de colère. Cette fois tu es sûr que ce n'est pas à cause de l'éclairage.
+255	« D'accord. Non pas que ce soit <i>si</i> surprenant. »
+256	« Les statues parlantes de conneries ésotériques tendent à être emplies de conneries ésotériques. <i>Qui l'eût cru ?</i> »
+257	« T'en fais pas, c'était de la connerie. Je crois pas que même ton nouvel ami Snurre pourrait psycho-analyser une réponse correcte à ça. »
+258	« Ouais, c'était de la connerie. T'en fais pas, même si tu avais eu la réponse parfaite, ça nous aurait juste baisés d'une autre façon. »
+259	« C'est généralement comme ça que ça se passe. »
+260	« Non, Clerc. »
+261	Il s'affaisse sur les genoux, une expression de soulagement sur le visage.
+262	« On est vivants. C'est tout ce qui compte. »
+263	« Complètement. »
+264	« Qu'elle aille se faire foutre, cette vache débile. »
+265	La statue est désormais entièrement silencieuse, et tu entends un <i>boum</i> ésotérique venir du tiroir entre ses pattes.
+266	Ce son - ça s'est déverrouillé. C'était exactement le bruit que fait un sceau arcanique en se brisant.
+267	Beau travail. Les énigmes du Minotaure sont dûment vaincues !
+268	Ce n'étaient pas des énigmes.
+269	Un étrange exercice. Mais un que tu as bien affronté.
+270	Songer à tous les gens qui ont trouvé leur fin dans un endroit pareil.
+271	C'est plutôt déprimant.
+272	Comme c'est morose.
+273	Meuh-rose.
+274	Hé.
+275	Génial. Voyons quel genre de trésor cache cette vache...
+276	D'accord, voyons ce qu'est le trésor...
+277	Allons voir ça...
