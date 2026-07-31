@@ -1,0 +1,94 @@
+idx	french
+0	Tu repères un renfoncement dans le mur.
+1	Il y a quelque chose là.
+2	Le gobelin plisse les yeux, son regard allant du trou à toi.
+3	Il hoche la tête.
+4	D'une légère traction, le carreau du mur se détache, révélant un <i>coffre</i> couvert de suie, mais par ailleurs intact.
+5	Exactement là où il a dit qu'il était.
+6	« Ça, c'est une boîte coûteuse. Pas le genre qu'on trouve dans l'arrière-salle d'un salon de thé. »
+7	Voyons ce que l'homme-oiseau te réserve...
+8	Ça pourrait contenir des preuves importantes. Force-le !
+9	Tu vas tordre de l'acier massif ? Entre juste la combinaison, allez. L'homme-oiseau te l'a donnée !
+10	Le coffre est couvert de rivets de fer, ayant été renforcé par un forgeron hautement qualifié.
+11	Il y a une poignée rotative au centre - sa position sert à entrer le code d'accès.
+12	Un bel ouvrage.
+13	(Entrer le code d'accès du coffre.)
+14	Bien sûr qu'il y a un coffre dans le bureau du propriétaire. Ça tombe sous le sens.
+15	Jackpot ! Ouvrons-moi cette bête...
+16	Tu vas tordre de l'acier massif ? Je crois pas, grand gaillard.
+17	Si tu écoutes le cliquetis à l'intérieur, tu devrais pouvoir l'ouvrir...
+18	Le gobelin a raison. Ça n'a pas de sens.
+19	À moins que cet homme-oiseau ne trafique quelque chose de plus précieux que des feuilles de thé.
+20	Tu t'approches du coffre ouvert.
+21	Tu t'approches du coffre.
+22	Tenter de l'ouvrir.
+23	E-Je devrais ignorer le coffre, pour l'instant.
+24	Tu chuchotes le mot magique. Un ancien terme diminorien qui se traduirait par quelque chose comme « Accès Total ».
+25	Tu fais tourner la poignée en pressant ton oreille contre le fer froid.
+26	Tu écoutes les minuscules déclics à l'intérieur, arrêtant la rotation quand tu les entends.
+27	Ton compagnon observe en silence, une expression intriguée sur le visage.
+28	Le gobelin est surpris et impressionné.
+29	Après plusieurs tours prudents de la poignée, tu entends un satisfaisant bruit sourd venant de l'intérieur du coffre.
+30	Tu fais tourner la poignée jusqu'aux positions correctes.
+31	Tes doigts tâtonnent sur la poignée.
+32	Après plusieurs rotations tu entends un minuscule déclic à l'intérieur.
+33	Oh. Tu as réussi ! C'est la bonne rotation !
+34	(Tirer la poignée.)
+35	Une douleur aiguë se répand dans ta main.
+36	Instinctivement tu la retires.
+37	Sortant de la poignée, tu vois une minuscule lame. Elle t'aurait transpercé la main si tu ne t'étais pas écarté à temps.
+38	Tu vois une minuscule lame dépasser de la poignée.
+39	Non attends, pas seulement la poignée.
+40	La lame est actuellement plantée à travers ta main.
+41	Tu retires soigneusement ta main désormais sanglante de la lame.
+42	Ça fuit. Prends garde.
+43	Ne permets pas une perforation de ce genre.
+44	Oh, la ferme.
+45	C'est une coupure nette. Tu saignes à peine.
+46	« Qu'est-ce qui se passe ? Ça va, Cle- »
+47	Snell s'arrête et fixe ta main.
+48	« C'est une coupure nette. Pas si grave. » (Continuer de saigner sur le sol.)
+49	« Euh... oh la la. »
+50	Tu survivras. La douleur est temporaire.
+51	« L'oiseau a piégé son fichu coffre ? C'est diabolique. »
+52	Ça veut dire qu'il a des choses qu'il veut vraiment garder secrètes.
+53	Bon, maintenant tu sais que le coffre est piégé. Alors, tu sais, ce sera plus facile la prochaine fois.
+54	<b>La prochaine... fois ?</b>
+55	E-Laisser le coffre. Pour l'instant.
+56	Et...
+57	Le coffre s'ouvre dans un grincement métallique.
+58	Une couche de suie se détache tandis que le contenu se révèle à toi.
+59	Oui ! Bien joué !
+60	« Bien joué, Clerc. Maintenant voyons ce qu'on a... »
+61	Tu jettes un œil à l'intérieur. Le feu n'a certainement rien atteint ici.
+62	(Attraper les pièces.)
+63	(Attraper les étranges cailloux.)
+64	(Attraper le récipient exotique.)
+65	(Attraper le parchemin de sort.)
+66	Tu attrapes la bourse et ajoutes les 101 couronnes à ta collection.
+67	Tu les empoches toutes.
+68	Tu l'attrapes. Il contient une sorte de poudre de champignon.
+69	Une forme de mago-drogue légère. Même pas illégale. Mais coûteuse.
+70	Sympa. Sniffe-la !
+71	Ce ne sont pas des drogues.
+72	Ce sont des rehausseurs magiques.
+73	Les drogues ne seraient pas autorisées aux Tours. Aucun Clerc ne peut prendre de telles substances.
+74	Mais ça ? Ce n'est pas bon pour toi, non, mais ça pourrait être utile - et plus important encore, tu y as droit.
+75	L'homme-oiseau touchait à des trucs bien crades. Ça te gardera alerte un peu plus longtemps.
+76	« Immonde gadoue. Profites-en, Clerc. »
+77	Tu attrapes le parchemin.
+78	Il contient le sort « Détection du Poison et des Maladies » qui a des usages très spécifiques. Tu n'en auras très probablement pas besoin.
+79	L'homme-oiseau devait le garder pour vérifier le mauvais thé, j'imagine ?
+80	Le propriétaire devait être très paranoïaque pour garder ça sous la main.
+81	À moins d'avoir des ennemis malveillants, il n'y a aucun intérêt à garder un sort comme ça.
+82	« Intéressant. Ce type croit sérieusement que quelqu'un en a après lui. »
+83	« Et techniquement c'est le cas, mais ça, c'était avant l'explosion. »
+84	Tu regardes le papier.
+85	Une seule et très longue phrase y est écrite.
+86	<i>RAPPEL : LE TROISIÈME CARREAU SUR LA GAUCHE DERRIÈRE LE TABLEAU SI ÇA NE MARCHE PAS DU PREMIER COUP ESSAIE TROIS FOIS DE PLUS ET LE PASSAGE SECRET CACHÉ S'OUVRIRA -Moi-même</i>
+87	<i>Ouah.</i>
+88	(Jeter un œil vers le cadre de tableau brûlé sur ta droite.)
+89	Ouaip. Tu peux ouvrir ce passage secret maintenant.
+90	Le gobelin fixe le papier.
+91	« C'est ça. Porte secrète. Compris. »
+92	« Et faut juste que je dise : ces <i>saloperies malveillantes</i> que Drummer trafiquait ici ? C'est un miracle qu'on l'ait pas repéré plus tôt. »

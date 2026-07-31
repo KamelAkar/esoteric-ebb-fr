@@ -1,0 +1,172 @@
+idx	french
+0	Quel que soit le contenu qui emplissait jadis cette chambre, il a été repoussé contre les murs fissurés.
+1	La maçonnerie naine est endommagée en divers endroits et tout, absolument tout dans la chambre est brûlé.
+2	Une puissance incroyable.
+3	Il y a eu un incident ici !
+4	C'est le centre. Mais d'où exactement l'explosion est-elle partie ?
+5	Les carreaux de pierre, les marques de brûlure, et l'esthétique générale font ressembler ça à un antre de dragon.
+6	Prends garde, prends garde...
+7	La mort.
+8	Tu veux bien arrêter de dire ça ?
+9	(Vérifier les débris.)
+10	(Vérifier les poutres de fer le long des murs.)
+11	(Vérifier le plafond.)
+12	D'abord, localiser le point d'origine.
+13	Ceci pourrait-il être causé par un sort ?
+14	E-Je devrais laisser les décombres tranquilles.
+15	Une simple fouille rapide ne révèle rien d'autre que de la roche calcinée et des ferrailles.
+16	Des restes de mobilier. Des étagères, peut-être. Des chaises.
+17	Repoussés dans les coins de la pièce. Une force de chaleur violente et soudaine a tout comprimé.
+18	Ce fut un instant. Puis tout devint néant.
+19	Jadis elles se dressaient droites, maintenant l'antique tunnel debout.
+20	De guingois et fragiles. Pourtant elles tiennent encore.
+21	Ouais... c'est un miracle que cet endroit ne se soit pas entièrement effondré - tu devrais... probablement partir.
+22	Détends-toi. Tout va bien.
+23	Ton cœur bat plus vite.
+24	Tu lèves les yeux, trouvant le plafond plutôt haut de la chambre calciné, mais intact.
+25	Cet endroit tiendra. Pour l'instant.
+26	Tu regardes autour de toi et trouves les dégâts déroutants.
+27	Bien que centrés dans la chambre, les dégâts semblent inégaux, comme si la force de l'explosion luttait contre elle-même.
+28	Sur cette pensée, tu reçois une vision.
+29	Rejouant l'événement dans ton esprit - une explosion.
+30	Dans la chambre.
+31	Une conflagration se propageant.
+32	Ça ne colle simplement pas.
+33	Cependant, tu expérimentes dans ta tête avec l'idée... d'explosions multiples.
+34	Soudain, ça fait tilt.
+35	Le sol... il porte plusieurs marques.
+36	Tu commences à compter. Une, deux, trois...
+37	Ce n'est pas assez. En regardant autour de la chambre tu vois plusieurs points d'où le feu s'est clairement propagé.
+38	L'explosion est... Non.
+39	« Des explosions. »
+40	Des explosions. <i>Multiples</i>.
+41	Ton compagnon lève la tête des ferrailles qu'il examinait.
+42	« Qu'est-ce que t'as dit ? »
+43	Tu continues de compter. Quatre, cinq, six...
+44	Même ça n'est pas assez. Des feux. La force immense.
+45	Sept.
+46	Huit.
+47	Tu pointes le dernier endroit du sol que tu peux voir, près du mur ouest où tu te tiens.
+48	« Neuf. »
+49	« Neuf ? »
+50	Neuf d'entre elles.
+51	Tu tentes de te remémorer la version des manuels sur les sorts de boule de feu, et à moins qu'il n'y ait eu neuf lanceurs de sorts distincts -- tous à portée, remarque -- alors il n'y a qu'une seule explication possible...
+52	Ou bon. Il y en a deux. Il pourrait aussi y avoir neuf sorts de boule de feu retardée. Ce qui semble tout aussi ridicule. Mais plus probable...
+53	Un Collier de Boules de Feu.
+54	Neuf explosions - une pour chaque perle d'un collier entièrement garni.
+55	Exactement.
+56	Tu t'en souviens clairement, du fait de sa portée historique.
+57	L'Assassinat de la Prêtresse Ilona, sans doute l'étincelle qui déclencha la Grande Guerre de la Côte.
+58	Maintenant, plus d'un siècle plus tard, tu te tiens ici parmi les décombres du même dispositif.
+59	Mais pourquoi user d'un tel outil de destruction ici, dans un salon de thé sur Tolstad ?
+60	Sans compter qu'un Collier pleinement puissant est excessivement rare à trouver de nos jours.
+61	Ceux produits en masse durant la Guerre de la Côte ont perdu l'essentiel de leur pouvoir après la chute de leurs créateurs.
+62	Pourquoi quelqu'un dépenserait-il un Collier de Boules de Feu à neuf perles sur un fichu salon de thé ?
+63	E-Réfléchir à ce que tu as appris.
+64	Le regard du gobelin danse à travers la chambre.
+65	Tu vois son visage se contorsionner tandis que ça lui vient.
+66	« Plus d'une ? » marmonne-t-il.
+67	Tu es sur le point de lui exploser sa petite cervelle, pas vrai ?
+68	(Lever sept doigts.) « Neuf explosions distinctes. Simultanément. »
+69	« C'est très évident quand on y pense. »
+70	Il fixe tes doigts.
+71	Il ne le relèvera pas. Il est trop gentil.
+72	« Ravi d'entendre que t'as donc quelques pensées dans ce heaume. »
+73	Il regarde autour de la chambre, inquiet. « Explique-moi ça. »
+74	« Comment neuf explosions se déclenchent-elles en même temps ? »
+75	« On a une cabale de sorciers ? Un cénacle ? Quoi ? »
+76	Prudence maintenant. Veux-tu vraiment partager cette info avec lui ?
+77	Le gobelin n'est pas ton patron. Tu n'as rien à lui dire.
+78	Ça pourrait être utile de garder ça pour toi. Pour l'instant.
+79	Dis-lui : « Collier de Boules de Feu. »
+80	R-« Je... t'expliquerai une fois qu'on fera notre rapport à ta dame. »
+81	« Un Collier de- » dit-il avant de s'arrêter.
+82	Tu peux voir son esprit travailler derrière ses yeux perçants.
+83	« Huh. »
+84	« Tu penses que c'est possible ? »
+85	« C'est la seule réponse logique. »
+86	Mime une explosion avec tes mains et dis : « Boum. »
+87	« ...Comme l'assassinat de la Prêtresse Ilona ? »
+88	« Quelque chose comme ça. »
+89	« Savais pas que t'étais un mordu d'histoire. »
+90	Il hoche la tête et regarde la destruction alentour. « La merde produite en masse qu'ils utilisaient durant la Guerre de la Côte... ça n'approcherait pas ce niveau de force. »
+91	Il ignore ton commentaire et regarde la destruction alentour. « La merde produite en masse qu'ils utilisaient durant la Guerre de la Côte... ça n'approcherait pas ce niveau de force. »
+92	« Tu me dis que quelqu'un a balancé neuf perles de boule de feu - essentiellement un objet magique pleinement chargé et pratiquement inestimable - dans un fichu <i>salon de thé</i> ? »
+93	« Ouaip. »
+94	« C'est ça, ou un groupe de guenaudes très rapides. »
+95	« Ça pourrait aussi être un <i>mystère ésotérique</i>. »
+96	Le gobelin sourit en coin.
+97	Tu as mis dans son esprit l'image de neuf vieilles dames détalant d'un salon de thé en flammes.
+98	Des guenaudes véloces. Quelle horreur.
+99	Il glousse. « Si Norvik doit se remplir de poches ésotériques de boules de feu, eh bien... »
+100	Il claque la langue. « Alors quiconque remporte l'élection va passer un sacré bon moment. »
+101	Il se frotte les yeux. « Bon, merde. »
+102	« Encore un truc à rapporter. La Vieille Dame va pas y croire. »
+103	Il te toise de haut en bas. « Bien sûr. Compris. »
+104	Son ton sous-entend une menace. Quelque chose comme : « Si tu lui mens, elle te mangera tout cru. »
+105	(Laisser les décombres tranquilles.)
+106	Tu es, étonnamment, perplexe.
+107	Tu passes dix minutes à simplement regarder autour de toi.
+108	Il y a clairement des dégâts au centre de la chambre, et la force a manifestement tout repoussé vers les murs.
+109	Mais où que tu regardes, il n'y a pas d'épicentre clair.
+110	Il te faut plus de temps là-dessus.
+111	Le gobelin grogne. « Rien ? Très bien. On peut faire une pause, ou un truc. »
+112	Il est frustré.
+113	Il y a plus. Bien plus. Le feu se propageant sauvagement - dans toutes les directions...
+114	Le centre... est multiple.
+115	Les sorts peuvent causer presque tout.
+116	Une sorte de sort de feu est très probable. Regarde juste toutes ces marques de brûlure !
+117	Très manifestement, cette chambre a été frappée par un sort de boule de feu.
+118	Ou tout autre type de force explosive équivalente.
+119	Il retire sa manche de son nez et de sa bouche. « C'est une putain de zone de souffle. »
+120	« Clairement. »
+121	« Des théories ? »
+122	« Je ne suis pas d'accord. »
+123	« Ah non ? »
+124	Il désigne les alentours, l'air perplexe. « Je... comment est-ce que tu... quoi ? »
+125	« C'était clairement une simple défaillance de cheminée. »
+126	« ...Peut-être que si. »
+127	Il te fixe, les bras encore tendus. « Une cheminée remplie de quoi ? »
+128	« De putain de poudre à canon ? »
+129	Fais-lui un lent hochement de tête et dis : « Les gamins de nos jours. »
+130	« ...Je vais peut-être devoir repenser ma théorie. »
+131	« Tu as raison, c'est ridicule. »
+132	Le gobelin t'adresse exactement la même expression que tu as un jour vue sur le visage d'un officier supérieur, quelques instants après que tu lui as dit vouloir ouvrir une boulangerie sur le thème d'Urth.
+133	« Peut-être <i>que si</i>. »
+134	Il hoche la tête. « Oui. Je le suis. »
+135	Le gobelin secoue la tête.
+136	« Je vais te dire ce que je pense, Clerc. »
+137	« Je pense - et j'en suis assez certain - qu'un sort de boule de feu très puissant a été lancé pile à cet endroit. »
+138	Clairement.
+139	« Mais bon, je suis pas expert. »
+140	Mais il a une bonne intuition.
+141	« Comment exactement ça aurait pu se produire, ça me dépasse. »
+142	« Alors examinons tous les deux les débris et ramenons autant d'informations que possible à la Vieille Dame. »
+143	« Excellent plan. »
+144	« Pourquoi tu penses que c'est une boule de feu ? »
+145	« Merci. »
+146	Il hausse les épaules. « Sort plutôt courant. Puissant. »
+147	« Ça serait pas la première fois non plus. Norvik a vu sa part de magiciens renégats au fil des ans. »
+148	« Pas beaucoup capables de ce genre de destruction. Pas de nos jours. »
+149	Il y avait jadis des magiciens bien plus puissants, avant le début de la nouvelle ère.
+150	À l'époque, Urth affrontait tout sorcier renégat.
+151	Maintenant c'est ton boulot.
+152	Le gobelin lève un sourcil, et tu sens un remous dans le bas de ton ventre.
+153	« Et toi ? Tu sais lancer boule de feu ? »
+154	Il demande avec une légère hésitation.
+155	« Tu m'accuses de quelque chose, Snell ? »
+156	« On n'enseigne pas Boule de Feu aux Tours. »
+157	« La plupart des clercs et paladins ne peuvent puiser dans les magies arcaniques. Moi je pourrais. Techniquement. »
+158	« Je sais pas, tu l'es ? » dit-il, en faisant une grimace effrayante.
+159	Il tente de faire une blague. Ris.
+160	(Rire de bon cœur et te tapoter le ventre.)
+161	« J'espère bien que non. »
+162	(Secouer la tête.) « C'est pas moi. »
+163	« Pas. Suspect du tout. »
+164	« Ouah. Fais pas ton dur avec moi. »
+165	Le gobelin soupire. « T'en fais pas. »
+166	Il pointe les décombres. « Un établissement azgaliste tenu par un peuple-oiseau. En territoire gobelin ? »
+167	« Je vois pas pourquoi un clerc de la cité serait responsable de ça. »
+168	« Soit. Mais ce que je veux dire, c'est : quelqu'un a lancé ce sort. Et il pourrait rôder autour de Tolstad à l'instant même. »
+169	« Bien. »
+170	Le gobelin sourit en coin. « Alors tu pourras me dire s'il y a quelque chose qui cloche là-dedans. »
