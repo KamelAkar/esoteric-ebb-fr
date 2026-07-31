@@ -1,0 +1,501 @@
+idx	french
+0	Le mimique dévoile son apparence depuis le panneau.
+1	« Grand homme d'acier ! »
+2	« Et plus petit, joli homme ! »
+3	Le gobelin grimace clairement, et ouvertement.
+4	Tu fixes le panneau.
+5	Ton compagnon se joint aussi à la fixation.
+6	Il est bel et bien écrit : <i>Pas un Mimique</i>.
+7	Il te parle.
+8	Qu'est-ce qui me parle ?
+9	Qui a mis ce panneau ici ?
+10	Alors je suppose que le coffre est un mimique, alors ?
+11	Comprendre ce qui cloche dans toute cette mise en scène.
+12	(Toucher le panneau.)
+13	(Regarder le panneau.)
+14	Hm.
+15	La <i>gueule</i>.
+16	Elle attend.
+17	Mais ne crains rien.
+18	C'est un ami.
+19	Écoute, l'estomac dit ce qu'il veut dire.
+20	Parfois les os disent la vérité.
+21	Mais cette fois, tu n'es pas trop sûr de ce que cette vérité signifie même.
+22	<i>Un ami</i>.
+23	Une question intéressante.
+24	Ça pourrait être une équipe de fabricants de panneaux qui font le tour de la Cité d'En Bas à planter des panneaux utiles.
+25	Ce serait charmant.
+26	Cependant, il y a très probablement une explication plus ésotérique.
+27	Il y a bien des mystères dans la Cité d'En Bas. Y compris les tunnels changeants, et les poches ésotériques étrangement intenses.
+28	Normalement, une magie comme celle-ci serait plutôt rare aussi près de la Côte, mais la Cité d'En Bas est spéciale.
+29	Alors ce panneau pourrait très bien être une manifestation d'un événement ésotérique.
+30	En d'autres termes, le panneau pourrait très bien être un phénomène naturel de Jor.
+31	Le panneau dit clairement le contraire.
+32	Le panneau semble pointer vers ça, oui.
+33	Cependant, toute cette zone est clairement de nature ésotérique. Alors méfie-toi.
+34	« Mes "potes gobelins" ? »
+35	Il n'aime pas le ton de cette expression.
+36	« Ouais, tu sais. Les <i>gobros</i>. »
+37	« Tu n'as pas d'amis, Snell ? »
+38	« Réponds juste à la question. »
+39	« Les quoi maintenant ? »
+40	Il ne connaît pas le jargon ?
+41	« Les <i>gobmiches</i>. »
+42	Il te foudroie du regard.
+43	Essaie-en d'autres.
+44	« Les <i>gobpotes</i> ? »
+45	« Tes <i>crocmignons</i> ? »
+46	« Euh... genre, les <i>gremlinets</i> ? »
+47	« Et les <i>goulinets</i> ? »
+48	Le gobelin lève un doigt.
+49	« N'emploie plus ce mot. »
+50	« Oh. C'est un mot réservé aux gobelins ? »
+51	« Non, pas du tout. »
+52	« Mais ça ne veut pas dire ce que tu crois. »
+53	« Au-delà de ça... »
+54	Il est exactement comme toi.
+55	Vraiment.
+56	« C'est pas- »
+57	Il s'interrompt.
+58	« Non, Clerc. »
+59	« Je peux te garantir : <i>personne</i> des Halfways n'a mis ce panneau. »
+60	(Attraper le panneau.)
+61	(Ne pas attraper le panneau.)
+62	Attends.
+63	Attends VOIR.
+64	Quoi ?
+65	Regarde le panneau.
+66	Ça fait un moment que je fais ça. Qu'est-ce qu'il a ?
+67	Pose-toi une question basique.
+68	<b>Comment le panneau est-il fixé au mur ?</b>
+69	Enfin, manifestement c'est... le clou. Là-haut.
+70	Oui. Mais regarde-le.
+71	(L'inspecter de plus près.) Oh. Il n'est pas...?
+72	Ce clou n'est pas fixé au bois. Il ne pend non plus à rien d'autre d'apparent.
+73	Il pourrait être fixé à l'arrière ?
+74	Ce serait une étrange façon d'accrocher un simple panneau comme ça.
+75	C'est vrai.
+76	Un homme le clouerait juste directement à travers.
+77	Plus important encore, pourquoi la corde serait-elle encore dressée de cette façon ?
+78	C'est comme si quelqu'un avait tenté de créer un fac-similé de panneau suspendu, sans réfléchir à toutes les étapes logiques du pourquoi chaque pièce est assemblée.
+79	Alors... qu'est-ce qu'il a ?
+80	C'est suspect.
+81	Ouais, ça au moins c'était évident dès le début. Qu'est-ce que j'en fais ?
+82	Tu vois ces cailloux sur le sol ?
+83	Lances-en un sur le panneau.
+84	Un test basique de corporéité.
+85	Corpo-quoi ?
+86	(Lancer un caillou sur le panneau.)
+87	(Attraper plutôt le panneau.)
+88	Fais-le, c'est tout.
+89	Non !
+90	Nan.
+91	Tu n'en as aucune idée.
+92	Mais tu devrais probablement être prudent.
+93	Tu devrais voir s'il y a quelque chose derrière le panneau, peut-être ?
+94	Tu remarques bien un léger interstice sur le côté du panneau.
+95	Un interstice dans le mur. Il y a quelque chose derrière, peut-être.
+96	Mm.
+97	Hm ?
+98	Pourquoi ai-je le sentiment que je pourrais... toucher le panneau ?
+99	Ce n'est qu'une possibilité parmi tant d'autres.
+100	Peut-être devrais-tu d'abord y réfléchir.
+101	Y réfléchir beaucoup.
+102	C'est la seule façon de vraiment enquêter sur quelque chose.
+103	Faux.
+104	Tu peux aussi user de tes yeux.
+105	C'est un panneau.
+106	Il est écrit : « Pas un Mimique. »
+107	À la seconde où ta main gantée touche la surface du panneau, tu réalises que quelque chose cloche.
+108	Principalement parce que c'est mou.
+109	Et puis...
+110	Les très, très nombreuses longues dents s'enfoncent dans ta main.
+111	Brisant la peau, écrasant l'os.
+112	« Je le <b>savais</b> ! »
+113	Non, il ne le savait pas.
+114	Une douzaine d'yeux surgissent de nulle part sur la surface de bois, qui devient vite caoutchouteuse et frétillante.
+115	(Hurler et se débattre.)
+116	Ta main est coincée, clouée dans la gueule de la Bête.
+117	« Je m'en occupe ! »
+118	Elle lâche un gargouillement gloussant en vibrant sur le mur.
+119	Un ami.
+120	Tu dois faire tes preuves ici. Encaisse la douleur !
+121	Va plus profond !
+122	Tandis que la créature mâche ta chair, tu sembles te rappeler une anecdote intéressante.
+123	CE N'EST PAS LE MOMENT !
+124	C'est toujours le moment pour le savoir. Vois-tu, tu as lu une fois que si tu te fais mordre, mâchoire-verrouillée par une Bête comme celle-ci, il n'y a qu'une seule chose à faire.
+125	Enfonce la main plus profond.
+126	Oui. OUI.
+127	C'est risqué. Mais aller plus profond pourrait bien marcher.
+128	Quoi que tu fasses : ne la touche SURTOUT PAS avec l'autre main.
+129	Dégager ta main en la remuant.
+130	Enfoncer ta main plus profond.
+131	Le poing heurte une surface molle, et se coince aussitôt.
+132	Le mimique émet un gargouillement satisfait.
+133	« Bon sang ! N'aggrave pas les choses ! »
+134	Attends !
+135	QU'EST-CE QUE C'EST ?
+136	Pousse et tire ! Dedans dehors ! Vite !
+137	(Enfoncer un peu ta main, puis la retirer.)
+138	Tandis que tu projettes ton bras en avant, les nombreuses petites dents acérées sont en fait extraites de ta chair.
+139	Puis... tu retires !
+140	Ta main échappe à la gueule de la Bête.
+141	Le moindre contact te laisse incapable de contrôler ton bras.
+142	Tandis que tu tentes de la remuer, ça envoie une douleur incroyable dans tout ton bras.
+143	Merde. Il te faut une autre méthode. Et vite !
+144	La douleur est intense.
+145	Elle te ronge.
+146	Embrasse-la.
+147	(Enfoncer ton bras entier dans la gueule.)
+148	Tandis que tu pousses ton bras en avant, les nombreuses petites dents acérées sont en fait extraites de ta chair.
+149	(Aller plus profond.)
+150	Les nombreux yeux de la créature s'écarquillent de plus en plus.
+151	Tandis que les dents se mettent à racler contre ton coude, elle commence à émettre un couinement mouillé.
+152	Comme un écureuil s'étouffant avec des noix.
+153	Hé. Des noix.
+154	Puis... sa gueule s'élargit elle aussi.
+155	Elle te lâche !
+156	Tu vois ? Un ami.
+157	(Retirer ton bras.)
+158	Les dents ne tranchant tout ton bras en lambeaux de chair que de justesse, tu l'arraches vite de la gueule du mimique.
+159	Elle reste à haleter et gargouiller sur le mur.
+160	Une douleur incroyable. Ce qui ressemble à un millier de petits couteaux se tortillant à l'intérieur de ton bras.
+161	Tu ne peux pas en supporter beaucoup plus.
+162	Ton bras s'engourdit. Ça va aider.
+163	Il attrape déjà un rocher voisin, et le fracasse contre les yeux ouverts de la Bête.
+164	« Juste... essaie de te sortir de sa prise ! »
+165	« Mais sans perdre ton satané bras ! »
+166	Si exigeant. Ce gobelin.
+167	Ton bras est un vaisseau-muscle héroïquement chargé. Nulle aberration ne le consumera sans un <b>combat</b>.
+168	Personne ne le consumera du tout, de préférence.
+169	C'est un ami. Sois proche.
+170	Ferme-la, bordel !
+171	Reculant en titubant, tu tiens ta main ensanglantée.
+172	Le gobelin s'interpose entre toi et le monstre. « Recule ! »
+173	Ses nombreux yeux se focalisent sur vous deux, et puis...
+174	Tu attrapes un caillou au sol et le lances doucement vers le panneau.
+175	T'attendant à ce qu'il rebondisse aussitôt - au lieu de ça, il... s'arrête, tout simplement.
+176	Il se coince sur la surface du panneau.
+177	Ho là.
+178	« Ho là. »
+179	C'est un... c'est mou ?
+180	Le caillou s'est arrêté comme s'il avait heurté un mur de miel mou et collant.
+181	« Hein ? »
+182	Tandis que tu regardes le caillou juste posé là sur le panneau- tu vois aussi quelque chose émerger.
+183	Un œil qui te fixe.
+184	« Je le savais ! »
+185	(Le pointer du doigt et crier.) « Un mimique ! Un vrai MIMIQUE ! »
+186	« Tout juste ! Attends VOIR...! »
+187	Il parle d'un ton dur et coupant.
+188	Il parle ?
+189	« Tu PEUX PAS surprendre <i>un</i> ! »
+190	« Par-fois ma bouche pas pouvoir contenir. C'est la <wiggle>FAIM</wiggle> ! »
+191	« Il paraît qu'il y a des yeux sur moi. »
+192	« Moi qui me cache <wiggle>À-DÉCOUVERT</wiggle>. »
+193	Intéressant. Il y a eu des documentations de mimiques élevés pour une plus grande intelligence.
+194	Mais ils sont communément considérés comme éteints dans l'actuelle Ère d'Après-Guerre.
+195	« Ça- je- tu peux parler ?! »
+196	(Lever tes poings, se préparer à un combat.)
+197	« Parler et penser et respirer et mordre- je fais je fais. »
+198	« Tout le temps ! »
+199	« Pardon, pardon ! C'est ce que... ce que c'est ! »
+200	« Oh. Moi être Mimique ? C'est pour ça ? »
+201	Le gobelin lève une main. « Enfin, ouais. Ça se tient. »
+202	« Non ! Non ! »
+203	« La paix alors ! La paix sur toi ! »
+204	Sois un ami.
+205	Bon, alors. C'est le moment.
+206	Amadoue ce gaillard pour le rallier à ton camp. Tu peux le faire.
+207	« Honnêtement, je m'attendais pas à ce que tu parles. Ça me déstabilise un peu. »
+208	« Tu es un monstre. Tu dois être détruit, clairement. »
+209	« Pas parler souvent, non ! Mais tu comprends ? »
+210	« Oui, je te comprends. »
+211	« Enfin. Tu parles bizarrement. »
+212	« Comprends ! C'est bien. »
+213	« Ah ! C'est du mimique-dialectal. »
+214	« En colonie, on parle bien. Gentil, direct. »
+215	« Utiliser bouche est... pas aussi bien parler. »
+216	« La paix sur grand homme à peau d'acier ! »
+217	« La paix sur grand homme d'acier et plus petit, joli homme ! »
+218	« C'est... hm. »
+219	« Je m'attendais pas à me faire traiter de "joli" par un mimique aujourd'hui. »
+220	« Tu ne veux pas être détruit ? »
+221	« J'avais jamais entendu de monstres appeler à la paix avant. »
+222	« Euh- oui ! C'est... comme on dit, sub-jectif ! »
+223	« Ne cherche pas l'approbation de ce truc, Clerc. »
+224	« Non ! Négatif ! Pas vouloir ! »
+225	« D'accord. Maintenant tu veux : la Paix ! »
+226	Peace and love, mon frère.
+227	Le truc est peut-être hideux, mais il n'est pas ouvertement agressif là.
+228	Si tu veux vraiment l'approcher, essaie d'imiter son mode de parole. Jeu de mots voulu.
+229	Hm. Oui, ce monstre n'est pas sans cervelle. Et bien que ses intentions semblent découler de la survie, ce n'est pas le plus mauvais des penchants.
+230	Peut-être peux-tu, en effet, l'écouter.
+231	Peut-on faire confiance à un monstre conçu pour berner les gens jusqu'à la mort ?
+232	« Je veux te soutirer des informations, monstre. »
+233	« Es-... tu... un <i>ami</i> ? »
+234	« Alors... tu es... amical ? »
+235	(Le frapper dans l'œil central.)
+236	« Oui ! Tu le seras ! »
+237	« Je veux proposer marché ! »
+238	Ses yeux te fixent, sans ciller, tandis que sa gueule s'ouvre lentement.
+239	« Je... suis... un <wiggle>AMI</wiggle>. »
+240	UN AMI.
+241	La créature fait un mouvement évoquant un hochement de tête.
+242	« Je... le suis ! »
+243	L'œil central !
+244	Bon alors. L'heure de parler.
+245	« Écoute », dit le gobelin, se détournant du monstre. « Je ne ferais pas confiance à ce truc au bout d'une perche de trois mètres, cependant... »
+246	« Si tu peux lui soutirer de bonnes infos... »
+247	Il hausse les épaules. « Fais confiance mais vérifie, pas vrai ? »
+248	« Alors... »
+249	Le mimique regarde autour.
+250	« Je- nous- je- »
+251	« Une mission ! Magicien dit de garder. La planque ! »
+252	Une... planque, hein ?
+253	« Mais salle change place. Chambre se déplace. Temps <wiggle>PASSE</wiggle>. »
+254	« Alors... Garde Meek se déplace. Nourrir. Garder. Des gens venant de pas-donjon. »
+255	Le pauvre petit gaillard est coincé ici en bas depuis très longtemps.
+256	Ce monstre... suit des ordres ?
+257	Ça sonne en fait plutôt honorable.
+258	« Mais Meek peut parler ! Parler beaucoup ! Demande à Meek ! »
+259	« Ton nom est Meek ? »
+260	« Ça doit être solitaire ici en bas. »
+261	« Que sais-tu de ce lieu ? »
+262	« Comment peux-tu parler ? »
+263	« Alors tu gardes quelque chose ? »
+264	« D'où viens-tu ? »
+265	Qu'est-ce que je suis censé faire de ce truc ?
+266	Convaincre le mimique de rejoindre ton groupe.
+267	Je peux... lui demander de rejoindre le groupe ? Vraiment ?
+268	(Avoir l'air ferme et stoïque.) « <b>Donne-moi la planque</b>. »
+269	« J'en ai marre de ça. » (Le frapper, c'est tout.)
+270	« Je reviendrai plus tard. Ne quitte pas la cité. »
+271	« Meek ! Oui ! »
+272	« C'est un super nom. »
+273	« C'est un nom terrible. »
+274	« Bah. »
+275	« Oui-oui ! »
+276	« Oui ! »
+277	« Non non. »
+278	Le regard du mimique danse à travers la pièce un moment.
+279	« Enfin, oui ! Ou non. Toi pas-gentil. »
+280	« Il est à peu près aussi indécis que toi. »
+281	Ne sois pas méchant.
+282	Tu as blessé les sentiments du petit gaillard. Je suis pas sûr que ce soit dans ton intérêt ici.
+283	« Hein ? »
+284	« <i>Hein</i> ? »
+285	« Hein... »
+286	« Ah ! Pas seul toujours. »
+287	« Colonie est quelque part dans passé et ouest. Longtemps passé en colonie. »
+288	« La plupart très bêtes en colonie. Ils aiment pas intelligent. »
+289	« Ils virent. Pas <wiggle>autorisé</wiggle> à intelligent. »
+290	« Tu as été viré parce que tu étais trop intelligent ? »
+291	« L'anti-intellectualisme est vraiment un cancer pour notre royaume. »
+292	« Ouais, tu as l'air plutôt agaçant, en effet. »
+293	Le mimique serre ses nombreuses dents ensemble.
+294	« C'est une <wiggle>MALÉDICTION</wiggle>. Malédiction-intelligent. »
+295	Comme c'est étrangement parlant.
+296	« Anti... inte ? Intellec- intellectuellement ? »
+297	« Pas bien, non ! »
+298	« Aga- agaç-ant ? »
+299	Le mimique lâche un grognement aigu.
+300	« Non. Toi. »
+301	Il t'a bien eu là.
+302	« Je sais beaucoup ! Ou... »
+303	Il se déplace un peu, balançant son regard.
+304	« Je connais danger et secret. »
+305	« Lieu est plein de danger et secret. Maître dit beaucoup, et partagea peu. »
+306	« Mais Meek sait ! Meek sait ! »
+307	Le mimique pourrait être utile s'il partageait ses secrets.
+308	Du moins si ce maître est, comme tu le soupçonnes, un magicien.
+309	« Parler ? Maître a fait Meek parler ! »
+310	« Un maître ? »
+311	« Maître Haggi- Haggi- <wiggle>HAGGINSHAGS</wiggle> ! »
+312	« Hagginshags ? C'est une de ces familles d'Arcanistes, non ? Ça doit être un vieux mimique. »
+313	En effet.
+314	C'est là une des grandes familles d'Arcanistes. Ce mimique doit être vieux. Très vieux.
+315	Ils sont censés avoir disparu à l'heure qu'il est.
+316	Les Hagginshags sont tombés avec leur empire. Celui dont ce mimique parle devrait être soit un imposteur, soit... un survivant.
+317	« Oui oui ! »
+318	« La plupart de la planque est partie. Perdue. Ou Maître prit. »
+319	« Mais un peu est ici ici ! »
+320	« Je peux l'avoir ? »
+321	« Où est ton maître ? »
+322	On dirait que le mimique est un gardien plutôt correct.
+323	« Non non ! Seul Maître prend planque ! »
+324	« Pas ici ! »
+325	« Pas, pas ici. »
+326	« Maître parti. Meek seul ! »
+327	Tu t'identifies plus à ce monstre en ce moment qu'à la plupart des humains dans les rues de Norvik.
+328	En effet. Un bon animal de magicien.
+329	Tout magicien requiert un familier.
+330	Un gardien ? Oui. Comme une sorte de familier.
+331	Un peu trop bon.
+332	« Maître ! Antre ! »
+333	« C'est pas près. Le lieu change. Se déplace. »
+334	« Ici est pas où fut jadis et sera. »
+335	Soudain une phrase très compliquée.
+336	Le mimique est un poète spontané.
+337	Prends la planque, bien sûr.
+338	C'est peut-être peu orthodoxe, mais...
+339	Il y a sûrement un moyen de convaincre cette créature de donner un coup de main.
+340	Tous les monstres doivent être vaincus. Cependant...
+341	Celui-ci ne semble pas si mauvais.
+342	Celui-ci paraît trop étrange et dangereux pour tes capacités.
+343	Une idée ! Bon, une idée.
+344	Ouais ?!
+345	Pour comprendre ce mimique, tu dois... essayer de <i>devenir</i> le mimique.
+346	Oh non.
+347	Je comprends. (Tenter de se fondre dans l'environnement.)
+348	« ...Clerc ? »
+349	Ton instinct est de te recroqueviller au sol. Naturellement.
+350	En restant complètement immobile.
+351	(Passer 10 minutes ainsi.)
+352	À mesure que le temps passe, tu te relèves lentement de ta nouvelle forme-de-boule.
+353	« Hm ? Oh, t'as fini ? »
+354	Tu étires tes membres, sentant la puissance de vraiment bouger - et de ne pas être immobile.
+355	C'est idiot.
+356	« Homme d'acier bouge ? Vivant ? Oui ! Bien ! »
+357	Tu connais maintenant un peu mieux ce qu'est la vie d'un mimique.
+358	Surtout, c'est ressentir de la douleur dans ses membres sur un dur sol de pierre.
+359	C'est ça. Alors... est-ce que ça va aider ?
+360	On verra.
+361	Ça pourrait, en fait. Passer un peu de temps au sol t'a bien permis de réfléchir à la vie de ce mimique.
+362	Mais bien sûr, tu dois encore-
+363	Faut réessayer. Trouve un de ces éclats ou un truc. D'habitude ça aide.
+364	Ces « éclats » sont des artefacts ésotériquement alignés déformant-les-Fils.
+365	Ouais, ouais, peu importe. Utilises-en un !
+366	Tu peux tout faire. Tu es <b>Le Clerc</b>.
+367	Ça aiderait d'avoir plus d'alliés. Si on peut appeler un mimique un <i>allié</i>.
+368	Ce serait beaucoup à gérer. Mais...
+369	Si tu peux amener la créature à juste rester dans le coin et partager ses « infos », alors... pourquoi pas ?
+370	Un mimique ferait un familier correct.
+371	Le gobelin, cependant, n'a pas prouvé être un serviteur suffisant.
+372	Snell te lance un regard tandis que tu te tiens là, en silence.
+373	Dans l'esprit du gobelin : un vague sentiment que tu es en train de le « dénigrer ».
+374	« Non non ! »
+375	Mince. Ta posture stoïque a dû être trop timide.
+376	Mince. Si seulement demander du butin marchait plus souvent.
+377	En fait, non, ça enlèverait la moitié du plaisir.
+378	« Explique pourquoi tu peux pas juste me le donner. Sois rationnel. »
+379	« C'est juste. Désolé d'avoir demandé. »
+380	(Émettre un long grognement traînant.)
+381	Les nombreux yeux du mimique fixent un moment le vide devant eux.
+382	Puis il dit : « Je, je, je... »
+383	« Oui ? »
+384	« La planque est à Maître ! »
+385	« Toi pas Maître. »
+386	C'est, en fait, un bon argument.
+387	« Je pourrais être ton nouveau Maître. »
+388	« Et si je t'attaque ? Je pourrais l'avoir alors ? »
+389	« Ça ça- »
+390	La bouche du monstre reste ouverte tandis qu'il se fige en pleine parole.
+391	« Déroutant. Toi bon Maître ? Poten- poten-tiellement ? »
+392	« Très bon. En fait, le meilleur. Le meilleur Magicien-maître qui ait jamais existé. »
+393	« À la limite correct. »
+394	« Pas vraiment, si je suis honnête. »
+395	« Le meilleur ? Ça, c'est grand ! »
+396	« Grand grand ! »
+397	« D'accord ? D'accord peut marcher. »
+398	« Honnête ? Bien ! »
+399	« Maître qui ment est mauvais ! »
+400	Le gaillard aime vraiment voir les choses du bon côté.
+401	Maître d'un ami. Oui.
+402	« Possible ! »
+403	« Beaucoup ont combattu. J'en mange certains. J'en fuis certains. »
+404	« Tu courrais ou fuirais devant moi ? »
+405	« Bonne question. »
+406	« Dans ce, dans ce cas, je courrais. »
+407	« Courir vite. »
+408	« Bien bien ! »
+409	Le mimique te fixe.
+410	(Émettre un autre long grognement traînant.)
+411	Le mimique répète ton bruit.
+412	« Aaaouuughh... »
+413	Une piètre imitation. Tu l'espères.
+414	« D'accord ! »
+415	(Le laisser.)
+416	C'est ça.
+417	Enfin, ça peut sembler plutôt simple à ce stade.
+418	Mais tu dois convaincre ce truc que tu seras son nouveau maître.
+419	Oh !
+420	Et tu fais ça en... enfin...
+421	« Hé, mimique ! Euh... Meek ! »
+422	« C'était quand la dernière fois que tu as vu ton Maître ? »
+423	« Maître ? Oui oui ! Maître était- »
+424	Il gigote sur le mur.
+425	« Maître avait un- Maître dit, Meek devrait- puis... »
+426	« Hm. Meek pas voir Maître depuis longtemps. »
+427	« Longtemps longtemps. »
+428	Et voilà. Tu as mis ces rouages en marche.
+429	Maintenant frappe-le avec le grand jeu.
+430	« Ton ancien maître est parti, Meek. »
+431	« Oh. Mais mais...! »
+432	« Pas de mais. Il est parti. Mais c'est bon. Je serai ton nouveau maître. »
+433	« Oh...! »
+434	L'œil du mimique s'écarquille, révélant un fatras horrifiant de pupilles luisantes.
+435	Puis il se met à trembler.
+436	« Non, ça marche pas, marche pas pas. »
+437	« Quoi ? »
+438	« Seul Maître peut ordonner. Vieil ordre, encore frais ordre. »
+439	Hm. Peut-être demander...
+440	« C'était quoi exactement, l'ordre ? »
+441	« L'ordre ? Maître dit : "Garde Meek garde planque. Garde Meek seulement ordonné par Maître." »
+442	Hm. Enfin, il y a une faille là.
+443	« Tu es "Garde" Meek ? »
+444	« Garde est... un titre. »
+445	« <wiggle>Le titre est Garde</wiggle>. »
+446	« Alors si tu cesses d'avoir ce titre, alors tu n'es plus Garde Meek. Et donc tu n'as pas besoin de suivre les ordres. »
+447	Meek te fixe un moment.
+448	Il se tourne aussi vers ton compagnon.
+449	« Euh. Ça me paraît logique ? »
+450	« Oui. Oui ! Ça marcher ! »
+451	« Mais mais... Meek est Garde Meek. »
+452	« Plus maintenant ! Par le pouvoir qui m'est conféré par la Cité de Norvik, je te nomme officiellement adjoint, Monsieur Meek. »
+453	« Quooooi ?! »
+454	Le mimique tressaute sur le mur.
+455	« Ton nouveau titre est désormais <i>Adjoint Meek</i>. Félicitations. Tu veux rejoindre le groupe ? »
+456	Un cri strident horrible est émis par le monstre tandis qu'il bondit vers toi.
+457	« Merde-merde ! » crie le gobelin en reculant.
+458	(L'étreindre.)
+459	En un instant, tu réalises que le mimique a quitté sa pose.
+460	Et s'est mué en cape.
+461	« Une cape, une cape ! Je le suis ! »
+462	« Si danger, je dis ! »
+463	Un familier a rejoint ton groupe.
+464	Garde des familiers équipés pour gagner des bonus aux jets de dés.
+465	« Adjo- Adjo-int Meek à ton service ! »
+466	« ...T'es sûr que c'est sans danger ? »
+467	« Allons-y ! »
+468	« Oui oui ! Petit-petit gaillard ! »
+469	« Mm-hmm. Ah, au diable. Je suis sûr que ça ira. »
+470	« <i>Gardons le mimique avec nous</i>. Pourquoi pas ? »
+471	Il marmonne pour lui-même : « <i>Je pourrai écrire un livre sur les fameuses dernières paroles après tout ça...</i> »
+472	Ton poing ganté entre en contact avec le monstre avant qu'il ne puisse réagir.
+473	Il lâche un hurlement perçant.
+474	Et puis te mord.
+475	Dans le même mouvement, la créature se détache d'un coup du mur, se servant de son dos collant pour attraper tout ce qu'elle peut au passage.
+476	Le butin ! Essayer d'attraper le butin !
+477	(Le laisser partir.)
+478	Tu balances vite la main vers l'aberration tandis qu'elle détale à travers le sol.
+479	« Va-t'en va-t'en ! <wiggle>VA TE FAIRE FOUTRE !</wiggle> »
+480	Un sac.
+481	C'est un sac !
+482	(L'attraper.)
+483	Avant que le mimique ne s'échappe par les tunnels derrière toi, tu vois le vieux sac de cuir qu'il traîne, et...
+484	Tu t'en empares.
+485	Puis le mimique disparaît vite, son cri résonnant dans le couloir.
+486	(Piller le sac.)
+487	Quelques couronnes !
+488	Bien.
+489	Et il reste quelque chose dans le trou du mur. Jette un œil.
+490	« Butin... acquis. »
+491	Tu tentes vite de balancer la main vers l'aberration tandis qu'elle détale à travers le sol.
+492	« Va-t'en va-t'en ! <wiggle>ZUT À TOI !</wiggle> »
+493	(Trébucher.)
+494	Tandis que le mimique s'échappe par les tunnels derrière toi, tu vois un vieux sac de cuir traîné derrière lui.
+495	Bon sang ! Il est parti !
+496	Tu regardes le mimique filer au loin, son cri résonnant dans le couloir.
+497	(Se lever et s'épousseter.)
+498	« D'accord, désolé de pas avoir aidé là. Je m'attendais vraiment pas à ça. »
+499	« Mais bon. Il ne t'a pas arraché le visage, pas vrai ? »
