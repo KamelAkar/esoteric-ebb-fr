@@ -1,0 +1,322 @@
+idx	french
+0	À côté de la statue ensevelie, tu vois quelqu'un sur une corniche.
+1	Des grognements résonnent dans la chambre, avec le bruit du fer contre la pierre.
+2	Tu entends le son de... quelqu'un qui travaille.
+3	Des grognements. Des tintements. Et ainsi de suite.
+4	Un nain ? Ici en bas ?
+5	Ça pourrait être un piège.
+6	« Ohé, là-haut ! »
+7	« Identifiez-vous, citoyen ! »
+8	(Se racler la gorge.)
+9	Nan.
+10	Tu le fais. Mais c'est noyé par le vacarme.
+11	(Se racler la gorge bien, bien plus fort.)
+12	« Hé, je te parle ! »
+13	« Hein ? »
+14	Les yeux ardents du nain s'écarquillent en te voyant.
+15	« Regarde Romulus, on a un officiel en visite ! »
+16	« Si ça ne fait pas de nous des officiels, je ne sais pas ce qui le fera ! »
+17	En jetant un œil par-dessus la corniche, tu repères un monstre orange rôdant.
+18	Un Monstre Rouilleur. Le nain semble en bons termes avec lui. Comme c'est étrange.
+19	Les Monstres Rouilleurs sont connus pour dévorer le métal. Garde tes distances.
+20	« Et, euh... » marmonne-t-il en se penchant. « Joli seau ! »
+21	« Et, euh... » marmonne-t-il en se penchant. « Joli pot ! »
+22	« C'est quoi ce truc ?! »
+23	« C'est un Monstre Rouilleur ? »
+24	« Que faites-vous ici ? »
+25	« Avez-vous une licence pour... ça ? »
+26	« Descendez de là. »
+27	« Quelle trouvaille ! »
+28	Bien. Il joue le jeu.
+29	Il croit que tu fais un <i>numéro</i>.
+30	C'est le cas.
+31	« Un si merveilleux <i>butin</i> ! »
+32	« Oh, pas d'inquiétude ! C'est juste Romulus. »
+33	« Il est très gentil. » Le nain marmonne alors pour lui-même : « <i>Quand il est nourri</i>. »
+34	De mauvais augure.
+35	« Oh oui ! Tout à fait exact. Mais pas d'inquiétude ! »
+36	« Moi ? Oh. Tu sais. »
+37	Il lâche un rire ardent. « Un nain doit bien avoir un passe-temps ! »
+38	Miner dans d'anciennes ruines n'est pas un passe-temps. C'est une profession.
+39	« Une licence ? »
+40	« Je pensais pas qu'on en avait besoin pour risquer sa vie ici en bas ! »
+41	Il n'a pas tort.
+42	« Nan. Ça m'a pris des lustres d'obtenir cette place. »
+43	« On peut parler comme ça ! C'est bon. »
+44	Insubordination.
+45	Il pose ses outils et prend la pose.
+46	« Laisse-moi me présenter. Je suis Akzel Mâdsson ! »
+47	Un nain sombre.
+48	Ou comme ils préfèrent, un <i>sous-nain</i>.
+49	« Ravi de te rencontrer ! Tu es un clerc norvikien, je présume ? »
+50	« Pas seulement. Je suis <i>Le</i> Clerc. De Norvik. »
+51	« Je suis plutôt un roublard, en vérité. Du genre furtif. »
+52	« Je suis en fait plutôt un lanceur de sorts arcaniques. »
+53	« ...Oui. » (Ne pas faire compliqué.)
+54	« Ça alors ! »
+55	« Pas sûr de ce que ça veut dire, mais ça sonne cher ! »
+56	Ça veut dire tout.
+57	« Un... roublard ? Roublard de quoi ? »
+58	« Juste roublard, tu sais. »
+59	« Un acteur roublard dans un monde de conspirations. »
+60	« Peut-être que "voleur" est un meilleur titre. »
+61	« Je sais ? »
+62	« Tu <i>sais</i>. »
+63	Il hausse les épaules et dit : « Bien sûr ! Pourquoi pas ? »
+64	« Ça sonne sombre ! J'aime ça. »
+65	Pareil.
+66	« Oh. Je suppose que, euh... clerc kleptomane, ça sonne accrocheur ! »
+67	C'est vrai.
+68	« Oh. Alors un magicien ? »
+69	« Oui. Euh. <i>Indubitablement</i>. »
+70	« Bien sûr. Si tu veux le dire simplement. »
+71	« Un clerc-magicien. Oui. »
+72	N'emploie pas ce mot.
+73	Un mot parfait pour un esprit parfait.
+74	« De la musique magique ? »
+75	« C'est ça. »
+76	« Hein. J'en ai pas vu un depuis un moment. »
+77	« ...Je suis vraiment plutôt un Barde en herbe, mais bon. »
+78	« Compris. »
+79	« Je vois ! »
+80	« Tu es un peu petit pour ça, non ? »
+81	Comment ose-t-il.
+82	« Ne me cherche pas. »
+83	« J'y travaille. »
+84	(Prendre un air triste.)
+85	Il rit.
+86	« Ah, sois ce que tu veux être ! C'est un royaume libre ! »
+87	« Oh. Alors, genre un mélange ? »
+88	« Ouais. Probablement. »
+89	« Je vise le Druide complet d'ici la fin du prochain trimestre. »
+90	« Tant mieux pour toi ! »
+91	Un choix sage. La simplicité est une force.
+92	Il regarde autour. « Et tu es ici tout seul ? »
+93	« Ouais. »
+94	« En quoi ça te regarde ? »
+95	« Bien sûr. Quel genre d'homme ne serait pas seul ? »
+96	« Non, c'est juste... »
+97	Profond.
+98	« Hah ! <i>Go' knaegt</i> ! »
+99	« Alors je te suggère fortement de ne pas entrer dans le couloir là-bas. »
+100	Écoute-le. Il connaît bien ces tunnels.
+101	« C'est un de ces anciens pièges ésotériques. Encore fonctionnel. »
+102	« Il te grillera la barbe. »
+103	« Vous l'avez déclenché ?! »
+104	« Je suis impressionné que vous soyez en vie ! »
+105	Toi aussi.
+106	« Pas sûr de l'expérience que tu as avec cette Cité Sous la Cité... »
+107	« Mais la plupart des gens qui descendent ici... ils meurent. »
+108	« Même les clercs ne s'aventurent pas ici seuls. Tu n'as pas un peu de renfort ? »
+109	Tu n'as besoin d'aucun renfort. Tu es le renfort.
+110	Un renfort serait bien, en fait.
+111	« Pas vraiment. »
+112	« Quoi ?! »
+113	« Alors quel est ton... but ? »
+114	« Tu ne peux pas juste te balader ici en bas, quand même ? »
+115	« Je suis censé retrouver un chef gobelin ? »
+116	« Oh. Oh ! »
+117	« Tu es ici pour affaires avec Dame Sageleaf ? »
+118	« Alors tu devrais aller la voir tout de suite. Avant de finir en pâtée à mimique. »
+119	Les mimiques. Horribles créatures. Elles pourraient être partout - n'importe <i>quoi</i>.
+120	« <i>Meek pas horrible</i> », chuchote ta cape mouvante à ton oreille. « <i>Meek est... utile-serviable. Promis.</i> »
+121	« Trouve-toi du renfort. Juste un conseil amical. »
+122	« J'ai pas besoin de renfort. Je suis vraiment, vraiment puissant. »
+123	« C'est probablement une bonne idée. Merci. »
+124	« Mais tu es ici en bas tout seul ? »
+125	Il te montre ses paumes. « Bon. Bonne chance, alors. »
+126	Il ne te croit pas.
+127	Il te fait un pouce en l'air.
+128	Symbole universel d'approbation. Qui n'aime pas un bon pouce en l'air ?
+129	« Non, c'est faux. »
+130	« J'ai Romulus ! »
+131	Le monstre pousse un cri strident.
+132	Adorable. D'une façon horrifiante.
+133	« Mais qu'est-ce que vous faites ici ? » (Regarder son étrange installation.)
+134	« Oh ! Et tu as un gobelin avec toi ! »
+135	« Tu es de la HWBT, l'ami ? »
+136	« Ouais. Tu es cet explorateur de donjon qui cherche des chats, non ? »
+137	Des chats ?
+138	« Plus ou moins ! J'espère que ta dame n'était pas trop fâchée de ma demande ! »
+139	« Je dirais qu'"agacée" est une meilleure description. Mais c'est bon. Ne viole plus les propriétés, c'est tout. »
+140	« Ce sera fait ! Ou... je ne le ferai pas, je veux dire. Mais je dois te corriger. Je ne suis pas un explorateur de donjon. »
+141	« Je suis plutôt un... euh... »
+142	Avec un sourire éclatant, il rajuste le col de son uniforme.
+143	« Enfin, je... je suis ce qu'on appellerait un <b>historien avec de l'ambition</b> ! »
+144	Alors qu'il le dit, la bête orange envoie un sifflement retentissant dans la chambre.
+145	« Exactement, Romulus ! »
+146	« Nous sommes ici pour une expédition de grande envergure. »
+147	« Pour trouver la légendaire <b>Mine Perdue de Toul'Amon</b> ! De <i>Toulin'catl</i> ! »
+148	Le peuple-escargot. Anciens bâtisseurs de la Cité d'En Bas.
+149	« Toul-un Bétail ? »
+150	« Le peuple-escargot. Je vois. »
+151	« Ça sonne comme une <b>quête</b>. »
+152	« Bonne chance avec ça. J'ai en fait quelques questions... »
+153	« Oui, Toul'Amon, de <b>Toulin'catl</b> ! »
+154	Un ancien peuple d'une grande puissance ésotérique.
+155	Rien comparé aux Arcanistes, bien sûr. Mais impressionnant tout de même, pour des Bêtes de Jor.
+156	Ces bizarres peuple-escargot.
+157	« Je me doutais que tu les connaîtrais ! »
+158	Ces bizarres, bizarres peuple-escargot.
+159	« Oh, oui en effet ! »
+160	UNE QUÊTE. Tes oreilles se dressent.
+161	« Mais juste pour être clair, je ne partage pas le butin comme ça. »
+162	Soit. Le trésor se mérite.
+163	« Bien sûr ! Je suis un peu un expert du sujet, vois-tu... »
+164	« Non. Pas à propos de cette mine perdue. J'ai quelques autres questions. »
+165	« ...D'accord. Parle-moi davantage de cette mine perdue. »
+166	« ...Mm. D'accord, alors. »
+167	« Parfait ! »
+168	Il s'essuie le front et te crie d'en haut.
+169	« Ohé ! »
+170	« Que sais-tu du salon de thé ? »
+171	« J'ai un tas de questions personnelles pour toi. »
+172	« Pourquoi tes yeux luisent-ils ? »
+173	« Bonne chance ici en bas. »
+174	« Ah bon ? »
+175	« Euh... peut-être plus tard. J'ai un tas de travail à finir ici. »
+176	« Mais je serai au Sphinx Ivre une fois terminé ! Demande-moi là-bas, et je me ferai un plaisir de te satisfaire ! »
+177	Une taverne. Bon endroit pour extraire de l'information.
+178	« Tu n'as pas rencontré beaucoup de sous-nains, hein ? »
+179	« Écoute, je n'ai pas trop de temps, mais vraiment, une fois que j'en ai fini ici, on peut parler autant que tu veux. »
+180	« Mm. »
+181	Il croise les bras et te fait un long hochement de tête.
+182	« C'est un genre de café. Tu sais, ils servent du thé et d'autres boissons. »
+183	« Parfois ils ont même des pâtisseries. J'adore les Délices Kardemum. »
+184	« Moi aussi j'adore les Délices Kardemum ! »
+185	« Non, non. <i>Le</i> salon de thé. »
+186	« Depuis combien de temps es-tu ici en bas ? »
+187	« Ô ! Mon ami, tu es vraiment de <i>bon goût</i>. »
+188	Un homme de CULTURE, ce nain.
+189	Il claque la langue.
+190	« Y a-t-il... y a-t-il un salon de thé spécial dont je devrais avoir connaissance ? »
+191	« Une semaine environ, maintenant. »
+192	« Ça prend du temps de mettre en place un périmètre sécurisé. »
+193	Une semaine seul dans la Cité d'En Bas ? Il est vraiment un expert en la matière.
+194	« Alors tu n'es pas au courant du salon de thé qui a explosé ? »
+195	« Explosé ?! »
+196	« Je croyais que l'élection était déjà bien assez terrible. Maintenant ils ont des salons de thé qui explosent ?! »
+197	« Norvik est dans le pétrin, en effet ! »
+198	« Tant pis », marmonne-t-il avec un haussement d'épaules. « Je peux pas t'aider là-dessus, l'ami. »
+199	« Alors voilà le topo. J'ai des ennuis. »
+200	Son « animal » émet un fort rot.
+201	« N'est-ce pas ? » marmonne-t-il, et il tapote le dos du monstre.
+202	« Tu veux aider, l'ami ? »
+203	Aider un inconnu ? C'est comme ça qu'on forge les héros.
+204	Aider un inconnu ? C'est comme ça qu'on détrousse les sots.
+205	« Je t'aiderai si je le peux. »
+206	« J'aiderai si je suis payé. »
+207	« J'aiderai peut-être, si j'ai le temps. »
+208	« Je n'aiderai pas, à moins que ce soit par accident. »
+209	« Bien sûr, j'ai du butin à partager si c'est le cas. »
+210	Malin. Toujours négocier d'avance.
+211	« Juste ! »
+212	« Bien sûr, je prends un possible accident. »
+213	Les accidents arrivent. Surtout autour de toi.
+214	« Vois-tu, il y a deux ruines étranges dans cette section de la Cité Sous la Cité. »
+215	Il pointe la statue. « Des ruines <i>Whitemane</i>. Avant les nains et les humains, et même les trolls, ce lieu était gouverné par des chats. »
+216	Des chats - gouvernant un empire ?
+217	« La théorie veut que les escargots de Toulin aient eu une mine ésotérique non loin du Pilier de Jor. »
+218	« Les Mines de Toul'Amon ! Un lieu aux épaisses veines d'ambre et de platine croissant sans fin...! »
+219	Un trésor sans fin...!
+220	« Mais le dieu marcheur des Whitemane, pour une raison ou une autre, l'a scellée à un moment. D'après les légendes. »
+221	« Scellée <i>ésotériquement</i>, probablement, puisqu'on n'arrive pas à la localiser. »
+222	Les sceaux ésotériques peuvent être brisés. Avec le bon savoir.
+223	« Alors tu la cherches. »
+224	« Comment peut-on cacher une mine entière ? »
+225	« Alors il y a un ancien peuple-escargot, puis un peuple-chat légèrement moins ancien qui a bâti des trucs-de-chat par-dessus les trucs-d'escargot ? »
+226	« Alors quel est le problème ? »
+227	« Oh oui ! Je ne suis pas seul là-dedans, bien sûr. »
+228	« Mais mes recherches m'ont montré des indications claires que ces deux ruines sous Tolstad sont plus ou moins inexplorées. Du moins par des mains expertes ! »
+229	Tes mains sont expertes. Très expertes.
+230	« Tu serais surpris ! La Cité Sous la Cité est... »
+231	« Qu'est-ce que c'est... quatre ou cinq niveaux de tunnels et cavernes tentaculaires. Ici sous Tolstad, il n'y a que ce niveau supérieur ici présent qui soit un tant soit peu accessible. »
+232	« Il pourrait aisément y avoir quelque crevasse loin en bas dont personne, pas même les plus grands paladins de la cité, ne s'est approché de la découverte. »
+233	Les lieux profonds du monde recèlent bien des secrets.
+234	« <b>Exactement</b> ! »
+235	Des couches sur des couches. Comme un gâteau de cadavres.
+236	« Il n'y a pas de problème avec <i>ce</i> site. »
+237	« Mais j'en ai presque fini ici. Et je ne parviens pas à accéder aux secondes ruines Whitemane. »
+238	« Parce que c'est en territoire HWBT ! Et ils sont très peu disposés à laisser passer un nain comme moi. »
+239	« Ces gobelins ont engagé un brutal <b>gobelours</b> comme garde. »
+240	Il frissonne. « Horrible créature. »
+241	« Tes charmants amis gobelins ont engagé un brutal <b>gobelours</b> comme garde. »
+242	« Mais tu es un clerc ! Si tu peux accéder à leur territoire, alors s'il te plaît, va vers le sud ! »
+243	« À travers les hautes-cavernes humides. Il devrait y avoir une ruine Whitemane au bout. Un sanctuaire. Probablement marqué par un tas de symboles félins. »
+244	Il désigne la statue géante. « Cherche juste de gros chats, en gros. »
+245	« Tu ne peux pas y accéder toi-même ? »
+246	« Qu'est-ce que tu veux que je fasse là-bas ? »
+247	« Tu es un sacré petit spéléologue. C'est bien. » Il hoche la tête.
+248	« Tu as vu quelque chose ? »
+249	« Juste de la poussière. Et des gravats. »
+250	« Rien de trop intéressant. »
+251	« Ça dépend. Qu'est-ce que tu cherches ? »
+252	Il rit, bruyamment. « Pas question, <i>hombre</i> ! »
+253	« Dame Sageleaf a fait très, très clairement comprendre qu'il ne doit y avoir aucune exploration de donjon dans ses tunnels humides. »
+254	Sans commentaire.
+255	« Surtout par des étrangers. Alors non, ça n'arrivera pas. Pas tant qu'elle est la cheffe de la HWBT. »
+256	Il se penche par-dessus le rebord. « Tout ce que je te demande, c'est de me dire si tu trouves un symbole de soleil, ou de deux lames. »
+257	« L'un ou l'autre. Puis reviens me faire ton rapport ! »
+258	« Si tu le peux. Et si tu as le temps. »
+259	Il soupire. Un profond soupir frustré. « J'aimerais pouvoir le faire moi-même. Maudits soient ces gobelins. »
+260	« Sans vouloir t'offenser », ajoute-t-il, en faisant un signe de tête à ton compagnon.
+261	« Aucune offense. Je m'en fiche vraiment, vraiment. »
+262	« Je verrai ce que je peux faire. »
+263	« Ne t'attends à rien. »
+264	« Parfait ! Puisque tu t'es déjà rendu là-bas, ça ne devrait pas être trop compliqué, j'espère. »
+265	« Parfait ! Et bonne chance. »
+266	« Merci, l'ami. »
+267	« Je ne m'attends jamais à rien. »
+268	Rien ne viendra. Rien...
+269	« Oui ? »
+270	« Et j'ai trouvé le symbole. Sur les ruines. »
+271	« Le symbole d'un soleil ? »
+272	« Oui. »
+273	Il baisse la tête, la laissant pendre un moment.
+274	Puis il lâche un rugissement !
+275	« <shake>For helvede</shake> ! »
+276	Son petit copain s'y joint et pousse un cri perçant.
+277	Ce n'est pas bon signe.
+278	Le nain prend une profonde inspiration.
+279	« Un soleil signifie que ces ruines sont exactement les mêmes que celles-ci », dit-il en tapotant la pierre à côté de lui.
+280	« Elles sont consacrées ! Les Whitemane ne consacreraient jamais une porte secrète. »
+281	« Bon sang ! »
+282	« Enfin. Désolé. »
+283	« Dommage ! »
+284	« En es-tu certain ? »
+285	« Bah ! Ne le sois pas ! »
+286	« D'accord ! »
+287	« Oh, absolument. J'ai passé des années à faire des recherches sur ces salauds de chats. »
+288	« J'ai même appris un peu de langue-chat ! »
+289	« <i>Me llamo <b>Akzel</b>! Es un caballo blanco!</i> »
+290	Il grogne.
+291	Toi aussi.
+292	Ce n'est pas de la langue-chat. Ce n'est même pas proche.
+293	« Le type n'est pas entièrement à côté de la plaque », te chuchote Snell.
+294	« Je sais de quoi je parle, d'accord ? »
+295	« Ça ne signifie qu'une seule chose. »
+296	« Cette piste était fausse. » Il ricane.
+297	« Tant pis. Il est temps de se regrouper et de repenser. Après l'élection, s'entend. »
+298	« Tiens. »
+299	Il te lance sa pioche.
+300	« C'est un petit truc qu'on a dans le métier de l'incursion. Une pioche sur mesure imprégnée de Détection du Secret. »
+301	Un objet magique. En guise de paiement. Pas mal.
+302	« Détection du Secret ?! C'est très utile. »
+303	« Tu me donnes ça ? »
+304	« C'est une belle récompense. Merci. »
+305	« Oh que oui, <i>bror</i> ! »
+306	« Bien sûr ! »
+307	« Tu l'as méritée, Clerc de Norvik ! »
+308	« Bien sûr, la pioche est un peu <i>capricieuse</i>. Le mot-clé est censé être "secret" - c'est-à-dire, tu dis le mot "secret" et la pioche lance le sort. Mais ça ne marche pas tout à fait, alors... fais-en ce que bon te semble ! »
+309	Les objets magiques capricieux peuvent être dangereux. Ou hilarants.
+310	« Bref, je vais bientôt remballer. J'en ai fini ici. »
+311	« Merci encore. Ça m'a épargné un tas de temps et d'efforts ! »
+312	« Peut-être que dans quelques mois tu te joindras à moi pour une vraie expédition ? Ça pourrait être fun ! »
+313	Une vraie quête-expédition. Dans les profondeurs...!
+314	Ça ressemble à un désir de mort.
+315	« J'y réfléchirai. »
+316	« J'adorerais faire une incursion avec toi, Akzel ! »
+317	« Je ne crois pas. »
+318	« Réfléchis-y bien et longuement ! Tu as le temps ! »
+319	« Ne dis jamais non ! Dis juste peut-être ! Réfléchis-y ! »
+320	« Et s'il y a quoi que ce soit d'autre, fais-le-moi savoir ! »
