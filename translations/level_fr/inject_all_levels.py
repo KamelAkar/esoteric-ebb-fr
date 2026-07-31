@@ -81,12 +81,22 @@ for idx in targets:
         if changed[0]:
             obj.save_typetree(nt)
             total += changed[0]
+    if total == 0:
+        print(f"level{idx}: déjà à jour (0 changement), ignoré", flush=True)
+        del env
+        import gc; gc.collect()
+        continue
     save_dir = os.path.join(ctx, f"_save_{idx}")
     if os.path.exists(save_dir):
         shutil.rmtree(save_dir)
     os.makedirs(save_dir)
     env.save(out_path=save_dir)
     out = os.path.join(save_dir, f"level{idx}")
+    if not os.path.exists(out):
+        print(f"level{idx}: ATTENTION env.save n'a rien écrit malgré {total} changements", flush=True)
+        del env
+        import gc; gc.collect()
+        continue
     shutil.copy(out, live)
     shutil.copy(out, os.path.join(DIST, f"level{idx}"))
     print(f"level{idx}: {total} champs remplacés -> déployé live+dist", flush=True)
