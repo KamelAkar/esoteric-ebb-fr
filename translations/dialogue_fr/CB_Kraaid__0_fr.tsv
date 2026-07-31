@@ -1,0 +1,501 @@
+idx	french
+0	Au bout du chemin d'égout, tu tombes sur un poêle.
+1	Autour, quelques caisses, et ce qui ressemble à un couchage en lambeaux.
+2	C'est un campement.
+3	Qui campe dans les égouts ?
+4	On a affaire à un gros rat d'égout ici.
+5	Assez gros pour camper et cuisiner.
+6	Le gobelin regarde autour du tunnel sombre et humide.
+7	« Je n'aime pas ça du tout. »
+8	(Tâter le poêle.)
+9	(Regarder autour.)
+10	C'est quoi, ces caisses ?
+11	Il n'est pas entièrement froid.
+12	« Récent, hein ? »
+13	« Non, Clerc. »
+14	« Les égouts de Norvik sont notoirement dangereux. »
+15	« Aucune personne saine d'esprit ne se reposerait ici. Ni ne survivrait. »
+16	Quelques rats détalant dans les coins. Rien d'autre.
+17	Quelques rats détalant- et un mouvement dans l'eau.
+18	Reste sur tes gardes.
+19	En te penchant, tu vois des symboles hachurés dans les coins du bois.
+20	<i>HWBT</i>.
+21	« Hein. »
+22	Le gobelin les inspecte aussi.
+23	« On a eu des cargaisons qui disparaissaient sur Waterlane, par périodes. »
+24	« Maintenant je sais où elles finissent. » Il tapote la caisse. « Des épices. »
+25	Il en tapote une autre. « Des pommes de terre. »
+26	Oui. Ce sont des caisses de nourriture.
+27	« Juste de la nourriture. Avec le temps, ça a fait beaucoup. »
+28	Oui. Ces caisses contiennent de la nourriture.
+29	Un coup d'œil révèle que la plupart sont vides. Celui qui est ici en bas siphonne clairement les ressources de la Tribu du Pont Halfway.
+30	Où trouveraient-ils ces caisses ?
+31	Une question stupide.
+32	Manifestement, ce sont les rats qui mangent ça.
+33	De par la nature ésotérique de la Cité d'En Bas, cette voie d'égout a dû les transformer en criminels impitoyablement intelligents.
+34	Des criminels déterminés à s'emparer de cette cité qui s'effondre et qui est la tienne.
+35	Manifestement, c'est une sorte de repaire.
+36	Ces pauvres gens. Ils doivent mourir de faim pour avoir besoin d'autant de subsistance.
+37	Ton cou picote.
+38	Ce doit être à cause de ta faim profonde et sans fin.
+39	Plusieurs des caisses sont marquées « HWBT ».
+40	Quelqu'un vit dans les égouts ? ...Ici ?
+41	Pourquoi tant de nourriture ?
+42	Voir toute cette nourriture me donne faim.
+43	Hm. Qu'est-ce que je fais de tout ça ?
+44	Clairement.
+45	Ils apprécient probablement la su-clusion.
+46	La su-clusion ?
+47	Oui. C'est quand un homme se cherche seul, plutôt qu'ensemble avec d'autres êtres inférieurs.
+48	Non. C'est- toi- ils-
+49	C'est la <i>ré</i>-clusion.
+50	Non. Tu te trompes.
+51	C'est la <i>su</i>-clusion.
+52	Comme <i>su</i>-cculent. Ou <i>su</i>-ccès.
+53	Tu sais quoi. Bien sûr. Pourquoi pas.
+54	Ils apprécient probablement la réclusion.
+55	Ils doivent nourrir beaucoup de monde.
+56	Ou environ une seule grande créature.
+57	Comme un Loxorii, ou un Minotaure.
+58	Naturellement.
+59	Vu la dernière fois que tu as eu un repas décent, c'était...
+60	Non.
+61	Ça ne se peut pas.
+62	Ça fait si longtemps, hein ?
+63	Oui.
+64	Ça remonte à plus d'une semaine à ce stade.
+65	Oh par les dieux. Il y a si longtemps ?
+66	Étonnamment, tu arrives à te tenir debout. C'est honnêtement impressionnant.
+67	Un exploit démontrant l'esprit indomptable de l'homme.
+68	Tu roules, comme on dit, <i>sur les vapeurs</i>.
+69	Qui sait ? Ce sont les affaires des Halfways.
+70	Tu devrais signaler la perte de ces caisses, à coup sûr.
+71	La HWBT l'apprécierait.
+72	Un <i>chasseur</i>.
+73	<i>Approche en rampant</i>.
+74	<i>JUSTE DERRIÈRE</i>.
+75	<i>TA CHAIR MÊME</i>.
+76	« J'essaie de coincer ce voleur depuis un moment. Je me disais que c'était un truc organisé. »
+77	« Et vu la taille de ce butin... ça doit l'être. »
+78	« Et tu n'as jamais pensé à vérifier les égouts ? »
+79	« Pourquoi de la nourriture ? »
+80	« Ça me donne faim. »
+81	« Alors que proposes-tu ? On monte la garde et on voit s'ils reviennent ? »
+82	« Honnêtement ? Tout ça me file juste la chair de poule. »
+83	« Bien sûr que non ! »
+84	« Ce n'est même pas relié à Waterlane. Sauf pour l'écoulement d'eau, et ça- »
+85	Il s'arrête et plisse les yeux vers l'eau.
+86	« Ces <i>enfoirés</i>. »
+87	« Tu vois ce qu'ils font ? »
+88	« J'ai le sentiment que tu vas me le dire. »
+89	« Aucune idée. »
+90	(Le fixer, bouche bée.)
+91	« Ils balancent des caisses dans le courant d'eau ! Puis les récupèrent ici en bas. »
+92	« Probablement avec un filet ou un truc. »
+93	Le gobelin jette un regard autour du tunnel.
+94	« Diabolique. Je serais impressionné si ce n'était pas mon boulot de suivre cette merde. »
+95	« Tu sais, je me suis posé cette question précise. »
+96	« Et je n'ai jamais vraiment réussi à piger. Mais regarde... »
+97	Le gobelin pousse le couvercle mal fixé d'une caisse, révélant un intérieur vide.
+98	« Hm. Il y a peut-être une colonie de gens-d'égout qui mange ces trucs. »
+99	« Oh par les dieux. Ils ont un <i>méga</i>-monstre ici en bas ! »
+100	« Ils pourraient l'expédier ailleurs ? »
+101	« Ça fait beaucoup de calories. »
+102	« On a perdu peut-être une ou deux de ces caisses, une fois tous les deux mois. »
+103	« Pas assez pour une douzaine de personnes. Mais une poignée ? Bien sûr. »
+104	« C'est soit ça, soit- »
+105	« Attends, un <i>méga</i>-monstre ? »
+106	« C'est une classification officielle ? »
+107	« Ça l'est maintenant. »
+108	« Non. »
+109	« Je crois pas que tu aies cette autorité. »
+110	Bien sûr que si.
+111	« Bien sûr que si. Je suis <b>Le Clerc</b>. »
+112	« Tu me perces à jour. »
+113	« C'est ça. »
+114	Il s'en fiche désormais.
+115	« On dirait pas. »
+116	« Quoi qu'ils fassent, c'est mangé ici. »
+117	Le gobelin frissonne.
+118	De tête, tu calcules que trois hommes humains adultes pourraient vivre de cette quantité sans problème.
+119	Ou... une très grande créature. Comme un Loxorii, ou un Minotaure.
+120	« Vraiment ? »
+121	« Toi ? »
+122	Est-ce bizarre de manger de la nourriture ?
+123	Il questionne ton besoin de calories ? Qu'est-ce qui se passe ?
+124	Il te traite de maigrichon et de faible. Ou un truc du genre.
+125	« Pourquoi tu fais le surpris ? Je suis un humain qui mange de la nourriture. C'est normal. »
+126	« Oui ? »
+127	« Euh... »
+128	« Je suis normal, Snell. » (Avoir l'air normal.)
+129	Tu ne l'es pas.
+130	« Non, c'est juste... »
+131	« Je ne t'ai vu manger que des pommes. Je crois. »
+132	« Je crois que j'ai aussi mangé des champignons sur les murs. »
+133	« Les pommes, c'est de la nourriture. »
+134	« C'est ça. Pas beau à voir. »
+135	« J'en suis conscient. »
+136	« C'est ça. Depuis les ordures. »
+137	« Non... c'était pas des ordures. »
+138	Il claque la langue.
+139	« Adjacent aux ordures. »
+140	« Adjacent aux ordures, c'est encore des ordures. »
+141	Je te l'avais dit.
+142	« Mais écoute, j'ai juste supposé que tu n'étais pas du genre à avoir faim. »
+143	« Bien sûr que si. Je suis normal. »
+144	« J'imagine que je ne suis pas exactement un <i>gourmet</i>. »
+145	« Non, tu as raison. La bouffe, c'est pas mon style. »
+146	« Ouaip. Totalement normal. »
+147	« Le plus normal. »
+148	« Le top des normaux. »
+149	« Ça explique tout. Un peu. »
+150	« Mm. Je m'en doutais. »
+151	« Possiblement. On pourrait aussi aller chercher du renfort. »
+152	« Je sais qu'on est sur la "mission salon de thé", mais- »
+153	« <i>La quête</i>. »
+154	(Le laisser continuer.)
+155	« Quoi ? »
+156	« La <i>Quête</i> du Salon de Thé. »
+157	« ...C'est ça. Bref. »
+158	« C'est un truc plutôt important pour les Halfways. Dame Sageleaf sera contente de voir cette épine enfin retirée. »
+159	« On devrait aller chercher du renfort. »
+160	« On n'a pas le temps pour ça, Snell. »
+161	« Ouais. Probablement pour le mieux. »
+162	« J'ai comme le sentiment que ce qui mange tout ça ne sera pas très content qu'on trouve la "planque". »
+163	« Qu'est-ce que tu veux dire ? »
+164	« Tu fais des trucs au hasard tout le temps ! »
+165	« Non, c'est faux. »
+166	« Ce n'est pas au hasard. Ça s'appelle "faire des quêtes". »
+167	« Oh ouais. C'est vrai, hein ? »
+168	« Nan-nan. »
+169	Il vient de te faire un <b>nan-nan</b> ?
+170	Ce putain de gobelin...
+171	Oh que oui. Quelle manœuvre de force.
+172	« Mais... »
+173	Il t'adresse un regard frustré.
+174	« Pourquoi on n'appellerait pas ça une quête aussi, hein ? »
+175	« Oh. C'est quoi le nom de la quête ? »
+176	« C'est un nom affreux pour une quête. »
+177	« <b>J'adore</b>. »
+178	« On peut l'appeler <i>La Quête de la Nourriture</i>. »
+179	« Ah ouais ? Tu l'appellerais comment, alors, monsieur je-sais-tout ? »
+180	« <i>Une Quête pour les Patates Disparues.</i> »
+181	« <i>Affamé dans les Égouts : la Quête.</i> »
+182	« Juste, <i>Caisses & Denrées.</i> »
+183	« <i>La Quête de la Cargaison Gobeline Perdue.</i> »
+184	« Bon. La tienne est meilleure. »
+185	« Je crois pas que les patates aient besoin d'un tel rôle central, en vrai. »
+186	« Mais tu sais quoi ? Va pour ça. »
+187	« Bah. Enfin, bien sûr. Pourquoi pas ? »
+188	« Accrocheur. J'aime bien. »
+189	« Un peu générique, mais ouais, bien sûr. Partons là-dessus. »
+190	« Merci. »
+191	« Parfait. »
+192	« Oui. C'est vrai. »
+193	« Alors on peut peut-être prendre un peu de temps pour gérer ça. »
+194	« Ouais. Peut-être. »
+195	« Bien. »
+196	« À qui le dis-tu. »
+197	Tu le dis. Objectivement.
+198	Tu as déjà entendu cette expression. Ne la commente pas.
+199	« C'est le cas, Snell. Je... je viens de le dire. »
+200	« On devrait peut-être juste... partir. »
+201	(Regarder le gobelin comme un oisillon nouveau-né dans le nid regarde sa maman.)
+202	« Non, c'est une- c'est une <i>expression</i>. »
+203	« Expression ou déclaration - tu ne fais que narrer. C'est plutôt étrange. »
+204	« Je ne te comprends pas, toi et tes façons étranges, Snell. Je dois simplement être bien trop humain. »
+205	« Oh. Je comprends. » (Ne pas comprendre.)
+206	« Non, c'est <i>une</i> expression. »
+207	« Je ne vais pas t'arrêter. Qui aime être dans les égouts ? »
+208	« Pas moi. »
+209	« Moi. »
+210	« Moi non plus. »
+211	« Vraiment ? »
+212	« Non. Je fais juste le contrariant. »
+213	« C'est douillet. »
+214	« Ouais. Plein de potentiel pour l'exploration de donjon. »
+215	« Je vois ça. »
+216	« Être d'accord d'être d'accord- pas d'accord. Être d'accord de ne pas être d'accord. »
+217	« Désolé. Les vapeurs d'égout doivent me monter à la tête. »
+218	« Le pire genre d'exploration de donjon, peut-être. Le genre visqueux. »
+219	Le gobelin ne le voit pas. À cause du truc sur ta tête.
+220	« Bref. Euh... »
+221	<shake>DERRIÈRE TOI</shake>.
+222	Ton compagnon cherche son souffle, en jetant un regard en arrière.
+223	Tu regardes tout son être quitter soudain son corps corporel.
+224	Un instant, ce n'est pas un gobelin. C'est un fantôme.
+225	« <b><wiggle>Kraaid</wiggle> a faim</b>. »
+226	RETOURNE-TOI.
+227	Hm ?
+228	(Se retourner.)
+229	Hm ? C'est quoi, ça ?
+230	« Qu'est-ce qui ne va pas, Snell ? Tu as l'air pâle. »
+231	Le gobelin est déjà en mouvement. Sa fronde - chargée - tournoyant - visant.
+232	« <b>Voir la chasse venir à <wiggle>Kraaid</wiggle> ? Comme c'est bon</b>... »
+233	Attends... il y a quelqu'un ici ?
+234	« Il y a quelqu'un ? » (Regarder autour.)
+235	« <shake>C'EST QUOI, ÇA ?!</shake> »
+236	(Se démener pour se préparer.)
+237	Tu regardes la masse colossale de chair et d'écailles humides s'élever des ombres de l'égout.
+238	Un Crocodilus.
+239	Il te domine de toute sa hauteur. Sa gueule béante élargie en ce qu'on pourrait interpréter comme un rictus moqueur.
+240	Jet d'initiative.
+241	<i>Qu'Urth bénisse ton âme</i>.
+242	Quo- quo...
+243	Incline-toi. Avant qu'il ne soit trop tard.
+244	Voilà ton dragon.
+245	Tu dois te tenir droit tandis qu'il te dévore.
+246	Toi.
+247	Tu es de la nourriture.
+248	Il n'y a pas beaucoup de temps.
+249	Mais s'il y a la moindre chance de désamorcer - fais-le MAINTENANT !
+250	(Incliner la tête.) « Ma vie est vôtre, Bête. »
+251	Lever tes poings, et balancer un coup.
+252	« Non- non ! »
+253	« Oh BIEN SÛR, je m'y mets TOUT DE SUITE ! »
+254	Le gobelin est en colère parce que vous êtes tous deux sur le point de mourir.
+255	Pourquoi gobelin en colère ? C'est triste.
+256	Avec détermination et résolution, tu fais un pas décisif en avant.
+257	Et tu balances un coup de poing à la bête.
+258	Tu le frappes sur le museau.
+259	« Ugh... »
+260	Prends ça, sale plat du bide !
+261	Pourtant tout ce que ça semble faire, c'est élargir le rictus sur sa gueule.
+262	Cependant, tu ne parviens qu'à frapper le cuir épais. Il absorbe le coup comme rien d'autre.
+263	Le rictus sur sa gueule s'élargit encore davantage.
+264	Tu prononces les mots et rassembles une force nécrotique dans ta paume.
+265	Une tension se met sur tes muscles.
+266	La puissance déferle.
+267	(Frapper le monstre.)
+268	Frappant de toutes tes forces.
+269	La décharge initiale entre en contact, projetant des veines noires à travers la bête.
+270	Elle lâche un grognement horrible et est repoussée.
+271	Pourtant le reste de l'énergie sombre s'estompe simplement sur le cuir épais du crocodile.
+272	Quoi ? Comment ?!
+273	Non. Cette bête...
+274	Elle déferle de puissance nécrotique.
+275	Un crocodile <i>MORT-VIVANT</i> ?
+276	Elle est bénie par les ténèbres.
+277	Tu prononces les mots et rassembles la force nécrotique.
+278	Pourtant quand ton poing s'avance, et que tu entres en contact...
+279	L'énergie sombre s'estompe simplement sur le cuir épais du crocodile.
+280	Tandis que tu chuchotes les mots et claques des doigts devant la bête, tu vois l'effet scintillant du charme prendre...
+281	Et s'estomper.
+282	Merde.
+283	« Ah... l'<i>ésotérique</i>. »
+284	La fronde de Snell crée un son incroyable, résonnant dans le tunnel. Il laisse sa pierre voler en une décharge puissante.
+285	Le projectile frappe le monstre en plein cou, le faisant lâcher un grognement furieux.
+286	Comme si tout le badinage joueur avec sa nourriture était soudain terminé...
+287	La créature crocodilienne bondit en avant.
+288	Silencieuse et concentrée, elle atteint ton visage, et ton corps entier, t'enveloppant de sa gueule.
+289	Puis elle mord.
+290	Tu parviens à te tortiller hors de sa prise avant qu'elle ne déchiquette ton être en lambeaux.
+291	Du sang est... perdu.
+292	Tu ne peux pas laisser ça se reproduire. Merde, merde, merde !
+293	« <b>Oui...</b> »
+294	Le croco sort un couperet à viande ébréché.
+295	Une arme horrible à contempler, si maniée par un homme.
+296	Tenue par cette bête, c'est le FUNESTE DESTIN.
+297	« <b>La chasse est lancée...</b> »
+298	Ce monstre psychopathe adore le frisson de la chasse par-dessus tout.
+299	Enlève-lui ça, et tu enlèves le plaisir.
+300	Il balance la hachette, manquant ton <b>estomac</b> d'un pouce.
+301	Presque... répandu...
+302	« Chasser ? Non, ARRÊTE ! JE CÈDE ! » (Incliner la tête.)
+303	Continuer d'essayer d'esquiver.
+304	Le deuxième coup passe aussi juste à côté de ta chair.
+305	Le deuxième coup, cependant, va juste là où la bête le veut.
+306	Dans le haut de ta cuisse.
+307	Un cri strident frustré ? Non. Un de plaisir.
+308	« Tu es lapin, échappant à l'abattoir... »
+309	« <b><wiggle>Kraaid</wiggle> apprécie</b>. »
+310	Puis il te plisse les yeux.
+311	Lâche un grognement.
+312	Et baisse l'arme.
+313	« Hein...? »
+314	Ton compagnon recule d'un pas, tout en gardant un œil méfiant sur la bête.
+315	Il ne sait pas s'il doit frapper à nouveau, ou voir si une étrange paix peut se trouver ici.
+316	Elle te fixe de ses yeux froids et vides.
+317	Pourtant elle ne frappe pas.
+318	Sans âme. Prédatrice.
+319	Une bête qui a développé une conscience, mais vit sans souci d'autrui.
+320	Fascinant.
+321	Le gobelin hésite.
+322	À quelques centimètres, la créature-croco émet un profond grognement.
+323	Il sonne... agacé.
+324	« Pas de chasse ? Pas de lutte ? »
+325	« <shake>Graaaah...!</shake> »
+326	Un cri strident frustré.
+327	« Bats-toi ! Lutte, comme lapin ! »
+328	Il te pousse d'un coup de ses griffes.
+329	Le gobelin jette un rapide regard entre vous deux.
+330	« Non ! J'en ai pas envie ! »
+331	« Arrête de m'attaquer, citoyen ! »
+332	« <wiggle>Kraaid</wiggle> pas citoyen. <wiggle>Kraaid</wiggle> chasse. »
+333	« Je crois pas que ces deux-là s'excluent. »
+334	« Enfin, je veux pas être chassé, alors... arrête. »
+335	Tu chuchotes les mots d'un ton précipité, et claques des doigts.
+336	Aussitôt tu vois, dans les yeux de la bête au rictus- cette étincelle.
+337	Le charme a pris à la perfection.
+338	« Euh... arrête ça ! »
+339	« Hé, l'ami ! »
+340	Elle s'arrête.
+341	Un coassement glauque sort de sa gueule.
+342	« Qu'est-ce que tu... »
+343	« <wiggle>Kraaid</wiggle> salue ami. »
+344	(Prendre une profonde inspiration.)
+345	« Et le petit en-cas de l'ami. »
+346	Le gobelin prend une profonde inspiration, s'appuyant sur ses genoux.
+347	« Je suis un petit en-cas, en effet... »
+348	Qu'est-ce qu'il veut dire par là ?
+349	Ça ne veut rien dire. Le gobelin délire à cause de l'adrénaline.
+350	Tu supposes qu'il veut dire qu'il est « à bout d'en-cas ».
+351	Ce qui signifie quelque chose comme « je suis fatigué ».
+352	Non. Ça n'existe pas.
+353	« <wiggle>Kraaid</wiggle> offre conseil à ami. Comment va la chasse ? »
+354	La bête a un ton différent avec toi maintenant.
+355	Comme si sa soif de sang avait été instantanément assouvie.
+356	« Qui sers-tu ? »
+357	« Pourquoi es-tu ici en bas ? »
+358	« As-tu volé la Tribu du Pont Halfway ? »
+359	« Parle-moi de toi. »
+360	« Tu peux promettre de ne pas nous tuer ? »
+361	« Bon, alors. » (Rompre le sort.)
+362	« <wiggle>Kraaid</wiggle> chasse, pour Boulba'slop. »
+363	« C'est pas ce que j'ai demandé. Qui sers-tu ici en bas ? »
+364	« C'est ça. Ton dieu ? »
+365	« <wiggle>Kraaid</wiggle> ne le fait pas. »
+366	« <wiggle>Kraaid</wiggle> suit la chasse. »
+367	« Un dieu ? »
+368	Le crocodile s'arrête et réfléchit un moment.
+369	Puis il dit : « Un Maître. »
+370	« C'est genre un de ces titans de conte de fées, je crois. Glauque. »
+371	« <wiggle>Kraaid</wiggle> se tapit. Jusqu'à la prochaine chasse. »
+372	« C'est ça. C'est quand ? »
+373	« <b>Bientôt</b>. »
+374	« Sympa. Horrifiant et vague. »
+375	« Voler ? »
+376	« <wiggle>Kraaid</wiggle> prend ce dont <wiggle>Kraaid</wiggle> a besoin. »
+377	« C'est là tout <i>l'intérêt</i> de <wiggle>Kraaid</wiggle>. »
+378	Il te toise de haut en bas. « <wiggle>Kraaid</wiggle> ne tue pas... »
+379	« <wiggle>Kraaid</wiggle> ne peut pas tuer. »
+380	« C'est... c'est bien ! »
+381	« Waouh. Un pacifiste, hein ? »
+382	« Pourquoi j'ai du mal à te croire ? »
+383	« <wiggle>Kraaid</wiggle> s'en fiche. »
+384	« <wiggle>Kraaid</wiggle> ne sait pas ça. »
+385	« <wiggle>Kraaid</wiggle> ne sait point. »
+386	« Que les dieux soient damnés. »
+387	Pourquoi j'ai l'impression que le combat n'est pas encore fini ?
+388	« J'espère que tu sais ce que tu fais, Clerc. »
+389	Tandis que le charme se dissipe des yeux morts de la bête, elle lâche un grondement.
+390	« <shake>Guh...</shake> »
+391	« <wiggle>Kraaid</wiggle> s'ennuie. »
+392	« Tu es Clerc, non ? »
+393	Le gobelin prend une profonde inspiration. Puis il te siffle à voix basse.
+394	« Ne <i>PROVOQUE PAS</i> le sort. »
+395	« O-oui. Tu me connais ? »
+396	« Je suis <b>Le Clerc</b>, oui. Dis-le comme il faut. »
+397	La queue de la créature-croco fouette d'un coup, envoyant de la poussière dans ton visage.
+398	La créature-croco fonce en avant et t'attrape par le cou.
+399	(Peiner à respirer.) « En fait je suis... »
+400	« Non ! C'est moi ! Je suis Clerc ! C'est moi ! »
+401	Il resserre sa prise tandis que tu marmonnes une faible réponse.
+402	« ...un roublard. »
+403	« ...un magicien. »
+404	« ...non, non, d'accord, je suis un clerc. Je suis <b>Le Clerc</b>, même. »
+405	« ...<i>Je suis Agrarien</i>...! Non attends, merde. C'est de la politique. Je veux dire, euh... »
+406	« ...je suis ce que tu veux que je sois. <i>Ne me tue pas, je t'en prie</i>. »
+407	« Ce que <wiggle>Kraaid</wiggle> veut ? »
+408	« Oui...! Je serai même apolitique ! »
+409	« Oui ! Je suis... je suis un lapin ! »
+410	Il te relâche.
+411	« Clerc. Oui, tu es celui-là. »
+412	« Ne cause pas d'ennuis. »
+413	« Et <wiggle>Kraaid</wiggle> ne causera pas d'ennuis. »
+414	La bête se dandine jusqu'au campement. Tu observes, prenant de lourdes inspirations.
+415	Snell s'appuie sur ses genoux. Il semble trembler.
+416	L'adrénaline qui reflue.
+417	Des genoux faibles. Un crâne pris de vertige.
+418	Kraaid s'assoit sur une caisse, devant le petit réchaud.
+419	« Chasse finie pour le jour. Maintenant c'est repos. Et cuisine ! »
+420	Sur quoi diable es-tu tombé ici ?
+421	Tu as une envie de combattre ce truc à mort.
+422	Pourtant tu le sais, tu ne fais pas le poids. Pas maintenant.
+423	(Déglutir et s'approcher de son camp.)
+424	La bête colossale te regarde avec une faim profonde.
+425	Ton biome intestinal frémit.
+426	COURS.
+427	« <wiggle>Kraaid</wiggle> salue humain. »
+428	« Qu'est-ce que tu chasses ici en bas ? »
+429	« Ces rats ont vraiment l'air de t'aimer bien. »
+430	« J'ai capturé tous les rats, Kraaid. » (Les tendre au monstre, un par un.)
+431	« J'ai trouvé ce rat. » (Lui montrer le rat blanc.)
+432	« Alors... tu es un chef cuistot, hein ? »
+433	« C'est bon si je discute avec tes rats ? »
+434	Hocher la tête.
+435	« <wiggle>Kraaid</wiggle> a vu ça, oui. »
+436	« Oh, vraiment ? »
+437	« Oui... »
+438	« <wiggle>Kraaid</wiggle> a vu humain en jaune passer. »
+439	« <wiggle>Kraaid</wiggle> voulait manger cet humain chic. Mais cet humain était rapide... et est devenu invisible avant que <wiggle>Kraaid</wiggle> puisse approcher... »
+440	« <wiggle>Kraaid</wiggle> a bien entendu humain jaune chic se parler à lui-même en passant. Humain a dit : <wiggle>où est ce satané passage secret, déjà</wiggle>. »
+441	« Un passage secret ? Où ? »
+442	« Tu me mens ? »
+443	« Alors il est allé... dans le donjon ? »
+444	« Bon. Merci pour l'info. »
+445	« <wiggle>Kraaid</wiggle> ne sait pas. »
+446	« <wiggle>Kraaid</wiggle> n'a pas besoin de mentir. »
+447	« Humain chic est venu des cavernes du sud - allant dans le donjon. Oui... »
+448	Le monstre sourit en coin. Ou il ne fait aucune expression du tout, parce qu'il sourit toujours en coin.
+449	Le monstre te fixe, tandis que tu tiens le rat blanc d'une prise inconfortable.
+450	« <shake>Kraaid</shake> voit ça. »
+451	« Il y en a cinq. Ils font beaucoup de bruit quand ils rappliquent. »
+452	(Remettre le rat dans ta bourse.) J'imagine que je vais devoir trouver les cinq rats, alors.
+453	C'est une quête.
+454	Qui t'a donné cette quête ?
+455	Je ne suis pas sûr.
+456	Alors tu devrais probablement reconsidérer avant de partir en mission de chasse-aux-rats.
+457	Puisque personne ne t'a promis de paie pour ça.
+458	Alors voilà.
+459	Réfléchis-y.
+460	Kraaid continue de griller.
+461	« <i>Kraaid</i> n'a nul problème avec la fraternisation intra-espèce... »
+462	« Clerc parle si Clerc le souhaite. »
+463	« Parfait. Je vais faire ça. »
+464	« Peut-être plus tard. »
+465	Kraaid ne se concentre ni sur toi, ni sur les rats autour de lui.
+466	Kraaid continue juste de griller. Il ne s'arrête pas.
+467	Tu lances le sort, et soudain les couinements deviennent clairs.
+468	Cinq voix distinctes.
+469	Toutes parlant en même temps.
+470	« ...et si on brise ces chaînes, le paradis des travailleurs sera à PORTÉE DE MAIN ! »
+471	« Espèce d'IDIOT ! Céder à l'<i>idéologie étrangère</i> détruira tout ce qu'on a <i>bâti</i> ! »
+472	« On ne peut pas juste tous être amis ? »
+473	« <i>Amis... quelle naïveté...</i> »
+474	« Si vous laissiez juste le marché décider, on n'aurait besoin de rien de tout ça ! »
+475	Les rats sont... en train de débattre.
+476	Ils imitent. Un jeu de simulacre devenu inanement réel.
+477	Hah !
+478	Passionnément.
+479	Oh non.
+480	(Se racler la gorge.)
+481	Le débat s'arrête.
+482	Cinq petites têtes se braquent vers toi.
+483	« Oh. L'<i>humain</i> », dit platement le RAT ROUGE.
+484	« Bonjour ! » couine joyeusement le RAT BLANC.
+485	« Merveilleux. C'est encore l'heure d'être transporté dans une autre partie du monde ? » marmonne le RAT JAUNE.
+486	« Humain de fer. Sympathisant de l'<i>acier</i> », observe le RAT VERT avec dédain. « Au moins tu nous mets avec un allié. »
+487	« <i>La mort vient nous chercher tous, tôt ou tard...</i> » chuchote le RAT NOIR.
+488	« Qu'est-ce que vous faites tous ici ? »
+489	« Vous... tenez des débats politiques ? »
+490	« Que pensez-vous de Kraaid ? »
+491	« Vous vous... entendez bien ? »
+492	« Je crois pas que vous puissiez voter à l'élection, si ? »
+493	« Vous êtes très engagés politiquement pour... des rats. »
+494	« C'était correct que je vous rassemble tous ? »
+495	« Parfait. Merci pour cet échange éclairant. » (Rompre le sort.)
+496	« On vit ici maintenant ! » dit le RAT BLANC d'un ton radieux.
+497	« Le crocodile est un bon professeur », ajoute le RAT ROUGE.
+498	« Le grand gaillard ne nous mange pas, ce qui est... pragmatique. » Le RAT JAUNE a l'air satisfait.
+499	« Une alliance temporaire de circonstance », renifle le RAT VERT. « <i>Jusqu'à la <shake>révolution</shake></i>. »
