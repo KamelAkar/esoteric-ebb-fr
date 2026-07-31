@@ -1,0 +1,100 @@
+idx	french
+0	Au bout de ce couloir, dans une alcôve comme une autre, tu vois un livre.
+1	Il repose sur un mince rebord. Il n'a rien sur la couverture.
+2	Une illusion. Méfie-toi.
+3	Personne ne laisserait un livre comme ça. Pas sans qu'il soit volé très vite.
+4	C'est vrai. N'importe qui doté d'un demi-cerveau prendrait un vieux livre bizarre comme ça et le vendrait à un collectionneur, si l'occasion se présentait.
+5	(Prendre le livre.)
+6	J'en ai fini ici.
+7	« D'accord. »
+8	« N'y écris pas ton nom ni rien. »
+9	« J'ai entendu parler d'un type qui a trouvé un livre une fois. Là-haut à Muletown. »
+10	« Sur la couverture c'était écrit "Gens Célèbres", et à l'intérieur il n'y avait qu'une liste de... enfin, de gens célèbres. Des figures historiques, ou peu importe. »
+11	« Alors ce type a trouvé ça drôle de gribouiller son propre nom parmi eux. »
+12	« Et <shake>pouf</shake> ! »
+13	« Il s'est transformé en <b>plumes</b> ! Comme une grande collection de plumes d'un noir pur. Elles se sont mises à flotter au loin dans le vent, le long de la rivière. »
+14	« Tout le monde n'a parlé que de ça pendant des semaines. »
+15	« C'est une... histoire au hasard. »
+16	« Tu ne rends pas ça moins flippant, Snell. »
+17	« On dirait qu'il a eu ce qu'il voulait. »
+18	Il te lâche un gloussement. « Désolé, ça m'est juste venu à l'esprit. »
+19	Il te lâche un gloussement. « Je sais. »
+20	Il te lâche un gloussement. « Oh que oui. »
+21	Puis le gobelin fronce les sourcils, levant les yeux vers le plafond.
+22	« J'arrive pas à me souvenir du nom du type, cela dit. »
+23	De mauvais augure.
+24	Une malédiction ésotérique, clairement.
+25	UN HOMME. PERDU DANS L'HISTOIRE.
+26	« Bref. Qu'est-ce que tu faisais ? »
+27	Tu ouvres le tome et t'apprêtes avec ta plume.
+28	Tu l'ouvres sur une page.
+29	N'importe quelle page. Tu en feuillettes plusieurs.
+30	Elles sont toutes vides.
+31	« Tu sais ce que tu fais, Clerc ? »
+32	(Continuer de feuilleter.)
+33	(S'arrêter.)
+34	Tu le fais.
+35	Tu continues de feuilleter. Jusqu'à ce que...
+36	Tu vois du texte sur une page.
+37	Il dit, dans une écriture nette et posée : « Quel TOME désires-tu ? »
+38	« Hein... »
+39	« Ouais, c'est maudit. »
+40	Clairement, c'est ésotérique.
+41	Tu sors une plume.
+42	Tu te souviens d'un certain nombre de tomes anciens, de livres, de lettres et de diverses œuvres littéraires que tu pourrais demander.
+43	Tu t'efforces de te rappeler les noms des divers livres, lettres et œuvres littéraires que tu as vus au fil de ton « éducation ».
+44	(Essayer d'écrire « Chants Norvikiens, du Patriarche Pilli ».)
+45	(Ne pas le faire.)
+46	Le livre te fixe. Autant qu'un livre le peut.
+47	Tes lettres s'effacent aussitôt de la page.
+48	Mais c'est remplacé par un autre message, qui semble se former à partir de la même encre que tu as utilisée pour écrire.
+49	« Le Patriarche Pilli ? Ses livres se trouvent PARTOUT. Mais la copie la plus proche ? »
+50	« Dans la Maison-Liche locale. »
+51	« Parmi tes possessions. »
+52	Puis le texte disparaît vite.
+53	« Euh... »
+54	« C'est génial ? »
+55	« S'il peut localiser n'importe quel livre, alors c'est genre... très, très utile. »
+56	Un glorieux artefact ésotérique.
+57	Sers-t'en.
+58	Tu t'apprêtes avec ta plume.
+59	« Un Manifeste Aveugle, des Hédonistes. »
+60	« Par-delà Reeds, de Meriadoc Moonwatch. »
+61	« Le Peuple, de Léxandro. »
+62	« Les Humains : une Brève Histoire, de Metann Liucx. »
+63	« Mémoires d'un Homme d'État, de Nicholas Darrow. »
+64	« Autobiographie Prax, du Seigneur Fillius Prax. »
+65	« Urth et Tol, Fondateurs, de Bodil Grimface. »
+66	« Prières Populaires, des Sœurs Trill. »
+67	Laisse tomber. J'en ai assez demandé.
+68	« Un livre étonnamment courant dans le coin. Il est dans ce bureau immonde, sur Waterlane. »
+69	« Un guide de voyage basique. Bien des mensonges dedans. Encore plus autour, au-dessus. »
+70	« L'un est... en bas. Loin, loin en bas. Un autre est en haut - à l'intérieur de la tour. »
+71	« Il y a six copies dans ces rues. L'une est sur Waterlane. Le halfelin l'a. »
+72	« Un point de vue intéressant et froid sur la créature la plus maléfique de Whale-land. Va à la tour. »
+73	« Il y a bien trop de copies de cette ordure dans le coin. Le bureau de Waterlane. Vas-y. »
+74	« Un grand récit d'un puissant narcissique. Tu peux en trouver un dans la Maison-Liche voisine. »
+75	« Il y a une copie dans la tour. Livre ennuyeux, cela dit. »
+76	« Une merveilleuse collection de récits. Les Sœurs ont fait œuvre remarquable pour stopper la ridicule mode culturelle consistant à parler au lieu d'écrire. La copie la plus proche est dans la Maison-Liche. »
+77	Tu ranges la plume.
+78	Tandis que tu ramasses le tome, une sensation de picotement écrasante te parcourt le bras.
+79	Un malheur imminent.
+80	Putain de merde. Non ! Ne le fais pas !
+81	LÂCHE-LE.
+82	UN ARTEFACT MAUDIT, LAISSÉ PAR CEUX QUI CONNAISSAIENT LES SECRETS DE CE MONDE.
+83	IL DIT : <shake>PAS. À TOI</shake>.
+84	« Ça va, Clerc ? »
+85	« Tu trembles ? »
+86	(Le reposer.)
+87	Tu le fais, le replaçant vite sur le rebord.
+88	Tandis que tu écris ces lettres- les achevant par une simple ponctuation...
+89	<wiggle>...</wiggle>
+90	L'illusion entière s'éloigne, loin dans un profond, profond couloir.
+91	« ...Ho là. »
+92	Pourtant directement à ta gauche tu vois... une entrée. Elle mène vers un endroit lumineux.
+93	Ton compagnon la pointe du doigt. « Ouaip. »
+94	« Ça, c'est de la connerie ésotérique. »
+95	Tandis que tu jettes un œil vers ce livre - glissant encore au loin dans le noir - tu attrapes un dernier aperçu de ses pages qui se tournent, tandis qu'il se mue en une fine brume.
+96	<wiggle>BIEN SÛR QUE NOUS AVONS CE SPLENDIDE TOME</wiggle>.
+97	<wiggle>SI TU DEMANDES GENTIMENT, IL POURRAIT ÊTRE TIEN...</wiggle>
+98	« ...Cool. »
