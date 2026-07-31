@@ -1,0 +1,3019 @@
+{
+"L'homme a suivi de sages rois-philosophes. Par cela, nous avons grandi en force. ": [
+""
+],
+"\"Me Barbarian. Me fight and eat unprocessed meats.\" (Grogner.) ": [
+".BARB==1-"
+],
+"\"On a besoin de toute l'aide possible.\" ": [
+""
+],
+".AR_Trading_Co.==1-\"You okay with us sneaking in here?\" ": [
+""
+],
+".AR_Trading_Co.==1-\"What a fancy building.\" ": [
+""
+],
+"And finally ": [
+""
+],
+"VARIABLE[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] 1[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] IS[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] 1[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] ": [
+""
+],
+"VARIABLE[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] 1[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] IS[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] 0[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] ": [
+""
+],
+"VARIABLE[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] 2[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] IS[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] 1[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] ": [
+""
+],
+"VARIABLE[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] 2[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] IS[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] 0[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] ": [
+""
+],
+"TEST[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] IS[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] 0[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] ": [
+""
+],
+"YOU[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] GO[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] FIRST[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] ": [
+""
+],
+"YOU[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] DO[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] NOT[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] GO[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] FIRST[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] ": [
+""
+],
+"POLONAIS[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] —[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] To[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] jest[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] test[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] w[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] języku[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] polskim.[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Specjalne[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] znaki:[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] ąćęłńóśźż[English][Polish][Simplified[Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] Chinese][Turkish][Russian][Japanese][Arabic][Korean][Hindi][French][German][Spanish][Portuguese][Dutch][Greek][Hebrew][Italian] ": [
+""
+],
+"\"See you later, master.\" (Partir.) ": [
+".OP_EvergladSigned==1-"
+],
+"Cela n'a finalement aucune importance. ": [
+""
+],
+"On n'en a jamais eu avant. Sympa. ": [
+""
+],
+"Cela n'a aucun sens. ": [
+""
+],
+"Cela n'a jamais de sens. ": [
+""
+],
+"...That's the... last apple? ": [
+".BagApple>=34-"
+],
+"\"Okay,\" he says, scratching his ear. \"<> #LOC_423 ": [
+""
+],
+"'Goblon was here'? (Stare at the message.) ": [
+".TU_Statue_Broken==0-"
+],
+"I should try to remove that message...! ": [
+".TU_Statue_AttemptedFix==0-"
+],
+"<i>What have I done?</i> ": [
+".TU_Statue_Broken==1-"
+],
+"\"What do you think about the statue of my god, Snell? Real human culture here.\" ": [
+".Snell==1-"
+],
+"\"If I meet this Goblon fellow, I will personally destroy him.\" ": [
+".Snell==1-"
+],
+"\"It's not a big deal. It doesn't matter.\" ": [
+".Snell==1-"
+],
+"What do I know about him? ": [
+".Snell==0-"
+],
+"(Glance at Snell and mutter.) \"I'm average.\" ": [
+".Snell==1-"
+],
+"...Anyway. You were focusing on this 'Goblon' fellow. ": [
+""
+],
+"...Maybe not. ": [
+""
+],
+"\"Thanks Snell. Let's keep this between us.\" ": [
+".Snell==1-"
+],
+"\"<i>Fuck you</i>?\" (Turn to Snell.) ": [
+".Snell==1-"
+],
+"\"Kick the bucket?\" (Point at your helm.) ": [
+".BUCKET==1-"
+],
+"(Gesture towards the ballot box.) \"You know I gotta ask. About your... political opinions.\" ": [
+".SNELL_POL==0-"
+],
+"\"And you're voting Azgalist, then?\" ": [
+".SNELL_POL==1-"
+],
+"(Just look away and don't ask about politics. Since you're apolitical.) ": [
+".APOLITICAL>=3-"
+],
+"\"Can I vote for lawful good? I think that's what I am.\" ": [
+".LAWFUL_GOOD==1-"
+],
+"\"Can I vote for neutral good? It feels more balanced.\" ": [
+".NEUTRAL_GOOD==1-"
+],
+"\"Can I vote for chaotic good? That seems like the most suitable for my way of life.\" ": [
+".CHAOTIC_GOOD==1-"
+],
+"\"Can I vote for lawful neutral? That seems more cleric-ish.\" ": [
+".LAWFUL_NEUTRAL==1-"
+],
+"\"Can I vote for true neutral? I'd love to reach for harmony.\" ": [
+".TRUE_NEUTRAL==1-"
+],
+"\"Can I vote for chaotic neutral? I wanna get real freaky with it.\" ": [
+".CHAOTIC_NEUTRAL==1-"
+],
+"\"Can I vote for lawful evil? That seems the most useful.\" ": [
+".LAWFUL_EVIL==1-"
+],
+"\"Can I vote for neutral evil? That's what I'm aiming for. Just pure, unadulterated meanness.\" ": [
+".NEUTRAL_EVIL==1-"
+],
+"\"Can I vote for chaotic evil? Like a... demon mosh pit or something?\" ": [
+".CHAOTIC_EVIL==1-"
+],
+"\"And number one is...?\" ": [
+".DS_SmarterDone==1-"
+],
+"Oh ?You did? ": [
+""
+],
+"\"No goblin salute?\" (Raise your hands a little.) ": [
+".GoblinSalute==1-"
+],
+"\"Want me to squat first?\" (Bend down a little.) ": [
+".GoblinSquat==1-"
+],
+"(Think about the Orange Ledger.) ": [
+".QP4_Resistance==1-"
+],
+"(Vote for <i>Ragn</i>.) ": [
+".FullName==0-"
+],
+"(Vote for <i>Ragn Hemlin</i>.) ": [
+".FullName==1-"
+],
+"(Vote for <i>Snell</i>.) ": [
+".SnellUnderstood==1-"
+],
+"\"Are you Lord Gorm?\" ": [
+".Q_Paladin>=1-"
+],
+"\"I took this key from you. Where does it lead?\" ": [
+".ITEMLOOTED_TU_Borgo_Crypt_Key==1-"
+],
+"\"How do I open that gate down the stairs?\" ": [
+".ITEMLOOTED_TU_Borgo_Crypt_Key==0-"
+],
+"\"Where'd you get that cool armor?\" ": [
+".QP4_Lichhouse==0-"
+],
+"\"Oh. Can I have it?\" ": [
+".LEVEL<=3-"
+],
+"\"Give me the key. I need to check the City Below.\" ": [
+".LEVEL>=4-"
+],
+"\"Do you have any spell scrolls I could have?\" ": [
+".ITEMLOOTED_TU_Borgo_Inflict_Wounds==0-"
+],
+"...just a suggestion here... ": [
+""
+],
+"\"Do you have any piece of info that would help me? Maybe a man dressed in yellow?\" ": [
+".MiskaIntro>=1-"
+],
+"\"...Oh yeah. I've met him. He almost killed me.\" ": [
+".KraaidIntro==1-"
+],
+"\"Yeah. Okay. Sure. I'll look for an alligator in the sewers.\" ": [
+".KraaidIntro==0-"
+],
+"\"I am. Thank you, Snell.\" (Partir.) ": [
+".Snell==1-"
+],
+"\"Attends. I need to ask, what do you know about the tea shop?\" ": [
+".Q_TeaShop>=1-"
+],
+"An elf? Aren't they rare? ": [
+".PinjaIntro==0-"
+],
+"That's the second elf I see here. Aren't they rare? ": [
+".PinjaIntro==1-"
+],
+"...Am I that man? ": [
+""
+],
+"\"We found an elf in the tea shop. One of your friends?\" ": [
+".TE_Corpse==1-"
+],
+"\"What are you voting in the election?\" ": [
+"",
+".Q_Election>=1-",
+".UP_MeriElectionTalk==0-"
+],
+"\"I have more questions about druidic magic.\" ": [
+".GG_Nessan_SpellsUnlocked==1-"
+],
+"\"You don't look like an elf.\" ": [
+""
+],
+"\"You're in trouble, aren't you?\" ": [
+".GG_Nessan_Trouble==1-"
+],
+"\"Hey Snell, why are you acting weird?\" ": [
+".Snell==1-"
+],
+"\"I want to learn how to speak with animals.\" ": [
+".ITEMLOOTED_GG_Nessan_Speak_with_Animals==0-"
+],
+"\"No wait, I actually already stole the spell scroll from her.\" ": [
+".ITEMLOOTED_CB_Moongore_Goodapple==1-"
+],
+"<b>(Twist a String.)</b> ": [
+""
+],
+"...Perhaps this was a foolish choice. ": [
+""
+],
+"\"You ready to head out?\" (Have Snell join the party.) ": [
+".NIGHT==0-"
+],
+"\"Snell, you hear that noise?\" ": [
+".Snell==1-"
+],
+"Kinda hard to open this box up on my own... ": [
+".Snell==0-"
+],
+"(Let Snell handle the rest.) ": [
+".Snell==1-"
+],
+"(Give up. For now.) ": [
+".Snell==0-"
+],
+"\"Is he making fun of me with that dunking sound?\" ": [
+".Snell==1-"
+],
+"\"Snell, is this guy some kind of troublemaker?\" ": [
+".Snell==1-"
+],
+"Why do I have a feeling I shouldn't cast Charm Person? ": [
+".Charm_Person==1-"
+],
+"\"You got something to ask him, Snell?\" ": [
+".Snell==1-"
+],
+"\"Ah. Because of your smuggling operation.\" ": [
+".Secret_Tunnel_Seen==1-"
+],
+"\"And why, exactly?\" ": [
+".Secret_Tunnel_Seen==0-"
+],
+"\"Snell. The HWBT didn't know about the smuggling stuff, right?\" ": [
+".Snell==1-"
+],
+"\"Snell, the HWBT didn't know about the smuggling stuff, right?\" ": [
+".Snell==1-"
+],
+"\"You're talking about the elf.\" ": [
+".Q_Elf>=1-"
+],
+"\"And where is this 'Temple of Urth'?\" ": [
+".Temple_of_Urth_Seen==0-"
+],
+"(Turn to Snell and whisper.) \"What's protocol now?\" ": [
+".Snell==1-"
+],
+"(Look to Snell.) ": [
+".Snell==1-"
+],
+"\"You can go.\" ": [
+".GW_DrummerStays==0-",
+".GW_DrummerStays==1-"
+],
+"L'homme-oiseau a l'air nerveux. ": [
+""
+],
+"L'homme-oiseau a l'air parfaitement satisfait de cette tournure. ": [
+""
+],
+"\"One more thing. I should inform you that the elf was found dead.\" ": [
+".Q_Elf>=1-"
+],
+"\"You fine with me letting him have his papers?\" ": [
+".GW_DrummerGoes==1-"
+],
+"\"You happy I took his papers?\" ": [
+".GW_DrummerStays==1-"
+],
+"(Look to Snell, in slow motion.) ": [
+".Snell==1-"
+],
+"...wait, hasn't this happened... before? ": [
+""
+],
+"\"Mosquito what?\" ": [
+".LL_TouchSand==0-"
+],
+"(Try the handle.) ": [
+".DAY==1-",
+".DAY>=2-"
+],
+"Can't I cast Knock to get this door open? ": [
+".Knock==1-"
+],
+"\"Come on, Snell. You can be the cleric for once.\" ": [
+".Snell==1-"
+],
+"\"I'm a Bard.\" ": [
+".BARD==1-"
+],
+"\"I'm a Barbarian.\" ": [
+".BARB==1-"
+],
+"\"I'm a Druid.\" ": [
+".DRUID==1-"
+],
+"\"I've got Snell with me.\" (Point at the goblin.) ": [
+".Snell==1-"
+],
+"\"See, Snell. This is how everyone should react to my presence.\" ": [
+".Snell==1-"
+],
+"ROLL18 wis-Genuinely apologize for your past actions and accept Azgal into your heart. ": [
+""
+],
+"\"What do I-\" ": [
+".Snell==1-"
+],
+"\"I'm fine. He only got my armor.\" ": [
+".E_YouWillLive==1-"
+],
+"(Feel your neck.) ": [
+".E_YouWillLive==0-"
+],
+"\"I have to investigate it, Snell. It could be a dangerous esoteric pocket.\" ": [
+".Snell==1-"
+],
+"\"But it looks so cool...\" ": [
+".Snell==1-"
+],
+"...the PAIN. ": [
+""
+],
+"\"I don't know.\" ": [
+".Snell==1-"
+],
+"\"Hold on a second- you're the daughter of the Magistrate! Why are you skulking around in these parts?\" ": [
+".BH_Frey_20==1-"
+],
+"\"Why do you have an evil aura around you?\" ": [
+".Frey_Abberration==1-"
+],
+"...Did it fizzle? Why? ": [
+""
+],
+"...she's also deflecting. ": [
+""
+],
+"\"What do you know about the tea shop?\" ": [
+".Q_TeaShop>=1-"
+],
+"Alfoz l'a probablement convaincu, hah.": [
+""
+],
+"(Think about the Orange Ledger.) Should I... give it to Modissa? ": [
+".ModissaOrangeLedger==0-"
+],
+"\"Rollo wants to have a meeting with you.\" ": [
+".Q_Deal==1-"
+],
+"\"Is there anything I can do to be of assistance?\" ": [
+".QP4_Press==0-"
+],
+"\"Is there anywhere else I can find this ink you need?\" ": [
+".QP4_Press==1-"
+],
+"\"Tell me about your relation with the tea shop.\" ": [
+".Q_TeaShop>=1-"
+],
+"\"Why aren't you commenting on the fact that I'm wearing a bucket on my head?\" ": [
+".BUCKET==1-"
+],
+"\"Now I'm wearing a pot. Is that better?\" ": [
+".POT==1-"
+],
+"\"You're both editor and writer? That sounds fun!\" ": [
+".SH_ModissaWriter==1-"
+],
+"\"What do you write?\" ": [
+".SH_ModissaWriter==1-"
+],
+"\"What kind of writing are you inspired by?\" ": [
+".SH_ModissaWriter==1-"
+],
+"\"Okay, that's enough. No more answers to your questions.\" ": [
+".SH_MomQuestionAnswered==1-"
+],
+"\"I've already been to the warehouse.\" ": [
+".Guild_Warehouse_Seen==1-"
+],
+"\"I'll try gaining access to the warehouse, then.\" ": [
+".Guild_Warehouse_Seen==0-"
+],
+"...But she might be avoiding something. Something about this trouble... ": [
+""
+],
+"(Lean in and whisper.) \"What about an elf?\" ": [
+".Q_Elf>=1-"
+],
+"\"Do you like milk, perchance?\" ": [
+".QP3_Milkurious==1-"
+],
+"\"We found a dead elf in the tea shop.\" ": [
+".Q_Elf>=1-"
+],
+"\"Do you think it was smart to cool down the radical stuff in the Chant?\" ": [
+".QP6_Press==1-",
+".QP7_Press==1-"
+],
+"\"You okay with Modissa printing that radical stuff?\" ": [
+".QP8_Press==1-"
+],
+"\"You know the tea shop that blew up? Tell me what you know.\" ": [
+".Q_TeaShop>=1-"
+],
+"\"I actually have dwarf ancestry, you know.\" ": [
+".DWARF==1-"
+],
+"\"Did Pinja blow up the tea shop?\" ": [
+".TE_ClueNecklace==0-"
+],
+"\"You know anything about a Necklace of Fireballs?\" ": [
+".TE_ClueNecklace==1-"
+],
+"\"It's a nice apartment.\" (Be nice.) ": [
+".SP_relationshipTalk==0-"
+],
+"\"This is much less... gobliny than I expected.\" (Be less nice.) ": [
+".SP_relationshipTalk==0-"
+],
+"\"I live on North Wall. In a nice city-sponsored apartment.\" (Avoid the full truth.) ": [
+".SnellKnowsAboutMom==0-"
+],
+"\"I live in a nice city-sponsored apartment on North Wall. Right by the-\" ": [
+".SnellKnowsAboutMom==1-"
+],
+"...Arguably he'll pity you. ": [
+""
+],
+"\"Lots of rain today, huh?\" ": [
+".DAY==3-"
+],
+"\"No rain for a while, huh?\" ": [
+".DAY<=2-"
+],
+"(Open, 'The Dark Book of Shadow' by The Shadow Lord.) ": [
+".IntelligenceFlashback==0-"
+],
+"...It was- <b>WHAT</b>?! ": [
+""
+],
+"(Kick the chair.) ": [
+".KickTwice==0-"
+],
+"(Kick the chair again.) ": [
+".KickTwice==1-"
+],
+"(Lean over to Snell.) \"Should I have an invoice?\" ": [
+".Snell==1-"
+],
+"\"I found the book by Cividix. That library was very talkative.\" ": [
+".Q_Mind==2-"
+],
+"\"We were attacked by an assassin. Seemed like a cult-thing.\" ": [
+".SnurreAssassin==1-"
+],
+"\"Can you give me some mind healing?\" ": [
+".Q_Mind==0-"
+],
+"\"What about gender swapping?\" ": [
+".GenderPotionMentioned==1-"
+],
+"\"Now that we've gone through this whole ghost adventure together, can you just like, tell me the meaning of life?\" ": [
+".Q_Mind==3-"
+],
+"\"Where did you say I should look for this book you needed?\" ": [
+".Q_Mind==1-"
+],
+"\"What do you know about the tea shop? The one that exploded?\" ": [
+".Q_TeaShop>=1-"
+],
+"\"What are <i>you</i> voting in the election?\" ": [
+".Q_Election>=1-"
+],
+"\"I think I have a dwarven ancestor.\" ": [
+".DWARF==1-"
+],
+"\"I think your rant about breeding was very... conspiratorial.\" ": [
+".SO_Breeding==1-"
+],
+"\"So we're slaves to our natures?\" ": [
+".SO_NatureSlaves==1-"
+],
+"\"I died in the river, and then woke up in the Lichhouse.\" ": [
+".QP6_River==1-"
+],
+"\"I'm a Bard. Tell me about Bards.\" ": [
+".BARD==1-"
+],
+"\"I'm a Barbarian. But that's not really relevant to anything here.\" ": [
+".BARB==1-"
+],
+"\"I'm a Druid. What do you know about the Primal forces?\" ": [
+".DRUID==1-"
+],
+"\"Did you hear that thing about the halfling?\" ": [
+".SO_GAIY==1-"
+],
+"\"What, you didn't like the old ghost, Snell?\" ": [
+".Snell==1-"
+],
+"\"Hey, Meek. This hagginshags is your old master, right?\" ": [
+".Meek==1-"
+],
+"\"No. I am voting Azgalist.\" ": [
+".SO_AzgalistVote==0-"
+],
+"\"Yes. They have my vote.\" ": [
+".SO_AzgalistVote==1-"
+],
+"(Look over to the fire.) ": [
+".AR_MephitDead==0-"
+],
+"\"Wait, Snell. I need to check this.\" ": [
+".Snell==1-"
+],
+"The city is selling off every port in the city?! ": [
+".Snell==0-"
+],
+"\"The city is selling off every port in the city?!\" ": [
+".Snell==1-"
+],
+"\"What should I do with this, Snell?\" ": [
+".Snell==1-"
+],
+"\"Is it... dead?\" ": [
+".Snell==1-"
+],
+"Is it... dead? ": [
+".Snell==0-"
+],
+"\"I came across these stolen documents. I figured you'd want to have them back.\" ": [
+".QP4_Resistance==1-"
+],
+"\"I'm looking for a hag.\" ": [
+".Q_Hag==1-"
+],
+"\"I spoke with Lisa.\" ": [
+".Q_Hag==2-"
+],
+"\"About the tea shop owner...\" ": [
+".Q_Feathers==1-"
+],
+"\"I need access to the Guild Warehouse.\" ": [
+".QP9_Sea==0-"
+],
+"\"Is there anything I can do to help?\" ": [
+".Q_Sea==0-"
+],
+".Simii's_Hole_Seen==1-\"I have something to report.\" (Tell her about the Azgalian printing press.) ": [
+""
+],
+"\"What have you heard about the tea shop?\" ": [
+".ViiraAvoidTeaShopQuestion==2-"
+],
+"\"Any news about the tea shop?\" ": [
+".ViiraAvoidTeaShopQuestion<=1-"
+],
+"\"Tell me about the griffon on the roof.\" ": [
+".W_GiorgioIntro==1-"
+],
+"\"Hey, can I have that spell scroll over there?\" (Point towards the desk.) ": [
+".ITEMLOOTED_AR_Spell_Scroll_Protection_from_Evil_and_Good_and_Etcetera==0-"
+],
+"\"I have a mimic.\" ": [
+".Meek==1-"
+],
+"...What should I ask her? ": [
+""
+],
+"...No idea. Just stare at her, maybe? ": [
+""
+],
+"\"Snell shot him in the eyes.\" ": [
+".Snell==1-"
+],
+"\"We also happened to have an angel as backup. That helped.\" ": [
+".EttirPickedUp==1-"
+],
+"\"The elf is dead.\" ": [
+".Q_Elf>=1-"
+],
+"\"Where can I find him?\" ": [
+".QP5_Feathers==0-"
+],
+"\"Did you know he was hiding in your warehouse?\" ": [
+".QP5_Feathers==1-"
+],
+"\"Tell me about his secret stash.\" ": [
+".QP5_Feathers==1-"
+],
+"\"I know it was a smuggling operation. I need you to tell me more about it.\" ": [
+".QP5_Feathers==1-"
+],
+"\"I let him leave. He's probably heading out of the city as we speak.\" ": [
+".QP6_Feathers==1-"
+],
+"(Hand her Drummer's papers.) \"Here. Take care of him.\" ": [
+".DrummerPapers==1-"
+],
+"\"You mean Ettir.\" ": [
+".EttirIntro>=1-"
+],
+"\"I knocked on the door across the street, and spoke with a guy who told me he was a Freestrider. Do you know him?\" ": [
+".WL_ManiusIntro==1-"
+],
+"\"Are you excited for our date?\" ": [
+".Viira_Date==1-"
+],
+"\"Did I mention how I really appreciate your appearance?\" (Attempt to flirt.) ": [
+".AR_Viira_Flirt==0-"
+],
+"I already have a date with her. Why is she pretending to not hear me? ": [
+".Viira_Date==1-"
+],
+"...Okay, let's try it. (Stern yourself, along with your sternum.) ": [
+""
+],
+"(Clear your throat. Stammer a bit. Then speak.) \"After the election, let's go out and eat. I want to get to know you.\" ": [
+".Viira_Date==0-"
+],
+"(Clear your throat. Stammer a bit. Then speak.) \"I think there's way more to you than most people assume. I want to figure you out.\" ": [
+".Viira_Date==1-"
+],
+"(Glance at Snell and make a tiny fist pump gesture.) ": [
+".Snell==1-"
+],
+"(Blurt out.) \"A date! A date!\" ": [
+".Viira_Date==0-"
+],
+"(Blurt out.) \"The date! The date!\" ": [
+".Viira_Date==1-"
+],
+"Viira a l'air vaincue.": [
+""
+],
+"\"Ambassador. The Freestrider Revolution is the greatest feat of liberty the Coast has ever seen. What makes you think the AR Trading Co. should take orders from you?\" (Stand up to the Golden Horde.) ": [
+".AR_StandUp==0-"
+],
+"\"We've already got a date planned. I have nothing more to ask of you.\" ": [
+".Viira_Date==1-"
+],
+"\"A reward, eh?\" (Attempt to flirt.) ": [
+".Viira_Date==0-"
+],
+"(Whisper back.) \"<i>What. Do you. Mean?</i>\" ": [
+".Meek==1-"
+],
+"\"What're you looking at?\" ": [
+".Snell==1-"
+],
+"\"Yeah. What he said.\" ": [
+".Snell==1-"
+],
+"\"I am only here to ask about the tea shop.\" ": [
+".Snell==0-"
+],
+"\"What's a <i>rollercoaster</i>?\" ": [
+".Snell==1-"
+],
+"\"This was some big-shot wasn't it? Did I just mess up?\" ": [
+".Snell==1-"
+],
+"\"What a majestic creature. Snell, don't you want to pet it too?\" ": [
+".Snell==1-"
+],
+"\"A Bard can be multi-legged. I think.\" ": [
+".BARD==1-"
+],
+"\"I think Barbarians can be birds. I'm one of those.\" ": [
+".BARB==1-"
+],
+"\"Druids are multifaceted.\" ": [
+".DRUID==1-"
+],
+"\"Wait, what did it sound like to you?\" ": [
+".Snell==1-"
+],
+"Ask Snell, \"The AY?\" ": [
+".Snell==1-"
+],
+"\"I'm a Bard, duh.\" (Show them some dance moves.) ": [
+".BARD==1-"
+],
+"\"I am a barbarian. Rawr.\" ": [
+".BARB==1-"
+],
+"\"I'm more of a Druid, really.\" ": [
+".DRUID==1-"
+],
+"I could just Charm one of them, right? ": [
+".CHARM_PERSON==1-"
+],
+"Isn't there a compromise to be found here? (Try to find a compromise.) ": [
+".WL_NoCompromise==0-"
+],
+"\"Do you have a license to distribute this paper?\" ": [
+".WL_Illegal_Paper==1-"
+],
+"\"My rage is unbound.\" ": [
+".Snell==1-"
+],
+"\"They would have deserved it.\" ": [
+".Snell==1-"
+],
+"\"...Of course not, Snell.\" ": [
+".Snell==1-"
+],
+"That went well. ": [
+".Snell==0-"
+],
+"\"That's all.\" (Break the spell.) ": [
+".WL_Zone_Illegal==0-"
+],
+"\"So you're both doing something illegal. Then... let's compromise, right?\" (Break the spell.) ": [
+".WL_Zone_Illegal==1-"
+],
+"\"Of course. I have a deep love for books, Snell.\" ": [
+".Snell==1-"
+],
+"\"Barbarians don't read. They eat meat and fight.\" ": [
+".BARB==1-"
+],
+"\"Druids sometimes read books. If they're rough-looking enough. Or is it rude to read on the corpse of a tree?\" ": [
+".DRUID==1-"
+],
+"\"I have a ruined prayer book. Can you fix it?\" ": [
+".QP2_Folio==1-"
+],
+"\"Are you finished with my prayer book yet?\" ": [
+".QP3_Folio==1-"
+],
+"\"I'm here to pick up my book.\" ": [
+".QP3_Folio==1-"
+],
+"\"I'm back for the book.\" ": [
+".QP3_Folio==1-"
+],
+"\"Why do you need help from the Pest Control Guild?\" ": [
+".WL_RatPests==0-"
+],
+"\"I had a chat with the rats. They won't bother you anymore.\" ": [
+".WL_RatPests==2-"
+],
+"\"What if I pay ten thousand crowns right now?\" ": [
+".Crowns>=10000-"
+],
+"\"I fixed the rat problem for you. So... can I get it for free?\" ": [
+".WL_RatPests==2-"
+],
+"I can't afford two hundred and fifty... ": [
+".CROWNS<=249-"
+],
+"I can't even afford a hundred... ": [
+".CROWNS<=99-"
+],
+"\"Oh, Snurre? He's not a gnome. He's a halfling.\" ": [
+".SnurreIntro==1-"
+],
+"\"What if I drink the milk?\" ": [
+".ITEMLOOTED_WL_Ost_Bottle_of_Milk==1-"
+],
+"\"Any tips on who to sell milk to?\" ": [
+".QP3_Milkurious==1-"
+],
+"\"What about a <i>Sneaky Rogue</i>?\" ": [
+".Snell==1-"
+],
+"\"Cool. Can you let me into that door over there?\" (Point down the stairs.) ": [
+".Guild_Warehouse_Seen==0-"
+],
+"\"Hey, do you know what a Deck of Many Things is?\" ": [
+".QP5_Riddle==1-"
+],
+"...I should forget this ever happened. ": [
+""
+],
+"\"Hold on, I'm just gonna-\" (Try to cast Comprehend Languages.) ": [
+".Comprehend_Languages==1-"
+],
+"\"Hold on, I'm just gonna-\" (Try to cast Druidcraft.) ": [
+".DRUIDCRAFT==1-"
+],
+"\"What do you know about them?\" ": [
+".Snell==1-"
+],
+"\"Nah. I'm a Bard!\" ": [
+".BARD==1-"
+],
+"\"I'm a great Barbarian of Askanii. Fear me, and so on.\" ": [
+".BARB==1-"
+],
+"\"These are...?\" ": [
+".Snell==1-"
+],
+"Could I eat my way through this pile of apples? ": [
+".LL_ApplesEaten==0-"
+],
+"So I could cast Revivify on this guy? ": [
+".LL_TheCorpseCanBeRevivied==1-"
+],
+"What the hell kind of magic is cast on this thing? ": [
+".LL_CorpseOne_WickedSpell==1-"
+],
+"\"I don't know, Snell. Maybe he saw something about the tea shop?\" ": [
+".Snell==1-"
+],
+"Cet homme, clairement, n'a aucune importance. ": [
+""
+],
+"\"It was interesting.\" ": [
+".Snell==1-"
+],
+"\"I should speak with them sometime.\" ": [
+".Snell==1-"
+],
+"\"I have a feeling it's a good corpse.\" ": [
+".Snell==1-"
+],
+"\"Don't say that to Snell, you piece of shit!\" ": [
+".Snell==1-"
+],
+"\"I don't think I'm gonna do that again.\" ": [
+".Snell==1-"
+],
+"\"You think he was weird, because of the esoteric magic stuff?\" ": [
+".Snell==1-"
+],
+"Shouldn't I prepare if I'm gonna face a zombie? ": [
+".ShrineIntro==0-"
+],
+"What about the apples? Should I eat more? ": [
+".ApplePileIntro==0-"
+],
+"...I'll just go check out the shrine. (Deescalate this internal struggle.) ": [
+".ShrineIntro==0-"
+],
+"\"Don't say <i>ew</i>. That's rude.\" ": [
+".Snell==1-"
+],
+"\"Hey, Snell. What's up with this weird crate of sand?\" ": [
+".Snell==1-"
+],
+"(Touch the sand.) ": [
+".LL_CrateLid==0-"
+],
+"(Try to reach for Snell.) ": [
+".Snell==1-"
+],
+"\"Do I really need to keep the helmet on?\" ": [
+".LL_SandFailedOnce==0-"
+],
+"\"What <i>was</i> that?!\" ": [
+".Snell==1-"
+],
+"(Carefully put on the lid.) ": [
+".Snell==0-"
+],
+"What kind of esoteric pocket is really? ": [
+".CB_DragonSpeak==1-"
+],
+"What kind of esoteric pocket is this? ": [
+".CB_DragonSpeak==0-"
+],
+"(Look at the skull again.) ": [
+".CB_DomnallEncounter==1-"
+],
+"\"A key. Very old.\" ": [
+".Snell==1-"
+],
+"\"Snell, you know this guy?\" ": [
+".Snell==1-"
+],
+"Hm.Is this truly his key? Is he the owner? ": [
+""
+],
+"\"Snell, we should help him. Get him out of here.\" ": [
+".Snell==1-"
+],
+"\"Fine. Take it.\" (Offer the key.) ": [
+".CB_GotKey==1-"
+],
+"\"I'm keeping this key.\" ": [
+".CB_GotKey==1-"
+],
+"\"Come on, old man. You should leave with us.\" ": [
+".CB_GotKey==0-"
+],
+"\"We're going to leave now. So...\" ": [
+".CB_GotKey==0-"
+],
+"\"I'm having a chat with our friend here.\" ": [
+".Snell==1-"
+],
+"(Keep your footing.) ": [
+".Snell==0-"
+],
+"\"Are you the son of Esuth?\" ": [
+".CB_PaperUnderstood==1-"
+],
+"\"Snell, you got anything for this guy?\" ": [
+".Snell==1-"
+],
+"(Nudge Snell.) \"You think we should do something with this?\" ": [
+".Snell==1-"
+],
+"(Take a deep breath, then whisper.) \"<i>Pussy up, motherfucker</i>.\" ": [
+".PUSSYUP==1-"
+],
+"(Slap his hand away.) \"GET YOUR HANDS OFF ME, <b>GOBLIN</b>!\" ": [
+".Snell==1-"
+],
+"\"Did one of your goblin buddies put this sign up?\" ": [
+".Snell==1-"
+],
+"...<i>Touch</i> the sign? ": [
+""
+],
+"...Okay. But <i>should I</i> touch the sign? ": [
+""
+],
+"(Punch it with your free hand.) ": [
+".CB_MimicOtherHand==0-"
+],
+"\"Snell, what do I do?!\" ": [
+".Snell==1-"
+],
+"Puis...you pull back! ": [
+""
+],
+"Merde.You need another method. And quick! ": [
+""
+],
+"\"But you- you can't just bite someone like that!\" ": [
+".CB_MimicBite==1-"
+],
+"\"Why- why are you hiding like that?\" ": [
+".CB_MimicBite==0-"
+],
+"\"Am I not pretty as well, monster?!\" ": [
+".Snell==1-"
+],
+"Hm.Yes, this monster is not mindless. And while its intentions seem to stem from survival, that is not the most evil of leanings. ": [
+""
+],
+"En effet.A good wizard's pet. ": [
+""
+],
+"Mince.Your stoic stance must have been too meek. ": [
+""
+],
+"Mince.If only asking for loot worked more often. ": [
+""
+],
+"Hm.Well, there's a loophole there. ": [
+""
+],
+"\"What's the worst that could happen, Snell? It'll be useful to have a little guy around.\" ": [
+".Snell==1-"
+],
+"Bon sang !It's gone! ": [
+""
+],
+"\"A bit late for that now, isn't it?\" ": [
+".Meek==1-"
+],
+"\"Snell, why did you let me go into this obviously terrifying chamber?\" ": [
+".Snell==1-"
+],
+"\"Can my goblin sidekick help out?\" ": [
+".Snell==1-"
+],
+"(Lean over to Snell.) \"What should I say?\" ": [
+".Snell==1-"
+],
+"That's... kind of personal. Luckily I'm alone down here, so no one will hear my answer. ": [
+".Snell==0-"
+],
+"\"I... I don't want to answer that!\" ": [
+".Snell==1-"
+],
+"Ouais.This was pretty stupid. All that buildup for nothing. ": [
+""
+],
+"Snell a l'air confiant.": [
+""
+],
+"(Attempt to show Snell what Numenism means.) ": [
+".CB_NumenismAnswer==1-"
+],
+"\"Divine rule! Numenism is when walking gods rule!\" ": [
+".CB_SnellFail==1-"
+],
+"\"You should have said the correct answer to the cow, instead of the wrong one.\" ": [
+".CB_SnellFail==1-"
+],
+"\"That was a bullshit question. Mine were way easier.\" ": [
+".CB_SnellFail==1-"
+],
+"\"Didn't think it'd ask such a deep question.\" ": [
+".CB_SnellFail==0-"
+],
+"\"Are you mad at me?\" ": [
+".CB_SnellFail==0-"
+],
+"\"This is bullshit.\" ": [
+".CB_SnellFail==0-"
+],
+"\"You scared?\" ": [
+".Snell==1-"
+],
+"(Attempt to speak with Meek.) ": [
+".Meek==1-"
+],
+"(Strain and push.) ": [
+".CB_CubePushed==0-"
+],
+"(Open your eyes.) ": [
+".Snell==1-"
+],
+"(Reach out your hand.) ": [
+".Snell==0-"
+],
+"(Grab the rope.) ": [
+".Snell==1-"
+],
+"\"Not... yet...\" (Pant.) ": [
+".Snell==1-"
+],
+"\"Tell me what you know about these things, Snell.\" ": [
+".Snell==1-"
+],
+"\"What do you make of this, Snell?\" ": [
+".Snell==1-"
+],
+"\"Do you know the way to the Undercoast Path?\" ": [
+".CB_DeadGoblinKnows==1-"
+],
+"\"It was a long time ago.\" ": [
+".Snell==1-"
+],
+"\"Does it bother you?\" ": [
+".Snell==1-"
+],
+"\"I can handle myself. Don't you worry.\" ": [
+".Snell==0-"
+],
+"\"You know this creature, Snell?\" ": [
+".Snell==1-"
+],
+"\"Can I go in the other direction?\" ": [
+".SkeletonIntro==0-"
+],
+"\"I defeated the skeleton in the crypts.\" ": [
+".SkeletonIntro==1-"
+],
+"\"I'm a great Barbarian of Askanii. Fear me.\" ": [
+".BARB==1-"
+],
+"\"There's a dwarf who says you won't let him pass here.\" ": [
+".Q_Mine>=1-"
+],
+"\"Have you seen a man in yellow pass by here?\" ": [
+".MiskaIntro>=1-"
+],
+"\"I found the man in yellow. The one who charmed you.\" ": [
+".CB_AvengeMoongore==2-"
+],
+"\"Can I have that spell scroll you've got?\" ": [
+".ITEMLOOTED_CB_Moongore_Goodapple==0-"
+],
+"\"I stole your Wood Shield.\" ": [
+".ITEMLOOTED_CB_Moongore_Wood_Shield==1-"
+],
+"\"I defeated a troll.\" ": [
+".GourgalashIntro==1-"
+],
+"\"I defeated a roper in the South Caves.\" ": [
+".RoperIntro==1-"
+],
+"\"I found the man in yellow. The one who charmed you.\" (Get ready to show how you avenged her.) ": [
+".CB_AvengeMoongore==2-"
+],
+"(Point towards the mushroom lady.) \"Who's that?\" ": [
+".MORNING==1-"
+],
+"(Point towards Nessan.) \"Is she okay?\" ": [
+".MORNING==1-"
+],
+"\"I'll avenge your honor.\" (Salute her.) \"I swear.\" ": [
+".CB_AvengeMoongore==0-"
+],
+"(Whisper to Meek.) \"Quiet, I'm trying to score here.\" ": [
+".Meek==1-"
+],
+"\"From Nessan, right? She told me I should tell you to give it to me.\" ": [
+".GG_GoodappleGet==1-"
+],
+"\"I yield! I take it back!\" (Give up.) ": [
+".CB_Slapped<=2-"
+],
+"\"No...!\" (Keep refusing.) ": [
+".CB_Slapped==0-"
+],
+"\"I refuse...!\" (Stand your ground.) ": [
+".CB_Slapped==1-"
+],
+"\"I...! I...\" (Prepare to get hit again.) ": [
+".CB_Slapped==2-"
+],
+"\"It's a pretty good nickname.\" ": [
+".Snell==1-"
+],
+"\"The druid? Has she taught you magic?\" ": [
+".NessanIntro==1-"
+],
+"\"I will return, once I've AVENGED your HONOR, my lady.\" ": [
+".CB_AvengeMoongore==1-"
+],
+"\"Can I... go past here?\" ": [
+".MiskaIntro==0-"
+],
+"Bon.You handled it. ": [
+""
+],
+"Didn't I just see someone standing at the end of this hallway? ": [
+".DAY>=4-"
+],
+"Mm.Don't touch anything. ": [
+""
+],
+"Oh oh.That was probably a really, really stupid idea. ": [
+""
+],
+"Oh.What is that... feeling? ": [
+""
+],
+"\"Hm? What?\" (Weigh the gemstone in your hand.) ": [
+".Snell==1-"
+],
+"Hm? (Weigh the gemstone in your hand.) ": [
+".Snell==0-"
+],
+"\"Sorry, can you repeat that?\" ": [
+".Snell==1-"
+],
+"\"The skull looks a bit deformed, doesn't it?\" ": [
+".Snell==1-"
+],
+"\"What if I take the gems that are in the eye sockets of the skull?\" ": [
+".Snell==1-"
+],
+"Those gems in the eye sockets look kind of nice, though... ": [
+".Snell==0-"
+],
+"(Yell.) \"Hello? Visken sent me here! Is there anyone here?!\" ": [
+".VL_ViskenBondavol==1-"
+],
+"Ouais.At least while this goblin is watching. ": [
+""
+],
+"Mm.Do not consider such a foolish action. ": [
+""
+],
+"\"Snell, he's a...!\" ": [
+".Snell==1-"
+],
+"\"I'm a...!\" ": [
+""
+],
+"\"Please. I don't want any trouble.\" ": [
+".CB_BondAsked==1-"
+],
+"\"Snell, I think the skull likes me.\" (Whisper.) ": [
+".Snell==1-"
+],
+"\"Hold on, you know Visken?\" ": [
+".VL_ViskenBondavol==0-"
+],
+"\"Oh. He did?\" ": [
+".VL_ViskenBondavol==1-"
+],
+"\"So... what are you exactly?\" ": [
+".CB_BondAsked==0-"
+],
+"\"Know anything about the tea shop thing?\" ": [
+".Q_TeaShop>=1-"
+],
+"\"Could you help me enter the Pillar of Jor?\" ": [
+".Q_Gate>=1-"
+],
+"\"Can I have that emerald?\" ": [
+".ITEMLOOTED_CB_BOND_EMERALD==0-"
+],
+"\"The Lord of the Fortress?\" ": [
+".CB_BondavolFort==1-"
+],
+"Hm.A memory altering spell by Visken perhaps? ": [
+""
+],
+"Ah.Thomas Darrow. So that's what happened to the lost uncle of the Darrow House. ": [
+""
+],
+"\"It's asking who I serve, huh...?\" ": [
+".Snell==1-"
+],
+"\"<i>Crinblanca</i>.\" (Speak the name clearly.) ": [
+".WhitemaneKnow==1-"
+],
+"\"I don't know what to answer. Maybe... I serve <i>my god</i>?\" ": [
+".WhitemaneKnow==0-"
+],
+"\"What do you make of these?\" ": [
+".Snell==1-"
+],
+"\"Snell, your people ever make art like this?\" ": [
+".Snell==1-"
+],
+"No wonder the Choir wanted these recorded. ": [
+".CB_IvcxGone==1-"
+],
+"\"Did you find the Trove?\" ": [
+".CB_Trove==1-"
+],
+"\"Where is the entrance to the Trove?\" ": [
+".CB_Trove==1-"
+],
+"\"The Trove of Esuth. Interesting.\" ": [
+".CB_Trove==1-"
+],
+"\"Did you see that?\" ": [
+".Snell==1-"
+],
+"\"This thing is haunted.\" ": [
+".Snell==1-"
+],
+"\"I think someone died holding this.\" ": [
+".Snell==1-"
+],
+"...you are... ": [
+""
+],
+"...at the... ": [
+""
+],
+"...bottom of the step. ": [
+""
+],
+"...top of the step. ": [
+""
+],
+"...That does not sound plausible. ": [
+""
+],
+"\"You ever seen a snail like this before, Snell?\" (Gesture with your arms to emphasize the humongous nature of the creature.) ": [
+".Snell==1-"
+],
+"Could I break the esoteric effect, causing the snail Lord's hibernation? ": [
+".CB_SnailHelp==1-"
+],
+"\"Snell, isn't this creature blocking your goblin operations in some way?\" ": [
+".Snell==1-"
+],
+"I want to pet the Hail Snail. ": [
+".CB_HailSnailPet==0-"
+],
+"...Yeah, I still want to pet the snail. ": [
+""
+],
+"\"They seem comfortable here.\" ": [
+".Snell==1-"
+],
+"Ouais.No. Talking ain't going to help you here. ": [
+""
+],
+"\"I can't do this, Snell. I'm dying.\" (Let him do his thing.) ": [
+".Snell==1-"
+],
+"...your throat. ": [
+""
+],
+"\"Thank you, Snell.\" ": [
+".Snell==1-"
+],
+"\"A great... battle...\" (Catch your breath.) ": [
+".Snell==1-"
+],
+"A great... battle... (Catch your breath.) ": [
+".Snell==0-"
+],
+"\"They can be a little cozy.\" ": [
+".Snell==1-"
+],
+"\"Agreed. That's why we burn corpses these days.\" ": [
+".Snell==1-"
+],
+"(Kneel down to the bone pile.) ": [
+".Snell==0-"
+],
+"(Kneel down.) \"Hold on. I have to make sure this warrior gets what he deserves.\" ": [
+".Snell==1-"
+],
+"Bon choix.Proud of you. ": [
+""
+],
+"\"Why do you guys just have these statues in the area?\" ": [
+".Snell==1-"
+],
+"What causes this? ": [
+".Snell==0-"
+],
+"\"You seen anything like this, Snell?\" ": [
+".Snell==1-"
+],
+"\"What do you think, Meek?\" ": [
+".Meek==1-"
+],
+"(Look for that symbol Akzel was talking about.) ": [
+".Q_Mine==1-"
+],
+"(Check out the empty eye.) ": [
+".CB_WhitemaneTriggered==0-"
+],
+"\"Probably. They wouldn't just write that on a shrine for no reason.\" ": [
+".Snell==1-"
+],
+"I wonder what it means... ": [
+".Snell==0-"
+],
+"So I need to insert a gemstone here? ": [
+".CB_WhitemaneFiguredOut==1-"
+],
+"(Put in a jacinth gemstone.) ": [
+".ITEMLOOTED_CB_Niche_Stash_Jacinth==1-"
+],
+"Alright... (Put it in.) ": [
+".ITEMLOOTED_CB_Niche_Stash_Jacinth==1-"
+],
+"I'll need to find one, then. ": [
+".ITEMLOOTED_CB_Niche_Stash_Jacinth==0-"
+],
+"\"Gods have mercy.\" ": [
+".Snell==1-"
+],
+"(Look around.) \"What?\" ": [
+".Snell==1-"
+],
+"Hm ?What's going on? ": [
+""
+],
+"\"It's cool, Snell. The threats should be over now.\" ": [
+".Snell==1-"
+],
+"\"Excuse my companion. He's shy.\" ": [
+".Snell==1-"
+],
+"\"At least to the Undercoast Path. I've been down there.\" ": [
+".Undercoast_Path_Seen==1-"
+],
+"\"I must go there. It's important for the investigation.\" ": [
+".MeriIntro==0-"
+],
+"\"I've already dealt with the troll, if that's what you mean. I found that guy in yellow too. But you're free to join in to check out the rest.\" ": [
+".MeriIntro==1-"
+],
+"\"She freaks me out too.\" (Mean it in a good way.) ": [
+".Snell==1-"
+],
+"\"She's not so bad.\" ": [
+".Snell==1-"
+],
+"\"We need help, Snell. She's help.\" ": [
+".Snell==1-"
+],
+"\"What makes you say that?\" ": [
+".Snell==1-"
+],
+".Caelum's_Mage_Hand==1-(Cast Mage Hand and have it touch the chest from a distance.) ": [
+""
+],
+"Guess I can open the chest? ": [
+".CB_MimicChestIsNotMimic==1-"
+],
+"I shouldn't touch the chest right now. ": [
+".CB_MimicChestIsNotMimic==0-"
+],
+"Ouais.Might be for the best. For once. ": [
+""
+],
+"Oh !It's happening, <shake>let's gooo...</shake>! ": [
+""
+],
+"...oh. You're going to have to fight. ": [
+""
+],
+"(Move forward, within reach of the assassin.) ": [
+".E_Close==0-"
+],
+"(Stare at the assassin.) ": [
+".E_Close==1-"
+],
+"Puis...the HEX once again PAINS you. ": [
+""
+],
+"(Try to catch him!) ": [
+".KnowMaskedOne==0-"
+],
+"(Try to catch <i>her</i>!) ": [
+".KnowMaskedOne==1-"
+],
+"Hm.A woman is hunting you. A young one at that. ": [
+""
+],
+"Come on. Snell's not here... ": [
+".MiskaIntro==1-"
+],
+"\"I don't... need help... I'm a Cleric...\" ": [
+".Snell==1-"
+],
+"\"Hey Snell, you sure you don't want to ask Lord Puu something?\" ": [
+".Snell==1-"
+],
+"\"What is your relationship with this <i>Nessan</i>?\" ": [
+".GG_Nessan_Tree_Password==1-"
+],
+"\"Do you have something hidden within you? Could I... gain access?\" ": [
+".GG_Nessan_Tree_Password==0-"
+],
+"\"Nah. It's just a tree. Not like it's going to listen to me anyhow.\" ": [
+".Snell==1-"
+],
+"\"A green witch? Interesting. Where can I find her?\" ": [
+".NessanIntro==0-"
+],
+"(Become one with the Primal Well.) ": [
+".DRUID_Choice>=4-"
+],
+"...Unless you care about what the goblin thinks of you. ": [
+""
+],
+"\"I'm making a statement, <i>Snell</i>.\" ": [
+".Snell==1-"
+],
+"(Lower your hands.) ": [
+".Snell==0-"
+],
+"...Oh no. ": [
+""
+],
+"FC19 wis-...How did I not notice that thing?! ": [
+""
+],
+"GET. THIS. THING. OFF ME...! ": [
+".E_Grabbed==1-"
+],
+"(Be surprised.) \"What?\" ": [
+".E_Grabbed==0-"
+],
+"(Be surprised, then scream and flail.) ": [
+".E_Grabbed==1-"
+],
+"...You're dead. ": [
+""
+],
+"I need to think for a second... ": [
+".CB_RoperWeakness==0-"
+],
+"I can try attacking the tentacle, right? ": [
+".E_RoperHurt==0-"
+],
+"Attends.The only way to hit this thing properly... ": [
+""
+],
+"\"You cannot touch me, beast...!\" ": [
+".E_Dodge==1-"
+],
+"\"Snell...! Kill it...!\" ": [
+".SNELL==1-"
+],
+"...You're holding your breath. ": [
+""
+],
+"(Jump and run.) ": [
+".SNELL==0-"
+],
+"\"You too. Great job, Snell.\" (Give him a thumbs up.) ": [
+".Snell==1-"
+],
+"\"Thank you for saving me.\" (Leave, thankfully.) ": [
+".Snell==1-"
+],
+"\"I am a hero. A hero of the City Below.\" (Leave, proudly.) ": [
+".Snell==1-"
+],
+"It is done. The monster has been vanquished. (Leave.) ": [
+".Snell==0-"
+],
+"\"What do you make of this wonderful artwork?\" ": [
+".Snell==1-"
+],
+"(Try to listen to the <i>wall</i>.) ": [
+".TS_WallSpoken==1-"
+],
+"\"Who is it this time?\" ": [
+".CHANCY==0-"
+],
+"\"Is it Chancy again?\" ": [
+".CHANCY==1-"
+],
+"\"She? As in, <i>Iomestra</i>?\" ": [
+".IOMESTRA==1-"
+],
+"\"This is creepy.\" ": [
+".Snell==1-"
+],
+"(Open the book.) ": [
+".CB_LibraryEntryIntro==0-"
+],
+"(Open it and enter a book name.) ": [
+".CB_LibraryEntryIntro==1-"
+],
+"'Book of the Mind, Sixth Edition, by Cividix.' ": [
+".Q_Mind>=1-"
+],
+"\"How can you tell the hallway is trapped?\" ": [
+".Snell==1-"
+],
+"Can I touch both at the same time? ": [
+".Snell==0-"
+],
+"\"Hey, Snell. Your thoughts on these paw prints?\" ": [
+".Snell==1-"
+],
+"Ouais.For once, actually listen to your little tummy-ache, okay? ": [
+""
+],
+"\"We've already been to - sort of - the other side of this hallway, right?\" ": [
+".Sewer_Seen==1-"
+],
+"\"Do we gain anything by getting past here?\" ": [
+".Sewer_Seen==0-"
+],
+"Ah.This construction must be a remnant of the Whitemane tribe. ": [
+""
+],
+"Oh.It's kind of catchy. ": [
+""
+],
+"...you grit your teeth. ": [
+""
+],
+"\"More of a Bard, really.\" ": [
+".BARD==1-"
+],
+"\"Not a Cleric. A great Barbarian. Of Askanii.\" ": [
+".BARB==1-"
+],
+"\"I'm more of a <i>Primal</i> spellcaster.\" ": [
+".DRUID==1-"
+],
+"Ah.He's waiting for it. Go ahead. ": [
+""
+],
+"(Bow your head.) \"Ambassador.\" ": [
+".QP10_Sea==1-",
+".QP12_Sea==1-"
+],
+"\"Could you get that torch, Snell?\" ": [
+".Snell==1-"
+],
+".Caelum's_Mage_Hand==0-\"Hm. If I could find Mage Hand, then maybe that'd work. If the gel would let it go through.\" ": [
+""
+],
+".Caelum's_Mage_Hand==1-\"Mage Hand could do it. Can't hurt to try.\" ": [
+""
+],
+"Oh.Oh gods, it's getting mad! ": [
+""
+],
+"\"That really hurt.\" ": [
+".Snell==1-"
+],
+"\"Hold on, Snell. I need to do something.\" ": [
+".Snell==1-"
+],
+"\"What do you mean, Meek?\" ": [
+".Meek==1-"
+],
+"\"Is it normal to camp in a place like this?\" ": [
+".Snell==1-"
+],
+"\"Food?\" (Mutter to yourself and look around.) ": [
+".Snell==0-"
+],
+"...Why food? In the sewers? ": [
+""
+],
+"Hm.What should I do about this? ": [
+""
+],
+"\"Didn't I find that pastry before?\" ": [
+".TS_SeenEatingTrash==1-"
+],
+"Attends...is someone here? ": [
+""
+],
+"\"STOP! WE'VE COME TO BARGAIN!\" ": [
+".Snell==1-"
+],
+"\"STOP! I'VE COME TO BARGAIN!\" ": [
+".Snell==0-"
+],
+"\"Kill it, Snell!\" ": [
+".Snell==1-"
+],
+"(Gesture for Snell to be quiet.) ": [
+".Snell==1-"
+],
+"(Wait for him to respond.) ": [
+".Snell==0-"
+],
+"\"...I think I'm a Bard? You know what that is?\" ": [
+".BARD==1-"
+],
+"\"...a Druid. I guess?\" ": [
+".DRUID==1-"
+],
+"\"Have you seen a man in yellow going past here?\" ": [
+".QP6_Witness==0-"
+],
+"\"Snell. What should we do about the <i>crate situation</i>?\" ": [
+".Snell==1-"
+],
+"\"Can I get some slogdog?\" ": [
+".CB_KraaidSlogdogWin==1-"
+],
+"Ah.The beast has a nickname for the basilisk. Due to their love of the Gravity Flip. ": [
+""
+],
+"Ah.You mean... ": [
+""
+],
+"\"There is a warehouse connected to the Askanii-Reeds Trading Company.\" ": [
+".Guild_Warehouse_Seen==1-"
+],
+"\"The Freestriders have a warehouse on Waterlane.\" ": [
+".Guild_Warehouse_Seen==0-"
+],
+"...No, really, what is it? ": [
+""
+],
+"\"You want a slogdog, Snell?\" ": [
+".Snell==1-"
+],
+"...Putting them all under the city was a pretty ballsy move. ": [
+""
+],
+"So these won't try to kill me, like that other skeleton? ": [
+".SkeletonIntro==1-"
+],
+"Could I cast speak with dead on any of these? ": [
+".Speak_with_Dead==1-"
+],
+"\"Snell. Look at this.\" ": [
+".Snell==1-"
+],
+"\"What's your thought on this, Snell?\" ": [
+".Snell==1-"
+],
+"Wait. I can't cast Speak with Dead, here. Since this guy won't get my language, right? ": [
+".Speak_with_Dead==1-"
+],
+"Ouais.I can FEEL it. ": [
+""
+],
+"Oh.Is there... ": [
+""
+],
+"(Toss in 100 crowns.) \"I'd like some of your healing water.\" ": [
+".CROWNS>=100-"
+],
+"\"Thanks. I found it upstairs.\" ": [
+".BUCKET==1-"
+],
+"\"Thanks. I found it in the lichhouse. Visken was nice enough to let me take it.\" ": [
+".POT==1-"
+],
+"...Aren't you? ": [
+""
+],
+"\"I'm a Bard actually. You know, the type.\" ": [
+".BARD==1-"
+],
+"\"I'm a Barbarian! Big and scary!\" ": [
+".BARB==1-"
+],
+"\"I'm a Druid! Of the Primal side of the esoteric.\" ": [
+".DRUID==1-"
+],
+"\"Oh right. The fire trap.\" ": [
+".CB_HallwayTrapTriggered==1-"
+],
+"...How does he know about your beard? ": [
+""
+],
+"\"I found those ruins you were looking for.\" ": [
+".Q_Mine==2-"
+],
+"\"Okay. Tell me more about those mines.\" ": [
+".Q_Mine==0-"
+],
+"\"Sun or two blades? Yeah, didn't see anything like that. I'll go back and see if I missed it.\" ": [
+".CB_WhitemaneIntro==1-"
+],
+"\"Sun or two blades. Got it. If I find the shrine, I'll investigate.\" ": [
+".CB_WhitemaneIntro==0-"
+],
+"...<i>Could</i> be worth it. ": [
+""
+],
+"\"<i>Master Hagginshags, I will learn</i>.\" (Say the words from the petrified wizard.) ": [
+".CB_HagginshagsPhrase==1-"
+],
+"\"<i>Learn, I will learn</i>.\" (Say the words from the voice.) ": [
+".CB_HagginshagsPhraseMeek==1-"
+],
+"\"This wizard knew what they were doing.\" ": [
+".Snell==1-"
+],
+"Rien.It doesn't budge. ": [
+""
+],
+"...Please don't use that word like that. ": [
+""
+],
+"\"How the hell was I supposed to know?!\" ": [
+".Snell==1-"
+],
+"\"I'm not afraid of this trap. Eventually I'm sure it'll work out.\" ": [
+".Snell==1-"
+],
+"\"Okay, fine. I'll try to keep an eye out in the future.\" ": [
+".Snell==1-"
+],
+"By the gods, who would make such a devious trap?! ": [
+".Snell==0-"
+],
+"...It is... <i>beating</i>. ": [
+""
+],
+"\"I can take anything.\" (Cough up blood in your helmet.) ": [
+".Snell==1-"
+],
+"I can take anything. (Cough up blood in your helmet.) ": [
+".Snell==0-"
+],
+"\"You guys should really mark out these traps.\" ": [
+".Snell==1-"
+],
+"\"This hallway is like... really close to the Goblin Garden. You really didn't know about it?\" ": [
+".Snell==1-"
+],
+"Seems like I'm in a bit of a pickle. ": [
+".Snell==0-"
+],
+"\"Seems like I'm in a bit of a pickle.\" ": [
+".Snell==1-"
+],
+"\"That was close!\" ": [
+".Snell==1-"
+],
+"Hm.How intriguing. This begs a most indomitable question: ": [
+""
+],
+"Hagginshags.Of course. It must be a century old. ": [
+""
+],
+"\"Don't you think it'd be even <i>more</i> bejeweled, or something?\" ": [
+".Snell==1-"
+],
+"Hm.It speaks through a filter. As if it is translating its words directly from an ancient tongue. ": [
+""
+],
+"Do I have anything that's even close to the value of this thing? ": [
+".ITEMLOOTED_LL_Voting_Card_Voting_Card==0-",
+".ITEMLOOTED_LL_Voting_Card_Voting_Card==1-"
+],
+"\"<i>Snell</i>.\" (Get ready to run.) ": [
+".Snell==1-"
+],
+"\"What do you mean? I've lost my only vote. I won't be able to participate in our first ever election. This is a tragedy.\" ": [
+".Snell==1-"
+],
+"This is so sad. I can't believe I've lost my one and only vote in the election. ": [
+".Snell==0-"
+],
+"Quoi ?How is this possible? ": [
+""
+],
+"...or... no! ": [
+""
+],
+"Oh.That's fine, I really don't care to stop for a random pin-up magazine. ": [
+""
+],
+"Oh.What kind of edition? (Take a look, it can't hurt.) ": [
+""
+],
+"...where your mind is rotting. ": [
+""
+],
+"(Dive into the Sea of Ash and Dreams.) ": [
+".Snell==0-"
+],
+"(Dive into the Sea of Ash and Dreams...?) ": [
+".Snell==1-"
+],
+"\"There's a secret here. I know it.\" ": [
+".Snell==1-"
+],
+"\"<i>Hail, Esuth. May Fire Sweep the Coast.</i>\" ": [
+".CB_PaperUnderstood==1-"
+],
+"There's totally a secret door here, right? ": [
+".CB_PaperUnderstood==0-"
+],
+"\"What do you mean by 'big hurt', Meek?\" ": [
+".Meek==1-"
+],
+"\"Snell, you seeing this? This cat?\" ": [
+".Snell==1-"
+],
+"\"What do you think of Lisa?\" ": [
+".Snell==1-"
+],
+"\"Have you remembered anything else about the fire?\" ": [
+".TS_Triban_BlueFlame==1-"
+],
+"\"What about slogdogs?\" ": [
+".CB_KaaidSlogdogWin==1-"
+],
+"\"Ouais. On en a partout en Askanii.\" ": [
+""
+],
+"(Imagine the snail talking to Visken.) \"Enfin... I could see it.\" ": [
+".ViskenIntro==1-"
+],
+"\"Samozřejmě. Tisíc let ticha - a odměna? Povídání s jedním z dračích pěšáků\" ": [
+""
+],
+"\"You might call him an <i>old friend</i>.\" ": [
+".Snell==1-"
+],
+"\"Thanks for the tooth. And thanks for not biting me when I plucked it out.\" ": [
+".ITEMLOOTED_UP_Enchanted_Wisdom_Tooth==1-"
+],
+"(Look at the skeleton in the center, with the...) ": [
+".ITEMLOOTED_UP_Awakened_Roots_Ancient_Helm==0-"
+],
+"(Stare at the roots.) ": [
+".ITEMLOOTED_UP_Awakened_Roots_Ancient_Helm==1-"
+],
+"I really want that helmet. ": [
+".ITEMLOOTED_UP_Awakened_Roots_Ancient_Helm==0-"
+],
+"\"Can you grab the helmet for me, Snell?\" ": [
+".ITEMLOOTED_UP_Awakened_Roots_Ancient_Helm==0-"
+],
+"\"Hey Ettir, can't you burn this bush down or something? You know, with your radiant fire?\" ": [
+".Ettir==1-"
+],
+"\"I am a Druid, obviously.\" ": [
+".DRUID==1-"
+],
+"\"I am a dancing Bard.\" ": [
+".BARD==1-"
+],
+"\"I am a Barbarian of Askanii.\" ": [
+".BARB==1-"
+],
+"\"Can I have that cool helm, please?\" ": [
+".ITEMLOOTED_UP_Awakened_Roots_Ancient_Helm==0-"
+],
+"\"There's a troll over by the Pillar. What do you know about him?\" ": [
+".GourgalashIntro==0-"
+],
+"\"I defeated the troll over there.\" ": [
+".GourgalashIntro==1-"
+],
+"(Try to cast Druidcraft.) ": [
+".Druidcraft==1-"
+],
+"\"What do you think, Snell?\" ": [
+".Snell==1-"
+],
+"\"Ettir, your thoughts?\" ": [
+".Ettir==1-"
+],
+"\"I promise to let you go.\" ": [
+".UP_Juice==0-"
+],
+"\"You think I should open it, Snell?\" ": [
+".Snell==1-"
+],
+"\"Do you have an opinion, Ettir?\" ": [
+".Ettir==1-"
+],
+"\"Meek, you have any thoughts on this?\" ": [
+".Meek==1-"
+],
+"Ha. Yeah, you're not supposed to shake. That's a Freestrider thing, they just show their palms to people. ": [
+""
+],
+"(Turn to Snell and whisper.) \"I don't get it.\" ": [
+".Snell==1-"
+],
+"\"I'm a mystical dancing Bard.\" ": [
+".BARD==1-"
+],
+"\"I'm a great Barbarian of Askanii. Be very afraid.\" (Flex.) ": [
+".BARB==1-"
+],
+"\"I'm a Druid of Norvik. Great Primal magic caster and so on.\" ": [
+".DRUID==1-"
+],
+"\"What do you know about the tea shop explosion?\" ": [
+".QP9_Witness==0-"
+],
+"\"Do you know an elf here on Tolstad?\" ": [
+".Q_Elf>=1-"
+],
+"\"May I interest you in a bottle of milk?\" ": [
+".QP3_Milkurious==1-"
+],
+"Is this the guy who dropped the yellow hat? ": [
+".ITEMLOOTED_CB_Fancy_Hat_Fancy_Hat==1-"
+],
+"\"That's all I've got for now.\" ": [
+".MeriIntro==0-"
+],
+"That's good. Since I gave it back to him. ": [
+".CB_MeriHatGiven==1-"
+],
+"(Hand over the fancy yellow hat.) ": [
+".CB_MeriHatGiven==0-"
+],
+"\"Who did you cast Charm Person on?\" ": [
+".CB_AvengeMoongore==0-"
+],
+"\"Did you cast Charm Person on Moongore?\" ": [
+".CB_AvengeMoongore==1-"
+],
+"Not again...! ": [
+".ESOTERICEVENT>=2-"
+],
+"\"Snell, can the Halfways look away for this one?\" ": [
+".Snell==1-"
+],
+"\"Ouais. Tell us what you know, and I'll get you whatever permit you need. Okay?\" ": [
+""
+],
+"\"A burning invisible man, seen right after the explosion? Ouais. I need to know what he did.\" ": [
+""
+],
+"\"And Jor was not too happy about that.\" ": [
+".JorIsAlive==1-"
+],
+"\"Yes, Snell. We <i>must</i> follow him through the crack.\" (Glare at the Pillar.) ": [
+".Snell==1-"
+],
+"\"I have to go after him. Through the crack.\" (Glare at the Pillar.) ": [
+".Snell==0-"
+],
+"\"Could a sphinx count as an 'ancient being'?\" ": [
+".OlzisIntro==1-"
+],
+"\"What about a <i>lich</i>?\" ": [
+".VL_ViskenRevealed==1-"
+],
+"\"What about an insane demi-lich?\" ": [
+".BondIntro==1-"
+],
+"\"What about a surprisingly polite yet terrifying aberration?\" ": [
+".EvergladIntro==1-"
+],
+"M-\"Hum. Yes, I'll find a way in.\" ": [
+""
+],
+"\"Ouais. Just checking- are you lying about this whole 'invisible smoking bad-guy' thing?\" ": [
+""
+],
+"\"Ouais. You scared?\" ": [
+""
+],
+"\"My bosses? Ouais. They suck.\" ": [
+""
+],
+"Hum. He's looking for a fight. ": [
+""
+],
+"\"So you just travel around a bunch?\" ": [
+".UP_BuggeringTalk==0-"
+],
+"\"Ouais. This is normal. Don't worry,\" he mutters back to her. ": [
+""
+],
+"...And Ettir. ": [
+""
+],
+"\"That's true. We should make sure Ettir gets some questions as well.\" ": [
+".Ettir==1-"
+],
+"\"How about you, Meek?\" ": [
+".Meek==1-"
+],
+"Ouais. Don't shake it. ": [
+""
+],
+"\"Why's it snowing, Snell?!\" ": [
+".Snell==1-"
+],
+"\"Relax, Snell. It's just a little chilly.\" ": [
+".Snell==1-"
+],
+"\"What is that, Snell?\" ": [
+".Snell==1-"
+],
+"\"You don't have to stay here, Ettir.\" ": [
+".Ettir==1-"
+],
+"(Turn to Ettir.) \"Do you speak mushroom?\" ": [
+".Ettir==1-"
+],
+"\"Oh right. You're scared of mushrooms.\" ": [
+".Snell_MushroomFear==1-"
+],
+"\"You have something for me?\" ": [
+".UP_BrrGift==0-"
+],
+"\"I don't think we'll be having a very productive dialogue like this.\" ": [
+".BrrActualTalk==0-"
+],
+"\"I don't want to spend any more spell slots to talk to you, but, uh...\" (Give him a thumbs up.) ": [
+".BrrActualTalk==1-"
+],
+".ITEMLOOTED_UP_Brr_Ioun_Stone,_Insight==1-\"How did you get an Ioun Stone?\" ": [
+""
+],
+"\"Your spores saved me in the fight against the troll. Thank you.\" ": [
+".BrrInFight==1-"
+],
+"\"What exactly are those spores? The ones you <i>gifted</i> me?\" ": [
+".UP_BrrGift==1-"
+],
+"\"Do you know Nessan?\" ": [
+".NessanIntro==1-"
+],
+"\"A <shake>TROLL</shake>?!\" ": [
+".GourgalashIntro==0-"
+],
+"\"Yes, that troll sure was awful.\" ": [
+".GourgalashIntro==1-"
+],
+"\"That's bad.\" (Get nervous.) ": [
+".GourgalashSleepingIntro==0-"
+],
+"\"Oh right. I saw it before. It was just sleeping.\" ": [
+".GourgalashSleepingIntro==1-"
+],
+"\"Make it, THE DANCING BARD OF THE COAST.\" ": [
+".BARD==1-"
+],
+"\"How about, THE GREAT BARBARIAN OF ASKANII?\" ": [
+".BARB==1-"
+],
+"\"Make it out as, A LOCAL FRIENDLY DRUID OF NORVIK.\" ": [
+".DRUID==1-"
+],
+"(Glance at Snell and whisper.) \"That's not a sexual thing, is it?\" ": [
+".Snell==1-"
+],
+"\"I thought you'd tell me.\" ": [
+".Snell==1-"
+],
+"\"What about <i>my</i> light, Ettir?\" ": [
+".Ettir==1-"
+],
+"(Take a breath.) ": [
+".Ettir==0-"
+],
+"(Nod and take a breath.) ": [
+".Ettir==1-"
+],
+"\"Hey, let's explore that larger chamber before we leave.\" ": [
+".Snell==1-"
+],
+"\"What is that thing?\" ": [
+".Snell==1-"
+],
+"...emerging at the bottom of the ruins. ": [
+""
+],
+"...emerging at the top of the cliff. ": [
+""
+],
+"\"We need to get out of here!\" ": [
+".Snell==1-"
+],
+"I know where to aim - to get the HELLS out of here! ": [
+".Snell==0-"
+],
+"\"The middle one!\" (Point it out to Snell.) ": [
+".Snell==1-"
+],
+"\"Snell, we need to go!\" ": [
+".Snell==1-"
+],
+"\"Ettir, can you hold them?\" ": [
+".Ettir==1-"
+],
+"\"Are you alright, Snell?\" ": [
+".Snell==1-"
+],
+"\"Thank you, Ettir?\" ": [
+".Ettir==1-"
+],
+"\"That was intense! Woo!\" ": [
+".Snell==1-"
+],
+"\"We have an angel protecting us now, Snell.\" ": [
+".Snell==1-"
+],
+"\"Right. I forgot to check that cage. Thanks.\" ": [
+".MeriIntro==0-"
+],
+"\"Good question. I got some good info from that Freestrider fellow that Gourgalash had imprisoned.\" ": [
+".MeriIntro==1-"
+],
+"\"Honestly, I think I need to do something really, really esoteric.\" ": [
+".MeriIntro==1-"
+],
+"\"What? No? Who is that?\" ": [
+".EvergladIntro==0-"
+],
+"\"That's a very ominous way to describe him, but yes.\" ": [
+".EvergladIntro==1-"
+],
+"\"Right, the horrific aberration.\" ": [
+".EvergladIntro==1-"
+],
+"\"I got that stuff from Lord Puu.\" ": [
+".CB_PuuLooted==1-"
+],
+"(Gesture towards Snell.) \"You're still...\" ": [
+".Snell==1-"
+],
+"\"Have you met Ettir?\" ": [
+".Ettir==1-"
+],
+"(Whisper.) \"What... what do we do?\" ": [
+".Snell==1-"
+],
+"(Whisper.) \"Can you deal with this thing, Ettir?\" ": [
+".Ettir==1-"
+],
+"R-(Clear your throat and speak politely.) \"<b>Good morning, troll!</b>\" ": [
+""
+],
+"(Look back to Ettir.) ": [
+".Ettir==1-"
+],
+"Wait, how do I attack a sleeping troll? Like, practically? ": [
+".UP_CanBreakToe==0-"
+],
+"(Put your Movable Rod under the troll's foot.) ": [
+".ITEMLOOTED_TS_Strange_Rod_Movable_Rod==1-"
+],
+"...You <i>might</i> be able to talk yourself out of this. ": [
+""
+],
+"(Yell.) \"I AM URTH, RETURNED. TIME TO FINISH THE JOB!\" ": [
+".E_ScaredofUrth==1-"
+],
+"\"Mighty Gourgalash, I have traveled far to beseech you: provide me with the answer to just one question!\" ": [
+".E_GourT1==1-"
+],
+"\"Mighty troll, I have traveled far to beseech you: provide me with the answer to just one question!\" ": [
+".E_GourT1==0-"
+],
+"Cela n'a aucun effet. ": [
+""
+],
+"\"What would you say is your biggest weakness?\" ": [
+""
+],
+"ROLL18 cha-Pretend to be Urth and intimidate the troll. ": [
+""
+],
+"\"I foolishly offered to spare you, and you spit on my forbearance.\" ": [
+".E_Calm==1-"
+],
+"\"You are a violent creature, undeserving of my mercy.\" ": [
+".E_Calm==0-"
+],
+"\"<b>Yes</b>. And, now, I lift my axe.\" ": [
+".ENC_Thoughts==1-"
+],
+"\"And, now, I lift my axe.\" ": [
+".ENC_Thoughts==0-"
+],
+"ROLL16 dex-Dodge and move towards the cliff. ": [
+""
+],
+"\"You think he's dead?\" ": [
+".Snell==1-"
+],
+"A troll king. (Grab the tusk.) ": [
+".Snell==0-"
+],
+"\"A troll king.\" (Grab the tusk.) ": [
+".Snell==1-"
+],
+"\"You see this thing? Cool, huh?\" ": [
+".Snell==1-"
+],
+"(Listen to <i>her</i>.) ": [
+".CB_WallSpoken==1-"
+],
+"\"You were a friend of Isk-Urum, were you not?\" ": [
+".IskIntro==1-"
+],
+"...And the snoring of the <i>troll</i> behind you. ": [
+""
+],
+".ITEMLOOTED_UP_Brr_Ioun_Stone,_Insight==1-Hey, it's just like the one I got from that mushroom man! ": [
+""
+],
+"...top of the ruin. ": [
+""
+],
+"...bottom of the fungal wall. ": [
+""
+],
+"\"You're the one that died. Are <i>you</i> okay?\" ": [
+".SnellDied==1-"
+],
+"\"Gorm was a bastard for casting that spell on you.\" ": [
+".SnellDied==1-"
+],
+"\"It is a pot. How come?\" ": [
+".POT==1-"
+],
+"\"You don't like my helm?\" ": [
+".BUCKET==1-"
+],
+"...Quoi ? I don't understand. (Try to focus on Gorm.) ": [
+""
+],
+"...He's WHAT?! ": [
+""
+],
+"\"I've seen one of those contracts. Darrow is selling all the shipyards in the city.\" ": [
+".QP4_Resistance==1-"
+],
+"\"You killed her.\" ": [
+".Q_Elf==1-"
+],
+"...Something is off. What is he not telling you? ": [
+""
+],
+"\"<i>You</i> brought the Necklace of Fireballs into the city?\" ": [
+".QP12_TeaShop==1-"
+],
+"\"Their <i>Warden of Outreach</i> told me she was a traitor.\" ": [
+".QP7_Elf==1-"
+],
+"\"The elf in the tea shop.\" ": [
+".Q_Elf>=1-"
+],
+"\"Under the temple?\" ": [
+".Secret_Tunnel_Seen==0-"
+],
+"\"What's wrong with your arm?\" ": [
+".JC_Arm==0-"
+],
+"\"The elf didn't have to die, then.\" ": [
+".Q_Elf>=1-"
+],
+"Is this the wrong timing to ask if he wants to buy a bottle of milk? ": [
+".QP3_Milkurious==1-"
+],
+"\"Lord Gorm. Stand by your oath. The Urthguard and every person in Norvik depends on your protection!\" ": [
+".GormConvinceFail==0-"
+],
+"\"Urth would not stand by this. He never would. Do you honestly believe you know better than our god?\" ": [
+".GormConvinceFail==1-"
+],
+"I... I don't know what else to say. ": [
+".GormConvinceFail>=2-"
+],
+"\"I'm <b>The Cleric</b>.\" ": [
+".CLERIC>=2-"
+],
+"\"I'm just a rogue.\" ": [
+".ROGUE>=2-"
+],
+"\"You may address me as Wizard.\" ": [
+".WIZARD>=2-"
+],
+"\"Call me <i>The Dancing Bard</i>.\" ": [
+".BARD_Choice>=2-"
+],
+"\"Barbarian of Askanii. That's all I am.\" ": [
+".BARB_Choice>=2-"
+],
+"\"A friendly local druid.\" ": [
+".DRUID_Choice>=2-"
+],
+"\"Lord Gorm is dead.\" ": [
+".EttirPickedUp==0-"
+],
+"\"Lord Gorm is-\" ": [
+".EttirPickedUp==1-"
+],
+"Bon. As in, what can-ya do? ": [
+""
+],
+"(Take the Flame Tongue.) ": [
+".GrabTheFlameTongue<=26-"
+],
+"What's happening? ": [
+".GrabTheFlameTongue==5-"
+],
+"I AM taking it! ": [
+".GrabTheFlameTongue==11-"
+],
+"I don't know what to do. I don't know what to do. ": [
+".GrabTheFlameTongue>=27-"
+],
+"(Try anything and receive nothing.) ": [
+".GrabTheFlameTongue>=1-"
+],
+"A EFFILOCHURE. ": [
+""
+],
+"...Can't I do anything else? ": [
+""
+],
+"No- his left. I'll focus on his arm! (Take a quick step to his left.) ": [
+".E_Weakside==1-"
+],
+"\"I'd prefer to <i>live</i>, actually.\" (Focus on staying alive.) ": [
+".E_SwordDropped==0-"
+],
+"\"You sure get talkative when your sword is on the ground!\" ": [
+".E_SwordDropped==1-"
+],
+"\"Quoi ? That's not a <i>yield</i>?! That's an execution!\" ": [
+""
+],
+"(Midriff, lower right. Punch.) Right <i>after</i> his attempt to block. ": [
+""
+],
+"...king of Askanii. ": [
+""
+],
+"...a walking god. ": [
+""
+],
+"...the Trade Prince of Norvik. ": [
+""
+],
+"...a folk hero. ": [
+""
+],
+"...a woman. Her face is blank. No feelings. No opinions. ": [
+""
+],
+"...an old man. Not your father. ": [
+""
+],
+"\"I'm too cool of a rogue... to die here.\" ": [
+".ROGUE>=3-"
+],
+"\"A wizard... does not kneel... to some <i>fallen paladin</i>.\" ": [
+".WIZARD>=3-"
+],
+"\"I am a dancing bard. And my soul will never stop jiggin'...\" ": [
+".BARD_Choice>=2-"
+],
+"\"I am FLESH INCARNATE. A true <shake>ASKANII BARBARIAN</shake>...!\" (Snarl.) ": [
+".BARB_Choice>=2-"
+],
+"\"You have debased your very nature, Gorm. You cannot exist like this.\" (Sound druidic.) ": [
+".DRUID_Choice>=2-"
+],
+"\"What did you cast on Snell?!\" ": [
+".SnellCursed==1-"
+],
+"...That's not very good. (Try to look up and fail.) ": [
+""
+],
+"Well,     that's...      <i>sad</i>...     (Die.) ": [
+".EttirPickedUp==0-"
+],
+"Well,     that's        sad. ": [
+".EttirPickedUp==1-"
+],
+"\"You JUST resurrected <i>me</i>, Ettir! Do it to Snell! Now!\" ": [
+".JC_EttirRez==1-"
+],
+"(Look to Ettir.) ": [
+".JC_EttirJoined==1-"
+],
+"(Attempt to cast Cure Wounds.) ": [
+".PREPARED_Cure_Wounds==1-"
+],
+"\"I don't have Revivify.\" ": [
+".Revivify==0-"
+],
+"\"Revivify. I have Revivify.\" ": [
+".Revivify==1-"
+],
+"Is there NOTHING I can do?! ": [
+".SnellDead_Counter>=1-"
+],
+"(Pray for his soul.) ": [
+".SnellDead_Counter>=1-"
+],
+"(Close his eyes and let him go.) ": [
+".SnellDead_Counter>=1-"
+],
+"\"I just need to... cast it.\" (Look over your spell slots.) ": [
+".PREPARED_Revivify==1-"
+],
+"\"I just need to prepare it.\" (Look for a shrine.) ": [
+".PREPARED_Revivify==0-"
+],
+"\"I didn't prepare Revivify, Snell. I only prepared Speak with Dead.\" ": [
+".PREPARED_Revivify==0-"
+],
+"(Realize you don't have 300 crowns.) ": [
+".CROWNS<=299-"
+],
+"\"Ettir, do you have 300 crowns?\" ": [
+".JC_EttirJoined==1-"
+],
+"\"Yep. You owe me.\" ": [
+".SnellRevivify==1-"
+],
+"\"Of course I did.\" ": [
+".SnellRevivify==1-"
+],
+"(Nod and hold back tears.) ": [
+".SnellRevivify==1-"
+],
+"\"You're a <i>much better</i> lottery corpse, Snell.\" (Take a deep breath.) ": [
+".Snell_IfIEver==1-"
+],
+"\"You're welcome.\" (Take a deep breath.) ": [
+".Snell_IfIEver==0-"
+],
+"\"They're temporary. Normally I wear Urthguard Standards.\" ": [
+".SPEED==1-"
+],
+"\"Of course. What else?\" ": [
+".SPEED==0-"
+],
+"\"Why are you voting Freestrider?\" ": [
+".VL_Pinja_Freestrider==1-"
+],
+"\"Why were you at the tea shop?\" ": [
+".VL_Pinja_Meeting==0-"
+],
+"\"What was this meeting you had planned in the tea shop?\" ": [
+".VL_Pinja_Meeting==1-"
+],
+"\"Who actually came to this meeting?\" ": [
+".VL_Pinja_Meeting==1-"
+],
+"\"Snell. I know this elf.\" ": [
+".Snell==1-"
+],
+"\"Hold on, Snell. That could be really deep and meaningful information.\" ": [
+".Snell==1-"
+],
+"\"It's an elf?\" ": [
+".Snell==1-"
+],
+"Perfect. What did I learn? ": [
+".Snell==0-"
+],
+"\"Still not sure about that.\" ": [
+".VL_Pinja_Friend==1-"
+],
+"\"Snell. I saw the elf <i>after</i> the explosion.\" ": [
+".VL_Pinja_Friend==1-"
+],
+"\"My head is a mess. But...\" ": [
+".QP6_River==0-"
+],
+"\"I was <i>resurrected</i> by your master.\" ": [
+".QP6_River==1-"
+],
+"\"Vrai. It's really annoying.\" ": [
+""
+],
+"\"No. It's mine.\" (Clutch it to your chest like a baby.) ": [
+".OstCrossbowGot==1-"
+],
+"\"Your dark business ends. Now.\" ": [
+""
+],
+"\"What do you want me to do?\" ": [
+".VL_SwearOath==0-"
+],
+"<u>\"I'll swear an oath to you. I will serve.\"</u> ": [
+".VL_SwearOath==1-"
+],
+"\"Power is shifting in Norvik. After the election, the new eyes won't be too happy working with a former Arcanist.\" ": [
+""
+],
+"\"Happy doing business with you.\" ": [
+".TS_ViskenBribe==1-"
+],
+"\"So you're okay with this as it is? I don't have to expect to get murdered in the future?\" ": [
+".TS_ViskenBattle==1-"
+],
+"\"So I won't have to serve you or anything?\" ": [
+".ViskenOath==1-"
+],
+"...and your surroundings, of course. This will be your Magnum Arcanus. ": [
+""
+],
+"...perhaps this was a poorly thought-out idea. ": [
+""
+],
+"ROLL12 cha-Trick the \"helpers\" first. ": [
+""
+],
+"... and your surroundings, of course. That'll make it harder to hit you. ": [
+""
+],
+"\"Hey, Ost. You're not ever getting your crossbow back, you little shit.\" ": [
+".OstCrossbowGot==1-"
+],
+"(Look to the dark knight.) \"<i>This</i> is what actual manhood looks like.\" ": [
+".TU_BorgoMANHOOD==1-"
+],
+"(Turn to Kraaid.) \"Oh, and your slogdogs are fucking disgusting.\" ": [
+".CB_KraaidSlogdogWin==1-"
+],
+"\"Hey, Remember when I glassed your face, Razz? You looked real fucking dumb.\" ": [
+".DS_RazSmashed==1-"
+],
+"Visken t'a rendu service. ": [
+""
+],
+"\"Don't complain, Snell. This is important research.\" ": [
+".Snell==1-"
+],
+"Right. I need to get my hands on Comprehend Languages. ": [
+".Comprehend_Languages==0-"
+],
+"...Oh mon dieu. It's... ": [
+""
+],
+"\"I can't seem to figure you out.\" (Recommence.) ": [
+".BorgoRevealed==0-"
+],
+"\"You too, Agent Viira.\" (Partir.) ": [
+".QP11_Sea==0-"
+],
+"\"I get the hint.\" (Partir.) ": [
+".QP11_Sea==1-"
+],
+"...I can dodge it! ": [
+".ENC_SideStep==1-"
+],
+"L'assassin a disparu. ": [
+""
+],
+"<>I do scribin' most days. Got some connections within the Palace, and believe me, phew! That's gotten me through some tough times.\" #Braxo #LOC_181 ": [
+""
+],
+"ROLL5 wis-Try meditate on it. ": [
+""
+],
+"\"Merci. I invented boots, you know.\" ": [
+".Snell==1-"
+],
+"\"It is.<> #LOC_578 ": [
+""
+],
+"\"Well it's just...<> #LOC_574 ": [
+""
+],
+"A uni son peuple contre quelque chose. ": [
+""
+],
+"\"Is the Magistrate...?\" (Point to the stairs.) ": [
+".DarrowIntro==0-"
+],
+"\"I spoke with the Magistrate.\" ": [
+".DarrowIntro==1-"
+],
+"\"Darrow's letting me stay in your tower.\" (Show her the key.) ": [
+".DarrowIntro==1-"
+],
+"\"...You're still here, Snell?\" ": [
+".Snell==1-"
+],
+"What do I know about Celestials like her? ": [
+".EttirCompanionUnlock==0-"
+],
+"\"Will you join my party? You seem like a strong companion.\" ": [
+".EttirCompanionUnlock==0-"
+],
+"\"There's a masked assassin running around trying to kill me.\" ": [
+".ASSASSIN==1-"
+],
+"\"You are an ethereal, yet also imposing woman.\" (Attempt to flirt.) ": [
+".GT_EttirFlirting==0-"
+],
+"\"Can I come with, on your patrol?\" ": [
+".EttirCompanionUnlock==0-"
+],
+"\"So you helping out down on the Undercoast Path... that's a part of your contract too?\" ": [
+".EttirCompanionUnlock==1-"
+],
+"...You're gonna run into this guy again, aren't you? ": [
+""
+],
+"\"That's not fair. They're clearly stronger than they look.\" (Turn around and give Snell a thumbs up.) ": [
+".Snell==1-"
+],
+"\"That's not fair. They're clearly stronger than they look.\" ": [
+".Snell==0-"
+],
+"Cette femme a servi Urth.": [
+""
+],
+"<i>To miasto, gdzie rozum sczezł</i>.": [
+""
+],
+"\"Why not go back to the Golden Horde?\" ": [
+".GT_EttirHorde==1-"
+],
+"\"No, but I'm planning to.\" ": [
+".City_Below_Seen==0-"
+],
+"\"I've entered the dungeons below, yes.\" ": [
+".City_Below_Seen==1-"
+],
+"\"Of course. I've already delved all the way down to Upperhollow Ridge.\" ": [
+".Undercoast_Path_Seen==1-"
+],
+"\"Oh, the troll? Yeah, I've already dealt with him.\" ": [
+".GourgalashIntro==1-"
+],
+"L'ange a tort.": [
+""
+],
+"\"I think I would say that I am somewhere around terribly exhausted and absolutely delirious.\" ": [
+".EXHAUSTION>=5-"
+],
+"\"Surprisingly, I'm not very tired at all. I could keep on going for a while longer.\" ": [
+".EXHAUSTION<=4-"
+],
+"Wait... I haven't gone to Waterlane yet. I should... do that? ": [
+".Waterlane_View_seen==0-"
+],
+"Oh. All the way back down... to Waterlane? ": [
+".Waterlane_View_seen==1-"
+],
+"I am... so exhausted. Like, <i>way</i> too exhausted to head out. Right? ": [
+".EXHAUSTION>=5-"
+],
+"...What kind of trouble are we talking about here? ": [
+""
+],
+"(Wait until it's late enough to sleep, since you're so exhausted.) ": [
+".Can_Sleep==0-"
+],
+"(Wait until you get rid of all your exhaustion.) ": [
+".Can_Sleep==0-"
+],
+"Lie down. (Take a long rest.) ": [
+".Can_Sleep==1-"
+],
+"Can I go to sleep? ": [
+".Can_Sleep==0-"
+],
+"Can I go to sleep now? ": [
+".Can_Sleep==1-"
+],
+"I'm not feeling too good. ": [
+".WELL_RESTED==0-"
+],
+"I fell asleep quickly for once. ": [
+".DAY==2-"
+],
+"I have the weirdest dreams. ": [
+".DAY==2-"
+],
+"Question: who cares if I actually complete this mission or not? ": [
+".DAY==2-"
+],
+"I have so much stuff to do today. ": [
+".DAY==3-"
+],
+"I'm starting to get used to this tower. ": [
+".DAY==4-"
+],
+"Two days till the election. ": [
+".DAY==4-"
+],
+"This is it. My last day to finish this. ": [
+".DAY==5-"
+],
+"...bottom of the ladder. ": [
+""
+],
+"...top of the ladder. ": [
+""
+],
+"\"You're the best help, Snell. Don't you worry.\" (Give him a thumbs up.) ": [
+".Snell==1-"
+],
+"\"I'll do it. I'll get you that contract.\" ": [
+".QP4_Resistance==0-"
+],
+"\"I found the documents.\" ": [
+".QP4_Resistance==1-"
+],
+"\"You want me to go invite Modissa?\" ": [
+".Q_Deal==1-"
+],
+"\"I have some questions about the tea shop.\" ": [
+".Q_TeaShop>=1-"
+],
+"Should I mention the fact that I resurrected his father? ": [
+".QP3_Pieces==1-"
+],
+"\"In fact, I already have it. Right here.\" ": [
+".GotContract>=1-"
+],
+"\"I'll do it as a service to the city.\" ": [
+".GotContract==0-"
+],
+"\"I'm intrigued. But we'll see if I'm able to get it.\" ": [
+".GotContract==0-"
+],
+"(Hand him the Orange Ledger.) ": [
+".GotContract==1-"
+],
+"\"No. I gave it back to Agent Viira.\" ": [
+".QP6_Resistance==1-"
+],
+"\"It's time to... <i>pussy up</i>.\" ": [
+".PUSSYUP==1-"
+],
+"\"Yeah, I've been there. I'll go talk to her.\" ": [
+".ModissaIntro==1-"
+],
+"\"Only humans and dwarves should be allowed in Norvik. And halflings. Maybe goblins too, they're pretty cool.\" ": [
+".Snell==0-"
+],
+"\"Only humans and dwarves should be allowed in Norvik. And halflings. Maybe goblins too, they're pretty cool.\" (Wink at Snell.) ": [
+".Snell==1-"
+],
+"Quoi ?That's rude. ": [
+""
+],
+"(Grab Rollo by the shoulders.) \"You gotta <i>pussy up</i>, man.\" ": [
+".PUSSYUP==1-"
+],
+"\"Do you like milk, kid?\" ": [
+".QP3_Milkurious==1-"
+],
+"\"The Urthguard is a good place for guys your age. You'll learn a lot.\" (Point towards Urth-Nisse.) \"And you could be a cleric, instead of a future arsonist.\" ": [
+".Rollo_UrthguardRecommendation==1-"
+],
+"\"Are you done?\" ": [
+".ENC_RagnFirst==0-"
+],
+"\"You boys are way too rash. Let's calm things down a notch.\" ": [
+".ENC_RagnFirst==1-"
+],
+"\"I'll write you a recommendation each. Go join the Urthguard.\" ": [
+".Rollo_UrthguardRecommendation==0-"
+],
+"\"Take the Urthguard recommendation I gave you, and go. Now.\" (Make them leave.) ": [
+".Rollo_UrthguardRecommendation==1-"
+],
+"\"Take the Urthguard recommendation I gave you, and use them later. But for now... you can stay here.\" ": [
+".Rollo_UrthguardRecommendation==1-"
+],
+"\"You think I did good, Snell?\" ": [
+".Snell==1-"
+],
+"(Whisper to your scarf.) \"Always assume the worst. Expect the terrible. And <i>feel</i> the <i>heat</i>.\" ": [
+".Meek==1-"
+],
+"\"If they closed down, why is the mill spinning?\" ": [
+".Snell==1-"
+],
+"(Navigate the darkness.) ": [
+".LIGHT==0-"
+],
+"\"Are you getting political with me, Snell?\" ": [
+".Snell==1-"
+],
+"\"It's awful.\" ": [
+".Snell==1-"
+],
+"(Put it away and continue.) ": [
+".Snell==0-"
+],
+"\"Meek, what do you make of this?\" ": [
+".Meek==1-"
+],
+"\"What sort of painting do you think it was, Snell?\" ": [
+".Snell==1-"
+],
+"(Look closer at the frame.) ": [
+".TE_SecretDoorRevealed==0-"
+],
+"I don't think I can move this table. ": [
+".Snell==0-"
+],
+"Even with Snell, this is really heavy... ": [
+".Snell==1-"
+],
+"(Check out the head.) ": [
+".TE_CanCheckHead==1-"
+],
+"\"Woman. Unknown age. She crawled up in this position moments before the explosion. She did not suffer.\" ": [
+".Snell==1-"
+],
+"...And why is that good, exactly? ": [
+""
+],
+"\"Look at the ears, Snell.\" ": [
+".Snell==1-"
+],
+"\"I can't cast third level spells yet, though.\" ": [
+".LEVEL<=3-"
+],
+"\"Don't be so negative.\" ": [
+".Snell==1-"
+],
+"\"Just a souvenir.\" ": [
+".Snell==1-"
+],
+"(Ignore the goblin.) ": [
+".Snell==1-"
+],
+"\"Sorry, what?\" (Look down at your scarf.) ": [
+".Meek==1-"
+],
+"(Check the copper chamber at the top.) ": [
+".TE_ClueLeaves==0-"
+],
+"(Check the output valve.) ": [
+".TE_ClueLeaves==0-"
+],
+"(Bring up your simple hammer to smash the valve with a force only musterable by true iron and true, bulging muscles.) ": [
+".HAMMER==1-"
+],
+"\"It's not so bad, Snell. Don't be dramatic.\" ": [
+".Snell==1-"
+],
+"\"Possibly. Truly a possibility.\" ": [
+".Snell==1-"
+],
+"\"You like reading, Snell?\" ": [
+".Snell==1-"
+],
+"\"It can't even be burnt?\" ": [
+".Snell==1-"
+],
+"\"...Is it any good?\" (Glance at the magazine.) ": [
+".Snell==1-"
+],
+"\"The magical elven brooch was damaged, but not this?\" ": [
+".TE_ClueBrooch==1-"
+],
+"What... what do I do?! ": [
+".Snell==0-"
+],
+"\"Your thoughts on this chamber, Snell?\" ": [
+".Snell==1-"
+],
+"(Pry away the scorched stone.) ": [
+".DrummerSafeCode==0-",
+".DrummerSafeCode==1-"
+],
+"(Enter the safe's entry code.) ": [
+".DrummerSafeCode==1-"
+],
+"Oh.You did it! That's the correct rotation! ": [
+""
+],
+"(Look at the note inside the safe.) ": [
+".TE_SecretDoorRevealed==0-"
+],
+"(Check the watery one, with a bunch of eternally fizzling red flakes floating around in it.) ": [
+".Snell==1-"
+],
+"(Check the one that glows faintly yellow at the bottom half, and faintly purple at the top half.) ": [
+".ST_GenderSwap==0-"
+],
+"(Check the clear liquid bottle with a tiny label and several clear-white eyeballs inside.) ": [
+".ST_Amnesia==0-"
+],
+"\"Really? How come? Are they cursed?\" ": [
+".Snell==1-"
+],
+"\"Why do you have to be so negative, Snell? I don't see anything wrong with wanting to get rid of excess body fat.\" ": [
+".Snell==1-"
+],
+"\"Who would want to drink this?\" ": [
+".Snell==1-"
+],
+"\"I lost a few seconds there. But I'm fine otherwise.\" ": [
+".Snell==1-"
+],
+"\"It's okay, Snell. I remember.\" ": [
+".Snell==1-"
+],
+"\"Levers can sometimes be used for other stuff too, you know.\" ": [
+".Meek==1-"
+],
+"\"You don't want to... pull the lever with me, Snell?\" ": [
+".Snell==1-"
+],
+"(Pull the lever.) ": [
+".TE_ST_Open==0-"
+],
+"The lever appears stuck? ": [
+".TE_ST_Open==1-"
+],
+"...Why would a drawbridge use a lever? ": [
+""
+],
+"(Take the notepad.) ": [
+".ST_NotepadStuck==0-"
+],
+"(Give it to Snell.) ": [
+".Snell==1-"
+],
+"(Take it out again.) ": [
+".Snell==1-"
+],
+"\"Buttons can sometimes be used for other stuff too, you know.\" ": [
+".Meek==1-"
+],
+"\"You don't want to... press the button, Snell?\" ": [
+".Snell==1-"
+],
+"(Press the button with a single finger.) ": [
+".ST_TU_Open==0-"
+],
+"(Press it.) ": [
+".ST_TU_Open==1-"
+],
+"(Grab a handful of Griffon Fodder Goodies.) ": [
+".ST_GriffonFodder==0-"
+],
+"(Try to hit Snell.) ": [
+".Snell==1-"
+]
+}
