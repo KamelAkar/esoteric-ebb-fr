@@ -1,0 +1,501 @@
+idx	french
+0	Tu fais un pas dans le bureau exigu, te tenant devant un halfelin endormi.
+1	Ça, c'est un savant ?
+2	<i>Maudits soient les dieux</i> - va fouiller sa collection de livres avant de réveiller le fainéant halfelin.
+3	C'est pas un gnome, ça ?
+4	Quelle est la différence ?
+5	(Donner un coup de pied au fauteuil.)
+6	« <b>Bonne matinée, citoyen</b> ! »
+7	« Ohé ? »
+8	E-Je vais le laisser tranquille pour l'instant.
+9	L'esthétique, <b>uniquement</b>.
+10	Ils t'assurent qu'il y a une nette différence biologique et ésotérique, mais tu sais que ce sont des balivernes.
+11	Ils sont petits. Ils sont trapus. C'est pareil.
+12	C'est réducteur et faux.
+13	Ne pense même pas des choses pareilles.
+14	« Gah ! » s'exclame-t-il en ouvrant grand ses yeux broussailleux.
+15	« Oh...! » marmonne-t-il en écarquillant ses yeux broussailleux.
+16	« Oh... » gémit-il en ouvrant lentement ses yeux broussailleux.
+17	Son regard confus se focalise sur toi.
+18	« <i>La vie est douleur</i>. »
+19	« Quoi ? »
+20	(Le fusiller du regard.)
+21	(Donner un coup de pied au fauteuil.)
+22	« <b>Gah...!</b> »
+23	« Du calme », dit-il, tentant de dissimuler un sourire en coin.
+24	« Arrête ! T'es un dément ?! »
+25	« Non. Je suis <b>le Clerc</b>. »
+26	« Réveille-toi. »
+27	« Désolé. J'ai dû le faire. »
+28	« Clairement », dit-il, en grognant.
+29	« Je suis en train de le faire ! » crie-t-il, puis il grogne.
+30	« Je ne suis pas d'accord », te dit-il, en grognant.
+31	« Une terrible, terrible douleur. <i>Oh...</i> » marmonne-t-il en se frottant le visage.
+32	Les rides se replient les unes sur les autres comme des vagues sur une mer chargée d'histoires.
+33	Il est plutôt vieux. Et fatigué.
+34	« Es-tu... »
+35	Il te regarde de son expression lasse. Puis il se frotte le nez et renifle deux fois.
+36	« Es-tu là pour la facture ? »
+37	Un rapide coup d'œil vers Snell.
+38	Ses mots sortent avec un accent typique de Fordnip.
+39	Ses mots sortent avec un accent halfelin guindé.
+40	« ...Quoi ? »
+41	« Non ? »
+42	« La <shake>facture</shake> ! »
+43	« J'ai aucune facture. Pas pour toi, du moins. »
+44	« Ah non ? »
+45	« Non. »
+46	« Oh. »
+47	« Oh ? »
+48	« <b>Gah !</b> »
+49	Il agrippe les accoudoirs du fauteuil.
+50	« C'était légèrement inutile », te dit Snell.
+51	« Arrête ces <i>coups de pied</i> ! »
+52	« C'est fini. » (Sourire, malgré le fait que personne ne peut le voir.)
+53	« ...Je suis pas encore mort, bon sang. »
+54	« Oh. Attends. »
+55	« J'ai déjà payé cette facture ! Tu es là pour autre chose. »
+56	Il se penche, face à Snell. « J'espère que la reine gobeline n'a nul grief contre ce vieux savant ? »
+57	Il lève une paume. « Nan. On est là pour affaires municipales. »
+58	« Oui, j'ai quelques questions sur le salon de thé, surtout. »
+59	« J'explore des bâtiments au hasard, et le tien était ouvert. »
+60	« Un salon de thé ? Alors tu as affaire à des événements intéressants. »
+61	« La cité a connu sa part de grandes calamités au fil des ans, et l'explosion du salon de thé paraît minuscule en comparaison. »
+62	« Minuscule ? Non. C'est une énorme conspiration. »
+63	« Probablement. Mais j'ai quelques questions malgré tout. »
+64	« Une énorme ? Mieux vaut t'en occuper, alors. »
+65	« Bien sûr ! »
+66	« C'est pas... »
+67	« Alors tu es un intrus aux intentions bienveillantes ? »
+68	« ...J'imagine que c'est pas trop loin du compte. »
+69	« La curiosité est absolument vitale pour garder le vieux cerveau en mouvement. Alors je te félicite, Clerc ! »
+70	« Et toi aussi, mon ami gobelin. » Il regarde autour, en grognant. « Je peux vous servir de la <i>putain</i> d'eau, à l'un ou l'autre, ou...? »
+71	Il manie les jurons comme les vents de la Côte.
+72	Tu aimes bien ce type. Il est comme un chien enragé, sans les morsures. Jusqu'ici.
+73	Ce halfelin est déchaîné. D'une façon amusante.
+74	« Non merci », répond très vite ton compagnon. « Vous êtes le Savant Appledent, pas vrai ? »
+75	« Moi ? Oui ! »
+76	« Je suis <b>Snurre Appledent</b> », dit-il en inclinant la tête dans son fauteuil. « Savant de l'Université de Fordnip, au service dévoué du progrès des ÉIA. »
+77	« Mais qu'est-ce que vous faites exactement ? »
+78	« Les ÉIA ? »
+79	« Vous étudiez l'alignement ? »
+80	« Bien des choses ! »
+81	« Études de l'Intention d'Alignement. »
+82	« Entre autres choses. »
+83	« Principalement, mon expertise porte sur le thème de l'alignement, et ses nombreuses applications historiques et contemporaines. Quelques <i>conneries</i>, je te le dis. »
+84	« Ces jours-ci je m'occupe surtout d'autres formes d'étude. Précisément, je fais tourner ce bureau sur la technique expérimentale de la psychanalyse. »
+85	Ah, oui. C'est un savant de Cividix. La psychanalyse moderne est une ramification de ses méthodes.
+86	« C'est quel genre de magie, ça ? »
+87	« La méthode Cividix ? »
+88	« Aucune magie. Bien qu'il y ait eu un peu de <i>Détection des Pensées</i> impliquée à certains stades du développement. »
+89	« Tu lis ! Une merveille du métier de clerc ! »
+90	« C'est une forme de guérison de l'esprit, comme ils l'appellent. Moi, je l'appellerai plutôt "soutien". »
+91	« C'est essentiellement l'idée que le présent mental est façonné par le passé mental. Et qu'à travers le dialogue, nos <b>fantômes</b> inconscients non libérés peuvent être vaincus. »
+92	« ...Un exorcisme ? »
+93	« Alors c'est... parler... de <i>sentiments</i> ? »
+94	« Vous pouvez pas juste lancer un sort de soin ? »
+95	« ...Presque ! »
+96	« Bien que les fantômes soient métaphoriques, ce n'est vraiment pas si différent de l'expulsion d'une possession nécrotique. »
+97	« Je sais. Véritablement horrifiant. »
+98	« Si seulement ! L'esprit est hélas un peu plus compliqué que ça- au point où même les grands Arcanistes n'ont pu créer un vrai sort de guérison de l'esprit. Alors cette technique y supplée. »
+99	« Un ami reedsien m'a raconté cette blague une fois, et je m'excuse si elle est trop vulgaire pour ton goût, mais », débite-t-il entre de petits gloussements.
+100	(Écouter la blague vulgaire.)
+101	« À quel point vulgaire ? »
+102	« J'ai pas le temps pour une blague. »
+103	« Très vulgaire ! »
+104	« C'est à propos des parties intimes d'une femme. »
+105	(Se pencher.) « Poursuis. »
+106	« Alors je passe. Je suis sensible sur ce genre de trucs. »
+107	« C'est ça. »
+108	« Un Clerc, un Arcaniste et un Roublard s'enfoncent dans l'antre d'une succube ! »
+109	« La démone les défait tous les trois, les jetant dans son cachot. »
+110	« Mais elle finit par les apprécier, alors elle leur offre un choix : pour chaque homme qui parvient à la satisfaire, elle laissera cet homme partir. Sinon », dit-il avec de petits accès de rire, « elle les achève, pour ainsi dire. »
+111	Ça va être un long récit.
+112	Tu n'as en fait jamais entendu celle-là.
+113	Si elle est sacrilège, tu devras rosser le gnome.
+114	« Ho, ho, ho... »
+115	« Une succube ? Une telle démone n'offrirait jamais de tels termes à des hommes mortels. »
+116	« Quel récit tapageur. Poursuis donc. »
+117	(Acquiescer du chef.)
+118	« D'accord, je regrette. Je vais passer la blague, s'il te plaît. »
+119	« Oui, oui. Laisse-moi raconter la blague. »
+120	« Alors les trois aventuriers débattent de l'ordre de passage. Finalement le Roublard et l'Arcaniste décident que le Clerc passera en premier, vu qu'il est puceau et le moins susceptible d'augmenter ses exigences. »
+121	Ton compagnon gobelin se frotte les yeux en écoutant la blague.
+122	« Le Clerc, étant divin et tout, prie son dieu et se rend dans la chambre de la démone. Il en ressort dix minutes plus tard, complètement indemne, et fait un pouce en l'air à ses deux amis, qui bien sûr ressentent tous deux un grand soulagement. »
+123	« L'Arcaniste entre ensuite, confiant et arrogant. Si le Clerc a pu le faire, la démone doit être facile ! En quelques minutes, ses os roulent hors de l'entrée de la chambre, l'homme ayant été incinéré par des flammes infernales. »
+124	« Le Roublard est horrifié, mais réalise : évidemment, l'Arcaniste a surestimé ses capacités. Alors il entre prudemment dans la chambre, prêt à y mettre chaque once d'effort. »
+125	« Moins d'une minute plus tard, des cris jaillissent de la chambre, et le cadavre sans vie du Roublard retombe hors de l'entrée. »
+126	« Le Clerc prie pour les âmes de ses camarades et rassemble leurs restes pour l'inhumation. La succube sort, fumant une cigarette. Elle dit au Clerc : <i>Ma foi, tes amis étaient vraiment lamentables. Ils ne faisaient que tâtonner là en bas. Toi au moins tu as réussi à y toucher un peu</i>. »
+127	« Ce à quoi le Clerc répond : <i>Tu es véritablement une créature atroce et je prierai pour que ta présence soit exorcisée de ce plan d'existence chaque jour jusqu'au jour de ma mort.</i> »
+128	« Puis, avant de s'éloigner, le Clerc ajoute aussi : <i>Oh, mais j'ai bien soigné cette horrible plaie que tu avais entre les jambes. Espérons que ça te rende moins maléfique à l'avenir</i>. »
+129	Le gobelin lâche un léger souffle d'air par le nez.
+130	(Rire fort.) « Je la comprends ! »
+131	« Je la comprends pas. »
+132	« Drôle. »
+133	« Pas drôle. »
+134	« J'ai pas ri. »
+135	Le halfelin glousse bruyamment.
+136	« Mon genre d'humour, on pourrait dire. »
+137	« En bref, tu peux voir la succube comme un mal dans le monde que la ferveur religieuse prierait de réparer- cependant, une telle réparation pourrait souvent mener à un chemin pas-si-optimal. »
+138	Il continue de rire.
+139	« Ou, plus simplement, tu pourrais dire que c'est une allégorie basique de l'alignement lui-même. Le Clerc était bien intentionné en tout point, mais ses actes ont coûté la vie de ses deux camarades. Est-ce mal ? Ou est-ce bien ? Et ainsi de suite. »
+140	Le halfelin hoche la tête. « Je comprends, je comprends. Pas de blagues. Les clercs sont très sérieux, je comprends. »
+141	« Quoi qu'il en soit, euh... la <i>psychanalyse</i>. Oui, c'est de ça qu'on parlait. »
+142	« Ça concerne tes sentiments, tes pensées... tes souvenirs. Les choix que tu as faits. Les choses qui te sont arrivées. »
+143	« Ça peut te <i>plomber</i>, pour ainsi dire. Et le but dans ma pratique clinique est d'extirper ça de l'esprit de mes patients, et de les aider à prendre conscience des <i>bagages</i> négatifs refoulés, si tu veux. »
+144	« Pour qu'on puisse avancer plus vivement. »
+145	« J'ai aucun sentiment négatif refoulé. »
+146	« Ça ressemble à lever une malédiction de l'esprit. »
+147	« Je m'en fiche vraiment. »
+148	« Une affirmation audacieuse ! »
+149	« Au sens métaphorique, oui. »
+150	« C'est juste. Beaucoup s'opposent à ce type de pratique. »
+151	« Mais ce n'est pas la seule chose sur laquelle je travaille ici. J'explore actuellement le <b>rêve d'Anima, Animus</b>. »
+152	Ça a quelque chose à voir avec la masculinité et la féminité. Basé sur les idées de Cividix.
+153	Un rêve d'homme et de femme.
+154	Quel pervers. Tu aimes bien ce type.
+155	« Vous explorez les hommes et les femmes ? »
+156	« Vous rêvez d'hommes et de femmes ? »
+157	« Ça a l'air intéressant. »
+158	« Ça a l'air ennuyeux. »
+159	« Formulation malheureuse, mais oui. »
+160	« Parfois ! »
+161	« Mais le "rêve" n'est qu'un concept pour comprendre les idéologues du genre. »
+162	« En effet ! »
+163	« Je ne suis pas d'accord ! »
+164	« Au-delà de ça, je me concentre aussi beaucoup sur mes propres théories non vérifiées... »
+165	Il se tape les genoux et sourit largement.
+166	« <b>L'Esprit du Peuple</b>. En as-tu entendu parler ? »
+167	C'est quelque chose qu'il a inventé. Ça ne veut pas dire que c'est faux, cela dit.
+168	Ça a l'air d'une vision morale collective d'un peuple.
+169	« Non. Jamais. »
+170	« Est-ce une sorte de code moral ou éthique unifié d'un peuple ou d'une culture ? »
+171	« Oui. »
+172	« Compréhensible. Ce n'est pas encore publié. »
+173	« Non, c'est- »
+174	Il se cale en arrière et plisse les yeux.
+175	« Ce n'est en fait pas si loin du compte. Tu as une tête bien faite, Clerc. »
+176	« Oh ! »
+177	« Alors dis-moi, qu'est-ce que c'est ? »
+178	« J'ai menti. J'ai aucune idée de ce dont tu parles. »
+179	Le déchiffrer.
+180	Ah...
+181	Regarde juste ce halfelin.
+182	Il marche clairement dans les pas de l'étude de la fusion inconsciente des esprits.
+183	Ta meilleure supposition serait donc...
+184	« L'Esprit du Peuple... est-ce basé sur l'idée des mythes populaires universels ? »
+185	Ses sourcils broussailleux montent vers le plafond.
+186	« Mais oui ! Très bonne supposition, Clerc. »
+187	Tu fixes le halfelin pendant environ trente secondes.
+188	« T'es un taiseux, Clerc. »
+189	Une idée surgit dans ton crâne vide, vide.
+190	« L'Esprit du Peuple est un fantôme communautaire qui nous hante chaque automne. »
+191	« L'Esprit du Peuple est un grand vin fordnippien. »
+192	« L'Esprit du Peuple ? C'est un genre musical. »
+193	« ...Pas une terrible supposition, mais non. »
+194	« Ouais, j'en ai aucune idée. »
+195	« L'Esprit du Peuple est le titre de travail de ma nouvelle thèse. »
+196	« La majeure partie est, si tu excuses mon anoure, de la <i>putain de connerie</i>. »
+197	« Mais en bref, ça parle de la façon dont chaque peuple partage un certain nombre d'archétypes communautaires fondamentaux, ou mythes. J'ai voyagé à travers la Côte pour collecter autant de récits que possible, couchant par écrit des milliers d'histoires auparavant transmises seulement oralement. »
+198	« Tout ça pour voir à quel point ma théorie tient, dans l'esprit de tant, tant de peuples. »
+199	Il se racle la gorge et se cale dans son fauteuil.
+200	« Toutes mes excuses. Je radote ici, mettons-y un terme. Que veux-<i>tu</i>, Clerc ? »
+201	Il agite une main devant lui.
+202	« <i>La vie est douleur</i>. Maintenant que veux-tu ? »
+203	« Je veux me renseigner sur cet "Esprit du Peuple". »
+204	« Vous êtes un expert de l'alignement, hein ? »
+205	« Comment la mort et la résurrection fonctionnent avec tout ça ? »
+206	« Pourquoi vous n'utilisez pas la magie dans votre "guérison de l'esprit" ? »
+207	« Qu'est-ce que l'amour ? »
+208	« Vous êtes un halfelin, pas vrai ? Donnez-moi votre avis sur l'affaire des Terres des Clans. »
+209	« J'ai quelques questions personnelles pour vous. »
+210	E-« Ce sera tout pour l'instant. Merci, citoyen. »
+211	« Bah. Rien de bien intéressant là-dedans », dit-il en reniflant.
+212	« Je ne vois nulle raison pour laquelle tu enquêterais sur un vieux halfelin sans rien de bon à offrir au monde. »
+213	« Vous avez l'air assez intéressant. »
+214	« D'accord. Je ne creuserai pas plus profond, alors. »
+215	« S'il te plaît ? »
+216	« C'est gentil à toi. Mais tu as tort. »
+217	« Mon travail est la seule chose d'intéressante, je t'assure. »
+218	Il hoche la tête et se gratte le crâne.
+219	Il agite la main d'un geste dédaigneux.
+220	Bien. Garde tes secrets, vieil homme.
+221	« Ouais. »
+222	« Il avait ce masque de fer. Vraiment glauque. »
+223	« Ah. »
+224	« Les sectes sont moins courantes de nos jours, mais quelques-unes surgissent encore de temps à autre, bien sûr. »
+225	« À quoi ressemblait le masque ? »
+226	« Vert. Du cuivre oxydé, peut-être. »
+227	« Il avait des lignes dessus. Ça semblait ésotérique. »
+228	« Assurément ésotérique. »
+229	(Se contenter d'écouter.)
+230	« Et une dague. Un truc jaune et ondulé. »
+231	« En gros, il a foncé sur nous et a tenté de nous poignarder. Et... enfin, quelque chose de magique se tramait aussi. »
+232	« Puis il s'est enfui avant qu'on puisse obtenir des réponses. Après avoir... échoué à nous tuer. Ou du moins le Clerc. »
+233	« Hm. »
+234	« Alors ? »
+235	« Pas un sectaire. »
+236	« Ça n'en a pas l'air. Rien d'organisé, du moins. Ça ressemble plus à un acteur isolé. »
+237	Il renifle.
+238	« Les sectateurs se déplacent en groupes. Ils enlèvent plutôt que de tuer. Ils portent des uniformes assortis, comme une putain de représentation théâtrale. »
+239	« De toutes les sectes que je connais- le Culte du Dragon d'Esuth, le Culte du Mal Élémentaire, les diverses sectes de titans... et toutes les quasi-sectes des dieux marchant maléfiques. »
+240	« Ça pourrait en être une nouvelle. Ou une petite secte que l'histoire a négligée ? »
+241	« Hm. Plus probablement c'est un <i>lanceur de sorts radicalisé</i>. Ou un adepte de quelque créature magique ? S'il est drapé de matériel magique, c'est plus probablement un contrat professionnel. »
+242	« Est-ce que quelqu'un vous veut mort ? »
+243	« Clairement. Aucune idée pourquoi, cela dit. »
+244	« Ça a peut-être à voir avec le salon de thé. »
+245	« Oh que oui. Probablement parce que je suis important. »
+246	Le halfelin écoute à peine ton commentaire, et touche sa moustache.
+247	« Peut-être... un <i>occultiste</i>. »
+248	Le gobelin tressaille en entendant le mot.
+249	« Mais pour quel patron ? Une créature féerique ? Ou quelque aberration ? Qui sait ! »
+250	« Tu devrais faire attention, cela dit. Ce genre de magie est mortel au mieux. »
+251	« C'est ça. Bonne info. Légèrement horrifiante mais bonne info. On gardera ça à l'esprit si on le recroise. »
+252	« Fais donc ça. Et mon conseil ? Frappe avant qu'il ne te lance de la magie noire. »
+253	« Comme disent les vieux légionnaires : <i>plutôt une lame dans le ventre qu'une malédiction sur les couilles !</i> »
+254	Il rit.
+255	Il rit. Quelqu'un là-dehors essaie de te tuer, et il rit.
+256	Tu peux gérer ça. Tu peux tout gérer.
+257	Tout sauf une Torsion de Masse, et ça devrait aller.
+258	« Bien sûr ! Je suis cependant un peu débordé de travail en ce moment. Je te trouverai un créneau réservé. »
+259	« J'ai du temps après l'élection. Tu devrais venir me voir alors ! »
+260	« Vous pouvez pas trouver du temps maintenant ? »
+261	« D'accord. Je ferai ça. »
+262	« Je vais probablement oublier, pour être honnête. »
+263	« Non. Je crains de ne pas pouvoir. »
+264	« Génial ! Je n'ai jamais eu l'occasion de tenir un dialogue avec un clerc auparavant. Ce sera intéressant. »
+265	Il rit. « C'est juste. Je suis oubliable. »
+266	« À dire vrai, je suis très surmené. Je peine sur un certain sujet... »
+267	Il émet un son qui fut peut-être jadis une toux.
+268	Le vieil homme est frustré. Il essaie d'éviter même d'y penser.
+269	« Je me concentre sur une idée précise de Cividix. »
+270	« L'idée de deux faces opposées de ton <u>ego</u>. Masculine et féminine. »
+271	« Mais je n'arrive tout simplement pas à franchir un certain écueil. Obstacle. »
+272	« Explique. »
+273	(Se contenter de le fixer.)
+274	Est-ce qu'il va continuer de parler quoi que je fasse ?
+275	Oh que oui.
+276	Tu n'as aucun contrôle ici.
+277	C'est pas comme si tu avais mieux à dire toi-même.
+278	« Vois-tu, il existe une œuvre appelée "Le Livre de l'Esprit". C'est, à mon avis, le "chef-d'œuvre" de Cividix au sens figuré. »
+279	« Oh. C'est genre un livre secret ? Caché au fond d'un donjon ? »
+280	« Ça a l'air ringard. »
+281	« Au sens figuré ? »
+282	« Oh, non. J'en possède plusieurs copies. »
+283	« Indubitablement », dit-il avec un large sourire.
+284	« En effet. »
+285	« Non, je demande. Qu'est-ce que ça veut dire ? Un "chef-d'œuvre au sens figuré" ? »
+286	(Se contenter de hocher la tête.)
+287	« Ça... je dis que c'est un chef-d'œuvre au sens de la langue courante. Par opposition à un chef-d'œuvre au sens littéral, à savoir une œuvre pour achever une maîtrise de savant. »
+288	« Bref. »
+289	« Il existe une édition rare de ce livre, qui contiendrait une soi-disant "préface finale" de Cividix lui-même. »
+290	« Dans cette préface, il révélerait apparemment une révélation sur sa catégorisation de la psyché. »
+291	« Précisément sur le thème du <i>genre</i>. »
+292	Un savoir véritablement eldritch.
+293	« Ce n'est peut-être rien, mais il serait hautement intéressant de mettre mes sales pattes dessus. »
+294	Il se penche et chuchote : « Et plus important encore, ça me procurerait un grand plaisir de savoir à quel point Cividix se retournerait dans la fosse commune thazénienne où il est enterré, s'il savait qu'un <i>halfelin</i> comme moi fait œuvre de pionnier dans ses pas, ho ho ! »
+295	« Il n'était pas fan ? »
+296	« Compréhensible. Vous êtes plutôt bizarres, vous autres. »
+297	« Vous voulez développer ses idées davantage ? »
+298	« Comme la plupart des humains de son ère, il était très- disons, <i>humanité-d'abord</i>. »
+299	« <i>Moi</i>, je le suis peut-être, mais la plupart des halfelins sont d'un ennui tout à fait normal. »
+300	« Oui. C'est l'idée. »
+301	Snurre se cale dans son fauteuil.
+302	« Cette sixième et dernière édition du livre... elle ne fut imprimée qu'à dix exemplaires. L'éditeur a ensuite gonflé le prix afin de la vendre à des collectionneurs. »
+303	« Ces collectionneurs ont alors passé les trois dernières décennies à utiliser ces copies comme une forme d'investissement. Veillant à garder le contenu de cette préface un secret jalousement gardé. »
+304	Lire de telles fadaises ? Terrible.
+305	Lire... c'est ennuyeux...
+306	« Bien. Lire de telles fadaises, c'est pour les pigeons. »
+307	« Quelle horreur. Les mots d'un savant devraient être librement accessibles. »
+308	« Manière habile de gagner de l'argent. »
+309	« Si c'est à propos du <i>genre</i>, alors mieux vaut garder ça secret. »
+310	Il ricane, bruyamment. Un peu de salive vole de ses lèvres jusqu'à tes bottes.
+311	« Enfin, tu as raison. Mais quand même, l'anti-intellectualisme est une vilaine façon de traverser le monde. »
+312	« Rien n'est jamais gratuit. Même quand c'est gratuit. »
+313	« Sans doute. Comme toute bonne méthode capitaliste, ça suce la valeur d'une œuvre, comme le Sable Moustique. »
+314	« Ho, ho, ho. »
+315	« Tu crains le dévoilement de conneries de genre bizarres ? C'est bien. La peur signifie qu'il y a quelque chose d'intéressant à trouver. »
+316	« Alors quoi, vous voulez que je trouve ce livre rare ? »
+317	« Je crois pas pouvoir me le payer. »
+318	« Vous devriez économiser et en acheter un, si vous le voulez à ce point. »
+319	Il hoche la tête.
+320	« J'en doute pas. »
+321	« Bien sûr. Je vais juste aller chercher ce trésor de dragon que je planque derrière mes toilettes. »
+322	« Où avez-vous trouvé un trésor ? »
+323	« Vous avez une licence pour ça ? »
+324	« C'est si cher que ça ? »
+325	« Je plaisante. »
+326	« Je plaisante. Et... je savais pas qu'une licence de trésor de dragon existait. Intéressant. »
+327	« J'ai un peu trop bu l'autre soir. Et dans mon désespoir, j'ai payé une devineresse pour me lancer Localisation d'Objet. »
+328	« Je m'attendais à rien, et c'était très cher. »
+329	« Cependant, elle l'a vraiment trouvé ! Une copie de la Sixième Édition du Livre de l'Esprit est ici. Très près de Waterlane View. »
+330	« Et elle m'a même dit la direction exacte. » Il pointe le sol. « Environ quarante mètres. Tout droit. <b>En dessous</b>. »
+331	« Des mètres ? »
+332	« C'est dans la Cité d'En Bas ? »
+333	« Et vous faites confiance à cette devineresse ? »
+334	« C'était quoi le nom de cette devineresse ? »
+335	M-« Ça sonne comme une quête. »
+336	« ...C'est ça. »
+337	« C'est genre trente mètres. Quarante-cinq, peut-être. »
+338	« Désolé, la devineresse était une Errante. Tu sais comment ils sont à Reeds. De ridicules gens à décimales. »
+339	« Oui ! Exactement ! »
+340	« Bon. »
+341	« "Confiance" est peut-être un mot un peu fort. »
+342	« Mais elle était liée aux Errants. Et bien que ce soient des capitalistes impitoyables, ils ne garderaient pas une arnaqueuse dans leurs rangs. »
+343	« Ou s'ils le faisaient, ce serait très drôle bien sûr. »
+344	« Lisa, je crois. »
+345	« Elle avait une hutte au sommet du bâtiment errant. »
+346	« Elle s'est en allée, je crois. »
+347	« En allée ? »
+348	« Oh. D'accord. »
+349	Il fait de petits mouvements de marche avec ses doigts.
+350	« Elle a mis les voiles, comme on dit. »
+351	C'est très étrange.
+352	Une maison ésotérique ?
+353	« Elle avait l'air gentille. J'espère qu'elle arrête de travailler pour ces putains de parasites. »
+354	« Bien sûr, pourquoi pas ? »
+355	« Tellement de quêtes annexes... » marmonne Snell pour lui-même.
+356	« Plonge dans les tunnels dangereux d'en bas et rapporte-moi ce livre. Ne te fais pas tuer. Et en échange je vais, euh... »
+357	« Alors ? Quel genre de putain de récompense veux-tu ? »
+358	« Vous jurez beaucoup. »
+359	« Je veux que vous m'appreniez à être <b>un homme</b>. »
+360	« Je veux que vous guérissiez mon esprit brisé. »
+361	« Je sais pas. Vous avez un objet magique ou un truc ? »
+362	« Oui. Va te faire. »
+363	« La vie est douleur, fais-en ton deuil. »
+364	« Non, impossible. »
+365	« J'en ai aucune idée moi-même. Choisis autre chose. »
+366	« Impossible. Nul ne peut réparer l'esprit d'un autre. »
+367	« Je peux promettre du soutien, mais aucune garantie. Choisis autre chose. »
+368	Il hausse les épaules. « J'ai des livres à foison ? »
+369	« Tu sais quoi », dit-il en claquant des doigts.
+370	« Le livre lui-même. Il est cher et probablement magique en un sens. »
+371	« Rapporte-moi le livre, laisse-moi jeter un œil à cette préface, et tu gardes le livre après. C'est quand même une quête, non ? »
+372	« Mais alors j'ai même pas besoin de revenir vers vous. Je peux juste prendre le livre et partir. »
+373	« Alors vous pouvez pas m'offrir autre chose aussi ? »
+374	« Ça a l'air merveilleux. J'adore les quêtes. »
+375	« Vrai. »
+376	« Quoi, tu veux un câlin ? »
+377	Il soupire.
+378	« Je suppose que je peux aussi offrir quelques conseils pour comprendre le livre. Si tu me laisses faire une copie de cette préface vite fait. »
+379	(Se réjouir.)
+380	« Cette quête sera accomplie. »
+381	« On verra si je le trouve. »
+382	« Hourra. »
+383	Je t'en prie, ne fais pas hourra.
+384	(Hurler.) « Hourra ! »
+385	« Ça, on le fera. »
+386	« Je ne suis pas expert du genre de merde bizarre qu'il y a en bas. Mais la Cité d'En Bas est dangereuse. Alors ne vagabonde pas à l'aveugle. »
+387	« Meek connaître bien souterrain ! Meek avertira maître à temps pour pièges. »
+388	« Bonne chance, Clerc. »
+389	« Imagine, si tu veux bien, l'origine de nos histoires. »
+390	« Toutes les histoires ? »
+391	« Bien sûr. »
+392	(Se contenter de rester coi et le laisser radoter.)
+393	« Oui. Toutes. »
+394	« Bien. »
+395	« En tant que peuples doués de conscience, nous avons clairement la capacité de base d'inventer des idées au hasard et de les transformer en récits émotionnellement résonnants. »
+396	« Des récits qui explorent la condition de la vie elle-même, et nous font <i>ressentir</i> bien des choses. »
+397	« Mais une chose intéressante se produit si l'on étudie les parties fondamentales de ces histoires. »
+398	« Que même si l'on regarde des histoires façonnées dans des bandes entièrement différentes, des tribus isolées séparées, ou même dans des mondes hors de Jor lui-même... »
+399	« Il y a des recoupements. »
+400	Devrais-je juste le laisser parler ?
+401	(Rester coi.)
+402	Bah. Répète juste la dernière chose qu'il a dite. Ça te fera paraître intelligent.
+403	Bah. Renforce sa vision du monde. Ça le rendra heureux.
+404	« Des recoupements ? »
+405	« Génial. Vous êtes très intelligent. »
+406	« ...Merci, Clerc. »
+407	Il se racle la gorge.
+408	« Les humains qui vivent dans les montagnes reculées d'Ym ont les mêmes tropes récurrents dans leurs mythes fondateurs que les humains de Reeds. »
+409	« Pareil pour les halfelins. Les Sang-de-Tempête de Kargamesh ont les mêmes variations que mon peuple à Fordnip. Bien que séparés dans l'évolution ésotérique par au moins dix millénaires. »
+410	« C'est comme si chaque peuple était hanté par un <i>esprit</i>. Comme un rêve collectif inconscient de concepts et d'idées qui nous suivent. »
+411	« Même quand ces peuples distincts proviennent de <i>mondes</i> entièrement différents. Tu imagines ? »
+412	« Deux peuples arrivent par deux Portes de Jor distinctes. »
+413	« Ils sont étrangers l'un à l'autre. Culturellement. Spirituellement. <b>Biologiquement</b>. »
+414	« Pourtant ils <i>partagent ces mythes fondamentaux</i>. »
+415	« C'est ce que j'étudie. »
+416	Ne le laisse plus radoter. Je t'en prie.
+417	« C'est très intéressant. »
+418	« Je suis pas sûr de comprendre. »
+419	« C'est stupide. »
+420	« J'ai aucune idée de ce dont vous parlez. »
+421	« N'est-ce pas ? »
+422	« Alors je m'excuse de ne pas mieux l'expliquer. »
+423	« Et c'est une bien étrange idée après tout. »
+424	« Tout à fait d'accord ! »
+425	« Stupide et absurde. Mais c'est une autre raison pour laquelle je l'apprécie comme concept. »
+426	Il lâche un rire de bon cœur.
+427	« Compréhensible ! Mais... »
+428	« Plus important encore, c'est <i>prouvable</i>. »
+429	C'est comme un type d'inconscient collectif, réparti sur chaque type de peuple.
+430	Une âme unifiée d'un peuple. Qu'arrive-t-il lors d'une fusion ?
+431	« Comment est-ce prouvable ? »
+432	« Y a-t-il un Esprit du Peuple meilleur que les autres ? »
+433	« Alors c'est un type d'inconscient collectif ? »
+434	« Qu'arrive-t-il quand deux types de peuples fusionnent ? »
+435	M-« Je crois comprendre maintenant. »
+436	« La reproductibilité. L'analyse. »
+437	« Des cultures et des peuples qui n'avaient aucun contact entre eux, provenant même de mondes différents, ont tous les deux les mêmes mythes fondamentaux. »
+438	« Des traits narratifs. Des archétypes. Des tropes récurrents. »
+439	« C'est la même méthode qu'on emploie pour déchiffrer d'anciennes langues mortes. »
+440	« En usant de dénominateurs communs pour cerner similitudes et différences. »
+441	Il rajuste sa moustache. « Bon, euh... il n'y a pas eu <i>tant</i> de reproductibilité pour l'instant de la part de mes pairs. »
+442	« Je travaille encore à convaincre d'autres savants de se pencher sur ce sujet. »
+443	« "Meilleur" ne veut rien dire. On accorde tant de poids à rendre l'un plus grand que les autres sous un certain angle, et ce n'est qu'un jeu ridicule de mesure de bites. »
+444	« Bien sûr, je déteste aussi cette horrible idée que chaque culture soit formidable, et merveilleuse, et- »
+445	« Tu sais, tout le monde se tient la main et danse ensemble- <b>non</b> ! »
+446	« Chaque culture est également <b>terrible</b>. »
+447	« Mais elles sont toutes spécialisées. Ces symboles que nous produisons sont vêtus de sens fondés sur l'expérience vécue. »
+448	« Un humain vivant dans la toundra gelée tirera et exigera des usages pratiques très différents de ces mythes fondamentaux, qu'un homme vivant dans les déserts arides. Pourtant chaque type de peuple a ses propres traits fondamentaux que ces symboles représentent. »
+449	« Vous parlez beaucoup. »
+450	« C'est très intéressant. »
+451	« Je sais. Dis-moi juste de me taire quand tu fatigues. »
+452	« C'est beaucoup de camelote, avec quelques pépites d'or. Ça, je le dirai. »
+453	« Une façon très raffinée de le formuler. Je dirais que si tous les peuples doués de conscience partageaient ces mêmes traits fondamentaux, ce serait exactement cela. »
+454	« Je cherche bien ça. »
+455	« La possibilité de distiller non les mythes fondamentaux de chaque peuple, mais de toute conscience. »
+456	« Ça ne m'étonnerait pas qu'il y ait une autre couche à ce puzzle. »
+457	« Ah ! Oui. »
+458	Il lève un doigt. « Aucune idée. »
+459	Il est honnête.
+460	« C'est encore plus dur à cerner, à cause de la nature des cultures qui fusionnent. »
+461	« Dans des cas comme les humains et les nains ici à Norvik, il y a plus de données, mais pas assez pour dire quoi que ce soit de notable. »
+462	« Mais il me semble que l'Esprit du Peuple demeure "pur" en un sens. Dans une direction ou dans l'autre. »
+463	« Par exemple : les humains peuvent évidemment se reproduire avec les nains. Mais la descendance est toujours, esthétiquement et biologiquement parlant, très humaine. Ce qui n'a aucun sens, biologiquement. Nous sommes, scientifiquement parlant, des espèces différentes. Les chiens ne s'accouplent pas avec les chats, si ? »
+464	« Le même effet se voit dans la plupart des croisements fonctionnels de peuples. Logiquement, ça ne devrait pas être. L'adaptation évolutive dicte la création d'un mélange, pas d'une créature unilatérale. Alors on théorise que c'est un type de puissant effet ésotérique qui permet à cette reproduction d'avoir lieu. Dans la communauté savante, on l'appelle l'effet ODU. La <i>Descendance Unilatérale</i>. »
+465	« Vous en savez long sur ce sujet, hein ? »
+466	« Alors un côté est toujours dominant, hein ? »
+467	« Mais ça veut pas dire que les nains finiraient par cesser d'exister à Norvik ? Et juste... devenir humains ? »
+468	M-« Et vous pensez que l'Esprit du Peuple suit la... descendance unilatérale ? »
+469	« Une fois encore, je crains que tout cela provienne d'expériences menées par des Arcanistes. De façon horrible. »
+470	« Pas biologiquement parlant. Mais ésotériquement ? Oui. Objectivement. »
+471	« Il y a une liste de cette hiérarchie dans certains manuels. Mais c'est un sujet plutôt tabou, comme tu peux l'imaginer. »
+472	« Je te croirais. Beaucoup d'humains à Norvik le font. »
+473	« Bien sûr, vu que ce n'est pas perceptible esthétiquement, la plupart l'ignorent simplement. D'après ce que je comprends. »
+474	« Les nains ont tendance à être plus véhéments à ce sujet, d'après ce que je comprends. Certains des nains anti-Azgal de la cité ne sont clairement pas très contents que leurs petits-enfants finissent "humains". »
+475	« Une des nombreuses choses qui empêchent les humains et les nains de fusionner complètement, si tu veux. »
+476	« C'est une bonne question. »
+477	« Si deux peuples vivent côte à côte assez longtemps, et se reproduisent entre eux de façon égale, mais que la descendance est toute esthétiquement "humaine", alors... oui. »
+478	« À terme il n'y aurait plus qu'un seul peuple, et ce serait un peuple à l'apparence humaine. »
+479	« Cependant, un grand facteur est aux commandes ici. C'est le sujet insaisissable et séduisant de la préférence d'accouplement. »
+480	« Il n'y a pas beaucoup de données prouvées que je puisse citer, mais si tu me permets de spéculer, alors je dirais que <i>seule une minorité</i> de la population de toute tribu aura jamais une préférence stricte pour s'accoupler <i>hors</i> de cette tribu. »
+481	« Sans une supposition de base comme celle-là, je ne crois pas que la tribu elle-même resterait assez intacte pour qu'une civilisation émerge. »
+482	« Alors dans le cas des nains à Norvik... je ne crois pas que les deux "tribus" puissent jamais vraiment fusionner. Coopérer ? Oui. Cohabiter ? Bien sûr. Même se mêler et se fréquenter et se croiser ? Absolument. Pourquoi pas ! »
+483	« Mais fusionner ? Non. Impossible. »
+484	« Bien sûr, cette supposition ignore l'effet ODU. Alors ça a un côté un peu farfelu. Prends-le comme tu veux. »
+485	« Peut-être. Je n'ai pas fait assez de travail pour affirmer quoi que ce soit avec certitude. »
+486	« Ni n'ai été évalué par mes pairs. »
+487	« Ni ne suis un individu très sain d'esprit ou stable. »
+488	Il sourit largement.
+489	« Mon hypothèse est que l'Esprit du Peuple parvient à rester "intact" grâce à cet effet. »
+490	Le gobelin croise les bras, prêt à entendre ton commentaire.
+491	Le savant halfelin se cale dans son fauteuil.
+492	« Je pense que vous êtes fou. »
+493	« Je pense que vous avez un truc cool en préparation là. »
+494	« Je pense que votre théorie a besoin de beaucoup de travail. »
+495	« J'ai pas d'opinion tranchée. »
+496	Il te fusille du regard.
+497	Les plis autour de ses yeux se resserrent de plus en plus.
+498	Puis il lâche un rire retentissant.
+499	« <b>Bien</b> ! »
