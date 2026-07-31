@@ -3015,5 +3015,230 @@
 ],
 "(Try to hit Snell.) ": [
 ".Snell==1-"
+],
+"\"Isk-Urum. Oui. I recall that name.\" ": [
+""
+],
+"\"Non. I am telling the whole truth.\" ": [
+""
+],
+"\"Non. I have to do this. Urth <b>WILL</b> return.\" (Fight Snell.) ": [
+""
+],
+"\"Non. I. I do not, Cleric.\" ": [
+""
+],
+"\"Non. No, I wish it were so simple.\" ": [
+""
+],
+"\"Non. She was another mistake.\" ": [
+""
+],
+"\"Non. That's not what I mean. I'm only saying...\" ": [
+""
+],
+"\"Non. This. Cannot be.\" ": [
+""
+],
+"\"Oui. Yes yes. Across the river.\" ": [
+""
+],
+".Detect_Secrets==0-\"The pickaxe? Ah oui. That thing.\" ": [
+""
+],
+".OP_EvergladSigned==1-\"See you later, master.\" (Partir.) ": [
+""
+],
+".RUNE_TORCH==1-(Use your Rûn Fackla.) ": [
+""
+],
+".Snell==0-Voilà. (Shake off the wood grain from your gloves.) ": [
+""
+],
+".SnellRevivify==0-\"Non. You just... came back on your own.\" ": [
+""
+],
+".TeaShopDoorOpen==0-\"I went in through the back. Évidemment.\" ": [
+""
+],
+"<i>Non. I would not allow myself a meek death.</i> ": [
+""
+],
+"Bien sûr. He had a security deposit. ": [
+""
+],
+"Cela nous a unis. C'était notre force, contre ces lézards crasseux. ": [
+""
+],
+"Gorm staggers back, muttering to himself. \"...Oui. I can see that, brother.\" ": [
+""
+],
+"He knows the weakness of your armor. Bien sûr. ": [
+""
+],
+"Hé. A joke, from Visken. ": [
+""
+],
+"Hé.He definitely loves a good ass-kissing. Just look at him! ": [
+""
+],
+"Hé.You can see he believes you, and he's distracted by the possibility. ": [
+""
+],
+"Intéressant.Then this was a combination of force and heat. ": [
+""
+],
+"Intéressant.There have been documentation of mimics bred for greater intelligence. ": [
+""
+],
+"Là.You see it. ": [
+""
+],
+"NON.IT IS AN ILLUSION. ": [
+""
+],
+"Non. Absolutely not. ": [
+""
+],
+"Non. You did not join Gorm. You would not accept such a bargain. ": [
+""
+],
+"Non... <b>you</b> do that! ": [
+""
+],
+"Non... he's too fast. ": [
+""
+],
+"Non.Definitely not worth it. ": [
+""
+],
+"Non.He is being defensive because you went too heartfelt. ": [
+""
+],
+"Non.I refuse this end. (Reach out.) ": [
+""
+],
+"Non.It's- you- they- ": [
+""
+],
+"Non.No, way. You're not getting anywhere near that maw. ": [
+""
+],
+"Non.That would be horrendous. ": [
+""
+],
+"Non.That's not a thing. ": [
+""
+],
+"Non.The door is completely sealed. ": [
+""
+],
+"Non.There is no need for such weakling behavior. ": [
+""
+],
+"Non.This beast... ": [
+""
+],
+"Non.You are mistaken. ": [
+""
+],
+"Non.You cannot. ": [
+""
+],
+"Non.You do not align with these notions of feminine dominance. ": [
+""
+],
+"Non.You know little of these cat-folk. Let alone some obscure song in their culture. ": [
+""
+],
+"Oui. A diverse workforce would be healthy for the city. ": [
+""
+],
+"Oui. The Ioun Stone was responsible for this prolonged esoteric pocket. ": [
+""
+],
+"Oui. You can reason with any being, including this one. ": [
+""
+],
+"Oui. You're guaranteed a success on that, while casting spells always carries an element of risk. ": [
+""
+],
+"Oui.All clerics underwent the Undeath Control class. ": [
+""
+],
+"Oui.Either a ruby, or a jacinth would be a rather practical guess. ": [
+""
+],
+"Oui.It would. ": [
+""
+],
+"Oui.That is when a man seeks himself alone, instead of together with other lesser beings. ": [
+""
+],
+"Oui.The only way to find out if they are esoterically aligned or not. ": [
+""
+],
+"Oui.The overgrown walls and strangely ambient light makes it obvious. ": [
+""
+],
+"Oui.The vote is useless. Just get the book. ": [
+""
+],
+"Oui.This is clearly a female. A <i>real</i> one, capable of terror beyond your sight and sound. ": [
+""
+],
+"Oui.What else? ": [
+""
+],
+"Oui.You can see it clearly. It is <i>the Red Light</i>. The best nudie magazine in Norvik. ": [
+""
+],
+"Oui.You do. ": [
+""
+],
+"Oui.You feel intense fear. ": [
+""
+],
+"You're wobbling. Non... not like this... ": [
+""
+],
+"Évidemment.(Jump over the spellbook.) ": [
+""
+],
+"Évidemment.If you had the spell for it. ": [
+""
+],
+"Oui.But look at it. ": [
+""
+],
+"Non.It is quite cool. ": [
+""
+],
+"Oui.It is. ": [
+""
+],
+"Oui.It's food crates. ": [
+""
+],
+"\"Oui. It seems so.\" ": [
+""
+],
+"\"Oui. It is.\" ": [
+""
+],
+"Bones cracked and soul returned. Oui. ": [
+""
+],
+"Oui. All of it. ": [
+""
+],
+"Non.It won't budge. ": [
+""
+],
+"Oui.It is a tragedy. All art is sacred. ": [
+""
+],
+"Oui.It is a tragedy. ": [
+""
 ]
 }
