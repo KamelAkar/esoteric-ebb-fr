@@ -1,0 +1,501 @@
+idx	french
+0	Les gars t'accueillent d'un grognement et d'un marmonnement collectifs et hésitants.
+1	« Hé ! Ouah. Un clerc, hein ? »
+2	« Vous êtes de la milice ? »
+3	« Beau petit truc que vous avez là. »
+4	« Pourquoi traînez-vous ici, les gars ? »
+5	« Identifiez-vous. »
+6	Le gamin blond secoue la tête.
+7	Il sourit. « Merci, Clerc ! »
+8	« Traîner ? Euh. C'est une réunion. Une réunion importante ! »
+9	« Bien sûr ! »
+10	« Je suis Rollo », dit le gamin blond en s'inclinant. « Rollo Malach ! À votre service. Avec moi ici il y a Nisse, Stenbusken et Toli. Nous sommes membres de la Résistance Norvikienne, un mouvement pour- »
+11	« Urth-Nisse. C'est mon nom complet. »
+12	« Ouais, bien sûr. Bref, ravis de faire votre connaissance, Clerc ! »
+13	« <i>Une bande de larpeurs</i> », te chuchote le gobelin.
+14	« Clerc ! »
+15	« Génial de vous revoir ! »
+16	Il fait un salut poing-sur-la-poitrine mal exécuté.
+17	(Rendre le salut.)
+18	« Vous avez rejoint la Garde-d'Urth ? »
+19	« Qu'est-ce que vous faites ici, les gars ? »
+20	Il t'adresse un sourire niais.
+21	« Euh. Non ! »
+22	« On mène le bon combat pour la cité, cela dit. Notre cité. »
+23	Il fait un geste vers toi et lui.
+24	« Une réunion ! On se retrouve d'habitude ici pour planifier, et partager des informations. »
+25	« Vous nous rejoignez juste à temps, on allait justement faire l'appel. »
+26	« Vous êtes libre de vous joindre à nous ! Ce que vous avez fait en bas à Waterlane a été <i>très</i> utile. »
+27	« Et même si c'est une victoire temporaire, virer cette crasse des rues de Tolstad, c'est un sacré exploit. »
+28	« Vous êtes une véritable source d'inspiration. »
+29	« Clerc. »
+30	Il te fait un lent hochement de tête.
+31	« Vous vous amusez bien ici, les gars ? »
+32	« Vous êtes prêts à rejoindre la Garde-d'Urth ? »
+33	« Vous ne causez pas d'ennuis ici, si ? »
+34	« Ouais ! Enfin, non. On tient une réunion. Une réunion importante ! »
+35	« Non ! Euh. On tient une réunion. Une réunion importante ! »
+36	« En fait, vous nous rejoignez juste à temps pour l'appel. »
+37	« Bon, je dois dire, je suis pas exactement à cent pour cent d'accord avec la façon dont vous avez tout réglé en bas à Waterlane, mais... »
+38	« Je respecte immensément votre travail. Travailler pour la cité doit être incroyablement exigeant. »
+39	« Quelle célébrité », te chuchote le gobelin avec un gloussement.
+40	« Arrête de lécher des bottes. Tiens juste la réunion. »
+41	« Ouais, je suis génial. Maintenant fais ton appel. »
+42	(Se contenter de hocher la tête et attendre qu'ils commencent.)
+43	« Euh. Bien. »
+44	« Oui ! D'accord. »
+45	« Oh », articule le gamin en te fusillant du regard.
+46	Il est terrifié.
+47	Le moment d'asseoir ta domination.
+48	« Qu'est-ce que vous faites ici ? »
+49	« Je suis là pour vous massacrer, les gars. »
+50	« C'est ma question. Vous traînez ici, ou quoi ? »
+51	(Regarder autour.) « C'est une sorte de secte ? »
+52	« Q-quoi ? »
+53	Il regarde ses potes, les yeux écarquillés.
+54	« Une blague. »
+55	« Pas maintenant. Plus tard. »
+56	(Se contenter de les fixer.)
+57	« Euh. D'accord ? On allait justement... tenir une réunion. »
+58	« Une secte ?! »
+59	« Non ! C'est une... réunion. Une réunion importante ! »
+60	Il regarde Stenbusken, qui lui répond d'un haussement d'épaules.
+61	« Oh dieux, ça sonne comme une secte. Ça n'en est pas une, promis ! »
+62	« Vous pourriez... partir ? »
+63	« <b>Non</b>. »
+64	(Le fusiller du regard et respirer lourdement.)
+65	« Quoi, vous êtes en colère contre moi ? »
+66	Tu le vois jeter nerveusement un œil à ses amis qui restent assis en silence, tentant de ne pas croiser ton regard.
+67	« C'est juste que... écoutez, vous nous avez vraiment mis dans la merde à Waterlane. »
+68	« On avait bossé dur pour mettre un terme à ce journal illégal. »
+69	« Pour la cité ! »
+70	« Votre organisation est tout aussi illégale. Ou du moins tout aussi dans la zone grise. »
+71	« Vous leur avez volé et vous avez tenté de brûler leur dur labeur. »
+72	« C'était un choix difficile. »
+73	« J'aurais dû trancher en votre faveur. C'était une honnête erreur. »
+74	« Eh bien, je... ne suis pas d'accord. »
+75	« On est juste un club politique. Eux, c'est un... journal sans licence. »
+76	« Un club ? Appelé "la résistance" ? »
+77	« C'est un argument qu'on peut avancer. »
+78	« Je m'en fiche. Vraiment, vraiment je m'en fiche. »
+79	« La Résistance Norvikienne. Et oui. »
+80	« Ça l'est. Et je le ferai. »
+81	« C'est... exactement ce genre d'attitude qui met cette cité à terre ! »
+82	« On a saisi de la contrebande, plutôt. »
+83	« Bon. C'était le mauvais choix, si vous voulez mon avis. »
+84	« Oh. Ouais, vous auriez dû. Mais... d'accord. Bien. »
+85	« Maintenant, écoutez, on va commencer la réunion. »
+86	« N'interrompez pas. »
+87	« Oh. C'est... vous de nouveau. »
+88	« Ne blessez personne. »
+89	« Je blesse qui bon me semble. »
+90	« Je crois qu'on est partis sur une mauvaise pêche la dernière fois. »
+91	« Pourquoi ferais-je ça ? »
+92	Il lève les bras. « Ouah. Du calme, Cow-boy. »
+93	« Mauvaise pêche ? » dit le gamin dégingandé dans le coin.
+94	« Mauvais... pied ? » marmonne le gamin silencieux en regardant Rollo.
+95	« Une pêche ? » dit le grand gamin en regardant autour. « Où ça ? »
+96	« Quoi ? »
+97	« Vous m'avez entendu. Une pêche. »
+98	« Reprenons. Bonjour, je suis <b>le Clerc</b>. Je suis là pour sauver le monde. »
+99	Le gamin blond te regarde d'un air vide.
+100	Il t'adresse le genre de regard qu'on adresserait à une personne dangereuse et possiblement folle qui vient de te demander un prêt dans la rue.
+101	« Écoutez. On allait justement tenir une réunion ici. »
+102	« Et je sais pas exactement ce que vous voulez, mais... »
+103	« Je vais écouter. »
+104	« D'accord. Allez-y. »
+105	(Se contenter de le fixer.)
+106	« C'est une réunion officielle de la Résistance Norvikienne. Mais... en tant que clerc vous êtes... invité à y assister. Bien sûr. »
+107	Il fusille Snell du regard une seconde.
+108	« Bon. Membres de la Résistance Norvikienne, merci d'assister à la réunion d'aujourd'hui. »
+109	« Mm. <i>Réunion importante</i>. »
+110	« Ferme-la, gobelin », dit le gamin dégingandé en faisant jaillir un petit feu de ses mains.
+111	Il rit. « Tu crois que t'as l'air cool à faire ça ? Sacré gamin. »
+112	Le gamin-magie se racle la gorge.
+113	« Initié Ésotérique Urth-Nisse. Présent. »
+114	Le grand se lève et lève les poings en l'air. « Sten<i>busken</i> ! Ouais ! »
+115	« Ne crie pas », marmonne le gamin silencieux. « Présent. »
+116	« Rôle. »
+117	Il te lance un regard nerveux. Puis il marmonne : « Maître des Murmures. »
+118	Ton compagnon étouffe un rire.
+119	« Je t'avais dit que c'était un mauvais titre. Ça devrait être "Premier Espion". »
+120	« Non. Ça sonne comme un protagoniste de magazine. »
+121	« Et "Maître des Murmures", non ? »
+122	« C'était le titre officiel du Maître-Espion d'Urth. »
+123	« Est-ce que j'ai l'air d'un "maître" ? » siffle-t-il. Puis il se tait de nouveau.
+124	Rollo se racle la gorge, gêné. « Est aussi présent le Seigneur Clerc en visite. »
+125	« ...Et son aide. »
+126	« Oh, c'est moi l'aide, hein ? »
+127	Regarde les bouteilles dans le coin.
+128	Ils ont BU.
+129	Oh je t'en prie. Ne réagis pas à ça- ne sois pas un tel rabat-joie.
+130	Ce n'est pas parce que tu es incapable ne serait-ce que d'y toucher que les autres ne peuvent pas être <i>cool</i>.
+131	(Jeter un œil aux bouteilles vides.) « Vous n'avez pas bu, les gars, si ? »
+132	« Vous avez l'air assez organisés. »
+133	« C'est une blague. Pas vrai ? »
+134	« Commencez cette fichue réunion. »
+135	(Se contenter de les laisser continuer.)
+136	« Merci, Clerc », dit-il avec une expression fatiguée.
+137	Rollo rit, puis hausse les épaules avec un sourire en coin narquois.
+138	« Enfin je veux dire... »
+139	« Si vous avez bu- je vous <b>tue</b>. »
+140	« Boire est un comportement extrêmement illégal. »
+141	« Je ne suis pas un adepte de la consommation d'alcool. »
+142	« C'est bon. Vous êtes libres de faire ce que vous voulez. Je ne suis pas rigide au point d'être incapable de vous laisser agir hors des standards sociaux de décence. »
+143	Son sourire retombe.
+144	« ...Avec de sévères avertissements. »
+145	« Vous m'avez entendu. » (Jouer les durs devant la jeunesse.)
+146	« Oh. »
+147	« Quoi ? Non, c'est faux. »
+148	Mais ses yeux disent : <i>Ah non ?</i>
+149	« Non. C'est pas ça. »
+150	« D'accord ? »
+151	« D-d'accord ? »
+152	Snell te chuchote : « Remis <i>droit</i> par la peur- pas mort. »
+153	Honorablement mort. Et honorablement droit.
+154	Sten commence à regarder autour de lui, l'air fôrtvivlad.
+155	Nisse lui lance un regard méchant.
+156	REMETS-LES DROITS (HONORABLEMENT) PAR LA PEUR !
+157	« Il est strictement interdit à la Garde-d'Urth de boire. »
+158	« On n'est pas la Garde-d'Urth. »
+159	(Se tourner vers le gamin gothique.) « Pas encore. »
+160	« Alors vous buvez vraiment, les gars ? »
+161	Rollo lève les mains et marmonne : « Écoutez, je... »
+162	« On ne boit pas. On est ici pour une affaire sérieuse. »
+163	« Ouais...! » s'exclame Sten. « On n'aurait pas eu les moyens de toute façon ! »
+164	« Ferme-la, Sten. »
+165	Ton compagnon se frotte les tempes.
+166	« Merci ! On a bossé vraiment dur pour aider avant l'élection. »
+167	« On n'est qu'une petite ramification ici sur Tolstad. Mais il y a des tonnes de membres de la Résistance Norvikienne à travers la cité. »
+168	« C'est un grand mouvement politique ! »
+169	Il jette un regard nerveux aux trois autres gamins. « Enfin... on y arrive. »
+170	« Non ! »
+171	« Clerc, on est peut-être pas nombreux ici même, mais il y a des tonnes de membres de la Résistance Norvikienne à travers la cité. »
+172	« C'est un mouvement politique sérieux. »
+173	Il claque son poing contre sa poitrine. « La réunion commence ! »
+174	Le grand gamin l'acclame.
+175	« Cool ! On rentre à la maison quand ? »
+176	« À la maison ? Non, on- »
+177	« Y a pas tant de choses à discuter. Pas vrai ? »
+178	« Ouais, mon père aime pas quand je reste dehors comme ça. »
+179	« Allez, les gars ! L'élection est juste au coin de la fichue rue ! »
+180	Il dit « fichue » au lieu de « putain » par habitude, pour ne pas contrarier ses parents sensibles.
+181	« Et j'ai une mission. Grosse mission. »
+182	« Genre, pour de vrai. »
+183	« Une mission ? Vous voulez dire... une quête ? »
+184	« Accouche. »
+185	(Le laisser jacasser.)
+186	« O-oui ! Exactement. Une quête ! »
+187	« Ouais. Bien sûr. »
+188	« J'ai reçu un mot de notre contact. Vous savez, le petit type à la barbe bizarre. »
+189	Ils ont un intermédiaire ?
+190	Les barbes bizarres ne sont pas signe d'une forte loyauté envers la cité.
+191	« Un mot ? »
+192	« Un halfelin ou un nain ? »
+193	« Un membre du Mouvement de Résistance ? »
+194	M-« Quels sont vos ordres ? »
+195	« Une lettre. Il a déposé une lettre avec le sceau de la Résistance. »
+196	Il sourit en coin. « La moitié de l'œil rouge d'Urth, et une moitié de bouclier. »
+197	« C'est vraiment cool. »
+198	Vraiment pas.
+199	« Non, juste un humain de petite taille. »
+200	« Ouais ! »
+201	« On n'a pas trop d'infos sur les autres groupes. Mais y a ce type qu'on appelle "Garde-Bouclier". Il est au Palais. »
+202	« Probablement un clerc. Il connaissait la magie et tout. »
+203	Ils t'en disent long pour une organisation secrète.
+204	Des amateurs.
+205	« Tout comme il nous a parlé du Chant qui s'imprimait ici sur Tolstad, cette fois il nous a informés d'un autre problème... »
+206	« Une menace encore plus grande. »
+207	« La vérole des amoureux ? »
+208	« Le capitalisme ? »
+209	« Le racisme ? »
+210	« La désillusion de la jeunesse ? »
+211	« L'inégalité des genres ? »
+212	« Le manque de ferveur religieuse dans le peuple ? »
+213	« Les Azgalistes ? »
+214	« Les Errants ? »
+215	« Quoi ? Non. »
+216	« Non, je- »
+217	« Enfin, un peu ? »
+218	« Non. »
+219	« Bien que la haine envers les humains <i>soit</i> un gros problème. »
+220	« Euh. Non. »
+221	« Non. Mais aussi, ouais. Mais non. »
+222	« Non. Pas cette fois. »
+223	« Non. C'est- »
+224	« Non, attendez. Si ! »
+225	« Oui, c'est les Errants ! »
+226	« Je le savais ! »
+227	« Poursuivez. »
+228	« Il m'a dit que la Compagnie de Commerce d'Askanii-Reeds, c'est une compagnie errante, ils cachent apparemment des documents très importants dans leurs bureaux sur Waterlane. »
+229	« Plus précisément, un contrat pour un accord appelé "les Accords du Port". »
+230	« Il veut qu'on... »
+231	« En fait, il a pas précisé ce qu'on devrait faire, il le fait jamais vraiment. Mais il a <i>fortement sous-entendu</i> qu'on devrait le saisir ! Pour l'État ! »
+232	« Mais, vous savez. Sans se faire repérer. »
+233	« Discrètement. »
+234	« Il veut que vous voliez une compagnie errante. »
+235	« Parlez-moi davantage de ce contrat. »
+236	« Que savez-vous de cette compagnie ? »
+237	« Que savez-vous du bâtiment ? »
+238	M-« Alors qu'allez-vous faire ? »
+239	« ...Il veut qu'on le saisisse. Discrètement », répète-t-il.
+240	Il hausse les épaules. « C'est apparemment très secret. Mais le contrat est gardé à l'intérieur du bureau. »
+241	« C'est un parasite errant maléfique, qui pompe la cité de ses ressources. »
+242	« Tout est rendu clair dans notre manifeste. »
+243	« Je peux le lire ? »
+244	« Je n'ai aucun intérêt à le lire. »
+245	« Non, c'est réservé aux membres. »
+246	« Vous n'avez le droit de lire le manifeste de l'organisation qu'après avoir déjà adhéré ? »
+247	« ...Oui. »
+248	Puisque tu es déjà investi à ce stade, tu ne peux plus partir même si c'est le manifeste le plus loufoque depuis les Hédonistes.
+249	Hilarant !
+250	N'adhère pas.
+251	« D'accord. Bien. »
+252	« C'est exclusif de toute façon. »
+253	« J'ai entendu que c'est plutôt lourdement gardé. »
+254	« Ils ont un hippogriffe sur le toit. »
+255	« Un griffon. C'est un griffon. »
+256	<i>Griffon</i>, en fait.
+257	<i>Griffon</i> est l'orthographe courante à Norvik. Bien que Griffin, Gryphon et Griphon puissent apparaître en divers endroits à travers les terres diminoriennes.
+258	« Peu importe. »
+259	« Je pense pas qu'il y ait de serrures magiques, cela dit. C'est généralement dur pour les endroits avec beaucoup de passage. »
+260	Le gobelin plisse les yeux. « Tu en connais un rayon sur la sécurité, gamin. »
+261	En réponse, le gamin regarde autour de lui.
+262	« Mon frère bosse chez un serrurier. Il fait des Serrures Arcaniques parfois. »
+263	Il réfléchit une seconde.
+264	« On a juste à se faufiler à l'intérieur, quand il fait nuit. »
+265	« Localiser le coffre. Et le crocheter. »
+266	« Il est apparemment caché derrière un miroir. L'info était pas très précise, mais bon, combien de miroirs ils peuvent avoir, pas vrai ? »
+267	Les gars jettent un regard silencieux et tendu autour du rollermill.
+268	« Je, euh... »
+269	« Comme je disais. Papa veut pas que je sois dehors la nuit. Alors je passe mon tour. »
+270	« C'est pas illégal, voler ? »
+271	« Oui, Sten. Ça l'est. »
+272	« Faites pas vos trouillards ! »
+273	Leur chef pousse un grognement frustré.
+274	« C'est du sérieux ! On peut faire la différence ! »
+275	« Rollo. Je pense pas que ce soit une bonne idée. »
+276	« Vous savez ce que font les Errants. »
+277	« Oh ouais. Procès, procès, procès. »
+278	« Je suis d'accord, c'est une mauvaise idée. »
+279	« Bon sang. »
+280	Il se tourne alors vers toi et ouvre la bouche. Puis il la referme, et secoue la tête.
+281	Il a une mission, mais est incapable de la mener à bien.
+282	Peut-être est-ce une quête véritablement destinée à toi, à la place.
+283	Se faufiler et voler ? Ça a l'air honorable.
+284	Mais devrais-tu vraiment le faire, si c'est un repaire errant ?
+285	Ce sont des infiltrés. Prends-leur - ce n'était pas à eux au départ.
+286	« Bon, tant pis. On inventera une excuse. »
+287	« Mais ça <i>craint</i>. »
+288	« À moins que... » dit-il en faisant un geste vers toi. « À moins que le clerc ici présent veuille le faire. Alors ouais, bien sûr, on passe notre tour. »
+289	« Seigneur Clerc. » Il hoche la tête.
+290	<i>Larpeur</i>.
+291	Ils ont tous besoin de passer par l'entraînement de la Garde-d'Urth. Chacun d'entre eux.
+292	« Où avez-vous dit que se trouvait ce contrat errant ? »
+293	R-« Ceci est une organisation illégale conspirant contre la cité. »
+294	« Vous n'avez pas des boulots à faire, les gars ? »
+295	« J'ai quelques questions à votre sujet. »
+296	E-« Ce sera tout pour l'instant. Merci, citoyen. »
+297	« Moi ? D'accord. »
+298	Nan.
+299	Ce n'est pas le bon moment. Tu peux... probablement caser celle-là plus tard. Une autre fois.
+300	D'accord. Bien. J'ai un peu envie de lui dire là maintenant, mais si j'insiste...
+301	Ouais. C'est comme ça.
+302	« Quoi ? Génial ! »
+303	Il te fixe.
+304	« Je suis génial. »
+305	« Ah ! Ouais, bien sûr ! »
+306	« Content de l'entendre ! »
+307	Il t'adresse un mauvais salut.
+308	« Bien sûr, enfin... »
+309	« Si vous pouvez, ce serait génial ! »
+310	« Vous faites pas prendre, ni rien. »
+311	« Si ça arrive, vous nous connaissez pas. »
+312	« Je ne vous <i>connais</i> pas. »
+313	« Cool. Je reviendrai. »
+314	« Bien sûr. »
+315	« Voilà l'état d'esprit ! »
+316	« D'accord ! »
+317	Il hoche la tête.
+318	« Bonne chance ! Qu'Urth soit béni ! »
+319	« Quoi ? Vous l'avez ? »
+320	« Mais... comment ? »
+321	« Il se peut que je me sois faufilé jusque dans leur quartier général tout seul. »
+322	« Ça ne vous regarde pas. »
+323	« C'est génial ! »
+324	« Non, monsieur ! »
+325	« C'est, euh... »
+326	« La Compagnie de Commerce d'Askanii-Reeds. C'est sur Waterlane View. »
+327	« À côté de l'Entrepôt. Et du relieur. »
+328	« Ouais, ça. On dirait qu'ils le gardent dans un coffre, ou un truc du genre. Probablement caché. »
+329	« Mais je crois en vous ! »
+330	Ton compagnon se frotte les yeux.
+331	Il essaie de ne pas commenter. De toutes ses forces.
+332	« Quoi ? Enfin, génial ?! »
+333	« Comment avez-vous... »
+334	« Je l'ai demandé gentiment. »
+335	« Je l'ai volé. »
+336	« Je ne divulguerai pas cette information. »
+337	« Vraiment ? »
+338	« Oui, vraiment. »
+339	« Non, je l'ai volé. »
+340	« J'imagine que vous les avez dans votre poche, Seigneur Clerc ! »
+341	« Oh. Eh bien, c'est bien aussi ! »
+342	« Oh, mince. »
+343	« Vous avez dû crocheter le coffre ? »
+344	« Ouaip. C'était facile. »
+345	« C'était dangereux. Mais j'ai survécu. »
+346	« Oh ? »
+347	« Je ne divulguerai pas comment j'ai fait. »
+348	« Je ne l'ai pas crocheté. Pas le moins du monde. »
+349	(Agiter les mains.) « <i>De la magie</i>. »
+350	« Oh... »
+351	« Cool. »
+352	« Ça me va ! »
+353	« Vous l'avez ? Genre, là maintenant ? »
+354	« Non. Je l'ai donné. »
+355	« Quoi ! »
+356	« Mais... vous nous avez trahis ?! »
+357	« Ouais. Désolé. »
+358	« Elle va bien se servir de l'information. Vous en faites pas. »
+359	« Je suis un traître. Un petit roublard sournois. »
+360	« Pourquoi ? Est-ce qu'elle- »
+361	Il t'adresse un profond froncement de sourcils. « Est-ce qu'elle vous y a forcé ? »
+362	« Non. Je l'ai donné de mon plein gré. »
+363	« Je suis un Errant. Vous ne devriez vraiment pas me faire confiance. »
+364	« Désolé, gamin. Rien de personnel. »
+365	« Bon. D'accord. »
+366	« Allez vous faire, alors. »
+367	« Ouais. Sérieux. »
+368	« Vous êtes un connard. »
+369	« Euh... ce qu'ils ont dit. »
+370	« C'est injuste. »
+371	« Ouais, je mérite ça. »
+372	« Allez vous faire aussi, les gamins. »
+373	Il t'adresse un grognement déçu.
+374	« Qu'est-ce que vous voulez d'autre ? À part nous baiser ? »
+375	Le gamin blond ouvre lentement le registre, les mains tremblantes.
+376	Puis tu le regardes plisser les yeux, fixant la poignée de papiers.
+377	« C'est... »
+378	« Les Magistrats bradent la cité. »
+379	« C'est le bordel. »
+380	« ...Ils le font. Ils le font vraiment. »
+381	« Et comment que ça l'est. »
+382	« Quoi ? Laisse voir... »
+383	Le gamin silencieux se penche. Son visage pâlit.
+384	« Rollo ? »
+385	« Putain de merde. »
+386	« C'est... c'est énorme. »
+387	Il tremble.
+388	« Vraiment énorme. »
+389	« Ça va changer l'élection. »
+390	« Faites attention avec ça. »
+391	« Oh. Oh oui. Bien sûr. »
+392	Il replace soigneusement le contrat dans le registre.
+393	« Notre contact va... vouloir ça. »
+394	Ses yeux balaient la pièce.
+395	Ça y est. Il a de grands projets.
+396	« Peut-être... »
+397	Il jette des regards entre toi et le papier.
+398	« Ça va peut-être sembler stupide. Mais... »
+399	« On devrait peut-être partager ça avec... Modissa. »
+400	« Quoi ? Mais elle est- »
+401	« Elle a une presse. Ça doit se répandre vite pour faire la différence. »
+402	« Parce que genre, qu'est-ce qu'on pourrait vraiment en faire nous-mêmes ? »
+403	« Le type au bouclier saura quoi en faire. Pas vrai ? »
+404	« Euh. Bien sûr. Mais... »
+405	Il ne fait pas confiance à leur contact. Pas de cette façon.
+406	Ça le rend nerveux. Il cherche une approbation.
+407	« Pas sûr de faire confiance au contact avec ça. »
+408	« Qu'est-ce qu'on devrait faire ? »
+409	« Oh dieux... c'est un putain de bordel. »
+410	Le gamin blond prend une profonde inspiration. « Modissa pourrait devenir folle. Mais en même temps, si on le refile au contact... on sait pas ce que ça ferait. »
+411	« Partager ça avec Modissa est sage. Elle pourrait aider à faire passer le mot. » (Leur dire d'aller parler à la Jeunesse Azgale.)
+412	« C'est pas moi le responsable ici. C'est vous. »
+413	« Vous ne devriez pas céder un pouce aux Azgals. Votre contact est le pari le plus sûr. » (Rejeter l'idée de parler à la Jeunesse Azgale.)
+414	« Je pense pas que votre "contact" serait très content que vous preniez les choses en main. »
+415	Il acquiesce, faisant face à ses amis d'un air sévère.
+416	Il déglutit.
+417	« Qu'est-ce que tu veux faire, Rollo ? »
+418	« Fais pas ton trouillard. Prends une décision. »
+419	« Deviens fou. Tu sais que t'en as envie. »
+420	Ton usage de ce terme a un fort effet sur lui.
+421	Il déglutit de nouveau.
+422	Il t'adresse une expression sévère.
+423	« Non, je- j'imagine que vous avez raison. »
+424	« Ils voudraient pas coopérer de toute façon. Et... ils ont bel et bien une idéologie destructrice. »
+425	« C'est... vrai. »
+426	« Mais vous savez quoi ? J'en ai rien à foutre de ce qu'ils pensent. »
+427	« Ils sont si secrets et... veulent rien nous dire. »
+428	« On peut juste dire que le contrat a fuité vers les Azgals. Peut-être qu'ils l'ont eu en premier. »
+429	« C'est diabolique. J'aime ça. »
+430	« Mentir à la résistance ? Vraiment ? »
+431	« Vous en faites ce que vous voulez. C'est vous le responsable ici. »
+432	« Ouais ? Mais, euh... »
+433	« Pas une mauvaise idée. Mais tu es sûr ? »
+434	« C'est pas comme s'ils nous disaient quoi que ce soit. »
+435	« Vrai. Mais tu es sûr, Rollo ? »
+436	« ...Non. »
+437	Il te regarde de nouveau.
+438	« L'élection, c'est genre, tout de suite. Si on veut faire passer le mot... »
+439	« Le Chant. Oh non... »
+440	« Je pense pas qu'elle va aimer ça, Rollo. »
+441	« C'est probablement vrai. Mais si elle entend ce qu'on a... »
+442	« On peut renverser cette élection. Ensemble. »
+443	« C'est excitant. »
+444	« Il est temps de sauver le monde, les gars ! »
+445	« Génial ! Alors... vous pourriez aider, Clerc ? »
+446	« Bien sûr ! »
+447	« Peut-être. »
+448	« Quoi ? Vraiment ? »
+449	« Je suis occupé. »
+450	« ...Peut-être. »
+451	« Bon, si vous trouvez le temps... »
+452	« Allez demander à Modissa de nous rencontrer, s'il vous plaît. »
+453	« Si vous arrivez à la trouver. On n'a toujours pas réussi à localiser leur presse. Elle doit être dans une sorte de vieille usine ou complexe ici sur Tolstad, mais... on sait pas où. »
+454	« Les Azgalistes ont beaucoup de ressources. Vous savez. »
+455	« J'ai entendu qu'ils sont soutenus par des pièces naines. »
+456	« Euh... moi aussi ! »
+457	Tu repenses aux nains dans cet appartement exigu. Un gloussement se coince dans ta gorge.
+458	« Je la trouverai. »
+459	(Se contenter de hocher la tête.)
+460	« Oh ! Ouais, c'est la fille agaçante avec qui on est en conflit. »
+461	« Celle qui bosse sur Le Chant ? Ce journal azgal ? »
+462	« Écoutez, si vous arrivez à la trouver, faites-lui savoir qu'on veut parler, d'accord ? »
+463	« Oh bien ! »
+464	« ...Attendez, vous l'avez ? Vous SAVEZ où est leur presse ? »
+465	Il te scrute des yeux.
+466	« Vous êtes un Azgal ? »
+467	« Ouais. »
+468	« Nan. »
+469	« Je suis un Nationaliste Azgal. »
+470	« ...Très bien. »
+471	« Je sais pas pourquoi j'ai demandé, je m'en fiche vraiment. »
+472	« Juste... aidez-nous, et on sera contents. C'est plus important. »
+473	Le gamin hoche la tête.
+474	Il est nerveux.
+475	Comme il se doit.
+476	Le gamin blond hoche la tête et regarde ses amis. « La Résistance Norvikienne est contre l'influence azgale et errante dans la cité. »
+477	« Les deux. »
+478	Il redresse sa posture. « Je livrerai ces documents à notre contact. »
+479	« Merci encore, Clerc. Votre service à la cité, à la Résistance, a été inestimable. »
+480	Le grand gamin se ragaillardit.
+481	Le gamin silencieux jette des regards entre toi et Rollo.
+482	Le gamin dégingandé fait naître une faible étincelle dans sa main, l'air nerveux.
+483	« Toutes mes excuses. J'ai dit ça par accident. »
+484	R-« Si, c'en est une. »
+485	« Oh. D'accord. »
+486	« Mais quoi qu'il en soit vous... vous pouvez pas... »
+487	R-« Vous partez. D'une façon ou d'une autre. » (Les combattre.)
+488	« Ouais. Mais je vous surveille. »
+489	« ...D'accord. »
+490	Le gamin blond t'adresse une expression vide. Il jette un œil à ses amis qui semblent tous éviter son regard, avant de baisser les yeux.
+491	Tandis qu'il fixe le sol du rollermill, il répond : « On fait un travail important ici. »
+492	Devrais-je me moquer d'eux parce qu'ils sont au chômage ?
+493	« Vous êtes payés pour tenir ces réunions ? »
+494	« Traîner dans ce rollermill, c'est un "travail important" ? »
+495	« Vous êtes <i>tous</i> au chômage ? »
+496	Ouais ! Frappe-les là où ça fait mal.
+497	Non. Ce serait horrible.
+498	Ces gars ne sont que les produits d'un système défaillant.
+499	En faire des gorges chaudes serait aussi mesquin que de se moquer d'une personne de petite taille pour être née sans une certaine hauteur.
