@@ -1,0 +1,501 @@
+idx	french
+0	Une scène tendue.
+1	« Oh, un clerc ! Juste à temps. »
+2	Quatre jeunes gars, chacun l'air un peu nerveux.
+3	Quatre jeunes gars, à traîner là, l'air normal.
+4	Sauf le gamin blond à l'air furieux.
+5	« On a confisqué les marchandises illégales », dit-il en inclinant la tête.
+6	« Pour la cité ! »
+7	Il tourne la tête vers l'un des gamins derrière lui.
+8	« Comment ça avance, Urth-Nisse ? »
+9	« J'essaie. Attends. »
+10	« Vous êtes la milice ? »
+11	« Beau boulot, gamin. »
+12	(Pointer le gamin dégingandé qui essaie de lancer un tour de magie.) « Hé. Arrête ça. »
+13	Le gamin blond secoue la tête.
+14	Il sourit. « Merci, Clerc ! »
+15	Il se fige et lance au gamin blond un regard nerveux.
+16	« Oh. Désolé, Clerc. »
+17	Tu vois Rollo lui faire signe de la main. Un geste pour qu'il ignore ton commentaire.
+18	« Je suis Rollo », dit le gamin blond en s'inclinant. « Rollo Malach ! À votre service. Derrière moi il y a Urth-Nisse, Stenbusken, et Toli. Nous sommes membres de la Résistance Norvikienne, un mouvement pour- »
+19	« Vous êtes des <i>voleurs</i> ! »
+20	« Et des brûleurs de livres ignares ! »
+21	La fille ajuste ses lunettes et redresse le dos.
+22	« Avec tout le respect que je vous dois, Monsieur le Clerc », dit-elle. « Ne croyez pas un mot de ces voyous. »
+23	Tu remarques les deux autres filles derrière elle, une halfeline et une naine, qui se regardent.
+24	« Connards ! »
+25	« Attention, c'est un vrai clerc... »
+26	« Des voyous ? Allez, Modissa. Sérieux ? Comme si les JA n'étaient pas qu'une bande de vauriens ! »
+27	« J'en ai assez vu », te chuchote le gobelin en soupirant. « Juste des activistes qui s'écharpent. »
+28	« Bonjour tout le monde ! Je suis Le Clerc. »
+29	« Je suis perdu. Il y a un problème ici ? »
+30	(Se contenter de les laisser continuer à se disputer.)
+31	« Les Jeunesses Azgalistes. »
+32	« Tu vois son brassard vert ? »
+33	« Le problème est réglé, Seigneur Clerc. »
+34	« Oh- allez vous faire foutre. »
+35	« Ils ont volé », siffle-t-elle, puis elle se tourne vers Rollo pour aboyer : « <b>Tu as VOLÉ</b> toute notre livraison de Waterlane ! »
+36	« Ouais, bien sûr. D'un journal <i>illégal</i>. »
+37	« Seigneur Clerc, je vous assure, on rend service à la cité, là. »
+38	« Je retire ce que j'ai dit. C'est juste une bande de rôlistes. »
+39	« Je vois. C'est une querelle d'amoureux. »
+40	« Seigneur Clerc ? Hm. J'aime bien. Je suis <b>Le</b> Seigneur Clerc. »
+41	« Attends une seconde. Non... je dois corriger quelque chose ici. Je ne suis pas vraiment un clerc. »
+42	« D'accord. Alors, je sens un conflit ici. »
+43	« Vous avez même le droit d'être dehors aussi tard, les gamins ? »
+44	« Quoi ?! Non ! »
+45	Il rougit.
+46	La fille t'adresse un froncement incrédule.
+47	Et elle est dégoûtée.
+48	« C'est pas- Clerc. Concentrez-vous. »
+49	« Oh. Bien sûr ! »
+50	« Ah bon ? »
+51	Le gars derrière lui se met à bégayer : « Q-quoi êtes-vous alors ? Genre... quoi ? »
+52	« Je suis en fait un roublard super classe. »
+53	« Vous voyez pas que je suis un puissant magicien ? »
+54	« Un quoi ? »
+55	« Tu sais. Du genre bretteur. »
+56	« Tu sais. Un voleur. »
+57	« Tu sais. Éclaireur furtif, ou peu importe. »
+58	« ...Ridicule. » Elle marmonne pour elle-même et enfouit son visage dans ses mains.
+59	Elle en a tellement marre.
+60	Un meilleur roublard aurait obtenu une meilleure réaction, il me semble.
+61	« Ah ! Comme un clerc-magicien ! »
+62	« Bien sûr. Je prends. »
+63	« <shake>Non !</shake> Pourquoi ça rentre pas dans vos épais crânes ?! » (Taper des pieds.)
+64	« Juste un magicien, s'il vous plaît. »
+65	Ils sont pris de court par ton exclamation.
+66	« Qu'est-ce qui <i>cloche</i> chez ce type ? » dit la halfeline à la naine.
+67	« D'accord. On peut... on peut faire ça. »
+68	Tandis que tu traînes des pieds, tous les adolescents te regardent d'un air désapprobateur.
+69	« ...D'accord. »
+70	« Un... druide ? »
+71	« Alors on ne devrait pas vous appeler clerc, alors ? »
+72	« Hm. Non, pour des raisons légales vous pouvez continuer à m'appeler clerc. »
+73	« Je ne vous fais pas confiance pour vous adresser à moi correctement, alors Seigneur Maître Clerc, ça ira. Ou quelque chose d'approchant. »
+74	(Se contenter de le fixer, et respirer bruyamment.)
+75	Le gamin blond se contente de hocher lentement la tête.
+76	Il ne te comprend pas.
+77	Les deux camps te regardent en fronçant les sourcils.
+78	« Écoute, j'ai déjà du mal à voir l'âge qu'ont les humains, mais... »
+79	« Ce sont clairement de jeunes adultes. Même s'ils n'agissent pas selon leur âge. »
+80	« Hé ! La ferme, gobelin ! »
+81	Ton compagnon serre ses crocs acérés en direction du gamin blond.
+82	« Hé, gamin. <b>Tu veux mourir ?</b> Continue de parler. »
+83	Il recule d'un pas.
+84	Impressionnant. Le gobelin tient bon.
+85	Ce gobelin a du mordant ! Bon sang !
+86	« Vous êtes là pour faire respecter la loi, non ? »
+87	« Alors arrêtez ces connards ! »
+88	« Maintenant ! »
+89	La naine lui attrape la main et la retient. « Modissa... calme-toi. S'il te plaît... »
+90	(Pointer la fille azgale.) « Toi. Explique ta version. »
+91	(Pointer le garçon nationaliste.) « Bon, toi. Qu'est-ce qui se passe ici ? »
+92	Que dit la loi sur ce conflit ?
+93	« Vous votez quoi à l'élection, vous autres ? »
+94	« D'accord. J'en suis venu à une conclusion. »
+95	Elle ricane.
+96	« D'accord. Bon. »
+97	Son amie naine marmonne « Modissa... » d'un ton inquiet.
+98	Ses amies essaient de l'empêcher d'être trop effrontée. Pourquoi ? Si elles ont raison, elle devrait être effrontée.
+99	« Nous livrons les journaux pour le Chant Azgalien. Vous en avez peut-être entendu parler. C'est un truc plutôt important. »
+100	Il glousse.
+101	Le journal n'est pas terriblement populaire. Mais il est connu pour ses articles radicaux et ses positions politiques.
+102	Elle prend une inspiration brusque. « On a un emploi du temps chargé, et juste au moment où on a commencé à livrer les journaux à Waterlane, ces tas de <b>merde</b> se sont mis à nous suivre. »
+103	« À prendre les journaux qu'on venait de livrer directement dans les boîtes aux lettres des gens ! »
+104	« C'est illégal, non ? » demande la halfeline.
+105	« Hautement illégal. »
+106	« Plutôt illégal. »
+107	« Juste un peu illégal. Peut-être. »
+108	« Bien sûr que c'est illégal ! »
+109	Ton opinion n'enregistre même pas - elle ne l'entend même pas. Comportement insolent.
+110	Elle se fiche de ton opinion sur la légalité du vol de courrier. Quelle impolitesse.
+111	« Et ensuite ils attrapent une de nos piles de journaux venue de Xerba. Genre, carrément de l'agression, du vol et...! »
+112	« Modissa, ce n'était pas... »
+113	« Ils peuvent pas s'en tirer comme ça ! »
+114	Ce n'était probablement pas si grave.
+115	Pauvre fille.
+116	« D'abord, merci d'écouter la raison. »
+117	« Je sais qu'on a l'air de gamins débiles, mais on ne l'est pas. »
+118	Quelque chose dans son expression te fait penser exactement le contraire.
+119	Brûler l'écrit ne fait rien pour dissiper une telle idée.
+120	Ouais. Non, ce sont des gamins débiles. Aucun doute.
+121	Il te désigne, puis se désigne lui-même. « On est dans le même camp, là. »
+122	« J'ai pas l'air débile. »
+123	Dit-il, l'air débile.
+124	« Arrête de gagner du temps. Dis-moi ce que tu fais ici. »
+125	« Ouais-ouais. »
+126	(Lui faire un câlin.)
+127	Le garçon crispe physiquement toute sa posture en un mur défensif tandis que tu t'avances pour l'étreindre - dans un câlin viril.
+128	« ...Hein ? »
+129	(Chuchoter.) « On est ensemble là-dedans, mon frère. »
+130	« T'es un bon gamin. Continue de mener le bon combat. »
+131	(Relâcher l'étreinte.)
+132	Le gamin blond recule loin de toi avec un air ahuri sur le visage.
+133	L'absence d'une vraie figure paternelle laissera les jeunes garçons incapables d'apprécier un câlin viril.
+134	Il ne se fait pas souvent câliner.
+135	« Oh là là. Ils y vont. »
+136	La halfeline lance une acclamation.
+137	« Un baiser ! Un baiser ! »
+138	Modissa ricane. « Tout droit sorti de <i>Skyline Boys</i>. »
+139	Beurk.
+140	D'une manière ou d'une autre, leurs commentaires ternissent cette virile démonstration d'amour.
+141	Ça te met mal à l'aise.
+142	« Alors... »
+143	« On a entendu parler du Chant Azgal livré à Tolstad. »
+144	« Enfin, moi je l'ai entendu. À la Guilde. »
+145	« Je travaille à la Pêcherie. Et je vois chaque jour comment le peuple d'Urth se fait radicaliser par des âneries naines. »
+146	« Alors... je me suis dit que je prendrais les gars avec moi et qu'on... tu vois. »
+147	« Qu'on y mettrait un terme. »
+148	« Tu veux arrêter la production d'un journal de cuivre ? »
+149	« Par la violence et la terreur ? »
+150	(Jeter un œil à la pile de papier derrière lui.)
+151	« On, euh... on a pas réussi à trouver où le truc était imprimé ni rien. »
+152	« Beaucoup de zines de presse de cuivre n'ont pas vraiment de compagnies officielles derrière. »
+153	« Surtout des ordures comme le Chant », entends-tu venir du petit gamin au fond.
+154	« Va te faire foutre, Toli ! »
+155	« Hé, hé, du calme ! Je raconte <i>notre</i> histoire, là ! Au bon Seigneur Clerc ! »
+156	Il se retourne vers toi et tousse une fois.
+157	« Bien sûr, c'est illégal de distribuer des journaux sans licence dans tous les districts officiels. Alors je me renseigne. Apparemment, quelqu'un a vu ces filles à l'Université faire le tour, à le livrer. »
+158	« C'était pas si difficile à deviner : c'était Modissa qui faisait les livraisons. »
+159	« Cette <i>Modissa</i> de merde. »
+160	« Elle n'a pas le droit de faire ça », dit le grand gamin au fond avec un hochement de tête.
+161	« Attends, vous vous connaissez ? Il y a un passé, là ? »
+162	(Se tourner vers les filles.) « Ils ne vous aiment pas, hein ? »
+163	« Euh. Ouais. »
+164	« Ils n'aiment pas les femmes en général », dit-elle en fronçant les sourcils.
+165	« À l'école, tout le monde savait qui était Modissa. »
+166	« L'"Emmerdeuse Azgaliste" », dit le gamin blond avec un rictus.
+167	« Un surnom vraiment nul. Sans imagination et ennuyeux. Et aussi, va te faire foutre. »
+168	« Bref, c'est comme ça qu'on en est arrivés là. Elles livrent un magazine illégal, et on y a mis un terme. »
+169	Il sourit largement et fièrement.
+170	Le Chant Azgal - ou peu importe le nom idiot que son éditeur anonyme lui a donné - n'a pas de licence de distribution à Tolstad.
+171	Exiger des licences pour la distribution publique est une méthode typique pour réprimer l'intention journalistique à Norvik.
+172	La cité sait que les journaux terribles ne devraient pas être distribués.
+173	En même temps, il est aussi illégal de voler des journaux livrés dans les boîtes aux lettres.
+174	Même si ces journaux sont livrés illégalement.
+175	Ça fait beaucoup d'illégalité.
+176	Les deux sont en tort ?
+177	De différentes façons, oui.
+178	Bien qu'il soit clair que les garçons sont des brutes, et les filles des victimes.
+179	Ton sens de la justice ne dit qu'une chose.
+180	Les journaux sont emplis de propagande à rendre malade.
+181	Laisse-le brûler.
+182	« <i>Ce n'est pas le moment</i> », dit Snell en se frottant les yeux.
+183	« Le Parti des Travailleurs », dit-elle. « Évidemment. »
+184	« Pareil pour moi ! »
+185	La naine lève la main, prudemment. « O-ouais. »
+186	« Et ces stupides garçons votent évidemment pour le Parti de Norvik. »
+187	« Non, c'est faux. Aucun de nous. »
+188	« Ouais. Qu'ils crèvent. »
+189	« Quoi ? »
+190	« Euh. Ouais. Non. »
+191	Le gamin silencieux au fond lève le poing en l'air. « À bas l'establishment. »
+192	Rollo hoche la tête vers le Clerc. « Il y a des forces plus profondes à l'œuvre ici. »
+193	« Des forces divines. »
+194	« Tu devrais soutenir la cité, gamin. »
+195	« Je vois. Vous votez Azgaliste aussi, alors ? Pareil. »
+196	« Oh. Vous êtes des Errants ? Très cool. »
+197	« Vous devriez évidemment voter pour <b>moi</b>. »
+198	« Agrarien, c'est... un bon choix. »
+199	« Quoi, vous ne votez pour rien ? »
+200	« Oh, si. Mais... »
+201	« Quoi ? Non ! »
+202	« Quoi ? Bien sûr que non. À bas les Errants plus que tout. »
+203	« Quoi ? Vous êtes sur le bulletin ? »
+204	« Non. Écris juste LE CLERC sur ta carte de vote, et ça devrait le faire. »
+205	« Un jour... » (Serrer le poing.)
+206	« Euh. D'accord. Mais... non. »
+207	« Ils sont encore dans les parages ? »
+208	« Ferme-la ! » (Bouillir.)
+209	« ...Non. Ils ne le sont pas. » (Bouillir davantage.)
+210	Il lève les mains. « Hé, j'ai rien contre leurs mesures d'origine. Mais ils ont tous viré Azgal ! Alors... non. »
+211	« En effet ! »
+212	« On ne vote pas. Pas du tout. »
+213	Il a l'air incroyablement fier.
+214	Pas un mauvais choix, vu ce bordel.
+215	« Vous êtes apolitiques ? C'est impressionnant. Je suis aussi apolitique. Je ne m'engage pas dans la politique. »
+216	« Quoi ? Si tu ne t'engages pas dans la démocratie, les méchants gagnent ! »
+217	« Juste. »
+218	« Apolitique ? »
+219	« Ça n'existe pas. »
+220	« Ça existe. »
+221	« Quoi ? Vraiment ? »
+222	« Ma tante est apolitique. Elle dit que c'est trop à penser, la démocratie. Elle aimait bien quand Urth régnait. »
+223	« Mon père dit la même chose, mais il va voter pour les Nationalistes. »
+224	« Oh. C'est ce que fait ma tante aussi. Peut-être qu'elle n'est pas apolitique... »
+225	« Les gars. Concentrez-vous. »
+226	« Nous », dit le gamin blond, désignant ses trois amis.
+227	« Nous combattons les forces du mal- prêts à établir une véritable résistance aux sentiments anti-humains. »
+228	« Pour Urth ! »
+229	La fille au front plissé soupire bruyamment.
+230	« Qu'Urth soit Béni ! »
+231	« Sentiment intéressant. »
+232	« Ça ressemble à une conspiration...! »
+233	« Retire mon dieu de ta bouche, gamin. »
+234	« Il l'est ! »
+235	« Euh. Ouais ! »
+236	« Ouais-ouais. » Le gamin blond regarde à sa gauche et à sa droite. « Carrément. »
+237	« Euh- je suis- »
+238	Il bégaie et regarde les gars derrière lui.
+239	« Désolé. »
+240	Avec ton sens de l'humour spirituel ?
+241	Non. Le sort.
+242	Ce serait une solution.
+243	Dis-leur que tu as pris ta décision, puis lance-le sur l'un d'eux.
+244	Dis-leur que tu en as fini ici, puis lance-le simplement sur eux après ça, ou un truc du genre.
+245	« Bien », dit-elle, et elle hoche la tête.
+246	Elle cache une expression nerveuse.
+247	« Parfait ! Euh... Bien. »
+248	Il est extérieurement très nerveux.
+249	(S'approcher du gamin blond pour voir si tu peux faire reculer ces <i>Nationalistes</i>.)
+250	(S'approcher de la fille à lunettes pour vérifier si tu peux argumenter contre ces <i>Azgals</i>.)
+251	« Oh. Salut. » Il te fixe, essayant de garder son sang-froid.
+252	Il est terrifié.
+253	Ça peut vite déraper.
+254	Si tu échoues à lui dire de rendre les journaux, ça pourrait mal tourner.
+255	Ton corps pourrait s'échauffer.
+256	Tu es déjà frustré.
+257	Tu risques de le passer sur les deux camps si tu échoues à les faire rendre les journaux.
+258	Prudence.
+259	(Le fixer.)
+260	(Agiter tes doigts devant son visage.)
+261	« Ça va ? »
+262	Lui dire de rendre les journaux d'une manière posée et réfléchie.
+263	(Reculer.)
+264	« Euh... »
+265	Ses pores transpirent.
+266	Le gamin est horrifié par ta présence heaumée.
+267	Il tressaille.
+268	Il détourne le regard, puis vers toi.
+269	« Ça va. »
+270	« Bon pour quoi ? » demande le grand garçon.
+271	« Non, juste bien. Comme une bonne personne. »
+272	« Oh. Logique. »
+273	Tu vois le gamin blond prendre une profonde inspiration.
+274	« Qu'est-ce que tu- hé. »
+275	Elle fronce les sourcils à ton approche.
+276	« Qu'est-ce que vous voulez ? »
+277	Elles ont l'air très sur la défensive.
+278	Elles se préparent à l'hostilité.
+279	« Alors tu es genre une cheffe de gang azgalienne, hein ? »
+280	(Se pencher tout près.) « Tu n'es pas maléfique, si ? »
+281	Construire un argument qui la fait partir.
+282	Elle tente d'accueillir ta question par un froncement de sourcils.
+283	Mais elle a surtout l'air stressée.
+284	« Non. Je suis juste une Azgale, au travail. »
+285	« Monsieur le Clerc. »
+286	Elle te fusille du regard.
+287	« Non. Monsieur le Clerc. »
+288	Oh.
+289	À regret, il faut t'en informer.
+290	Il n'y a pas d'argument juridique clair ici pour toi.
+291	Quoi, vraiment ?
+292	La nature même de ce conflit tient au fait que les deux camps ont des problèmes juridiques.
+293	Quels que soient les arguments que tu peux trouver, elle les réfutera par l'illégalité de l'autre camp.
+294	C'est une situation du genre « et eux alors ».
+295	Alors qu'est-ce que je fais ?
+296	Tu trouves un autre moyen. Ou... peut-être que tu repenses simplement ta stratégie.
+297	Elle te plisse les yeux quelques secondes avant de répondre.
+298	« Je n'ai pas besoin de licence en tant que livreuse de journaux. Mon patron, l'ICA - Imprimeur de Cuivre Azgalien - est pleinement en droit d'imprimer ce journal. »
+299	« Sâ de sâ. »
+300	Expression d'argot nain qui signifie en gros : « C'est comme ça. »
+301	Sa déclaration est vraie. Mais elle danse autour du fait que c'est son patron qui n'a pas la licence pour distribuer à Tolstad.
+302	Tu surprends son œil qui tressaille. Hé. Elle est nerveuse !
+303	Peut-être. Mais tu dois t'engager dans une forme profonde et méditative d'empathie pour y parvenir.
+304	Probablement pas. Peut-être.
+305	Trouver une solution de compromis qui ne satisfait personne.
+306	Nan.
+307	Hmm. Non.
+308	Pas de compromis. Il va falloir affronter ça de front. D'une manière ou d'une autre.
+309	Mm.
+310	Bien. Tu es aux commandes.
+311	Prends une profonde inspiration et dis à ce gamin de rendre les journaux et-
+312	« Tu n'as PAS le droit ! »
+313	Oh. Oh non... la colère...
+314	Le gamin blond recule en trébuchant.
+315	Elle prend le dessus...
+316	« <b>Arrête ça ! PAS DE BRÛLAGE !</b> »
+317	« Quoi...! Mais c'est... »
+318	Il te résiste.
+319	« On protège le peuple d'Urth de cette immondice ! »
+320	« De l'immondice ? Comment le saurais-tu, Rollo ? Tu sais seulement lire ? »
+321	« Haha, ouais ! » acquiesce la halfeline.
+322	« Hé, la ferme ! »
+323	« Les gars... » marmonne la naine en te jetant un regard.
+324	Elle sait que tu es sur le point d'exploser.
+325	« Reste tranquille. J'essaie de garder le contrôle. »
+326	« Typique. Retomber dans les insultes débiles. »
+327	« Urth-Nisse. Fais-le. »
+328	Ils n'écoutent pas.
+329	« J'essaie... j'essaie », dit-il, et il continue d'envoyer des étincelles sur la pile de papier humide.
+330	« Ugh, arrête, c'est tout ! Ça doit être illégal d'allumer un feu en pleine rue, non ? »
+331	« Non, Monsieur le Clerc ? »
+332	« Bien sûr que ça l'est ! »
+333	La colère qui monte.
+334	« Sérieusement. Arrête ça. Je- »
+335	« Euh. Non, ça l'est pas. »
+336	Le gamin silencieux au fond continue de hocher vigoureusement la tête.
+337	« Brûle-le ! Allez ! »
+338	La rage entre dans ton cœur.
+339	<b>« ÇA SUFFIT. »</b>
+340	Ton éclat les fait réellement se taire.
+341	« J'en ai <b>ASSEZ</b>. »
+342	Ils se regardent.
+343	« J'imagine que ça marche. Maintenant, Clerc, et si- »
+344	« Quelqu'un doit mourir pour ça ! »
+345	« ...Pardon ? »
+346	« Mourir ? »
+347	« Une <i>exécution</i>. Tout de suite. L'un de vous. »
+348	Un silence stupéfait balaie la rue auparavant turbulente.
+349	« Et puisque vous aimez tous tellement la démocratie... » (Faire un pas en avant.)
+350	« ...Qu'est-ce qu'il fait ? »
+351	« Chacun de vous vote. Vous avez dix secondes. La personne avec le plus de voix a l'honneur. » (Se placer entre eux et pointer un endroit où l'exécution aura lieu.)
+352	« Vous pouvez pas... faire ça ? »
+353	« A-attends une seconde... »
+354	« <shake>MAINTENANT !</shake> »
+355	Le grand gamin lève la main et pointe vers Rollo.
+356	« Vote pas pour <i>moi</i>, connard ! »
+357	« C'est quoi ce bordel...? »
+358	« Rollo. On devrait, euh... se tirer d'ici ? »
+359	Ton compagnon reste silencieux.
+360	Un sourire en coin ?
+361	Il s'efforce vraiment de ne pas se marrer comme une baleine.
+362	Le gamin blond attrape vite la pile de journaux et la lance aux filles.
+363	« Au diable ça. COUREZ ! »
+364	À l'instant où Modissa attrape la pile, elle marmonne quelque chose dans sa barbe - puis elle et ses copines détalent toutes elles aussi.
+365	En quelques secondes, les deux camps se dispersent.
+366	Le gobelin te fait un haussement d'épaules. « Peu orthodoxe. Un peu fou. Mais bon, ça a marché. »
+367	(Prendre une profonde inspiration, et laisser la rage se dissiper.)
+368	Une véritable démonstration de puissance.
+369	« Euh. T'allais pas vraiment... »
+370	Il fait glisser un doigt sur sa gorge.
+371	Oh que si.
+372	« D'accord. Cool. Bien sûr. »
+373	« Je... vous crois vraiment. »
+374	(Partir. Maintenant.)
+375	Un argument...
+376	Les deux camps ici sont juridiquement en tort. Alors si tu souhaites qu'elle abandonne ses prétentions et parte, tu dois trouver un autre angle.
+377	Hmm...
+378	Un angle que tu n'as pas encore envisagé. Un qui n'est pas évident.
+379	Menacer de violence physique ?
+380	Je pourrais peut-être les acheter ?
+381	Attends, qui commande réellement ici ?
+382	Non.
+383	Non. Ils ne se soucient pas de la richesse.
+384	Ah. Oui.
+385	Son patron. Celui qui n'a pas la licence.
+386	Ce genre d'organisation de presse de cuivre n'est pas nécessairement illégal selon le code de la cité.
+387	Mais c'est dans une zone grise. Et il y a bien des forces qui souhaitent les fermer pour de bon.
+388	Et si tu...
+389	« Toi. La fille aux lunettes. »
+390	Elle croise ton regard en fronçant les sourcils.
+391	« Tu as une chance de t'en aller maintenant. Avant que je sois forcé de faire remonter ça dans la hiérarchie. »
+392	« Tout sera fermé si tu ne laisses pas tomber. »
+393	Ses yeux s'écarquillent.
+394	Sa respiration s'intensifie.
+395	Elle entre en mode combat ou fuite.
+396	Un ricanement. « Alors quoi, tu vas juste... quoi ? »
+397	« J'abattrais volontiers le marteau sur toute cette affaire, si tu m'en donnes l'occasion. »
+398	« J'en ai pas envie. Ne m'y force pas. »
+399	(Se contenter de hocher lentement la tête.)
+400	Elle rit.
+401	La naine et la halfeline derrière elle sont très silencieuses tandis qu'elle cesse de rire.
+402	Ses yeux montrent de la peur.
+403	« D'accord. Bien sûr. Bon. »
+404	Elle lève les bras en l'air. « Au diable ça. »
+405	Bombe le torse.
+406	Prends une profonde inspiration.
+407	(Poser une main sur son épaule.)
+408	Ta main gantée l'agrippe fermement et il t'adresse une expression paniquée.
+409	« Gamin. Rends-lui les journaux. »
+410	« Euh », marmonne-t-il, essayant de formuler un argument.
+411	« Non. Reste tranquille. »
+412	Il te fusille du regard.
+413	« Rends. Les. Journaux. »
+414	Il détourne le regard de toi.
+415	Tu peux voir son esprit tourner derrière ces yeux écarquillés.
+416	Puis il hoche lentement la tête.
+417	Il est temps.
+418	D'un compromis.
+419	« Vous deux. Écoutez bien. »
+420	Ta voix calme et déterminée résonne à travers la rue.
+421	Dis aux filles : « Vous ne pouvez pas livrer votre journal. » Puis dis aux garçons : « Et vous ne pouvez pas le voler. »
+422	« Vous. Pouvez. Pas. Le livrer. »
+423	« C'est ce que je dis depuis le début ! Elles ont- »
+424	« Et vous. Pouvez. Pas. Le prendre. »
+425	« Écoute-le, c'est tout. Allez. »
+426	Le gamin blond serre les dents. Puis il attrape la pile de journaux et la lance de l'autre côté.
+427	« Ouf...! » grogne Modissa en l'attrapant.
+428	Puis elle se tourne immédiatement vers toi. « Qu'est-ce que vous voulez dire ? On a tout à fait le droit de- »
+429	« Non. Livraison. Sans. <b>Licence</b>. »
+430	« Bon. »
+431	Les garçons se dispersent vite, marmonnant entre eux.
+432	« Laisse tomber », dit la naine à Modissa, tandis qu'elle s'avance vers toi.
+433	« Hé, Monsieur le Clerc ? Vous savez qu'on va juste les livrer quand même, hein ? »
+434	« Je compte là-dessus. » (Lui faire un pouce en l'air.)
+435	« Fais-le juste un peu plus tard. Pour que ce gamin blond ne remarque pas. »
+436	« Je m'en fiche. Arrête juste de causer des ennuis. »
+437	« Si je te prends à faire ça, direction la geôle. »
+438	Tandis que tu réponds, elle se retourne et s'éloigne.
+439	« Bon. Tu as bien fait disparaître le problème. Plus ou moins. »
+440	« Maintenant tirons-nous d'ici. »
+441	Va.
+442	L'air scintille.
+443	« Qu'est-ce que vous...! »
+444	« Ho là... »
+445	Tu englobes les deux gamins qui se disputent dans ta Zone.
+446	« Ceci est un interrogatoire officiel de la cité. Répondez à mes questions. Le silence est illégal. »
+447	« Répondez à mes questions, je vous prie. »
+448	« C'est de la magie divine ? <i>Je trouve ça très cool</i> », dit-il, en fronçant les sourcils.
+449	« Attendez... pourquoi est-ce que je...? <i>Maintenant j'ai un peu peur aussi</i>. »
+450	« Vous pouvez pas juste- <i>J'aime pas quand vous me lancez de la magie dessus</i>. »
+451	« <i>Je me sens violée</i>. Quoi ? Pourquoi est-ce que je...? »
+452	« De la magie d'interrogatoire ? <i>Je me sens contraint de dire la vérité</i>. »
+453	Tous les deux ont l'air incroyablement mal à l'aise.
+454	Le sort fonctionne. Maintenant vas-y, demande.
+455	« Pourquoi es-tu si en colère ? »
+456	« Tu fais quelque chose d'illégal, ici ? »
+457	« De quelle couleur est le ciel ? »
+458	« À qui la faute, ici ? »
+459	« L'un de vous est-il maléfique ? »
+460	« J'ai faim, l'un de vous a faim ? »
+461	« Parce que je me sens impuissante et aliénée de la société. »
+462	Elle se plaque la main sur la bouche.
+463	« Parce que ceux comme moi étaient aux commandes avant, et maintenant ce sont ceux qui ne sont pas comme moi qui sont aux commandes. »
+464	Il fait « Hein... » et baisse les yeux.
+465	« Oui. »
+466	« Ouais. »
+467	Ils se regardent l'un l'autre, puis toi.
+468	« Bleu ? »
+469	« Ouais, bleu ! »
+470	« C'est elle. »
+471	« C'est lui. »
+472	« Mauvaise question. Trop subjectif. »
+473	« Non ! »
+474	« Non. »
+475	« Attends... tu dis ça parce que tu le crois, ou parce que c'est objectivement vrai ? »
+476	« Euh. Je sais pas ? »
+477	« Ouais. Ce qu'elle a dit. »
+478	« Putains d'enfers. »
+479	Tous les adolescents secouent la tête.
+480	« Vous vous foutez de nous ? »
+481	La magie s'estompe et tous les deux ont l'air soulagés.
+482	Tu l'entends chuchoter quelque chose à ses amies.
+483	Elle a chuchoté : « Je déteste les clercs. »
+484	« C'était... intense. »
+485	« Allez. Faisons avancer les choses ici. »
+486	« Euh. »
+487	Tu vois le gamin silencieux au fond faire quelques pas en arrière.
+488	Elle hoche lentement la tête. « Peut-être... qu'on pourrait faire un... »
+489	« Comme vous dites, un <i>compromis</i>. »
+490	Ça lui fait mal de dire le mot.
+491	Tu vois la magie imposer une soudaine attitude amicale.
+492	« Monsieur le Clerc. Que pensez-vous qu'on devrait faire ? »
+493	« Modissa ? »
+494	« Je pense que tu devrais partir. »
+495	Elle hoche la tête. « Bon. D'accord. »
+496	« Quoi ? Mais... »
+497	« Allons-y. C'est pour le mieux. »
+498	« Oh. Euh... hé, je- qu'est-ce que <i>toi</i> tu penses qu'on devrait faire ? »
+499	« Rollo ? »

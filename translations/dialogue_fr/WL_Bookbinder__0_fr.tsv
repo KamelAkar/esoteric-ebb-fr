@@ -1,0 +1,308 @@
+idx	french
+0	Tu t'approches de la porte.
+1	« Un relieur ? Tu as affaire ici ? »
+2	(Frapper à la porte.)
+3	(Partir.)
+4	« C'est amusant. Je m'y attendais pas, vu... tout. Je suis pas un grand lecteur moi-même, mais je m'adonne à l'occasion. »
+5	Il a l'air surpris.
+6	C'est grossier. <shake>Très grossier</shake>...
+7	Mais ce n'est que du <i>badinage</i>. Tu peux gérer ça.
+8	« Quoi, tu croyais que j'aime pas les livres ? Je suis un clerc <i>professionnel et hautement porté sur l'ésotérique</i>. Bien sûr que j'adore les livres ! » (Être offensé.)
+9	« Quel genre de magicien détesterait les livres ? » (Être un magicien.)
+10	« <i>Toi</i>, tu sais lire ? »
+11	« Roublard. »
+12	« Tu es vexé ? »
+13	Il esquisse un sourire.
+14	« Genre, vraiment ? »
+15	Pff. Non.
+16	Légèrement. Oui.
+17	Tu sens un bouillonnement monter.
+18	C'est... de la rage.
+19	« <i>NON.</i> »
+20	« Ouais, un peu. »
+21	(Émettre des bruits de clerc grincheux.)
+22	Le gobelin étouffe un rire.
+23	Il hausse les épaules.
+24	« Enfin, c'est un stéréotype. Je te pensais plus original que ça. »
+25	« Alors quoi, je suis un <i>singe-magicien illettré</i> ? Ceux-là n'existent plus depuis l'Ère du Déclin ! »
+26	« Que veux-tu que je te dise ? Je suis ennuyeux. »
+27	« Je sais pas trop, mais... »
+28	« J'apprends quelque chose de nouveau sur toi à chaque minute, on dirait. »
+29	« Va te faire foutre. »
+30	« Vous voulez dire une partition ? Ou... quoi ? »
+31	« Je suis un barde du genre danseur, alors... non. »
+32	« Mais tu viens de dire...? »
+33	« Laisse tomber. Je change d'avis. »
+34	Il grogne.
+35	« Je sais pas, Clerc. »
+36	Son bruit rend clair qu'il est las de t'entendre parler de choses druidiques, malgré le fait qu'il devrait célébrer ton amour passionné de la nature.
+37	« ...Quoi ? »
+38	« Pardon ? »
+39	« Roublard. Je suis un roublard. »
+40	« J'ai pas demandé ! »
+41	« Enfin. On devrait peut-être pas juste rester plantés là à parler devant une boutique. »
+42	« Tu frappes, ou on part ? »
+43	Quelques secondes après le coup, la fente sur la porte coulisse.
+44	Au-delà, tu vois une paire de grands yeux jaunes te fusiller du regard.
+45	« Hého. »
+46	Un oiseau.
+47	« C'est le contrôle des nuisibles ? »
+48	Les yeux s'inclinent vivement vers la gauche.
+49	S'inclinent ?
+50	« Non. »
+51	« Oui. »
+52	« En un sens ? »
+53	« Non... »
+54	Les yeux se rapprochent de la fente dans la porte. Ce faisant, une touffe de plumes grises dépasse.
+55	Un homme-oiseau.
+56	Ah ! Un hibou !
+57	« Hm ? Un <i>clerc</i> ? »
+58	« Non, je suis un magicien. »
+59	« Non, je suis un roublard. »
+60	« Ouais. Évidemment. »
+61	« Hm. »
+62	L'homme-oiseau derrière la porte ébouriffe ses plumes.
+63	« <i>Shěn Yêlan</i> est mon nom. »
+64	« Si vous n'êtes pas le contrôle des nuisibles, je n'ai besoin de rien de vous. Veuillez partir. »
+65	Le guichet de la porte s'ouvre d'un coup.
+66	Une paire d'yeux jaunes perçants te fixe de derrière un voile de plumes touffues.
+67	(Glisser une AEFA dans la fente de dépôt.) « De la part des Errants d'à côté. »
+68	« Tu veux aller boire à la taverne plus tard ? »
+69	« Êtes-vous un savant ? »
+70	« Merci de votre temps. »
+71	Si sévère.
+72	Bien. Il devrait continuer à travailler.
+73	C'est honorable.
+74	« Une discussion ? »
+75	« Je ne vous croyais pas du genre à parler aux animaux. »
+76	« Tant pis. Vous avez ma gratitude. »
+77	« Moitié prix sur un futur travail ! »
+78	« Un livre de prières, oui ? J'en ai vu pas mal. »
+79	« Dépose à l'intérieur, je vais jeter-un-œil-voir. »
+80	(Le déposer.)
+81	« Peut-être plus tard. J'ai encore besoin de ce fatras cassé. »
+82	« Bien. Quoi d'autre ? »
+83	« Oui, oui. Horrible. Eau salée. Laissé gondolé. »
+84	« Vous auriez pu éviter le pire de ceci si le processus de séchage avait été mieux géré. »
+85	« Je vais relier de nouveau cet immonde fatras pour vous. »
+86	« Super, merci. » (Se retourner pour partir.)
+87	« Combien ça va coûter ? »
+88	« Vous êtes sûr de pouvoir le faire ? Il est plutôt fichu. »
+89	« Une dernière chose. Avant que vous ne détaliez. »
+90	« On verra. Ça dépend du processus. »
+91	« Bien sûr ! Pour qui me prenez-vous ? »
+92	« J'aurai besoin d'indications sur la direction de la reliure. »
+93	« Les sorts à l'intérieur sont perdus, cependant le style et la mise en forme peuvent être sauvés. »
+94	« Avec mon savoir-faire je peux viser quelque chose des Tours. Ce qui serait le plus proche de l'œuvre originale. »
+95	« Je pourrais aussi me concentrer sur une reliure dans le style d'un <i>registre druidique</i>. Ou peut-être d'un <i>grimoire</i> des arts sombres et interdits. »
+96	« De la magie interdite ? N'est-ce pas illégal ? D'où le nom. »
+97	« Vous connaissez les trucs druidiques ? »
+98	« Avez-vous travaillé sur beaucoup d'outils cléricaux ? »
+99	« Refais-le juste aussi bien que tu peux avec l'intention originale à l'esprit. » (Choisir une amélioration d'INTELLIGENCE.)
+100	« Fais-en un Registre Druidique primordial. » (Choisir une amélioration de SAGESSE.)
+101	« Je veux qu'il soit empli de magie interdite. » (Choisir une amélioration de CHARISME.)
+102	« Je suis un lanceur de sorts enregistré dans votre cité. »
+103	Il lâche un bruit d'oiseau agacé.
+104	« Ça me donne le droit de manier tout composant et outil magique. Peu importe le résultat. Tant que je ne le lance pas moi-même. »
+105	« Ainsi est écrite votre loi. »
+106	« On dirait que ça pourrait être détourné. »
+107	« Ça a l'air rentable. »
+108	« Euh... »
+109	« C'est le cas, n'est-ce pas ? »
+110	« Ça l'est en effet. »
+111	« Prenez votre décision. »
+112	« J'ai de nombreux clients. Y compris les divers druides de cette cité. »
+113	« Ils ont eux-mêmes une aversion pour les pratiques modernes. Ainsi, mes services sont bien appréciés. »
+114	« Je ne suis pas un marchand officiel des Tours, mais beaucoup viennent à moi pour de meilleurs prix et un meilleur service. »
+115	« Malgré le peu de plaisir que la plupart des clercs prennent à travailler avec les miens. »
+116	« Oui. La plupart des clercs sont assez pleins de haine envers les non-humains, après tout. »
+117	« C'est terrible. Je ne suis pas comme ces autres clercs, je vous le promets. »
+118	« C'est ainsi que va le monde. » (Hausser les épaules.)
+119	« En effet. »
+120	« Je m'en fiche. Je ne suis pas votre ami. »
+121	« Maintenant, faites un choix ! »
+122	« C'est ce que je vais faire. »
+123	« Revenez demain. Pas au lever du soleil. Je me repose ou je travaille avec intensité durant ces heures. »
+124	« Autre chose que vous voulez, ou me laisserez-vous travailler ? »
+125	« Et si vous le voulez plus vite, arrêtez de m'importuner. »
+126	Le hibou derrière la porte se tait quelques secondes. Ses yeux jaunes te fixant.
+127	Réprobateur. C'est ce à quoi il ressemble.
+128	« Vous... <i>bêndân</i>... »
+129	« Souffrez-vous de pertes de mémoire ? »
+130	« Peut-être en un sens ésotérique. Mais non. »
+131	« Ah oui. Je viens de rendre le livre. Désolé. »
+132	Le hibou soupire.
+133	« Revenez demain. Et envisagez de consulter un professionnel pour votre comportement erratique. »
+134	Tous les génies sont qualifiés d'erratiques à un moment donné.
+135	Peut-être devrais-tu.
+136	« D'accord. Désolé de vous déranger dans votre travail. »
+137	« Et si je vous jette plus d'argent ? Vous pouvez le faire plus vite ? »
+138	« Oui, oui. »
+139	Le hibou grommelle derrière la porte.
+140	« Si vous cuisez un pain en dix minutes à double chaleur- vous ne l'avez pas plus vite. Vous avez un pain brûlé. »
+141	« Ne brûlez pas mon livre ! »
+142	« J'ai compris. Je reviendrai demain. »
+143	« Si vous partez maintenant, j'y réfléchirai. »
+144	L'homme-hibou se tait.
+145	« Dix... mille ? »
+146	« Ouais. »
+147	« Vous avez <i>dix mille couronnes</i> ? »
+148	« ...Enfin. Si c'est le cas... »
+149	« Ça prendrait quand même une heure de plus. Mais... »
+150	(Jeter 10 000 couronnes dans le trou de la porte.) « J'attendrai une heure. Va le réparer. »
+151	« Non. Je plaisantais. » (Garder ton argent.)
+152	Soixante minutes s'écoulent.
+153	« Bien sûr que oui. »
+154	« Comme c'est sage de votre part. »
+155	« Oui, oui. C'est fait maintenant. »
+156	« Maintenant vous payez. »
+157	« Bien ! Combien je vous dois ? »
+158	« Le paiement ? Combien. »
+159	« C'est ça. De l'argent. J'ai ça. »
+160	« Le processus était plutôt compliqué, mais je l'ai géré comme le pro que je suis. »
+161	« Le coût final est de deux cent cinquante couronnes norvikiennes. »
+162	Oh là là. C'est une somme conséquente pour toi.
+163	« Payez maintenant. »
+164	Tu pourrais acheter un livre de sorts basique pour cinquante.
+165	Cependant, si cet oiseau est aussi compétent qu'il le croit, alors ça pourrait valoir le coût.
+166	« Bien. Maintenant payez ! Deux cent cinquante. »
+167	« Bien. Maintenant payez ! Cent. »
+168	« DEUX CENT CINQUANTE ?! »
+169	Le faire baisser le prix. Par pur <i>charme</i>.
+170	« ...Je reviendrai plus tard. Peut-être. »
+171	« <i>COURONNES</i> ?! »
+172	« C'est raisonnable. »
+173	« C'est une somme délirante ! »
+174	« Bien. Maintenant payez. »
+175	« Non. Vous vous trompez. C'est très raisonnable pour ce genre de travail. »
+176	Mince. J'aurais dû dire cette autre chose.
+177	« C'est une supposition audacieuse. »
+178	« Cependant, il est vrai que mes soucis avec ces nuisibles constants ont disparu... »
+179	« Même les petits bruits. Ainsi j'ai pu me reposer correctement pour une fois... »
+180	« Allez. Je suis un si gentil clerc. »
+181	« J'ai travaillé dur pour ça. »
+182	« S'il vous plaît. Je vous en supplie. »
+183	« Bon. »
+184	« Vous l'avez gratuitement. Mais uniquement parce que je n'ai plus à payer le Contrôle des Nuisibles maintenant. »
+185	Aider les gens t'aide ! Chouette !
+186	Tu ne l'as pas fait par intérêt. Mais c'est agréable malgré tout d'être récompensé par du savoir.
+187	Non, tu ne peux pas.
+188	Il est temps de te débrouiller, si tu veux récupérer ce livre.
+189	Tu verses les 250 couronnes de ta Bourse sans Fond. Et...
+190	Tu jettes les 100 couronnes de ta Bourse sans Fond. Et...
+191	Faut lui lisser les plumes, tu vois ?
+192	Dis juste-
+193	« Faites cent et je serai grandement votre débiteur. Ne serait-ce pas agréable d'avoir un clerc en dette envers vous ? »
+194	« Vrai. »
+195	« D'accord, payez cent. Ensuite vous aurez votre livre. »
+196	Chouette ! Ça, c'est une GROSSE remise !
+197	Hélas, puisque tu es SI PUTAIN DE PAUVRE - tu ne peux toujours pas te le payer.
+198	Facile. Dis juste-
+199	« Pouvez-vous baisser le prix ? »
+200	Merde. Ça vaut le coup d'essayer.
+201	« Vous avez intérêt. Le livre reste avec moi jusque-là. »
+202	Par la fente de la porte, tu vois le bout d'un livre emballé dans du papier.
+203	« Prenez-le. »
+204	(Le prendre.)
+205	Tu ouvres l'emballage- découvrant l'un des tomes les plus beaux et les plus finement ouvragés que tu aies jamais vus.
+206	L'intérieur est empli de runes arcaniques, du genre que tu peux utiliser dans ton travail.
+207	Un chef-d'œuvre de livre de sorts. Ne laisse jamais celui-là tomber dans la rivière.
+208	Tu ouvres l'emballage- découvrant un livre à la reliure sauvage, dont le papier sent la forêt fraîche et humide.
+209	Pourtant il est facile à utiliser, l'ouvrir révèle une série de motifs Primordiaux.
+210	C'est très franchement un chef-d'œuvre de délice ésotérique.
+211	Tu ouvres l'emballage- découvrant un livre qui donne une impression étrange au toucher.
+212	L'intérieur est marqué de quelques formes géométriques démoniaques, ainsi que de divers <i>raccourcis arcaniques</i>...
+213	Un chef-d'œuvre ! Tu vas adorer t'en servir comme livre de sorts, n'est-ce pas ?
+214	Il te picote au toucher.
+215	Extrêmement ésotérique.
+216	« Vous êtes content. Je le vois. »
+217	Les yeux jaunes s'inclinent sur le côté en te scrutant par la fente.
+218	« Maintenant passez votre chemin. Et mentionnez mes services à vos amis cléricaux. Je suis le MEILLEUR, voyez-vous. Cela doit être su. »
+219	« Ce sera fait, général... » (Fixer ton nouveau livre.)
+220	(Se contenter de hocher la tête.)
+221	« Autre chose avant de partir ? Non ? »
+222	« Je vois. J'en ai entendu parler. »
+223	« Ce sera pris en compte. Autre chose ? »
+224	Encore une de livrée. Putain ouais.
+225	« Vous vous intéressez aux arts. »
+226	« C'est un peu mon boulot, ouais. »
+227	« J'adorerais en savoir plus sur vous. Un peuple-hibou à Norvik, ce n'est pas si courant. »
+228	« Si vous avez quelque chose à partager, allons-y. »
+229	« J'ai été formé au Savoir, jadis à Three Wings. Je connais bien des choses. »
+230	« Mais pas le temps de parler ou de partager. Occupé. Si vous voulez des enseignements savants, allez parler à mon voisin du dessus. »
+231	« Ce gnome ne cesse jamais de parler. »
+232	« Montez juste à l'étage. Sa porte est toujours ouverte. »
+233	« Vous le connaissez. Bien. »
+234	« Et je n'apprendrai pas les différences entre les gnomes et les halfelins pour la même raison que vous, les gens, appellerez les miens <i>peuple-oiseau</i>, nous mettant dans le même sac que les immondes plumes des bandes plus sombres. »
+235	Du racisme.
+236	De la logique.
+237	De la peur, surtout.
+238	De l'auto-préservation.
+239	De la rancune.
+240	« Quelle raison est-ce là ? »
+241	« Ça a l'air un peu mesquin. »
+242	« Compréhensible. »
+243	« De la <i>rancune</i>. »
+244	Je te l'avais dit.
+245	« Oui. C'en est. »
+246	« Oui. Oui, c'en est. »
+247	« Des rats ! »
+248	« Oh. »
+249	« Ils sont affreux. Ils n'arrêtent pas de surgir des tuyaux d'égout. »
+250	« Ouais, la GCN devrait vraiment s'occuper de ça. »
+251	« Oui ! »
+252	Il lâche un bruit d'oiseau furieux.
+253	« Mais ce salaud de chef de guilde, Tor-Lim Slip, n'arrête pas de me dire qu'ils n'ont pas le temps. »
+254	« Pas le TEMPS ? »
+255	« Ils ont une douzaine d'équipes qui courent à travers la cité. Pas le TEMPS... »
+256	« J'ai entendu que le gros problème, c'est qu'ils n'arrivent à faire faire à personne les missions de Contrôle des Nuisibles de niveau une étoile. »
+257	La GCN a un système de classement fondé sur le danger de chaque nuisible qu'elle traite.
+258	« Une étoile ? »
+259	« Bien sûr. Les rats seraient un problème à une étoile. »
+260	« Ouais, ils ont tout un système de classement. »
+261	« Les Halfways- on ne compte plus sur la GCN depuis des années. Ils n'ont simplement pas le temps pour quoi que ce soit sous un classement de danger de deux étoiles. »
+262	« C'est TRÈS agaçant. »
+263	« Je me suis penché dessus, et le problème est : les équipes de Contrôle des Nuisibles qui rejoignent la guilde ne prennent des missions à une étoile que pendant deux ou trois semaines. »
+264	« Puis elles se mettent vite à se concentrer UNIQUEMENT sur les tâches les mieux payées. Et tous les vrais nuisibles normaux continuent de se répandre dans toute la cité... »
+265	« C'est un système ridiculement IDIOT. »
+266	« Alors tandis que tous les mimiques et monstres continuent de se faire trucider, rien n'est fait au sujet de ces fichus RATS ! »
+267	Ton écharpe se frotte contre ton oreille gauche et chuchote : « Meek penser gens en pas-donjon aiment pas mimique. »
+268	« Meek comprend un peu. Mais ça reste pas drôle à entendre. »
+269	La Guilde de Contrôle des Nuisibles use d'une conception légendairement mauvaise.
+270	Genre, vraiment très inefficace.
+271	Entièrement dû au fait que c'est une chose publique, bien sûr. Si ç'avait été privatisé dès le départ...
+272	Le problème, c'est que c'est trop privatisé. Si la cité détenait le plein contrôle de tout le CONTRÔLE DES NUISIBLES, alors même les missions moins lucratives seraient traitées.
+273	Évidemment.
+274	Alors Urth irait personnellement dans les égouts écraser des rats, tu dis ?
+275	OUI.
+276	Si nécessaire, OUI.
+277	L'oiseau prend quelques inspirations après sa tirade.
+278	« Le pire : mon neveu a une équipe lui-même. Les <i>Colombes Blanches</i> qu'ils s'appellent. »
+279	« Et j'ai essayé de lui envoyer des messages aussi. Mais il dit juste la même chose ! »
+280	« <i>Trop occupé... trop occupé...</i> »
+281	« Je pourrais rejoindre la Guilde de Contrôle des Nuisibles. »
+282	« Parlez-moi davantage de votre neveu. »
+283	« Je pourrais y jeter un œil. Ça ressemble un peu à une quête. »
+284	« Enfin. Bonne chance avec ça. » (Y réfléchir.)
+285	L'homme-hibou ricane.
+286	« Bien sûr, et ensuite vous iriez affronter tous les gros monstres effrayants qui rampent jusque dans la cité. »
+287	« En ignorant tous les vrais nuisibles. Juste pour toucher une paie. »
+288	« Oui, ça ressemble exactement à ce que je ferais. »
+289	« Pas question. Je me casserais le cul à patauger dans les égouts, à attraper des rats, pour une paie de presque rien. Le tout pour la satisfaction d'une dure journée de travail. »
+290	« Bien sûr. »
+291	« Vraiment ? »
+292	« ...Probablement pas, en fait. »
+293	« Oui. Je suis un type aussi bien que ça. »
+294	« Enfin, si tout le monde était comme vous, cette cité serait un meilleur endroit. »
+295	« Il se fait appeler <i>Valerian Windrider</i>. C'est... la façon <i>norvikienne</i> de dire son nom. »
+296	« Il est aussi actif au sein de ce parti errant, si ça vous intéresse de glisser une voix pour l'un des miens, peuple-hibou. »
+297	« Il travaille avec l'un de ces immondes Yobus, ce dont je ne suis pas content. Oh, et un halfelin. Un clerc, en fait. De l'église de Lady Fair. »
+298	« C'est intéressant. Merci de m'avoir parlé d'eux. »
+299	« Ils ont l'air louches. »
+300	« Ah. J'ai entendu parler de cette église. Du côté du Housing, non ? »
+301	« Je vous en prie. »
+302	« Je ne vous contredirai pas. »
+303	« C'est bien celle-là. Je crois qu'ils sont liés à un orphelinat. »
+304	« Hm. Si vous le faites, j'en serais très heureux. »
+305	« Les rats semblent venir des égouts, reliés à la Cité d'En Bas. »
+306	« Merci. »

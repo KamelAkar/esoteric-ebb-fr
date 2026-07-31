@@ -1,0 +1,98 @@
+idx	french
+0	Tu t'approches de l'une des nombreuses portes ici sur Waterlane View.
+1	Celle-ci est aussi humide que les autres.
+2	Snell observe attentivement tes mouvements.
+3	(Frapper à la porte.)
+4	(Se contenter de partir.)
+5	« Rien. »
+6	« Tu me traites de rien ? »
+7	« Je ne te crois pas. »
+8	« C'est pas si profond. »
+9	« Choquant. »
+10	Tu retournes à la porte humide.
+11	(Frapper de nouveau.)
+12	Tu tocs, tocs, tocs contre le bois massif.
+13	Un coup très solide, très rythmé.
+14	(Attendre.)
+15	Un instant s'écoule. Et tandis qu'il s'écoule.
+16	Puis, le bruit d'un lourd loquet coulissant tandis que la-
+17	Elle est ouverte à la volée.
+18	Au-delà du cadre, tu vois un humain de sexe masculin, la trentaine. Ses cheveux courts ébouriffés. Sa cape enroulée autour de lui comme une toge de fortune.
+19	Son visage crispé de panique.
+20	Il TREMBLE.
+21	« Oh par les dieux, non... »
+22	« Non, non, non...! »
+23	Es-tu si intimidant que ça ?
+24	Tu vois les larmes se former dans ses yeux tandis qu'il se penche en avant, implorant : « <i>Que lui est-il arrivé ?</i> »
+25	Quelle horreur ! Il croit que tu es là pour annoncer une terrible nouvelle.
+26	« Calmez-vous. Personne n'est blessé. »
+27	« Je peux dire ce que je veux, <i>monsieur</i>. »
+28	(Regarder autour.) « C'est à moi que vous parlez ? »
+29	« Q-quoi ? »
+30	L'homme cligne des yeux vers toi.
+31	« Octavio va bien ? »
+32	« Je ne connais pas cette personne. Pourquoi me demandez-vous ça ? Vous me faites perdre mon temps. »
+33	« Je ne sais pas. Je suis vraiment navré. »
+34	« C'est... »
+35	Il plisse les yeux.
+36	« C'est... bien ? »
+37	« Ça dépend. Cet Octavio a-t-il l'habitude de s'attirer des ennuis ? »
+38	« Alors il n'a pas d'ennuis ?! »
+39	« Non ? Pourquoi demanderiez-vous ça ? »
+40	« Non, c'est bon. Ne vous énervez pas comme ça. »
+41	« Je ne le connais pas. Je ne vous connais pas. Pourquoi me parlez-vous ? »
+42	« Oh, dieux merci ! »
+43	Il se précipite pour te faire une grande étreinte.
+44	(Rendre l'étreinte.) « Comme c'est charmant ! Partager une accolade avec un semblable - cela me rend véritablement heureux. »
+45	« Lâchez-moi. »
+46	(Rester immobile, comme un cadavre rassis.)
+47	« Oh, je m'excuse ! »
+48	Il recule d'un pas, essuyant des larmes à demi formées sur sa joue.
+49	« Je suis Manius. J'ai dû tirer des conclusions hâtives. »
+50	« Euh, ouais. Désolé pour ça. »
+51	« Nous sommes ici pour enquêter sur le salon de thé. »
+52	« Oh ! »
+53	Cet humain de sexe masculin générique regarde autour de lui.
+54	« Je crains de ne pas être en mesure de divulguer la moindre information à la milice locale. C'est ce que vous êtes, non ? Un clerc de la milice locale ? »
+55	« Bien sûr. Mais- »
+56	« Non, ce n'est pas- »
+57	(Se contenter de fixer l'homme.)
+58	« Voyez-vous, Octavio, il- c'est un homme occupé, mais il m'a directement instruit qu'au cas où il y aurait des demandes de renseignements, elles devraient passer par les canaux officiels. Même pour son cercle rapproché. »
+59	« Je ne suis pas sûr de suivre. »
+60	« C'est très suspect. »
+61	« Je suis désolé, je vous le jure, nous avons toutes les légalités en ordre. »
+62	« J'ai l'<i>immunité diplomatique</i>- c'est comme ça que ça s'appelle. »
+63	Ton compagnon t'adresse un regard du genre sourcils-haussés-jusqu'au-putain-de-plafond.
+64	Comment un Errant de bas étage peut-il recevoir l'IMMUNITÉ ? C'est une farce bureaucratique.
+65	Hé. L'équipe jaune sait vraiment jouer le jeu.
+66	« L'<i>immunité</i> diplomatique ? »
+67	« Oui. »
+68	« ...Qui êtes-vous exactement ? »
+69	« Oh, je suis Manius, comme je l'ai dit. Je suis un Errant et membre de la Compagnie Marchande Askanii-Reeds. »
+70	« Je... <i>travaille pour</i> l'Agent de Guilde Premier en Commandement de Tolstad. »
+71	« Je crains de ne pouvoir offrir rien de plus que cela. »
+72	(Prendre une longue et lente inspiration.) « Alors vous dites... »
+73	« Je me fiche de l'immunité que vous avez, j'ai des questions à- »
+74	« Bonne journée. »
+75	Il te claque la porte au nez.
+76	« Hah. »
+77	« Ça, c'était des montagnes russes émotionnelles. »
+78	Tant pis.
+79	« Tu n'as jamais entendu parler d'un- »
+80	« C'est un de ces trucs de fête foraine. Tu sais. Une de ces rampes en bois avec un petit chariot qu'on descend jusqu'en bas. »
+81	« Hein. Je croyais que ça s'appelait des <i>toboggans glissants</i>. »
+82	C'est le cas. Le gobelin est mal informé.
+83	Désolé de te l'apprendre, mais le nom a changé il y a deux ans.
+84	Probablement parce que <i>toboggans glissants</i> est un nom épouvantable.
+85	« ...Bon. Enfin, je vais pas les appeler comme ça, alors débrouille-toi pour traduire ça dans ta tête. »
+86	« Bref, on peut y aller maintenant ? »
+87	« Je m'en ferais pas. Sur le papier tu n'as rien fait de mal. »
+88	« Et sur le <i>non</i>-papier ? »
+89	« Bon à savoir. Je fais confiance à ton intuition. »
+90	« Tu as raison. Je ne fais jamais rien de mal, Snell. »
+91	« Bah. Des on-dit. »
+92	« Il a dit quoi ? »
+93	« C'est ça. »
+94	« ...Laisse tomber. »
+95	« Je suppose que d'un certain point de vue, tout est relatif. »
+96	« Cela dit, en vrai, on est juste plantés là à parler devant la porte de ce type, alors- on peut bouger ? S'il te plaît ? »
