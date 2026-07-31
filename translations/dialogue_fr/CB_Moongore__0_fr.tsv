@@ -1,0 +1,501 @@
+idx	french
+0	« Halte, humain. »
+1	Une bête poilue, te dominant de toute sa hauteur. Son visage tordu en un froncement sévère (et probablement permanent).
+2	« Ne va pas plus loin. »
+3	C'est un gobelours.
+4	Ils sont plus courants à l'ouest, vivant dans les terres rudes entre Fordnip et la VK.
+5	Cette <i>femme</i> n'a nul pouvoir sur toi.
+6	Ne la laisse pas se dresser sur ton chemin.
+7	Oui. C'est clairement une femelle. Une <i>vraie</i>, capable d'une terreur au-delà de ta vue et de ton ouïe.
+8	« Bonjour, <i>femme</i>. »
+9	« Je n'aime pas ton ton. »
+10	« Comment allez-vous ? »
+11	« Pourquoi vous tenez-vous ici en bas ? »
+12	« Êtes-vous une sorte de monstre de donjon ? »
+13	Elle renâcle vers toi.
+14	« Je n'aime pas ton ton, <i>chose-humaine</i>. »
+15	« Hein. J'allais justement dire la même chose. Sans le commentaire sur la "chose-humaine". C'est plutôt intéressant. »
+16	(Se racler la gorge.) « Vous vous portez bien ici en bas ? »
+17	« Quoi ? »
+18	« Qu'est-ce que tu baragouines ? »
+19	« ...Je ne suis pas sûr. »
+20	Elle te foudroie du regard.
+21	« De quoi parlions-nous ? »
+22	« Tu n'as pas le droit de passer ! Recule. »
+23	« Vous vous portez bien ? »
+24	« Je ne t'aime pas. »
+25	« Maintenant, recule ! »
+26	Elle t'adresse un regard perplexe, et fait des gestes dans plusieurs directions.
+27	« Je travaille ! Va-t'en. »
+28	Elle ricane. « Oui. Maintenant <b>recule</b> avant que je ne t'écrase la face. »
+29	« Moi, <b>Moongore la Rigide et de la HWBT</b>, l'exige. »
+30	Le gobelours pose une main sur son arme.
+31	Un morgenstern. Méfie-toi.
+32	Un morgenstern. Est-il pour toi ?
+33	Un morgenstern ? Non, c'est clairement juste une masse cloutée.
+34	Je crois que le terme est masse « à ailettes ».
+35	Attends, laquelle a la boule-sur-une-chaîne, et laquelle a la boule-sur-un-bâton ?
+36	UN GOURDIN.
+37	Fais simple.
+38	Elle ne s'en servira pas.
+39	Elle garde bien la main dessus.
+40	« <i>Humain</i>. »
+41	« Tiens-toi à carreau. C'est un territoire Halfway. »
+42	Elle remarque Snell avec toi, et lui adresse un signe de tête.
+43	« Coursier. »
+44	« Salut, Moongore. Ça va ? »
+45	« Ça va. »
+46	Elle hoche la tête dans ta direction. « C'est ton clerc ? »
+47	« On dirait bien, ouais. »
+48	« Je le croyais plus grand », dit-elle avec un ricanement.
+49	« Où est ton Coursier ? »
+50	« Tu ne devrais pas explorer la Cité d'En Bas seul. Tu seras détruit. »
+51	(S'incliner.) « Je suis Le Clerc. Enchanté. »
+52	Snell te regarde comme si tu étais fou.
+53	« Hein. J'allais justement dire la même chose. Sauf le commentaire sur la "chose-humaine". C'est plutôt intéressant. »
+54	« Et je ne t'aime pas. »
+55	« Je ne crois ni en toi, ni en ta faible carcasse. »
+56	« Tu devrais aller chercher ton gobelin. »
+57	« Moongore garde les Racines. »
+58	« C'est notre <i>championne des profondeurs</i>. »
+59	Elle grogne. « Nul monstre ne montera. Pas tant que je <b>respire</b>. »
+60	« ...Sérieuse comme toujours. Content de le voir. »
+61	Elle renâcle. « Je suis Moongore la Rigide. Servante de Dame Sageleaf. »
+62	Le gobelours pose une main sur son arme.
+63	« Ne cause pas d'ennuis. »
+64	Attends, laquelle est la boule-sur-une-chaîne, et laquelle est la boule-sur-un-bâton ?
+65	On fait simple. Super.
+66	« <i>Toi</i>. Humain heaumé. »
+67	« Tu ne passeras pas, chose-humaine heaumée. »
+68	« Nul besoin de ça. Puisque je n'ai nul besoin de passer. »
+69	« ...Vous êtes sûre que vous ne pouvez pas me laisser passer ? »
+70	« Qui sers-tu ? »
+71	« Puis-je vous poser quelques rapides questions ? »
+72	« Puis-je poser quelques questions plus... <i>personnelles</i> ? » (Tenter de flirter.)
+73	« D'accord. Salut. »
+74	« Bien. »
+75	« Oui. »
+76	Elle grogne. « Je ne le recommande pas. »
+77	« Il y a des pièges diaboliques disposés le long de ces salles. »
+78	« Et n'entre pas dans les cryptes. Il y a un gardien mort-vivant. »
+79	« Un mort-vivant ? Mais c'est le genre de trucs dont je m'occupe ! »
+80	« Toi ? Non. Je ne crois pas que tu puisses affronter un guerrier mort-vivant tout seul. »
+81	« ...Vraiment ? »
+82	« Enfin. » Elle te toise de haut en bas.
+83	« Je suis impressionnée. Moins de choses pour nous inquiéter. »
+84	OUI...!
+85	« Assez impressionnée pour me laisser passer ? »
+86	« Non. »
+87	« Zut. »
+88	Elle renâcle. « Je travaille pour les Halfways. Je sers Dame Sageleaf. »
+89	« Alors je dois lui demander la permission si je veux passer ? »
+90	« Je travaille pour les Halfways aussi. »
+91	Elle plisse les yeux, et réfléchit quelques secondes.
+92	« Oui. Si elle te donne la permission, je te laisserai passer. Mais je ne crois pas- »
+93	Elle s'arrête au milieu de sa phrase.
+94	« Non, en effet. Je- »
+95	Elle s'arrête au milieu de sa phrase, et te plisse les yeux.
+96	« Es-tu un clerc ? »
+97	« Je suis <b>Le</b> Clerc, oui. »
+98	« Plutôt un magicien, en vérité. Mais soit. »
+99	« Je me vois plutôt comme un fringant roublard, personnellement. »
+100	« Pourquoi ? »
+101	« Je ne connais pas la différence. Je m'en fiche, franchement. »
+102	Une simplette. Comme c'est triste.
+103	« Un fringant...? Non. Tu es clairement un clerc. »
+104	Si méprisante.
+105	« Hm. Un truc de musique magique ? »
+106	« Je travaille sur les deux. »
+107	« Hein. »
+108	Elle ricane.
+109	« Hm. »
+110	« J'ai entendu qu'un clerc avait été envoyé. À cause de l'explosion. »
+111	« Pourquoi es-tu ici en bas ? Le Dragon attend ! »
+112	Un <b>QUOI</b> ?!
+113	(Regarder autour, frénétiquement.) « <b>Où</b> ?! »
+114	« Je suis désolé, je me suis juste en quelque sorte retrouvé ici. »
+115	« Je ne suis pas les ordres. Même s'ils viennent d'un dragon. »
+116	« Je ne sais pas trop où aller. Je suis assez perdu. »
+117	Elle grogne, bruyamment.
+118	« Espèce d'<b>idiot</b> ! »
+119	Dur mais vrai.
+120	J'aime bien ce gobelours. Elle te comprend bien.
+121	« Je parle de Dame Sageleaf ! De la Tribu du Pont Halfway ! »
+122	« Quoi ? Comment ?! »
+123	« On n'entre pas comme ça dans la Cité d'En Bas ! »
+124	« C'est comme ça que les idiots se font tuer. »
+125	« Pas <i>un</i> dragon. <i>Le</i> Dragon. »
+126	« Elle te mangera tout entier si tu ne t'y dépêches pas. Tout de suite. »
+127	Elle secoue la tête et soupire.
+128	« Monte les escaliers. Le tunnel des pommes est généralement verrouillé, alors tu devras quitter la maison-liche en montant tout en haut. »
+129	« ...Le tunnel des pommes ? »
+130	(La laisser parler.)
+131	« Silence ! »
+132	« Tu montes les escaliers, d'accord ? »
+133	« Après ça, tu vas vers le sud. Traverse l'herbe. Il devrait y avoir un gobelin de garde. »
+134	Écoute-la.
+135	« Juste à l'entrée du Jardin. Parle-lui. Es-tu capable de suivre ces instructions ? »
+136	Traite-la avec respect. C'est clairement une femme puissante.
+137	M'dame.
+138	« Oui, madame. »
+139	« Oui, m'dame. »
+140	« Possiblement. »
+141	« ...Je peux l'entendre à nouveau ? »
+142	Le gobelours s'arrête et te regarde avec une rage sauvage dans les yeux.
+143	« Alors <b>va</b> ! »
+144	Son rugissement te fait sursauter.
+145	Elle tend la main, agrippant ton uniforme.
+146	Elle te tire tout près, hurlant dans ton visage : « <b>En haut des escaliers, à travers le parc, jusqu'au Jardin</b> ! »
+147	Elle est aux commandes.
+148	Merveilleux.
+149	Beurk. Tu as de la bave de gobelours partout sur le visage.
+150	<b>Génial</b>.
+151	Puis elle te lâche, avant de reculer d'un pas.
+152	« Va. Maintenant. »
+153	« Non ! »
+154	Elle est, en effet, dégoûtée par toi.
+155	Pas nécessairement un problème.
+156	« Je ne te divertirai pas d'une réponse. »
+157	« Maintenant <b>pars</b>. »
+158	« J'ai quelques questions sur le jour de l'explosion du salon de thé. »
+159	« C'est comment de travailler pour la HWBT ? »
+160	« Vous avez l'air d'une grande guerrière... et <i>femme</i>. » (Tenter de flirter.)
+161	(Hocher la tête et partir.)
+162	« Je m'en suis rendu compte. »
+163	Elle a l'air furieuse.
+164	Compréhensible.
+165	« Vous n'allez pas me frapper ni un truc ? Peut-être mordre ? »
+166	« C'est un joli bouclier. »
+167	« Je le récupérerai. »
+168	« Pour l'instant, mon allégeance à Dame Sageleaf m'interdit de <shake>t'écraser les os</shake>. »
+169	« Je recommande de ne pas tenter ta chance davantage. »
+170	Oh, seigneur Urth. Voilà la vie.
+171	C'est tout l'intérêt.
+172	Tu as eu de la chance ! Chouette.
+173	« ...UN TROLL ? »
+174	La femme poilue t'adresse un sourire mauvais.
+175	« Je dirais que tu mens, mais je ne crois pas que tu en sois capable. »
+176	Ça va sûrement aider.
+177	« Il a effectivement tué un troll. Techniquement parlant. C'était juste- »
+178	« <i>Silence</i> », l'interrompt-elle.
+179	Elle hoche la tête dans ta direction.
+180	« Bien joué, humain. Je trouve tes <i>talents</i> hautement excitants. »
+181	« ...<i>Oh</i>. »
+182	« Merci, je les ai faits moi-même. »
+183	(Rester silencieux et sourire en coin comme un dément à l'intérieur de ton heaume.)
+184	(Rester silencieux et sourire en coin comme un dément à l'intérieur de ton seau.)
+185	(Rester silencieux et sourire en coin comme un dément à l'intérieur de ton pot.)
+186	Le gobelours ricane et serre son morgenstern.
+187	« Bon, de quoi d'autre souhaites-tu parler ? Je ne flatterai pas ton ego plus que ça, je t'assure. »
+188	Elle ne veut pas croiser ton regard. Comme c'est étrange.
+189	OH la la. Ouaip. À mi-chemin, mon garçon.
+190	<i>Gloire soit, comme gloire trouvée- le plus grand homme ne sera lié- à nulle terre ni rive étrangère, le cœur aimant ouvrira les frontières.</i>
+191	Oh... oh...
+192	Ohhh... ohhhh...
+193	C'est une honte.
+194	Tout ça est une telle honte.
+195	« Un roper ? »
+196	« C'est une bête féroce. Ils ne montent pas si haut très souvent. »
+197	« Bien joué, humain. »
+198	Continue de tuer des trucs, et d'être VIRIL. Elle aime ça.
+199	Moongore ne se retourne pas, et se contente de grogner vers toi.
+200	« C'est Nessan. C'est notre druide. »
+201	« Elle n'est pas très réactive. »
+202	« Ne la dérange pas. Non que tu en serais capable. »
+203	« Elle est en pleine méditation. Loin d'ici. »
+204	« Laisse-la tranquille. »
+205	« Mais j'ai besoin de lui parler ! »
+206	« Bon. Je vais faire ça. »
+207	« Alors trouve-la dans le Jardin plus tard. »
+208	« Elle passe ses matinées ici en bas, et retourne à son bureau après le déjeuner. »
+209	« Je lui ai cuisiné un charmant ragoût de champignons aujourd'hui. »
+210	« Je lui ai cuisiné un charmant crabe des cavernes rôti aujourd'hui. »
+211	« Je lui ai cuisiné un charmant poisson en croûte d'herbes aujourd'hui. »
+212	« Je lui ai cuisiné un charmant mélange de légumes-racines aujourd'hui. »
+213	« Je lui ai cuisiné une charmante tourte de viande épicée aujourd'hui. »
+214	« Je lui ai cuisiné une charmante salade de verdures souterraines aujourd'hui. »
+215	« Je lui ai cuisiné un charmant lapin de tunnel braisé aujourd'hui. »
+216	« <i>Vous</i> cuisinez ? »
+217	« Vous déjeunez ensemble ? »
+218	« Oui. Ça fait partie de mes devoirs. »
+219	« Je peux me joindre ? »
+220	« Ça a l'air charmant. »
+221	« Tu ne PEUX PAS. »
+222	Une terrible tragédie.
+223	Être forcé d'<i>éviter</i> une intoxication alimentaire.
+224	« Je suis excellent en cuisine. Alors oui, ça l'est. »
+225	« J'ai senti un léger grondement dans la terre. »
+226	« J'étais ici en bas, à garder les Racines. »
+227	« Alors rien de trop hors de l'ordinaire ? »
+228	« Juste un petit grondement ? »
+229	« Bon. J'ai quelques autres questions. »
+230	« Rien que je doive te dire, humain. »
+231	« Je suppose que c'était une force de magie ou de nature des plus féroces, si elle a créé un tremblement jusqu'ici en bas. »
+232	« Bon. »
+233	Elle grogne.
+234	Drôle de bruit.
+235	Cette bête ne sait même pas parler correctement.
+236	« C'est un oui ? »
+237	(Grogner en retour.)
+238	« Parle clairement, gobelours. »
+239	Elle montre les crocs.
+240	« C'est le cas. »
+241	« Vous cherchez cet homme ? »
+242	« Ouais enfin, clairement. »
+243	(Grogner, de façon voyante.)
+244	Le gobelours te montre un profond froncement et dit : « Si tu le vois, plante-lui un couteau dans le cœur pour moi. »
+245	Parle sa langue.
+246	« Attendez, pourquoi ? »
+247	(Grogner, d'un air interrogateur.)
+248	« Je l'ai vu approcher depuis la chambre du Pilier. Je lui ai dit de s'arrêter, de s'écarter du territoire Halfway. »
+249	« Mais ce salaud... »
+250	« Il m'a lancé un sort. »
+251	« Si beau que ça, hein ? »
+252	« C'est affreux. »
+253	« Si tu n'as pas réussi à y résister, c'est ta faute. »
+254	(Grogner, avec empathie.)
+255	« Quoi ? Non. »
+256	« Il était aussi laid que le reste d'entre vous. »
+257	« Aïe. »
+258	« Vous me trouvez laid ? »
+259	« Oui. Les humains sont vraiment nuls, hein ? »
+260	« Je ne peux pas voir ton visage, humain. »
+261	« Mais je le supposerais, oui. »
+262	« Je n'ai pas dit ça. »
+263	« Espèce d'inoffensive bite flasque. »
+264	« Non. J'étais faible. »
+265	Elle ricane. « Oui, je suis d'accord. »
+266	« Vous vous moquez de moi, humain ? »
+267	« Non. Tout le contraire. »
+268	« Oui. Mais pas d'une mauvaise façon. »
+269	« Possiblement. Je ne suis pas sûr. »
+270	« Ouais. »
+271	« Ne te moque pas de moi d'une bonne façon non plus. »
+272	Elle secoue la tête.
+273	« Je l'ai vu approcher. Il portait une immonde robe jaune. »
+274	« Puis il a dit quelques mots, et soudain je l'ai joyeusement laissé passer. »
+275	« Un charme d'un genre ou d'un autre. J'étais impuissante, comme un chaton. »
+276	« Par les dieux, <i>je déteste les chatons</i>. »
+277	Tu peux la réparer.
+278	Fuis-la. Avant qu'il ne soit trop tard.
+279	« Vous... détestez les chatons ? »
+280	« Que pouvez-vous me dire d'autre sur lui ? »
+281	« Dans quelle direction est-il parti ? »
+282	« Oui. N'importe quelle bête-enfant, en fait. »
+283	« Ils sont trop faibles pour survivre seuls. C'est un trait dégoûtant de l'adolescence. »
+284	Cette nana est complètement folle.
+285	<b>Tu peux la réparer.</b>
+286	« D'accord ? »
+287	Tu dois trouver cet homme et le punir.
+288	Ainsi tu pourras gagner son respect.
+289	« Fais ce que tu veux. Je m'en fiche. »
+290	En fait ça lui importe un peu.
+291	Tu la surprends à lorgner ta silhouette.
+292	« Il avait la peau légèrement plus foncée. Contrairement à la plupart des humains pâles de Norvik. »
+293	« Il portait un sac à dos. Et plusieurs... choses. Des outils. »
+294	« C'est pas très précis. »
+295	« Plus foncée à quel point, exactement ? »
+296	« Tu veux du verbeux ? Va demander à un poète. »
+297	« Quelque part entre un gobelin des collines bronzé et des orcs des landes pâles. »
+298	« C'est une très bonne information, merci. »
+299	« Je n'ai aucune idée de ce que ça veut dire. »
+300	Elle hausse les épaules.
+301	« Par les Cavernes du Sud. »
+302	Elle pointe vers le tunnel humide en bas de la pente.
+303	« Je l'ai averti des monstres tandis qu'il s'éloignait. <i>À cause de ce satané sort</i>. »
+304	« J'aurais espéré qu'il devienne le dîner de quelque Horreur Crochue ou Manteleombre... mais le salaud s'est rendu invisible en entrant dans le tunnel. »
+305	« Je déteste les magiciens. »
+306	« Je suis un magicien, au fait. »
+307	« Pareil. Je supporte pas ces intellos. »
+308	« Je suis neutre à leur égard, personnellement. »
+309	(Grogner, avec colère.)
+310	« Alors je te déteste. »
+311	Le gobelours lâche un grognement.
+312	Signalant clairement qu'elle en a fini avec cette partie de la conversation.
+313	« Vraiment ? »
+314	Le gobelours lève le menton et te regarde de haut.
+315	« Est-il encore dans la Cité d'En Bas ?! »
+316	« Non. Il est loin en dessous. »
+317	« Non. Je l'ai trouvé capturé par un troll. »
+318	« Oh. C'est bien ! Il mérite la douleur. »
+319	« Enfin. À ce propos... »
+320	« Mm ? »
+321	« Je lui ai mis un coup de poing dans la face. »
+322	« <i>Vraiment</i> ?! »
+323	Elle se racle la gorge, mais ça sonne plutôt comme un grognement surpris.
+324	« ...<i>Toi</i> ? »
+325	« Oui. J'ai vengé votre honneur. »
+326	« Hm... »
+327	Ce monstre imposant et pelucheux te toise de haut en bas avec un sourire en coin.
+328	« J'ai dû te mal juger, humain. »
+329	« Peut-être es-tu un vrai homme après tout. »
+330	<b>OUIIIIIIIIIIIIIIIIIIIIIIIIIIIIII</b>.
+331	Prudence maintenant. Tout en finesse...
+332	Invite-la à combattre des voyous dans le Housing. Ça devrait marcher.
+333	« <i>Meek content pour maître ! Meek pas savoir humain besoin prouver humanité. Très bien femme poilue faire confiance à maître maintenant !</i> »
+334	« En tant que vrai homme, peut-être aimeriez-vous aller à un <b>rendez-vous</b> un de ces jours, alors ? »
+335	« Peut-être aimeriez-vous... sortir un de ces jours. Un dîner ? »
+336	« Venez avec moi. On peut aller combattre des voyous dans le Housing, ou un truc. »
+337	« Merci. Bref... » (Ne pas l'inviter à sortir.)
+338	« <i>Oh ! Meek désolé !</i> »
+339	« <i>Espère maître conclure ! Très dur !</i> »
+340	Elle t'adresse un signe de tête.
+341	<b>NOOOOOOOOOOOOON</b> !
+342	« Mais... »
+343	Elle t'adresse un signe de tête et un large sourire.
+344	« Un combat d'entraînement. Dans le Jardin. »
+345	« <i>Après</i> l'élection, bien sûr. Je suis de service jusque-là. »
+346	Une rencontre physique avec cette belle femme ?
+347	C'est une énorme victoire pour toi et ta virilité.
+348	« Ça me va ! »
+349	« Non. J'ai mérité quelque chose de <b>plus</b>. »
+350	« Bien. On fixera un moment plus tard. »
+351	Elle ricane. « Quelque chose de plus ?! »
+352	Un profond froncement apparaît sur son visage.
+353	« Tu oses jeter mon offre, <i>humain</i> ? »
+354	Exiger plus.
+355	« Laissez tomber, ça me va...! »
+356	Tu sens tes muscles trembler.
+357	La terre elle-même est ÉBRANLÉE par tes REINS.
+358	Oh par les dieux.
+359	Dis simplement le fond de ta pensée. Tu sais qu'elle t'entendra.
+360	« J'ai combattu un <b>TROLL</b> pour vous. Montrez-moi un peu de <b>reconnaissance</b>. »
+361	Son froncement s'estompe, remplacé par un sourire mauvais.
+362	Puis elle agrippe ton uniforme, te tirant plus près.
+363	Bien, bien plus près.
+364	Elle ouvre sa gueule. Juste au-dessus du petit espace laissé entre ton cou et ta cotte de mailles.
+365	Et puis elle...
+366	Mord.
+367	ACCROCHÉE.
+368	Fort. Assez fort pour laisser une bonne marque.
+369	Une union violente.
+370	Puis elle lâche, à la fois de sa gueule et de ses griffes.
+371	« De la <i>reconnaissance</i>. J'espère que tu apprécies. »
+372	Voilà ce qu'on obtient quand on court après la folie.
+373	Ça, c'est une vraie femme.
+374	« <wiggle>Ouimercic'étaittrèsgentilmerci</wiggle>. »
+375	(Marmonner de façon incohérente.)
+376	« Tu pourras me faire savoir quand tu auras le temps plus tard. Pour notre combat d'entraînement. »
+377	Ton corps te lâche.
+378	Il ne t'écoute pas.
+379	Mais... je DOIS...!
+380	Ça coûterait cher.
+381	Si tu es certain de vouloir le payer. Alors... fais-le.
+382	JE PAIE LE PÉAGE DU GOBELOURS. (S'infliger une grande douleur.)
+383	« Euh. Laissez tomber, je vais juste prendre l'offre d'origine. »
+384	Tout te fait mal tandis que tu te propulses en avant.
+385	Puis...
+386	Elle rit. « C'est mieux. »
+387	« Je nous fixerai un moment plus tard. »
+388	« Maintenant... y a-t-il autre chose dont tu as besoin, <i>chétif</i> mâle humain ? »
+389	« Non, bien sûr que non. »
+390	« J'ai reçu ceci en cadeau. Je ne peux pas juste le donner. »
+391	« Oh. »
+392	« Bon, alors. »
+393	Il y a un grand respect pour la druidesse elfe.
+394	Prends-le, alors. Quitte la conversation, faufile-toi vers elle, et attrape-le.
+395	Seuls les pigeons demandent les choses.
+396	Ce serait voler.
+397	Oui. Ça le serait.
+398	Ce serait mal.
+399	Oh que oui. Tellement mal. TELLEMENT <i>vilain</i>.
+400	Faisons-le.
+401	« D'accord. »
+402	<i>D'accord</i>.
+403	« Le nain sombre. Oui. Il a demandé l'accès aux tunnels du sud. »
+404	« Il n'y est pas autorisé. »
+405	« Pourquoi pas ? »
+406	« Parce que c'est un nain ? Un nain sombre ? »
+407	« La Dame ne le permet pas. »
+408	« Non. Il n'y est pas autorisé parce que c'est un explorateur de donjon. »
+409	« Dame Sageleaf n'autorise pas les pilleurs sur son territoire. »
+410	« Seulement les expéditions officielles. »
+411	« Suis-je une expédition officielle ? »
+412	« Bien. Il a l'air d'un profiteur. Je déteste ça. »
+413	« Ça semble un peu discriminatoire. »
+414	Elle jette un regard à Snell, qui hausse les épaules.
+415	« Plus ou moins. »
+416	« Je n'ai pas d'opinion tranchée là-dessus. »
+417	« Mais Dame Sageleaf ne le veut pas. »
+418	« Ça ne l'est pas. »
+419	Elle fronce les sourcils.
+420	« Si tu vas dans les tunnels du sud, méfie-toi des monstres. Ils rampent d'en bas, infestant les cavernes. »
+421	« On les nettoie une semaine sur deux, mais ils reviennent souvent. »
+422	« La Guilde de Contrôle des Nuisibles n'est-elle pas censée s'occuper de ça ? »
+423	« Quel genre de monstres ? »
+424	Elle lâche un rire profond.
+425	« Le Contrôle des Nuisibles ?! »
+426	« Ces <b>chochottes</b> ne mettront pas un pied sous le Inférieur. Surtout à Tolstad. »
+427	« Une bande de mauviettes en quête de paies faciles. Si on ne peut pas gérer ça nous-mêmes, on engage des muscles extérieurs. Mais pas la GCN. »
+428	Historiquement, la GCN a du mal à gérer la quantité massive de demandes de monstres et de <i>choses</i> ésotériques qui rampent à travers Norvik.
+429	Tu as entendu bien des récits sur les Contrôleurs de Nuisibles en ton temps.
+430	La Guilde de Contrôle des Nuisibles travaille étroitement avec les clercs. Chaque fois qu'ils ont besoin de gros muscles.
+431	À l'époque, les Clercs retraités gravitaient souvent vers la GCN. Mais de nos jours, la plupart des clercs ne veulent pas se salir les mains de cette façon.
+432	Un travail dangereux. Tiens-t'en éloigné.
+433	Un travail dangereux. Pour les vrais hommes.
+434	« De toutes sortes. Tout ce qui rampe à travers les fissures de la Cité d'En Bas. »
+435	« De toutes sortes ? Dites-m'en plus. »
+436	« Ne me dites pas. Je veux que ce soit une surprise. »
+437	Elle t'adresse un regard sévère, mais légèrement inquiet.
+438	« Tu es dément, chose-humaine. »
+439	« J'aime ça. »
+440	« Le mois dernier, on a tué une Horreur Crochue. Ce fut une belle chasse. »
+441	« Avant ça, un tas d'Araignées Géantes. Une Vase Grise. L'an dernier, on a dû faire venir un spécialiste pour gérer un nid de Fourmis Crâne. »
+442	« Ils ont négocié pendant des jours. »
+443	« Le pire, c'était probablement les Gricks. Je déteste ces trucs. Mais je suis triste de dire qu'on n'a pas encore eu à gérer une Bulette. »
+444	« Je ne crois pas que ces requins des terres aiment creuser ici. Mais il y a eu des rapports de quelques-uns d'entre eux se rapprochant des colonies l'an dernier, du côté de Verdune. »
+445	« Je veux dépecer un de ces trucs, un jour. Ce serait un plaisir. »
+446	(La fixer.)
+447	« ...Cool. »
+448	Elle sourit largement.
+449	« Je peux gérer ça. Je suis très fort. »
+450	Elle te toise de haut en bas.
+451	« Mm. »
+452	« Ils sont bien. »
+453	« Dame Sageleaf est une grande cheffe. »
+454	« Son pouvoir est écrasant. »
+455	« Vous avez l'air bien plus forte qu'elle, cela dit. »
+456	« D'accord. Cette petite gobeline est capable de briser une douzaine d'hommes. »
+457	« Elle n'est pas si effrayante. »
+458	« Dame Sageleaf est une cheffe faible et inefficace qui tombera bien assez tôt. »
+459	« Je ne le suis pas. »
+460	« N'insinue même pas ça, humain. »
+461	« Ou plus. »
+462	« Je te suggère d'abandonner cette pensée insensée, humain. Si tu tiens à garder ta tête. »
+463	Le gobelin contient un rire, avant de te lancer un regard choqué.
+464	« C'est ton enterrement », marmonne-t-il en reculant d'un pas.
+465	« Retire ça », dit-elle avec un visage sévère.
+466	« Tout de suite. Retire ces mots immondes. »
+467	« Je... je retire ça ? »
+468	« Tu es peut-être un idiot, mais tu peux au moins apprendre. Comme un chien. »
+469	« Retire. Le. »
+470	« ...D'accord. Désolé. »
+471	« NON ! J'en ai pas envie ! »
+472	« C'est mieux. »
+473	Elle se rapproche. « J'aurai ta <b>langue</b> si tu ne le fais pas. »
+474	« Bon. Je le retire. »
+475	Elle brandit un poing. « À ça près. »
+476	Le gobelours te gifle en travers du heaume, l'envoyant tournoyer, avec ton esprit.
+477	« Retire-le ! »
+478	« Retire-<i>le</i> ! Maintenant ! »
+479	Elle recule d'un pas avec un sourire mauvais. « Bien. »
+480	« <i>Par tous les enfers</i>... »
+481	Le gobelours lève la main pour te gifler à nouveau, sa poitrine se soulevant de lourdes respirations.
+482	Bien qu'ayant clairement une grande endurance, cette femme est épuisée de t'avoir giflé tant de fois.
+483	Tu. Te tiens. Droit.
+484	« Q-quoi ? »
+485	« Frappe-moi encore, <i>femme</i>. »
+486	Elle te foudroie du regard, les yeux écarquillés.
+487	La peur.
+488	L'envie.
+489	Le respect.
+490	Elle baisse la main. « Je vais laisser passer. Cette fois. »
+491	Elle t'adresse un lent signe de tête.
+492	Tu te sens PUISSANT.
+493	(Se racler la gorge.) « Bref, revenons à ma question. C'est comment de travailler pour la HWBT ? »
+494	Elle détourne le regard un moment.
+495	« On m'a donné une vie ici. Un but. »
+496	« Bien que je n'aime pas vivre parmi les tiens, les gobelins sont un peuple correct. »
+497	« Merci. »
+498	« Pas toi en particulier. <i>Belette</i>. »
+499	« Une belette ?! Je crois pas que je mérite qu'on m'appelle comme ça. »
