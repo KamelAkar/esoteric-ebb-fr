@@ -1,2 +1,3 @@
-LEVEL FILES: 741/741 champs LISIBLES traduits+injectés (nav, descriptions objets/sorts, stats, UI, barks, zones) + ZIP v1.3.6 rebuild.
-BLOQUE: 517 chaines (feats, journal de quete, bios PNJ) dans 172 objets/level en echec typetree (read_str out of bounds). Voir _BLOCKED_typetree_517.json + memoire reference-level-typetree-failure.
+BLOQUÉ terminé : 517/517 chaînes traduites, injectées via édition brute (MonoBehaviour) sur 25 levels + ZIP v1.3.6.
+EXCEPTION assumée : ~25 titres de salles/lieux sont des noms de GameObject (pas MonoBehaviour) -> laissés EN par sécurité (Find()/scene). + liste dinfluences volontairement EN.
+FICHE PERSO mono-mots (Strength/Cleric...) = metadata/STRSEC, hors scope.
