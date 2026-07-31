@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+import sys; sys.stdout.reconfigure(encoding="utf-8")
 """Affiche les textes Ink EN pas encore dans build_tmp/ink_fr.json.
 Usage: python build_tmp/ink_show_remaining.py [N] [filtre-prefixe]
  N = max (défaut 50). filtre = sous-chaîne de préfixe (ex '.Snell') ou 'all'.
