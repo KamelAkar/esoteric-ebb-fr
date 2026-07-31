@@ -1,0 +1,501 @@
+idx	french
+0	Snell regarde en avant dans la file.
+1	« Ça va prendre un moment. »
+2	« T'es sûr que t'as fini de fouiner ? »
+3	« Je recommanderais qu'on fasse notre rapport à Dame Sageleaf avant de faire la queue, mais... »
+4	Il y a une intonation <i>lourde</i> dans sa voix quand il te parle.
+5	Sa voix est étrange. <i>Grave</i>.
+6	« Si tu sens que t'as fini. »
+7	Ça va lui manquer.
+8	Le gobelin est tout à fait d'accord pour enchaîner encore quelques conversations avec des gens au hasard.
+9	Avant que tu ne <i>fasses le nécessaire</i>.
+10	Ça a été une sacrée quête.
+11	Un défi pour n'importe quel mortel. Mais pas pour toi.
+12	Encore un boulot dans la poche !
+13	Et comment.
+14	L'heure est venue.
+15	La FIN est PROCHE.
+16	« Ouais. J'ai pas envie de parler à plus de gens. Attendons dans la file. »
+17	(Attendre jusqu'à 12:00.)
+18	E-Non. J'ai encore des trucs à faire. (Partir et fouiller encore un peu.)
+19	« C'est ça. J'irai probablement faire quelques courses en attendant. Mais vas-y. »
+20	« Ce stéréotype sur les humains qui adorent faire la queue... c'est en fait vrai, hein ? »
+21	Le temps passe...
+22	Si lentement.
+23	E-Si lentement en effet.
+24	Quelques personnes restent dans la file.
+25	Bien que la plupart aient fini- terminé cette mascarade.
+26	« Il se fait tard. »
+27	« On devrait vraiment faire notre rapport à Dame Sageleaf sans attendre. Mais au-delà de ça... »
+28	Ton compagnon regarde autour de la chambre, la faible lumière jaune emplissant chaque recoin.
+29	La lumière dans les ténèbres. Au Jour du Suffrage.
+30	« C'est peut-être le moment de voter, hein ? »
+31	Le gobelin t'adresse un sourire fatigué.
+32	« Ouais. J'ai parlé à assez de gens. Attendons dans la file. » (Enfin voter à l'élection et terminer ta quête.)
+33	E-« Pas encore. » (Partir et fouiller encore un peu.)
+34	Plus qu'un seul nain.
+35	Un type indécis.
+36	« Je me demande depuis combien de temps il est planté là. »
+37	« Des heures ? »
+38	« Peut-être qu'il aime ça. L'<i>anticipation</i>. »
+39	« J'espère bien que non, mais... c'est probablement l'impression que ça donne, ouais. »
+40	« J'imagine que si t'es vraiment <i>à ce point</i> à fond dans le vote... »
+41	« Hé, attends- je crois que je l'ai vu il y a un moment. Il est entré et sorti de la file ? »
+42	« Dingue. »
+43	Il se racle la gorge. « Bref. »
+44	(Hurler au nain devant.) « Hé, t'as du mal à te décider ? Tu veux en parler ?! »
+45	« Oh que oui. J'ai passé assez de temps ici maintenant. Votons avant qu'ils ferment. » (Enfin voter à l'élection et terminer ta quête.)
+46	E-« Pas... encore. » (Partir et fouiller encore un peu.)
+47	Le nain se retourne.
+48	« <shake>C'est pas facile, d'accord</shake> ?! »
+49	« <b>Laissez-moi une minute</b> ! »
+50	Il se retourne vers l'urne, sa main tremblante tenant une carte de vote froissée.
+51	Compréhensible.
+52	Laisse-lui du temps. Et de l'espace.
+53	Quelle farce.
+54	Tout au fond tu entends un gobelin te faire bruyamment « chut ».
+55	Snell étouffe désespérément un fou rire.
+56	« Tu sais quoi- pourquoi avoir un filtre ? Pourquoi pas juste dire ce qui te passe par la tête ? »
+57	« Qui se soucie de ce que le monde pense ? »
+58	« Je suis peut-être un peu à la traîne pour tout ce qui touche aux codes sociaux. »
+59	« Sages paroles, Snell. Sages paroles. »
+60	« J'ai fait quelque chose de mal ? »
+61	Le gobelin lâche un souffle long et traînant.
+62	« Je dois être en train de m'acclimater. »
+63	« Bon. »
+64	« Voilà, c'est tout. »
+65	« Encore un peu d'attente, et puis c'est... fini. »
+66	L'épuisement.
+67	Ses mots en DÉGOULINENT.
+68	« Rien n'est jamais vraiment fini. »
+69	« Ce vote n'est que le début, tu sais. »
+70	« <b>Quête terminée</b>. »
+71	« Enfin. J'ai besoin d'un <i>long</i>-repos long. »
+72	« C'est vrai. Il reste encore le... »
+73	Il lâche un grognement profond et dégoûté.
+74	« <i>Tellement</i> de paperasse. »
+75	« Ouais. C'est ça la partie effrayante. »
+76	« Je parie que t'es super content de ça, espèce de junkie d'aventure. »
+77	« Pareil. »
+78	Snell attrape l'un des poteaux de barrière tout près, y appuyant le poids de son corps.
+79	« Tu tiens le coup, au fait ? On a bougé sans arrêt, <i>chaque heure d'éveil</i>, depuis... un bon bout de temps maintenant. »
+80	« Rester juste planté comme ça... la vache, j'ai l'impression de devenir <i>gâteux</i>. »
+81	Faut continuer de bouger, mec.
+82	Sans cette <i>traque</i>, autant être mort.
+83	Il reste encore de la force dans ces vieux os.
+84	Un petit... peu... PLUS LONGTEMPS.
+85	« Mm. Je sais même pas comment appréhender cette foutue journée. »
+86	« Je suis encore un peu sous le choc, je crois. »
+87	« C'est du boulot. <i>Du boulot boulot</i>. »
+88	« Je suis un homme. Les hommes ne se compriment pas. Ils ne font que s'étendre. »
+89	« Du boulot boulot ? »
+90	« Du boulot boulot. »
+91	« La seule véritable force constante de l'univers. »
+92	Il tend deux griffes pour signifier la taille.
+93	« Une virilité qui s'étend. »
+94	(Faire le geste à côté de lui.) « <i>Massive</i>. »
+95	Snell se frotte les yeux injectés de sang.
+96	« Tu pourrais toujours parler à la presse. »
+97	« La presse ? »
+98	« Ouais. Genre, coucher tout ça sur papier. »
+99	Excellente idée.
+100	Les gens vont t'ADORER.
+101	Ce pourrait être une merveilleuse occasion de partager un peu d'amour azgaliste.
+102	Un homme n'a pas besoin que son histoire soit contée.
+103	Plus le récit est grand quand tu tombes dans ta tombe, plus grande est ta virilité.
+104	« J'ai une amie à la Poste qui adorerait écrire sur tout ça. <i>Lumiere Kolachov</i>. C'est une femme-lézard complètement folle. Je crois que tu l'aimerais bien. »
+105	Hé, tu as lu son travail !
+106	En effet.
+107	C'est une piètre imposture.
+108	« Pas sûr de combien tu peux dire sans t'attirer des ennuis avec tes patrons, bien sûr. »
+109	« J'adore son travail. »
+110	« Kolachov ? C'est une piètre imposture. »
+111	« On dirait que t'as des amis partout. »
+112	« Je crois pas que je devrais parler à la presse. »
+113	« Ça pourrait être marrant. Peut-être. »
+114	« Je me fiche de ce que pensent les Patriarches. Ils seront au chômage après l'élection de toute façon. »
+115	« C'est une - comment dire - <i>fille spéciale</i>. »
+116	Le genre de journaliste « en herbe », qui écrit à côté de la fiction de genre inepte, invendable, focalisée sur les dialogues.
+117	« Absolument. Tout à fait ton genre. »
+118	« C'est ce métier. Je ne me fais jamais de simples connaissances. Que des ennemis ou des amis. »
+119	Il secoue la tête.
+120	« Ouais. Non, t'as raison. Trop le bordel. Ce serait soit un scandale soit une blague. »
+121	« Quelque chose à méditer. »
+122	« Je crois pas que même les Errants aient le pouvoir de renverser toute cette hiérarchie. Pas avant des années, du moins. »
+123	« J'aime bien ta façon de penser, cela dit. »
+124	« Mais ça, c'est pour demain. Ou la semaine prochaine. Ou le mois prochain. »
+125	« Qui sait à quoi ressemblera la cité d'ici là. »
+126	Ce sera un grand bouleversement SISMIQUE.
+127	Enfin !
+128	On va faire régner un peu de gloire dorée par ici.
+129	Comme tout cela sonnera creux après coup.
+130	Mais plus important encore, Snell ira-t-il bien ? Son peuple traversera-t-il ce changement ?
+131	Tu seras perdu dans les décombres.
+132	Ton ÂME s'attardant dans les ruines...
+133	« Est-ce que Dame Sageleaf ira bien ? »
+134	« Est-ce que tu iras bien ? »
+135	« Qu'est-ce que tu penses qu'il m'arrivera après tout ça ? »
+136	« Héh. Ouais. »
+137	« T'en fais pas pour elle. »
+138	« J'irai bien. »
+139	Un haussement d'épaules nonchalant.
+140	Avec une pointe d'incertitude.
+141	« J'ai aidé à bâtir une sacrée institution ici. »
+142	« Elle s'en sortira. Peu importe qui tient les rênes. »
+143	« La HWBT survivra. J'en suis sûr. »
+144	Comme de robustes insectes !
+145	Quoi que tu fasses- ne les compare SURTOUT PAS à des cafards.
+146	Sauf si tu tombes pile sur le bon timing, auquel cas... vas-y.
+147	(Hocher la tête.) « Comme des <i>cafards</i>. »
+148	« Je crois que t'as raison. T'as du cran en toi. »
+149	« Le temps le dira. »
+150	« Non. »
+151	« Hah ! »
+152	« Ouais. Comme un tas de putains de cafards. »
+153	« On se fait écraser, mâcher, recracher... »
+154	« Massacrer en masse par un dieu humain. »
+155	Le gobelin marque une pause dans sa tirade, comme s'il goûtait les mots.
+156	« Prospérer dans le chaos. »
+157	« Bâti des trucs bien, malgré les probabilités. »
+158	« Aussi assimilés de force. »
+159	« Un truc comme ça, ouais. »
+160	« Ouais. Qu'elles aillent se faire, les probabilités. »
+161	« Aux chiottes les probabilités. »
+162	« Qu'elles aillent se faire ! »
+163	« Ils- ça se- ça se passe comme ça. »
+164	« Ça aussi, ouais. »
+165	« ...Bien sûr. »
+166	« On a du <i>cran</i>. »
+167	« Ça pour sûr. »
+168	« Non ? »
+169	« Si la cité tombe, les tiens tomberont aussi. »
+170	« Norvik survivra aux Mi-Chemin. Elle est tellement mieux. »
+171	« Bah. »
+172	« Peut-être sous cette forme. Cette allure quasi-gens-d'Urth qu'on a maintenant. »
+173	« Mais si l'adaptabilité des humains est un de ces traits qui vous caractérise, alors les gobelins sont sacrément polymorphes. »
+174	« Garde ça à l'esprit, Clerc. »
+175	« Ouais, ouais. Et mon père pourrait éclater ton père. »
+176	« Mon père est mort. »
+177	« Ton père doit être très puissant, alors. »
+178	« Il- oh. »
+179	« C'est vrai. Tu as raconté ça à Ever-Glad. »
+180	« C'est pas grave. J'ai fait mon deuil. »
+181	« Je crois que je ferai jamais mon deuil. »
+182	« Je l'ai jamais vraiment connu. »
+183	« Beau boulot. Chose difficile à faire. »
+184	« Pareil, honnêtement. »
+185	« Huh. »
+186	« Aucune idée, vraiment. »
+187	« Mon père est mort il y a deux ou trois ans. »
+188	« Oh. »
+189	« Je le connaissais pas trop bien. C'était un gob de syndicat. »
+190	« Comme la plupart de sa génération, il était pas trop chaud pour tout ce qui était humain. Y compris cette cité. »
+191	« Alors ouais. Un peu compliqué. »
+192	« Il était comme la plupart des gobelins, alors. »
+193	« Ouais. Compliqué. »
+194	« Quand même. Ça craint. »
+195	« De la dernière génération, oui. »
+196	« Les choses sont différentes maintenant. On a de vraies opportunités. Alors j'essaie de pas juger. »
+197	« Ouais. »
+198	« Ça craint toujours. »
+199	« Mais tu sais ce qu'on dit. Le fils n'a pas à... continuer de creuser la tranchée, ou peu importe. »
+200	« Fais juste ton propre truc. »
+201	« Et comment. »
+202	« On n'a pas à continuer de creuser, mais c'est bien de garder un œil sur la tranchée. Pour pas y retomber. »
+203	Le gobelin sourit largement.
+204	« Maintenant, <i>toi</i>, par contre... »
+205	« Quoi, moi ? »
+206	« Eh bien... »
+207	« C'est quoi ton plan ? »
+208	Tu seras le héros dont cette cité a besoin. Peu importe le prix.
+209	Tu serviras. Tu te courberas. Tu imploreras la pitié...
+210	Tu feras fortune. Faut juste continuer de bosser.
+211	Si t'as de la chance, t'auras peut-être de quoi manger la semaine prochaine.
+212	Tu. Vas. VIVRE.
+213	Tu. Vas. MOURIR.
+214	Tu seras le plus puissant lanceur de sorts de la Côte. Avec le temps, bien sûr.
+215	S'ils te virent des Tours, alors tu monteras sûrement un coup d'État.
+216	Tu aideras à faire de cette cité une utopie pour tous.
+217	Tout ira bien. Le monde est calme et charmant.
+218	Tu seras la personne préférée de tout le monde.
+219	Bah.
+220	Tu trouveras une solution au fur et à mesure. Ça va super bien marcher.
+221	« Euh... »
+222	Snell te laisse un moment pour réfléchir.
+223	Il est réellement intéressé.
+224	« Je serai le meilleur clerc possible. »
+225	« Je survivrai, d'une manière ou d'une autre. »
+226	« J'affinerai ma magie. Je deviendrai encore plus puissant. »
+227	« Je trouverai un autre boulot, si tout ce truc de clerc ne marche pas. »
+228	« Ouais. J'y réfléchis encore. »
+229	(Rester silencieux.)
+230	« Héh. »
+231	Il t'adresse un sourire malicieux.
+232	« Je suis sûr que tu l'es déjà. »
+233	« Oh, ça j'en suis sûr. »
+234	« Honnêtement, pas une mauvaise idée. T'es clairement un peu maniaque de l'éso. »
+235	« Bon. Je suis sûr que t'as des relations. »
+236	Il hausse les épaules.
+237	Ton compagnon gobelin reste planté là, attendant une réponse qui ne vient pas.
+238	« Je comprends. C'est compliqué. Tu y réfléchis encore, hein ? »
+239	« Merci encore d'avoir envoyé bouler Darrow. »
+240	« C'était génial à voir. »
+241	« Ah bon ? Quand ? »
+242	« Tu sais. Quand il t'a dit de me "congédier". »
+243	« C'était cool. Vraiment, je m'y attendais pas. »
+244	« Je devrais aussi te remercier pour la, euh... résurrection. »
+245	« J'étais jamais mort avant. C'était pas une super expérience. »
+246	« Mais je dois dire, si je dois un jour recasser ma pipe- je préférerais le faire à tes côtés. »
+247	« Je ne te choisirais pas, toi. »
+248	« Pareil pour toi, Snell. »
+249	« Au figuré. »
+250	« Juste. Je pense pas que je serais capable de te ressusciter. »
+251	« À part un basique massage cardiaque, j'imagine. »
+252	« Bien sûr que non. C'est moi le Clerc ici, après tout. »
+253	« Un massage cardiaque, ça sonne bien, cela dit. »
+254	« Va falloir changer ça. Te dégoter un peu de magie divine. »
+255	« Ça pour sûr. »
+256	« Nan. C'est plutôt violent, en fait. »
+257	« Mauvais choix. J'ai aucun pouvoir canalisé par un dieu. »
+258	« C'est vrai. Je retire ce que j'ai dit. »
+259	« Plus palpitant comme ça. »
+260	« Peut-être un jour. »
+261	« Manœuvre habile. »
+262	« Vrai. T'es un tel amateur de sensations fortes. »
+263	« Oh que oui. Snell le Clerc. De quel dieu ? »
+264	« Urth, bien sûr. »
+265	« Tokig le Joueur. »
+266	« Illym pourrait être marrant. »
+267	« Je crois pas qu'ils aient ces heaumes à ma taille, hélas. »
+268	« Ce serait dingue. J'aime ça. »
+269	« On n'a pas la même vision du fun, je crois. »
+270	« Oh, et au fait... »
+271	« Ta voix est toujours super aiguë. »
+272	« Quoi ? »
+273	« Depuis que t'as descendu cette potion miroir. Elle est toujours haut perchée. »
+274	« Merde. Tu crois que ça va durer combien de temps ? »
+275	« Aiguë de façon virile, ou... ? »
+276	« Elle sonne grave et stoïque dans mon heaume. »
+277	« Donne-lui encore quelques jours. »
+278	« Au-delà de ça, je suis sûr qu'une potion défectueuse comme ça sera pas dure à dissiper. »
+279	« Oh que oui. »
+280	« La souris la plus virile du royaume. »
+281	« Hm. »
+282	« De la réverbération. Peut-être. »
+283	Le sourire le plus maléfique que tu aies jamais vu. De toute ta vie.
+284	Bon sang. Quel revirement de méchant.
+285	C'est, à vrai dire, absolument hilarant.
+286	« ...Et je viens de réaliser qu'on n'est jamais vraiment entrés <i>dans</i> le salon de thé. »
+287	« ...Huh. »
+288	« On aurait dû faire ça. »
+289	« On aurait vraiment dû faire ça. J'arrive pas à croire que j'aie oublié. »
+290	« On a fait un tas d'autres trucs ? »
+291	« En effet. »
+292	« Mais pas le salon de thé. »
+293	« Non, en effet. »
+294	« On y est jamais entrés. Huh. »
+295	« Je sais pas trop comment je vais expliquer ça à Dame Sageleaf, mais... »
+296	« Bah, peu importe. Le mystère est résolu de toute façon. »
+297	Tandis que vous continuez de parler, la chambre semble se vider de plus en plus de monde.
+298	Il ne te reste que quelques minutes avant que ce soit l'heure.
+299	Maintenant - avant que tu montes - demande-lui !
+300	Demande-lui pour qui il vote ! Ça t'aidera à le cerner pour de vrai !
+301	Le gobelin soupire.
+302	(Te racler la gorge.)
+303	« Ouais ? »
+304	« Balance. »
+305	(Le dire d'une voix rude.) « <b>Pour qui votez-vous à l'élection, citoyen</b> ? »
+306	« Bah, c'est privé. »
+307	Pff.
+308	Il veut en garder un bout pour lui.
+309	Il craint.
+310	« Compréhensible. Tu sais que je devais demander. »
+311	« Pas même un indice ? »
+312	« Tu dois me le dire. C'est la loi. »
+313	« Allez... après tout ce qu'on a traversé ? »
+314	« Je m'y attendais, ouais. »
+315	« Pas encore, non. »
+316	« Toujours privé. »
+317	Mais il lâche un ricanement de bon cœur.
+318	« Je vais te dire une chose, cela dit- ce sera pas pour les Errants. »
+319	« C'est grossier. »
+320	« Bon choix. »
+321	« Les Errants n'ont pas besoin de ta voix. »
+322	Il rit.
+323	« Je suis pas sûr qu'une posture anti-quelque-chose soit vraiment saine, mais... »
+324	« Oh, je sais. »
+325	« Je suis sûr qu'ils gagneront à la fin de toute façon. Ils semblent toujours faire exactement ça. »
+326	« Ouais. C'est là où j'ai atterri. »
+327	« Et tu es rouge, je suppose ? »
+328	« Tu es vert, je suppose ? »
+329	« Et tu votes pour... <i>toi-même</i>, je suppose ? »
+330	« Mais tu ne votes pas du tout, je suppose ? Ou... ? »
+331	« Et tu es encore un foutu Errant ? »
+332	« Et tu votes pour... ? Quoi, le Parti de Norvik ou un truc du genre ? »
+333	« Précisément. »
+334	« Probablement. »
+335	« Non. Ou, euh... »
+336	(Regarder l'urne.) « Je déciderai en arrivant là-bas. »
+337	« Cool. J'ai bien lu tes <i>nombreux commentaires</i> alors. »
+338	« C'est ça. Enfin, t'es plutôt dur à cerner, pour ce genre de truc. »
+339	« Je partage ton hésitation. »
+340	« Juste. »
+341	« Je crois pas... que ça marche comme ça, Clerc. »
+342	« Mais... fais comme tu le sens. »
+343	« Hah. Te revoilà. À toujours éviter la politique de la façon la plus gênante possible. »
+344	Il sort un carnet jaune.
+345	« Je suis pas du genre à noter des trucs, je te jure. »
+346	« Mais à un moment j'ai réalisé que je devrais noter à quelle fréquence tu fais tous ces commentaires politiques. C'est devenu plutôt ridicule à un moment. »
+347	Snell se met soudain à farfouiller dans ses poches.
+348	« Merde, c'est vrai. »
+349	« Mais à un moment je me suis dit que je devrais noter à quelle fréquence tu faisais ces déclarations politiques ridicules. »
+350	« Mais mon carnet... »
+351	Il cesse de fouiller sa veste. « <i>Bon sang</i>. J'ai dû le faire tomber dans la Cité d'En Bas ou un truc. »
+352	« Oh, c'est vrai. Je l'ai ici. » (Lui rendre son carnet.)
+353	« Ça craint. Peut-être que tu le retrouveras un jour, dans un lointain futur. » (Garder son carnet.)
+354	« ...Quoi ? »
+355	Snell l'accepte avec un plissement des yeux méfiant.
+356	« Tu l'as fait tomber à un moment. Je l'ai gardé en sûreté. »
+357	« Je te l'ai volé. »
+358	« ...Très bien. Euh. Merci. »
+359	« Attends, quand exactement ? »
+360	« Je croyais l'avoir perdu avant même de te croiser. »
+361	« Je l'ai pris dans ta poche devant le Jardin des Gobelins. Avant que tu m'emmènes chez Sageleaf. »
+362	« Sans blague ? Huh. »
+363	Pure incrédulité.
+364	Avec une pointe de fierté, bien sûr.
+365	« Je te décerne officiellement le titre de deuxième plus grand enfoiré kleptomane de Tolstad. »
+366	« J'accepte le titre avec fierté. »
+367	« Je rejette ce titre. »
+368	« Ce type nommé Smarter. Espérons que tu le rencontres jamais. »
+369	« Ouais. <i>Smarter</i>. »
+370	« Espérons que tu n'aies jamais la malchance de le recroiser. »
+371	« J'avais le sentiment que tu le ferais, espèce d'enfoiré aux mains de diable. »
+372	« Dommage. »
+373	Il brandit le carnet avec un sourire.
+374	« Bah. J'en achèterai un neuf. »
+375	Puis il le feuillette.
+376	« Tiens. »
+377	Snell te montre une page avec quelques lignes griffonnées.
+378	« Pas aussi terrible que je pensais. C'est moins d'une douzaine de fois. »
+379	« Je devrais peut-être m'engager davantage... politiquement, ou peu importe. »
+380	« Ça n'en vaut pas la peine. Va à ton propre rythme, Snell. »
+381	« Tu le devrais. Chaque citoyen doit porter sa part. »
+382	« Suis ton cœur, et quelle que soit la politique qui te ronge l'arrière du crâne. »
+383	Snell te montre une page de lignes griffonnées.
+384	« Oh que oui. C'est genre vingt fois. Ça frôle l'obsession, tu sais ? »
+385	« La politique, c'est <i>tout</i>. »
+386	« On peut toujours faire plus fort. Plus politique. »
+387	« Tout est une question de mettre le pied dans la porte pour la prochaine Ère. »
+388	Snell te montre une page PLEINE de lignes griffonnées.
+389	« C'est genre <i>trente</i> fois, Clerc. »
+390	« Je dis pas que tu devrais pas t'engager politiquement, mais t'es clairement un peu trop obnubilé. »
+391	« La politique est importante. Elle est plus importante que nous tous réunis. »
+392	« Je <i>respire</i> la politique. Elle est dans mes <i>veines</i>. »
+393	« Seulement trente ? Faut que je fasse grimper ces chiffres. »
+394	« La politique, c'est TOUT et TOUT LE MONDE. »
+395	« N'arrête jamais. Peux pas arrêter. » (Commencer à trembler.)
+396	Snell te montre une page pleine de points d'interrogation.
+397	« T'es un peu une énigme, Clerc. »
+398	« Une énigme <i>apolitique</i>. »
+399	« Faut rester mystérieux. Les tenir en haleine. »
+400	« J'imagine. »
+401	Le gobelin secoue la tête, replaçant le carnet jaune dans sa veste.
+402	Alors qu'il détourne le regard, le silence s'installe entre vous deux.
+403	Finalement, Snell rompt le silence par une phrase presque bégayée.
+404	« Qu'est-ce que tu as, euh, si ça te dérange pas que je demande... »
+405	« De quoi tu as parlé, avec ce type ? <i>Urth</i>, je veux dire. »
+406	« De bien des choses. Il a parlé des gobelins. De son rôle de dieu. »
+407	« Rien que je puisse te dire. » (Le laisser dans le flou.)
+408	« Il a parlé des gobelins ? »
+409	« Oui. »
+410	« Au sujet du... »
+411	« Qu'est-ce qu'il a dit ? »
+412	« Il est apparu comme un vieil homme rongé de regrets. Incertain quant aux nombreux choix qu'il a faits de son vivant. »
+413	« C'était un dieu. Têtu et au-dessus de tout. »
+414	« Il a fait de son mieux dans la vie. Mais il n'était pas sûr que ce soit ne serait-ce que proche de suffisant. »
+415	« Ce fut une expérience intéressante. »
+416	« Je peux imaginer. »
+417	« Vraiment ? »
+418	« Bon. Ne rencontre jamais tes héros, et tout ça. »
+419	« ...C'est ça. »
+420	« Je parie qu'être un dieu est une position plutôt stressante. »
+421	« Il avait l'air plutôt éreinté. »
+422	« Je parie qu'être mort fait aussi ça à un type. Bref. »
+423	« Merci de me l'avoir dit. »
+424	« Je suis sûr... que Dame Sageleaf appréciera ça dans le rapport aussi. »
+425	Il n'a pas demandé pour elle.
+426	Snell voulait savoir- juste pour lui.
+427	Et il est content de ne pas avoir laissé ces mots tus.
+428	« Comme c'est inquiétant. »
+429	« Mais bon, je comprends. On verra si Dame Sageleaf réclame plus d'infos plus tard. »
+430	Il y a quelque chose.
+431	Hm ?
+432	Quelque chose reste tu.
+433	Ça pèse sur l'esprit de Snell.
+434	Quelque chose... sur quoi tu n'arrives pas tout à fait à mettre le doigt.
+435	Il prend une profonde inspiration.
+436	« Encore un peu. Et puis ce sera fini. »
+437	Il ne veut pas l'aborder. À moins que tu ne le fasses d'abord.
+438	Mais qu'est-ce que c'est ?
+439	Comprendre Snell.
+440	(L'ignorer.)
+441	Snell est quelqu'un de bien.
+442	C'est un gobelin.
+443	Pourtant tu as vu une grande intégrité en lui.
+444	Ce n'est pas quelque chose que tu aurais jamais soupçonné en pareille rencontre.
+445	Tu peux lui faire confiance. Et tu le comprends.
+446	À quoi pense-t-il, alors ?
+447	Il pense à...
+448	<i>Urth</i>.
+449	Ah.
+450	Il reste beaucoup de non-dits sur votre rencontre dans le néant.
+451	Laisse-le poser la question.
+452	« Tu penses à quelque chose. »
+453	« Ah bon ? »
+454	« Oui, je le vois bien. Parlons d'Urth. »
+455	Le gobelin ferme lentement les yeux, relâchant sa posture.
+456	Il ne le porte plus.
+457	« Ouais. Je dois demander. »
+458	« Je viens d'avoir une brève conversation avec l'homme qui a personnellement massacré toute ma race. »
+459	« Laisse-moi demander : qu'est-ce que je suis <i>censé</i> ressentir face à ça, putain ? »
+460	« De la rage et de la confusion. »
+461	« Je crois que tu lui as fait connaître ton opinion très clairement, en face. Ce qui est impressionnant, au passage. »
+462	« C'est quelque chose que tu n'apprendras qu'avec le temps. »
+463	« Tu peux ressentir de la reconnaissance. Il t'a laissé vivre. »
+464	« Je ne sais pas, Snell. Je ne suis pas un gobelin. »
+465	« Puisque tu le formules si succinctement. »
+466	Snell laisse son visage tomber dans ses deux paumes.
+467	« Héh. Je me suis dit que je suis le seul gobelin en vie à avoir vraiment l'occasion de passer un savon au type. Ce serait dommage de laisser filer cette chance. »
+468	« Mais... »
+469	Il se frotte les yeux.
+470	« <i>Tsk</i>. »
+471	« <i>Avec le temps</i>. Comme s'il crachait une sorte de prophétie. »
+472	« <i>À la fin, on apprendra tous à quel point il avait raison</i> », dit Snell d'un ton moqueur. « Un truc comme ça. »
+473	« Il a laissé vivre ma <i>grand-mère</i>. »
+474	« Tout le reste n'a été que... »
+475	« Et je suis le seul gobelin en vie, dans le monde entier bon sang, à avoir réellement parlé à ce salaud. »
+476	Son front se plisse en un fouillis froncé tandis qu'il rajuste sa veste.
+477	Un tic.
+478	« Je sais pas. Une partie de moi déteste qu'il m'ait touché tout court. »
+479	« Comment ça ? »
+480	« Il était plutôt persuasif. »
+481	« Il a juste l'air d'un vieil homme plein de regrets. »
+482	« J'aurais dû lui tirer dessus avec la fronde pour ce qu'il a fait. Mais... »
+483	Le gobelin ricane.
+484	« Exactement. »
+485	« Quelque chose dans ce regard. Je m'attendrais pas à <i>ce regard</i> dans les yeux de quelqu'un avec ce genre de pouvoir. Qui <i>avait</i> ce genre de pouvoir. »
+486	« Qu'il ait su depuis le début... que tout n'était qu'un <i>pari</i>. Je sais même pas comment digérer ça. Et c'est comme ça que tous ces dieux procédaient ? À suivre des visions divines du jet de dé qui avait le plus de chances de réussir ? »
+487	« C'est dingue. »
+488	« Ouais. Les choix du monde réel peuvent pas se décomposer comme ça. C'est bien trop complexe. »
+489	« Parfois je me demande si on a tous nos choix disposés comme ça. L'un après l'autre. Juste des probabilités et des Fils, dans un fouillis emmêlé. »
+490	(Le laisser juste parler.)
+491	« Tout à fait d'accord. »
+492	« Ouais, non, c'est... pas quelque chose auquel j'ai jamais pensé. Mais je suis pas exactement en phase avec l'ésotérique, alors... »
+493	Snell place une griffe contre sa tempe.
+494	« C'est juste- ce vieil homme est planté là, à défendre chaque choix qu'il a fait. Comme s'il était infaillible- tout en <i>montrant</i> tant de <i>regret</i>. Comme s'il savait à quel point il a merdé en chemin. »
+495	« Mais il recommencerait quand même ! »
+496	« Je suis censé avoir de la peine pour lui ? Ou je devrais être un moine tout-pardonnant, juste parce qu'il a fait <i>de son mieux</i> ? En plus de ça- il a le culot de me dire à <i>moi</i> ce que <i>je</i> devrais faire ? Comme si ses mots étaient autre chose que les divagations d'un dieu mort ? »
+497	« <i>Putain</i>. Je sais pas. »
+498	Il baisse les yeux vers les carreaux nains magnifiquement sculptés.
+499	« ...Et <i>toi</i>, qu'est-ce que t'en penses ? »
