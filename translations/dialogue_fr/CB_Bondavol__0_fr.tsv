@@ -1,0 +1,501 @@
+idx	french
+0	En pénétrant dans la tombe cachée, tu vois un étalage coloré de lumière scintillante à travers l'air lugubre et poussiéreux.
+1	Un autel inquiétant. Posés dessus : un crâne et plusieurs gemmes colorées.
+2	Précieuses, en plus.
+3	Genre, extrêmement précieuses. Mais probablement horriblement maudites, hélas.
+4	Et brillantes ! Prends-en une. Tu pourrais la faire expertiser par quelqu'un en centre-ville...
+5	Le crâne est un signe de mort.
+6	Mm. Ne touche à rien.
+7	Quel que soit l'effet ésotérique en place ici - ne le perturbe pas.
+8	(Attraper une pierre précieuse.)
+9	(Attraper le crâne.)
+10	(Se contenter de regarder autour.)
+11	Dont tu en tiens une dans ta main.
+12	Super ! Ça doit être inestimable.
+13	Oh oh. C'était probablement une idée vraiment, vraiment stupide.
+14	Ton compagnon fixe la gemme dans ta main, balbutiant quelques mots.
+15	« T-tu viens juste de...! »
+16	« Tu entres dans une tombe glauque et tu juste...? »
+17	Oh. C'est quoi ce... sentiment ?
+18	Des ténèbres coulent le long de ton bras.
+19	Une douleur cuisante s'empare de toi.
+20	Te faisant lâcher la gemme.
+21	Mais la gemme ne touche pas le sol.
+22	« Que les dieux soient damnés... »
+23	Le gobelin recule d'un pas.
+24	Tu la regardes léviter devant toi, tandis que la douleur reflue dans ton bras.
+25	C'est une malédiction d'aiguilles.
+26	C'est une malédiction. D'un genre ou d'un autre.
+27	Le trésor sur le sanctuaire doit être lourdement enchanté.
+28	(Essayer d'attraper la gemme flottante. Encore.)
+29	« Aïe. »
+30	(Reculer d'un pas.) « Gemme maudite flottante. Je déteste ça. »
+31	Tandis que tes doigts touchent la surface, ils sont aussitôt repoussés.
+32	« Arrête de la toucher ! »
+33	« Espèce d'idiot ! » Il repousse ta main d'une claque.
+34	« Sois juste content de ne pas avoir perdu une main. »
+35	Lentement, tu regardes la gemme se déplacer dans l'air poussiéreux vers le sanctuaire.
+36	Jusqu'à ce qu'elle atterrisse exactement au même endroit où tu l'avais prise.
+37	« C'est pour le mieux, Clerc. »
+38	« N'oublie pas, tout ce que tu attrapes ici en bas est taxé à la fois par les Halfways et ta précieuse cité. »
+39	QUOI ?
+40	Terrifiant.
+41	(Se contenter de fixer la gemme rendue.)
+42	« Les impôts, Clerc. »
+43	« Tu sais. La Maison de la Dîme. »
+44	Pas quelque chose que tu as eu à gérer auparavant, mais oui.
+45	La Maison de la Dîme exige une part de 40 % sur tous les biens collectés dans la Cité Sous la Cité.
+46	Bien sûr. Mais même les explorateurs officiels ne déclarent pas <i>tout</i>.
+47	Ce n'est pas comme s'ils pouvaient suivre chaque pièce et relique ancienne.
+48	Ces impôts vont à une bonne cause. La cité offre de nombreux services gratuits à son peuple, qui ne seraient pas possibles si une lourde part n'était pas imposée sur tous les types de revenus.
+49	Ça paie aussi ton salaire.
+50	« Il y a un IMPÔT sur le TRÉSOR ?! »
+51	« C'est ça. Il y a un impôt sur le butin. »
+52	« Bien. La cité a besoin de ces impôts. »
+53	Il lève une griffe. « Ensuite Dame Sageleaf impose une autre part de cinquante pour cent sur tout bien récupéré dans les Tunnels de Tolstad. »
+54	Mais... mais...
+55	Il ne te restera RIEN !
+56	« Sauf si tu es un explorateur officiel, bien sûr. Alors tu t'en tires avec 10 %. »
+57	DES FASCISTES !
+58	Une combine avisée. Ça incite les aventuriers à ne pas agir dans le dos des gobelins.
+59	Soit risquer de se faire prendre par Sageleaf, soit accepter une part minuscule ?
+60	Les gobelins n'ont aucune juridiction officielle sur la moindre parcelle de la Cité d'En Bas.
+61	De telles actions dépassent largement leurs pouvoirs.
+62	Pourquoi <i>quiconque ferait quoi que ce soit</i> si le butin est partagé par quelque spectre pesant du socialisme immonde ?
+63	« Ça ne semble pas juste. »
+64	« Bien. J'adore payer plus de la moitié de mes revenus à des gens qui n'ont fait aucun travail. »
+65	Le gobelin hausse les épaules. « Tu vis à Norvik, Clerc. Je ne l'ai pas choisi. Je suppose que toi non plus, en vrai. »
+66	« Mais on vit ici quand même. Alors les impôts sont payés. »
+67	« Je parle de la part des gobelins. »
+68	« C'est juste. »
+69	« Tu vas sortir la carte du génocide ? Vraiment ? »
+70	« On devrait peut-être abolir les impôts... »
+71	« Ah. Enfin, tu peux voir ça comme une revanche pour tout le génocide, alors. »
+72	Il plaisante, mais il y a un fond de sérieux dans sa voix.
+73	« Oh que oui. »
+74	« Si ça marche, ça marche. »
+75	« Hé, tout est possible. Qui sait ce que le prochain cycle électoral apportera. »
+76	« Abolir les impôts. Légaliser le meurtre. Sanctifier le cunnilingus. »
+77	« Ça sonne bien. Je voterais pour toi. »
+78	« La deuxième semble un peu dure. »
+79	« C'est quoi, la troisième ? »
+80	« Ah oui. Un vrai parti gobelin. Le slogan serait <i>On Aime l'Anarchie</i>, et on gagnerait haut la main. »
+81	« Évidemment. »
+82	« Bref. Le sanctuaire... »
+83	« Hé, ce serait un retour dans le passé. On était de la chair à canon, pas vrai ? »
+84	Il parle du Génocide des Gobelins. Une période terrible de l'histoire du peuple d'Urth.
+85	« Je suis désolé pour ça. »
+86	« C'est ça. » (Se détourner et regarder le sanctuaire.)
+87	Il lève la paume. « Non. Juste- regarde juste le sanctuaire, d'accord ? »
+88	Le gobelin se racle la gorge.
+89	« C'est un- c'est un truc de sexe, Clerc. »
+90	« À propos de ce sanctuaire... » (Changer vite de sujet.)
+91	Il te pointe du doigt. « Du sarcasme ? »
+92	« Oui. »
+93	« Non. »
+94	« En fait non. »
+95	Il prend une inspiration, puis redemande. « Du <i>sarcasme</i> ? »
+96	« Compris. J'essaie d'apprendre tes, tu sais, manières. »
+97	« Poursuis. »
+98	Le sanctuaire est silencieux. Les gemmes colorées couvrent son autel, ainsi que les orbites du crâne central.
+99	Songer que ce coin sacrilège et très franchement <b>inquiétant</b> serait planqué dans un lieu aussi saint.
+100	C'est la crypte originale d'Urth, bon sang ! N'y a-t-il nulle profondeur de dépravation à laquelle ces sectateurs et enthousiastes de la non-mort ne puissent s'abaisser ?
+101	Tes jambes flanchent tandis que tu le contemples.
+102	Tu devrais prier ce truc. Il est plus fort que toi.
+103	Je devrais juste laisser ça tranquille. Pour l'instant.
+104	Le gobelin plisse les yeux.
+105	« Un peu ? Ça dépend du type de crâne, je suppose. »
+106	« Regarde la mâchoire. Elle est toute de traviole. Et les yeux ? »
+107	« Je suppose qu'on ne devrait pas juger l'aspect d'un crâne enjoyé, pour des raisons entièrement égalitaires. »
+108	« Nan. C'est probablement juste un humain à l'esthétique malheureuse. »
+109	Il soupire.
+110	« Regarde-toi, tout saint tout d'un coup. »
+111	« Mais pour être juste... »
+112	Il hoche la tête.
+113	« J'aime pas casser du sucre sur un mort, mais... ouais. »
+114	« C'est un crâne bien loufoque. »
+115	« Un crâne <shake>LOUFOQUE</shake> ?! »
+116	« Espèces de <b>PUTAINS</b> de phrénologues ! »
+117	« Tu ne devrais manifestement pas faire ça. »
+118	Ouais. Du moins tant que ce gobelin regarde.
+119	Pas envie de se coltiner ces impôts.
+120	« Tu as raison. Je ne devrais pas. »
+121	« Et si j'écrase le crâne d'abord ? Je pourrais probablement le fracasser. »
+122	« Tu dis que tu ne devrais pas. Mais j'ai comme une vague intuition que ce n'est pas ce que tu penses là-haut dans ce heaume qui est le tien. »
+123	« Alors ton plan, c'est juste de fracasser le crâne clairement super maudit sur l'autel manifestement maléfique. »
+124	« Je savais que tu serais comme ça. »
+125	Le gobelin recule d'un pas et te fait une révérence polie.
+126	« Je t'en prie. »
+127	« Merci, Snell. Je vais écraser le crâne maintenant. » (Lui faire un pouce en l'air.)
+128	« Sûrement <shake>PAS</shake> ! »
+129	Elles le sont...
+130	Mais même un objet aussi précieux ne l'emporte pas sur ton instinct de conservation, en l'occurrence.
+131	Peut-être si tu es assez rapide...?
+132	NE LE FAIS PAS.
+133	Mm. N'envisage pas une action aussi insensée.
+134	« C'est quoi ce <shake>BORDEL</shake> que tu HURLES ?! »
+135	Attends, attends...!
+136	À la seconde où tu poses ta main sur le sommet du crâne, les gemmes se mettent à luire.
+137	Une décharge d'énergie nécrotique emplit tes veines depuis ta paume, remontant jusqu'à ton cœur.
+138	Malgré cela, tu ne PEUX PAS retirer la paume.
+139	Elle est COLLÉE au crâne.
+140	« Arrête, Clerc ! Arrête ! »
+141	(Hurler et secouer le crâne.)
+142	Ce faisant, un cri strident emplit l'air.
+143	Suivi d'une voix perçante.
+144	« RE-POSE-MOI. <shake>PAR TERRE</shake> ! »
+145	(Continuer de secouer.)
+146	Après deux secousses de plus, le crâne se décolle de ta paume, les dégâts nécrotiques sur ta chair s'estompant.
+147	Le crâne rebondit contre le mur, avant de s'arrêter soudain en plein air.
+148	Comme soulevé par quelque force invisible, le crâne enjoyé s'élève de l'autel.
+149	Ses yeux luisants scintillant dans la lumière, sa mâchoire cliquetant. Le bruit te fait reculer.
+150	LA MORT.
+151	« Pas possible. »
+152	Une vague sans fin d'effroi s'abat sur ton essence.
+153	Une force ésotérique. Elle...
+154	Elle <i>pénètre ton esprit</i>.
+155	« U-une abomination morte-vivante ! »
+156	(Essayer de courir.)
+157	« <i>Urth me protège</i>. »
+158	« Te protéger <i>toi</i> ?! »
+159	Le gobelin essaie de t'attraper, mais il se fige et grogne.
+160	« C'est quoi ce bordel...?! »
+161	Il tombe à genoux.
+162	Tu tiens à peine debout.
+163	Je... ne peux pas bouger...
+164	L'EFFROI est écrasant.
+165	L'EFFROI- tu lui résistes.
+166	La mâchoire du crâne cesse de cliqueter.
+167	Tandis que le bruit disparaît, tu te sens de nouveau maître de toi.
+168	Légèrement.
+169	« Tu me réveilles pour une connerie insignifiante ? T'es un Chipoteur, hein ? »
+170	Il claque ses dents ensemble.
+171	« Non, monsieur. Arrêtez de faire ce bruit, je vous en prie. »
+172	« C-c'est quoi, le Chipotage ? »
+173	« Je suis <b>Le Clerc</b>. » (Essayer de ne pas vomir.)
+174	« Je suis un... roublard. »
+175	« Je suis un grand magicien, rien d'autre ! » (Chanceler un peu.)
+176	« Je fais tous les satanés bruits qui me plaisent, tu entends ? »
+177	« C'est ce que tu fais, <shake>mortel</shake> ! »
+178	« Tu chipotes comme un Chipoteur ! »
+179	« UN CLERC, HEIN ? »
+180	« Ça sonne bien comme du chipotage pour moi ! »
+181	« Non ! C'est différent ! »
+182	« Ouais, c'est juste. Ne me tuez pas, je vous en prie. »
+183	« Je parie ton âme que non ! »
+184	« C'est ça que j'aime- RA-rrrr-MPE POUR MOI ! »
+185	Le crâne flotte plus près de toi, te faisant convulser sur place.
+186	« UN MAGICIEN ?! »
+187	Il te toise de haut en bas.
+188	« Hah ! Tu n'es qu'un <i>chiot empêtré dans les Fils</i>. »
+189	« Un CLERC perdu dans les entrelacs de Jor...! »
+190	« Un Clerc...! D'un dieu MORT...! »
+191	Par tous les enfers, ce truc est terrible.
+192	Le simple fait d'être près de lui ruine ta posture.
+193	Le corps ne peut supporter cette... non-mort.
+194	Le crâne lâche un rire hurlant en frémissant dans les airs.
+195	« Je suis le NÉCROSEIGNEUR BONDAVOL ! »
+196	« Wah-ha-ha ! »
+197	<b>Frappe. Le. Crâne.</b>
+198	Un Nécroseigneur ? C'est un titre du Vieux Diminor.
+199	Tu as eu l'infortune de rencontrer ici un vestige des Arcanistes - laissé à se décomposer en cette forme démente.
+200	Une <b>Demi-Liche</b>.
+201	Une créature horrifiante. Une Liche, tombée dans un état de folie et de décrépitude, pourrissant jusqu'à n'être plus qu'un crâne.
+202	C'est à bien des égards la variante dangereuse, car sa folie est aussi imprévisible que dangereuse.
+203	FRAPPE. LE. CRÂNE.
+204	« Tu es un...! »
+205	« C'est une...! »
+206	Frapper le crâne du poing.
+207	« Une grande et <i>horrifiante</i> liche ! Oui ! »
+208	Il ne se considère pas comme décomposé. Un signe de folie.
+209	« Oui, c'est mon FUNESTE DESTIN ! »
+210	Probablement le tien aussi.
+211	« Je l'ai entendu ! »
+212	« Ouais ! C'est plutôt clair ! »
+213	Le gobelin a l'air horrifié et prêt à passer à l'action, malgré ses jambes tremblantes.
+214	« Un petit <shake>mortel</shake> apeuré ? Ouiiii...! »
+215	Il prend bien trop de plaisir à ça.
+216	« Pas d'ennuis ? »
+217	« Ennuyeux. »
+218	ENNUYEUX ?!
+219	Hé, qu'il aille se faire voir, ce type !
+220	« <i>Ennuyeux</i> ? Qu'est-ce que tu veux que je fasse, chercher les ennuis ? Être un connard ? »
+221	« Pardon ? »
+222	« Hé, va te faire foutre, mon pote ! »
+223	« Au moins ce serait intéressant. »
+224	« Mauviette. »
+225	« J'ai dit, tu es EEENNUYEUX ! »
+226	« C'est l'esprit ! »
+227	« Sois cassant ! Ne laisse personne te mener par le bout du nez ! »
+228	« C'est tout l'intérêt ! »
+229	Une lumière aveuglante émane de ta main gantée tandis que tu tords les Fils autour de l'air du crâne horrifiant.
+230	(Renvoyer tous les morts-vivants de la chambre.)
+231	Il lâche un cri aigu et s'écrase contre le mur.
+232	Avant de retomber sur l'autel, immobile.
+233	« Putain de merde », marmonne le gobelin en levant le regard.
+234	« Tu l'as... eu ? »
+235	« Bien sûr que non ! »
+236	Puis tu le vois s'entrechoquer sur la table. Il s'élève une fois de plus, sa mâchoire légèrement déboîtée.
+237	Le crâne s'élève une fois de plus, sa mâchoire légèrement déboîtée.
+238	« Tu croyais que ça allait ME détruire ?! »
+239	Tu canalises l'énergie sombre à travers ta paume, la tendant vers le crâne flottant.
+240	Une puissance nécrotique jaillit du bout de tes doigts. Mais...
+241	« Ohoho...! »
+242	La mâchoire du crâne s'ouvre grand tandis que l'énergie négative s'y déverse.
+243	Plutôt que de reculer, il semble... la boire.
+244	« Mmm ! <shake>DÉLICIEUX !</shake> »
+245	Les gemmes dans ses orbites s'embrasent d'une intensité renouvelée.
+246	« Tu crois qu'une aussi PIÈTRE MAGIE égratignerait même quelqu'un comme moi ?! »
+247	Le crâne lâche un ricanement strident, tournoyant follement dans les airs.
+248	Mais ta main tremble. Le sort avorte au bout de tes doigts.
+249	Allez...
+250	« Hein ? »
+251	« Tu... tu tentes d'INFLIGER DES BLESSURES sur MOI ?! »
+252	Le crâne s'entrechoque d'un rire moqueur tandis que les volutes d'énergie nécrotique ratée se dissipent.
+253	Tu armes ton poing.
+254	Tu croises le regard des pierres précieuses maudites dans les orbites du crâne.
+255	Et tu pries.
+256	« Qu'Urth soit <shake>BÉNI</shake>. »
+257	Tu entres en contact avec la surface osseuse, envoyant l'abomination tournoyer dans les airs.
+258	« <shake>Gah...!</shake> »
+259	En cessant de tournoyer, il te regarde, de travers, et claque ses dents ensemble.
+260	« Tu frappes... MOI ?! »
+261	Le crâne lâche un rire dément.
+262	Puis tu tentes de croiser le regard des... gemmes.
+263	Et d'envoyer tes bras tremblants en avant.
+264	Allez, allez...
+265	« Tu... tu tentes de me frapper, MOI ?! »
+266	Le crâne lâche un rire moqueur tandis que tu te remets de ton attaque manquée.
+267	« TU ME PLAIS ! »
+268	« Quoi ? »
+269	« Un tel cran ! Tu me rappelles mon vieux lieutenant. »
+270	« Ce garçon frappait toujours ses supérieurs. Je l'ai relevé une douzaine de fois au cours de la guerre ! »
+271	« Arrête de rire, j'essaie de te tuer, espèce de- monstre mort-vivant ! »
+272	« Ça veut dire que tu ne vas pas me tuer ? »
+273	Il rit encore un peu.
+274	« Te tuer ? Un peu trop tard pour ça, marmot ! »
+275	« Bah. »
+276	« Je ne fais pas de promesses. »
+277	« Je le pense aussi. Joue le jeu maintenant. »
+278	« Si tu continues comme ça, tu pourrais être assez digne pour être relevé comme serviteur un jour. »
+279	Le crâne s'arrête.
+280	« <i>Visken</i> ? »
+281	« Qu'es-tu, un <i>apprenti</i> ? »
+282	« Non ? »
+283	« Oui ? »
+284	« Un esclave, alors ? »
+285	« Pas question. Je n'approuve pas l'esclavage. »
+286	« Plus ou moins, je suppose. »
+287	« Je préfère le terme "serviteur". »
+288	« Je perçois du <shake>sarcasme</shake> là. »
+289	« Ouais-ouais. Quel genre d'apprenti ? »
+290	Dis-lui que tu es un... un dentiste en formation. Ça devrait marcher.
+291	Officiellement, Visken est un croque-mort. Alors...
+292	« Du genre ésotérique ? »
+293	« Il m'enseigne des trucs mortuaires. »
+294	« De la dentisterie ? »
+295	« Je ne suis pas vraiment un apprenti. »
+296	« Visken ne prend pas d'élèves en Arcanes. »
+297	« Alors tu es le premier élève embaumeur qu'il ait jamais pris ? Pas question, <i>hombre</i>. »
+298	« Il n'a plus pratiqué cette horrible pratique depuis des années ! »
+299	« Il... l'a reprise ? »
+300	« Je ne te crois pas. »
+301	« Attends. Es-tu ce Clerc qui cherche à parler avec l'elfe mort ? »
+302	« Oui. Évidemment ? »
+303	« Comment tu savais ça ? »
+304	« Non. » (Prendre un air fuyant.)
+305	Évidemment.
+306	« Si, tu l'es ! »
+307	Il lâche un rire cliquetant, tournoyant lentement dans les airs.
+308	« Visken m'a tout dit de ta petite situation. »
+309	« Bien sûr ! »
+310	La demi-liche claque une fois.
+311	« Tu n'es pas très nécromantiquement empêtré, hein ? »
+312	« C'est une mauvaise chose ? »
+313	« Pas vraiment, non. »
+314	« Je n'ai jamais réussi à maîtriser cette école aux Tours. »
+315	« Et Dieu merci. C'est une magie immonde et crasseuse. »
+316	« Bien sûr que oui ! Chaque lanceur de sorts devrait tendre vers le nécromantique. C'est juste naturel ! »
+317	« Je vois. »
+318	« La maîtriser ? »
+319	« Personne ne la maîtrise, pas même après des siècles d'études. »
+320	« La Nécromancie est un art magnifique, faquin ! »
+321	« Vois-tu, je ne suis pas juste un magicien en rut...! »
+322	Le crâne retombe et fait des culbutes sur la table.
+323	« Je suis un putain de <wiggle>MAAAGE</wiggle> ! »
+324	Tu entends le gobelin grogner.
+325	Cette liche n'est, étonnamment, pas une menace.
+326	Pour une raison ou une autre, ses intentions sont bien plus sinistres : il compte t'enseigner quelque chose.
+327	« Formé aux <i>Arts</i> par des légendes Haagin-Dim, envoyé combattre au nom du <shake>grrrrr</shake>and empire de l'histoire de l'empreinte-de-cul de Jor ! »
+328	« Nécroseigneur n'est pas juste un titre- c'est une vocation ! Un rêve ! »
+329	« Un rêve de suprématie morte-vivante...! Un jour il sera atteint. »
+330	« C'est toi le chanceux ici. Car je vais t'aider à te guider vers une HARMONISATION AUX FILS ! »
+331	« Une harmonisation NÉCROMANTIQUE ! »
+332	« Tu ferais ça pour moi ? »
+333	« ...Pourquoi voudrais-je apprendre la nécromancie ? »
+334	« Toi et ton existence maudite, ésotérique, êtes une abomination. Tu dois être détruit. »
+335	« C'est ça. Bien sûr, j'ai juste quelques questions d'abord. »
+336	« Bien sûr ! Je le dois à Visken, pour commencer. »
+337	« Et pour la deuxième raison... j'adore simplement répandre la joie de la magie-de-mort. »
+338	« Comme tout homme sain d'esprit le ferait ! »
+339	Ce crâne n'est ni sain d'esprit, ni un homme.
+340	D'accord.
+341	« D'une, tu pourras lancer Communication avec les Morts sans peine. »
+342	« Tu gagneras aussi une appréciation de l'art subtil de la magie-de-mort. Ça ne sonne pas charmant ? »
+343	« Bien sûr. »
+344	« Oui. C'est le cas. »
+345	« Non. Vraiment pas. »
+346	« Bien ! »
+347	« Oui, en effet... »
+348	« Tu as tort. Mais si tu changes d'avis... »
+349	Le crâne rit.
+350	« Ouais, ouais. Continue là-dessus jusqu'à ce que tu crèves. »
+351	« J'ai un Doigt de Mort ici qui dit que ton cul est à moi, si je le veux. »
+352	Il rit.
+353	« Alors parle. »
+354	Le crâne ne va pas te tuer.
+355	Mais tu n'as pas la force de vaincre une demi-liche comme celle-ci. Alors...
+356	Plus tard. Fais-le plus tard.
+357	Le crâne flotte devant toi avec un sourire narquois permanent et de grands yeux enjoyés.
+358	« <shake>CLERC</shake> ! »
+359	Si f-
+360	« <i>Si fort.</i> »
+361	Ouais, ça.
+362	Si fort.
+363	« Je vais m'harmoniser à la Nécromancie. »
+364	« Comment as-tu fini comme ça ? »
+365	« Parle-moi de Visken. »
+366	« Je pars maintenant. Au revoir, Bondavol. »
+367	« Ah, tu n'as jamais demandé, n'est-ce pas ? »
+368	« Je suis une liche terrifiante, bien sûr ! »
+369	« Compris. »
+370	« Il faudrait être plutôt STUPIDE pour ne pas le voir ! »
+371	« Nan. »
+372	« Le voyage inter-planaire est surfait. »
+373	« Va demander à Visken. Ce salaud n'arrête pas de tripoter les reliques de Jor. »
+374	« Il <i>kiffe cette merde</i>. »
+375	« Pour QUOI ? »
+376	« Je vais demander au sphinx local de la transformer en clé pour que j'entre dans l'Au-Delà. Par le Pilier de Jor. »
+377	« Je peux pas te le dire... c'est un secret... » (Être mystérieux.)
+378	« Alors non. »
+379	« Oh. Enfin, dans ce cas, je vais demander au sphinx local de la transformer en clé pour que j'entre dans l'Au-Delà. Par le Pilier de Jor. »
+380	« Allez... s'il te plaît... » (Supplier d'un ton agaçant.)
+381	« Bon, d'accord. »
+382	« Ça sonne absolument dingue ! »
+383	« Tu mourras à suivre une telle voie. »
+384	« Parfait ! »
+385	Il attrape l'émeraude avec ses <i>dents</i> - faisant un bruit de clic - puis la lance dans ta poitrine.
+386	« Éclate-toi ! »
+387	Tu ressens sincèrement de l'affection envers ce crâne follement stupide.
+388	Tu ne sais pas trop si ce type fut jamais intelligent, ou si ce n'est que son esprit qui dérape dans son état second de non-mort.
+389	Quoi qu'il en soit, une victoire pour toi.
+390	Maintenant : retourner voir le sphinx.
+391	Le crâne fait une petite danse.
+392	« Les Fils sont toujours différents pour chaque école. Esthétiquement parlant. »
+393	« Chacun les voit différemment. L'Abjuration, pour moi, c'est de l'acier. L'Évocation, c'est la foudre. »
+394	« La Nécromancie, c'est de la chair. Peut-être que ça peut aider. »
+395	Cette demi-liche démente t'offre du savoir. Tu n'en as pas besoin.
+396	Montre-lui. Bien sûr que tu peux t'harmoniser à la nécromancie, facilement. Tu es un génie. Tu peux t'harmoniser à toute magie connue de l'homme ou d'au-delà.
+397	Tu t'en souviens ?
+398	Oui... je me souviens de ce cours à l'école.
+399	Oui. Tous les clercs ont suivi le cours de Contrôle de la Non-Mort.
+400	Ils se concentraient surtout sur la destruction hostile de la non-mort. Pas tant sur sa gestion.
+401	Mais le professeur a lancé un sort d'animation pour créer un zombie sur lequel vous entraîner tous.
+402	Les Fils... ils étaient pâles. Comme la mort. (Tendre une main vers le crâne.)
+403	« Oui... essaie. »
+404	Il glousse. De cette façon un peu démente et glauque.
+405	Il y a de nombreux Fils.
+406	Tords <i>celui-ci</i>.
+407	(Tordre le Fil.)
+408	Tu le fais.
+409	Et...
+410	Le Fil... s'assombrit. Noir comme la nuit.
+411	Il s'envole dans ta poitrine.
+412	(Hurler et convulser.)
+413	« Oh par les dieux... »
+414	Tu tombes à genoux. Ils sont faibles.
+415	« Ils ne peuvent plus l'aider maintenant, gobelin. »
+416	« Tu as fait quelque chose, en effet ! »
+417	(Se lever et gémir.)
+418	« Tu as balancé une tonne d'énergie négative droit dans ton satané cœur. »
+419	« Première fois que je vois quelqu'un faire ça et survivre. Impressionnant ! »
+420	« Tu es vivant, hein ? Pas un zombie ou un truc derrière ce machin sur ta tête ? »
+421	« Je suis vivant. Je crois. »
+422	« Va te faire foutre. »
+423	(Marmonner quelque chose d'incohérent.)
+424	« C'est l'esprit. »
+425	« Réessaie plus tard, tu y arriveras tôt ou tard ! »
+426	« Tu devrais peut-être te reposer d'abord. Ou un truc. »
+427	Il a l'air inquiet. Il devrait l'être.
+428	Ne te jette pas dans le funeste destin comme ça. Tu peux pas trouver un truc pour rendre ça plus facile ?
+429	Tu le comprends mieux maintenant- maintenant que tu as vu le <i>Fil pâle</i>.
+430	Réfléchis.
+431	Cette demi-liche se croit être ton professeur ici.
+432	Il est peut-être fou, mais il y a tout de même du savoir à en tirer. Si tu peux le déchiffrer.
+433	(Tendre une main.) « Dis-moi du mieux que tu peux- l'École de Nécromancie, comment je la maîtrise ? »
+434	« Les Fils sont les Fils. »
+435	« Ils sont égaux, mais différents. Tu as dû en voir beaucoup. Puisque tu en as qui courent à travers ta chair en masse. »
+436	« Ah bon ? »
+437	« C'est le cas. »
+438	Il poursuit : « Un Fil de Nécromancie le devient quand il croise l'énergie négative. Ainsi il se met à "ressembler" à de la chair pour moi, par exemple. »
+439	« J'ai assurément autant de Fils traversant mon existence que toi. Sauf que les miens sont Nécromantiques. »
+440	« Les tiens sont... »
+441	Le crâne tremble un peu. « Bien d'autres. Comment gères-tu les Fils, d'habitude ? »
+442	« Quand je m'harmonise aux Fils, je les tords. »
+443	« Ah. Alors c'est comme ça que tu lances tes sorts organisés, alors. »
+444	« La Nécromancie est spéciale à cause de cette énergie négative. Tordre un Fil nécromantique ferait mal, naturellement, si tu es autre chose que <i>non-vivant</i>. »
+445	« Un nécromancien vivant apprend soit à gérer la douleur, par la mutilation, la ferveur religieuse, l'engourdissement physique, ou... »
+446	« Il apprend à couper le Fil. »
+447	« ...Couper ? »
+448	« Chacun use d'une terminologie différente. Tu l'as peut-être entendu appeler "sommer" le Fil. Ou le "Maîtriser". »
+449	« C'est l'étape par laquelle chaque lanceur de sorts doit passer pour atteindre la magie de plus haut rang. Il doit apprendre à manipuler la <i>forme</i> du Fil. »
+450	« La forme du Fil ? »
+451	« Mais il n'a pas de forme ? C'est juste un... point ? »
+452	Le crâne rit d'un air moqueur. « Pourquoi crois-tu qu'on l'appelle un Fil, alors, tête de mule ? »
+453	« Il mesure le <i>changement</i>. Dans le <i>temps</i>. »
+454	« Tu as peut-être saisi et tordu tes Fils dans l'instant, mais couper un Fil signifie : <i>le saisir indépendamment</i> ! De TOUTES ses autres parties. Dans le passé. Et dans le futur. »
+455	« Ne te contente pas de le tordre. <i>Sépare-le de lui-même</i>. »
+456	Oh.
+457	Alors c'est ça que ça veut dire.
+458	<shake>Bien sûr !</shake>
+459	Tout ce discours sur la maîtrise des Fils... tout prend son sens maintenant.
+460	Le Fil traverse <i>le temps</i>.
+461	Le manipuler de plus près exige qu'il soit tordu <i>uniquement dans le présent</i>. Sans tout le reste du bagage.
+462	(Tendre la main.)
+463	« Oui... »
+464	(Localiser un Fil près de Bondavol. Un Fil pâle.)
+465	Oui...!
+466	(Le tordre.)
+467	« Ah merde. »
+468	(Ouvrir les yeux.)
+469	« Ça fait mal. »
+470	« Tu as tordu le Fil en un Soin des Blessures, espèce d'idiot. Ça a fait mal comme un... comment tu dis- <i>enfoiré</i> ! »
+471	« J'ai échoué ? »
+472	Le crâne rit, intensément.
+473	« Tu as très bien fait, Clerc. Ou devrais-je dire, <i>Nécromancien</i> ? »
+474	« C'était un Soin des Blessures, à coup sûr. Mais un Soin des Blessures <i>nécromantique</i>. »
+475	« Au lieu d'un Soin des Blessures lancé par une Abjuration de mauviette ou une Transmutation hardcore de fusion-de-chair, tu as maintenant réussi à simplement retirer l'énergie négative pour atteindre la même conclusion : la guérison. »
+476	« Bien que oui, ça a fait mal comme tous les enfers. Puisque l'énergie négative, évidemment, c'est un peu mon truc ici, en tant que glorieuse liche. »
+477	« Oh. Alors j'ai maîtrisé la nécromancie ? »
+478	« Une exagération peut-être, mais tu devrais au moins pouvoir lancer l'unique sort que tu cherches. »
+479	« <shake>Communication avec les Morts !</shake> »
+480	« Enfin. »
+481	« C'est de ça que je parle ! »
+482	« C'est... super. Ce serait extrêmement utile pour l'enquête. <i>Évidemment</i>. »
+483	Le crâne hoche la tête.
+484	« Tu veux un parchemin de sort ? »
+485	« C'est quoi le piège ? »
+486	« Ce serait utile, oui. »
+487	(Tendre la main.)
+488	Le crâne ouvre grand sa mâchoire. Puis il recrache un minuscule parchemin de sort sur l'autel.
+489	« C'est dégoûtant. »
+490	(L'attraper.)
+491	(L'attraper, à contrecœur.)
+492	« Qu'est-ce qui l'est ? »
+493	« Tu avais le parchemin <i>à l'intérieur</i> de toi. »
+494	« Non, c'est faux. »
+495	« Il était dans ma poche. Clairement. »
+496	« T'es quoi, stupide ? Prends ce satané parchemin ! »
+497	Il n'a pas conscience de sa forme de demi-liche.
+498	Comme c'est triste.
+499	Fascinant, plutôt.
