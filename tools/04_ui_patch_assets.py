@@ -24,19 +24,19 @@ def slot_size(content_len):
     return (raw + 3) & ~3  # round up to multiple of 4
 
 
-# (english_bytes, french_string) — french encoded as UTF-8
+# (english_bytes, french_string), french encoded as UTF-8
 # REQUIREMENT: slot_size(len_eng) == slot_size(len_fr_utf8)
 # NOTE: Helmets/Behold/Trifle/Examine standalone NOT found length-prefixed
-# in any asset (verified 2026-05-19) — they appear as prefixes of GameObject
+# in any asset (verified 2026-05-19) : they appear as prefixes of GameObject
 # names (BeholdOpen, BeholdClosed etc.) and ARE patched via metadata instead
 # (see tools/02_apply_metadata.py). Kept for reference but no-op here.
 # DÉSACTIVÉ (2026-06-23) : traduire les noms d'objets dans les données casse le jeu.
 # Le nom d'objet sert de CLÉ (comptage de la monnaie, lookup d'icône, sérialisation
 # de la save). "Crowns"->"Écus" faisait disparaître les écus / les rendait non
-# dépensables (texte barré), et cassait les icônes d'objets — sans même traduire
+# dépensables (texte barré), et cassait les icônes d'objets, sans même traduire
 # l'affichage. Reverté en anglais via tools/10_revert_item_names.py.
 PATCHES = [
-    # (b'Crowns', 'Écus'),  # NE PAS — clé de monnaie
+    # (b'Crowns', 'Écus'),  # NE PAS, clé de monnaie
     # noms d'objets = clés, laissés en anglais
 ]
 
@@ -50,7 +50,7 @@ def patch_file(path):
         eng_slot = slot_size(len(eng))
         fr_slot = slot_size(len(fr))
         if eng_slot != fr_slot:
-            print(f"  [ALIGN] {eng!r}: slot mismatch ({eng_slot} vs {fr_slot}) — skip")
+            print(f"  [ALIGN] {eng!r}: slot mismatch ({eng_slot} vs {fr_slot}), skip")
             continue
 
         # Search for [length=len(eng)][eng bytes]

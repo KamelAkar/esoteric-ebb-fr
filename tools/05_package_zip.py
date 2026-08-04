@@ -20,8 +20,8 @@ ZIP_FILE = DIST_DIR / f"EsotericEbb-FR-Patch-v{VERSION}.zip"
 # Files to include in the patch (relative to Esoteric Ebb_Data/)
 # Inclut TOUS les fichiers que v1.2.2 ou cette session ont pu modifier.
 # Les sharedassets contiennent les TextAssets Ink (dialogues + intro) qui
-# doivent être livrés en totalité — sinon installation sur vanilla = dialogues EN.
-# resources.assets RÉ-INCLUS 2026-05-20 — initialement exclu car suspect de casser
+# doivent être livrés en totalité : sinon installation sur vanilla = dialogues EN.
+# resources.assets RÉ-INCLUS 2026-05-20, initialement exclu car suspect de casser
 # le parseur DC, mais la vraie cause était le patch metadata (4535, 'DC', 'DD').
 # Avec ce patch désactivé + (9551, 'ROLL', 'JET') aussi désactivé, le resources.assets
 # modifié (FR text dans col EN du Dialogs CSV par le précédent traducteur) fonctionne
@@ -33,7 +33,7 @@ INCLUDED_FILES = [
 # All level files
 for i in range(0, 25):
     INCLUDED_FILES.append(f"level{i}")
-# ALL sharedassets — chacun contient des LL_*/CB_*/etc. TextAssets Ink traduits
+# ALL sharedassets : chacun contient des LL_*/CB_*/etc. TextAssets Ink traduits
 for i in range(0, 25):
     INCLUDED_FILES.append(f"sharedassets{i}.assets")
 

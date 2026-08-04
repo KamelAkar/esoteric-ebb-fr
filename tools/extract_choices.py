@@ -6,7 +6,7 @@ sys.stdout.reconfigure(encoding="utf-8")
 
 content = open(sys.argv[1], encoding='utf-8').read()
 
-# Match "^...DC...stuff...end" — handle escape with negative lookbehind on backslash
+# Match "^...DC...stuff...end", handle escape with negative lookbehind on backslash
 # Simpler approach: match "^...string..." where ... can be anything except an unescaped "
 pattern = re.compile(r'"\^((?:\\"|[^"])*)"')
 all_matches = pattern.findall(content)

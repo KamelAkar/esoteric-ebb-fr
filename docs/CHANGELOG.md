@@ -1,15 +1,15 @@
-# Changelog — Patch FR Esoteric Ebb
+# Changelog : Patch FR Esoteric Ebb
 
-## v1.3.6 — 2026-07-22
+## v1.3.6 (2026-07-22)
 
-**Mise à jour majeure** : zones inaccessibles ("scene not found"), crash au chargement et bug de monnaie — corrigés ; dialogues français restaurés ; traduction fortement étendue (menus, création de personnage, carte, glossaire, fiches PNJ, ambiance).
+**Mise à jour majeure** : zones inaccessibles ("scene not found"), crash au chargement et bug de monnaie, corrigés ; dialogues français restaurés ; traduction fortement étendue (menus, création de personnage, carte, glossaire, fiches PNJ, ambiance).
 
 ### Correction critique
 
 - Zones « scene not found » corrigées : Jardin des Gobelins, pont et la plupart des portes/transitions sont de nouveau accessibles.
 - Crash au chargement de partie corrigé.
 - Map qui se coupait au début du jeu corrigée.
-- Les fichiers de dialogue repartent désormais des fichiers d'origine (avec seulement les textes français réinjectés) au lieu des fichiers re-sérialisés par l'outil défectueux — cela supprime des corruptions latentes.
+- Les fichiers de dialogue repartent désormais des fichiers d'origine (avec seulement les textes français réinjectés) au lieu des fichiers re-sérialisés par l'outil défectueux, cela supprime des corruptions latentes.
 
 ### Traduction étendue
 
@@ -22,7 +22,7 @@
 - 573 lignes de dialogue restées en anglais traduites (phrases d'intro, choix, interjections) et synchronisées dans l'Ink que le jeu affiche.
 - 643 entrées de glossaire traduites (l'encyclopédie cliquable : sorts, lieux, factions, peuples, concepts du monde), appliquées aussi aux révélations de jets passifs affichées en jeu.
 - 194 fiches d'examen de PNJ traduites (les observations révélées quand on examine un personnage).
-- 174 observations d'environnement traduites (les textes qui apparaissent en explorant les décors), + **62 popups d'ambiance manqués** repérés et traduits via extraction ciblée du composant popup (ex. « Ouvriers sous la bannière verte d'Azgal. ») — les noms propres de lieux, le latin et les langues étrangères sont laissés intacts.
+- 174 observations d'environnement traduites (les textes qui apparaissent en explorant les décors), + **62 popups d'ambiance manqués** repérés et traduits via extraction ciblée du composant popup (ex. « Ouvriers sous la bannière verte d'Azgal. »), les noms propres de lieux, le latin et les langues étrangères sont laissés intacts.
 - 18 historiques de création de personnage traduits (nom + description).
 - Noms de stats traduits sur les badges de jets de dés (Force, Dextérité, Sagesse, Charisme…).
 - Réactions du personnage traduites (« Besoin de me reposer avant de faire ça », « Pas les moyens », etc.).
@@ -37,9 +37,9 @@
 
 - Les catégories du journal (Politics, Geography, etc.) restent en anglais : elles sont codées en dur dans le binaire du jeu et les traduire casse les scripts.
 - Les noms d'objets et de la monnaie dans l'inventaire restent en anglais : ils servent de clés internes (comptage de l'argent, icônes, sauvegardes).
-- Bouton pause manette qui réagit en double (s'ouvre/se ferme) : diagnostiqué — c'est un conflit **Steam Input**, pas le patch (bisect exhaustif : fichiers vanilla vs patchés = même comportement une fois Steam Input coupé ; le log ne montre qu'un seul périphérique, un seul EventSystem). Solution documentée dans le LISEZ_MOI : Steam > Propriétés > Manette > « Désactiver l'entrée Steam ». La pause clavier (Échap) fonctionne dans tous les cas.
+- Bouton pause manette qui réagit en double (s'ouvre/se ferme) : diagnostiqué, c'est un conflit **Steam Input**, pas le patch (bisect exhaustif : fichiers vanilla vs patchés = même comportement une fois Steam Input coupé ; le log ne montre qu'un seul périphérique, un seul EventSystem). Solution documentée dans le LISEZ_MOI : Steam > Propriétés > Manette > « Désactiver l'entrée Steam ». La pause clavier (Échap) fonctionne dans tous les cas.
 
-## v1.3.3 — 2026-05-26
+## v1.3.3 (2026-05-26)
 
 **Hotfix majeur** : zones inaccessibles ("scene not found"), map coupée, sort Bless cassé.
 
@@ -49,17 +49,17 @@
 - Toute la section `strings` revient à l'état vanilla. L'affichage FR des stats reste assuré par les patches stringLiteral (sûrs).
 - Effet de bord assumé : les libellés des catégories du journal et quelques noms internes réaffichés en anglais.
 
-## v1.3.2 — 2026-05-24
+## v1.3.2 (2026-05-24)
 
 **Hotfix critique** suite à un report joueur Nexus (AvatarTix8).
 
 ### Correction critique
 
-- **L'initiative de combat ne se déclenchait pas** (zombie de l'intro et autres combats) : dialogue qui boucle infiniment au lieu de lancer le combat. Cause identifiée : mon regex de restauration des préfixes de v1.3.1 manquait le préfixe **`IROLL-`** (format différent — pas de nombre après, contrairement à `ROLL16 wis-`). 14 préfixes `IROLL-` et `SPELL <nom>-` restaurés à travers tout le jeu.
+- **L'initiative de combat ne se déclenchait pas** (zombie de l'intro et autres combats) : dialogue qui boucle infiniment au lieu de lancer le combat. Cause identifiée : mon regex de restauration des préfixes de v1.3.1 manquait le préfixe **`IROLL-`** (format différent, pas de nombre après, contrairement à `ROLL16 wis-`). 14 préfixes `IROLL-` et `SPELL <nom>-` restaurés à travers tout le jeu.
 
 Merci à AvatarTix8 pour le report et la suggestion de fix précise.
 
-## v1.3.1 — 2026-05-21
+## v1.3.1 (2026-05-21)
 
 **Mise à jour majeure** : couverture FR poussée à ~99.99% et correction de plusieurs bugs gameplay critiques introduits par les versions précédentes.
 
@@ -89,7 +89,7 @@ Merci à AvatarTix8 pour le report et la suggestion de fix précise.
 - Respect des termes D&D 5e VF officiels : Clerc, Roublard, Magicien, Barde, etc.
 - Sorts FR officiels : Communication avec les Morts, Rappel à la Vie, Lumières Dansantes, Compréhension des Langues, etc.
 - Tutoiement intime pour voix intérieures et Snell (compagnon gobelin), vouvoiement par défaut pour les autres PNJ.
-- Préservation des vulgarités du texte original ("Dick-Ass", "putain", etc.) — pas d'aseptisation.
+- Préservation des vulgarités du texte original ("Dick-Ass", "putain", etc.), pas d'aseptisation.
 - Noms propres conservés : Norvik, Tolstad, Snell, Sven, Visken, Viira, Ettir, Pinja, Modissa, etc.
 
 ### Connu / non corrigé
@@ -102,6 +102,6 @@ Glisser le contenu du ZIP dans le dossier Steam d'Esoteric Ebb, écraser les fic
 
 ---
 
-## v1.2.2 — État précédent
+## v1.2.2, État précédent
 
 Travail du précédent traducteur basé sur BepInEx + XUnity AutoTranslator (~78 000 lignes du Dialogs CSV traduites). Patch statique drag-and-drop sans framework runtime.

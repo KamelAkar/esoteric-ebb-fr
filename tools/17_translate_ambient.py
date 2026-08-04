@@ -5,7 +5,7 @@ level concerné, remplace le champ `text` du MonoBehaviour popup d'ambiance
 correspondant, re-sérialise (UnityPy + typetree IL2CPP) et écrit dans le jeu
 + le staging dist.
 
-Le bug manette était Steam Input, PAS la re-sérialisation — donc re-sérialiser
+Le bug manette était Steam Input, PAS la re-sérialisation, donc re-sérialiser
 les levels est sûr. Voir memory/reference_gamepad_steam_input.md.
 """
 import os, sys, csv, shutil

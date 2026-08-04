@@ -6,7 +6,7 @@ serialization). Translating "Crowns"->"Écus" etc. in the data breaks the econom
 (empty slots), while NOT even translating the visible name. So we revert them all
 to English keys. Item display stays English but WORKS.
 
-Dialogue text (Ink JSON) keeps its French "écus"/"couronnes" — those are inside
+Dialogue text (Ink JSON) keeps its French "écus"/"couronnes": those are inside
 larger length-prefixed strings, never matched by the standalone item-name pattern.
 """
 import struct
@@ -17,7 +17,7 @@ sys.stdout.reconfigure(encoding="utf-8")
 
 GAME_DATA = Path(r"C:\Program Files (x86)\Steam\steamapps\common\Esoteric Ebb\Esoteric Ebb_Data")
 
-# (english, french) — same list that 04_ui_patch applied; we reverse it.
+# (english, french), same list that 04_ui_patch applied; we reverse it.
 ITEM_NAMES = [
     ("Garden Apple", "Pomme Jardin"),
     ("Crowns", "Écus"),

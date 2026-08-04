@@ -1,4 +1,4 @@
-# Esoteric Ebb — Traduction Française
+# Esoteric Ebb : Traduction Française
 
 Patch de traduction française pour [Esoteric Ebb](https://store.steampowered.com/app/2647560/) (Unity 6 IL2CPP).
 
@@ -22,7 +22,7 @@ Le jeu est en **Unity 6 IL2CPP**, ce qui complique la traduction. Au lieu d'un r
 - **`global-metadata.dat`** : chaînes hardcodées du code C# compilé (DC results, dates, format strings…). Voir [`docs/METADATA_PATCHING.md`](docs/METADATA_PATCHING.md).
 - **`.assets` / `level*`** : contenu Ink, glossaire, UI prefabs. Voir [`docs/ASSETS_PATCHING.md`](docs/ASSETS_PATCHING.md).
 
-Le patch final est **drag-and-drop pur** — pas de DLL injection, pas de plugin, pas d'overhead runtime.
+Le patch final est **drag-and-drop pur** : pas de DLL injection, pas de plugin, pas d'overhead runtime.
 
 ### Structure
 

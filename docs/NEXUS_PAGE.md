@@ -1,4 +1,4 @@
-# Esoteric Ebb — Traduction Française
+# Esoteric Ebb : Traduction Française
 
 Contenu prêt à copier-coller dans la page Nexus.
 
@@ -26,12 +26,12 @@ Patch de traduction française pour [url=https://store.steampowered.com/app/2647
 [size=4][b]Caractéristiques[/b][/size]
 
 [list]
-[*][b]~99% du jeu traduit[/b] — narratif, dialogues, items, sorts, glossaire, journal, quêtes
-[*][b]Drag-and-drop pur[/b] — aucun framework (BepInEx, XUnity, etc.) requis
-[*][b]Respect terminologie D&D 5e VF[/b] — Clerc, Sagesse, Dés de Vie, DD au lieu de DC, etc.
+[*][b]~99% du jeu traduit[/b] : narratif, dialogues, items, sorts, glossaire, journal, quêtes
+[*][b]Drag-and-drop pur[/b] : aucun framework (BepInEx, XUnity, etc.) requis
+[*][b]Respect terminologie D&D 5e VF[/b] : Clerc, Sagesse, Dés de Vie, DD au lieu de DC, etc.
 [*][b]Vouvoiement par défaut[/b] / tutoiement intime pour les voix intérieures et Snell
 [*][b]Style soutenu légèrement littéraire[/b] avec archaïsmes occasionnels
-[*][b]Préservation du registre original[/b] — humour mordant et vulgarités conservés
+[*][b]Préservation du registre original[/b] : humour mordant et vulgarités conservés
 [/list]
 
 [size=4][b]Installation[/b][/size]
@@ -53,10 +53,10 @@ Patch de traduction française pour [url=https://store.steampowered.com/app/2647
 [size=4][b]Nouveautés v1.3.1[/b][/size]
 
 [list]
-[*][b]Fix critique[/b] : préfixe "DC" visible sur les choix de jet (intro et tout le jeu) — parseur du jeu cassé par une regression metadata. Résolu.
-[*][b]Fix critique[/b] : préfixe "ROLL" visible (ROLL16 wis-, etc.) sur les choix de jet — même cause. Résolu.
-[*][b]Fix critique[/b] : choix manuels "S" / "F" qui apparaissaient après un jet (ex. Tenter une Prière de Guérison) — 219 préfixes ROLL/DC/FC restaurés à travers tout le jeu.
-[*][b]Fix critique[/b] : dialogues mixtes FR/EN (ex. "I have some other questions. Je crois.") — synchronisation massive de ~15 400 traductions depuis le Dialogs CSV vers l'Ink JSON utilisé par le moteur.
+[*][b]Fix critique[/b] : préfixe "DC" visible sur les choix de jet (intro et tout le jeu), parseur du jeu cassé par une regression metadata. Résolu.
+[*][b]Fix critique[/b] : préfixe "ROLL" visible (ROLL16 wis-, etc.) sur les choix de jet, même cause. Résolu.
+[*][b]Fix critique[/b] : choix manuels "S" / "F" qui apparaissaient après un jet (ex. Tenter une Prière de Guérison), 219 préfixes ROLL/DC/FC restaurés à travers tout le jeu.
+[*][b]Fix critique[/b] : dialogues mixtes FR/EN (ex. "I have some other questions. Je crois."), synchronisation massive de ~15 400 traductions depuis le Dialogs CSV vers l'Ink JSON utilisé par le moteur.
 [*]Intro Lower Lair intégralement traduite : intro de personnage, Zombie, Tas de pommes, Cadavre Sven, Sable Moustique, Manteau Garde-d'Urth, vérification zombie (~800 strings)
 [*]395 lignes restantes du Dialogs CSV traduites (laissées en EN ou mix par les versions précédentes)
 [*]Notes de session (résumé "Notes de Session" sur l'écran de chargement) intégralement traduites
@@ -89,16 +89,16 @@ Patch de traduction française pour [url=https://store.steampowered.com/app/2647
 Quelques labels restent en anglais car ils servent de clés internes au code C# :
 
 [list]
-[*]"Inventory" (onglet supérieur) — patcher fait disparaître les slots
-[*]Noms de sorts dans le Grimoire (Cure Wounds, Mage Hand, etc.) — patcher casse le compteur
-[*]Sections "DIALOGS / VISUALS / AUDIO" du menu Options — pas dans les fichiers patchables
-[*]"Lower Lair" et autres noms de scènes — utilisés par le code pour charger les scènes
-[*]Format date du journal ("1st Day, 8h 3m") — concaténation runtime non patchable
+[*]"Inventory" (onglet supérieur) : patcher fait disparaître les slots
+[*]Noms de sorts dans le Grimoire (Cure Wounds, Mage Hand, etc.), patcher casse le compteur
+[*]Sections "DIALOGS / VISUALS / AUDIO" du menu Options, pas dans les fichiers patchables
+[*]"Lower Lair" et autres noms de scènes : utilisés par le code pour charger les scènes
+[*]Format date du journal ("1st Day, 8h 3m"), concaténation runtime non patchable
 [/list]
 
 [size=4][b]Crédits[/b][/size]
 
-Traduction par Ravnow. N'hésitez pas à signaler tout texte non traduit, faute de frappe ou tournure maladroite — traduction faite par un Français pour les Français.
+Traduction par Ravnow. N'hésitez pas à signaler tout texte non traduit, faute de frappe ou tournure maladroite, traduction faite par un Français pour les Français.
 
 Esoteric Ebb © Lykkesalt Studios. Traduction distribuée à but non lucratif sous fair use.
 ```
@@ -131,7 +131,7 @@ Les changelogs de toutes les versions vivent désormais dans **[NEXUS_CHANGELOG.
 
 1. Menu principal avec "Nouvelle Partie / Charger / Options / Crédits / Quitter"
 2. Save preview avec "Jour 01 - 08:10"
-3. Inventaire (TOUT / CASQUES / ARMEMENT / LIVRES / CLÉS) — page char avec stats FR
+3. Inventaire (TOUT / CASQUES / ARMEMENT / LIVRES / CLÉS), page char avec stats FR
 4. Grimoire avec tooltip Sorts Préparés en FR
 5. Journal section "CITE" avec entrée Urth + tag "Religion, City" (ou la version FR)
 6. Dialogue avec zombie : "« Salutations, citoyenne. »" + check DD 11 : Succès

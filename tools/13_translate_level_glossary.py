@@ -1,7 +1,7 @@
 """Translate the glossary Responses baked into the level files.
 
 The game reads glossary passive-check reveals from a MonoBehaviour field
-`GlossaryTerms[i].Response` INSIDE each level file (NOT the resources CSV — that
+`GlossaryTerms[i].Response` INSIDE each level file (NOT the resources CSV, that
 copy is unused for these). We build an English->FR map from the resources CSV
 (vanilla EN vs translated FR, by ID) and apply it to every level's Response field
 via UnityPy + IL2CPP typetree, then re-serialize.

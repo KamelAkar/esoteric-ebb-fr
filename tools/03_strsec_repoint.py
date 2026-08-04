@@ -40,7 +40,7 @@ STRSEC_REPOINTS = [
     # ('Dexterity', 'Dextérité'),  # cassait la réflexion
     # ('Behold', 'Examiner'),      # cassait la réflexion
     # ('Trifle', 'Chaparder'),     # cassait la réflexion
-    # ('Inventory', 'Inventaire'),  # BREAKS inventory UI — class/method name in stringSize
+    # ('Inventory', 'Inventaire'),  # BREAKS inventory UI, class/method name in stringSize
 ]
 
 

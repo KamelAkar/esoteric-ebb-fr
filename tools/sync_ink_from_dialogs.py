@@ -67,10 +67,10 @@ def dump_text_asset(assets_path, name):
 def extract_text_loc_pairs(ink_content):
     """Extract (text, loc_n) pairs from Ink JSON.
 
-    Pattern: "^TEXT ","#","^LOC_N","/#" — TEXT followed by LOC tag.
+    Pattern: "^TEXT ","#","^LOC_N","/#": TEXT followed by LOC tag.
     """
     pairs = []
-    # Match `"^TEXT ","#","^LOC_N","/#"` — text then # tags then LOC_N
+    # Match `"^TEXT ","#","^LOC_N","/#"`, text then # tags then LOC_N
     # Use a regex that captures text and LOC number, allowing for intermediate tags
     # Simplified: find every "^<text>" followed eventually by "^LOC_<n>"
     pattern = re.compile(r'"\^((?:\\"|[^"])+?)"(?:,"#",[^]]*?)?"\^LOC_(\d+)"')

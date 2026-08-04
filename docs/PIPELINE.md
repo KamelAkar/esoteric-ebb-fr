@@ -40,9 +40,9 @@ python tools/01_dump_metadata.py
 
 Éditer les fichiers TSV dans `translations/` :
 
-- `metadata_patches.tsv` — patches du `global-metadata.dat` (string literals)
-- `strsec_patches.tsv` — repointing des noms d'enum / réflexion
-- `ui_patches.tsv` — patches length-prefixed dans les `.assets` / `level*`
+- `metadata_patches.tsv`, patches du `global-metadata.dat` (string literals)
+- `strsec_patches.tsv`, repointing des noms d'enum / réflexion
+- `ui_patches.tsv`, patches length-prefixed dans les `.assets` / `level*`
 
 Format TSV : `idx<TAB>english<TAB>french<TAB>notes`.
 
@@ -77,7 +77,7 @@ python tools/05_package_zip.py
 
 ## Règles de sécurité
 
-1. **Toujours backup avant patch** — les outils le font automatiquement la première fois
-2. **Tester après chaque changement** — un patch peut casser une sauvegarde
+1. **Toujours backup avant patch** : les outils le font automatiquement la première fois
+2. **Tester après chaque changement** : un patch peut casser une sauvegarde
 3. **Patches risqués** : les noms d'un seul mot souvent utilisés comme clés de binding C# (Inventory, Spells, Cleric, Day…). Voir `KNOWN_LIMITATIONS.md`
-4. **Quitter complètement Steam** entre tests — la metadata est chargée au démarrage du process
+4. **Quitter complètement Steam** entre tests : la metadata est chargée au démarrage du process

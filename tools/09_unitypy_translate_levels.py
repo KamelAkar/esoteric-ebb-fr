@@ -29,7 +29,7 @@ DEP_FILES = [
 ]
 
 # Fresh DISPLAY-only translations for location labels the previous translator left
-# in English. These are m_text (map labels) ONLY — the scene-load name lives in a
+# in English. These are m_text (map labels) ONLY, the scene-load name lives in a
 # separate field, so the scene still loads. Exact-match on the stripped m_text.
 # Proper nouns (Tolstad, Visken, Askanii, Waterlane, Jor) are kept; only the common
 # noun is translated.

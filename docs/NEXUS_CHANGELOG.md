@@ -4,9 +4,9 @@ Fichier de référence pour la zone **LOGS** de la page Nexus.
 
 ## Règles strictes du format Nexus LOGS
 
-- Chaque ligne devient automatiquement un bullet — **ne pas** mettre `-` ni `*` en début de ligne
+- Chaque ligne devient automatiquement un bullet, **ne pas** mettre `-` ni `*` en début de ligne
 - **Aucun balisage interprété** : ni markdown, ni BBCode (le `[b]` et le `**` s'affichent en brut)
-- **Une idée courte par ligne** — pas de saut de ligne au milieu d'une phrase, sinon Nexus fusionne tout
+- **Une idée courte par ligne** : pas de saut de ligne au milieu d'une phrase, sinon Nexus fusionne tout
 - Coller le bloc **tel quel**, sans les triples backticks
 
 À chaque nouvelle version : ajouter une entrée en haut de ce fichier, puis créer le changelog correspondant sur Nexus.
@@ -39,7 +39,7 @@ Limite connue : les libellés Back et Cancel restent en anglais, les traduire ca
 Manette : si le bouton pause réagit en double (ouverture/fermeture), c'est Steam Input, pas le patch. Solution : Steam, Propriétés du jeu, Manette, Désactiver l'entrée Steam. La pause clavier fonctionne toujours.
 ```
 
-> Note : la v1.3.4 n'a jamais été publiée sur Nexus — son contenu est fusionné dans la v1.3.5 ci-dessus.
+> Note : la v1.3.4 n'a jamais été publiée sur Nexus, son contenu est fusionné dans la v1.3.5 ci-dessus.
 
 ---
 

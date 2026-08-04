@@ -2,7 +2,7 @@
 into the Ink JSON. Writes one dict TSV per sharedasset; apply with dotnet inkbulk
 (AssetsTools, which preserves the .resS unlike UnityPy's save).
 
-Anchored replacement: find = `"^<text>"`, replace = `"^<fr>"` — precise, matches the
+Anchored replacement: find = `"^<text>"`, replace = `"^<fr>"`: precise, matches the
 Ink text field exactly. Multi-line / tab-containing texts are skipped.
 """
 import sys
@@ -82,7 +82,7 @@ def main():
                     fr_esc += ' '
                 find = '"^' + text + '"'
                 repl = '"^' + fr_esc + '"'
-                # inkbulk splits on tab and converts \n/\r/\t — skip anything containing them
+                # inkbulk splits on tab and converts \n/\r/\t : skip anything containing them
                 if any(c in find or c in repl for c in ('\t', '\n', '\r')):
                     continue
                 if '\\n' in find or '\\r' in find or '\\t' in find:

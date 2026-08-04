@@ -2,7 +2,7 @@
 puis l'applique au fichier sharedassets via dotnet-deploy inkbulk.
 
 find/replace = forme "sous-chaîne échappée" (json.dumps sans les guillemets
-externes) du token Ink '^...' — ça matche le contenu brut du m_Script.
+externes) du token Ink '^...', ça matche le contenu brut du m_Script.
 
 Usage: python tools/19_inject_dialogue.py <en.tsv> <fr.tsv> <sharedassets.assets>
 """

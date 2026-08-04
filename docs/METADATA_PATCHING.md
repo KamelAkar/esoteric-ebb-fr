@@ -46,7 +46,7 @@ Le runtime lit dynamiquement les offsets depuis le header, donc le décalage est
 
 ### C. STRSEC repoint (section `string`)
 
-Plus délicat car cette section n'a pas d'index table — chaque nom est référencé par son offset u32 disséminé dans d'autres structures (`typeDefinitions`, `fieldDefinitions`, etc.).
+Plus délicat car cette section n'a pas d'index table, chaque nom est référencé par son offset u32 disséminé dans d'autres structures (`typeDefinitions`, `fieldDefinitions`, etc.).
 
 1. Append le nouveau nom (null-terminated) à la fin de la section `string`
 2. **Scan global du fichier** pour les occurrences u32 de l'ancien offset (alignées sur 4 octets)
@@ -59,16 +59,16 @@ Plus délicat car cette section n'a pas d'index table — chaque nom est référ
 
 ⚠️ **Ne PAS patcher** les chaînes utilisées comme :
 
-- Clés de comparaison C# : `if (status == "Cleric")` — casserait les saves créés avec l'ancien nom
-- Noms de classes/composants Unity : `GameObject.Find("Inventory")` — `null` après patch
-- Clés de format binding : `BindingPath("Spells.count")` — bind échoue
+- Clés de comparaison C# : `if (status == "Cleric")`, casserait les saves créés avec l'ancien nom
+- Noms de classes/composants Unity : `GameObject.Find("Inventory")`, `null` après patch
+- Clés de format binding : `BindingPath("Spells.count")`, bind échoue
 
 Heuristique : un mot seul (`Inventory`, `Spells`, `Cleric`, `Day`) est probablement une clé. Multi-mots (`[Don vide]`, `Spend 1 hour to recover...`) sont safe.
 
 ## Outils
 
-- `tools/01_dump_metadata.py` — extrait tous les literals dans `translations/all_strings.tsv`
-- `tools/02_apply_metadata.py` — applique `translations/metadata_patches.tsv` (in-place + repoint auto)
-- `tools/03_strsec_repoint.py` — applique `translations/strsec_patches.tsv` (section string)
+- `tools/01_dump_metadata.py`, extrait tous les literals dans `translations/all_strings.tsv`
+- `tools/02_apply_metadata.py`, applique `translations/metadata_patches.tsv` (in-place + repoint auto)
+- `tools/03_strsec_repoint.py`, applique `translations/strsec_patches.tsv` (section string)
 
 Tous les outils backupent vers `backups/` à la première exécution et lisent depuis là, donc ré-exécutables sans corruption cumulative.

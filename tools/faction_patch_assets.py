@@ -21,7 +21,7 @@ BACKUP_DIR = REPO_ROOT / "assets_backups"
 BACKUP_DIR.mkdir(parents=True, exist_ok=True)
 
 # Faction display name translations
-# Format: (english_bytes, french_bytes) — french MUST be ≤ english in byte length
+# Format: (english_bytes, french_bytes), french MUST be ≤ english in byte length
 FACTION_PATCHES = [
     (b'Freestrider', 'Errant'.encode('utf-8')),
     (b'FREESTRIDER', 'ERRANT'.encode('utf-8')),

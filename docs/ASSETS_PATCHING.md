@@ -4,10 +4,10 @@
 
 Unity stocke les ressources dans `Esoteric Ebb_Data/` :
 
-- `resources.assets` — TextAssets globaux, prefabs UI, glossaire
-- `sharedassets{0..N}.assets` — assets par scène (TMP texts, Ink JSON, etc.)
-- `level{0..N}` — données de scène (GameObjects, composants, MonoBehaviours)
-- `globalgamemanagers.assets` — configuration globale Unity
+- `resources.assets`, TextAssets globaux, prefabs UI, glossaire
+- `sharedassets{0..N}.assets`, assets par scène (TMP texts, Ink JSON, etc.)
+- `level{0..N}`, données de scène (GameObjects, composants, MonoBehaviours)
+- `globalgamemanagers.assets`, configuration globale Unity
 
 ## Format des chaînes
 
@@ -44,7 +44,7 @@ Pour `Freestrider` (11 bytes, slot=16) → `Errant` (6 bytes) :
 
 ### C. Remplacement avec shift (longueur différente, slot différent)
 
-⚠️ **À ÉVITER** — nécessite de décaler toutes les données suivantes ET de mettre à jour tous les pointeurs internes Unity. Souvent casse le chargement.
+⚠️ **À ÉVITER** : nécessite de décaler toutes les données suivantes ET de mettre à jour tous les pointeurs internes Unity. Souvent casse le chargement.
 
 Pour les cas où c'est nécessaire (rare), utiliser `dotnet-deploy.exe` qui parse correctement le format Unity via AssetsTools.NET.
 
@@ -74,5 +74,5 @@ Pour les cas ambigus → utiliser `dotnet-deploy.exe` qui distingue `m_text` de 
 
 ## Outils
 
-- `tools/04_ui_patch_assets.py` — find/replace byte-level générique (rapide, batch)
-- `tools/dotnet-deploy/` — C# avec AssetsTools.NET, parse les types Unity (lent mais précis)
+- `tools/04_ui_patch_assets.py`, find/replace byte-level générique (rapide, batch)
+- `tools/dotnet-deploy/` : C# avec AssetsTools.NET, parse les types Unity (lent mais précis)

@@ -36,7 +36,7 @@ tools/dotnet-deploy/obj/
 .DS_Store
 Thumbs.db
 
-# Distributables (built ZIP — generated)
+# Distributables (built ZIP, generated)
 dist/
 backups/VANILLA_FULL/
 build_tmp/

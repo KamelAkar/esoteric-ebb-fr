@@ -43,7 +43,7 @@ SUBSTRING_PATCHES = [
     (19991, b'xp!', b'XP'),                 # "xp!" → "XP" (shorter, cleaner)
 ]
 
-# Whole-entry patches for date/quest formats — full English match required
+# Whole-entry patches for date/quest formats : full English match required
 DATE_PATCHES = [
     # idx, english_full, french_replacement (must be ≤ original UTF-8 bytes)
     (1736, '1st Day, ', 'Jour 1, '),
@@ -57,11 +57,11 @@ DATE_PATCHES = [
     (8026, 'March', 'mars'),
     (8027, 'March ', 'mars '),
     (2790, 'April', 'avril'),
-    (2974, 'August', 'août'),  # 5<6 in-place (â=2B) — mot complet
-    (4816, 'December', 'décembre'),  # 9>8 REPOINT — corrige le 'e' coupé
+    (2974, 'August', 'août'),  # 5<6 in-place (â=2B) : mot complet
+    (4816, 'December', 'décembre'),  # 9>8 REPOINT : corrige le 'e' coupé
     (5868, 'February', 'février'),
     (7489, 'January', 'janvier'),
-    (7506, 'July', 'juillet'),  # 7>4 REPOINT — mot complet
+    (7506, 'July', 'juillet'),  # 7>4 REPOINT : mot complet
     (7508, 'June', 'juin'),
     (8078, 'May', 'mai'),
 
@@ -72,7 +72,7 @@ DATE_PATCHES = [
     (2780, 'Apolitical', 'Apolitique'),
     (3017, 'BEEFY CLERIC', 'CLERC COSTO'),
 
-    # ---- HUD / menu labels (RISKY — Day/Level/Cleric break save template substitution) ----
+    # ---- HUD / menu labels (RISKY : Day/Level/Cleric break save template substitution) ----
     # Retiré : (4737, 'Day', ...), (4738, 'Day ', ...), (4739, 'Day 1', ...),
     #         (7734, 'Level ', ...), (4072, 'Cleric', ...)
     # Ces strings sont probablement utilisées comme clés de template par le moteur de save.
@@ -80,7 +80,7 @@ DATE_PATCHES = [
     # ---- Safe menu strings ----
     (9512, 'Quit to menu?', 'Retour menu ?'),
 
-    # ---- DC prefix (THE missing piece — used standalone before DC value) ----
+    # ---- DC prefix (THE missing piece : used standalone before DC value) ----
     (4536, 'DC ', 'DD '),
     (16155, 'dc ', 'dd '),
 
@@ -92,23 +92,23 @@ DATE_PATCHES = [
 
     # ---- Stats display labels (REPOINT handles oversize) ----
     (10651, 'Strength', 'Force'),
-    (4927, 'Dexterity', 'Dextérité'),  # 11 bytes > 9 — REPOINTED
+    (4927, 'Dexterity', 'Dextérité'),  # 11 bytes > 9 : REPOINTED
     (4003, 'Charisma', 'Charisme'),
-    (13174, 'Wisdom', 'Sagesse'),       # 7 bytes > 6 — REPOINTED
-    # Constitution / Intelligence same length — no patch needed
+    (13174, 'Wisdom', 'Sagesse'),       # 7 bytes > 6 : REPOINTED
+    # Constitution / Intelligence same length : no patch needed
 
     # ---- Inventory tab + slot labels ----
-    # NOTE: previous (6424, 'Helms', 'Casques') was the WRONG index — actual displayed
+    # NOTE: previous (6424, 'Helms', 'Casques') was the WRONG index, actual displayed
     # label is at idx 6423 ('Helmets'). Validated visually 2026-05-19.
     (6423, 'Helmets', 'Casques'),       # 7=7 in-place
     (12134, 'Trinkets', 'Babioles'),    # 8=8 in-place
-    (4234, 'Consumables', 'Consommables'),  # 12>11 REPOINT — mot complet (avant: 'Consomm.')
+    (4234, 'Consumables', 'Consommables'),  # 12>11 REPOINT : mot complet (avant: 'Consomm.')
     (7794, 'Literature', 'Livres'),     # 10>6 in-place shorter
     (4074, 'Clericals', 'Cléricaux'),   # 9<10 REPOINT (+1 byte)
     (13527, '[Empty Feat Slot]', '[Don vide]'),
     (13632, '[This glossary is empty.]', '[Ce glossaire est vide.]'),  # 25>24 in-place
-    # (4502, 'Cure Wounds', 'Soins'),  # no-op visually — title comes from another source
-    # (3925, 'Cantrip', 'Tour de magie'),  # breaks spellbook count — keep removed
+    # (4502, 'Cure Wounds', 'Soins'),  # no-op visually, title comes from another source
+    # (3925, 'Cantrip', 'Tour de magie'),  # breaks spellbook count, keep removed
 
     # ---- Action verbs (interaction icons: dialog, eye, hand on world objects) ----
     # Validated visually 2026-05-19 on temple stone interactable.
@@ -121,8 +121,8 @@ DATE_PATCHES = [
     (7853, 'Look', 'Voir'),             # 4=4 in-place
     (8948, 'Open', 'Ouvrir'),           # 4<6 REPOINT
     (9592, 'Read', 'Lire'),             # 4=4 in-place
-    (161, ' (Leave.)', ' (Partir.)'),   # 9<10 REPOINT — suffix des options de dialogue
-    (7667, 'Leave', 'Partir'),          # 5<6 REPOINT — verbe d'action standalone
+    (161, ' (Leave.)', ' (Partir.)'),   # 9<10 REPOINT : suffix des options de dialogue
+    (7667, 'Leave', 'Partir'),          # 5<6 REPOINT : verbe d'action standalone
 
     # ---- UI verbs (Back/Cancel/Cast/Hide/Next/No/Push/Throw) ----
     # Patchés 2026-05-19, smoke test passé (jeu charge save sans crash).
@@ -131,16 +131,16 @@ DATE_PATCHES = [
     # → le bouton pause ne répond plus au pad (le clavier passe par un autre
     # chemin, d'où un bug manette-only). Report joueur Nexus, reproduit :
     # marche en vanilla, cassé avec le patch.
-    # (3045, 'Back', 'Retour'),         # NE PAS — nom d'action input
-    # (3540, 'Cancel', 'Annuler'),      # NE PAS — nom d'action input
-    (3955, 'Cast', 'Lancer'),           # 4<6 REPOINT — lancer sort
+    # (3045, 'Back', 'Retour'),         # NE PAS, nom d'action input
+    # (3540, 'Cancel', 'Annuler'),      # NE PAS, nom d'action input
+    (3955, 'Cast', 'Lancer'),           # 4<6 REPOINT : lancer sort
     (6469, 'Hide', 'Cacher'),           # 4<6 REPOINT
     (8492, 'Next', 'Suivant'),          # 4<7 REPOINT
     (8500, 'No', 'Non'),                # 2<3 REPOINT
-    (9463, 'Push', 'Pousser'),          # 4<7 REPOINT — pousser objet
-    (11967, 'Throw', 'Lancer'),         # 5<6 REPOINT — lancer combat
+    (9463, 'Push', 'Pousser'),          # 4<7 REPOINT : pousser objet
+    (11967, 'Throw', 'Lancer'),         # 5<6 REPOINT : lancer combat
 
-    # ---- Inventory tabs initially marked "broken" by an earlier pass — RETESTED 2026-05-19 ----
+    # ---- Inventory tabs initially marked "broken" by an earlier pass, RETESTED 2026-05-19 ----
     # Le commentaire historique disait que ces patches cassent l'inventaire.
     # Test cette session : FAUX. Inventaire navigue normalement, tous slots accessibles.
     # (Peut-être que une passe precedente testait sur un mauvais idx ou mal observé.)
@@ -150,11 +150,11 @@ DATE_PATCHES = [
     (5986, 'Food', 'Vivres'),           # 4<6 REPOINT
     (11034, 'Texts', 'Textes'),         # 5<6 REPOINT
     (9500, 'Questing', 'Quêtes'),       # 8>7 (ê=2B) in-place
-    (4956, 'Difficulty Class', 'Difficulté de Sort'),  # 16<19 REPOINT (validé 2026-05-20 — tooltip Grimoire)
+    (4956, 'Difficulty Class', 'Difficulté de Sort'),  # 16<19 REPOINT (validé 2026-05-20 : tooltip Grimoire)
     (4098, 'Collected Spells', 'Sorts Collectés'),     # 16=16 in-place (validé idem)
     (9344, 'Prepared Spells', 'Sorts Préparés'),       # 15<16 REPOINT (validé idem)
-    (2240, '<i>one single time</i>', '<i>une unique fois</i>'),  # 22=22 in-place — résout le bug Quest_34
-    # (4535, 'DC', 'DD'),  # DISABLED 2026-05-20 — patcher littéral "DC" → "DD" casse le stripping du préfixe DC dans choices Ink
+    (2240, '<i>one single time</i>', '<i>une unique fois</i>'),  # 22=22 in-place : résout le bug Quest_34
+    # (4535, 'DC', 'DD'),  # DISABLED 2026-05-20, patcher littéral "DC" → "DD" casse le stripping du préfixe DC dans choices Ink
 
     # ---- Time of day + action verbs (smoke test passé 2026-05-19) ----
     (5178, 'EVENING', 'SOIR'),          # 7>4 in-place
@@ -162,7 +162,7 @@ DATE_PATCHES = [
     (8363, 'NIGHT', 'NUIT'),            # 5>4 in-place
     (2441, 'AFTERNOON', 'TANTÔT'),      # 9>7 (Ô=2B) in-place
     (2473, 'ASSASSINATIONS', 'ASSASSINATS'),  # 14>11 in-place
-    # (9551, 'ROLL', 'JET'),  # DISABLED 2026-05-20 — même bug que DC→DD : casse le stripping du préfixe ROLL dans choices Ink
+    # (9551, 'ROLL', 'JET'),  # DISABLED 2026-05-20, même bug que DC→DD : casse le stripping du préfixe ROLL dans choices Ink
     (7497, 'Journal Updated', 'Journal mis à jour'),  # repoint 15<18 (notif HUD)
 
     # ---- Factions politiques manquantes (Agrarian/Arcanist/Azgalist) ----
@@ -172,16 +172,16 @@ DATE_PATCHES = [
     (2491, 'AZGALIST', 'AZGALISTE'),    # 8<9 repoint
     (2811, 'Arcanist', 'Arcaniste'),    # 8<9 repoint
     (3006, 'Azgalist', 'Azgaliste'),    # 8<9 repoint
-    (12051, 'Touch', 'Toucher'),        # 5<7 repoint — verbe d'action
+    (12051, 'Touch', 'Toucher'),        # 5<7 repoint : verbe d'action
 
     # ---- Day format (HUD bas-droit + save preview) ----
     # DISTINCTION CRITIQUE: idx 4737 'Day' standalone casse save preview (Clerc XX/DebugArea).
     # Idx 4738 'Day ' (avec espace) + idx 4739 'Day 1' (spécifique) SONT safe.
-    (4738, 'Day ', 'Jour '),            # 4<5 repoint — format "Day N" -> "Jour N"
-    (4739, 'Day 1', 'Jour 1'),          # 5<6 repoint — préview save day 1 spécifique
+    (4738, 'Day ', 'Jour '),            # 4<5 repoint : format "Day N" -> "Jour N"
+    (4739, 'Day 1', 'Jour 1'),          # 5<6 repoint : préview save day 1 spécifique
 
     # ---- Level format (similaire à Day, idx 7734 'Level ' safe) ----
-    (7734, 'Level ', 'Niveau '),        # 6<7 repoint — HUD "Lv X Cleric"
+    (7734, 'Level ', 'Niveau '),        # 6<7 repoint : HUD "Lv X Cleric"
 
     # ---- Dialogues narrateur Cleric ----
     (13586, '[Lone Cleric] ', '[Seul Clerc] '),
@@ -210,8 +210,8 @@ DATE_PATCHES = [
             'Vider la bourse ? Tous les objets stockés iront dans votre inventaire.'),
 
     # ---- CONFIRMÉS CASSER LE JEU (à NE PAS patcher en metadata) ----
-    # (7260, 'Inventory', 'Inventaire') — slots inventaire disparaissent (binding key)
-    # (10499, 'Spells', 'Sorts') — Grimoire affiche "X SORTS" au lieu du compte
+    # (7260, 'Inventory', 'Inventaire'), slots inventaire disparaissent (binding key)
+    # (10499, 'Spells', 'Sorts'), Grimoire affiche "X SORTS" au lieu du compte
     # NOTE: Collected/Prepared Spells RE-TESTÉS 2026-05-20 isolément = OK !
     # Le faux positif venait probablement du patch Spells (idx 10499) ou Inventory
     # (idx 7260) dans la même batch test. Repointed avec FR complète maintenant.
@@ -226,14 +226,14 @@ DATE_PATCHES = [
     # (13125, 'Weaponry', ...), (4098, 'Collected Spells', ...), (9344, 'Prepared Spells', ...),
     # (10499, 'Spells', ...), (4956, 'Difficulty Class', ...)
 
-    # ---- Speaker label (idx 13338/13324 might be binding keys — REMOVED) ----
+    # ---- Speaker label (idx 13338/13324 might be binding keys, REMOVED) ----
     # (13338, 'You', 'Toi'),
     # (13324, 'YOU', 'TOI'),
 
-    # ---- Quit menu (RISKY — might be button name binding) ----
+    # ---- Quit menu (RISKY : might be button name binding) ----
     # (9511, 'Quit', 'Quitter'),
 
-    # ---- Session intro (Continue screen) — long Ink-style strings, safe ----
+    # ---- Session intro (Continue screen) : long Ink-style strings, safe ----
     (13375, 'You didn\'t make it far last time. That\'s my bad.',
             'T\'es pas allé loin avant. C\'est ma faute.'),
     (248, ' Ready for another round?\\n\\nIf you want a tip: prepare spells at the shrine, then heal yourself. And eat some apples. That should get you through the <i>lichhouse gauntlet</i>.',
@@ -254,14 +254,14 @@ PATCHES = [
     (1737, '1st level Spellslots +', 'Slots de sort niv 1 +'),
     (1793, '2nd level Spellslots +', 'Slots de sort niv 2 +'),
     (1804, '3rd level Spellslots +', 'Slots de sort niv 3 +'),
-    (10500, 'Spells to Prepare: ', 'Sorts à préparer : '),  # REPOINT — mot complet (avant: 'prép.')
+    (10500, 'Spells to Prepare: ', 'Sorts à préparer : '),  # REPOINT : mot complet (avant: 'prép.')
     (6501, 'Hit Dice +1', 'Dés de Vie +1'),
 
     # ---- Inventory/UI count formats ----
     (221, ' Cantrips\\n', ' Tours\\n'),
     (255, ' Spells', ' Sorts'),
 
-    # ---- Categorical labels (testing — single-word strings are riskier as they may be used as keys) ----
+    # ---- Categorical labels (testing : single-word strings are riskier as they may be used as keys) ----
     (10701, 'Success', 'Succès'),
     (5850, 'Failure', 'Échec'),
 
@@ -273,7 +273,7 @@ PATCHES = [
     (10503, 'Spend 1 hour to recover. Gain (1d8) HP, remove 1 level of exhaustion, and restore 1 spell slot. After resting, all dice checks are unlocked.',
             'Profite d\'1h pour récupérer. Gagne (1d8) PV, retire 1 niveau d\'épuisement, restaure 1 emplacement de sort. Les jets se débloquent.'),
 
-    # ---- Previously oversized — now FULL FRENCH via repoint ----
+    # ---- Previously oversized : now FULL FRENCH via repoint ----
     (9816, 'Resurgent: Regain 2 uses of spent Hit Dice.', 'Renaissant : Récupère 2 usages de Dés de Vie.'),
     (8983, 'Out of Hit Dice.', 'Plus de Dés de Vie.'),
     (6501, 'Hit Dice +1', 'Dés de Vie +1'),
@@ -282,7 +282,7 @@ PATCHES = [
     (375, ' healing. You lose a level of exhaustion.', ' soin. Niveau d\'épuisement +1.'),
     (5317, 'Energized: Get rid of 1 level of Exhaustion.', 'Énergisé : -1 niv. d\'épuisement.'),
 
-    # ---- Notes de session (load game recap, par Chris le dev) — REPOINT (FR plus long) ----
+    # ---- Notes de session (load game recap, par Chris le dev), REPOINT (FR plus long) ----
     (48, "\\n\\nOh, and remember: there's still that heavy table to be flipped inside the tea shop. Bring Snell, he should be able to help.",
          "\\n\\nOh, et n'oublie pas : il reste cette lourde table à renverser dans le salon de thé. Emmène Snell, il devrait pouvoir aider."),
     (112, " \\n\\nAnd then there's that masked assassin. You have NO CLUE who has it out for you.",
@@ -316,7 +316,7 @@ PATCHES = [
     (13499, "[But I promise: you'll be able to delve <i>much</i> deeper on release day. -Chris]",
             "[Mais promis : tu pourras explorer <i>bien</i> plus profond le jour de la sortie. -Chris]"),
 
-    # ---- Réactions joueur (refus d'action, voix intérieure) — stringLiteral sûr ----
+    # ---- Réactions joueur (refus d'action, voix intérieure), stringLiteral sûr ----
     (8451, 'Need to rest before I do that.', 'Besoin de me reposer avant de faire ça.'),
     (3500, 'Can\'t afford that.', 'Pas les moyens.'),
     (3507, 'Can\'t eat, too full.', 'Trop plein pour manger.'),
@@ -329,9 +329,9 @@ PATCHES = [
     (5207, 'Effortless',  'Trivial'),      # 10 → 7 in-place
     (8088, 'Medium',      'Moyen'),        # 6 → 5 in-place
     (10323, 'Simple',     'Simple'),       # 6 → 6 same (no change but documented)
-    # 'Impossible' (idx 6767) reste 'Impossible' en FR — pas de patch
+    # 'Impossible' (idx 6767) reste 'Impossible' en FR, pas de patch
 
-    # ---- Notes de session — additional Chris narrator strings (group 100-280) ----
+    # ---- Notes de session : additional Chris narrator strings (group 100-280) ----
     (113, " \\n\\nAs it looks now, there's only one more place to look: <i>The City Below</i>. Your star witness, this <i>Frank son of Frank</i>, seems to have been heading that way. It's time to follow, down into the Below...",
           " \\n\\nPour l'instant, il ne reste qu'un seul endroit à examiner : <i>La Cité Inférieure</i>. Ton témoin clé, ce <i>Frank fils de Frank</i>, semble s'y être rendu. Il est temps de suivre, là-bas en bas..."),
     (114, " \\n\\nBeyond that, you also found the owner. That bird was trying to <i>ship himself</i> across the Coast. Luckily you got to him before his crate got spirited away.",
@@ -405,16 +405,16 @@ def patch_strings_section(raw, version, sOff, sSize):
     Each string is null-terminated. We can replace in-place if new_bytes + \\0 fits in old slot.
     """
     section = raw[sOff:sOff+sSize]
-    # (find_bytes, replace_with_str_no_null) — find must include null terminator
+    # (find_bytes, replace_with_str_no_null), find must include null terminator
     patches = [
         (b'Success\0', 'Succès'),
         (b'Failure\0', 'Échec'),
-        # Stats — likely safe (enum values stored as int in save, not string)
+        # Stats : likely safe (enum values stored as int in save, not string)
         (b'Strength\0', 'Force'),
         (b'Dexterity\0', 'Dextérit'),  # 9 bytes UTF-8 fits in 10 slot
         (b'Wisdom\0', 'Sage'),
         (b'Charisma\0', 'Charisme'),  # 8 bytes fits exact in 9 slot
-        # Day/Level/Cleric retired — broke save preview earlier
+        # Day/Level/Cleric retired : broke save preview earlier
         # ---- Journal section enum names (validés 2026-05-19, mêmes mécanique que stats) ----
         (b'City\0', 'Cite'),         # 4=4 (no accent to fit slot)
         (b'Skills\0', 'Talent'),     # 6=6 (corrigé : 'Doués' n'avait pas le bon sens)
@@ -427,7 +427,7 @@ def patch_strings_section(raw, version, sOff, sSize):
         (b'Religion\0', 'Religion'), # 8=8 same
         (b'Nature\0', 'Nature'),     # 6=6 same
         (b'Literature\0', 'Romans'), # 6 fits 10 (corrigé : 'Lectures' moins juste)
-        # ---- Spell name (Bless) — tentative, observer si compteur Grimoire reste OK ----
+        # ---- Spell name (Bless) : tentative, observer si compteur Grimoire reste OK ----
         (b'Bless\0', 'Béni'),  # 5 UTF-8 (B-é-n-i, é=2B) fits 5
     ]
     for needle, replacement in patches:
@@ -521,7 +521,7 @@ def main():
     # Report joueurs Nexus (zones inaccessibles, Goblin Garden "scene not found", map coupée).
     # L'affichage FR des stats/journal vient des patches stringLiteral (idx), qui restent actifs.
     # patch_strings_section(raw, version, sOff, sSize)
-    print("[STRSEC] DÉSACTIVÉ (cassait la résolution de scripts/scènes) — voir hotfix v1.3.4")
+    print("[STRSEC] DÉSACTIVÉ (cassait la résolution de scripts/scènes), voir hotfix v1.3.4")
     print()
 
     appended = bytearray()  # bytes to append to end of stringLiteralData

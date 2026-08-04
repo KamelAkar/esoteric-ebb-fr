@@ -2,7 +2,7 @@
 
 Only short labels that fit the original Unity slot are translated. The long lore
 paragraphs cannot be translated this way (they would need re-serialization, which
-corrupts the level file — see the v1.3.4 crash). They stay English.
+corrupts the level file, see the v1.3.4 crash). They stay English.
 """
 import struct
 import shutil
@@ -12,7 +12,7 @@ STEAM = Path(r"C:\Program Files (x86)\Steam\steamapps\common\Esoteric Ebb\Esoter
 BACKUP_DIR = Path(__file__).resolve().parent.parent / "assets_backups"
 BACKUP_DIR.mkdir(parents=True, exist_ok=True)
 
-# (english, french) — french UTF-8 bytes must fit english slot = (4+len+3)&~3 - 4
+# (english, french), french UTF-8 bytes must fit english slot = (4+len+3)&~3 - 4
 PATCHES = [
     ("Strength", "Force"),          # 8 max8
     ("Dexterity", "Dextérité"),     # 9 max12 ; 11
